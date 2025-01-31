@@ -3,7 +3,7 @@ const Navbar = () =>
 {
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
         <div className="container-fluid">
           <a href="#" className="navbar-brand">Pop Culture Wiki</a>
         </div>
