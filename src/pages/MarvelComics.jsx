@@ -1,4 +1,5 @@
-
+import { Link } from "react-router-dom"
+import { marvelcharacters } from "../data"
 
 const MarvelComics = () => 
 {
@@ -31,17 +32,21 @@ const MarvelComics = () =>
         <div>
           <h2 className="article-heading">Characters</h2>
           <div className="row">
-            <div className="col-3">
-              <div className="card article-card">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/240px-Web_of_Spider-Man_Vol_1_129-1.png"
-                  class="card-img-top article-card-img"
-                  alt="" 
-                />
-                <div class="card-body">
-                  <a href="#" class="card-title">Spider-Man (Peter Parker)</a>
-                </div>
+            {marvelcharacters.map((character) => (
+              <div className="col-3" key={character.id}>
+                <Link to={character.route}>
+                  <div className="card article-card">
+                    <img src={character.img} 
+                      alt={character.title} 
+                      className="card-img-top article-card-img" 
+                    />
+                    <div className="body">
+                      <a href="#" className="card-title">{character.title}</a>
+                    </div>
+                  </div>
+                </Link>
               </div>
-            </div>
+            ))}
           </div>
         </div>
       </main>

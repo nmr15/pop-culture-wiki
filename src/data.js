@@ -102,3 +102,30 @@ export const topics = [
     "route": "/hpbooks"
   },
 ]
+
+export const marvelcharacters = [
+  {
+    "id": 1,
+    "title": "Spider-Man (Peter Parker)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/240px-Web_of_Spider-Man_Vol_1_129-1.png",
+    "route": "/marvelcomics/spiderman"
+  },
+  {
+    "id": 2,
+    "title": "Iron Man (Tony Stark)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Iron_Man_%28circa_2018%29.png/220px-Iron_Man_%28circa_2018%29.png",
+    "route": "/marvelcomics/ironman"
+  },
+  {
+    "id": 3,
+    "title": "Captain America (Steve Rogers)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/CaptainAmericaHughes.jpg/220px-CaptainAmericaHughes.jpg",
+    "route": "/marvelcomics/captainamerica"
+  },
+  {
+    "id": 4,
+    "title": "The Hulk (Bruce Banner)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Hulk_%28circa_2019%29.png/220px-Hulk_%28circa_2019%29.png",
+    "route": "/marvelcomics/hulk"
+  },
+]
