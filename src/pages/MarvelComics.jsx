@@ -40,7 +40,7 @@ const MarvelComics = () =>
                       alt={character.title} 
                       className="card-img-top article-card-img" 
                     />
-                    <div className="body">
+                    <div className="card-body">
                       <a href="#" className="card-title">{character.title}</a>
                     </div>
                   </div>

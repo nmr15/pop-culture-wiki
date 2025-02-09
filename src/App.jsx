@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
 import MarvelComics from "./pages/MarvelComics"
+import Spiderman from "./pages/Spiderman"
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/marvelcomics' element={<MarvelComics />} />
+        <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
       </Routes>
     </>
   )
