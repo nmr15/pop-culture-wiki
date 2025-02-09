@@ -1,4 +1,4 @@
-import React from 'react'
+import { topics } from "../data"
 
 const mainLinks = [
   {
@@ -37,10 +37,10 @@ const Home = () =>
 {
   return (
     <>
-      <div className="container-fluid">
-        <div className="row">
-          <nav class="sidebar col-md-3 col-lg-2 d-md-block bg-dark">
-            <div class="position-sticky">
+      {/* <div className="container-fluid"> */}
+        {/* <div className="row"> */}
+          <nav class="sidebar bg-dark">
+            {/* <div class="position-sticky"> */}
               <ul class="nav flex-column ">
                 <li class="nav-item">
                   <a href="#" class="nav-link sidebar-link">Home</a>
@@ -58,24 +58,24 @@ const Home = () =>
                   <a href="#" class="nav-link">Video Games</a>
                 </li>
               </ul>
-            </div>
+            {/* </div> */}
           </nav>
-          <main className="col-md-9 ml-sm-auto col-lg-10 px-md-4 py-4">
+          <main className="main  py-4">
             <div className="row">
-              {mainLinks.map((mainLink) => (
-                <div className="col-3" key={mainLink.id}>
+              {topics.map((topic) => (
+                <div className="col-3" key={topic.id}>
                   <div className="card">
-                    <img src={mainLink.img} alt={mainLink.title} className="card-img-top" />
+                    <img src={topic.img} alt={topic.title} className="card-img-top" />
                     <div className="card-body">
-                      <a href="#" className="card-title">{mainLink.title}</a>
+                      <a href="#" className="card-title">{topic.title}</a>
                     </div>
                   </div>
                 </div>
               ))}
             </div>
           </main>
-        </div>
-      </div>
+        {/* </div> */}
+      {/* </div> */}
     </>
   )
 }
