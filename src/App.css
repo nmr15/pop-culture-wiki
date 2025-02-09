@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*
+{
+  font-family: 'Roboto', sans-serif;
+}
 
 a
 {
@@ -17,6 +21,33 @@ a
 .main
 {
   margin-left: 15.625rem;
+}
+
+.img-right
+{
+  float: right;
+  clear: right;
+}
+
+.article-heading
+{
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #000;
+}
+
+.article-card
+{
+  width: 15rem !important;
+  margin: 0 auto !important;
+  border: none;
+}
+
+.article-card-img
+{
+  width: 15rem !important;
+  height: 20rem !important;
+  object-fit: cover !important;
+  text-align: center !important;
 }
 
 .card
