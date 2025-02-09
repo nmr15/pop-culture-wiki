@@ -128,4 +128,52 @@ export const marvelcharacters = [
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Hulk_%28circa_2019%29.png/220px-Hulk_%28circa_2019%29.png",
     "route": "/marvelcomics/hulk"
   },
+  {
+    "id": 5,
+    "title": "Thor",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Thor_by_Olivier_Coipel.png/220px-Thor_by_Olivier_Coipel.png",
+    "route": "/marvelcomics/thor"
+  },
+  {
+    "id": 6,
+    "title": "Hawkeye (Clint Barton)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png",
+    "route": "/marvelcomics/hawkeye"
+  },
+  {
+    "id": 7,
+    "title": "Black Widow (Natasha Romanova)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Black_Widow_1.png/220px-Black_Widow_1.png",
+    "route": "/marvelcomics/blackwidow"
+  },
+  {
+    "id": 8,
+    "title": "Vision",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
+    "route": "/marvelcomics/vision"
+  },
+  {
+    "id": 9,
+    "title": "Ant-Man (Hank Pym)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Hank_pym_1.jpg/220px-Hank_pym_1.jpg",
+    "route": "/marvelcomics/antman"
+  },
+  {
+    "id": 10,
+    "title": "Wasp (Janet van Dyne)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/AVEN071.jpg/220px-AVEN071.jpg",
+    "route": "/marvelcomics/wasp"
+  },
+  {
+    "id": 11,
+    "title": "Black Panther (T'Challa)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Black_Panther_OS_Vol_1_2.png/220px-Black_Panther_OS_Vol_1_2.png",
+    "route": "/marvelcomics/blackpanther"
+  },
+  {
+    "id": 12,
+    "title": "Captain Marvel (Carol Danvers)",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Carol_Danvers_-_%28evolution%29.jpg/220px-Carol_Danvers_-_%28evolution%29.jpg",
+    "route": "/marvelcomics/captainmarvel"
+  },
 ]

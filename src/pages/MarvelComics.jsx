@@ -12,7 +12,7 @@ const MarvelComics = () =>
         <div id="top">
           <h1 className="article-heading">Marvel Comics</h1>
         </div>
-        <div className="img-right">
+        <div className="img-right ms-3 pt-2">
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Marvel_Comics_2024_logo.svg/220px-Marvel_Comics_2024_logo.svg.png"
             alt="Marvelo Comics Logo" 
