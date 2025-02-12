@@ -6,71 +6,71 @@ const Spiderman = () =>
     <>
       <nav className="sidebar bg-dark">
         <ul>
-          <li><a href="#top">Top</a></li>
-          <div class="accordion">
-            <span class="accordion-toggle dropdown-toggle d-inline" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+          <li className="py-1"><a href="#top">Top</a></li>
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseOne"
               aria-expanded="true" aria-controls="collapseOne">
             </span>
-            <li class="d-inline"><a href="#1">Publication History</a>
+            <li class="d-inline ms-2"><a href="#1">Publication History</a>
               <ul id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li><a href="#1.1">Creation and development</a></li>
-                <li><a href="#1.2">Commercial success</a></li>
+                <li className="py-1"><a href="#1.1">Creation and development</a></li>
+                <li className="py-1"><a href="#1.2">Commercial success</a></li>
               </ul>
             </li>
           </div>
 
-          <div class="accordion">
-            <span class="accordion-toggle dropdown-toggle d-inline" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true"
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true"
               aria-controls="collapseTwo">
             </span>
-            <li class="d-inline"><a href="#2">Fictional character biography</a>
+            <li class="d-inline ms-2"><a href="#2">Fictional character biography</a>
               <ul id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li><a href="#2.1">Early years</a></li>
-                <li><a href="#2.2">1970s</a></li>
-                <li><a href="#2.3">1980s</a></li>
-                <li><a href="#2.4">1990s</a></li>
-                <li><a href="#2.5">2000s</a></li>
-                <li><a href="#2.6">2010s</a></li>
-                <li><a href="#2.7">2020s</a></li>
+                <li className="py-1"><a href="#2.1">Early years</a></li>
+                <li className="py-1"><a href="#2.2">1970s</a></li>
+                <li className="py-1"><a href="#2.3">1980s</a></li>
+                <li className="py-1"><a href="#2.4">1990s</a></li>
+                <li className="py-1"><a href="#2.5">2000s</a></li>
+                <li className="py-1"><a href="#2.6">2010s</a></li>
+                <li className="py-1"><a href="#2.7">2020s</a></li>
               </ul>
             </li>
           </div>
-          <li><a href="#3">Personality and themes</a></li>
-          <li><a href="#4">Powers, skills, and abilities</a></li>
-          <div class="accordion">
-            <span class="accordion-toggle dropdown-toggle d-inline" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+          <li className="py-1"><a href="#3">Personality and themes</a></li>
+          <li className="py-1"><a href="#4">Powers, skills, and abilities</a></li>
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseThree"
               aria-expanded="true" aria-controls="collapseThree">
             </span>
-            <li class="d-inline"><a href="#5">Other versions</a>
+            <li class="d-inline ms-2"><a href="#5">Other versions</a>
               <ul id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li><a href="5.1">Sky-Spider</a></li>
-                <li><a href="#5.2">Spider-Man from Earth-93165</a></li>
+                <li className="py-1"><a href="5.1">Sky-Spider</a></li>
+                <li className="py-1"><a href="#5.2">Spider-Man from Earth-93165</a></li>
               </ul>
             </li>
           </div>
-          <div class="accordion">
-            <span class="accordion-toggle dropdown-toggle d-inline" data-bs-toggle="collapse" data-bs-target="#collapseFour"
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFour"
               aria-expanded="true" aria-controls="collapseFour">
             </span>
-            <li class="d-inline"><a href="#6">Supporting cast</a></li>
+            <li class="d-inline ms-2"><a href="#6">Supporting cast</a></li>
             <ul id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li><a href="#6.1">Enemies</a></li>
-              <li><a href="#6.2">Romantic interests</a></li>
-              <li><a href="#6.3">Children</a></li>
-              <li><a href="#6.4">Alternate versions of Spider-Man</a></li>
+              <li className="py-1"><a href="#6.1">Enemies</a></li>
+              <li className="py-1"><a href="#6.2">Romantic interests</a></li>
+              <li className="py-1"><a href="#6.3">Children</a></li>
+              <li className="py-1"><a href="#6.4">Alternate versions of Spider-Man</a></li>
             </ul>
           </div>
-          <div class="accordion">
-            <span class="accordion-toggle dropdown-toggle d-inline" data-bs-toggle="collapse" data-bs-target="#collapseFive"
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFive"
               aria-expanded="true" aria-controls="collapseFive">
             </span>
-            <li class="d-inline"><a href="#7">Legacy</a></li>
+            <li class="d-inline ms-2"><a href="#7">Legacy</a></li>
             <ul id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li><a href="#7.1">Reception</a></li>
-              <li><a href="#7.2">Real-life comparisons</a></li>
+              <li className="py-1"><a href="#7.1">Reception</a></li>
+              <li className="py-1"><a href="#7.2">Real-life comparisons</a></li>
             </ul>
           </div>
-          <li><a href="#8">In other media</a></li>
+          <li className="py-1"><a href="#8">In other media</a></li>
         </ul>
       </nav>
       <main className="main px-5 py-4">

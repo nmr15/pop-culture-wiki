@@ -8,7 +8,6 @@ const Home = () =>
       {/* <div className="container-fluid"> */}
         {/* <div className="row"> */}
           <nav class="sidebar bg-dark">
-            {/* <div class="position-sticky"> */}
               <ul class="nav flex-column ">
                 <li class="nav-item">
                   <a href="#" class="nav-link sidebar-link">Home</a>
@@ -26,7 +25,6 @@ const Home = () =>
                   <a href="#" class="nav-link">Video Games</a>
                 </li>
               </ul>
-            {/* </div> */}
           </nav>
           <main className="main  py-4">
             <div className="row">

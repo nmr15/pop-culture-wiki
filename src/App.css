@@ -10,17 +10,38 @@ a
   text-decoration: none;
 }
 
+.nav-link
+{
+  color: #ffffff
+}
+
+.ptr
+{
+  cursor: pointer;
+}
+
 .sidebar
 {
-  width: 15.625rem;
+  width: 18.75rem;
   position: fixed;
   height: 100%;
   overflow: auto;
+  color: #fff;
+}
+
+.sidebar ul
+{
+  list-style: none;
+}
+
+.sidebar a
+{
+  color: #fff;
 }
 
 .main
 {
-  margin-left: 15.625rem;
+  margin-left: 18.75rem;
 }
 
 .img-right
