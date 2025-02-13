@@ -13,10 +13,11 @@ const Community = () =>
         <div id="top">
           <h1 className="article-heading">Community</h1>
         </div>
-        <div className="img-right pt-2" style={{width: "250px"}}>
+        <div className="img-right pt-2">
           <img
             src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
             alt="Community"
+            style={{ width: "250px" }}
           />
         </div>
         <div className="pt-2">
