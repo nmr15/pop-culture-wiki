@@ -7,6 +7,13 @@ const Community = () =>
           <li className="py-1">
             <a href="#top">Top</a>
           </li>
+          <li className="py-1">
+            <a href="#1">Premise</a>
+          </li>
+          <li className="py-1">
+            <a href="#2">Cast and characters</a>
+          </li>
+          <div className="accordion"></div>
         </ul>
       </nav>
       <main className="main px-5 py-4">
@@ -17,7 +24,7 @@ const Community = () =>
           <img
             src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
             alt="Community"
-            style={{ width: "250px" }}
+            className="article-heading-img"
           />
         </div>
         <div className="pt-2">
