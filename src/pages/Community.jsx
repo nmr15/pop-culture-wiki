@@ -13,7 +13,7 @@ const Community = () =>
         <div id="top">
           <h1 className="article-heading">Community</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right pt-2" style={{width: "250px"}}>
           <img
             src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
             alt="Community"
@@ -29,6 +29,23 @@ const Community = () =>
             <a href="#">Danny Pudi</a>, <a href="#">Yvette Nicole Brown</a>, <a href="#">Alison Brie</a>, <a href="#">Donald Glover</a>, <a href="#">Ken Jeong</a>,
             <a href="#">Chevy Chase</a>, and <a href="#">Jim Rash</a>. It makes use of meta-humor and pop culture references,
             paying homage to film and television clichés and tropes.
+          </p>
+          <p>
+            Harmon based Community on his experiences attending Glendale Community College.
+            Each episode was written in accordance with Harmon's "story circle" template, a
+            method designed to create effective and structured storytelling. Harmon was the
+            showrunner for the first three seasons byt was fired before the fourth and replaced by
+            David Guarascio and Moses Port. After weaker reviews, Harmon was rehired for the
+            fifth season, after which NBC canceled the series. Yahoo! Screen revived the show for
+            Community's sixth and final season.
+          </p>
+          <p>
+            Despite sturggling in the ratings, Community developed a cult following and received
+            acclaim for its acting, direction, writing, and meta-humor. It won a Primetime Emmy
+            Award from four nominations and received the Critics' Choice Television Award for Best
+            Comedy Series in 2012, among other accolades. In September 2022, after several
+            years of speculation and development, a featre-length Community film was announced
+            for NBCUniversal's streaming service <a href="#">Peacock</a>
           </p>
         </div>
       </main>
