@@ -297,6 +297,9 @@ const Spiderman = () =>
             "All-New, All-Different Marvel" event. Among them, The Amazing Spider-Man was relaunched and primarily focused on Peter
             Parker continuing to run Parker Industries and becomes a successful businessman who is operating worldwide.
           </p>
+        </div>
+        <div>
+          <h2 id="2">Fictional character biography</h2>
           <h3 class="pt-2" id="2.1">Early years</h3>
           <p>
             In Forest Hills, Queens, New York City, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with

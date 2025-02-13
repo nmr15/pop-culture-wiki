@@ -64,6 +64,13 @@ a
   border-bottom: 1px solid #000;
 }
 
+.article-heading-img
+{
+  width: 20rem;
+  height: 10rem;
+  object-fit: contain;
+}
+
 .article-card
 {
   width: 15rem !important;
