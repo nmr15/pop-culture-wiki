@@ -428,6 +428,54 @@ const Spiderman = () =>
             force <a href="#">H.A.M.M.E.R.</a> to advance his agenda, while using his public image to start his own <a href="#">Dark Avengers</a>. Norman, by himself, leads
             the Dark Avengers as the Iron Patriot, a suit of armor fashioned by himself after Iron Man's armor with Captain America's colors.
           </p>
+          <p>
+            Harry is approached by Norman with the offer of a job within the Dark Avengers. It is later revealed that it is a ruse to coerce Harry
+            into taking the American Son armor, whom Norman had planned to kill, in order to increase public sympathy. When Harry has the
+            option of killing Norman, Spider-Man says to decapitate him, since Norman's healing factor may repair a blow to the head. Spider-Man
+            also cautions Harry that killing Norman will cause Harry to "become the son Norman always wanted". Harry instead backs down
+            and turns away from his father forever.
+          </p>
+          <h3 className="pt-2" id="2.6">2010s</h3>
+          <p>
+            At <a href="#">Loki</a>'s suggestion, Norman Osborn <a href="#">creates a rationale</a> to invade <a href="#">Asgard</a>, claiming the world poses a national security threat. He is
+            defeated, and ends up incarcerated in the Raft penitentiary. A conflict between Doctor Octopus over Osborn's
+            son ends when it is revealed the child's father is Harry, who leaves town to raise him. One of Doctor Octopus' Octobots swaps his
+            and Spider-Man's personality, causing Peter to become trapped in the Doctor's dying body, while he in turn claimed Peter's life for
+            himself. Though Peter failed to reverse the change, he manages to establish a weak link with the Doctor's mind, forcing him to relive
+            all of his memories; Otto understands Peter's ideals of power and responsibility and swears to carry on with Peter's life with dignity as
+            a "Superior" Spider-Man.
+          </p>
+          <p>
+            A portion of Peter survived in his original body in the form of a subconsciousness. Later, realizingthat he failed in his role as the
+            "Superior" Spider-Man, Otto willingly allows Peter to reclaim his body in order to defeat Osborn and Save Anna Maria Marconi, Otto's
+            love. In the aftermath of these events, Peter began to amend the relationships damaged by Otto's arrogance and negligence, both
+            as Peter Parker and Spider-Man. He additionally took up the reins of Parker Industries, a small company founded by Otto after
+            leaving Horizon Labs.
+          </p>
+          <p>
+            Peter soon learns a second person had been bitten by the radioactive spider, <a href="#">Cindy Moon</a>. Spider-Man tracks her down and frees
+            her from a bunker owned by the late Ezekiel Simms. Not long after rescuing Cindy, who went on to adopt her own heroine identity
+            as Silk. Spider-Man encounters a contingent of spider-people from all over the <a href="#">Multiverse</a> that banded together to fight the
+            Inheritors, a group of psychic vampires who had begun to hunt down the spider-totems of other realities. During a mission to
+            gather more recruits in 2099, the Spider-Army stumbled upon another party of spider-people led by an alternate version of Otto
+            Octavius. Together, they neutralize the Inhertiors.
+          </p>
+          <p>
+            Peter then stops a nefarious plan put forward by the Jackal. After the events of "<a href="#">Go Down Swinging</a>", Peter's life was plagued with
+            problems on both sides. As Spider-Man, Mayor Fisk publicly supports him, condemning all other vigilantes in order to isolate him from
+            his superhero peers. As Peter Parker, his academic credentials were revoked after accusations of plagiarizing his doctoral
+            dissertation from Octavius, resulting in Peter being fired from the Daily Bugle. Subsequently, Peter became romantically involved with
+            Mary Jane. Briefly, Peter Parker and Spider-Man split into separate beings due to an accident involving the reverse-engineered
+            Isotope Genome Accelerator. Peter eventually manges to reverse the process, and merges his two halves back together before the
+            side-effects worsen and result in their death.
+          </p>
+          <h3 className="pt-2" id="2.7">2020s</h3>
+          <p>
+            Kindred uses the resurrected Sin-Eater's sins to possess Miles Morales, Spider-Gwen, Spider-Woman, Anya Corazon, and Julia
+            Carpenter. Doctor Strange, who manages to restrain a possessed Silk, agrees to help Spider-Man. However, Peter dies when fighting
+            Kindred. While dead, Peter's consciousness remembers the fateful day of the start of One More Day, Kindred is willing to resurrect
+            Peter.
+          </p>
         </div>
         <div>
         </div>
