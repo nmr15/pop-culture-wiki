@@ -38,39 +38,28 @@ const Spiderman = () =>
           <li className="py-1"><a href="#3">Personality and themes</a></li>
           <li className="py-1"><a href="#4">Powers, skills, and abilities</a></li>
           <div class="accordion py-1">
-            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-              aria-expanded="true" aria-controls="collapseThree">
-            </span>
-            <li class="d-inline ms-2"><a href="#5">Other versions</a>
-              <ul id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li className="py-1"><a href="5.1">Sky-Spider</a></li>
-                <li className="py-1"><a href="#5.2">Spider-Man from Earth-93165</a></li>
-              </ul>
-            </li>
-          </div>
-          <div class="accordion py-1">
             <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFour"
               aria-expanded="true" aria-controls="collapseFour">
             </span>
-            <li class="d-inline ms-2"><a href="#6">Supporting cast</a></li>
+            <li class="d-inline ms-2"><a href="#5">Supporting cast</a></li>
             <ul id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="py-1"><a href="#6.1">Enemies</a></li>
-              <li className="py-1"><a href="#6.2">Romantic interests</a></li>
-              <li className="py-1"><a href="#6.3">Children</a></li>
-              <li className="py-1"><a href="#6.4">Alternate versions of Spider-Man</a></li>
+              <li className="py-1"><a href="#5.1">Enemies</a></li>
+              <li className="py-1"><a href="#5.2">Romantic interests</a></li>
+              <li className="py-1"><a href="#5.3">Children</a></li>
+              <li className="py-1"><a href="#5.4">Alternate versions of Spider-Man</a></li>
             </ul>
           </div>
           <div class="accordion py-1">
             <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFive"
               aria-expanded="true" aria-controls="collapseFive">
             </span>
-            <li class="d-inline ms-2"><a href="#7">Legacy</a></li>
+            <li class="d-inline ms-2"><a href="#6">Legacy</a></li>
             <ul id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="py-1"><a href="#7.1">Reception</a></li>
-              <li className="py-1"><a href="#7.2">Real-life comparisons</a></li>
+              <li className="py-1"><a href="#6.1">Reception</a></li>
+              <li className="py-1"><a href="#6.2">Real-life comparisons</a></li>
             </ul>
           </div>
-          <li className="py-1"><a href="#8">In other media</a></li>
+          <li className="py-1"><a href="#7">In other media</a></li>
         </ul>
       </nav>
       <main className="main px-5 py-4">
@@ -297,6 +286,9 @@ const Spiderman = () =>
             "All-New, All-Different Marvel" event. Among them, The Amazing Spider-Man was relaunched and primarily focused on Peter
             Parker continuing to run Parker Industries and becomes a successful businessman who is operating worldwide.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="2">Fictional character biography</h2>
           <h3 class="pt-2" id="2.1">Early years</h3>
           <p>
             In Forest Hills, Queens, New York City, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with
@@ -476,6 +468,54 @@ const Spiderman = () =>
             Kindred. While dead, Peter's consciousness remembers the fateful day of the start of One More Day, Kindred is willing to resurrect
             Peter.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="3">Personality and themes</h2>
+          <p>
+            Sally Kempton for the Village Voice ipined in 1965 that "Spider-Man has a terrible identity problem, a marked inferiority complex,
+            and a fear of women. He is antisocial, castration-ridden, racked with Oedipal guilt, and accident-prone ... a functioning neurotic".
+            Agonizing over his choices, always attempting to do right, he is nonetheless viewed with suspicion by the authorities, who seem unsure
+            as to whether he is a helpful vigilante or a clever criminal.
+          </p>
+          <p>
+            Cultural historian Bradford W. Wright notes:
+          </p>
+          <p className="article-quote">
+            Spider-Man's plight was to be misunderstood and persecuted by the very public that he swore to protect. In the first issue of The Amzaing Spider-Man,
+            J. Jonah Jameson, publisher of the Daily Bugle, launches an editorial campaign agains the "Spider-Man menace". The resulting negative publicity
+            exacerbates popular suspicions about the mysterious Spider-Man and make it impossible for him to earn any more money by performing. Eventually, the
+            bad press leads the authorities to brand him an outlaw. Ironically, Peter finally lands a job as a photographer for Jameson's Daily Bugle.
+          </p>
+          <p>
+            The mid-1960s stories reflect the political tensions of the time; early 1960s Marvel stories often deal with the Cold War and communism. Wright writes:
+          </p>
+          <p className="article-quote">
+            From his high-school beginnings to his entry into college life, Spider-man remained the superhero most relevant to the world
+            of young people. Fittingly, then, his comic book also contained some of the earliest references to the politics of young people.
+            In 1968, in the wake of actual militant student demonstrations at Columbia University, Peter Parker finds himself in the midst
+            of similar unrest at his Empire State University... Peter has to reconcile his natural sympathy for the students with his
+            assumed obligation to combat lawlessness as Spider-Man. As a law-upholding liberal, he finds himself caught between
+            militant leftism and angry conservatives.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="4">Poers, skills, and equipment</h2>
+          <p>
+            Peter Parker has superhuman spider-powers and abilities derived from mutations resulting from the bite of a radioactive spider.
+            Since the original Lee-Ditko stories, Spider-Man has had the ability to cling to walls. This has been speculated to be based on a
+            distance-dependent interaction between his body and surfaces, known as the van der Waals force, though in the <a href="#">2002 Spider-Man film</a>, 
+            his hands and feet are lined with tiny clinging cilia in the manner of a real spider's feet. Spider-Man's other powers include
+            superhuman strength, speed, agility, and balance and a precognitive sixth sense referred to as his "spider-sense", which alerts him to danger.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="5">Supporting cast</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="6">Legacy</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="7">In other media</h2>
         </div>
         <div>
         </div>
