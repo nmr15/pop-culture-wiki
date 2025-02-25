@@ -33,7 +33,7 @@ export const topics = [
     "id": 6,
     "title": "The Beatles",
     "img": "https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png",
-    "route": "/thebeatles"
+    "route": "/beatles"
   },
   {
     "id": 7,
