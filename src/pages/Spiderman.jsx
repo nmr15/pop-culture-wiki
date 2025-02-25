@@ -507,6 +507,22 @@ const Spiderman = () =>
             his hands and feet are lined with tiny clinging cilia in the manner of a real spider's feet. Spider-Man's other powers include
             superhuman strength, speed, agility, and balance and a precognitive sixth sense referred to as his "spider-sense", which alerts him to danger.
           </p>
+          <p>
+            Spider-Man has a healing factor that allows him to recover from injuries sustained during battle. In the aftermath of the 1989
+            "<a href="#">Acts of Vengeance</a>" storyline, Spider-Man was said to have "superhuman recuperative abilities" that sped up his recovery from the
+            exhaustion he suffered in defeating the Tri-Sentinel.
+          </p>
+          <p>
+            The character was originally conceived by Stan Lee and Steve Ditko as intellectually gifted, and later writers have depicted his
+            intellect at genius level. Academically brilliant, Peter has expertise in the fields of applied science, chemistry, physics, biology,
+            engineering, mathematics, and mechanics.
+          </p>
+          <p>
+            With his talents, he sews his own costume to conceal his identity, and he constructs many devices that complement his powers, most
+            notably mechanical web-shooters that allow him to shoot webs, swing at high speed throughout the city, and navigate and trap his
+            enemies with his webs, additionally with a spider-signal as a flashlight and a warning beacon to criminals. Thomas Fireheart's
+            scientits, world-renowned, and unable to replicate the fluid Parker created while hin high school.
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="5">Supporting cast</h2>
