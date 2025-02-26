@@ -22,12 +22,9 @@ const Himym = () =>
         </div>
         <div className="pt-2">
           <p>
-            <b>The Beatles</b> were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
-            <a href="#">George Harrison</a>, and <a href="#">Ringo Starr</a>. They are widely regarded as the most influential band in Western popular music and were integral to the
-            development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated elements of
-            classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in
-            recording, songwriting, and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and
-            sociocultural movements
+            <b>How I Met Your Mother</b> is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005,
+            to March 31, 2014, follows main character <a href="#">Ted Mosby</a> and his group of friends in New York City's Manhattan. As a frame story, Ted (in 2030)
+            recounts to his daughter Penny and son Luke the events from September 2005 to May 2013 that led to him meeting <a href="#">their mother</a>.
           </p>
         </div>
       </main>
