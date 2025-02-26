@@ -21,7 +21,7 @@ const Spongebob = () =>
           />
         </div>
         <div className="pt-2">
-          <<p>
+          <p>
             <b>Spongebob Squarepants</b> is an American animated television series created by marine science educator and animator <a href="#">Stephen Hillenburg</a>
             for <a href="#">Nickelodeon</a>. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on
             July 17, 1999. It chronicles the adventures of <a href="#">Spongebob Squarepants</a> and his aquatic friends in the underwater city of <a href="#">Bikini Bottom</a>.
