@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
+import AssassinsCreed from "./pages/AssassinsCreed"
 import Beatles from "./pages/Beatles"
 import Community from "./pages/Community"
 import Gta from "./pages/Gta"
@@ -28,6 +29,7 @@ function App() {
         <Route path='/spongebob' element={<Spongebob />} />
         <Route path='/himym' element={<Himym />} />
         <Route path='/gta' element={<Gta />} />
+        <Route path='/assassinscreed' element={<AssassinsCreed />} />
       </Routes>
     </>
   )
