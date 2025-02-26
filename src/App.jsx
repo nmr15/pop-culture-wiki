@@ -7,6 +7,7 @@ import Community from "./pages/Community"
 import MarvelComics from "./pages/MarvelComics"
 import Mcu from "./pages/Mcu"
 import Spiderman from "./pages/Spiderman"
+import Spongebob from "./pages/Spongebob"
 import StarWars from "./pages/StarWars"
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path='/starwars' element={<StarWars />} />
         <Route path='/community' element={<Community />} />
         <Route path='/beatles' element={<Beatles />} />
+        <Route path='/spongebob' element={<Spongebob />} />
       </Routes>
     </>
   )
