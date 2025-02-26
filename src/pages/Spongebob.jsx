@@ -21,13 +21,10 @@ const Spongebob = () =>
           />
         </div>
         <div className="pt-2">
-          <p>
-            <b>The Beatles</b> were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
-            <a href="#">George Harrison</a>, and <a href="#">Ringo Starr</a>. They are widely regarded as the most influential band in Western popular music and were integral to the
-            development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated elements of
-            classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in
-            recording, songwriting, and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and
-            sociocultural movements
+          <<p>
+            <b>Spongebob Squarepants</b> is an American animated television series created by marine science educator and animator <a href="#">Stephen Hillenburg</a>
+            for <a href="#">Nickelodeon</a>. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on
+            July 17, 1999. It chronicles the adventures of <a href="#">Spongebob Squarepants</a> and his aquatic friends in the underwater city of <a href="#">Bikini Bottom</a>.
           </p>
         </div>
       </main>
