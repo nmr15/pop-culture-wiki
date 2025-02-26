@@ -4,6 +4,7 @@ import Home from "./pages/Home"
 import './App.css'
 import Beatles from "./pages/Beatles"
 import Community from "./pages/Community"
+import Himym from "./pages/Himym"
 import MarvelComics from "./pages/MarvelComics"
 import Mcu from "./pages/Mcu"
 import Spiderman from "./pages/Spiderman"
@@ -24,6 +25,7 @@ function App() {
         <Route path='/community' element={<Community />} />
         <Route path='/beatles' element={<Beatles />} />
         <Route path='/spongebob' element={<Spongebob />} />
+        <Route path='/himym' element={<Himym />} />
       </Routes>
     </>
   )
