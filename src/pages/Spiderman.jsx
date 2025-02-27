@@ -499,7 +499,7 @@ const Spiderman = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="4">Poers, skills, and equipment</h2>
+          <h2 className="article-heading" id="4">Powers, skills, and equipment</h2>
           <p>
             Peter Parker has superhuman spider-powers and abilities derived from mutations resulting from the bite of a radioactive spider.
             Since the original Lee-Ditko stories, Spider-Man has had the ability to cling to walls. This has been speculated to be based on a
@@ -543,6 +543,19 @@ const Spiderman = () =>
             after merging with the <a href="#">Venom symbiote</a>. Meanwhile, <a href="#">Harry Osborn</a>, son of Norman Osborn, is most commonly
             recognized as Peter's best friend, although some versions depicted him as his rival.
           </p>
+          <div className="row">
+            <div className="col-3">
+              <div className="card character-card">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mary_Jane_Watson_%28circa_2007%29.png/220px-Mary_Jane_Watson_%28circa_2007%29.png" 
+                  alt=""
+                  className="card-img-top character-card-img" 
+                />
+                <div className="card-body">
+                  <p className="card-title">Mary Jane Watson</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         <div>
           <h2 className="article-heading" id="6">Legacy</h2>
