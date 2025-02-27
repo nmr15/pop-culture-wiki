@@ -526,6 +526,23 @@ const Spiderman = () =>
         </div>
         <div>
           <h2 className="article-heading" id="5">Supporting cast</h2>
+          <p>
+            Spider-Man has had a large range of supporting characters introduced in the comics that are essential in the issues and storiylines
+            that star him. After <a href="#">his parents</a> died, Peter Parker was raised by his loving aunt, <a href="#">May Parker</a>, and his
+            uncle and father figure, <a href="#">Ben Parker</a>. After Uncle Ben is murdered by a burglar, Aunt May is virtually Peter's only family,
+            and she and Peter are very close.
+          </p>
+          <p>
+            <a href="#">J. Jonah Jameson</a> is the publisher of the <a href="#">Daily Bugle</a> and Peter Parker's boss. A harsh critic of Spider-Man,
+            he constantly features negative articles about the superhero in his newspaper. Despire his role as Jameson's editor and confidant,
+            <a href="#">Robbie Robertson</a> is always depicted as a supporter or both Spider-Man and his alter ego Peter Parker.
+          </p>
+          <p>
+            <a href="#">Eugene "Flash" Thompson</a> is commonly depicted as Peter Parker's high school tormentor and bully, who idolizes
+            Spider-Man, but is unaware that Spider-Man is Peter Parker, he comes a friend of Peter and adopts his own superhero identity, Agent Venom,
+            after merging with the <a href="#">Venom symbiote</a>. Meanwhile, <a href="#">Harry Osborn</a>, son of Norman Osborn, is most commonly
+            recognized as Peter's best friend, although some versions depicted him as his rival.
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="6">Legacy</h2>
