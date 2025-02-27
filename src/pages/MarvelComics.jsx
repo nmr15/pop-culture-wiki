@@ -35,10 +35,10 @@ const MarvelComics = () =>
             {marvelcharacters.map((character) => (
               <div className="col-3" key={character.id}>
                 <Link to={character.route}>
-                  <div className="card article-card">
+                  <div className="card character-card">
                     <img src={character.img} 
                       alt={character.title} 
-                      className="card-img-top article-card-img" 
+                      className="card-img-top character-card-img" 
                     />
                     <div className="card-body">
                       <a href="#" className="card-title">{character.title}</a>
