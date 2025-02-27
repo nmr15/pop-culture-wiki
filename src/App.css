@@ -71,14 +71,14 @@ a
   object-fit: contain;
 }
 
-.article-card
+.character-card
 {
   width: 15rem !important;
   margin: 0 auto !important;
   border: none;
 }
 
-.article-card-img
+.character-card-img
 {
   width: 15rem !important;
   height: 20rem !important;
