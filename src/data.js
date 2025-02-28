@@ -178,7 +178,7 @@ export const marvelcharacters = [
   },
 ]
 
-export const spidermancharacter = [
+export const spidermancharacters = [
   {
     "id": 1,
     "title": "Mary Jane Watson",
