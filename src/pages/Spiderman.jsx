@@ -1,4 +1,5 @@
-import React from 'react'
+import { Link } from 'react-router-dom'
+import { spidermancharacters } from '../data'
 
 const Spiderman = () => 
 {
@@ -544,7 +545,23 @@ const Spiderman = () =>
             recognized as Peter's best friend, although some versions depicted him as his rival.
           </p>
           <div className="row">
-            <div className="col-3">
+            {spidermancharacters.map((character) => (
+              <div className="col-3" key={character.id}>
+                <Link to={character.route}>
+                  <div className="card character-card">
+                    <img 
+                      src={character.img}
+                      alt={character.title}
+                      className="card-img-top character-card"
+                    />
+                    <div className="card-body">
+                      <p className="card-title">{character.title}</p>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            ))}
+            {/* <div className="col-3">
               <div className="card character-card">
                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mary_Jane_Watson_%28circa_2007%29.png/220px-Mary_Jane_Watson_%28circa_2007%29.png" 
                   alt=""
@@ -554,8 +571,9 @@ const Spiderman = () =>
                   <p className="card-title">Mary Jane Watson</p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
+          <h3 className="pt-2" id="5.1">Enemies</h3>
         </div>
         <div>
           <h2 className="article-heading" id="6">Legacy</h2>
