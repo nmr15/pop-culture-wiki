@@ -183,24 +183,24 @@ export const spidermancharacters = [
     "id": 1,
     "title": "Mary Jane Watson",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mary_Jane_Watson_%28circa_2007%29.png/220px-Mary_Jane_Watson_%28circa_2007%29.png",
-    "route": "/marvelcomics/maryjanewatson
+    "route": "/marvelcomics/maryjanewatson"
   },
   {
     "id": 2,
     "title": "May Parker",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Aunt_May_Marvel_Comics.png/200px-Aunt_May_Marvel_Comics.png",
-    "route": "/marvelcomics/mayparker
+    "route": "/marvelcomics/mayparker"
   },
   {
     "id": 3,
     "title": "Ben Parker",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Uncle_Ben.png/220px-Uncle_Ben.png",
-    "route": "/marvelcomics/benparker
+    "route": "/marvelcomics/benparker"
   },
   {
     "id": 4,
     "title": "Gwen Stacy",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Gwen_Stacy_%28circa_2020%29.png/220px-Gwen_Stacy_%28circa_2020%29.png",
-    "route": "/marvelcomics/gwenstacy
+    "route": "/marvelcomics/gwenstacy"
   },
 ]
