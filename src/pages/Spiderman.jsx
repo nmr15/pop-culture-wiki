@@ -552,7 +552,7 @@ const Spiderman = () =>
                     <img 
                       src={character.img}
                       alt={character.title}
-                      className="card-img-top character-card"
+                      className="card-img-top character-card-img"
                     />
                     <div className="card-body">
                       <p className="card-title">{character.title}</p>
