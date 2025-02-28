@@ -82,7 +82,7 @@ a
 {
   width: 15rem !important;
   height: 20rem !important;
-  object-fit: cover !important;
+  object-fit: contain !important;
   text-align: center !important;
 }
 
