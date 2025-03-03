@@ -544,39 +544,67 @@ const Spiderman = () =>
             after merging with the <a href="#">Venom symbiote</a>. Meanwhile, <a href="#">Harry Osborn</a>, son of Norman Osborn, is most commonly
             recognized as Peter's best friend, although some versions depicted him as his rival.
           </p>
-          <div className="row">
-            {spidermancharacters.map((character) => (
-              <div className="col-3" key={character.id}>
-                <Link to={character.route}>
-                  <div className="card character-card">
-                    <img 
-                      src={character.img}
-                      alt={character.title}
-                      className="card-img-top character-card-img"
-                    />
-                    <div className="card-body">
-                      <p className="card-title">{character.title}</p>
-                    </div>
-                  </div>
-                </Link>
-              </div>
-            ))}
-            {/* <div className="col-3">
-              <div className="card character-card">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mary_Jane_Watson_%28circa_2007%29.png/220px-Mary_Jane_Watson_%28circa_2007%29.png" 
-                  alt=""
-                  className="card-img-top character-card-img" 
-                />
-                <div className="card-body">
-                  <p className="card-title">Mary Jane Watson</p>
-                </div>
-              </div>
-            </div> */}
-          </div>
           <h3 className="pt-2" id="5.1">Enemies</h3>
+          <p>
+            Writers and artists over th years have established a rogues gallery of supervillains to face Spider-Man, in comics and in other media.
+            As with Spider-Man, the majority of the villains' powers originate with scientific accidents or the misuse of scientific technology, and many
+            have animal-themed costumes or powers.
+          </p>
+          <h3 className="pt-2" id="5.2">Romantic interests</h3>
+          <p>
+            Peter Parker's romantic interests range between his first crush, fellow high-school student <a href="#">Liz Allan</a>, to having his first date
+            with <a href="#">Betty Brandt</a>, secretary to the <a href="#">Daily Bugle</a> newspaper publisher J. Jonah Jameson. After his breakup with
+            Betty Brandt, Peter eventually falls in love with his college girlfriend <a href="#">Gwen Stacy</a>, daughter of New York City Police Department
+            detective Captain <a href="#">George Stacy</a>, both of whom are later killed by supervillain enemies of Spider-Man. Mary Jane Watson became Peter's
+            best friend and eventually his wife. Felicia Hardy, the <a href="#">Black Cat</a>, is a reformed cat burglar who had been Spider-Man's sole superhuman
+            girlfriend and partner at one point.
+          </p>
+          <h3 className="pt-2" id="5.3">Children</h3>
+          <p>
+            Over the course of the comics, Peter Parker had several biological children across different continuities, usually with Mary Jane Watson,
+            including <a href="#">Spider-Girl (Mayday Parker)</a> and Benjy Parker from the MC2 universe, and Spiderling (Annie Parker) from Earth-18119.
+          </p>
+          <h3 className="pt-2" id="5.4">Alternate version of Spider-Man</h3>
+          <p>
+            Within the <a href="#">Marvel Universe</a>, there exists a multiverse with many variations of Spider-man. An early character included in the
+            1980s is the fictional anthropomorphic anmal parody of Spider-Man as a pig name <a href="#">Spider-Ham</a> (Peter Porker). Many imprints of
+            Spider-Man were created, like the futuristic version of Spider-Man in <a href="#">Marvel 2099</a> name <a href="#">Miguel O'Hara</a>. In the <a href="#">Marvel Comics 2</a>
+            imprint, Peter marries Mary Jane and has a daughter named Mayday Parker, who carries on Spider-Man's legacy, while <a href="#">Marvel Noir</a>
+            has a 1930s version <a href="#">of Peter Parker</a>. Other themed versions exist wihtin the early 2000s, such as a <a href="#">Marvel Mangaverse</a>
+            version and an Indian version from <a href="#">Spider-Man: India</a>, <a href="#">Pavitr Prabhadkar</a>.
+          </p>
+          <p>
+            <a href="#">Ultimate Spider-Man</a> was a popular modern retelling of Spider-Man, <a href="#">Peter Parker</a>. The version of Peter Parker would later be depicted
+            as being killed off and replaced by a Black Hispanic Spider-man named <a href="#">Miles Morales</a>.
+          </p>
+          <p>
+            The storyline "<a href="#">Spider-Verse</a>" brought back many alternate takes on Spider-Man and introduced many new ones, such as an alternate
+            world where <a href="#">Gwen Stacy</a> gets bitten by a radioactive spider instead, along with a British-themed version named <a href="#">Spider-UK</a>, who is
+            Billy Braddock from the <a href="#">Captain British Corps</a>
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="6">Legacy</h2>
+          <p>
+            In the Creaton of Spider-Man, comic book writer-editor and historian Paul Kupperberg calls the character's superpowers "nothing too
+            original", what was original was that outside his secret identity, he was a "nerdy high school student." Going against typical
+            superhero fare, Spider-man included "heavy doses of soap-opera and elements of melodrama." Kupperberg feels that Lee and Ditko
+            had created something new in the world of comics: "the flawed superhero with everyday problems." This idea spawned a comics
+            revolution. The insecurity and anxieties in Marvel's early 1960s comic books, such as The Amazing Spider-Man, The Incredible
+            <a href="#">Hulk</a>, The <a href="#">Fantastic Four</a>, and The <a href="#">X-Men</a> ushered in a new type of superhero, very different from the certain and al-owerful
+            superheroes before them, and changed the public's perception of them. After the comics depicted a real address in Forest Hills,
+            Queens, New York, as May Parker's residence, its residents received many letters fro mchildred to the superhero.
+          </p>
+          <p>
+            Spider-Man has become on of the most recognizeable fictional characters in the world, and has been used to sell toys, games, cereal,
+            candy, soap, andmany other products. He has been used as the company mascot. When Marvel became the first comic book
+            company to be listed on the New York Stock Exchange in 1991, The Wall Street Journal announced "Spider-Man is coming to Wall
+            Street", the event was in turn promoted with an actor in a Spider-Man costume accompanying Stan Lee to the Stock Exchange.
+            Since 1962, hundreds of millions of comics featuring the character have been sold around the world. Spider-Man is th world's
+            most profitable superhero. In 2014, global retail sales of licensed products related to Spider-Man reached
+            approximately $1.3 billion. Comparatively, this amount exceeds the global licensing revenue of <a href="#">Batman,</a> <a href="#">Superman</a>, and the
+            <a href="#">Avengers</a> combined.
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="7">In other media</h2>
