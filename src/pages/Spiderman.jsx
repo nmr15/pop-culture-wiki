@@ -602,8 +602,30 @@ const Spiderman = () =>
             Street", the event was in turn promoted with an actor in a Spider-Man costume accompanying Stan Lee to the Stock Exchange.
             Since 1962, hundreds of millions of comics featuring the character have been sold around the world. Spider-Man is th world's
             most profitable superhero. In 2014, global retail sales of licensed products related to Spider-Man reached
-            approximately $1.3 billion. Comparatively, this amount exceeds the global licensing revenue of <a href="#">Batman,</a> <a href="#">Superman</a>, and the
+            approximately $1.3 billion. Comparatively, this amount exceeds the global licensing revenue of <a href="#">Batman,</a> <a href="#">Superman</a>, and the 
             <a href="#">Avengers</a> combined.
+          </p>
+          <p>
+            Spider-Man joined the Macy's Thanksgiving Day Parade from 1987 to 1998 as one of the balloon floats, designed by John Romita Sr., one of the character's signature
+            artists. A new, different Spider-Man balloon float also appeared from 2009 to 2014.
+          </p>
+          <p>
+            When Marvel wanted to issue a story dealing with the immediate aftermath of the September 11 attacks, the company chose the December 2001 issue of The Amazing Spider-Man.
+            In 2006, Spider-Man garnered major media coverage with the revelation of the character's secret identity, an event detailed in a full-page story in the New York Post
+            before the issue containing the story was even released.
+          </p>
+          <p>
+            In 2008, Marvel announced plans to release a series of educational comics the following year in partnership with the United Nations, depicting Spider-Man alongside the
+            UN Peacekeeping forces to highlight UN peacekeeping missions. A BusinessWeek article listed Spider-Man as one of the top 10 most intelligent fictional characters in American comics.
+          </p>
+          <p>
+            In 2015, the Supreme Court of the United States decided Kimble v. Marvel Entertainment, LLC, a case concerning royalties on a patent for an imitaion web shooter.
+            The opinion for the Court, by Justice Elena Kagan, included several Spider-Man references, concluding with the statement that
+            "with great power, there must also come great responsibility".
+          </p>
+          <p>
+            Spider-Man has become a subject of scientific inquirty. In 1987, researchers at Loyola University conducted a study into the utility of Spider-Man comics for
+            informing children and parents about issues relating to child abuse.
           </p>
         </div>
         <div>
