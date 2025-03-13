@@ -627,6 +627,21 @@ const Spiderman = () =>
             Spider-Man has become a subject of scientific inquirty. In 1987, researchers at Loyola University conducted a study into the utility of Spider-Man comics for
             informing children and parents about issues relating to child abuse.
           </p>
+          <h3 className="pt-2" id="6.1">Reception</h3>
+          <p>
+            In 2005, Bravo's Ultimate Super Heroes, Vixens, and Villains TV series declared that Spider-Man was the number 1 superhero. Empire magazine has ranked him the
+            fifth-greates comic book character of all time. Wizard magazine placed Spider-Man as the third-greatest comic book character on their website. In 2011,
+            Spider-Man placed third on IGN's Top 100 Comic Book Heroes of All Time, behind <a href="#">DC Comics</a> characters <a href="#">Superman</a> and <a href="#">Batman</a>,
+            and sixth in their 2012 list of "The Top 50 Avengers". In 2014, IGN identified Spider-Man the greates Marvel Comics character of all time. A 2015 poll at Comic Book
+            Resources named Spider-man the greates Marvel character of all time. IGN described him as the common everyman that represents many normal people, but also noted his
+            uniqueness compared to many superheroes with his depcted flaws as a superhero. IGN wrote that despite being one of the most tragic superheroes of all time, he is
+            "one of the most fun and snarky superheroes in existence." Empire praised Spider-man's always-present sense of humor and wisecracks in the face of the many tragedies
+            he faces. The magazine website appraised the depiction of his "iconic" superhero poses, described it as "a top artitst's dream."
+          </p>
+          <p>
+            George Marston of Newsarama called Spider-Man's origin the greatest origin story of all time, opining that "Spider-Man's origin combines all of the most classic
+            aspects of pathos, tragedy and scientific wonder into the perfect blend for a superhero origin."
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="7">In other media</h2>
