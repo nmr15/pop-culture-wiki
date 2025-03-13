@@ -642,6 +642,31 @@ const Spiderman = () =>
             George Marston of Newsarama called Spider-Man's origin the greatest origin story of all time, opining that "Spider-Man's origin combines all of the most classic
             aspects of pathos, tragedy and scientific wonder into the perfect blend for a superhero origin."
           </p>
+          <h3 className="pt-2" id="6.2">Real-life comparisons</h3>
+          <p>
+            Real-life people who have been compared to Spider-Man for their climbing feats include:
+          </p>
+          <p>
+            <ul>
+              <li>
+                In 1981, skyscraper-safety activist Dan Goodwin, waring a Spider-Man suit, scaled the Sears Tower in Chicago, Illinois, the Renaissance Tower in Dallas, Texas,
+                and the John Hancock Center in Chicago.
+              </li>
+              <li>
+                Alain Robert, nicknamed "Spider-Man", is a rock and urban climber who has scaled more than 70 tall buildings using his hands
+                and feet, without using additional devices. He sometimes wears a Spider-Man suit during his climbs. In May 2003, he was paid
+                approximately $18,000 to climb the 95-metre (312 ft) Lloyd's building to promote the premiere of the movie Spider-Man on the
+                British television channel Sky Movies.
+              </li>
+              <li>
+                "The Human Spider", alias Bill Strother, scaled the Lamar Building in Augusta, Georgia, in 1921.
+              </li>
+              <li>
+                In Argentina, criminals that climb buildings and trespass into private property through the open balconies are said to use the
+                "Spider-Man method" (in Spanish, <i>el Hombre Araña</i>).
+              </li>
+            </ul>
+          </p>
         </div>
         <div>
           <h2 className="article-heading" id="7">In other media</h2>
