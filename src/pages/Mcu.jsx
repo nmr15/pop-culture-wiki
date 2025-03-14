@@ -7,6 +7,26 @@ const Mcu = () =>
           <li className="py-1">
             <a href="#top">Top</a>
           </li>
+          <div class="accordion py-1">
+            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
+              aria-expanded="true" aria-controls="development">
+            </span>
+            <li class="d-inline ms-2"><a href="#1">Development</a>
+              <ul id="development" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <li className="py-1"><a href="#1.1">
+                  Marvel Studios films and series</a>
+                  <ul>
+                    <li className="py-1"><a href="#1.1.1">The Infinity Saga films</a></li>
+                    <li className="py-1"><a href="#1.1.2">The Multiverse Saga films and series</a></li>
+                    <li className="py-1"><a href="#1.1.3">Integration of mutant characters and the X-Men</a></li>
+                  </ul>
+                </li>
+                <li className="py-1"><a href="#1.2">Marvel Television series</a></li>
+                <li className="py-1"><a href="#1.3">Expansion to other media</a></li>
+                <li className="py-1"><a href="#1.4">Business practices</a></li>
+              </ul>
+            </li>
+          </div>
         </ul>
       </nav>
       <main className="main px-5 py-4">
