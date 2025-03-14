@@ -720,6 +720,59 @@ const Spiderman = () =>
           </p>
         </div>
         <div>
+          <table>
+            <thead>
+              <tr>
+                <th colspan="3">Spider-Man</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="3">Characters</td>
+                <td>Main character</td>
+                <td>Peter Parker</td>
+              </tr>
+              <tr>
+                <td>Supporting Characters</td>
+                <td>
+                  <ul class="table-list">
+                    <li>Mary Jane Watson</li>
+                    <li>May Parker</li>
+                    <li>Ben Parker</li>
+                    <li>Gwen Stacy</li>
+                    <li>Harry Osborn</li>
+                    <li>J. Jonah Jameson</li>
+                    <li>Richard and Mary Parker</li>
+                    <li>Liz Allan</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Antagonists</td>
+                <td>
+                  <ul class="table-list">
+
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Alternate versions</td>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td rowspan="3">
+                  Films
+                </td>
+                <td>Spider-Man</td>
+              </tr>
+              <tr>
+                <td>The Amazing Spider-Man</td>
+              </tr>
+              <tr>
+                <td>Marvel Cinematic Universe</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </main>
     </>
