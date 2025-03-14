@@ -670,6 +670,54 @@ const Spiderman = () =>
         </div>
         <div>
           <h2 className="article-heading" id="7">In other media</h2>
+          <p>
+            Spider-Man has appeared in comics, cartoons, films, video games, coloring books, novels, records, children's books, and theme park rides.
+            On television, he first starred in the ABC animated series <a href="#">Spider-Man</a> (1967 - 1970), <a href="#">Spidey Super Stories</a> (1974 - 1977)
+            on PBS, and the CBS live-action series <a href="#">The Amazing Spider-Man</a> (1978 - 1979), starring Nicholas Hammond. Other animated series
+            featuring the superhero include the <a href="#">syndicated Spider-Man</a> (1981 - 1982), <a href="#">Spider-Man and His Amazing Friends</a> (1981 - 1983),
+            Fox Kids' <a href="#">Spider-Man</a> (1994 - 1998), <a href="#">Spider-Man Unlimited</a> (1999 - 2000), <a href="#">Spider-Man: The New Animated Series</a> (2003),
+            <a href="#">The Spectacular Spider-Man</a> (2008 - 2009), <a href="#">Ultimate Spider-Man</a> (2012 - 2017), Disney XD's <a href="#">Spider-Man</a> (2017 - 2020),
+            and <a href="#">Spidey and His Amazing Friends</a> (2021 - present).
+          </p>
+          <p>
+            A tokusatsu series featuring Spider-Man was produced by Toei and aired in Japan. It is commonly reffered to by its Japanese
+            pronunciation Supaidā-Man. Spider-Man also appeared in other print forms besides the comics, including novels, children's
+            books, and the daily newspaper comic strip <a href="#">The Amazing Spider-Man</a>, which debuted in January 1977, with the earliest installments
+            written by Stan Lee and drawn by John Romita Sr. Spider-Man has been adapted to other media including games, toys,
+            collectibles, and miscellaneous memorabilia, and has appeared as the main character in <a href="#">numerous computer and video games</a> on
+            over 15 gaming platforms.
+          </p>
+          <p>
+            Spider-Man was featured in a <a href="#">trilogy of live-action films</a> directed by <a href="#">Sam Raimi</a> and starring <a href="#">Tobey maguire</a> as the <a href="#">titular superhero</a>.
+            The first <a href="#">Spider-Man</a> film of the trilogy was released on May 3, 2002, followed by <a href="#">Spider-Man 2</a> (2004) and <a href="#">Spider-Man 3</a> (2007). A
+            third sequel was originally scheduled to be released in 2011; however, <a href="#">Sony</a> later decided to reboot the franchise with a new director
+            and cast. The reboot, titled <a href="#">The Amazing Spider-Man</a>, was released on July 3, 2012, directed by <a href="#">Marc Webb</a>, and starred <a href="#">Andrew 
+            Garfield</a> as the <a href="#">new Spider-Man</a>. It was followed by <a href="#">The Amazing Spider-Man 2</a> (2014). In 2015, Sony and <a href="#">Disney</a> 
+            made a deal for Spider-Man to appear in the <a href="#">Marvel Cinematic Universe</a>. <a href="#">Tom Holland</a> made <a href="#">his debut as Spider-Man</a> in the MCU
+            film <a href="#">Captain America: Civil War</a> (2016), before later starring in his standalone film <a href="#">Spider-Man: Homecoming</a> (2017), directed by <a href="#">Jon 
+            Watts</a>. Holland reprised his role as Spider-Man in <a href="#">Avengers: Infinity War</a> (2018), <a href="#">Avengers: Endgame</a> (2019),
+            <a href="#">Spider-Man: Far From Home</a> (2019), and <a href="#">Spider-Man: No Way Home</a> (2021); Maguire and Garfield reprise their roles in the latter
+            film. <a href="#">Jake Johnson</a> voiced an alternate universe version of Spider-Man in the animated film <a href="#">Spider-Man: Into the Spider-Verse</a>,
+            and reprised the role in its sequel <a href="#">Spider-Man: Across the Spider-Verse</a> (2023). <a href="#">Chris Pine</a> also voiced another version of Peter
+            Parker in Into the Spider-Verse. In 2021, <a href="#">Hudson Thames</a> was cast as the voice of Spider-Man in the animated anthology series <a href="#">What 
+            If... ?</a>, replacing Tom Holland. He later reprised the role for the animated series <a href="#">Your Friendly Neighborhood Spider-Man</a> (2025).
+          </p>
+          <p>
+            Following a brief contract dispute over financial terms, in 2019, Sony and Disney reached a deal to allow Spider-Man to return to the
+            MCU, with the two studios jointly producing Spider-Man films.
+          </p>
+          <p>
+            A Broadway musical, Spider-Man: Turn Off the Dark, began previews on November 14, 2010, at the Foxwood Theatre on Broadway,
+            with the official opening night on June 14, 2011. The music and lyrics were written by <a href="#">Bono</a> and The Edge of the rock group
+            <a href="#">U2</a>, with a book by Julie Taymor, Glen Berger, andRoberto Aguirre-Sacasa. Turn Off the Dark is currently the most expensive
+            musical in Broadway history, costing an estimated $70 million. In addition, the show's unusually high runing costs are reported to
+            have been about $1.2 million per week.
+          </p>
+          <p>
+            In the fine arts, since the Pop Art period of the 1960s, the character of Spider-Man has been "appropriated" by multiple visual artists
+            and incorporated into contemporary artwork, including Andy Warhol, Roy Lichtenstein, Mel Ramos, Vijay, Dulce
+            Pinzon, Mr. Brainwash, and F. Lennox Campello.
+          </p>
         </div>
         <div>
         </div>
