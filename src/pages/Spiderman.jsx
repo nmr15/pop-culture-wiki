@@ -720,7 +720,7 @@ const Spiderman = () =>
           </p>
         </div>
         <div>
-          <table>
+          <table class="table-center">
             <thead>
               <tr>
                 <th colspan="3">Spider-Man</th>
@@ -736,40 +736,91 @@ const Spiderman = () =>
                 <td>Supporting Characters</td>
                 <td>
                   <ul class="table-list">
-                    <li>Mary Jane Watson</li>
-                    <li>May Parker</li>
-                    <li>Ben Parker</li>
-                    <li>Gwen Stacy</li>
-                    <li>Harry Osborn</li>
-                    <li>J. Jonah Jameson</li>
-                    <li>Richard and Mary Parker</li>
-                    <li>Liz Allan</li>
+                    <li><a href="#">Mary Jane Watson</a></li>
+                    <li><a href="#">May Parker</a></li>
+                    <li><a href="#">Ben Parker</a></li>
+                    <li><a href="#">Gwen Stacy</a></li>
+                    <li><a href="#">Harry Osborn</a></li>
+                    <li><a href="#">J. Jonah Jameson</a></li>
+                    <li><a href="#">Richard and Mary Parker</a></li>
+                    <li><a href="#">Liz Allan</a></li>
                   </ul>
                 </td>
               </tr>
               <tr>
-                <td>Antagonists</td>
+                <td>Enemies</td>
                 <td>
                   <ul class="table-list">
-
+                    <li><a href="#">Green Goblin</a></li>
+                    <li><a href="#">Doctor Octopus</a></li>
+                    <li><a href="#">Venom</a></li>
+                    <li><a href="#">Sandman</a></li>
+                    <li><a href="#">Lizard</a></li>
+                    <li><a href="#">Electro</a></li>
+                    <li><a href="#">Vulture</a></li>
+                    <li><a href="#">Mysterio</a></li>
+                    <li><a href="#">Rhino</a></li>
+                    <li><a href="#">Scorpion</a></li>
+                    <li><a href="#">Shocker</a></li>
+                    <li><a href="#">Kraven the Hunter</a></li>
+                    <li><a href="#">Black Cat</a></li>
+                    <li><a href="#">Chameleon</a></li>
+                    <li><a href="#">Kingpin</a></li>
+                    <li><a href="#">Tombstone</a></li>
+                    <li><a href="#">Hammerhead</a></li>
+                    <li><a href="#">Morbius</a></li>
+                    <li><a href="#">Carnage</a></li>
+                    <li><a href="#">Hobgoblin</a></li>
                   </ul>
                 </td>
               </tr>
               <tr>
                 <td>Alternate versions</td>
-                <td colspan="2"></td>
+                <td colspan="2">
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man (Raimi films)</a></li>
+                    <li><a href="#">Spider-Man (Webb films)</a></li>
+                    <li><a href="#">Spider-Man (MCU)</a></li>
+                    <li><a href="#">Miles Morales</a></li>
+                    <li><a href="#">Spider-Woman (Gwen Stacy)</a></li>
+                    <li><a href="#">Spider-Man 2099</a></li>
+                    <li><a href="#">Spider-Man Noir</a></li>
+                    <li><a href="#">Peni Parker</a></li>
+                    <li><a href="#">Spider-Ham</a></li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td rowspan="3">
                   Films
                 </td>
                 <td>Spider-Man</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man</a></li>
+                    <li><a href="#">Spider-Man 2</a></li>
+                    <li><a href="#">Spider-Man 3</a></li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>The Amazing Spider-Man</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">The Amazing Spider-Man</a></li>
+                    <li><a href="#">The Amazing Spider-Man 2</a></li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>Marvel Cinematic Universe</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man: Homecoming</a></li>
+                    <li><a href="#">Spider-Man: Far From Home</a></li>
+                    <li><a href="#">Spider-Man: No Way Home</a></li>
+                  </ul>
+                </td>
               </tr>
             </tbody>
           </table>
