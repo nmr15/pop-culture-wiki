@@ -146,6 +146,33 @@ const Mcu = () =>
             and commercials.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading" id="1">Development</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="2">Feature films</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="3">Television series and specials</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="4">Short films</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="5">Other media</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="6">Fictional universe</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="7">Recurring cast and characters</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="8">Reception</h2>
+        </div>
+        <div>
+          <h2 className="article-heading" id="9">Cultural impact</h2>
+        </div>
       </main>
     </>
   )
