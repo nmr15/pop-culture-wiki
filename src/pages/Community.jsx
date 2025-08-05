@@ -125,6 +125,15 @@ const Community = () =>
               have and tend to bluntly point them out, eventually resulting in the characters learning from his insights.
               Harmon based the character on Abed Gheith, whome he met through Channel 101.
             </li>
+            <li>
+              <a href="#">Yvette Nicole Brown</a> as <a href="#">Shirley Bennett</a> (seasons 1-5; guest season 6), a divorced
+              mother and vocal Christian going to school to start a brownie business. Shirley is a kind-hearted person with strong
+              morals, but can be overbearing and often resorts to using guilt to get what she wants or to control her friends'
+              behavior. Though usually soft-spoken, Shirley has a quick temper, a characteristic that manifests when she is
+              advocating for herself or her friends. It is often implied that Shirley's Christian beliefs, which she tends to
+              impose on most non-Christians around her, are a means of coping with her anger issues and repressing the stress she
+              deals with in raising her family while also in school.
+            </li>
           </ul>
         </div>
       </main>
@@ -134,4 +143,5 @@ const Community = () =>
 
 
 export default Community
+
 
