@@ -56,9 +56,57 @@ const Community = () =>
             for NBCUniversal's streaming service <a href="#">Peacock</a>
           </p>
         </div>
+        <div>
+          <h2 className="article__heading" id="1">Premise</h2>
+          <p>
+            <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
+            that he lied about having a bachelor's degree from Columbia University. To earn a legitimate
+            degree, he enrolls in Greendale Community College in Colorado. He quickly becomes attracted
+            to his classmate, social activist <a href="#">Britta Perry</a>, and pretends to run a study group
+            in order to spend time with her. Britta invites classmate <a href="#">Abed Nadir</a>,
+            a socially awkward and pop culture obsessed student, who in turn brings other classmates along;
+            religious single mother <a href="#">Shirley Bennett</a>; naive over-achiever
+            <a href="#">Annie Edison</a>; former high school football star <a href="#">Troy Barnes</a>;
+            and bigoted, elderly millionair <a href="#">Pierce Hawthorne</a>. Despite their differences, 
+            the group's members soon become close friends. They are often roped into helping the college's
+            flamboyant dean, <a href="@">Craig Pelton</a>, in his schemes to make the school seem more
+            respectable, as well as having to deal with the antics of their mentally unstable teacher
+            (and eventual classmate and friend) <a href="#">Ben Chang</a>.
+          </p>
+          <p>
+            Season 1 follows Jeff's creation of the study group and its subsequent misadventures. Season 2
+            sees Chang forced to enroll as a student and attempt to join the study group despite secretly
+            planning revenge against it, while Pelton is forced to fight for Greendale's sense of pride against
+            the dean of a rival school, City College, eventually culminating in a desperate paintball battle.
+            Season 3 focuses on Chang's villanous plot to take over the school, as well as Troy's struggle
+            with whether or not to attend the cult-like air conditioning repair school. Season 4 shows the
+            study group in its senior year, with all the characters (especially Abed) struggling with what
+            may be their final moments together, and Chang recovering from "Changnesia" (a fake amnesia
+            which Chang uses as a coverup). Season 5 sees Pierce's death and Troy leaving in the middle of
+            the season, while the other characters return to Greendale after graduation to save the school,
+            leading Jeff to take a job there as a teacher. Season ends the series with the characters reflecting
+            on the last six years while new staff member Frankie Dart arrives at the dysfunctional school
+            to make it more respectable, forcing the group to question how much Greendale can be cleaned up while
+            still remianing Greendale.
+          </p>
+        </div>
+        <div>
+          <h2 className="article__heading" id="2">Cast and characters</h2>
+          <p>
+            The show features an ensemble cast of characters, focusing on the members of a study group and a
+            recurring group of faculty of Greendale Community College, including the school's dean.
+          </p>
+          <ul>
+            <li>
+              <a href="#">Joel McHale</a> as <a href="#">Jeff Winger</a>, a former lawyer who enrolls at Greendale after
+              being suspended by the state bar for falsely claiming to have a bachelor's degreen from Columbia University.
+            </li>
+          </ul>
+        </div>
       </main>
     </>
   )
 }
+
 
 export default Community
