@@ -100,6 +100,30 @@ const Community = () =>
             <li>
               <a href="#">Joel McHale</a> as <a href="#">Jeff Winger</a>, a former lawyer who enrolls at Greendale after
               being suspended by the state bar for falsely claiming to have a bachelor's degreen from Columbia University.
+              Jeff is a sarcastic, outspoken, overconfident lothario who often manipulates people to get what he wants.
+              He first created the study group in an attempt to get with Britta, a girl in his Spanish class, through
+              the ruse of being a Spanish tutor who could help Britta pass the course. As he becomes closer to his
+              new study group, his old habits and views change. Most of the group (except Britta, who see through his
+              facade) tends to idolize Jeff for his charisma (particularly in the first season), and often seek advice
+              from him. Although he initially fits his role as the group's straight man, appearing indifference to their
+              concerns before grudgingly helping them, Jeff becomes more willing to make personal sacrifices for his
+              friends over time and slowly reveals that he has a great deal of care and reverence for his study group.
+            </li>
+            <li>
+              <a href="#">Gillian Jacobs</a> as <a href="#">Britta Perry</a>, an anarchist, athiest, and activist who traveled
+              around the world after dropping out of high school. Britta tries to be productive, intelligent, and mature, but
+              often comes off as pretentious and hypocritical. She has a tendency to lack direction and make things go wrong.
+              Despite not being as wordly or well-informed an activist as she thinks, Britta has a genuine desire to help
+              others, and she cares deeply for her friends.
+            </li>
+            <li>
+              <a href="#">Danny Pudi</a> as <a href="#">Abed Nadir</a>, a film student of Palestinian and Polish descent,
+              with an encyclopedic knowledge of TV shows and movies. Abed struggles to interact with others via conventional
+              means due to his autism, so he often chooses to interpret the group's everyday activities by comparing them to film
+              and TV cliches. Despite being out of touch with reality at times, Abed is a keen observer of human behavior and
+              often the wisest member of the group. These eccentricities allow him to pick up on flaws the other characters
+              have and tend to bluntly point them out, eventually resulting in the characters learning from his insights.
+              Harmon based the character on Abed Gheith, whome he met through Channel 101.
             </li>
           </ul>
         </div>
@@ -110,3 +134,4 @@ const Community = () =>
 
 
 export default Community
+
