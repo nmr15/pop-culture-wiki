@@ -134,6 +134,32 @@ const Community = () =>
               impose on most non-Christians around her, are a means of coping with her anger issues and repressing the stress she
               deals with in raising her family while also in school.
             </li>
+             <li>
+              <a href="#">Alison Brie</a> as <a href="#">Annie Edison</a>, the youngest of the group, a compulsive overachiever,
+              relentlessly organized and comparatively innocent. Annie was extremely unpopular in high school and formerly addicted
+              to Adderall, which has caused her to be very anxious and desperate to prove herself to others. Though normally kind-hearted,
+              she can quickly turn obsessive or lose her temper when she fails to achieve her goals or is denied something she
+              strongly cares about. Her friendship with the study group, as well as her living situation with Troy and Abed, slowly
+              allows her to become more laid-back and genial.
+            </li>
+            <li>
+              <a href="#">Donald Glover</a> as <a href="#">Troy Barnes</a> (seasons 1-5), a former high school star quarterback who
+              lost his scholarh=ship to a top-tier university when he dislocated both shoulders doing a keg flip, which he did on purpose
+              in order to escape pressures of his stardom and popularity. Troy begins the series trying to appear cool, acting like
+              a stereotypical football player, but he eventually feels comfortable in embracing his nerdy and carefree side, particularly
+              thanks to his becoming best friends with Abed. Troy struggles with the idea of growing up, often looking to Jeff and Pierce
+              for guidance. Still, he often shows signs of being capable of leadership and bringing the group together.
+            </li>
+            <li>
+              <a href="#">Chevy Chase</a> as <a href="#">Pierce Hawthorne</a> (seasons 1-4; guest season 5), a millionaire and CEO of the
+              Hawthorne Wipes moist towelette company who enrolled in Greendale a decade prior to the start of the series for the sake of
+              keeping his mind active. More than anyone else within the study group, Pierce is often at odds with the rest of the group
+              because of his arrogance, lack of empathy, and casual ignorance of politically correct behavior, all of which largely stern
+              from his old age and his emotionally abusive father. This includes believing Britta is a closeted lesbian, lusting over Shirley,
+              and casual racism. He also tends to envy the other group members, particularly Jeff's relative youthful attractiveness and
+              Abed's close friendship with Troy. Despite his often unsociable and selfish nature, Pierce desperately wants to fit in with
+              the group and occasionally offers great insight and advice, showing that he does care greatly for each of the group members.
+            </li>
           </ul>
         </div>
       </main>
@@ -143,5 +169,6 @@ const Community = () =>
 
 
 export default Community
+
 
 
