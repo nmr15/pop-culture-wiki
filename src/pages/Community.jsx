@@ -160,6 +160,24 @@ const Community = () =>
               Abed's close friendship with Troy. Despite his often unsociable and selfish nature, Pierce desperately wants to fit in with
               the group and occasionally offers great insight and advice, showing that he does care greatly for each of the group members.
             </li>
+             <li>
+              <a href="#">Ken Jeong</a> as <a href="#">Ben Chang</a>, an unstable Spanish teacher at Greendale. Chang often takes extreme
+              action against his students, often yelling at them for the slightest infraction or using his superior status to taunt them.
+              He has alternately been a friend and foe of the study group, his ultimate desire being to fit in with them and become a part
+              of the study group, though his behavior makes them desperate not to include him. After Annie gets him fired at the end of
+              season 1, Chang alternates between a variety of roles, becoming a student in season 2, a security guard in season 3, as Kevin
+              who is suffering from "Changnesia" (a fake disease similar to amnesia) during season 4, a math teacher under work release
+              in season 5, and a member of the Save Greendale Committee in season 6.
+            </li>
+            <li>
+              <a href="#">Jim Rash</a> as <a href="#">Craig Pelton</a> (seasons 3-6; recurring seasons 1-2), the dean of Greendale, who
+              desperately wants his school to be more like a real university and goes to extreme lengths to try to make it fun, wacky, and
+              politically correct, while making various questionable business decisions regarding his school. A man of unclear sexual
+              orientation, he frequently attempts to flirt with Jeff and is an increasingly avid cross-dresser. In season 6, he identifies
+              himself as gay, though he views it as an insufficient label. The study group is by far the Dean's favorite group of students,
+              and he is constantly making up excuses to come talk to them, often by walking into their study room unannounced while wearing
+              a costume, to tell them about events going on in the school.
+            </li>
           </ul>
         </div>
       </main>
@@ -169,6 +187,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
