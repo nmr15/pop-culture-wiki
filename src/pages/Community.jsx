@@ -229,7 +229,41 @@ const Community = () =>
             (the seventh variant is that the die was not rolled at all). Frequent episode themes are school-year holidays (Halloween and Christmas
             being the most frequent), paintball, and various forms of animation.
           </p>
+          <h3 className="pt-2" id="3.4">Filming</h3>
+          <p>
+            Filming the show involved a lot of improvisation, particularly from Chase. Of Chase, Harmon said that he "tends to come up with lines
+            that you can actually end scens with sometimes". He had also called McHale and Glover adept improvisers. Apart from a few exterior
+            scenes shot at Los Angeles City College, the show was filmed at the Paramount Studios lot in Hollywood, California, during
+            seasons one through five. For season six, the series moved to the CBS Studio Center, and featured exterior scenes from Los Angeles City
+            College for the first time since season two. The series used the single-camera technique, where each shot is filmed individually,
+            using the same camera.
+          </p>
         </div>
+        <div>
+          <h2 className="article__heading" id="4">Episodes</h2>
+          <p>
+            Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
+            and "Cooperative Calligraphy".
+          </p>
+          <p>
+            The complete series was released on DVD in region 1 on November 15, 2016. Special features include all the features from the first six
+            seasons. One June 6, 2018, it was announced that Community: The Complete Series would be released by Mill Creek Entertainment on
+            high-definition Blu-ray on October 23, 2018.
+          </p>
+          <h3 className="pt-2" id="4.1">First season</h3>
+          <p>
+            The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
+            three episodes, the show was moved to 8:00 pm ET.
+          </p>
+          <p>
+            NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
+            In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
+            region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
+            episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
+            Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
+            scenes; and three mini episodes.
+          </p>
+        </div>        
       </main>
     </>
   )
@@ -237,6 +271,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
