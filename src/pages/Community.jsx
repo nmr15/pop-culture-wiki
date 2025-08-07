@@ -57,7 +57,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article__heading" id="1">Premise</h2>
+          <h2 className="article-heading" id="1">Premise</h2>
           <p>
             <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
             that he lied about having a bachelor's degree from Columbia University. To earn a legitimate
@@ -91,7 +91,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article__heading" id="2">Cast and characters</h2>
+          <h2 className="article-heading" id="2">Cast and characters</h2>
           <p>
             The show features an ensemble cast of characters, focusing on the members of a study group and a
             recurring group of faculty of Greendale Community College, including the school's dean.
@@ -181,7 +181,7 @@ const Community = () =>
           </ul>
         </div>
         <div>
-          <h2 className="article__heading" id="3">Production</h2>
+          <h2 className="article-heading" id="3">Production</h2>
           <h3 className="pt-2" id="3.1">Casting</h3>
           <p>
             <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
@@ -240,7 +240,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article__heading" id="4">Episodes</h2>
+          <h2 className="article-heading" id="4">Episodes</h2>
           <p>
             Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
             and "Cooperative Calligraphy".
@@ -271,6 +271,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
