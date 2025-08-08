@@ -263,6 +263,73 @@ const Community = () =>
             Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
             scenes; and three mini episodes.
           </p>
+          <h3 className="pt-2" id="4.2">Second season</h3>
+          <p>
+            On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
+            May 12, 2011. NBC ordered 2 additional episodes for the second season on November 3, 2010, bringing it to a total of 24 episodes.
+            The second season was released in region 1 on September 6, 2011. It features commentary on every episode by cast and crew members;
+            outtakes; animatics for "Abed's Uncontrollable Christmas" and making-of featurettes covering that episode as well as "A Fistful of
+            Paintballs" and "For a Few Paintballs More".
+          </p>
+          <h3 className="pt-2" id="4.3">Third season</h3>
+          <p>
+            The series was renewed for a third season on March 17, 2011. Filming for the season began on July 25, 2011. Jim Rash, who portrays
+            Dean Pelton, was promoted to a series regular after having a recurring role throughout the first two seasons. Michael K. Williams
+            was cast as the study group's new biology professor, who is described as a deeply intense character. John Goodman appears as a recurring
+            character throughout the season as Vice Dean Laybourne, the head of Greendale's air conditioning repair school, and is a foe for Dean
+            Pelton.
+          </p>
+          <p>
+            Community premiered its third season on September 22, 2011. On November 14, 2011, NBC announced that they removing Community from 
+            their mid-season schedule, replacing it with the returning series <a href="#">30 Rock</a>. Fans of the series began a campaign
+            to get the show back on the air using Twitter, Tumblr, and Facebook, making hashtags such as #SaveCommunity, #SixSeasonsAndAMovie,
+            and #OccupyNBC trending topics. NBC responded to the backlash by announcing that the network was still planning to film and air
+            the remainder of the 22 planned episodes after the undetermined hiatus, and that the fate of the series would be determined after
+            the planned episodes air.
+          </p>
+          <p>
+            On December 7, 2011, CollegeHumor released a video titled "Save Greendale (with the cast of Community)" using the cast of
+            Community in-character to promote the series and the school in a PSA-style video. On December 22, 2011, fans of the series
+            created a flash mob outside of NBC's Rockefeller Center headquarters in New York City to Occupy NBC. The flash mob dressed in
+            Christmas gear, wearing "darkest timeline" goatees, and singing "O' Christmas Troy" from the first season's episode "Comparative
+            Religion" and chanting "Go Greendale, go Greendale go". On January 6, 2012, NBC entertainment chairman Robert Greenblatt announced
+            that Community was not canceled, though he did not mention a return date. On February 21, 2012, creator Dan Harmon announced via
+            Twitter that the third season would resume on March 15, 2012, in the regular timeslot of Thursdays at 8:00 pm.
+          </p>
+          <p>
+            The third season was released in region 1 on August 14, 2012. It features commentary on every episode by cast and crew members;
+            gag reels; deleted scenes; "This is War: Pillows vs. Blankets mockumentary" featurette; and "A Glee-ful Community Christmas"
+            featurette.
+          </p>
+          <h3 className="pt-2" id="4.4">Fourth season</h3>
+          <p>
+            On May 10, 2012, Community was renewed for a fourth season consisting of 13 episodes. Series creator and executive producer Dan
+            Harmon was replaced as showrunner for the series in the fourth season, as writers David Guarascio and Moses Port (co-creator of
+            the short-lived Aliens in America) took over as showrunners and executive producers. Sony Pictures Television, which produced the
+            series with Universal Television, initially said that Harmon would serve as a consulting producer, but Harmon asserted that he
+            was not informed of the deal and would not return in a position without any executive prerogatives. The end of the third season
+            also marked several other departures including executive producers Neil Goldman and Garrett Donovan, writer/producer Chris McKenna
+            and actor/writer Dino Stamatopoulos. Frequent episode directors and executive producers <a href="#">Anthony and Joe Russo</a> also
+            left the show in order to direct <a href="#">Captain America: The Winter Soldier</a>.
+          </p>
+          <p>
+            In early October 2012, NBC delayed the premier of the fourth season, which had been scheduled for October 19, 2012, without announcing
+            a new date. On October 30, 2012, NBC announced that the fourth season would premiere February 7, 2013, returning to its original
+            time slot of Thursdays at 8:00 pm.
+          </p>
+          <p>
+            On November 21, 2012, after allegedly using a racial slur on set, it was announced that Chevy Chase left the show by mutual agreement
+            between the actor and network. As a result of timing and the agreement made, Chase's character Pierce is absent for two episodes--he
+            did not appear in the tenth episode (produced the ninth), "Intro to Knots", and the twelfth episode, "Heroic Origins". He also
+            appeared in a voice-only role in the episode "Intro to Felt Surrogacy", which was the final episode produced for the season, and as
+            part of his agreement to leave the show, Chase was required to record all audio for the scenes where his character, alongside the other
+            characters, appeared as a puppet. The season finale, which was filmed out-of-sequence, as it was the eleventh episode produced, marked
+            Chase's final on-screen appearance as a regular cast member. He appeared in a cameo in the season 5 premiere.
+          </p>
+          <p>
+            The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
+            deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
+          </p>
         </div>        
       </main>
     </>
@@ -271,6 +338,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
