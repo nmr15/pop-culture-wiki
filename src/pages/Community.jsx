@@ -352,6 +352,36 @@ const Community = () =>
             The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
             featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
           </p>
+          <h3 className="pt-2" id="4.6">Sixth season</h3>
+          <p>
+            On June 30, 2014, the day the cast's contracts were due to expire, Yahoo! announced it had ordered a 13-episode sixth season to stream on Yahoo!
+            Screen, including the main cast along with executive producers Dan Harmon, Chris McKenna, Russ Krasnoff, and Gary Foster. Harmon said, "I am very
+            pleased that Community will be returning for its predestined sixth season on Yahoo ... I look forward to bringing our beloved NBC sitcom to a larger
+            audience by moving it online." However, Yvette Nicole Brown dropped out to care for her ailing father, although she made guest appearances in "Ladders"
+            and "Emotional Consequences of Broadcast Television". Paget Brewster was cast as consultant Francesca "Frankie" Dart and Keith David was cast as inventor
+            Elroy Patashnik. Filming began for season six on November 17, 2014, and on December 8, 2014, the series celebrated the milestone of 100 episodes.
+            Filming ended on March 27, 2015.
+          </p>
+          <p>
+            In a June 3, 2015 interview with TV Insider, Dan Harmon explained why season six would likely be the last of the series:
+            <blockquote>
+              We've exploded into these successful shrapnel. Dr. Ken is now Dr. Ken. Alison has probably got her eye on movies. Gillian is working on a Netflix show.
+              If there was some magical way of guaranteeing that everyone could come back all at once, let's fo it. But it would be a lot easier to put together a
+              movie project and get them all on board than to say, "Let's give it one more season!"
+            </blockquote>
+          </p>
+          <p>
+            Despite the show's "six seasons and a movie" mantra, Yahoo never formally marketed season six as its final season. On July 30, 2015, Joel McHale stated
+            that Yahoo! "wanted to [make more seasons of Community], but all of [the actors'] contracts were up after six years." McHale later clarified his statement
+            via Twitter, saying "Community is not canceled." Yahoo released a statement: "We've seen tremendous value in our partnership with Sony and are continuing
+            to discuss future opportunities for Community." Harmon said he "could have said yes immediately" to season seven, but "given the actors' velocity and
+            trajectory" decided in favor of "getting [the cast] back together for an awesome movie." On January 4, 2016, Yahoo announced it had shut down its Yahoo
+            Screen service, after a $42 million write-down, with its original prorgramming being moved to Yahoo TV for continoued public viewing.
+          </p>
+          <p>
+            The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
+            the finale, trivia with the cast and crew, and a gag reel.
+          </p>
         </div>        
       </main>
     </>
@@ -360,6 +390,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
