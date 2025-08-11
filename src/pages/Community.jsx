@@ -382,7 +382,33 @@ const Community = () =>
             The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
             the finale, trivia with the cast and crew, and a gag reel.
           </p>
-        </div>        
+          <h3 className="pt-2" id="4.7">Webisodes</h3>
+          <p>
+            In addition to the regular episodes, NBC produced a series of webisodes. Some focus on the daily life of Dean Pelton and others include a Spanish project,
+            study breaks, and Abed copying his friends' lives and turning them into student films. These webisodes were featured on the front page of the Greendale
+            Community College website on the AV Department page.
+          </p>
+          <p>
+            On March 2, 2012, it was announced that three animated webisodes would air exclusively on Hulu in lead up to the return of the series on March 15, 2012.
+            Titled Abed's Master Key, the shorts were written by Dave Seger and Tom Kauffman of Channel 101 and animated by Animax Entertainment. In the webisodes,
+            Abed becomes Dean Pelton's assistant and is given a master key to Greendale.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="5">Film</h2>
+          <p>
+            Soon after Community was picked up for a sixth season in 2014, Zack Van Amburg of Sony Pictures Television confirmed that a Community film was in the early
+            stages of development. After the series wrapped, Harmon revealed that Yahoo! had initially wanted to make a movie immediately after the end of the sixth
+            season, but at the time was not ready to produce it.
+          </p>
+          <p>
+            For the next several years, Harmon continued to express interest in creating a Community film and stated his efforts in making it happen. During this period,
+            cast members Danny Pudi, Joel McHale, Alison Brie, Gillian Jacobs and Donald Glover would wach express their own interest in the film as well. Joe Russon was
+            asked if he and his brother Anthony would come back to do the movie. He stated, "We'd certainly be willing to do it. We love our Community family. That cast,
+            we're all still very close to all of them. It'd be schedule-depending for us. But I believe there will be a Community movie, especially now that it's doing well
+            on streaming. Someone like Netflix could step up and make the movie."
+          </p>
+        </div>
       </main>
     </>
   )
@@ -390,6 +416,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
