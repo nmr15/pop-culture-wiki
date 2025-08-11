@@ -330,6 +330,28 @@ const Community = () =>
             The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
             deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
           </p>
+          <h3 className="pt-2" id="4.5">Fifth season</h3>
+          <p>
+            On May 10, 2013, the series was renewed for a fifth season. On June 1, 2013, Harmon announced he would return as showrunner for season five,
+            replacing season four showrunners Moses Port and David Guarascio, with former writer Chris McKenna returning as executive producer. On June 10,
+            Sony Television confirmed the return of Harmon and McKenna for the fifth season. Dino Stamatopoulos, Rob Schrab, and the Russo brothers also
+            returned.
+          </p>
+          <p>
+            Glover decided to not return as a full-time cast member for the fifth season, appearing only in the first five of the 13 episodes. To make up
+            for his absence and Chase's, Jonathan Banks was cast in the fifth season in August 2013 and appeared in 11 of the season's 13 episodes, portraying
+            Buzz Hickey, a criminology professor. Additionally, John Oliver, who played Professor Duncan in the first two seasons, reprises his role in
+            season 5 for multiple episodes.
+          </p>
+          <p>
+            On May 9, 2014, NBC announed that it had cancelled Community. For several years before its cancellation, fans adopted the slogan "six seasons and
+            a movie", a line from the second season episode "Paradigms of Human Memory" regarding Abed's hopeful legacy of short-lived NBC series The Cape.
+            Bids to continue the series were turned down by popular streaming providers like Netflix and Hulu.
+          </p>
+          <p>
+            The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
+            featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
+          </p>
         </div>        
       </main>
     </>
@@ -338,6 +360,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
