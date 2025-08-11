@@ -408,6 +408,32 @@ const Community = () =>
             we're all still very close to all of them. It'd be schedule-depending for us. But I believe there will be a Community movie, especially now that it's doing well
             on streaming. Someone like Netflix could step up and make the movie."
           </p>
+          <p>
+            Harmon confirmed in 2021 that he had begun work on the script, and that any logistical issues with creating a Community movie were mostly solved. He described
+            the challenging part of the movie was more "philosophical", namely whether the movie would be approachable to a viewer unfamiliar with the television show. Harmon
+            said in August 2022 that a moview was "definitely going to happen" and could be expected in "between one and eight years". He said that the movie had an outline
+            and that: "There's a product put together and pitched out in the world".
+          </p>
+          <p>
+            The Peacock streaming service announced that it had ordered the film in September 2022, after a bidding war among distributors for the rights. Harmon and Andrew
+            Guest were announced as writers, with McHale, Pudi, Brie, Jacobs, Jim Rash, and Ken Jeong set to reprise their roles. Harmon later stated that Yvette
+            Nicole Brown would also return. Glover confirmed his involvement in the film several months later. On April 2, 2024, McHale confirmed Chevy Chase would not
+            participate.
+          </p>
+          <p>
+            During an interview on Jimmy Kimmel! Live in January 2023, McHale revealed that filming would begin in June of that year. However, filming was delayed amid the
+            2023 Hollywood labor disputes. In June 2023, McHale stated that filming would set to begin in summer 2024. In February 2024, Glover confirmed the script was
+            complete. During a February 2024 interview with The Hollywood Reporter, Glover was asked about his role in the movie and said: "Yeah, [Harmon] told me what he
+            wanted, and I was like. 'This sounds great' ... It's a college reunion, but Abed is like the big director now, and basically this is magnum opus. I'm like, 'This
+            sounds fucking tight.'" In April 2024, Brie revealed that the script was completed, and that she had read it.
+          </p>
+          <p>
+            In March 2024, McHale indicated that shooting was "basically working around Donald's schedule", would begin production "this year" and he would be shocked if it
+            did not. However in May 2024, Glover noted to Deadline that he received backlash from fans over speculation regarding his schedule preventing the production,
+            clarifying that "maybe [it] was last year -- maybe -- but not this time". McHale would later clarify in an interview in July 2024 with GQ that it was not in fact
+            Glover's schedule that was delaying production, but his own, stating: "That was definitely not true. It was not Donald's schedule. We love Donald. You can fully
+            blame my schedule." He also added a tentative shotting period for 2025.
+          </p>
         </div>
       </main>
     </>
@@ -416,6 +442,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
