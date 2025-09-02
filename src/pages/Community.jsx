@@ -89,6 +89,22 @@ const Community = () =>
             to make it more respectable, forcing the group to question how much Greendale can be cleaned up while
             still remianing Greendale.
           </p>
+          <div class="accordion" id="season1-accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#season1" aria-expanded="true" aria-controls="season1">
+                Season 1
+              </button>
+            </h2>
+          <div id="season1" class="accordion-collapse collapse show" data-bs-parent="#season1-accordion">
+          <ul class="list-group">
+            <li class="list-group-item">Pilot</li>
+            <li class="list-group-item">Spanish 101</li>
+          </ul>
+    </div>
+  </div>
+  </div>
+</div>
         </div>
         <div>
           <h2 className="article-heading" id="2">Cast and characters</h2>
@@ -488,6 +504,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
