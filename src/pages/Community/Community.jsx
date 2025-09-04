@@ -559,7 +559,7 @@ const Community = () =>
                     <li><a href="#">The Art of Discourse</a></li>
                     <li><a href="#">Modern Warfare</a></li>
                     <li><a href="#">English as a Second Language</a></li>
-                    <li><a href="#">Pasca's Triangle Revisited</a></li>
+                    <li><a href="#">Pascal's Triangle Revisited</a></li>
                   </ul>
                 </td>
               </tr>
@@ -620,6 +620,26 @@ const Community = () =>
                     <li><a href="#">Digital Estate Planning</a></li>
                     <li><a href="#">The First Chang Dynasty</a></li>
                     <li><a href="#">Introduction to Finality</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Season 4</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">History 101</a></li>
+                    <li><a href="#">Paranormal Parentage</a></li>
+                    <li><a href="#">Conventions of Space and Time</a></li>
+                    <li><a href="#">Alternative History of the German Invasion</a></li>
+                    <li><a href="#">Cooperative Escapism in Familial Relations</a></li>
+                    <li><a href="#">Advanced Documentary Filmmaking</a></li>
+                    <li><a href="#">Economics of Marine Biology</a></li>
+                    <li><a href="#">Herstory of Dance</a></li>
+                    <li><a href="#">Intro to Felt Surrogacy</a></li>
+                    <li><a href="#">Intro to Knots</a></li>
+                    <li><a href="#">Basic Human Anatomy</a></li>
+                    <li><a href="#">Heroic Origins</a></li>
+                    <li><a href="#">Advanced Introduction to Finality</a></li>
                   </ul>
                 </td>
               </tr>
