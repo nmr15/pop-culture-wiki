@@ -173,6 +173,23 @@ const Mcu = () =>
         <div>
           <h2 className="article-heading" id="9">Cultural impact</h2>
         </div>
+        <div>
+          <table className="table-center">
+            <thead>
+              <tr>
+                <th colSpan="4">Marvel Cinematic Universe</th>
+              </tr>
+              <tr>
+                <th colSpan="4">Marvel Studios</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowSpan="3">Infinity Saga</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </main>
     </>
   )
