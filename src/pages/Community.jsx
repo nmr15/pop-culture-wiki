@@ -251,18 +251,6 @@ const Community = () =>
             high-definition Blu-ray on October 23, 2018.
           </p>
           <h3 className="pt-2" id="4.1">First season</h3>
-          <p>
-            The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
-            three episodes, the show was moved to 8:00 pm ET.
-          </p>
-          <p>
-            NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
-            In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
-            region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
-            episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
-            Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
-            scenes; and three mini episodes.
-          </p>
           <div class="accordion" id="accordionS1">
             <div class="accordion-item">
               <h2 class="accordion-header">
@@ -278,6 +266,19 @@ const Community = () =>
               </div>
             </div>
           </div>
+          <p>
+            The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
+            three episodes, the show was moved to 8:00 pm ET.
+          </p>
+          <p>
+            NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
+            In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
+            region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
+            episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
+            Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
+            scenes; and three mini episodes.
+          </p>
+          
           <h3 className="pt-2" id="4.2">Second season</h3>
           <p>
             On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
