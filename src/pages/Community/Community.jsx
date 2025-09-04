@@ -545,6 +545,41 @@ const Community = () =>
                     <li><a href="#">Home Economics</a></li>
                     <li><a href="#">Debate 109</a></li>
                     <li><a href="#">Environmental Science</a></li>
+                    <li><a href="#">The Politics of Human Sexuality</a></li>
+                    <li><a href="#">Comparative Religion</a></li>
+                    <li><a href="#">Investigative Journalism</a></li>
+                    <li><a href="#">Interpretive Dance</a></li>
+                    <li><a href="#">Romantic Expressionism</a></li>
+                    <li><a href="#">Communication Studyies</a></li>
+                    <li><a href="#">Physical Education</a></li>
+                    <li><a href="#">Basic Genealogy</a></li>
+                    <li><a href="#">Beginner Pottery</a></li>
+                    <li><a href="#">The Science of Illusion</a></li>
+                    <li><a href="#">Contemporary American Poultry</a></li>
+                    <li><a href="#">The Art of Discourse</a></li>
+                    <li><a href="#">Modern Warfare</a></li>
+                    <li><a href="#">English as a Second Language</a></li>
+                    <li><a href="#">Pasca's Triangle Revisited</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Season 2</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Anthropology 101</a></li>
+                    <li><a href="#">Accounting for Lawyers</a></li>
+                    <li><a href="#">The Psychology of Letting Go</a></li>
+                    <li><a href="#">Basic Rocket Science</a></li>
+                    <li><a href="#">Messiance Myths and Ancient People</a></li>
+                    <li><a href="#">Epidemiology</a></li>
+                    <li><a href="#">Aerodynamics of Gender</a></li>
+                    <li><a href="#">Cooperative Calligraphy</a></li>
+                    <li><a href="#">Conspiracy Theories and Interior Design</a></li>
+                    <li><a href="#">Mixology Certification</a></li>
+                    <li><a href="#">Abed's Uncontrollable Christmas</a></li>
+                    <li><a href="#">Asian Population Studies</a></li>
+                    <li><a href="#">Celebrity Pharmacology</a></li>
                   </ul>
                 </td>
               </tr>
