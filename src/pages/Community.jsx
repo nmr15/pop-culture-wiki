@@ -263,6 +263,21 @@ const Community = () =>
             Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
             scenes; and three mini episodes.
           </p>
+          <div class="accordion" id="accordionS1">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#season1" aria-expanded="true" aria-controls="season1">
+                  Season 1
+                </button>
+              </h2>
+              <div id="season1" class="accordion-collapse collapse show" data-bs-parent="#accordionS1">
+                <ul class="list-group">
+                  <li class="list-group-item">Pilot</li>
+                  <li class="list-group-item">Spanish 101</li>
+                </ul>
+              </div>
+            </div>
+          </div>
           <h3 className="pt-2" id="4.2">Second season</h3>
           <p>
             On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
@@ -488,6 +503,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
