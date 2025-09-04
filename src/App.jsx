@@ -4,7 +4,7 @@ import Home from "./pages/Home"
 import './App.css'
 import AssassinsCreed from "./pages/AssassinsCreed"
 import Beatles from "./pages/Beatles"
-import Community from "./pages/Community"
+import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import Gta from "./pages/Gta"
 import Himym from "./pages/Himym"
