@@ -501,6 +501,15 @@ const Community = () =>
             good scene from the old Community."
           </p>
         </div>
+        <div>
+          <table className="table-center">
+            <thead>
+              <tr>
+                <th colspan="2">Community</th>
+              </tr>
+            </thead>
+          </table>
+        </div>
       </main>
     </>
   )
