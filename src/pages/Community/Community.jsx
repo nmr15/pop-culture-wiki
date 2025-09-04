@@ -529,6 +529,25 @@ const Community = () =>
                   </ul>
                 </td>
               </tr>
+              <tr>
+                <td>Season 1</td>
+                <td>
+                  <ul className="table-list">
+                    <Link to="/community/pilot">
+                      <li>Pilot</li>
+                    </Link>
+                    <li><a href="#">Spanish 101</a></li>
+                    <li><a href="#">Introduction to Film</a></li>
+                    <li><a href="#">Social Psychology</a></li>
+                    <li><a href="#">Advanced Criminal Law</a></li>
+                    <li><a href="#">Football, Feminism, and You</a></li>
+                    <li><a href="#">Introduction to Statistics</a></li>
+                    <li><a href="#">Home Economics</a></li>
+                    <li><a href="#">Debate 109</a></li>
+                    <li><a href="#">Environmental Science</a></li>
+                  </ul>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
