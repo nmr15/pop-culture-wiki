@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 const Community = () => 
 {
   return (
@@ -260,7 +262,9 @@ const Community = () =>
               </h2>
               <div id="season1" class="accordion-collapse collapse show" data-bs-parent="#accordionS1">
                 <ul class="list-group">
+                  <Link to="/community/pilot">
                   <li class="list-group-item">Pilot</li>
+                  </Link>
                   <li class="list-group-item">Spanish 101</li>
                 </ul>
               </div>
