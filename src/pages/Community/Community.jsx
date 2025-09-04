@@ -663,6 +663,26 @@ const Community = () =>
                   </ul>
                 </td>
               </tr>
+              <tr>
+                <td>Season 6</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Ladders</a></li>
+                    <li><a href="#">Lawnmower Maintenance and Postnatal Care</a></li>
+                    <li><a href="#">Basic Crisis Room Decorum</a></li>
+                    <li><a href="#">Queer Studies and Advanced Waxing</a></li>
+                    <li><a href="#">Laws of Robotics and Party Rights</a></li>
+                    <li><a href="#">Basic Email Security</a></li>
+                    <li><a href="#">Advanced Safety Features</a></li>
+                    <li><a href="#">Intro to Recycled Cinema</a></li>
+                    <li><a href="#">Grifting 101</a></li>
+                    <li><a href="#">Basic RV Repair and Palmistry</a></li>
+                    <li><a href="#">Modern Espionage</a></li>
+                    <li><a href="#">Wedding Videography</a></li>
+                    <li><a href="#">Emotional Consequences of Broadcast Television</a></li>
+                  </ul>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
