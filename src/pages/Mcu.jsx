@@ -186,6 +186,17 @@ const Mcu = () =>
             <tbody>
               <tr>
                 <td rowSpan="3">Infinity Saga</td>
+                <td>Phase One</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Iron Man</a></li>
+                    <li><a href="#">The Incredible Hulk</a></li>
+                    <li><a href="#">Iron Man 2</a></li>
+                    <li><a href="#">Thor</a></li>
+                    <li><a href="#">Captain America: The First Avenger</a></li>
+                    <li><a href="#">The Avengers</a></li>
+                  </ul>
+                </td>
               </tr>
             </tbody>
           </table>
