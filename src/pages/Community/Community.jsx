@@ -508,6 +508,17 @@ const Community = () =>
                 <th colspan="2">Community</th>
               </tr>
             </thead>
+            <tbody>
+              <tr>
+                <td>Characters</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Jeff Winger</a></li>
+                    <li><a href="#">Britta Perry</a></li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
           </table>
         </div>
       </main>
