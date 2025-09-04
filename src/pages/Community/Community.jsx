@@ -515,6 +515,17 @@ const Community = () =>
                   <ul className="table-list">
                     <li><a href="#">Jeff Winger</a></li>
                     <li><a href="#">Britta Perry</a></li>
+                    <li><a href="#">Abed Nadir</a></li>
+                    <li><a href="#">Troy Barnes</a></li>
+                    <li><a href="#">Annie Edison</a></li>
+                    <li><a href="#">Shirley Bennett</a></li>
+                    <li><a href="#">Pierce Hawthorne</a></li>
+                    <li><a href="#">Ben Chang</a></li>
+                    <li><a href="#">Craig Pelton</a></li>
+                    <li><a href="#">Ian Duncan</a></li>
+                    <li><a href="#">Buzz Hickey</a></li>
+                    <li><a href="#">Frankie Dart</a></li>
+                    <li><a href="#">Elroy Patashnik</a></li>
                   </ul>
                 </td>
               </tr>
