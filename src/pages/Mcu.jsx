@@ -197,12 +197,18 @@ const Mcu = () =>
                     <li><a href="#">The Avengers</a></li>
                   </ul>
                 </td>
-                <tr>
-                  <td>Phase Two</td>
-                </tr>
-                <tr>
-                  <td>Phase Three</td>
-                </tr>
+              </tr>
+              <tr>
+                <td>Phase Two</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Iron Man 3</a></li>
+                    <li><a href="#">Thor: The Dark World</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Phase Three</td>
               </tr>
             </tbody>
           </table>
