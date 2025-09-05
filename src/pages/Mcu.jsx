@@ -213,6 +213,21 @@ const Mcu = () =>
               </tr>
               <tr>
                 <td>Phase Three</td>
+                <td>
+                  <ul className="table-list">
+                    <li><a href="#">Captain America: Civil War</a></li>
+                    <li><a href="#">Doctor Strange</a></li>
+                    <li><a href="#">Guardians of the Galaxy Vol. 2</a></li>
+                    <li><a href="#">Spider-Man: Homecoming</a></li>
+                    <li><a href="#">Thor: Ragnarok</a></li>
+                    <li><a href="#">Black Panther</a></li>
+                    <li><a href="#">Avengers: Infinity War</a></li>
+                    <li><a href="#">Ant-Man and the Wasp</a></li>
+                    <li><a href="#">Captain Marvel</a></li>
+                    <li><a href="#">Avengers: Endgame</a></li>
+                    <li><a href="#">Spider-Man: Farm From Home</a></li>
+                  </ul>
+                </td>
               </tr>
             </tbody>
           </table>
