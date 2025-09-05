@@ -98,6 +98,21 @@ const CommunityS1E1 = () =>
                 to the incident is shown in the season four episode "<a href="#">Heroic Origins</a>", when Troy is seen faking
                 his injury rather than suffering a real one, as well as it being a knee injury as opposed to his shoulders.
               </li>
+              <li>
+                Abed is the first one to point out that Britta looks like actress Elisabeth Shue. In later episodes, he states
+                he is face-blind and is unable to recognize specific features.
+              </li>
+            </ul>
+          </li>
+          <li>
+            History lesson: A brief synopsis of all the main characters' pasts before they came to Greendale is given and why
+            they are there now:
+            <ul>
+              <li>
+                While talking with Jeff, Abed goes into great detail about his life, including hints that he may suffer from a
+                mental disorder. He further hints at being a lonely person, positively replying to Jeff's dismissive remark
+                about "seeing his value now" and rejoicing when he receives a text message for the first time.
+              </li>
             </ul>
           </li>
         </ul>
