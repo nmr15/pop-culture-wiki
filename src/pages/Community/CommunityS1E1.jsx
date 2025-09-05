@@ -92,6 +92,12 @@ const CommunityS1E1 = () =>
                 In this episode, <a href="#">the study room</a> is shown to be upstairs, as Jeff is seen going up a staircase
                 to reach it. For the rest of the series onwards, it is ground level.
               </li>
+              <li>
+                Annie mentions that Troy dislocated both his shoulders during a keg-flip injury, with Troy revealing in
+                "<a href="#">Football, Feminism, and You</a>" that he had intentionally injured himself. However, a flashback
+                to the incident is shown in the season four episode "<a href="#">Heroic Origins</a>", when Troy is seen faking
+                his injury rather than suffering a real one, as well as it being a knee injury as opposed to his shoulders.
+              </li>
             </ul>
           </li>
         </ul>
