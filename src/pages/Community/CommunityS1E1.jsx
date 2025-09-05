@@ -6,6 +6,13 @@ const CommunityS1E1 = () =>
 
     </nav>
     <main className="main px-5 py-4">
+      <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Community</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Pilot</li>
+          </ol>
+        </nav>
       <div id="top">
         <h1 className="article-heading">Pilot (Community)</h1>
       </div>
@@ -60,6 +67,20 @@ const CommunityS1E1 = () =>
           him back in. The episode ends with a dedication to the recently deceased John Hughes, whose film The Breakfast
           Club had been repeated references throughot the episode.
         </p>
+      </div>
+      <div>
+        <h2 className="article-heading" id="2">Recurring themes</h2>
+        <h3 className="pt-2" id="2.1">Continuity</h3>
+        <p>Narrative</p>
+        <ul>
+          <li>Catchprases: Several of the study group's signature catchphrases are introduced in this episode:
+            <ul>
+              <li>"Cool. Cool, cool, cool." - Abed</li>
+              <li>"That's nice." - Shirley</li>
+              <li>"You just wrinkled my brain." - Troy</li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </main>
     </>
