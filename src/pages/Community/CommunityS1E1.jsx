@@ -80,6 +80,20 @@ const CommunityS1E1 = () =>
               <li>"You just wrinkled my brain." - Troy</li>
             </ul>
           </li>
+          <li>
+            Discontinuity:
+            <ul>
+              <li>
+                In this episode, it is stated that Jeff has to replace his Bachelor's degree to practice law again.
+                However, in the season four finale "<a href="#">Advanced Introduction to Finality</a>, he graduates with an
+                Associate's degree in education instead.
+              </li>
+              <li>
+                In this episode, <a href="#">the study room</a> is shown to be upstairs, as Jeff is seen going up a staircase
+                to reach it. For the rest of the series onwards, it is ground level.
+              </li>
+            </ul>
+          </li>
         </ul>
       </div>
     </main>
