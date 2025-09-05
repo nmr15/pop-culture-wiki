@@ -113,6 +113,20 @@ const CommunityS1E1 = () =>
                 mental disorder. He further hints at being a lonely person, positively replying to Jeff's dismissive remark
                 about "seeing his value now" and rejoicing when he receives a text message for the first time.
               </li>
+              <li>
+                Jeff tells Professor Duncan that his law credentials were falsified, he was disbarred and now needs to earn a
+                legitimate degree at Greendale.
+              </li>
+              <li>
+                Britta's biography is recounted by Abed, who informs Jeff that she has brothers, is 28, and her birthday is in
+                October. She herself tells more of her life story to Jeff when they meet in the study room later on.
+              </li>
+              <li>
+                Troy calls Annie "Little Annie Adderall", referencing her Adderall-induced breakdown at Riverside High School.
+              </li>
+              <li>
+                Annie mentions how Troy injured himself in a keg incident that cost him his football scholarship.
+              </li>
             </ul>
           </li>
         </ul>
