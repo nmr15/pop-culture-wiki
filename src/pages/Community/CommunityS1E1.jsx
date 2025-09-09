@@ -127,6 +127,13 @@ const CommunityS1E1 = () =>
               <li>
                 Annie mentions how Troy injured himself in a keg incident that cost him his football scholarship.
               </li>
+              <li>
+                Pierce introduces himself as moist towlette tycoon and CEO of <a href="#">Hawthorne Wipes</a>
+              </li>
+              <li>
+                Shirley is shown reacting to Dean Pelton's speech when he mentions the cliche of "middle-age divorcees" attending
+                the school, hinting that she is one of those.
+              </li>
             </ul>
           </li>
         </ul>
