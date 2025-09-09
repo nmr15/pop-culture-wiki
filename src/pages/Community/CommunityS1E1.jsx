@@ -136,6 +136,14 @@ const CommunityS1E1 = () =>
               </li>
             </ul>
           </li>
+          <li>
+            Mad skillz: Jeff's ability to talk his way into and out of situations is demonstrated.
+          </li>
+          <li>
+            Middle Eastern Magic 8 Ball: The basic outline of the show is laid out with Jeff learning to be a better person
+            through his interaction with the study group. The first major story arc is also introduced in the form of the
+            possible budding romance between Jeff and Britta.
+          </li>
         </ul>
       </div>
     </main>
