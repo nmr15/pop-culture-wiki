@@ -162,6 +162,15 @@ const CommunityS1E1 = () =>
               <li>
                 Britta Perry: Former activist trying to find some direction in her life by going to Greendale.
               </li>
+              <li>
+                Abed Nadir: Pop-culture obsessed student who has a possible phychological disorder
+              </li>
+              <li>
+                Troy Barnes: Former high-school BMOC and football star.
+              </li>
+              <li>
+                Annie Edison
+              </li>
             </ul>
           </li>
         </ul>
