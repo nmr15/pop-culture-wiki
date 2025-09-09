@@ -144,6 +144,12 @@ const CommunityS1E1 = () =>
             through his interaction with the study group. The first major story arc is also introduced in the form of the
             possible budding romance between Jeff and Britta.
           </li>
+          <li>
+            Screw you guys!: Jeff is kicked out of the study group but is later asked to rejoin.
+          </li>
+          <li>
+            <a href="#">Winger speech</a>: Jeff gives the first of his many Winger speeches to the group.
+          </li>
         </ul>
       </div>
     </main>
