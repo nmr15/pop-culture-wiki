@@ -33,7 +33,7 @@ export const topics = [
     "id": 6,
     "title": "The Beatles",
     "img": "https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png",
-    "route": "/thebeatles"
+    "route": "/beatles"
   },
   {
     "id": 7,
@@ -175,5 +175,32 @@ export const marvelcharacters = [
     "title": "Captain Marvel (Carol Danvers)",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Carol_Danvers_-_%28evolution%29.jpg/220px-Carol_Danvers_-_%28evolution%29.jpg",
     "route": "/marvelcomics/captainmarvel"
+  },
+]
+
+export const spidermancharacters = [
+  {
+    "id": 1,
+    "title": "Mary Jane Watson",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mary_Jane_Watson_%28circa_2007%29.png/220px-Mary_Jane_Watson_%28circa_2007%29.png",
+    "route": "/marvelcomics/maryjanewatson"
+  },
+  {
+    "id": 2,
+    "title": "May Parker",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Aunt_May_Marvel_Comics.png/200px-Aunt_May_Marvel_Comics.png",
+    "route": "/marvelcomics/mayparker"
+  },
+  {
+    "id": 3,
+    "title": "Ben Parker",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Uncle_Ben.png/220px-Uncle_Ben.png",
+    "route": "/marvelcomics/benparker"
+  },
+  {
+    "id": 4,
+    "title": "Gwen Stacy",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Gwen_Stacy_%28circa_2020%29.png/220px-Gwen_Stacy_%28circa_2020%29.png",
+    "route": "/marvelcomics/gwenstacy"
   },
 ]

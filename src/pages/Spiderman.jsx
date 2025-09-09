@@ -1,4 +1,5 @@
-import React from 'react'
+import { Link } from 'react-router-dom'
+import { spidermancharacters } from '../data'
 
 const Spiderman = () => 
 {
@@ -38,39 +39,28 @@ const Spiderman = () =>
           <li className="py-1"><a href="#3">Personality and themes</a></li>
           <li className="py-1"><a href="#4">Powers, skills, and abilities</a></li>
           <div class="accordion py-1">
-            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-              aria-expanded="true" aria-controls="collapseThree">
-            </span>
-            <li class="d-inline ms-2"><a href="#5">Other versions</a>
-              <ul id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li className="py-1"><a href="5.1">Sky-Spider</a></li>
-                <li className="py-1"><a href="#5.2">Spider-Man from Earth-93165</a></li>
-              </ul>
-            </li>
-          </div>
-          <div class="accordion py-1">
             <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFour"
               aria-expanded="true" aria-controls="collapseFour">
             </span>
-            <li class="d-inline ms-2"><a href="#6">Supporting cast</a></li>
+            <li class="d-inline ms-2"><a href="#5">Supporting cast</a></li>
             <ul id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="py-1"><a href="#6.1">Enemies</a></li>
-              <li className="py-1"><a href="#6.2">Romantic interests</a></li>
-              <li className="py-1"><a href="#6.3">Children</a></li>
-              <li className="py-1"><a href="#6.4">Alternate versions of Spider-Man</a></li>
+              <li className="py-1"><a href="#5.1">Enemies</a></li>
+              <li className="py-1"><a href="#5.2">Romantic interests</a></li>
+              <li className="py-1"><a href="#5.3">Children</a></li>
+              <li className="py-1"><a href="#5.4">Alternate versions of Spider-Man</a></li>
             </ul>
           </div>
           <div class="accordion py-1">
             <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapseFive"
               aria-expanded="true" aria-controls="collapseFive">
             </span>
-            <li class="d-inline ms-2"><a href="#7">Legacy</a></li>
+            <li class="d-inline ms-2"><a href="#6">Legacy</a></li>
             <ul id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="py-1"><a href="#7.1">Reception</a></li>
-              <li className="py-1"><a href="#7.2">Real-life comparisons</a></li>
+              <li className="py-1"><a href="#6.1">Reception</a></li>
+              <li className="py-1"><a href="#6.2">Real-life comparisons</a></li>
             </ul>
           </div>
-          <li className="py-1"><a href="#8">In other media</a></li>
+          <li className="py-1"><a href="#7">In other media</a></li>
         </ul>
       </nav>
       <main className="main px-5 py-4">
@@ -299,7 +289,7 @@ const Spiderman = () =>
           </p>
         </div>
         <div>
-          <h2 id="2">Fictional character biography</h2>
+          <h2 className="article-heading" id="2">Fictional character biography</h2>
           <h3 class="pt-2" id="2.1">Early years</h3>
           <p>
             In Forest Hills, Queens, New York City, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with
@@ -431,8 +421,409 @@ const Spiderman = () =>
             force <a href="#">H.A.M.M.E.R.</a> to advance his agenda, while using his public image to start his own <a href="#">Dark Avengers</a>. Norman, by himself, leads
             the Dark Avengers as the Iron Patriot, a suit of armor fashioned by himself after Iron Man's armor with Captain America's colors.
           </p>
+          <p>
+            Harry is approached by Norman with the offer of a job within the Dark Avengers. It is later revealed that it is a ruse to coerce Harry
+            into taking the American Son armor, whom Norman had planned to kill, in order to increase public sympathy. When Harry has the
+            option of killing Norman, Spider-Man says to decapitate him, since Norman's healing factor may repair a blow to the head. Spider-Man
+            also cautions Harry that killing Norman will cause Harry to "become the son Norman always wanted". Harry instead backs down
+            and turns away from his father forever.
+          </p>
+          <h3 className="pt-2" id="2.6">2010s</h3>
+          <p>
+            At <a href="#">Loki</a>'s suggestion, Norman Osborn <a href="#">creates a rationale</a> to invade <a href="#">Asgard</a>, claiming the world poses a national security threat. He is
+            defeated, and ends up incarcerated in the Raft penitentiary. A conflict between Doctor Octopus over Osborn's
+            son ends when it is revealed the child's father is Harry, who leaves town to raise him. One of Doctor Octopus' Octobots swaps his
+            and Spider-Man's personality, causing Peter to become trapped in the Doctor's dying body, while he in turn claimed Peter's life for
+            himself. Though Peter failed to reverse the change, he manages to establish a weak link with the Doctor's mind, forcing him to relive
+            all of his memories; Otto understands Peter's ideals of power and responsibility and swears to carry on with Peter's life with dignity as
+            a "Superior" Spider-Man.
+          </p>
+          <p>
+            A portion of Peter survived in his original body in the form of a subconsciousness. Later, realizingthat he failed in his role as the
+            "Superior" Spider-Man, Otto willingly allows Peter to reclaim his body in order to defeat Osborn and Save Anna Maria Marconi, Otto's
+            love. In the aftermath of these events, Peter began to amend the relationships damaged by Otto's arrogance and negligence, both
+            as Peter Parker and Spider-Man. He additionally took up the reins of Parker Industries, a small company founded by Otto after
+            leaving Horizon Labs.
+          </p>
+          <p>
+            Peter soon learns a second person had been bitten by the radioactive spider, <a href="#">Cindy Moon</a>. Spider-Man tracks her down and frees
+            her from a bunker owned by the late Ezekiel Simms. Not long after rescuing Cindy, who went on to adopt her own heroine identity
+            as Silk. Spider-Man encounters a contingent of spider-people from all over the <a href="#">Multiverse</a> that banded together to fight the
+            Inheritors, a group of psychic vampires who had begun to hunt down the spider-totems of other realities. During a mission to
+            gather more recruits in 2099, the Spider-Army stumbled upon another party of spider-people led by an alternate version of Otto
+            Octavius. Together, they neutralize the Inhertiors.
+          </p>
+          <p>
+            Peter then stops a nefarious plan put forward by the Jackal. After the events of "<a href="#">Go Down Swinging</a>", Peter's life was plagued with
+            problems on both sides. As Spider-Man, Mayor Fisk publicly supports him, condemning all other vigilantes in order to isolate him from
+            his superhero peers. As Peter Parker, his academic credentials were revoked after accusations of plagiarizing his doctoral
+            dissertation from Octavius, resulting in Peter being fired from the Daily Bugle. Subsequently, Peter became romantically involved with
+            Mary Jane. Briefly, Peter Parker and Spider-Man split into separate beings due to an accident involving the reverse-engineered
+            Isotope Genome Accelerator. Peter eventually manges to reverse the process, and merges his two halves back together before the
+            side-effects worsen and result in their death.
+          </p>
+          <h3 className="pt-2" id="2.7">2020s</h3>
+          <p>
+            Kindred uses the resurrected Sin-Eater's sins to possess Miles Morales, Spider-Gwen, Spider-Woman, Anya Corazon, and Julia
+            Carpenter. Doctor Strange, who manages to restrain a possessed Silk, agrees to help Spider-Man. However, Peter dies when fighting
+            Kindred. While dead, Peter's consciousness remembers the fateful day of the start of One More Day, Kindred is willing to resurrect
+            Peter.
+          </p>
         </div>
         <div>
+          <h2 className="article-heading" id="3">Personality and themes</h2>
+          <p>
+            Sally Kempton for the Village Voice ipined in 1965 that "Spider-Man has a terrible identity problem, a marked inferiority complex,
+            and a fear of women. He is antisocial, castration-ridden, racked with Oedipal guilt, and accident-prone ... a functioning neurotic".
+            Agonizing over his choices, always attempting to do right, he is nonetheless viewed with suspicion by the authorities, who seem unsure
+            as to whether he is a helpful vigilante or a clever criminal.
+          </p>
+          <p>
+            Cultural historian Bradford W. Wright notes:
+          </p>
+          <p className="article-quote">
+            Spider-Man's plight was to be misunderstood and persecuted by the very public that he swore to protect. In the first issue of The Amzaing Spider-Man,
+            J. Jonah Jameson, publisher of the Daily Bugle, launches an editorial campaign agains the "Spider-Man menace". The resulting negative publicity
+            exacerbates popular suspicions about the mysterious Spider-Man and make it impossible for him to earn any more money by performing. Eventually, the
+            bad press leads the authorities to brand him an outlaw. Ironically, Peter finally lands a job as a photographer for Jameson's Daily Bugle.
+          </p>
+          <p>
+            The mid-1960s stories reflect the political tensions of the time; early 1960s Marvel stories often deal with the Cold War and communism. Wright writes:
+          </p>
+          <p className="article-quote">
+            From his high-school beginnings to his entry into college life, Spider-man remained the superhero most relevant to the world
+            of young people. Fittingly, then, his comic book also contained some of the earliest references to the politics of young people.
+            In 1968, in the wake of actual militant student demonstrations at Columbia University, Peter Parker finds himself in the midst
+            of similar unrest at his Empire State University... Peter has to reconcile his natural sympathy for the students with his
+            assumed obligation to combat lawlessness as Spider-Man. As a law-upholding liberal, he finds himself caught between
+            militant leftism and angry conservatives.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="4">Powers, skills, and equipment</h2>
+          <p>
+            Peter Parker has superhuman spider-powers and abilities derived from mutations resulting from the bite of a radioactive spider.
+            Since the original Lee-Ditko stories, Spider-Man has had the ability to cling to walls. This has been speculated to be based on a
+            distance-dependent interaction between his body and surfaces, known as the van der Waals force, though in the <a href="#">2002 Spider-Man film</a>, 
+            his hands and feet are lined with tiny clinging cilia in the manner of a real spider's feet. Spider-Man's other powers include
+            superhuman strength, speed, agility, and balance and a precognitive sixth sense referred to as his "spider-sense", which alerts him to danger.
+          </p>
+          <p>
+            Spider-Man has a healing factor that allows him to recover from injuries sustained during battle. In the aftermath of the 1989
+            "<a href="#">Acts of Vengeance</a>" storyline, Spider-Man was said to have "superhuman recuperative abilities" that sped up his recovery from the
+            exhaustion he suffered in defeating the Tri-Sentinel.
+          </p>
+          <p>
+            The character was originally conceived by Stan Lee and Steve Ditko as intellectually gifted, and later writers have depicted his
+            intellect at genius level. Academically brilliant, Peter has expertise in the fields of applied science, chemistry, physics, biology,
+            engineering, mathematics, and mechanics.
+          </p>
+          <p>
+            With his talents, he sews his own costume to conceal his identity, and he constructs many devices that complement his powers, most
+            notably mechanical web-shooters that allow him to shoot webs, swing at high speed throughout the city, and navigate and trap his
+            enemies with his webs, additionally with a spider-signal as a flashlight and a warning beacon to criminals. Thomas Fireheart's
+            scientits, world-renowned, and unable to replicate the fluid Parker created while hin high school.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="5">Supporting cast</h2>
+          <p>
+            Spider-Man has had a large range of supporting characters introduced in the comics that are essential in the issues and storiylines
+            that star him. After <a href="#">his parents</a> died, Peter Parker was raised by his loving aunt, <a href="#">May Parker</a>, and his
+            uncle and father figure, <a href="#">Ben Parker</a>. After Uncle Ben is murdered by a burglar, Aunt May is virtually Peter's only family,
+            and she and Peter are very close.
+          </p>
+          <p>
+            <a href="#">J. Jonah Jameson</a> is the publisher of the <a href="#">Daily Bugle</a> and Peter Parker's boss. A harsh critic of Spider-Man,
+            he constantly features negative articles about the superhero in his newspaper. Despire his role as Jameson's editor and confidant,
+            <a href="#">Robbie Robertson</a> is always depicted as a supporter or both Spider-Man and his alter ego Peter Parker.
+          </p>
+          <p>
+            <a href="#">Eugene "Flash" Thompson</a> is commonly depicted as Peter Parker's high school tormentor and bully, who idolizes
+            Spider-Man, but is unaware that Spider-Man is Peter Parker, he comes a friend of Peter and adopts his own superhero identity, Agent Venom,
+            after merging with the <a href="#">Venom symbiote</a>. Meanwhile, <a href="#">Harry Osborn</a>, son of Norman Osborn, is most commonly
+            recognized as Peter's best friend, although some versions depicted him as his rival.
+          </p>
+          <h3 className="pt-2" id="5.1">Enemies</h3>
+          <p>
+            Writers and artists over th years have established a rogues gallery of supervillains to face Spider-Man, in comics and in other media.
+            As with Spider-Man, the majority of the villains' powers originate with scientific accidents or the misuse of scientific technology, and many
+            have animal-themed costumes or powers.
+          </p>
+          <h3 className="pt-2" id="5.2">Romantic interests</h3>
+          <p>
+            Peter Parker's romantic interests range between his first crush, fellow high-school student <a href="#">Liz Allan</a>, to having his first date
+            with <a href="#">Betty Brandt</a>, secretary to the <a href="#">Daily Bugle</a> newspaper publisher J. Jonah Jameson. After his breakup with
+            Betty Brandt, Peter eventually falls in love with his college girlfriend <a href="#">Gwen Stacy</a>, daughter of New York City Police Department
+            detective Captain <a href="#">George Stacy</a>, both of whom are later killed by supervillain enemies of Spider-Man. Mary Jane Watson became Peter's
+            best friend and eventually his wife. Felicia Hardy, the <a href="#">Black Cat</a>, is a reformed cat burglar who had been Spider-Man's sole superhuman
+            girlfriend and partner at one point.
+          </p>
+          <h3 className="pt-2" id="5.3">Children</h3>
+          <p>
+            Over the course of the comics, Peter Parker had several biological children across different continuities, usually with Mary Jane Watson,
+            including <a href="#">Spider-Girl (Mayday Parker)</a> and Benjy Parker from the MC2 universe, and Spiderling (Annie Parker) from Earth-18119.
+          </p>
+          <h3 className="pt-2" id="5.4">Alternate version of Spider-Man</h3>
+          <p>
+            Within the <a href="#">Marvel Universe</a>, there exists a multiverse with many variations of Spider-man. An early character included in the
+            1980s is the fictional anthropomorphic anmal parody of Spider-Man as a pig name <a href="#">Spider-Ham</a> (Peter Porker). Many imprints of
+            Spider-Man were created, like the futuristic version of Spider-Man in <a href="#">Marvel 2099</a> name <a href="#">Miguel O'Hara</a>. In the <a href="#">Marvel Comics 2</a>
+            imprint, Peter marries Mary Jane and has a daughter named Mayday Parker, who carries on Spider-Man's legacy, while <a href="#">Marvel Noir</a>
+            has a 1930s version <a href="#">of Peter Parker</a>. Other themed versions exist wihtin the early 2000s, such as a <a href="#">Marvel Mangaverse</a>
+            version and an Indian version from <a href="#">Spider-Man: India</a>, <a href="#">Pavitr Prabhadkar</a>.
+          </p>
+          <p>
+            <a href="#">Ultimate Spider-Man</a> was a popular modern retelling of Spider-Man, <a href="#">Peter Parker</a>. The version of Peter Parker would later be depicted
+            as being killed off and replaced by a Black Hispanic Spider-man named <a href="#">Miles Morales</a>.
+          </p>
+          <p>
+            The storyline "<a href="#">Spider-Verse</a>" brought back many alternate takes on Spider-Man and introduced many new ones, such as an alternate
+            world where <a href="#">Gwen Stacy</a> gets bitten by a radioactive spider instead, along with a British-themed version named <a href="#">Spider-UK</a>, who is
+            Billy Braddock from the <a href="#">Captain British Corps</a>
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="6">Legacy</h2>
+          <p>
+            In the Creaton of Spider-Man, comic book writer-editor and historian Paul Kupperberg calls the character's superpowers "nothing too
+            original", what was original was that outside his secret identity, he was a "nerdy high school student." Going against typical
+            superhero fare, Spider-man included "heavy doses of soap-opera and elements of melodrama." Kupperberg feels that Lee and Ditko
+            had created something new in the world of comics: "the flawed superhero with everyday problems." This idea spawned a comics
+            revolution. The insecurity and anxieties in Marvel's early 1960s comic books, such as The Amazing Spider-Man, The Incredible
+            <a href="#">Hulk</a>, The <a href="#">Fantastic Four</a>, and The <a href="#">X-Men</a> ushered in a new type of superhero, very different from the certain and al-owerful
+            superheroes before them, and changed the public's perception of them. After the comics depicted a real address in Forest Hills,
+            Queens, New York, as May Parker's residence, its residents received many letters fro mchildred to the superhero.
+          </p>
+          <p>
+            Spider-Man has become on of the most recognizeable fictional characters in the world, and has been used to sell toys, games, cereal,
+            candy, soap, andmany other products. He has been used as the company mascot. When Marvel became the first comic book
+            company to be listed on the New York Stock Exchange in 1991, The Wall Street Journal announced "Spider-Man is coming to Wall
+            Street", the event was in turn promoted with an actor in a Spider-Man costume accompanying Stan Lee to the Stock Exchange.
+            Since 1962, hundreds of millions of comics featuring the character have been sold around the world. Spider-Man is th world's
+            most profitable superhero. In 2014, global retail sales of licensed products related to Spider-Man reached
+            approximately $1.3 billion. Comparatively, this amount exceeds the global licensing revenue of <a href="#">Batman,</a> <a href="#">Superman</a>, and the 
+            <a href="#">Avengers</a> combined.
+          </p>
+          <p>
+            Spider-Man joined the Macy's Thanksgiving Day Parade from 1987 to 1998 as one of the balloon floats, designed by John Romita Sr., one of the character's signature
+            artists. A new, different Spider-Man balloon float also appeared from 2009 to 2014.
+          </p>
+          <p>
+            When Marvel wanted to issue a story dealing with the immediate aftermath of the September 11 attacks, the company chose the December 2001 issue of The Amazing Spider-Man.
+            In 2006, Spider-Man garnered major media coverage with the revelation of the character's secret identity, an event detailed in a full-page story in the New York Post
+            before the issue containing the story was even released.
+          </p>
+          <p>
+            In 2008, Marvel announced plans to release a series of educational comics the following year in partnership with the United Nations, depicting Spider-Man alongside the
+            UN Peacekeeping forces to highlight UN peacekeeping missions. A BusinessWeek article listed Spider-Man as one of the top 10 most intelligent fictional characters in American comics.
+          </p>
+          <p>
+            In 2015, the Supreme Court of the United States decided Kimble v. Marvel Entertainment, LLC, a case concerning royalties on a patent for an imitaion web shooter.
+            The opinion for the Court, by Justice Elena Kagan, included several Spider-Man references, concluding with the statement that
+            "with great power, there must also come great responsibility".
+          </p>
+          <p>
+            Spider-Man has become a subject of scientific inquirty. In 1987, researchers at Loyola University conducted a study into the utility of Spider-Man comics for
+            informing children and parents about issues relating to child abuse.
+          </p>
+          <h3 className="pt-2" id="6.1">Reception</h3>
+          <p>
+            In 2005, Bravo's Ultimate Super Heroes, Vixens, and Villains TV series declared that Spider-Man was the number 1 superhero. Empire magazine has ranked him the
+            fifth-greates comic book character of all time. Wizard magazine placed Spider-Man as the third-greatest comic book character on their website. In 2011,
+            Spider-Man placed third on IGN's Top 100 Comic Book Heroes of All Time, behind <a href="#">DC Comics</a> characters <a href="#">Superman</a> and <a href="#">Batman</a>,
+            and sixth in their 2012 list of "The Top 50 Avengers". In 2014, IGN identified Spider-Man the greates Marvel Comics character of all time. A 2015 poll at Comic Book
+            Resources named Spider-man the greates Marvel character of all time. IGN described him as the common everyman that represents many normal people, but also noted his
+            uniqueness compared to many superheroes with his depcted flaws as a superhero. IGN wrote that despite being one of the most tragic superheroes of all time, he is
+            "one of the most fun and snarky superheroes in existence." Empire praised Spider-man's always-present sense of humor and wisecracks in the face of the many tragedies
+            he faces. The magazine website appraised the depiction of his "iconic" superhero poses, described it as "a top artitst's dream."
+          </p>
+          <p>
+            George Marston of Newsarama called Spider-Man's origin the greatest origin story of all time, opining that "Spider-Man's origin combines all of the most classic
+            aspects of pathos, tragedy and scientific wonder into the perfect blend for a superhero origin."
+          </p>
+          <h3 className="pt-2" id="6.2">Real-life comparisons</h3>
+          <p>
+            Real-life people who have been compared to Spider-Man for their climbing feats include:
+          </p>
+          <p>
+            <ul>
+              <li>
+                In 1981, skyscraper-safety activist Dan Goodwin, waring a Spider-Man suit, scaled the Sears Tower in Chicago, Illinois, the Renaissance Tower in Dallas, Texas,
+                and the John Hancock Center in Chicago.
+              </li>
+              <li>
+                Alain Robert, nicknamed "Spider-Man", is a rock and urban climber who has scaled more than 70 tall buildings using his hands
+                and feet, without using additional devices. He sometimes wears a Spider-Man suit during his climbs. In May 2003, he was paid
+                approximately $18,000 to climb the 95-metre (312 ft) Lloyd's building to promote the premiere of the movie Spider-Man on the
+                British television channel Sky Movies.
+              </li>
+              <li>
+                "The Human Spider", alias Bill Strother, scaled the Lamar Building in Augusta, Georgia, in 1921.
+              </li>
+              <li>
+                In Argentina, criminals that climb buildings and trespass into private property through the open balconies are said to use the
+                "Spider-Man method" (in Spanish, <i>el Hombre Araña</i>).
+              </li>
+            </ul>
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading" id="7">In other media</h2>
+          <p>
+            Spider-Man has appeared in comics, cartoons, films, video games, coloring books, novels, records, children's books, and theme park rides.
+            On television, he first starred in the ABC animated series <a href="#">Spider-Man</a> (1967 - 1970), <a href="#">Spidey Super Stories</a> (1974 - 1977)
+            on PBS, and the CBS live-action series <a href="#">The Amazing Spider-Man</a> (1978 - 1979), starring Nicholas Hammond. Other animated series
+            featuring the superhero include the <a href="#">syndicated Spider-Man</a> (1981 - 1982), <a href="#">Spider-Man and His Amazing Friends</a> (1981 - 1983),
+            Fox Kids' <a href="#">Spider-Man</a> (1994 - 1998), <a href="#">Spider-Man Unlimited</a> (1999 - 2000), <a href="#">Spider-Man: The New Animated Series</a> (2003),
+            <a href="#">The Spectacular Spider-Man</a> (2008 - 2009), <a href="#">Ultimate Spider-Man</a> (2012 - 2017), Disney XD's <a href="#">Spider-Man</a> (2017 - 2020),
+            and <a href="#">Spidey and His Amazing Friends</a> (2021 - present).
+          </p>
+          <p>
+            A tokusatsu series featuring Spider-Man was produced by Toei and aired in Japan. It is commonly reffered to by its Japanese
+            pronunciation Supaidā-Man. Spider-Man also appeared in other print forms besides the comics, including novels, children's
+            books, and the daily newspaper comic strip <a href="#">The Amazing Spider-Man</a>, which debuted in January 1977, with the earliest installments
+            written by Stan Lee and drawn by John Romita Sr. Spider-Man has been adapted to other media including games, toys,
+            collectibles, and miscellaneous memorabilia, and has appeared as the main character in <a href="#">numerous computer and video games</a> on
+            over 15 gaming platforms.
+          </p>
+          <p>
+            Spider-Man was featured in a <a href="#">trilogy of live-action films</a> directed by <a href="#">Sam Raimi</a> and starring <a href="#">Tobey maguire</a> as the <a href="#">titular superhero</a>.
+            The first <a href="#">Spider-Man</a> film of the trilogy was released on May 3, 2002, followed by <a href="#">Spider-Man 2</a> (2004) and <a href="#">Spider-Man 3</a> (2007). A
+            third sequel was originally scheduled to be released in 2011; however, <a href="#">Sony</a> later decided to reboot the franchise with a new director
+            and cast. The reboot, titled <a href="#">The Amazing Spider-Man</a>, was released on July 3, 2012, directed by <a href="#">Marc Webb</a>, and starred <a href="#">Andrew 
+            Garfield</a> as the <a href="#">new Spider-Man</a>. It was followed by <a href="#">The Amazing Spider-Man 2</a> (2014). In 2015, Sony and <a href="#">Disney</a> 
+            made a deal for Spider-Man to appear in the <a href="#">Marvel Cinematic Universe</a>. <a href="#">Tom Holland</a> made <a href="#">his debut as Spider-Man</a> in the MCU
+            film <a href="#">Captain America: Civil War</a> (2016), before later starring in his standalone film <a href="#">Spider-Man: Homecoming</a> (2017), directed by <a href="#">Jon 
+            Watts</a>. Holland reprised his role as Spider-Man in <a href="#">Avengers: Infinity War</a> (2018), <a href="#">Avengers: Endgame</a> (2019),
+            <a href="#">Spider-Man: Far From Home</a> (2019), and <a href="#">Spider-Man: No Way Home</a> (2021); Maguire and Garfield reprise their roles in the latter
+            film. <a href="#">Jake Johnson</a> voiced an alternate universe version of Spider-Man in the animated film <a href="#">Spider-Man: Into the Spider-Verse</a>,
+            and reprised the role in its sequel <a href="#">Spider-Man: Across the Spider-Verse</a> (2023). <a href="#">Chris Pine</a> also voiced another version of Peter
+            Parker in Into the Spider-Verse. In 2021, <a href="#">Hudson Thames</a> was cast as the voice of Spider-Man in the animated anthology series <a href="#">What 
+            If... ?</a>, replacing Tom Holland. He later reprised the role for the animated series <a href="#">Your Friendly Neighborhood Spider-Man</a> (2025).
+          </p>
+          <p>
+            Following a brief contract dispute over financial terms, in 2019, Sony and Disney reached a deal to allow Spider-Man to return to the
+            MCU, with the two studios jointly producing Spider-Man films.
+          </p>
+          <p>
+            A Broadway musical, Spider-Man: Turn Off the Dark, began previews on November 14, 2010, at the Foxwood Theatre on Broadway,
+            with the official opening night on June 14, 2011. The music and lyrics were written by <a href="#">Bono</a> and The Edge of the rock group
+            <a href="#">U2</a>, with a book by Julie Taymor, Glen Berger, andRoberto Aguirre-Sacasa. Turn Off the Dark is currently the most expensive
+            musical in Broadway history, costing an estimated $70 million. In addition, the show's unusually high runing costs are reported to
+            have been about $1.2 million per week.
+          </p>
+          <p>
+            In the fine arts, since the Pop Art period of the 1960s, the character of Spider-Man has been "appropriated" by multiple visual artists
+            and incorporated into contemporary artwork, including Andy Warhol, Roy Lichtenstein, Mel Ramos, Vijay, Dulce
+            Pinzon, Mr. Brainwash, and F. Lennox Campello.
+          </p>
+        </div>
+        <div>
+          <table class="table-center">
+            <thead>
+              <tr>
+                <th colspan="3">Spider-Man</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="3">Characters</td>
+                <td>Main character</td>
+                <td>Peter Parker</td>
+              </tr>
+              <tr>
+                <td>Supporting Characters</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Mary Jane Watson</a></li>
+                    <li><a href="#">May Parker</a></li>
+                    <li><a href="#">Ben Parker</a></li>
+                    <li><a href="#">Gwen Stacy</a></li>
+                    <li><a href="#">Harry Osborn</a></li>
+                    <li><a href="#">J. Jonah Jameson</a></li>
+                    <li><a href="#">Richard and Mary Parker</a></li>
+                    <li><a href="#">Liz Allan</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Enemies</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Green Goblin</a></li>
+                    <li><a href="#">Doctor Octopus</a></li>
+                    <li><a href="#">Venom</a></li>
+                    <li><a href="#">Sandman</a></li>
+                    <li><a href="#">Lizard</a></li>
+                    <li><a href="#">Electro</a></li>
+                    <li><a href="#">Vulture</a></li>
+                    <li><a href="#">Mysterio</a></li>
+                    <li><a href="#">Rhino</a></li>
+                    <li><a href="#">Scorpion</a></li>
+                    <li><a href="#">Shocker</a></li>
+                    <li><a href="#">Kraven the Hunter</a></li>
+                    <li><a href="#">Black Cat</a></li>
+                    <li><a href="#">Chameleon</a></li>
+                    <li><a href="#">Kingpin</a></li>
+                    <li><a href="#">Tombstone</a></li>
+                    <li><a href="#">Hammerhead</a></li>
+                    <li><a href="#">Morbius</a></li>
+                    <li><a href="#">Carnage</a></li>
+                    <li><a href="#">Hobgoblin</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Alternate versions</td>
+                <td colspan="2">
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man (Raimi films)</a></li>
+                    <li><a href="#">Spider-Man (Webb films)</a></li>
+                    <li><a href="#">Spider-Man (MCU)</a></li>
+                    <li><a href="#">Miles Morales</a></li>
+                    <li><a href="#">Spider-Woman (Gwen Stacy)</a></li>
+                    <li><a href="#">Spider-Man 2099</a></li>
+                    <li><a href="#">Spider-Man Noir</a></li>
+                    <li><a href="#">Peni Parker</a></li>
+                    <li><a href="#">Spider-Ham</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="3">
+                  Films
+                </td>
+                <td>Spider-Man</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man</a></li>
+                    <li><a href="#">Spider-Man 2</a></li>
+                    <li><a href="#">Spider-Man 3</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>The Amazing Spider-Man</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">The Amazing Spider-Man</a></li>
+                    <li><a href="#">The Amazing Spider-Man 2</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>Marvel Cinematic Universe</td>
+                <td>
+                  <ul class="table-list">
+                    <li><a href="#">Spider-Man: Homecoming</a></li>
+                    <li><a href="#">Spider-Man: Far From Home</a></li>
+                    <li><a href="#">Spider-Man: No Way Home</a></li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </main>
     </>

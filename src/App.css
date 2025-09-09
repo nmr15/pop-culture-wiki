@@ -71,18 +71,18 @@ a
   object-fit: contain;
 }
 
-.article-card
+.character-card
 {
   width: 15rem !important;
   margin: 0 auto !important;
   border: none;
 }
 
-.article-card-img
+.character-card-img
 {
   width: 15rem !important;
   height: 20rem !important;
-  object-fit: cover !important;
+  object-fit: contain !important;
   text-align: center !important;
 }
 
@@ -132,4 +132,36 @@ a
   height: 10rem;
   object-fit: contain;
   text-align: center;
+}
+
+table
+{
+  border-collapse: collapse;
+}
+
+td, th
+{
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.table-center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table-list
+{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.table-list li
+{
+  padding: 0.5rem;
 }
