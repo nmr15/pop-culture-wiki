@@ -151,6 +151,20 @@ const CommunityS1E1 = () =>
             <a href="#">Winger speech</a>: Jeff gives the first of his many Winger speeches to the group.
           </li>
         </ul>
+        <p>People</p>
+        <ul>
+          <li>
+            First appearance: The main characters and a few recurring ones are introduced.
+            <ul>
+              <li>
+                Jeff Winger: Disbarred attorney going to Greendale to earn a 4-year degree and return to being a lawyer
+              </li>
+              <li>
+                Britta Perry: Former activist trying to find some direction in her life by going to Greendale.
+              </li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </main>
     </>
