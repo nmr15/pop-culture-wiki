@@ -436,14 +436,25 @@ const CommunityS1E1 = () =>
       </div>
       <div>
         <h2 className="article-heading" id="4">Quotes</h2>
-        <p className="pb-1">
-          <i>"I still cannot figure out how you got a jury to connect September the 11th with my DUI."</i>
-          - Ian
-        </p>
-        <p>
-          <i>"The state bar has suspended my license. They found out my college degree was less than
+        <div className="py-2">
+          <p>
+            <i>"I still cannot figure out how you got a jury to connect September the 11th with my DUI."</i> 
+            - Ian
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>"The state bar has suspended my license. They found out my college degree was less than
             legitimate."</i> - Jeff
-        </p>
+          </p>
+          <p>
+            <i>"I thought you had a bachelor's from Columbia?"</i> - Ian
+          </p>
+          <p>
+            <i>"And now I have to get one from America."</i> - Jeff
+          </p>
+        </div>
+        
       </div>
     </main>
     </>
