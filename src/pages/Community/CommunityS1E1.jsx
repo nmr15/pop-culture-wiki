@@ -227,6 +227,25 @@ const CommunityS1E1 = () =>
                 is shown.
               </li>
             </ul>
+            <li>
+              School uniform:
+              <ul>
+                <li>
+                  The first of many of Annie's signature cardigans debuts.
+                </li>
+                <li>
+                  Troy's letterman jacket makes its debut.
+                </li>
+              </ul>
+            </li>
+          </li>
+        </ul>
+        <h3 className="pt-2" id="2.2">Running Gags</h3>
+        <ul>
+          <li>
+            A dollop of whipped irony: When Shirley tells Pierce he has been sexually harassing her, Pierce
+            replies he wouldn't do that to someone that turns him on and Troy points out the irony of his
+            statement.
           </li>
         </ul>
       </div>
