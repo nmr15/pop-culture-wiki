@@ -523,6 +523,16 @@ const CommunityS1E1 = () =>
               "Well, that actually was from the Breakfast Club."
             </i> - Jeff
           </p>
+          <p>
+            <i>
+              "Nobody puts Baby in the corner."
+            </i> - Abed
+          </p>
+          <p>
+            <i>
+              "Dirty Dancing."
+            </i> - Jeff
+          </p>
         </div>
       </div>
     </main>
