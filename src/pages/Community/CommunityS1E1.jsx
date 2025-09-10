@@ -497,6 +497,33 @@ const CommunityS1E1 = () =>
             [Shirley nods]
           </p>
         </div>
+        <div className="py-2">
+          <p>
+            <i>"You have been sexually harassing me since the very first day of class."</i> - Shirley
+          </p>
+          <p>
+            <i>"Sexually harassing? What? That makes no sense to me. Why would I harass someone who turns me
+              on?""
+            </i> - Pierce
+          </p>
+          <p>
+            <i>"Saying she turns you on is the harassment, dude."</i> - Troy
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "You know what I got for Christmas? It was a banner year at the Bender family. I got a carton
+              of cigarettes. The old man grabbed me and he said. 'Heeeey, smoke up Johnny!' No dad, what
+              about you!"
+            </i> - Abed
+          </p>
+          <p>
+            <i>
+              "Well, that actually was from the Breakfast Club."
+            </i> - Jeff
+          </p>
+        </div>
       </div>
     </main>
     </>
