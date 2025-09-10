@@ -169,8 +169,30 @@ const CommunityS1E1 = () =>
                 Troy Barnes: Former high-school BMOC and football star.
               </li>
               <li>
-                Annie Edison
+                Annie Edison: Recovering Adderall addict who went to the same high school as Troy.
               </li>
+              <li>
+                Shirley Bennett: Recent divorcee taking business courses at Greendale.
+              </li>
+              <li>
+                Dean Pelton: Dean of Greendale.
+              </li>
+              <li>
+                Professor Duncan: Psychology professor at Greendale.
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <p>Places</p>
+        <ul>
+          <li>
+            This must be the place: Debut of:
+            <ul>
+              <li>Campus Quad</li>
+              <li><a href="#">North Cafeteria</a></li>
+              <li><a href="#">Library</a></li>
+              <li><a href="#">The study room</a></li>
+              <li>Ian Duncan's office</li>
             </ul>
           </li>
         </ul>
