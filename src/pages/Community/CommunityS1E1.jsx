@@ -297,6 +297,46 @@ const CommunityS1E1 = () =>
               </li>
             </ul>
           </li>
+          <li>
+            Name That Tune:
+            <ul>
+              <li>
+                "Daylight" by Matt & Kim.
+              </li>
+              <li>
+                "Good Ol' Fashion Nightmare" by Matt & Kim.
+              </li>
+              <li>
+                "Ahab, The Arab" by Ray Stevens - Pierce calls Abed 'Abed the Arab' pronounced 'Ay-bed' the
+                'Ay-rab', possibly in reference of the 1962 racially stereotyping song.
+              </li>
+              <li>
+                Cover version of "Don't You (Forget About Me)". The Original version was recorded by Simple
+                Minds and appeared on the soundtrack to The Breakfast Club.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Shout out:
+            <ul>
+              <li>
+                Both Abed and Jeff state that Britta looks like the actress Elizabeth Shue.
+              </li>
+              <li>
+                Britta mentions that she is a fan of the British Rock band Radiohead and quit school to follow
+                them on tour because she thought it would impress them.
+              </li>
+              <li>
+                Jeff mentions Ben Affleck's Oscar win for Good Will Hunting.
+              </li>
+              <li>
+                Abed compares Jeff to Bill Murray and then Michael Douglas.
+              </li>
+              <li>
+                Troy calls Jeff Seacrest after American Idol host Ryan Seacrest.
+              </li>
+            </ul>
+          </li>
         </ul>
       </div>
     </main>
