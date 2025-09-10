@@ -434,6 +434,17 @@ const CommunityS1E1 = () =>
           </li>
         </ul>
       </div>
+      <div>
+        <h2 className="article-heading" id="4">Quotes</h2>
+        <p>
+          <i>"I still cannot figure out how you got a jury to connect September the 11th with my DUI."</i>
+          - Ian
+        </p>
+        <p>
+          <i>"The state bar has suspended my license. They found out my college degree was less than
+            legitimate."</i> - Jeff
+        </p>
+      </div>
     </main>
     </>
   )
