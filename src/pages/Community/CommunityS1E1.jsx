@@ -247,6 +247,28 @@ const CommunityS1E1 = () =>
             replies he wouldn't do that to someone that turns him on and Troy points out the irony of his
             statement.
           </li>
+          <li>
+            Attention students!: The series begins with Dean Pelton welcoming all the new students to Greendale
+            over a portable Public address system.
+          </li>
+          <li>
+            Board certified tutor:
+            <ul>
+              <li>
+                Jeff pretends to be a board certified Spanish tutor.
+              </li>
+              <li>
+                Pierce butchers the group introductions despite claiming to be a Toastmaster.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Disney face: Annie uses her sad eyes to help convince Britta to let Jeff study with them.
+          </li>
+          <li>
+            It's a mixer, it's a mixer!: Abed recounts, word for word, everything Britta said when they first
+            met.
+          </li>
         </ul>
       </div>
     </main>
