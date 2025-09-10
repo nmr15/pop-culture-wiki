@@ -196,6 +196,39 @@ const CommunityS1E1 = () =>
             </ul>
           </li>
         </ul>
+        <p>Things</p>
+        <ul>
+          <li>
+            A sweet ride
+            <ul>
+              <li>
+                Jeff's Lexus is mentioned in this pilot but is not physically seen until the next
+                episode.
+              </li>
+              <li>
+                Duncan's minicoupe is shown
+              </li>
+            </ul>
+          </li>
+          <li>
+            School song: "I'm as High as Hell (And You're About to Get Shot)" by MC Dan Harmon plays from
+            the boom box before the Dean's speech.
+          </li>
+          <li>
+            School supplies
+            <ul>
+              <li>
+                The Spanish textbook Dos Mundos makes its debut.
+              </li>
+              <li>
+                Jeff names a pencil "Steve" and then breaks it to prove a point during his first "Winger
+                speech." A pencil is later seen in the opening credits for several seasons. In the season
+                five opening credits, a broken pencil that is taped together, possibly referring to "Steve,"
+                is shown.
+              </li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </main>
     </>
