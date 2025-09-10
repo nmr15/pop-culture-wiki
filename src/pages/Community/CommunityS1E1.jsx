@@ -354,6 +354,38 @@ const CommunityS1E1 = () =>
             and I was conditioned to believe that every black woman over 50 is a cosmic mentor."
           </li>
         </ul>
+        <p>Meta references</p>
+        <ul>
+          <li>
+            IRL: Jeff is called Ryan Seacrest by Troy: this references the friendly rivalry actor <a href="#">Joel
+            McHale</a> has with his one time fellow E! Entertainment personality.
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h2 className="article-heading" id="3">Trivia</h2>
+        <ul>
+          <li>
+            The original script for the pilot had a number of differences from the broadcast version,
+            including dialogue, extended scenes, and most notably, a different name for Jeff: "Crocker".
+            Also, the cafeteria lady made recurring appearances throughout the episode, but all the scenes,
+            with the exception of her meeting Jeff, were cut.
+          </li>
+          <li>
+            When giving the "Look Left" speech, Jeff says that instead of giving you the salt you asked for,
+            Abed would give you soup, because soup is better. Joel McHale, who played Jeff, is the host of
+            The Soup.
+          </li>
+          <li>
+            Troy calls Jeff "Seacrest". It is a running gag of Joel McHale's on The Soup to make fun of Ryan
+            Seacrest.
+          </li>
+          <li>
+            Britta claims to have been a Peace Corps volunteer after dropping out of high school. This would
+            not be possible, as Peace Corps generally requires a minimum of a bachelor's degree for acceptance
+            into its volunteer program: Britta does not have the background for its non-degree positions.
+          </li>
+        </ul>
       </div>
     </main>
     </>
