@@ -337,6 +337,22 @@ const CommunityS1E1 = () =>
               </li>
             </ul>
           </li>
+          <li>
+            TV Guide:
+            <ul>
+              <li>
+                Cafeteria Lady calls Jeff "Seinfield" (pronounced "field") referring to the comedia Jerry
+                Seinfeld. Jeff corrects her pronunciation and tells her it is "Seinfeld (pronounced "feld")."
+              </li>
+              <li>
+                Jeff mentions that people can empathize with sharks during Shark Week.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Use your allusion: The Magical Negro television trope is alluded to by Jeff: "I was raised on TV,
+            and I was conditioned to believe that every black woman over 50 is a cosmic mentor."
+          </li>
         </ul>
       </div>
     </main>
