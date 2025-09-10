@@ -278,6 +278,26 @@ const CommunityS1E1 = () =>
             episode, both of them also notice Britta's resemblance to Elisabeth Shue.
           </li>
         </ul>
+        <h3 className="pt-2" id="2.3">Pop culture references</h3>
+        <ul>
+          <li>
+            IMDb:
+            <ul>
+              <li>
+                Abed mentions The Breakfast Club several times and quotes a line from the film.
+              </li>
+              <li>
+                Abed briefly quotes from Dirty Dancing.
+              </li>
+              <li>
+                Abed says that Jeff is like Bill Murray from Stripes or Meatballs.
+              </li>
+              <li>
+                Troy calls Abed Slumdog Millionaire.
+              </li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </main>
     </>
