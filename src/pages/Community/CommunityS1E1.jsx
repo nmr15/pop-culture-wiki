@@ -269,6 +269,14 @@ const CommunityS1E1 = () =>
             It's a mixer, it's a mixer!: Abed recounts, word for word, everything Britta said when they first
             met.
           </li>
+          <li>
+            Mad or hungry?: When Jeff says he needs help studying and Annie, Shirley, and Britta have a silent
+            discussion with facial expressions, Abed can't read their faces and wonders if he has gone deaf.
+          </li>
+          <li>
+            You're a huge nerd: Jeff picks up on all of Abed's movie references. In the DVD version of the
+            episode, both of them also notice Britta's resemblance to Elisabeth Shue.
+          </li>
         </ul>
       </div>
     </main>
