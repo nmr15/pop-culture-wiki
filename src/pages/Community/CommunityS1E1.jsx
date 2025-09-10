@@ -354,7 +354,7 @@ const CommunityS1E1 = () =>
             and I was conditioned to believe that every black woman over 50 is a cosmic mentor."
           </li>
         </ul>
-        <p>Meta references</p>
+        <h3 className="pt-2" id="2.4">Meta references</h3>
         <ul>
           <li>
             IRL: Jeff is called Ryan Seacrest by Troy: this references the friendly rivalry actor <a href="#">Joel
@@ -384,6 +384,53 @@ const CommunityS1E1 = () =>
             Britta claims to have been a Peace Corps volunteer after dropping out of high school. This would
             not be possible, as Peace Corps generally requires a minimum of a bachelor's degree for acceptance
             into its volunteer program: Britta does not have the background for its non-degree positions.
+          </li>
+          <li>
+            The episode was in memoriam of director John Hughes, who directed the film The Breakfast Club
+            which is referenced multiple times in the episode.
+          </li>
+          <li>
+            The following scenes are absent from the version available on Amazon Prime Video and Netflix, due
+            to being from the syndication cut and thus reducing the episode's length from 24:28 to 21:48.
+            <ul>
+              <li>
+                The very beginning of the episode, when Dean Pelton tries and fails to switch his boombox from
+                "tape" to "mic" is missing. Instead, the episode begins with his speech.
+              </li>
+              <li>
+                Jeff's comment on the size of Professor Duncan's office. Duncan and Jeff reflecting on the time
+                Jeff helped Duncan with his DUI by bringing up 9/11 in court.
+                <ul>
+                  <li>
+                    The chalupas incident is nevertheless mentioned later on, now stripped of its context, and
+                    instead of saying he does love America, Duncan simply ponders silently for a couple of seconds,
+                    then agrees to help Jeff.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                Jeff's conversation with the cafeteria lady.
+              </li>
+              <li>
+                Britta recounting her past to Jeff. Here, she immediately answers "what's your deal?" with "Honesty".
+              </li>
+              <li>
+                Abed and later Jeff bringing up Britta's resemblance to Elisabeth Shue.
+              </li>
+              <li>
+                Jeff commenting on the age of the people running around the football field.
+              </li>
+              <li>
+                Annie reminding Troy she sat behind him in class. Here, he recognizes her on his own when she brings
+                up his letter jacket.
+              </li>
+              <li>
+                The shot of Jeff looking for Duncan and reacting with disgust when he see his car.
+              </li>
+              <li>
+                Troy asking Jeff whether he should keep waring his letter jacket.
+              </li>
+            </ul>
           </li>
         </ul>
       </div>
