@@ -454,7 +454,49 @@ const CommunityS1E1 = () =>
             <i>"And now I have to get one from America."</i> - Jeff
           </p>
         </div>
-        
+        <div className="py-2">
+          <p>
+            <i>"Jeff, are you familiar with the adage 'cheaters never prosper'?"</i> - Ian
+          </p>
+          <p>
+            <i>"No, and if I had wanted to learn something, I wouldn't have come to community college."</i> - Jeff
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>"You already know Brittles."</i> - Pierce
+          </p>
+          <p>
+            <i>"Britta"</i> - Britta
+          </p>
+          <p>
+            <i>"Abed. Abed the Arab. Is that inappropriate?</i> - Pierce
+          </p>
+          <p>
+            <i>"Sure"</i> - Abed
+          </p>
+          <p>
+            <i>"Roy. Roy the wonder boy."</i> - Pierce
+          </p>
+          <p>
+            <i>"Troy."</i> - Troy
+          </p>
+          <p>
+            <i>"Little princess Elizabeth."</i> - Pierce
+          </p>
+          <p>
+            <i>"Annie."</i> - Annie
+          </p>
+          <p>
+            <i>"And finally, this beautiful creature is named Shirley."</i> - Pierce
+          </p>
+          <p>
+            <i>"Is that even close?"</i> - Jeff
+          </p>
+          <p>
+            [Shirley nods]
+          </p>
+        </div>
       </div>
     </main>
     </>
