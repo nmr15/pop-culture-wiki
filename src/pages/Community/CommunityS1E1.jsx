@@ -436,7 +436,7 @@ const CommunityS1E1 = () =>
       </div>
       <div>
         <h2 className="article-heading" id="4">Quotes</h2>
-        <p>
+        <p className="pb-1">
           <i>"I still cannot figure out how you got a jury to connect September the 11th with my DUI."</i>
           - Ian
         </p>
