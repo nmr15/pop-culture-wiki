@@ -271,7 +271,9 @@ const Community = () =>
                   <Link to="/community/pilot">
                   <li class="list-group-item">Pilot</li>
                   </Link>
+                  <Link to="/community/spanish101">
                   <li class="list-group-item">Spanish 101</li>
+                  </Link>
                 </ul>
               </div>
             </div>

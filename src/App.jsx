@@ -6,6 +6,7 @@ import AssassinsCreed from "./pages/AssassinsCreed"
 import Beatles from "./pages/Beatles"
 import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
+import CommunityS1E2 from "./pages/Community/CommunityS1E2"
 import Gta from "./pages/Gta"
 import Himym from "./pages/Himym"
 import MarvelComics from "./pages/MarvelComics"
@@ -27,6 +28,7 @@ function App() {
         <Route path='/starwars' element={<StarWars />} />
         <Route path='/community' element={<Community />} />
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
+        <Route path="/community/spanish101" element={<CommunityS1E2 />} />
         <Route path='/beatles' element={<Beatles />} />
         <Route path='/spongebob' element={<Spongebob />} />
         <Route path='/himym' element={<Himym />} />

@@ -9,12 +9,12 @@ const CommunityS1E1 = () =>
     </nav>
     <main className="main px-5 py-4">
       <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
-            <Link to="/"><li class="breadcrumb-item">Home</li></Link>
-            <Link to="/community"><li class="breadcrumb-item">Community</li></Link>
-            <li class="breadcrumb-item active" aria-current="page">Pilot</li>
+          <ol className="breadcrumb">
+            <Link to="/"><li className="breadcrumb-item">Home</li></Link>
+            <Link to="/community"><li className="breadcrumb-item">Community</li></Link>
+            <li className="breadcrumb-item active" aria-current="page">Pilot</li>
           </ol>
-        </nav>
+      </nav>
       <div id="top">
         <h1 className="article-heading">Pilot (Community)</h1>
       </div>
