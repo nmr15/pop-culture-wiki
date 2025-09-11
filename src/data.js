@@ -211,5 +211,17 @@ export const communitys1 = [
     "title": "Pilot",
     "file": "CommunityS1E1",
     "route": "/community/pilot"
-  }
+  },
+  {
+    "id": "cmntys1e2",
+    "title": "Spanish 101",
+    "file": "CommunityS1E2",
+    "route": "/community/spanish101"
+  },
+  {
+    "id": "cmntys1e3",
+    "title": "Introduction to Film",
+    "file": "CommunityS1E3",
+    "route": "/community/intoductiontofilm"
+  },
 ]
