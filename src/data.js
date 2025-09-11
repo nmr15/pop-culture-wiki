@@ -216,12 +216,54 @@ export const communitys1 = [
     "id": "cmntys1e2",
     "title": "Spanish 101",
     "file": "CommunityS1E2",
-    "route": "/community/spanish101"
+    "route": "/community/spanish_101"
   },
   {
     "id": "cmntys1e3",
     "title": "Introduction to Film",
     "file": "CommunityS1E3",
-    "route": "/community/intoductiontofilm"
+    "route": "/community/intoduction_to_film"
+  },
+  {
+    "id": "cmntys1e4",
+    "title": "Social Psychology",
+    "file": "CommunityS1E4",
+    "route": "/community/social_psychology"
+  },
+  {
+    "id": "cmntys1e5",
+    "title": "Advanced Criminal Law",
+    "file": "CommunityS1E5",
+    "route": "/community/advanced_criminal_law"
+  },
+  {
+    "id": "cmntys1e6",
+    "title": "Football, Feminism, and You<",
+    "file": "CommunityS1E6",
+    "route": "/community/football_feminism_and_you"
+  },
+  {
+    "id": "cmntys1e7",
+    "title": "Introduction to Statistics",
+    "file": "CommunityS1E7",
+    "route": "/community/introduction_to_statistics"
+  },
+  {
+    "id": "cmntys1e8",
+    "title": "Home Economics",
+    "file": "CommunityS1E8",
+    "route": "/community/home_economics"
+  },
+  {
+    "id": "cmntys1e9",
+    "title": "Debate 109",
+    "file": "CommunityS1E9",
+    "route": "/community/debate_109"
+  },
+  {
+    "id": "cmntys1e10",
+    "title": "Environmental Science",
+    "file": "CommunityS1E10",
+    "route": "/community/environmental_science"
   },
 ]
