@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const CommunityS1E1 = () =>
 {
   return(
@@ -8,8 +10,8 @@ const CommunityS1E1 = () =>
     <main className="main px-5 py-4">
       <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item"><a href="#">Community</a></li>
+            <Link to="/"><li class="breadcrumb-item">Home</li></Link>
+            <Link to="/community"><li class="breadcrumb-item">Community</li></Link>
             <li class="breadcrumb-item active" aria-current="page">Pilot</li>
           </ol>
         </nav>
