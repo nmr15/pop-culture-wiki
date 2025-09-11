@@ -266,4 +266,34 @@ export const communitys1 = [
     "file": "CommunityS1E10",
     "route": "/community/environmental_science"
   },
+  {
+    "id": "cmntys1e11",
+    "title": "The Politics of Human Sexuality",
+    "file": "CommunityS1E11",
+    "route": "/community/the_politics_of_human_sexuality"
+  },
+  {
+    "id": "cmntys1e12",
+    "title": "Comparative Religion",
+    "file": "CommunityS1E12",
+    "route": "/community/comparative_religion"
+  },
+  {
+    "id": "cmntys1e13",
+    "title": "Investigative Journalism",
+    "file": "CommunityS1E13",
+    "route": "/community/investigative_journalism"
+  },
+  {
+    "id": "cmntys1e14",
+    "title": "Interpretive Dance",
+    "file": "CommunityS1E14",
+    "route": "/community/interpretive_dance"
+  },
+  {
+    "id": "cmntys1e15",
+    "title": "Romantic Expressionism",
+    "file": "CommunityS1E15",
+    "route": "/community/romantic_expressionism"
+  },
 ]
