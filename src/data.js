@@ -205,6 +205,87 @@ export const spidermancharacters = [
   },
 ]
 
+export const communitychars = [
+  {
+    "id": "cmtychar1",
+    "title": "Jeff Winger",
+    "file": "JeffWinger",
+    "route": "/community/jeff_winger"
+  },
+  {
+    "id": "cmtychar2",
+    "title": "Britta Perry",
+    "file": "BrittaPerry",
+    "route": "/community/britta_perry"
+  },
+  {
+    "id": "cmtychar3",
+    "title": "Abed Nadir",
+    "file": "AbedNadir",
+    "route": "/community/abed_nadir"
+  },
+  {
+    "id": "cmtychar4",
+    "title": "Troy Barnes",
+    "file": "TroyBarnes",
+    "route": "/community/troy_barnes"
+  },
+  {
+    "id": "cmtychar5",
+    "title": "Annie Edison",
+    "file": "AnnieEdison",
+    "route": "/community/annie_edison"
+  },
+  {
+    "id": "cmtychar6",
+    "title": "Shirley Bennett",
+    "file": "ShirleyBennett",
+    "route": "/community/shirley_bennett"
+  },
+  {
+    "id": "cmtychar7",
+    "title": "Pierce Hawthorne",
+    "file": "PierceHawthorne",
+    "route": "/community/pierce_hawthorne"
+  },
+  {
+    "id": "cmtychar8",
+    "title": "Ben Chang",
+    "file": "BenChang",
+    "route": "/community/ben_chang"
+  },
+  {
+    "id": "cmtychar9",
+    "title": "Craig Pelton",
+    "file": "CraigPelton",
+    "route": "/community/craig_pelton"
+  },
+  {
+    "id": "cmtychar10",
+    "title": "Ian Duncan",
+    "file": "IanDuncan",
+    "route": "/community/ian_duncan"
+  },
+  {
+    "id": "cmtychar11",
+    "title": "Buzz Hickey",
+    "file": "BuzzHickey",
+    "route": "/community/buzz_hickey"
+  },
+  {
+    "id": "cmtychar12",
+    "title": "Frankie Dart",
+    "file": "FrankieDart",
+    "route": "/community/frankie_dart"
+  },
+  {
+    "id": "cmtychar13",
+    "title": "Elroy Patashnik",
+    "file": "ElroyPatashnik",
+    "route": "/community/elroy_patashnik"
+  },
+]
+
 export const communitys1 = [
   {
     "id": "cmntys1e1",
