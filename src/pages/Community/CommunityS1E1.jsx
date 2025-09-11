@@ -534,6 +534,109 @@ const CommunityS1E1 = () =>
             </i> - Jeff
           </p>
         </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "You know what makes humans different from other animals?"
+            </i> - Jeff
+          </p>
+          <p>
+            <i>
+              "Feet."
+            </i> - Troy
+          </p>
+          <p>
+            <i>
+              "No, no, come on. Bears have feet."
+            </i> - Pierce
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "We can sympathize with a pencil. We can forgive a shark, and we can give Ben Affleck an
+              Academy Award for screenwriting."
+            </i> - Jeff
+          </p>
+          <p>
+            <i>
+              "Big mistake."
+            </i> - Pierce
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "You've just stopped being a study group. You've become something unstoppable. I hereby
+              pronounce you a community."
+            </i> - Jeff
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "I like you Jeffrey. You remind me of myself at your age."
+            </i> - Pierce
+          </p>
+          <p>
+            <i>
+              "I deserve that."
+            </i> - Jeff
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "Jeff, before you say anything, you might wanna think about the gift you've given."
+            </i> - Duncan
+          </p>
+          <p>
+            <i>
+              "An excuse to punch a hippie?"
+            </i> - Jeff
+          </p>
+          <p>
+            <i>
+              "No, no. Not that. An important lesson. You see, the tools you acquired to survive out there
+              will not help you here at Greendale. What you have my friend, is a second chance at an
+              honest life."
+            </i> - Duncan
+          </p>
+          <p>
+            <i>
+              "Why are people trying to teach me everything at a school that has an express tuition aisle?
+              Give me my keys."
+            </i> - Jeff
+          </p>
+          <p>
+            <i>
+              "No, I have to keep your car for a lesson."
+            </i> - Duncan
+          </p>
+          <p>
+            <i>
+              "(Jeff scaring Duncan)"
+            </i>
+          </p>
+          <p>
+            <i>
+              "Please, please don't hit me (gives Jeff his keys back)"
+            </i> - Duncan
+          </p>
+          <p>
+            <i>
+              "Are we cool, are we cool? We cool."
+            </i> - Duncan
+          </p>
+        </div>
+        <div className="py-2">
+          <p>
+            <i>
+              "Well, the funny thing about being smart is that you can get through most of life without
+              every having to do any work."
+            </i> - Jeff
+          </p>
+        </div>
       </div>
     </main>
     </>
