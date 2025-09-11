@@ -296,4 +296,34 @@ export const communitys1 = [
     "file": "CommunityS1E15",
     "route": "/community/romantic_expressionism"
   },
+  {
+    "id": "cmntys1e16",
+    "title": "Communication Studies",
+    "file": "CommunityS1E16",
+    "route": "/community/communication__studies"
+  },
+  {
+    "id": "cmntys1e17",
+    "title": "Physical Education",
+    "file": "CommunityS1E17",
+    "route": "/community/physical_education"
+  },
+  {
+    "id": "cmntys1e18",
+    "title": "Basic Genealogy",
+    "file": "CommunityS1E18",
+    "route": "/community/basic_genealogy"
+  },
+  {
+    "id": "cmntys1e19",
+    "title": "Beginner Pottery",
+    "file": "CommunityS1E19",
+    "route": "/community/beginner_pottery"
+  },
+  {
+    "id": "cmntys1e20",
+    "title": "The Science of Illusion",
+    "file": "CommunityS1E20",
+    "route": "/community/the_science_of_illusion"
+  },
 ]

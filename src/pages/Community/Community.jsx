@@ -558,7 +558,7 @@ const Community = () =>
                     <li><a href="#">Investigative Journalism</a></li>
                     <li><a href="#">Interpretive Dance</a></li>
                     <li><a href="#">Romantic Expressionism</a></li>
-                    <li><a href="#">Communication Studyies</a></li>
+                    <li><a href="#">Communication Studies</a></li>
                     <li><a href="#">Physical Education</a></li>
                     <li><a href="#">Basic Genealogy</a></li>
                     <li><a href="#">Beginner Pottery</a></li>
