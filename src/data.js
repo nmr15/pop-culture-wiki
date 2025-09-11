@@ -326,4 +326,34 @@ export const communitys1 = [
     "file": "CommunityS1E20",
     "route": "/community/the_science_of_illusion"
   },
+  {
+    "id": "cmntys1e21",
+    "title": "Contemporary American Poultry",
+    "file": "CommunityS1E21",
+    "route": "/community/contemporary_american_poultry"
+  },
+  {
+    "id": "cmntys1e22",
+    "title": "The Art of Discourse",
+    "file": "CommunityS1E22",
+    "route": "/community/the_art_of_discourse"
+  },
+  {
+    "id": "cmntys1e23",
+    "title": "Modern Warfare",
+    "file": "CommunityS1E23",
+    "route": "/community/modern_warfare"
+  },
+  {
+    "id": "cmntys1e24",
+    "title": "English as a Second Language",
+    "file": "CommunityS1E24",
+    "route": "/community/english_as_a_second_language"
+  },
+  {
+    "id": "cmntys1e25",
+    "title": "Pascal's Triangle Revisited",
+    "file": "CommunityS1E25",
+    "route": "/community/pascal's_triangle_revisited"
+  },
 ]
