@@ -111,3 +111,36 @@ export const beatlesWtb = [
     "route": "/beatles/money_that's_what_i_want"
   }
 ]
+
+export const beatlesAnh = [
+  {
+    "id": "btlsAhn1",
+    "title": "A Hard Day's Night",
+    "file": "AHardDaysNightSong",
+    "route": "/beatles/a_hard_days_night_song"
+  },
+  {
+    "id": "btlsAhn2",
+    "title": "I Should Have Known Better",
+    "file": "IShouldHaveKnownBetter",
+    "route": "/beatles/i_should_have_known_better"
+  },
+  {
+    "id": "btlsAhn3",
+    "title": "If I Fell",
+    "file": "IfIFell",
+    "route": "/beatles/if_i_fell"
+  },
+  {
+    "id": "btlsAhn4",
+    "title": "I'm Happy Just to Dance with You",
+    "file": "ImHappyJustToDanceWithYou",
+    "route": "/beatles/i'm_happy_just_to_dance_with_you"
+  },
+  {
+    "id": "btlsAhn5",
+    "title": "And I Love Her",
+    "file": "AndILoveHer",
+    "route": "/beatles/and_i_love_her"
+  }
+]
