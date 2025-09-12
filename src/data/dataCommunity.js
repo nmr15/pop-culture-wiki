@@ -292,5 +292,35 @@ export const communitys2 = [
     "title": "Mixology Certification",
     "file": "MixologyCertification",
     "route": "/community/mixology_certification"
+  },
+  {
+    "id": "cmntys2e11",
+    "title": "Abed's Uncontrollable Christmas",
+    "file": "AbedsUncontrollableChristmas",
+    "route": "/community/abed's_uncontrollable_christmas"
+  },
+  {
+    "id": "cmntys2e12",
+    "title": "Asian Population Studies",
+    "file": "AsianPopulationStudies",
+    "route": "/community/asian_population_studies"
+  },
+  {
+    "id": "cmntys2e13",
+    "title": "Celebrity Pharmacology",
+    "file": "CelebrityPharmacology",
+    "route": "/community/celebrity_pharmacology"
+  },
+  {
+    "id": "cmntys2e14",
+    "title": "Advanced Dungeons & Dragons",
+    "file": "AdvancedDungeonsDragons",
+    "route": "/community/advanced_dungeons_&_dragons"
+  },
+  {
+    "id": "cmntys2e15",
+    "title": "Early 21st Century Romanticism",
+    "file": "Early21stCenturyRomanticism",
+    "route": "/community/early_21st_century_romanticism"
   }
 ]
