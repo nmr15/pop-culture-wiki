@@ -262,5 +262,35 @@ export const communitys2 = [
     "title": "Messianic Myths and Ancient People",
     "file": "MessianicMythsAndAncientPeople",
     "route": "/community/messianic_myths_and_ancient_people"
+  },
+  {
+    "id": "cmntys2e6",
+    "title": "Epidemiology",
+    "file": "Epidemiology",
+    "route": "/community/epidemiology"
+  },
+  {
+    "id": "cmntys2e7",
+    "title": "Aerodynamics of Gender",
+    "file": "AerodynamicsOfGender",
+    "route": "/community/aerodynamics_of_gender"
+  },
+  {
+    "id": "cmntys2e8",
+    "title": "Cooperative Calligraphy",
+    "file": "CooperativeCalligraphy",
+    "route": "/community/cooperative_calligraphy"
+  },
+  {
+    "id": "cmntys2e9",
+    "title": "Conspiracy Theories and Interior Design",
+    "file": "ConspiracyTheoriesAndInteriorDesign",
+    "route": "/community/conspiracy_theories_and_interior_design"
+  },
+  {
+    "id": "cmntys2e10",
+    "title": "Mixology Certification",
+    "file": "MixologyCertification",
+    "route": "/community/mixology_certification"
   }
 ]
