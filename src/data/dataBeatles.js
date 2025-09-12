@@ -142,5 +142,53 @@ export const beatlesAnh = [
     "title": "And I Love Her",
     "file": "AndILoveHer",
     "route": "/beatles/and_i_love_her"
+  },
+  {
+    "id": "btlsAhn6",
+    "title": "Tell Me Why",
+    "file": "TellMeWhy",
+    "route": "/beatles/tell_me_why"
+  },
+  {
+    "id": "btlsAhn7",
+    "title": "Can't Buy Me Love",
+    "file": "CantBuyMeLove",
+    "route": "/beatles/can't_buy_me_love"
+  },
+  {
+    "id": "btlsAhn8",
+    "title": "Any Time At All",
+    "file": "AnyTimeAtAll",
+    "route": "/beatles/any_time_at_all"
+  },
+  {
+    "id": "btlsAhn9",
+    "title": "I'll Cry Instead",
+    "file": "IllCryInstead",
+    "route": "/beatles/i'll_cry_instead"
+  },
+  {
+    "id": "btlsAhn10",
+    "title": "Things We Said Today",
+    "file": "ThingsWeSaidToday",
+    "route": "/beatles/things_we_said_today"
+  },
+  {
+    "id": "btlsAhn11",
+    "title": "When I Get Home",
+    "file": "WhenIGetHome",
+    "route": "/beatles/when_i_get_home"
+  },
+  {
+    "id": "btlsAhn12",
+    "title": "You Can't Do That",
+    "file": "YouCantDoThat",
+    "route": "/beatles/you_can't_do_that"
+  },
+  {
+    "id": "btlsAhn13",
+    "title": "I'll Be Back",
+    "file": "IllBeBack",
+    "route": "/beatles/i'll_be_back"
   }
 ]
