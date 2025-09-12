@@ -231,3 +231,36 @@ export const communitys1 = [
     "route": "/community/pascal's_triangle_revisited"
   },
 ]
+
+export const communitys2 = [
+  {
+    "id": "cmntys2e1",
+    "title": "Anthropology 101",
+    "file": "Anthropology101",
+    "route": "/community/anthropology_101"
+  },
+  {
+    "id": "cmntys2e2",
+    "title": "Accounting for Lawyers",
+    "file": "AccountingForLawyers",
+    "route": "/community/accounting_for_lawyers"
+  },
+  {
+    "id": "cmntys2e3",
+    "title": "The Psychology of Letting Go",
+    "file": "ThePsychologyOfLettingGo",
+    "route": "/community/the_psychology_of_letting_go"
+  },
+  {
+    "id": "cmntys2e4",
+    "title": "Basic Rocket Science",
+    "file": "BasicRocketScience",
+    "route": "/community/basic_rocket_science"
+  },
+  {
+    "id": "cmntys2e5",
+    "title": "Messianic Myths and Ancient People",
+    "file": "MessianicMythsAndAncientPeople",
+    "route": "/community/messianic_myths_and_ancient_people"
+  }
+]
