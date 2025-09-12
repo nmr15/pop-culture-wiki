@@ -520,21 +520,21 @@ const Community = () =>
               <tr>
                 <td>Characters</td>
                 <td>
-                  <ul className="table-list">
-                    <li><a href="#">Jeff Winger</a></li>
-                    <li><a href="#">Britta Perry</a></li>
-                    <li><a href="#">Abed Nadir</a></li>
-                    <li><a href="#">Troy Barnes</a></li>
-                    <li><a href="#">Annie Edison</a></li>
-                    <li><a href="#">Shirley Bennett</a></li>
-                    <li><a href="#">Pierce Hawthorne</a></li>
-                    <li><a href="#">Ben Chang</a></li>
-                    <li><a href="#">Craig Pelton</a></li>
-                    <li><a href="#">Ian Duncan</a></li>
-                    <li><a href="#">Buzz Hickey</a></li>
-                    <li><a href="#">Frankie Dart</a></li>
-                    <li><a href="#">Elroy Patashnik</a></li>
-                  </ul>
+                  <div className="table-list">
+                    <a href="#" className='table-list-link' >Jeff Winger</a>
+                    <a href="#" className='table-list-link' >Britta Perry</a>
+                    <a href="#" className='table-list-link' >Abed Nadir</a>
+                    <a href="#" className='table-list-link' >Troy Barnes</a>
+                    <a href="#" className='table-list-link' >Annie Edison</a>
+                    <a href="#" className='table-list-link' >Shirley Bennett</a>
+                    <a href="#" className='table-list-link' >Pierce Hawthorne</a>
+                    <a href="#" className='table-list-link' >Ben Chang</a>
+                    <a href="#" className='table-list-link' >Craig Pelton</a>
+                    <a href="#" className='table-list-link' >Ian Duncan</a>
+                    <a href="#" className='table-list-link' >Buzz Hickey</a>
+                    <a href="#" className='table-list-link' >Frankie Dart</a>
+                    <a href="#" className='table-list-link' >Elroy Patashnik</a>
+                  </div>
                 </td>
               </tr>
               <tr>

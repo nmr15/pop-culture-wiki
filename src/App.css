@@ -161,7 +161,7 @@ td, th
   list-style: none;
 }
 
-.table-list li
+.table-list-link
 {
   padding: 0.5rem;
 }
