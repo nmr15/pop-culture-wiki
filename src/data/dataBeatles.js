@@ -73,5 +73,41 @@ export const beatlesWtb = [
     "title": "Roll Over Beethoven",
     "file": "RollOverBeethoven",
     "route": "/beatles/roll_over_beethoven"
+  },
+  {
+    "id": "btlsWtb9",
+    "title": "Hold Me Tight",
+    "file": "HoldMeTight",
+    "route": "/beatles/hold_me_tight"
+  },
+  {
+    "id": "btlsWtb10",
+    "title": "You Really Got a Hold on Me",
+    "file": "YouReallyGotAHoldOnMe",
+    "route": "/beatles/you_really_got_a_hold_on_me"
+  },
+  {
+    "id": "btlsWtb11",
+    "title": "I Wanna Be Your Man",
+    "file": "IWannaBeYourMan",
+    "route": "/beatles/i_wanna_be_your_man"
+  },
+  {
+    "id": "btlsWtb12",
+    "title": "Devil in Her Heart",
+    "file": "DevilInHerHeart",
+    "route": "/beatles/devil_in_her_heart"
+  },
+  {
+    "id": "btlsWtb13",
+    "title": "Not a Second Time",
+    "file": "NotASecondTime",
+    "route": "/beatles/not_a_second_time"
+  },
+  {
+    "id": "btlsWtb14",
+    "title": "Money (That's What I Want)",
+    "file": "MoneyTWIW",
+    "route": "/beatles/money_that's_what_i_want"
   }
 ]
