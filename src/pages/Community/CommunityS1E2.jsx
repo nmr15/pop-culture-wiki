@@ -7,6 +7,7 @@ const CommunityS1E2 = () =>
             <nav className="sidebar bg-dark">
 
             </nav>
+            <main className="main px-5 py-4"></main>
         </>
     )
 }
