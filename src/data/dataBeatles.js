@@ -49,5 +49,29 @@ export const beatlesWtb = [
     "title": "Don't Bother Me",
     "file": "DontBotherMe",
     "route": "/beatles/don't_bother_me"
+  },
+  {
+    "id": "btlsWtb5",
+    "title": "Little Child",
+    "file": "LittleChild",
+    "route": "/beatles/little_child"
+  },
+  {
+    "id": "btlsWtb6",
+    "title": "Till There Was You",
+    "file": "TillThereWasYou",
+    "route": "/beatles/till_there_was_you"
+  },
+  {
+    "id": "btlsWtb7",
+    "title": "Please Mr. Postman",
+    "file": "PleaseMrPostman",
+    "route": "/beatles/please_mr_postman"
+  },
+  {
+    "id": "btlsWtb8",
+    "title": "Roll Over Beethoven",
+    "file": "RollOverBeethoven",
+    "route": "/beatles/roll_over_beethoven"
   }
 ]
