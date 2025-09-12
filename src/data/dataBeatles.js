@@ -24,3 +24,30 @@ export const beatles = [
     "route": "/beatles/ringo_starr"
   }
 ]
+
+export const beatlesWtb = [
+  {
+    "id": "btlsWtb1",
+    "title": "It Won't Be Long",
+    "file": "ItWontBeLong",
+    "route": "/beatles/it_won't_be_long"
+  },
+  {
+    "id": "btlsWtb2",
+    "title": "All I've Got to Do",
+    "file": "AllIveGotToDo",
+    "route": "/beatles/all_i've_got_to_do"
+  },
+  {
+    "id": "btlsWtb3",
+    "title": "All My Loving",
+    "file": "AllMyLoving",
+    "route": "/beatles/all_my_loving"
+  },
+  {
+    "id": "btlsWtb4",
+    "title": "Don't Bother Me",
+    "file": "DontBotherMe",
+    "route": "/beatles/don't_bother_me"
+  }
+]
