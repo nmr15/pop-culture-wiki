@@ -322,5 +322,59 @@ export const communitys2 = [
     "title": "Early 21st Century Romanticism",
     "file": "Early21stCenturyRomanticism",
     "route": "/community/early_21st_century_romanticism"
+  },
+  {
+    "id": "cmtys2e16",
+    "title": "Intermediate Documentary Filmmaking",
+    "file": "IntermediateDocumentaryFilmmaking",
+    "route": "/community/intermediate_documentary_filmmaking"
+  },
+  {
+    "id": "cmtys2e17",
+    "title": "Intro to Political Science",
+    "file": "IntroToPoliticalScience",
+    "route": "/community/intro_to_political_science"
+  },
+  {
+    "id": "cmtys2e18",
+    "title": "Custody Law and Eastern European Diplomacy",
+    "file": "CustodyLawAndEasternEuropeanDiplomacy",
+    "route": "/community/custody_law_and_eastern_european_diplomacy"
+  },
+  {
+    "id": "cmtys2e19",
+    "title": "Critical Film Studies",
+    "file": "CriticalFilmStudies",
+    "route": "/community/critical_film_studies"
+  },
+  {
+    "id": "cmtys2e20",
+    "title": "Comparative Wine Tasting",
+    "file": "ComparativeWineTasting",
+    "route": "/community/comparative_wine_tasting"
+  },
+  {
+    "id": "cmtys2e21",
+    "title": "Paradigms of Human Memory",
+    "file": "ParadigmsOfHumanMemory",
+    "route": "/community/paradigms_of_human_memory"
+  },
+  {
+    "id": "cmtys2e22",
+    "title": "Applied Anthropology and Culinary Arts",
+    "file": "AppliedAnthropologyAndCulinaryArts",
+    "route": "community/applied_anthropology_and_culinary_arts"
+  },
+  {
+    "id": "cmtys2e23",
+    "title": "A Fistfull of Paintballs",
+    "file": "AFistfullOfPaintballs",
+    "route": "community/a_fistfull_of_paintballs"
+  },
+  {
+    "id": "cmtys2e24",
+    "title": "For a Few Paintballs More",
+    "file": "ForAFewPaintballsMore",
+    "route": "community/for_a_few_paintballs_more"
   }
 ]
