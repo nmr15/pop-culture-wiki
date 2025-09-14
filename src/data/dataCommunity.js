@@ -378,3 +378,138 @@ export const communitys2 = [
     "route": "community/for_a_few_paintballs_more"
   }
 ]
+
+[
+  {
+    "id": "cmtys3e1",
+    "title": "Biology 101",
+    "file": "Biology101",
+    "route": "/community/biology_101"
+  },
+  {
+    "id": "cmtys3e2",
+    "title": "Geography of Global Conflict",
+    "file": "GeographyOfGlobalConflict",
+    "route": "community/geography_of_global_conflict"
+  },
+  {
+    "id": "cmtys3e3",
+    "title": "Comparative Ecology",
+    "file": "ComparativeEcology",
+    "route": "/community/comparative_ecology"
+  },
+  {
+    "id": "cmtys3e4",
+    "title": "Remedial Chaos Theory",
+    "file": "RemedialChaosTheory",
+    "route": "/community/remedial_chaos_theory"
+  },
+  {
+    "id": "cmtys3e5",
+    "title": "Horror Fiction in Seven Spooky Steps",
+    "file": "HorrorFictionInSevenSpookySteps",
+    "route": "/community/horror_fiction_in_seven_spooky_steps"
+  },
+  {
+    "id": "cmtys3e6",
+    "title": "Advanced Gay",
+    "file": "AdvancedGay",
+    "route": "/community/advanced_gay"
+  },
+  {
+    "id": "cmtys3e7",
+    "title": "Studies in Modern Movement",
+    "file": "StudiesInModernMovement",
+    "route": "/community/studies_in_modern_movement"
+  },
+  {
+    "id": "cmtys3e8",
+    "title": "Documentary Filmmaking: Redux",
+    "file": "DocumentaryFilmmakingRedux",
+    "route": "/community/documentary_filmmaking_redux"
+  },
+  {
+    "id": "cmtys3e9",
+    "title": "Foosball and Nocturnal Vigilantism",
+    "file": "FoosballAndNocturnalVigilantism",
+    "route": "/community/foosball_and_nocturnal_vigilantism"
+  },
+  {
+    "id": "cmtys3e10",
+    "title": "Regional Holiday Music",
+    "file": "RegionalHolidayMusic",
+    "route": "/community/regional_holiday_music"
+  },
+  {
+    "id": "cmtys3e11",
+    "title": "Urban Matrimony and the Sandwich Arts",
+    "file": "UrbanMatrimonyAndTheSandwichArts",
+    "route": "/community/urban_matrimony_and_the_sandwich_arts"
+  },
+  {
+    "id": "cmtys3e12",
+    "title": "Contemporary Impressionists",
+    "file": "ContemporaryImpressionists",
+    "route": "/community/contemporary_impressionists"
+  },
+  {
+    "id": "cmtys3e13",
+    "title": "Digital Exploration of Interior Design",
+    "file": "DigitalExplorationOfInteriorDesign",
+    "route": "/community/digital_explorer_of_interior_design"
+  },
+  {
+    "id": "cmtys3e14",
+    "title": "Pillows and Blankers",
+    "file": "PillowsAndBlankets",
+    "route": "/community/pillows_and_blankets"
+  },
+  {
+    "id": "cmtys3e15",
+    "title": "Origins of Vampire Mythology",
+    "file": "OriginsOfVampireMythology",
+    "route": "/community/origins_of_vampire_mythology"
+  },
+  {
+    "id": "cmtys3e16",
+    "title": "Virtual System Analysis",
+    "file": "VirtualSystemAnalysis",
+    "route": "/community/virtual_system_analysis"
+  },
+  {
+    "id": "cmtys3e17",
+    "title": "Basic Lupine Urology",
+    "file": "BasicLupineUrology",
+    "route": "/community/basic_lupine_urology"
+  },
+  {
+    "id": "cmtys3e18",
+    "title": "Course Listing Unavailable",
+    "file": "CourseListingUnavailable",
+    "route": "/community/course_listing_unavailable"
+  },
+  {
+    "id": "cmtys3e19",
+    "title": "Curriculum Unavailable",
+    "file": "CurriculumUnavailable",
+    "route": "/community/curriculum_unavailable"
+  },
+  {
+    "id": "cmtys3e20",
+    "title": "Digital Estate Planning",
+    "file": "DigitalEstatePlanning",
+    "route": "/community/digital_estate_planning"
+  },
+  {
+    "id": "cmtys3e21",
+    "title": "The First Chang Dynasty",
+    "file": "TheFirstChangDynasty",
+    "route": "/community/the_first_chang_dynasty"
+  },
+  {
+    "id": "cmtys3e22",
+    "title": "Introduction to Finality",
+    "file": "IntroductionToFinality",
+    "route": "/community/introduction_to_finality"
+  }
+]
