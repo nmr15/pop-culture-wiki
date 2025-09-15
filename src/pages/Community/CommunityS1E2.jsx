@@ -31,14 +31,44 @@ const CommunityS1E2 = () =>
                 <div>
                     <h2 className="article-heading" id="1">Plot</h2>
                     <p>
-                        <a href="#">Jeff</a> is lare to the group's study session. <a href="#">Britta</a> is upset by his lacking punctuality and gets the
-                        group to agree to question him about it. When Jeff arrives, everyone except Britta is charmed by him as he greets each of them in
-                        turn. She fails to get the group to confront Jeff regarding his lack of punctuality, and ends up questioning him herself. Later,
-                        Jeff gives Britta a card to apologize for his poor first impression two weeks prior, but Britta remains wary of him, believing him to
-                        be exploiting other members of the group. Meanwhile, <a href="#">Shirley</a> and <a href="#">Annie</a> are interested in learning
-                        about a social justice cause Britta mentioned prior, the killing of journalists in Guatemala such as Chacata Panecos. Shirley and
-                        Annie plan a protest, but Britta is annoyed at the pair, believing them to be going about the matter in poor taste in part due to
-                        plans to have a Chacata Panecos pinata after the journalist was beaten to death.
+                        At Greendale, <a href="#">the Dean</a> is making the morning announcements as <a href="#">Jeff</a> arrives late for school in his Lexus.
+                        In <a href="#">the study room</a>, the <a href="#">group</a> awaits his arrival. <a href="#">Britta</a> is annoyed everyone is concerned
+                        about Jeff instead of social injustice like journalists in Guatemala killed by their government. Jeff finally shows up for the meeting
+                        and charms everyone except Britta. Jeff tries to smooth things over afterwards but is rebuffed. Britta criticizes him for exploiting the
+                        group and <a href="#">Pierce</a> advises him not to pursue her so desperately. He then makes a failed attempt himself to spend time with
+                        Jeff.
+                    </p>
+                    <p>
+                        Outside the <a href="#">library</a>, <a href="#">Shirley</a> and <a href="#">Annie</a> want to protest something and are told by Britta
+                        to research Guatemalan journalist Chacata Panecos. In the Spanish classroom, the instructor Señor <a href="#">Ben Chang</a> gibes a
+                        lengthy tirade about being an Asian Spanish teacher. He then explains the latest class assignment where the students pair up, practice
+                        Spanish phrases and give a presentation. He divides the class up by giving them each corresponding cards. Upon learning <a href="#">
+                        Abed</a> is paired with Britta, Jeff makes a deal to exchange cards. Jeff approaches Britta at the end of class suggesting they have
+                        dinner. He discovers that she switched her card too, and his partner is Pierce.
+                    </p>
+                    <p>
+                        Later in the study room, Jeff and Pierce are supposed to be working on their assignment, but Pierce insists on trying to bond with him.
+                        Meanwhile, Britta is displeased when she sees the overly flashy protest Shirley and Annie have organized. She calls their efforts "tacky
+                        and lame", but gets criticized by Shirley for preaching about injustice but not actually doing anything about them. Britta then apologizes
+                        and asks how she can help. Back in the study room, Jeff is becoming frustrated at the lack of progress he and Pierce are making on the
+                        project. <a href="#">Troy</a> and Abed show up and inform them of the protest Britta is now involved in.
+                    </p>
+                    <p>
+                        Jeff gets angry at Pierce for having wasted his time and leaves. Once outside, Jeff joins the protest which has become a candle light vigil.
+                        He quickly finds Britta and she apologizes to him for how judgemental she was of him earlier. A drunk Pierce stumbles out of the library
+                        and calls out Jeff for how dismissively he treated him. He tries to punch Jeff, but ends up igniting the sleeve of his coat when it touches
+                        a protestor's candle. He manages to extinguish himself by jumping into a fountain. The next day in the Spanish classrrom, Shirley and Annie
+                        excitedly tell Britta about how the protest got briefly mentioned in a local newspaper.
+                    </p>
+                    <p>
+                        Jeff arrives and apologizes to Britta for Pierce ruining her protest. She explains that Pierce was only looking to get close to Jeff because
+                        he's lonely and sees the study group as an opportunity to be with a family he never had. Pierce then arrives with Chang animatedly discussing
+                        something him. Chang then approaches Jeff to let him know that he will automatically get a passing grade since Pierce and him had a falling
+                        out. Jeff declines the offer and convinces Pierce to let him help with the presentation they both created. They deliver a very long and
+                        elaborate performance that has very little to do with Spanish.
+                    </p>
+                    <p>
+                        
                     </p>
                 </div>
                 <TableCommunity />
