@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import TableCommunity from '../../components/TableCommunity'
 
 const Community = () => 
 {
@@ -694,6 +695,7 @@ const Community = () =>
             </tbody>
           </table>
         </div>
+        <TableCommunity />
       </main>
     </>
   )
