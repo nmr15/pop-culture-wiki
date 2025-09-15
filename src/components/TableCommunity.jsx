@@ -5,7 +5,6 @@ const TableCommunity = () =>
     return(
         <>
             <div>
-                TableCommunity
                 <table className="table-center">
                     <thead>
                         <tr>
@@ -19,6 +18,16 @@ const TableCommunity = () =>
                                 <div className="table-list">
                                     {communitychars.map((character) => (
                                         <a href="#" className="table-list-link" key={character.id}>{character.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Season 1</td>
+                            <td>
+                                <div className="table-list">
+                                    {communitys1.map((s1) => (
+                                        <a href="#" className="table-list-link" key={s1.id}>{s1.title}</a>
                                     ))}
                                 </div>
                             </td>
