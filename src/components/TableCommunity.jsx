@@ -32,6 +32,26 @@ const TableCommunity = () =>
                                 </div>
                             </td>
                         </tr>
+                        <tr>
+                            <td>Season 2</td>
+                            <td>
+                                <div className="table-list">
+                                    {communitys2.map((s2) => (
+                                        <a href="#" className="table-list-link" key={s2.id}>{s2.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Season 3</td>
+                            <td>
+                                <div className="table-list">
+                                    {communitys3.map((s3) => (
+                                        <a href="#" className="table-list-link" key={s3.id}>{s3.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
