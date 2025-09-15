@@ -77,7 +77,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys6.map((s6) => (
-                                        <a href="#" className="table-list-link" key={s6.id}>{s.title}</a>
+                                        <a href="#" className="table-list-link" key={s6.id}>{s6.title}</a>
                                     ))}
                                 </div>
                             </td>
