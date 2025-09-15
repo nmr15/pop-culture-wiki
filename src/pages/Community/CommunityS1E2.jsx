@@ -68,7 +68,10 @@ const CommunityS1E2 = () =>
                         elaborate performance that has very little to do with Spanish.
                     </p>
                     <p>
-                        
+                        When they finish, Chang gives both of them a failing grade. Afterwards, Britta compliments Jeff for his actions but tells him that there's no
+                        way any woman in class who saw the presentation could ever think of him as a viable sexual candidate. Undeterred, Jeff sees hope when he
+                        notices that as Britta walks away, she looks back at him. Pierce sneaks up behind him and tells Jeff he did a good job. They walk off together
+                        as Pierce gives Jeff advice on improving his performance for the next time they work together.
                     </p>
                 </div>
                 <TableCommunity />
