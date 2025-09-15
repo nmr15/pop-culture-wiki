@@ -1,4 +1,4 @@
-import { communitychars, communitys1, communitys2, communitys3 } from "../data/dataCommunity";
+import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5 } from "../data/dataCommunity";
 
 const TableCommunity = () =>
 {

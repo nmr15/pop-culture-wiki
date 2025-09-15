@@ -144,6 +144,7 @@ td, th
   border: 1px solid #dddddd;
   padding: 8px;
   text-align: center;
+  font-size: 14px;
 }
 
 .table-center
@@ -164,4 +165,9 @@ td, th
 .table-list-link
 {
   padding: 0.5rem;
+}
+
+.table-list-link:hover
+{
+  text-decoration: underline;
 }
