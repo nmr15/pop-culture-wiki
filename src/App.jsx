@@ -1,4 +1,5 @@
-import { Routes, Route } from "react-router-dom"
+import { useLayoutEffect } from "react"
+import { Routes, Route, useLocation } from "react-router-dom"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -15,11 +16,20 @@ import Spiderman from "./pages/Spiderman"
 import Spongebob from "./pages/Spongebob"
 import StarWars from "./pages/StarWars"
 
+const Wrapper = ({ children }) => {
+  const location = useLocation()
+  useLayoutEffect(() => {
+    document.documentElement.scrollTo(0, 0)
+  }, [location.pathname])
+  return children
+}
+
 function App() {
 
   return (
     <>
       <Navbar />
+      <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/mcu' element={<Mcu />} />
@@ -35,6 +45,7 @@ function App() {
         <Route path='/gta' element={<Gta />} />
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
       </Routes>
+      </Wrapper>
     </>
   )
 }
