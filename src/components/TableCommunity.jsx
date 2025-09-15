@@ -1,4 +1,4 @@
-import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5 } from "../data/dataCommunity";
+import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from "../data/dataCommunity";
 
 const TableCommunity = () =>
 {
@@ -68,6 +68,16 @@ const TableCommunity = () =>
                                 <div className="table-list">
                                     {communitys5.map((s5) => (
                                         <a href="#" className="table-list-link" key={s5.id}>{s5.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Season 6</td>
+                            <td>
+                                <div className="table-list">
+                                    {communitys6.map((s6) => (
+                                        <a href="#" className="table-list-link" key={s6.id}>{s6.title}</a>
                                     ))}
                                 </div>
                             </td>
