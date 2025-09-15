@@ -379,7 +379,7 @@ export const communitys2 = [
   }
 ]
 
-[
+export const communitys3 = [
   {
     "id": "cmtys3e1",
     "title": "Biology 101",
