@@ -16,11 +16,11 @@ const TableCommunity = () =>
                         <tr>
                             <td>Characters</td>
                             <td>
-                                {communitychars.map((character) => (
-                                    <div className="table-list" key={character.id}>
-                                        <a href="#" className="table-list-link">{character.title}</a>
-                                    </div>
-                                ))}
+                                <div className="table-list">
+                                    {communitychars.map((character) => (
+                                        <a href="#" className="table-list-link" key={character.id}>{character.title}</a>
+                                    ))}
+                                </div>
                             </td>
                         </tr>
                     </tbody>
