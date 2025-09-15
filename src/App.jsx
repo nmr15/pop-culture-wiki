@@ -19,7 +19,7 @@ import StarWars from "./pages/StarWars"
 const Wrapper = ({ children }) => {
   const location = useLocation()
   useLayoutEffect(() => {
-    document.documentElement.scrollTo(0, 0)
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
   }, [location.pathname])
   return children
 }
