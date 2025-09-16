@@ -25,6 +25,87 @@ export const beatles = [
   }
 ]
 
+export const beatlesAlbums = [
+  {
+    "id": "btlsAl1",
+    "title": "Please Please Me",
+    "file": "PleasePleaseMe",
+    "route": "/beatles/please_please_me"
+  },
+  {
+    "id": "btlsAl2",
+    "title": "With the Beatles",
+    "file": "WithTheBeatles",
+    "route": "/beatles/with_the_beatles"
+  },
+  {
+    "id": "btlsAl3",
+    "title": "A Hard Day's Night",
+    "file": "AHardDaysNightAlbum",
+    "route": "/beatles/a_hard_day's_night_album"
+  },
+  {
+    "id": "btlsAl4",
+    "title": "Beatles for Sale",
+    "file": "BeatlesForSale",
+    "route": "/beatles/beatles_for_sale"
+  },
+  {
+    "id": "btlsAl5",
+    "title": "Help!",
+    "file": "HelpAlbum",
+    "route": "/beatles/help_album"
+  },
+  {
+    "id": "btlsAl6",
+    "title": "Rubber Soul",
+    "file": "RubberSoul",
+    "route": "/beatles/rubber_soul"
+  },
+  {
+    "id": "btlsAl7",
+    "title": "Revolver",
+    "file": "Revolver",
+    "route": "/beatles/revolver"
+  },
+  {
+    "id": "btlsAl8",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "file": "SgtPepperAlbum",
+    "route": "/beatles/sgt._pepper's_lonely_hearts_club_band_album"
+  },
+  {
+    "id": "btlsAl9",
+    "title": "Magical Mystery Tour",
+    "file": "MagicalMysteryTour",
+    "route": "/beatles/magical_mystery_tour"
+  },
+  {
+    "id": "btlsAl10",
+    "title": "The Beatles (The White Album)",
+    "file": "TheWhiteAlbum",
+    "route": "/beatles/the_white_album"
+  },
+  {
+    "id": "btlsAl11",
+    "title": "Yellow Submarine",
+    "file": "YellowSubmarineAlbum",
+    "route": "/beatles/yellow_submarine_album"
+  },
+  {
+    "id": "btlsAl12",
+    "title": "Abbey Road",
+    "file": "AbbeyRoad",
+    "route": "/beatles/abbey_road"
+  },
+  {
+    "id": "btlsAl13",
+    "title": "Let it Be",
+    "file": "LetItBeAlbum",
+    "route": "/beatles/let_it_be_album"
+  }
+]
+
 export const beatlesWtb = [
   {
     "id": "btlsWtb1",
