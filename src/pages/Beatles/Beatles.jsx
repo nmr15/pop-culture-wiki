@@ -1,3 +1,5 @@
+import TableBeatles from "../../components/TableBeatles"
+
 const Beatles = () => 
 {
   return (
@@ -30,6 +32,7 @@ const Beatles = () =>
             sociocultural movements
           </p>
         </div>
+      <TableBeatles />
       </main>
     </>
   )
