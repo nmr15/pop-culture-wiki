@@ -17,7 +17,7 @@ const TableBeatles = () =>
                             <td>
                                 <div className="table-list">
                                     {beatles.map((beatle) => (
-                                        <Link to={beatle.route} classNam key={beatle.id}>{beatle.title}</Link>
+                                        <Link to={beatle.route} className="table-list-link" key={beatle.id}>{beatle.title}</Link>
                                     ))}
                                 </div>
                             </td>
