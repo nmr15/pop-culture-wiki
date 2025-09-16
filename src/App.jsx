@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
 import AssassinsCreed from "./pages/AssassinsCreed"
-import Beatles from "./pages/Beatles"
+import Beatles from "./pages/Beatles/Beatles"
 import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
