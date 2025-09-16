@@ -12,6 +12,17 @@ const TableBeatles = () =>
                             <th colSpan={2}>The Beatles</th>
                         </tr>
                     </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div className="table-list">
+                                    {beatles.map((beatle) => (
+                                        <Link to={beatle.route} key={beatle.id}>{beatle.title}</Link>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </>
