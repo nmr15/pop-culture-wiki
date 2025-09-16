@@ -74,6 +74,38 @@ const CommunityS1E2 = () =>
                         as Pierce gives Jeff advice on improving his performance for the next time they work together.
                     </p>
                 </div>
+                <div>
+                    <h2 className="article-heading" id="2">End Tag</h2>
+                    <p>
+                        The first end tag of the show, where Troy and Abed perform the <a href="#">Spanish rap</a>.
+                    </p>
+                </div>
+                <div>
+                    <h2 className="article-heading" id="3">Recurring themes</h2>
+                    <h3 className="pt-2">Continuity</h3>
+                    <p>Narrative</p>
+                    <ul>
+                        <li>
+                            A nice gesture: This is the first episode where Jeff rubs someone's head to show affection.
+                        </li>
+                        <li>
+                            Catchphrase: Jeff and Annie introduce their "<i>Milady/Milord</i>" exchange.
+                        </li>
+                        <li>
+                            Googly eyes:
+                            <ul>
+                                <li>
+                                    Jeff and Annie's flirting begins as the dynamic of the relationship starts to change between them. The "<i>Milady/Milord</i>"
+                                    greeting was the inspiration for a live journal fansite dedicated to this particular pairing.
+                                </li>
+                                <li>
+                                    Britta and Jeff continue to flirt. At the end of the episode she walks away from Jeff but looks back at him, which gives him
+                                    hope that she's still interested.
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
                 <TableCommunity />
             </main>
         </>
