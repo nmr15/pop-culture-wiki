@@ -104,6 +104,14 @@ const CommunityS1E2 = () =>
                                 </li>
                             </ul>
                         </li>
+                        <li>
+                            History lesson: Pierce discusses his past with Jeff including the moist towlette industry, his failed marriage, and his medical condition
+                            called "Hyper Virility", which is responsible for him not being able to have children.
+                        </li>
+                        <li>
+                            Middle Eastern Magic 8 Ball: At the evening protest, Abed says, "Conflicts like these will ultimately bring us together as an unlikely family."
+                            This foreshadows the eventual closeness of <a href="#">The Study Group</a>
+                        </li>
                     </ul>
                 </div>
                 <TableCommunity />
