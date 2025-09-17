@@ -179,6 +179,20 @@ const CommunityS1E2 = () =>
                             A dollop of whipped irony: Pierce tells Jeff not to pursue Britta so desperately because it comes off as too creepy. He
                             then ignores his own advice and asks Jeff to have a drink with him and have what the kids are calling a "sausage fest".
                         </li>
+                        <li>
+                            Attention students!: Dean Pelton continues to make ridiculous announcements.
+                        </li>
+                        <li>
+                            Awww!: Annie reacts sadly to Jeff mentioning how empty his life is.
+                        </li>
+                        <li>
+                            Biggest laugh of the night!: Pierce's arm catches fire at the protest forcing him to dive into a water fountain to extinguish
+                            it.
+                        </li>
+                        <li>
+                            Raging against the machine: Britta's political activism is introduced as she lectures Annie and Shirley about the murder of
+                            Guatemalan journalists.
+                        </li>
                     </ul>
                 </div>
                 <TableCommunity />
