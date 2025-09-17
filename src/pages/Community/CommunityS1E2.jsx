@@ -6,7 +6,20 @@ const CommunityS1E2 = () =>
     return(
         <>
             <nav className="sidebar bg-dark">
-
+                <ul>
+                    <li className="py-1">
+                        <a href="#top">Top</a>
+                    </li>
+                    <li className="py-1">
+                        <a href="#1">Plot</a>
+                    </li>
+                    <li className="py-1">
+                        <a href="#2">End Tag</a>
+                    </li>
+                    <li className="py-1">
+                        <a href="#3">Recurring themes</a>
+                    </li>
+                </ul>
             </nav>
             <main className="main px-5 py-4">
                 <nav aria-label="breadcrumb">
@@ -194,6 +207,7 @@ const CommunityS1E2 = () =>
                             Guatemalan journalists.
                         </li>
                     </ul>
+
                 </div>
                 <TableCommunity />
             </main>
