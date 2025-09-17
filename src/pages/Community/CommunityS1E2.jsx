@@ -113,6 +113,73 @@ const CommunityS1E2 = () =>
                             This foreshadows the eventual closeness of <a href="#">The Study Group</a>
                         </li>
                     </ul>
+                    <p>People</p>
+                    <ul>
+                        <li>
+                            First appearance:
+                            <ul>
+                                <li>
+                                    Señor Chang makes his debut and eventually becomes a regular featured character.
+                                </li>
+                                <li>
+                                    <a href="#">Alex "Star-Burns" Osbourne</a> makes his first appearance.
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p>Placs</p>
+                    <ul>
+                        This must be the place:
+                        <ul>
+                            <li>
+                                The <a href="#">Spanish classroom</a> is seen for the first time.
+                            </li>
+                            <li>
+                                <a href="#">Group Study Room F</a>
+                            </li>
+                            <li>
+                                <a href="#">Library</a>
+                            </li>
+                            <li>
+                                Campus quad
+                            </li>
+                            <li>
+                                Greendale parking lot
+                            </li>
+                        </ul>
+                    </ul>
+                    <p>Things</p>
+                    <ul>
+                        <li>
+                            A sweet ride: <a href="#">Jeff's Lexus</a> is first seen when he steals a faculty parking space.
+                        </li>
+                        <li>
+                            School supplies:
+                            <ul>
+                                <li>
+                                    The Spanish textbook <a href="#">Dos Mundos</a> appears.
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            School uniform:
+                            <ul>
+                                <li>
+                                    Annie wars a blue cardigan
+                                </li>
+                                <li>
+                                    Troy wars his high school <a href="#">letterman jacket</a>.
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <h3 className="pt-2">Running gags</h3>
+                    <ul>
+                        <li>
+                            A dollop of whipped irony: Pierce tells Jeff not to pursue Britta so desperately because it comes off as too creepy. He
+                            then ignores his own advice and asks Jeff to have a drink with him and have what the kids are calling a "sausage fest".
+                        </li>
+                    </ul>
                 </div>
                 <TableCommunity />
             </main>
