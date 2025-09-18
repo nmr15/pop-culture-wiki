@@ -16,7 +16,32 @@ const Community = () =>
           <li className="py-1">
             <a href="#2">Cast and characters</a>
           </li>
-          <div className="accordion"></div>
+          <div className="py-1">
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3"></span>
+            <li className="d-inline ms-2">
+              <a href="#3">Production</a>
+              <ul className="collapse" id="collapse3">
+                <li className="py-1">
+                  <a href="#3.1">Casting</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.2">Development</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.3">Writing</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.4">Filming</a>
+                </li>
+              </ul>
+            </li>
+          </div>
+          <div className="py-1">
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4"></span>
+            <li className="d-inline ms-2">
+              <a href="#4">Episodes</a>
+            </li>
+          </div>
         </ul>
       </nav>
       <main className="main px-5 py-4">
@@ -521,6 +546,7 @@ const Community = () =>
 
 
 export default Community
+
 
 
 
