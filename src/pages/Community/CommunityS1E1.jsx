@@ -5,9 +5,12 @@ const CommunityS1E1 = () =>
   return(
     <>
     <nav className="sidebar bg-dark">
-
+      <ul>
+        <li className="py-1"><a href="#top">Top</a></li>
+        <li className="py-1"><a href="#1">Plot</a></li>
+      </ul>
     </nav>
-    <main className="main px-5 py-4">
+    <main className="main px-5 py-4" id="top">
       <nav aria-label="breadcrumb">
           <ol className="breadcrumb">
             <Link to="/"><li className="breadcrumb-item">Home</li></Link>
@@ -15,7 +18,7 @@ const CommunityS1E1 = () =>
             <li className="breadcrumb-item active" aria-current="page">Pilot</li>
           </ol>
       </nav>
-      <div id="top">
+      <div>
         <h1 className="article-heading">Pilot (Community)</h1>
       </div>
       <div className="pt-2">
