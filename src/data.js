@@ -97,9 +97,9 @@ export const topics = [
   },
   {
     "id": 16,
-    "title": "Harry Potter (Books)",
+    "title": "Harry Potter (Films)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/220px-Harry_Potter_wordmark.svg.png",
-    "route": "/hpbooks"
+    "route": "/hpfilms"
   },
 ]
 

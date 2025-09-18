@@ -8,6 +8,7 @@ import Beatles from "./pages/Beatles/Beatles"
 import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
+import GravityFalls from "./pages/GravityFalls/GravityFalls"
 import Gta from "./pages/Gta"
 import Himym from "./pages/Himym"
 import MarvelComics from "./pages/MarvelComics"
@@ -44,6 +45,7 @@ function App() {
         <Route path='/himym' element={<Himym />} />
         <Route path='/gta' element={<Gta />} />
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
+        <Route path='/gravityfalls' element={<GravityFalls />} />
       </Routes>
       </Wrapper>
     </>
