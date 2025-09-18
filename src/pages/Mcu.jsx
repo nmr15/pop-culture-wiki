@@ -1,3 +1,5 @@
+import TableMcu from "../components/TableMcu"
+
 const Mcu = () => 
 {
   return (
@@ -231,6 +233,7 @@ const Mcu = () =>
               </tr>
             </tbody>
           </table>
+          <TableMcu />
         </div>
       </main>
     </>
