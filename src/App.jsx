@@ -39,7 +39,7 @@ function App() {
         <Route path='/starwars' element={<StarWars />} />
         <Route path='/community' element={<Community />} />
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
-        <Route path="/community/spanish101" element={<CommunityS1E2 />} />
+        <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
         <Route path='/beatles' element={<Beatles />} />
         <Route path='/spongebob' element={<Spongebob />} />
         <Route path='/himym' element={<Himym />} />
