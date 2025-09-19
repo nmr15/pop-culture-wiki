@@ -239,8 +239,8 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapse3" id="3">Production</h2>
-          <div className="collapse show" id="collapse3">
+          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseThree" id="3">Production</h2>
+          <div className="collapse show" id="collapseThree">
             <h3 className="pt-2" id="3.1">Casting</h3>
             <p>
               <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
