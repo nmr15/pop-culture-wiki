@@ -576,6 +576,29 @@ const Community = () =>
               and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
               second life free to be weird and playful and experimental."
             </p>
+            <h3 className="pt-2" id="6.2">Awards and nominations</h3>
+
+            <h3 className="pt-2" id="6.3">Semiotics and Community</h3>
+
+            <h3 className="pt-2" id="6.3">Ratings</h3>
+          </div>
+          <div>
+            <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Syndication</h2>
+            <div className="collapse show" id="collapseSeven">
+
+            </div>
+          </div>
+          <div>
+            <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Streaming</h2>
+            <div className="collapse show" id="collapseEight">
+
+            </div>
+          </div>
+          <div>
+            <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Soundtrack</h2>
+            <div className="collapse show" id="collapseNine">
+              
+            </div>
           </div>
         </div>
         <TableCommunity />
