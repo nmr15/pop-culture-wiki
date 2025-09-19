@@ -608,7 +608,24 @@ const Community = () =>
               Series. Community was also nominated for TCA Awaward for Outstanding Achievement in Comedy ath the 2012 TCA Awards.
             </p>
             <h3 className="pt-2" id="6.3">Semiotics and Community</h3>
-
+            <p>
+              While sitcoms are often underrepresented in the academic study of television, Community is an exception. More specifically, television critics and scholars often
+              reference Community when discussing semiotics, the study of signs, due to its frequent use of self-reference in highlighting common film and television tropes as they
+              appear within the series.
+            </p>
+            <p>
+              Some critics have even claimed that the show itself is about semiotics. Mordicai Knode of Tor.com suggests the show is "about the tropes of every single genre, it is
+              about the cinematic language and the shared culture we all bring piecemeal to the table when we sit down as audiences."
+            </p>
+            <p>
+              Dan Harmon fills each episode with signs and references in order for the audience to deconstruct and construct their own meaning, even going so far as to break the
+              fourth wall to give viewers a wink and a nod to the show's complexity. Fans of Community require a "certain level of rhetorical and interpretive skills" to pick up on
+              these semiotic layers of the series:
+            </p>
+            <blockquote>
+              "The most important knowledge a viewer brings to the viewing of Community is the subconscious recognition of indicators for other formal systems (meaning other genres
+              or specific texts) with help from subconscious hupotheses and charts that are built on previous experiences with similar works."
+            </blockquote>
             <h3 className="pt-2" id="6.3">Ratings</h3>
           </div>
           <div>
