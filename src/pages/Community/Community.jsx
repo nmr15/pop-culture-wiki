@@ -556,6 +556,21 @@ const Community = () =>
             stated that the series "has been dumbed down, its humor broadened past recognition, and the two episodes provided for review...have fewer laughs between them than a single
             good scene from the old Community."
           </p>
+          <p>
+            The fifth season received critical acclaim, scoring an 80 out of 100 based on 15 reviews on Metacritic. Rotten Tomatoes gave the season a 93%, with the critical consensus
+            reading: "With Dan Harmon back as the showrunner, Community returns with a familiar new energy and more fun, exciting adventures for the Greendale gang". Many critics cited
+            the return of series creator Dan Harmon as a strength. Verne Gay from Newsday said of the season that it was "about as good a Community restart as anyone could have possibly
+            hoped for."
+          </p>
+          <p>
+            The sixth season continued to receive positive reviews, scoring a 78 out of 100 based on 12 reviews on Metacritic, and scoring an 89%  approval rating on Rotten Tomatoes, with
+            the consensus being, "Despite cast and broadcast changes, Community manages to remain at the top of its quirky class." Amy Amatangelo of The Hollywood Reporter wrote, 
+            "Everything fans loved about Community remains [...] the show has seamlessly transferred to an online venue." The Los Angeles Times' Robert Lloyd considered "something special"
+            about the season, commenting that it "lives in consciousness of its own construction in a kind of existential but also dramatically meaningful way." The New York Times' Mike
+            Hale felt Harmon responsible "for turning countercultural whimsicality into affecting, fast-paced comedy" in the season. Time's James Poniewozik felt it the same show in humor
+            and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
+            second life free to be weird and playful and experimental."
+          </p>
         </div>
         <TableCommunity />
       </main>
