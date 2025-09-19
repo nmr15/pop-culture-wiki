@@ -9,13 +9,13 @@ import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
 import GravityFalls from "./pages/GravityFalls/GravityFalls"
-import Gta from "./pages/Gta"
-import Himym from "./pages/Himym"
+import Gta from "./pages/Gta/Gta"
+import Himym from "./pages/Himym/Himym"
 import MarvelComics from "./pages/MarvelComics"
-import Mcu from "./pages/Mcu"
+import Mcu from "./pages/Mcu/Mcu"
 import Spiderman from "./pages/Spiderman"
 import Spongebob from "./pages/Spongebob"
-import StarWars from "./pages/StarWars"
+import StarWars from "./pages/StarWars/StarWars"
 
 const Wrapper = ({ children }) => {
   const location = useLocation()
