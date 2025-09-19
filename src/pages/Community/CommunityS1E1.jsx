@@ -10,7 +10,7 @@ const CommunityS1E1 = () =>
         <li className="py-1"><a href="#1">Plot</a></li>
         <li className="py-1"><a href="#2">Recurring themes</a></li>
         <li className="py-1"><a href="#3">Trivia</a></li>
-        <li className="py-1"><a href="#r">Quotes</a></li>
+        <li className="py-1"><a href="#4">Quotes</a></li>
       </ul>
     </nav>
     <main className="main px-5 py-4" id="top">
