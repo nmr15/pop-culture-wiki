@@ -124,6 +124,24 @@ export const topics = [
     "title": "Phineas and Ferb",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/500px-Phineas_and_Ferb_logo.svg.png",
     "route": "/phinease_and_ferb"
+  },
+  {
+    "id": 21,
+    "title": "The Amazing World of Gumball",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/The_Amazing_World_of_Gumball_logo.png",
+    "route": "/the_amazing_world_of_gumball"
+  },
+  {
+    "id": 22,
+    "title": "Rick and Morty",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/500px-Rick_and_Morty.svg.png",
+    "route": "/rick_and_morty"
+  },
+  {
+    "id": 23,
+    "title": "Bojack Horseman",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/500px-BoJack_Horseman_Logo.svg.png",
+    "route": "/bojack_horseman"
   }
 ]
 
