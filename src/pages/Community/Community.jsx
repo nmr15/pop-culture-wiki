@@ -110,8 +110,8 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapse1">Premise</h2>
-          <div className="collapse show" id="collapse1">
+          <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapseOne">Premise</h2>
+          <div className="collapse show" id="collapseOne">
             <p>
               <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
               that he lied about having a bachelor's degree from Columbia University. To earn a legitimate
@@ -147,8 +147,8 @@ const Community = () =>
           
         </div>
         <div>
-          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapse2">Cast and characters</h2>
-          <div className="collapse show" id="collapse2">
+          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Cast and characters</h2>
+          <div className="collapse show" id="collapseTwo">
             <p>
               The show features an ensemble cast of characters, focusing on the members of a study group and a
               recurring group of faculty of Greendale Community College, including the school's dean.
