@@ -158,6 +158,7 @@ td, th
 {
   margin-left: auto;
   margin-right: auto;
+  padding: 2rem 0;
 }
 
 .table-list
