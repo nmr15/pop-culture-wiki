@@ -147,94 +147,96 @@ const Community = () =>
           
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast and characters</h2>
-          <p>
-            The show features an ensemble cast of characters, focusing on the members of a study group and a
-            recurring group of faculty of Greendale Community College, including the school's dean.
-          </p>
-          <ul>
-            <li>
-              <a href="#">Joel McHale</a> as <a href="#">Jeff Winger</a>, a former lawyer who enrolls at Greendale after
-              being suspended by the state bar for falsely claiming to have a bachelor's degreen from Columbia University.
-              Jeff is a sarcastic, outspoken, overconfident lothario who often manipulates people to get what he wants.
-              He first created the study group in an attempt to get with Britta, a girl in his Spanish class, through
-              the ruse of being a Spanish tutor who could help Britta pass the course. As he becomes closer to his
-              new study group, his old habits and views change. Most of the group (except Britta, who see through his
-              facade) tends to idolize Jeff for his charisma (particularly in the first season), and often seek advice
-              from him. Although he initially fits his role as the group's straight man, appearing indifference to their
-              concerns before grudgingly helping them, Jeff becomes more willing to make personal sacrifices for his
-              friends over time and slowly reveals that he has a great deal of care and reverence for his study group.
-            </li>
-            <li>
-              <a href="#">Gillian Jacobs</a> as <a href="#">Britta Perry</a>, an anarchist, athiest, and activist who traveled
-              around the world after dropping out of high school. Britta tries to be productive, intelligent, and mature, but
-              often comes off as pretentious and hypocritical. She has a tendency to lack direction and make things go wrong.
-              Despite not being as wordly or well-informed an activist as she thinks, Britta has a genuine desire to help
-              others, and she cares deeply for her friends.
-            </li>
-            <li>
-              <a href="#">Danny Pudi</a> as <a href="#">Abed Nadir</a>, a film student of Palestinian and Polish descent,
-              with an encyclopedic knowledge of TV shows and movies. Abed struggles to interact with others via conventional
-              means due to his autism, so he often chooses to interpret the group's everyday activities by comparing them to film
-              and TV cliches. Despite being out of touch with reality at times, Abed is a keen observer of human behavior and
-              often the wisest member of the group. These eccentricities allow him to pick up on flaws the other characters
-              have and tend to bluntly point them out, eventually resulting in the characters learning from his insights.
-              Harmon based the character on Abed Gheith, whome he met through Channel 101.
-            </li>
-            <li>
-              <a href="#">Yvette Nicole Brown</a> as <a href="#">Shirley Bennett</a> (seasons 1-5; guest season 6), a divorced
-              mother and vocal Christian going to school to start a brownie business. Shirley is a kind-hearted person with strong
-              morals, but can be overbearing and often resorts to using guilt to get what she wants or to control her friends'
-              behavior. Though usually soft-spoken, Shirley has a quick temper, a characteristic that manifests when she is
-              advocating for herself or her friends. It is often implied that Shirley's Christian beliefs, which she tends to
-              impose on most non-Christians around her, are a means of coping with her anger issues and repressing the stress she
-              deals with in raising her family while also in school.
-            </li>
-             <li>
-              <a href="#">Alison Brie</a> as <a href="#">Annie Edison</a>, the youngest of the group, a compulsive overachiever,
-              relentlessly organized and comparatively innocent. Annie was extremely unpopular in high school and formerly addicted
-              to Adderall, which has caused her to be very anxious and desperate to prove herself to others. Though normally kind-hearted,
-              she can quickly turn obsessive or lose her temper when she fails to achieve her goals or is denied something she
-              strongly cares about. Her friendship with the study group, as well as her living situation with Troy and Abed, slowly
-              allows her to become more laid-back and genial.
-            </li>
-            <li>
-              <a href="#">Donald Glover</a> as <a href="#">Troy Barnes</a> (seasons 1-5), a former high school star quarterback who
-              lost his scholarh=ship to a top-tier university when he dislocated both shoulders doing a keg flip, which he did on purpose
-              in order to escape pressures of his stardom and popularity. Troy begins the series trying to appear cool, acting like
-              a stereotypical football player, but he eventually feels comfortable in embracing his nerdy and carefree side, particularly
-              thanks to his becoming best friends with Abed. Troy struggles with the idea of growing up, often looking to Jeff and Pierce
-              for guidance. Still, he often shows signs of being capable of leadership and bringing the group together.
-            </li>
-            <li>
-              <a href="#">Chevy Chase</a> as <a href="#">Pierce Hawthorne</a> (seasons 1-4; guest season 5), a millionaire and CEO of the
-              Hawthorne Wipes moist towelette company who enrolled in Greendale a decade prior to the start of the series for the sake of
-              keeping his mind active. More than anyone else within the study group, Pierce is often at odds with the rest of the group
-              because of his arrogance, lack of empathy, and casual ignorance of politically correct behavior, all of which largely stern
-              from his old age and his emotionally abusive father. This includes believing Britta is a closeted lesbian, lusting over Shirley,
-              and casual racism. He also tends to envy the other group members, particularly Jeff's relative youthful attractiveness and
-              Abed's close friendship with Troy. Despite his often unsociable and selfish nature, Pierce desperately wants to fit in with
-              the group and occasionally offers great insight and advice, showing that he does care greatly for each of the group members.
-            </li>
-             <li>
-              <a href="#">Ken Jeong</a> as <a href="#">Ben Chang</a>, an unstable Spanish teacher at Greendale. Chang often takes extreme
-              action against his students, often yelling at them for the slightest infraction or using his superior status to taunt them.
-              He has alternately been a friend and foe of the study group, his ultimate desire being to fit in with them and become a part
-              of the study group, though his behavior makes them desperate not to include him. After Annie gets him fired at the end of
-              season 1, Chang alternates between a variety of roles, becoming a student in season 2, a security guard in season 3, as Kevin
-              who is suffering from "Changnesia" (a fake disease similar to amnesia) during season 4, a math teacher under work release
-              in season 5, and a member of the Save Greendale Committee in season 6.
-            </li>
-            <li>
-              <a href="#">Jim Rash</a> as <a href="#">Craig Pelton</a> (seasons 3-6; recurring seasons 1-2), the dean of Greendale, who
-              desperately wants his school to be more like a real university and goes to extreme lengths to try to make it fun, wacky, and
-              politically correct, while making various questionable business decisions regarding his school. A man of unclear sexual
-              orientation, he frequently attempts to flirt with Jeff and is an increasingly avid cross-dresser. In season 6, he identifies
-              himself as gay, though he views it as an insufficient label. The study group is by far the Dean's favorite group of students,
-              and he is constantly making up excuses to come talk to them, often by walking into their study room unannounced while wearing
-              a costume, to tell them about events going on in the school.
-            </li>
-          </ul>
+          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapse2">Cast and characters</h2>
+          <div className="collapse show" id="collapse2">
+            <p>
+              The show features an ensemble cast of characters, focusing on the members of a study group and a
+              recurring group of faculty of Greendale Community College, including the school's dean.
+            </p>
+            <ul>
+              <li>
+                <a href="#">Joel McHale</a> as <a href="#">Jeff Winger</a>, a former lawyer who enrolls at Greendale after
+                being suspended by the state bar for falsely claiming to have a bachelor's degreen from Columbia University.
+                Jeff is a sarcastic, outspoken, overconfident lothario who often manipulates people to get what he wants.
+                He first created the study group in an attempt to get with Britta, a girl in his Spanish class, through
+                the ruse of being a Spanish tutor who could help Britta pass the course. As he becomes closer to his
+                new study group, his old habits and views change. Most of the group (except Britta, who see through his
+                facade) tends to idolize Jeff for his charisma (particularly in the first season), and often seek advice
+                from him. Although he initially fits his role as the group's straight man, appearing indifference to their
+                concerns before grudgingly helping them, Jeff becomes more willing to make personal sacrifices for his
+                friends over time and slowly reveals that he has a great deal of care and reverence for his study group.
+              </li>
+              <li>
+                <a href="#">Gillian Jacobs</a> as <a href="#">Britta Perry</a>, an anarchist, athiest, and activist who traveled
+                around the world after dropping out of high school. Britta tries to be productive, intelligent, and mature, but
+                often comes off as pretentious and hypocritical. She has a tendency to lack direction and make things go wrong.
+                Despite not being as wordly or well-informed an activist as she thinks, Britta has a genuine desire to help
+                others, and she cares deeply for her friends.
+              </li>
+              <li>
+                <a href="#">Danny Pudi</a> as <a href="#">Abed Nadir</a>, a film student of Palestinian and Polish descent,
+                with an encyclopedic knowledge of TV shows and movies. Abed struggles to interact with others via conventional
+                means due to his autism, so he often chooses to interpret the group's everyday activities by comparing them to film
+                and TV cliches. Despite being out of touch with reality at times, Abed is a keen observer of human behavior and
+                often the wisest member of the group. These eccentricities allow him to pick up on flaws the other characters
+                have and tend to bluntly point them out, eventually resulting in the characters learning from his insights.
+                Harmon based the character on Abed Gheith, whome he met through Channel 101.
+              </li>
+              <li>
+                <a href="#">Yvette Nicole Brown</a> as <a href="#">Shirley Bennett</a> (seasons 1-5; guest season 6), a divorced
+                mother and vocal Christian going to school to start a brownie business. Shirley is a kind-hearted person with strong
+                morals, but can be overbearing and often resorts to using guilt to get what she wants or to control her friends'
+                behavior. Though usually soft-spoken, Shirley has a quick temper, a characteristic that manifests when she is
+                advocating for herself or her friends. It is often implied that Shirley's Christian beliefs, which she tends to
+                impose on most non-Christians around her, are a means of coping with her anger issues and repressing the stress she
+                deals with in raising her family while also in school.
+              </li>
+              <li>
+                <a href="#">Alison Brie</a> as <a href="#">Annie Edison</a>, the youngest of the group, a compulsive overachiever,
+                relentlessly organized and comparatively innocent. Annie was extremely unpopular in high school and formerly addicted
+                to Adderall, which has caused her to be very anxious and desperate to prove herself to others. Though normally kind-hearted,
+                she can quickly turn obsessive or lose her temper when she fails to achieve her goals or is denied something she
+                strongly cares about. Her friendship with the study group, as well as her living situation with Troy and Abed, slowly
+                allows her to become more laid-back and genial.
+              </li>
+              <li>
+                <a href="#">Donald Glover</a> as <a href="#">Troy Barnes</a> (seasons 1-5), a former high school star quarterback who
+                lost his scholarh=ship to a top-tier university when he dislocated both shoulders doing a keg flip, which he did on purpose
+                in order to escape pressures of his stardom and popularity. Troy begins the series trying to appear cool, acting like
+                a stereotypical football player, but he eventually feels comfortable in embracing his nerdy and carefree side, particularly
+                thanks to his becoming best friends with Abed. Troy struggles with the idea of growing up, often looking to Jeff and Pierce
+                for guidance. Still, he often shows signs of being capable of leadership and bringing the group together.
+              </li>
+              <li>
+                <a href="#">Chevy Chase</a> as <a href="#">Pierce Hawthorne</a> (seasons 1-4; guest season 5), a millionaire and CEO of the
+                Hawthorne Wipes moist towelette company who enrolled in Greendale a decade prior to the start of the series for the sake of
+                keeping his mind active. More than anyone else within the study group, Pierce is often at odds with the rest of the group
+                because of his arrogance, lack of empathy, and casual ignorance of politically correct behavior, all of which largely stern
+                from his old age and his emotionally abusive father. This includes believing Britta is a closeted lesbian, lusting over Shirley,
+                and casual racism. He also tends to envy the other group members, particularly Jeff's relative youthful attractiveness and
+                Abed's close friendship with Troy. Despite his often unsociable and selfish nature, Pierce desperately wants to fit in with
+                the group and occasionally offers great insight and advice, showing that he does care greatly for each of the group members.
+              </li>
+              <li>
+                <a href="#">Ken Jeong</a> as <a href="#">Ben Chang</a>, an unstable Spanish teacher at Greendale. Chang often takes extreme
+                action against his students, often yelling at them for the slightest infraction or using his superior status to taunt them.
+                He has alternately been a friend and foe of the study group, his ultimate desire being to fit in with them and become a part
+                of the study group, though his behavior makes them desperate not to include him. After Annie gets him fired at the end of
+                season 1, Chang alternates between a variety of roles, becoming a student in season 2, a security guard in season 3, as Kevin
+                who is suffering from "Changnesia" (a fake disease similar to amnesia) during season 4, a math teacher under work release
+                in season 5, and a member of the Save Greendale Committee in season 6.
+              </li>
+              <li>
+                <a href="#">Jim Rash</a> as <a href="#">Craig Pelton</a> (seasons 3-6; recurring seasons 1-2), the dean of Greendale, who
+                desperately wants his school to be more like a real university and goes to extreme lengths to try to make it fun, wacky, and
+                politically correct, while making various questionable business decisions regarding his school. A man of unclear sexual
+                orientation, he frequently attempts to flirt with Jeff and is an increasingly avid cross-dresser. In season 6, he identifies
+                himself as gay, though he views it as an insufficient label. The study group is by far the Dean's favorite group of students,
+                and he is constantly making up excuses to come talk to them, often by walking into their study room unannounced while wearing
+                a costume, to tell them about events going on in the school.
+              </li>
+            </ul>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Production</h2>
