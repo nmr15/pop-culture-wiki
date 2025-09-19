@@ -501,65 +501,67 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Reception</h2>
-          <h3 className="pt-2" id="6.1">Critical reception</h3>
-          <p>
-            Community has appeared on a number of lists determining the greatest television shows off all time. In TV (The Book): Two Experts Pick the Greatest American Shows
-            of All Time, critics Alan Sepinwall and Matt Zoller Seltz ranked Community 54th in their combined top 100 list, placing them in the section titled "Groundbreaking
-            and Workhorses". In 2012, Entertainment Weekly listed the show at #15 in the "25 Best Cult TV Shows from the Past 25 Years," with high praise; "The series' affinity
-            for ambitious, high-concept story lines (e.g. few shows are willing to turn over and entire episode to stop-motion animation), meta humor, and constant pop culture
-            allusions has helped it earn the kind of fervent fan following some of its highest-rated comedic competitors must envy." In 2017, IGN place it 51st in its top 100
-            ranking of TV shows, with writer Jonathan Dombush describing it "as a meta love letter to the films and shows that inspired it and its creator, Dan Harmon." In 2021,
-            the BBC placed Community at 44th of 100 in its ranking of the greatest TV series of the 21st century. In 2023, Variety ranked Community #100 on its list of the
-            100 greatest TV shows of all time.
-          </p>
-          <p>
-            The show has overall scores of 88% on Rotten Tomatoes, and 74 on Metacritic.
-          </p>
-          <p>
-            The show's first season received mostly positive reviews, scoring 69 out of 100 based on 23 critics on Metacritic. Season 1 scored 90% on review aggregator website
-            Rotten Tomatoes, with the site's critical consensus reading: "Snarky and fast-paced with a surprising tender undercurrent and an engaging cast, Comunity is one of the
-            best new comedies of the season". David Bushman (Curator, Televison) of the Paley Center for Media called Community the best new show of the fall season. Jonah Krakow
-            of IGN gave the first season an 8.5 saying that "Community eventually ramped up and delivered some amazing stories in the second half of the season."
-          </p>
-          <p>
-            The second season received high critical acclaim, scoring 86 out of 199 based on 4 critics on Metacritic. Rotten Tomatoes gave the season a 100%, with a critical consensus
-            that reads; "Community unfurls into a marvel of meta-madness in its sophomore season, artfully deconstructing sitcom tropes while repeatedly knocking its own emotional
-            beats out of the park". Emily Nussbaum of New York Magazine and Heather Havrilesky of Salon.com rated Community as the best show of 2010. In The A.V. Club's list of the
-            25 best television series of 2010, Community ranked second, stating that the best episodes were "Modern Warfare", "Cooperative Calligraphy", and "Abed's Uncontrollable
-            Christmas". IGN named Community the best comedy series in both 2010 and 2011.
-          </p>
-          <p>
-            Acclaim for the show continued in the third season, scoring 82 out of 100 based on 4 critics on Metacritic. It also topped the Metacritic User Poll in the category 'Best
-            Television Show of 2011', receiving 3,478 points. Rotten Tomatoes gave season 3 a 91% with a critical consensus that reads: "The Greendale study group take some of their
-            boldest swings--though not all connect--in this freewheeling third season that nevertheless continues Community's streak as the gold standard for fiendishly clever television".
-            Community placed on several critics top television lists; including tanked second by Paste, fifth by both HitFix and The Huffington Post, first by Hulu, and third on TV.com's
-            Top 100 Everything of 2011.
-          </p>
-          <p>
-            Reviews for the fourth season were generally positive, but less enthusiastic than the reception of the first three seasons. It scored 69 out of 100 based on 18 critics on
-            Metacritic. The season 4 rating on Rotten Tomatoes is 65%, and the critical consensus reads: "Despite some behind-the-scenes drama, the fourth season of Community manages to
-            retain the playful energy, potent humor, and kooky stories the show is famous for". Verne Gay of Newsday stated the show was "still defiantly Community, still good and still
-            uninterested in adding new viewers." On the other hand, Hitfix's Alan Sepinwall wrote, "It feels like [Moses] Port, [David] Guarascio and the other writers decided to
-            reverse-engineer the [Dan] Harmon version of Community, but couldn't quite manage without the missing ingredient of Harmon himself." Mike Hale of The New York Times has
-            stated that the series "has been dumbed down, its humor broadened past recognition, and the two episodes provided for review...have fewer laughs between them than a single
-            good scene from the old Community."
-          </p>
-          <p>
-            The fifth season received critical acclaim, scoring an 80 out of 100 based on 15 reviews on Metacritic. Rotten Tomatoes gave the season a 93%, with the critical consensus
-            reading: "With Dan Harmon back as the showrunner, Community returns with a familiar new energy and more fun, exciting adventures for the Greendale gang". Many critics cited
-            the return of series creator Dan Harmon as a strength. Verne Gay from Newsday said of the season that it was "about as good a Community restart as anyone could have possibly
-            hoped for."
-          </p>
-          <p>
-            The sixth season continued to receive positive reviews, scoring a 78 out of 100 based on 12 reviews on Metacritic, and scoring an 89%  approval rating on Rotten Tomatoes, with
-            the consensus being, "Despite cast and broadcast changes, Community manages to remain at the top of its quirky class." Amy Amatangelo of The Hollywood Reporter wrote, 
-            "Everything fans loved about Community remains [...] the show has seamlessly transferred to an online venue." The Los Angeles Times' Robert Lloyd considered "something special"
-            about the season, commenting that it "lives in consciousness of its own construction in a kind of existential but also dramatically meaningful way." The New York Times' Mike
-            Hale felt Harmon responsible "for turning countercultural whimsicality into affecting, fast-paced comedy" in the season. Time's James Poniewozik felt it the same show in humor
-            and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
-            second life free to be weird and playful and experimental."
-          </p>
+          <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Reception</h2>
+          <div className="collapse show" id="collapseSix">
+            <h3 className="pt-2" id="6.1">Critical reception</h3>
+            <p>
+              Community has appeared on a number of lists determining the greatest television shows off all time. In TV (The Book): Two Experts Pick the Greatest American Shows
+              of All Time, critics Alan Sepinwall and Matt Zoller Seltz ranked Community 54th in their combined top 100 list, placing them in the section titled "Groundbreaking
+              and Workhorses". In 2012, Entertainment Weekly listed the show at #15 in the "25 Best Cult TV Shows from the Past 25 Years," with high praise; "The series' affinity
+              for ambitious, high-concept story lines (e.g. few shows are willing to turn over and entire episode to stop-motion animation), meta humor, and constant pop culture
+              allusions has helped it earn the kind of fervent fan following some of its highest-rated comedic competitors must envy." In 2017, IGN place it 51st in its top 100
+              ranking of TV shows, with writer Jonathan Dombush describing it "as a meta love letter to the films and shows that inspired it and its creator, Dan Harmon." In 2021,
+              the BBC placed Community at 44th of 100 in its ranking of the greatest TV series of the 21st century. In 2023, Variety ranked Community #100 on its list of the
+              100 greatest TV shows of all time.
+            </p>
+            <p>
+              The show has overall scores of 88% on Rotten Tomatoes, and 74 on Metacritic.
+            </p>
+            <p>
+              The show's first season received mostly positive reviews, scoring 69 out of 100 based on 23 critics on Metacritic. Season 1 scored 90% on review aggregator website
+              Rotten Tomatoes, with the site's critical consensus reading: "Snarky and fast-paced with a surprising tender undercurrent and an engaging cast, Comunity is one of the
+              best new comedies of the season". David Bushman (Curator, Televison) of the Paley Center for Media called Community the best new show of the fall season. Jonah Krakow
+              of IGN gave the first season an 8.5 saying that "Community eventually ramped up and delivered some amazing stories in the second half of the season."
+            </p>
+            <p>
+              The second season received high critical acclaim, scoring 86 out of 199 based on 4 critics on Metacritic. Rotten Tomatoes gave the season a 100%, with a critical consensus
+              that reads; "Community unfurls into a marvel of meta-madness in its sophomore season, artfully deconstructing sitcom tropes while repeatedly knocking its own emotional
+              beats out of the park". Emily Nussbaum of New York Magazine and Heather Havrilesky of Salon.com rated Community as the best show of 2010. In The A.V. Club's list of the
+              25 best television series of 2010, Community ranked second, stating that the best episodes were "Modern Warfare", "Cooperative Calligraphy", and "Abed's Uncontrollable
+              Christmas". IGN named Community the best comedy series in both 2010 and 2011.
+            </p>
+            <p>
+              Acclaim for the show continued in the third season, scoring 82 out of 100 based on 4 critics on Metacritic. It also topped the Metacritic User Poll in the category 'Best
+              Television Show of 2011', receiving 3,478 points. Rotten Tomatoes gave season 3 a 91% with a critical consensus that reads: "The Greendale study group take some of their
+              boldest swings--though not all connect--in this freewheeling third season that nevertheless continues Community's streak as the gold standard for fiendishly clever television".
+              Community placed on several critics top television lists; including tanked second by Paste, fifth by both HitFix and The Huffington Post, first by Hulu, and third on TV.com's
+              Top 100 Everything of 2011.
+            </p>
+            <p>
+              Reviews for the fourth season were generally positive, but less enthusiastic than the reception of the first three seasons. It scored 69 out of 100 based on 18 critics on
+              Metacritic. The season 4 rating on Rotten Tomatoes is 65%, and the critical consensus reads: "Despite some behind-the-scenes drama, the fourth season of Community manages to
+              retain the playful energy, potent humor, and kooky stories the show is famous for". Verne Gay of Newsday stated the show was "still defiantly Community, still good and still
+              uninterested in adding new viewers." On the other hand, Hitfix's Alan Sepinwall wrote, "It feels like [Moses] Port, [David] Guarascio and the other writers decided to
+              reverse-engineer the [Dan] Harmon version of Community, but couldn't quite manage without the missing ingredient of Harmon himself." Mike Hale of The New York Times has
+              stated that the series "has been dumbed down, its humor broadened past recognition, and the two episodes provided for review...have fewer laughs between them than a single
+              good scene from the old Community."
+            </p>
+            <p>
+              The fifth season received critical acclaim, scoring an 80 out of 100 based on 15 reviews on Metacritic. Rotten Tomatoes gave the season a 93%, with the critical consensus
+              reading: "With Dan Harmon back as the showrunner, Community returns with a familiar new energy and more fun, exciting adventures for the Greendale gang". Many critics cited
+              the return of series creator Dan Harmon as a strength. Verne Gay from Newsday said of the season that it was "about as good a Community restart as anyone could have possibly
+              hoped for."
+            </p>
+            <p>
+              The sixth season continued to receive positive reviews, scoring a 78 out of 100 based on 12 reviews on Metacritic, and scoring an 89%  approval rating on Rotten Tomatoes, with
+              the consensus being, "Despite cast and broadcast changes, Community manages to remain at the top of its quirky class." Amy Amatangelo of The Hollywood Reporter wrote, 
+              "Everything fans loved about Community remains [...] the show has seamlessly transferred to an online venue." The Los Angeles Times' Robert Lloyd considered "something special"
+              about the season, commenting that it "lives in consciousness of its own construction in a kind of existential but also dramatically meaningful way." The New York Times' Mike
+              Hale felt Harmon responsible "for turning countercultural whimsicality into affecting, fast-paced comedy" in the season. Time's James Poniewozik felt it the same show in humor
+              and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
+              second life free to be weird and playful and experimental."
+            </p>
+          </div>
         </div>
         <TableCommunity />
       </main>
