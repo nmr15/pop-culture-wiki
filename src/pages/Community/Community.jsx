@@ -239,63 +239,65 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
-          <h3 className="pt-2" id="3.1">Casting</h3>
-          <p>
-            <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
-            percent of putting the show together," he said in an interview. He had worked with several of the cast members previously. Actor
-            Chevy Chase had long been a favorite of Harmon. Though initially not partial to sitcoms, Chase was persuaded by the quality of
-            the show's writing to take the job. Harmon saw similarities between Chase and the character he plays on the show. Though Chase
-            has often been ridiculed for his career choices, Harmon believed this role could be redeeming: "What makes Chevy and Pierce
-            heroic is this refusal to stop." Harmon had to warn Chase against playing "a wise ass" the way he often does in his roles, since
-            the character of Pierce is a rather pathetic figure who is normally the butt of the joke himself. 
-          </p>
-          <p>
-            McHale, known from the E! comedy talk show The Soup, was also impressed by Harmon's writing. He commented, "Dan's script was so
-            head and shoulders above everything else that I was reading." McHale appealed to Harmon because of his likability, which allowed
-            the character to possess certain unsympathetic traits without turning the viewers against him. To play Annie,  Harmon wanted
-            someone resembling Tracy Flick, Reese Witherspoon's character in the 1999 movie Election. Originally the producers were looking for
-            a Latina or Asian Tracy Flick, but they cast Alison Brie, known for her role as Trudy Campbell on Mad Men.
-          </p>
-          <h3 className="pt-2" id="3.2">Development</h3>
-          <p>
-            Harmon based the premise of Community on his own experiences. In an attempt to save his relationship with his then-girlfriend, he
-            enrolled in Glendale Community College northeast of Los Angeles, where they would take Spanish together. Harmon got involved in a
-            study group and, somewhat against his own instincts, became close firneds with the members, with whom he had very little in common.
-            "I was in this group with these knuckleheads and I started really liking them," he explained, "even though they had nothing to do
-            with the film industry and I had nothing to gain from them and nothing to offer them." With this background, Harmon wrote the show
-            with a main character largely based on himself. He had, like Jeff, been arrogant and emotionally distant to the extreme
-            before he realized the value of understanding other people.
-          </p>
-          <p>
-            About the creative process behing the writing, Harmon said that he had to write the show as if it were a movie, not a sitcom.
-            Essentially, the process was no different from the earlier works he had done, except for the length and the target demographic.
-          </p>
-          <h3 className="pt-2" id="3.3">Writing</h3>
-          <p>
-            Each episode of Community is written in accordance with Dan Harmon's template of "story circles" that he developed while at Channel
-            101. Harmon rewrote every episode (except while not working on the show during its fourth season), which helps lend the show his
-            particular voice. Members of the Community writing staff have included Liz Cackowski, Dino Stamatopoulos, Chris McKenna, Megan Ganz,
-            Andy Bobrow, Alex Rubens, Tim Saccardo and Matt Warburton. Cast member Jim Rash, who won an Academy Award in 2011 for co-writing the
-            film The Descendants, also wrote a season four episode.
-          </p>
-          <p>
-            The show is known for its frequent use of thematic episodes every season, which use cliches and television tropes as single-episode
-            concepts that play with suspension of disbelief while maintaining plot continuity. One notable thematic episode is Season 3's
-            "<a href="">Remedial Chaos Theory</a>", in which the cast explore seven different parallel realities of the same night, with one key
-            variation being a roll of a single six-sided die in a game of Yahtzee that Jeff uses to dismiss a member of the group to get a pizza
-            (the seventh variant is that the die was not rolled at all). Frequent episode themes are school-year holidays (Halloween and Christmas
-            being the most frequent), paintball, and various forms of animation.
-          </p>
-          <h3 className="pt-2" id="3.4">Filming</h3>
-          <p>
-            Filming the show involved a lot of improvisation, particularly from Chase. Of Chase, Harmon said that he "tends to come up with lines
-            that you can actually end scens with sometimes". He had also called McHale and Glover adept improvisers. Apart from a few exterior
-            scenes shot at Los Angeles City College, the show was filmed at the Paramount Studios lot in Hollywood, California, during
-            seasons one through five. For season six, the series moved to the CBS Studio Center, and featured exterior scenes from Los Angeles City
-            College for the first time since season two. The series used the single-camera technique, where each shot is filmed individually,
-            using the same camera.
-          </p>
+          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapse2" id="3">Production</h2>
+          <div className="collapse show" id="collapse3">
+            <h3 className="pt-2" id="3.1">Casting</h3>
+            <p>
+              <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
+              percent of putting the show together," he said in an interview. He had worked with several of the cast members previously. Actor
+              Chevy Chase had long been a favorite of Harmon. Though initially not partial to sitcoms, Chase was persuaded by the quality of
+              the show's writing to take the job. Harmon saw similarities between Chase and the character he plays on the show. Though Chase
+              has often been ridiculed for his career choices, Harmon believed this role could be redeeming: "What makes Chevy and Pierce
+              heroic is this refusal to stop." Harmon had to warn Chase against playing "a wise ass" the way he often does in his roles, since
+              the character of Pierce is a rather pathetic figure who is normally the butt of the joke himself. 
+            </p>
+            <p>
+              McHale, known from the E! comedy talk show The Soup, was also impressed by Harmon's writing. He commented, "Dan's script was so
+              head and shoulders above everything else that I was reading." McHale appealed to Harmon because of his likability, which allowed
+              the character to possess certain unsympathetic traits without turning the viewers against him. To play Annie,  Harmon wanted
+              someone resembling Tracy Flick, Reese Witherspoon's character in the 1999 movie Election. Originally the producers were looking for
+              a Latina or Asian Tracy Flick, but they cast Alison Brie, known for her role as Trudy Campbell on Mad Men.
+            </p>
+            <h3 className="pt-2" id="3.2">Development</h3>
+            <p>
+              Harmon based the premise of Community on his own experiences. In an attempt to save his relationship with his then-girlfriend, he
+              enrolled in Glendale Community College northeast of Los Angeles, where they would take Spanish together. Harmon got involved in a
+              study group and, somewhat against his own instincts, became close firneds with the members, with whom he had very little in common.
+              "I was in this group with these knuckleheads and I started really liking them," he explained, "even though they had nothing to do
+              with the film industry and I had nothing to gain from them and nothing to offer them." With this background, Harmon wrote the show
+              with a main character largely based on himself. He had, like Jeff, been arrogant and emotionally distant to the extreme
+              before he realized the value of understanding other people.
+            </p>
+            <p>
+              About the creative process behing the writing, Harmon said that he had to write the show as if it were a movie, not a sitcom.
+              Essentially, the process was no different from the earlier works he had done, except for the length and the target demographic.
+            </p>
+            <h3 className="pt-2" id="3.3">Writing</h3>
+            <p>
+              Each episode of Community is written in accordance with Dan Harmon's template of "story circles" that he developed while at Channel
+              101. Harmon rewrote every episode (except while not working on the show during its fourth season), which helps lend the show his
+              particular voice. Members of the Community writing staff have included Liz Cackowski, Dino Stamatopoulos, Chris McKenna, Megan Ganz,
+              Andy Bobrow, Alex Rubens, Tim Saccardo and Matt Warburton. Cast member Jim Rash, who won an Academy Award in 2011 for co-writing the
+              film The Descendants, also wrote a season four episode.
+            </p>
+            <p>
+              The show is known for its frequent use of thematic episodes every season, which use cliches and television tropes as single-episode
+              concepts that play with suspension of disbelief while maintaining plot continuity. One notable thematic episode is Season 3's
+              "<a href="">Remedial Chaos Theory</a>", in which the cast explore seven different parallel realities of the same night, with one key
+              variation being a roll of a single six-sided die in a game of Yahtzee that Jeff uses to dismiss a member of the group to get a pizza
+              (the seventh variant is that the die was not rolled at all). Frequent episode themes are school-year holidays (Halloween and Christmas
+              being the most frequent), paintball, and various forms of animation.
+            </p>
+            <h3 className="pt-2" id="3.4">Filming</h3>
+            <p>
+              Filming the show involved a lot of improvisation, particularly from Chase. Of Chase, Harmon said that he "tends to come up with lines
+              that you can actually end scens with sometimes". He had also called McHale and Glover adept improvisers. Apart from a few exterior
+              scenes shot at Los Angeles City College, the show was filmed at the Paramount Studios lot in Hollywood, California, during
+              seasons one through five. For season six, the series moved to the CBS Studio Center, and featured exterior scenes from Los Angeles City
+              College for the first time since season two. The series used the single-camera technique, where each shot is filmed individually,
+              using the same camera.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Episodes</h2>
