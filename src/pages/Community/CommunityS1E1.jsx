@@ -8,6 +8,9 @@ const CommunityS1E1 = () =>
       <ul>
         <li className="py-1"><a href="#top">Top</a></li>
         <li className="py-1"><a href="#1">Plot</a></li>
+        <li className="py-1"><a href="#2">Recurring themes</a></li>
+        <li className="py-1"><a href="#3">Trivia</a></li>
+        <li className="py-1"><a href="#r">Quotes</a></li>
       </ul>
     </nav>
     <main className="main px-5 py-4" id="top">
@@ -40,7 +43,7 @@ const CommunityS1E1 = () =>
         </p>
       </div>
       <div>
-        <h2 className="article-heading" id="1">Plot</h2>
+        <h2 className="article-heading-2" id="1">Plot</h2>
         <p>
           Jeff Winger, a lawyer disbarred for having falsified his degree, has enrolled at Greendale Community College as a
           condition for getting his license back. His plan is to use his friendship with <a href="#">Dr. Ian Duncan</a>, a
@@ -74,7 +77,7 @@ const CommunityS1E1 = () =>
         </p>
       </div>
       <div>
-        <h2 className="article-heading" id="2">Recurring themes</h2>
+        <h2 className="article-heading-2" id="2">Recurring themes</h2>
         <h3 className="pt-2" id="2.1">Continuity</h3>
         <p>Narrative</p>
         <ul>
@@ -368,7 +371,7 @@ const CommunityS1E1 = () =>
         </ul>
       </div>
       <div>
-        <h2 className="article-heading" id="3">Trivia</h2>
+        <h2 className="article-heading-2" id="3">Trivia</h2>
         <ul>
           <li>
             The original script for the pilot had a number of differences from the broadcast version,
@@ -440,7 +443,7 @@ const CommunityS1E1 = () =>
         </ul>
       </div>
       <div>
-        <h2 className="article-heading" id="4">Quotes</h2>
+        <h2 className="article-heading-2" id="4">Quotes</h2>
         <div className="py-2">
           <p>
             <i>"I still cannot figure out how you got a jury to connect September the 11th with my DUI."</i> 
