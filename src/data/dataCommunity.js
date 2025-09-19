@@ -599,79 +599,79 @@ export const communitys5 = [
   {
     "id": "cmtys5e1",
     "title": "Repilot",
-    "file": "Repilot",
+    "file": "CommunityS5E1",
     "route": "/community/repilot"
   },
   {
     "id": "cmtys5e2",
     "title": "Introduction to Teaching",
-    "file": "IntroductionToTeaching",
+    "file": "CommunityS5E2",
     "route": "/community/introduction_to_teaching"
   },
   {
     "id": "cmtys5e3",
     "title": "Basic Intergluteal Numismatics",
-    "file": "BasicInterglutealNumismatics",
+    "file": "CommunityS5E3",
     "route": "/community/basic_intergluteal_numismatics"
   },
   {
     "id": "cmtys5e4",
     "title": "Cooperative Polygraphy",
-    "file": "CooperativePolygraphy",
+    "file": "CommunityS5E4",
     "route": "/community/cooperative_polygraphy"
   },
   {
     "id": "cmtys5e5",
     "title": "Geothermal Escapism",
-    "file": "GeothermalEscapism",
+    "file": "CommunityS5E5",
     "route": "/community/geothermal_escapsim"
   },
   {
     "id": "cmtys5e6",
     "title": "Analysis of Cork-Based Networking",
-    "file": "AnalysisOfCorkBasedNetworking",
+    "file": "CommunityS5E6",
     "route": "/community/analysis_of_cork_based_networking"
   },
   {
     "id": "cmtys5e7",
     "title": "Bondage and Beta Male Sexuality",
-    "file": "BondageAndBetaMaleSexuality",
+    "file": "CommunityS5E7",
     "route": "/community/bondage_and_beta_male_sexuality"
   },
   {
     "id": "cmtys5e8",
     "title": "App Development and Condiments",
-    "file": "AppDevelopmentAndCondiments",
+    "file": "CommunityS5E8",
     "route": "/community/app_development_and_condiments"
   },
   {
     "id": "cmtys5e9",
     "title": "VCR Maintenance and Educational Publishing",
-    "file": "VCRMaintenanceAndEducationalPublishing",
+    "file": "CommunityS5E9",
     "route": "/community/vcr_maintenance_and_educational_publishing"
   },
   {
     "id": "cmtys5e10",
     "title": "Advanced Advanced Dungeons & Dragons",
-    "file": "AdvancedAdvancedDungeonsAndDragons",
+    "file": "CommunityS5E10",
     "route": "/community/advanced_advanced_dungeons_and_dragons"
   },
   {
     "id": "cmtys5e11",
     "title": "G.I. Jeff",
-    "file": "GIJeff",
+    "file": "CommunityS5E11",
     "route": "/community/gi_jeff"
   },
   {
     "id": "cmtys5e12",
     "title": "Basic Story",
-    "file": "BasicStory",
+    "file": "CommunityS5E12",
     "route": "/community/basic_story"
   },
   {
     "id": "cmtys5e13",
     "title": "Basic Sandwich",
-    "file": "BasicSandwich",
+    "file": "CommunityS5E13",
     "route": "/community/basic_sandwich"
   }
 ]
