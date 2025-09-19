@@ -350,31 +350,31 @@ export const communitys2 = [
   {
     "id": "cmtys2e20",
     "title": "Comparative Wine Tasting",
-    "file": "ComparativeWineTasting",
+    "file": "CommunityS2E20",
     "route": "/community/comparative_wine_tasting"
   },
   {
     "id": "cmtys2e21",
     "title": "Paradigms of Human Memory",
-    "file": "ParadigmsOfHumanMemory",
+    "file": "CommunityS2E21",
     "route": "/community/paradigms_of_human_memory"
   },
   {
     "id": "cmtys2e22",
     "title": "Applied Anthropology and Culinary Arts",
-    "file": "AppliedAnthropologyAndCulinaryArts",
+    "file": "CommunityS2E22",
     "route": "community/applied_anthropology_and_culinary_arts"
   },
   {
     "id": "cmtys2e23",
     "title": "A Fistfull of Paintballs",
-    "file": "AFistfullOfPaintballs",
+    "file": "CommunityS2E23",
     "route": "community/a_fistfull_of_paintballs"
   },
   {
     "id": "cmtys2e24",
     "title": "For a Few Paintballs More",
-    "file": "ForAFewPaintballsMore",
+    "file": "CommunityS2E24",
     "route": "community/for_a_few_paintballs_more"
   }
 ]
