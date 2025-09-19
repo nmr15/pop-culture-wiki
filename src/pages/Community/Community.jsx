@@ -577,7 +577,36 @@ const Community = () =>
               second life free to be weird and playful and experimental."
             </p>
             <h3 className="pt-2" id="6.2">Awards and nominations</h3>
-
+            <p>
+              In 2009, the series received a nomination for Favorite New TV Comedy at the 36th People's Choice Awards.
+            </p>
+            <p>
+              In 2010, at the 41st NAACP Image Awards, Justin Lin received a nomination for Outstanding Directing in a Comedy Series for "Introduction to Statistics". At the 2010 Teen
+              Choice Awards, the series received a nomination for Breakout Show and Ken Jeong was nominated for Breakout Star Male. For Entertainment Weekly's 3rd Ewwy Awards, it was
+              nominated for Best Comedy Series, Joel McHale was nominated for Best Lead Actor in a Comedy and Danny Pudi was nominated for Best Supporting Actor in a Comedy.
+            </p>
+            <p>
+              In 2011, Betty White received a nomination for Favorite TV Guest Star at the 37th People's Choice Awards. Yvette Nicole Brown won the 2011 Gracie Allen Award for Outstanding
+              Supporting Actress in a Comedy Series. The series received a nomination for Best Directing for a Comedy Series at The Comedy Awards. For the 1st Critics' Choice Television
+              Awards, it was nominated for Best Comedy Series, while Joel McHale and Danny Pudi were nominated for Best Actor and Best Supporting Actor in Comedy Series, respectively.
+              The episode "<a href="#">Abed's Uncontrollable Christmas</a>" won a 2011 Creative Arts Emmy Award for Individual Achievement in Animation. At the 42nd NAACP Image Awards,
+              Justin Lin was nominated for Outstanding Directing in a Comedy Series for the episode "Modern Warfre". At the 27th TCA Awards, Community was nominated for Outstanding
+              Achievement in Comedy and Danny Pudi was nominated for Individual Achievement in Comedy. The series received four nominations for the 2011 Satellite Awards, for Best
+              Comedy or Musical Series, Joel McHale for Best Actor in a Musical or Comedy Series, and Donald Glover for Best Supporting Actor in a Series, Miniseries, or TV Movie;
+              while it won Best Television Release for the season two DVD set.
+            </p>
+            <p>
+              In 2012, Community was nominated for a Primetime Emmy Award for Outstanding Writing for a Comedy Series for the episode "<a href="#">Remedial Chaos Theory</a>", written
+              by Chris McKenna. Also that year, the show won the award for Favorite Comedy and Favorite Ensemble in the 2012 TV Guide Magazine Fan Favorites Awards. "Remedial Chaos
+              Theory" was nominated for a Hugo Award in 2012 for Best Dramatic Presentation, Short Form. Community also won the Hulu "Best in Show" award for 2012, beating
+              <a href="#">30 Rock</a>, Parks and Recreation, New Girl, and Modern Family in the first four rounds, and The Walking Dead in the final round by 11,000 votes. It won Hulu's
+              "Best in Show" award again in 2013, beating out Game of Thrones in the final round with 60% of the votes.
+            </p>
+            <p>
+              At the 2nd Critics' Choice Awards, Community received the most nominations and won Best Comedy Series. Joel McHale was nominated for Best Actor in a Comedy Series, Jim
+              Rash and Danny Pudi were nominated for Best Supporting Actor in a Comedy Series, and Alison Brie and Gillian Jacobs were nominated Best Supporting Actress in a Comedy
+              Series. Community was also nominated for TCA Awaward for Outstanding Achievement in Comedy ath the 2012 TCA Awards.
+            </p>
             <h3 className="pt-2" id="6.3">Semiotics and Community</h3>
 
             <h3 className="pt-2" id="6.3">Ratings</h3>
@@ -597,7 +626,7 @@ const Community = () =>
           <div>
             <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Soundtrack</h2>
             <div className="collapse show" id="collapseNine">
-              
+
             </div>
           </div>
         </div>
