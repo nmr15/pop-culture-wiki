@@ -680,79 +680,79 @@ export const communitys6 = [
   {
     "id": "cmtys6e1",
     "title": "Ladders",
-    "file": "Ladders",
+    "file": "CommunityS6E1",
     "route": "/community/ladders"
   },
   {
     "id": "cmtys6e2",
     "title": "Lawnmower Maintenance and Postnatal Care",
-    "file": "LawnmowerMaintenanceAndPostnatalCare",
+    "file": "CommunityS6E2",
     "route": "/community/lawnmower_maintenance_and_postnatal_care"
   },
   {
     "id": "cmtys6e3",
     "title": "Basic Crisis Room Decorum",
-    "file": "BasicCrisisRoomDecorum",
+    "file": "CommunityS6E3",
     "route": "/community/basic_crisis_room_decorum"
   },
   {
     "id": "cmtys6e4",
     "title": "Queer Studies and Advanced Waxing",
-    "file": "QueerStudiesAndAdvancedWaxing",
+    "file": "CommunityS6E4",
     "route": "/community/queer_studies_and_advanced_waxing"
   },
   {
     "id": "cmtys6e5",
     "title": "Laws of Robotics and Party Rights",
-    "file": "LawsOfRoboticsAndPartyRights",
+    "file": "CommunityS6E5",
     "route": "/community/laws_of_robotics_and_party_rights"
   },
   {
     "id": "cmtys6e6",
     "title": "Basic Email Security",
-    "file": "BasicEmailSecurity",
+    "file": "CommunityS6E6",
     "route": "/community/basic_email_security"
   },
   {
     "id": "cmtys6e7",
     "title": "Advanced Safety Features",
-    "file": "AdvancedSafetyFeatures",
+    "file": "CommunityS6E7",
     "route": "/community/advanced_safety_features"
   },
   {
     "id": "cmtys6e8",
     "title": "Intro to Recycled Cinema",
-    "file": "IntroToRecycledCinema",
+    "file": "CommunityS6E8",
     "route": "/community/intro_to_recycled_cinema"
   },
   {
     "id": "cmtys6e9",
     "title": "Grifting 101",
-    "file": "Grifting101",
+    "file": "CommunityS6E9",
     "route": "/community/grifting_101"
   },
   {
     "id": "cmtys6e10",
     "title": "Basic RV Repair and Palmistry",
-    "file": "BasicRVRepairAndPalmistry",
+    "file": "CommunityS6E10",
     "route": "/community/basic_rv_repair_and_palmistry"
   },
   {
     "id": "cmtys6e11",
     "title": "Modern Espionage",
-    "file": "ModernEspionage",
+    "file": "CommunityS6E11",
     "route": "/community/modern_espionage"
   },
   {
     "id": "cmtys6e12",
     "title": "Wedding Videography",
-    "file": "WeddingVideography",
+    "file": "CommunityS6E12",
     "route": "/community/wedding_videography"
   },
   {
     "id": "cmtys6e13",
     "title": "Emotional Consequences of Broadcast Television",
-    "file": "EmotionalConsequencesOfBroadcastTelevision",
+    "file": "CommunityS6E13",
     "route": "/community/emotional_consequences_of_broadcast_television"
   }
 ]
