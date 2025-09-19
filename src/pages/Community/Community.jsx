@@ -300,179 +300,162 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Episodes</h2>
-          <p>
-            Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
-            and "Cooperative Calligraphy".
-          </p>
-          <p>
-            The complete series was released on DVD in region 1 on November 15, 2016. Special features include all the features from the first six
-            seasons. One June 6, 2018, it was announced that Community: The Complete Series would be released by Mill Creek Entertainment on
-            high-definition Blu-ray on October 23, 2018.
-          </p>
-          <h3 className="pt-2" id="4.1">First season</h3>
-          <div class="accordion" id="accordionS1">
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#season1" aria-expanded="true" aria-controls="season1">
-                  Season 1
-                </button>
-              </h2>
-              <div id="season1" class="accordion-collapse collapse show" data-bs-parent="#accordionS1">
-                <ul class="list-group">
-                  <Link to="/community/pilot">
-                  <li class="list-group-item">Pilot</li>
-                  </Link>
-                  <Link to="/community/spanish101">
-                  <li class="list-group-item">Spanish 101</li>
-                  </Link>
-                </ul>
-              </div>
-            </div>
+          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseFour" id="4">Episodes</h2>
+          <div className="collapse show" id="collapseFour">
+            <p>
+              Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
+              and "Cooperative Calligraphy".
+            </p>
+            <p>
+              The complete series was released on DVD in region 1 on November 15, 2016. Special features include all the features from the first six
+              seasons. One June 6, 2018, it was announced that Community: The Complete Series would be released by Mill Creek Entertainment on
+              high-definition Blu-ray on October 23, 2018.
+            </p>
+            <h3 className="pt-2" id="4.1">First season</h3>
+            <p>
+              The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
+              three episodes, the show was moved to 8:00 pm ET.
+            </p>
+            <p>
+              NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
+              In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
+              region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
+              episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
+              Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
+              scenes; and three mini episodes.
+            </p>
+            
+            <h3 className="pt-2" id="4.2">Second season</h3>
+            <p>
+              On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
+              May 12, 2011. NBC ordered 2 additional episodes for the second season on November 3, 2010, bringing it to a total of 24 episodes.
+              The second season was released in region 1 on September 6, 2011. It features commentary on every episode by cast and crew members;
+              outtakes; animatics for "Abed's Uncontrollable Christmas" and making-of featurettes covering that episode as well as "A Fistful of
+              Paintballs" and "For a Few Paintballs More".
+            </p>
+            <h3 className="pt-2" id="4.3">Third season</h3>
+            <p>
+              The series was renewed for a third season on March 17, 2011. Filming for the season began on July 25, 2011. Jim Rash, who portrays
+              Dean Pelton, was promoted to a series regular after having a recurring role throughout the first two seasons. Michael K. Williams
+              was cast as the study group's new biology professor, who is described as a deeply intense character. John Goodman appears as a recurring
+              character throughout the season as Vice Dean Laybourne, the head of Greendale's air conditioning repair school, and is a foe for Dean
+              Pelton.
+            </p>
+            <p>
+              Community premiered its third season on September 22, 2011. On November 14, 2011, NBC announced that they removing Community from 
+              their mid-season schedule, replacing it with the returning series <a href="#">30 Rock</a>. Fans of the series began a campaign
+              to get the show back on the air using Twitter, Tumblr, and Facebook, making hashtags such as #SaveCommunity, #SixSeasonsAndAMovie,
+              and #OccupyNBC trending topics. NBC responded to the backlash by announcing that the network was still planning to film and air
+              the remainder of the 22 planned episodes after the undetermined hiatus, and that the fate of the series would be determined after
+              the planned episodes air.
+            </p>
+            <p>
+              On December 7, 2011, CollegeHumor released a video titled "Save Greendale (with the cast of Community)" using the cast of
+              Community in-character to promote the series and the school in a PSA-style video. On December 22, 2011, fans of the series
+              created a flash mob outside of NBC's Rockefeller Center headquarters in New York City to Occupy NBC. The flash mob dressed in
+              Christmas gear, wearing "darkest timeline" goatees, and singing "O' Christmas Troy" from the first season's episode "Comparative
+              Religion" and chanting "Go Greendale, go Greendale go". On January 6, 2012, NBC entertainment chairman Robert Greenblatt announced
+              that Community was not canceled, though he did not mention a return date. On February 21, 2012, creator Dan Harmon announced via
+              Twitter that the third season would resume on March 15, 2012, in the regular timeslot of Thursdays at 8:00 pm.
+            </p>
+            <p>
+              The third season was released in region 1 on August 14, 2012. It features commentary on every episode by cast and crew members;
+              gag reels; deleted scenes; "This is War: Pillows vs. Blankets mockumentary" featurette; and "A Glee-ful Community Christmas"
+              featurette.
+            </p>
+            <h3 className="pt-2" id="4.4">Fourth season</h3>
+            <p>
+              On May 10, 2012, Community was renewed for a fourth season consisting of 13 episodes. Series creator and executive producer Dan
+              Harmon was replaced as showrunner for the series in the fourth season, as writers David Guarascio and Moses Port (co-creator of
+              the short-lived Aliens in America) took over as showrunners and executive producers. Sony Pictures Television, which produced the
+              series with Universal Television, initially said that Harmon would serve as a consulting producer, but Harmon asserted that he
+              was not informed of the deal and would not return in a position without any executive prerogatives. The end of the third season
+              also marked several other departures including executive producers Neil Goldman and Garrett Donovan, writer/producer Chris McKenna
+              and actor/writer Dino Stamatopoulos. Frequent episode directors and executive producers <a href="#">Anthony and Joe Russo</a> also
+              left the show in order to direct <a href="#">Captain America: The Winter Soldier</a>.
+            </p>
+            <p>
+              In early October 2012, NBC delayed the premier of the fourth season, which had been scheduled for October 19, 2012, without announcing
+              a new date. On October 30, 2012, NBC announced that the fourth season would premiere February 7, 2013, returning to its original
+              time slot of Thursdays at 8:00 pm.
+            </p>
+            <p>
+              On November 21, 2012, after allegedly using a racial slur on set, it was announced that Chevy Chase left the show by mutual agreement
+              between the actor and network. As a result of timing and the agreement made, Chase's character Pierce is absent for two episodes--he
+              did not appear in the tenth episode (produced the ninth), "Intro to Knots", and the twelfth episode, "Heroic Origins". He also
+              appeared in a voice-only role in the episode "Intro to Felt Surrogacy", which was the final episode produced for the season, and as
+              part of his agreement to leave the show, Chase was required to record all audio for the scenes where his character, alongside the other
+              characters, appeared as a puppet. The season finale, which was filmed out-of-sequence, as it was the eleventh episode produced, marked
+              Chase's final on-screen appearance as a regular cast member. He appeared in a cameo in the season 5 premiere.
+            </p>
+            <p>
+              The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
+              deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
+            </p>
+            <h3 className="pt-2" id="4.5">Fifth season</h3>
+            <p>
+              On May 10, 2013, the series was renewed for a fifth season. On June 1, 2013, Harmon announced he would return as showrunner for season five,
+              replacing season four showrunners Moses Port and David Guarascio, with former writer Chris McKenna returning as executive producer. On June 10,
+              Sony Television confirmed the return of Harmon and McKenna for the fifth season. Dino Stamatopoulos, Rob Schrab, and the Russo brothers also
+              returned.
+            </p>
+            <p>
+              Glover decided to not return as a full-time cast member for the fifth season, appearing only in the first five of the 13 episodes. To make up
+              for his absence and Chase's, Jonathan Banks was cast in the fifth season in August 2013 and appeared in 11 of the season's 13 episodes, portraying
+              Buzz Hickey, a criminology professor. Additionally, John Oliver, who played Professor Duncan in the first two seasons, reprises his role in
+              season 5 for multiple episodes.
+            </p>
+            <p>
+              On May 9, 2014, NBC announed that it had cancelled Community. For several years before its cancellation, fans adopted the slogan "six seasons and
+              a movie", a line from the second season episode "Paradigms of Human Memory" regarding Abed's hopeful legacy of short-lived NBC series The Cape.
+              Bids to continue the series were turned down by popular streaming providers like Netflix and Hulu.
+            </p>
+            <p>
+              The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
+              featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
+            </p>
+            <h3 className="pt-2" id="4.6">Sixth season</h3>
+            <p>
+              On June 30, 2014, the day the cast's contracts were due to expire, Yahoo! announced it had ordered a 13-episode sixth season to stream on Yahoo!
+              Screen, including the main cast along with executive producers Dan Harmon, Chris McKenna, Russ Krasnoff, and Gary Foster. Harmon said, "I am very
+              pleased that Community will be returning for its predestined sixth season on Yahoo ... I look forward to bringing our beloved NBC sitcom to a larger
+              audience by moving it online." However, Yvette Nicole Brown dropped out to care for her ailing father, although she made guest appearances in "Ladders"
+              and "Emotional Consequences of Broadcast Television". Paget Brewster was cast as consultant Francesca "Frankie" Dart and Keith David was cast as inventor
+              Elroy Patashnik. Filming began for season six on November 17, 2014, and on December 8, 2014, the series celebrated the milestone of 100 episodes.
+              Filming ended on March 27, 2015.
+            </p>
+            <p>
+              In a June 3, 2015 interview with TV Insider, Dan Harmon explained why season six would likely be the last of the series:
+              <blockquote>
+                We've exploded into these successful shrapnel. Dr. Ken is now Dr. Ken. Alison has probably got her eye on movies. Gillian is working on a Netflix show.
+                If there was some magical way of guaranteeing that everyone could come back all at once, let's fo it. But it would be a lot easier to put together a
+                movie project and get them all on board than to say, "Let's give it one more season!"
+              </blockquote>
+            </p>
+            <p>
+              Despite the show's "six seasons and a movie" mantra, Yahoo never formally marketed season six as its final season. On July 30, 2015, Joel McHale stated
+              that Yahoo! "wanted to [make more seasons of Community], but all of [the actors'] contracts were up after six years." McHale later clarified his statement
+              via Twitter, saying "Community is not canceled." Yahoo released a statement: "We've seen tremendous value in our partnership with Sony and are continuing
+              to discuss future opportunities for Community." Harmon said he "could have said yes immediately" to season seven, but "given the actors' velocity and
+              trajectory" decided in favor of "getting [the cast] back together for an awesome movie." On January 4, 2016, Yahoo announced it had shut down its Yahoo
+              Screen service, after a $42 million write-down, with its original prorgramming being moved to Yahoo TV for continoued public viewing.
+            </p>
+            <p>
+              The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
+              the finale, trivia with the cast and crew, and a gag reel.
+            </p>
+            <h3 className="pt-2" id="4.7">Webisodes</h3>
+            <p>
+              In addition to the regular episodes, NBC produced a series of webisodes. Some focus on the daily life of Dean Pelton and others include a Spanish project,
+              study breaks, and Abed copying his friends' lives and turning them into student films. These webisodes were featured on the front page of the Greendale
+              Community College website on the AV Department page.
+            </p>
+            <p>
+              On March 2, 2012, it was announced that three animated webisodes would air exclusively on Hulu in lead up to the return of the series on March 15, 2012.
+              Titled Abed's Master Key, the shorts were written by Dave Seger and Tom Kauffman of Channel 101 and animated by Animax Entertainment. In the webisodes,
+              Abed becomes Dean Pelton's assistant and is given a master key to Greendale.
+            </p>
           </div>
-          <p>
-            The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
-            three episodes, the show was moved to 8:00 pm ET.
-          </p>
-          <p>
-            NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
-            In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
-            region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
-            episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
-            Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
-            scenes; and three mini episodes.
-          </p>
-          
-          <h3 className="pt-2" id="4.2">Second season</h3>
-          <p>
-            On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
-            May 12, 2011. NBC ordered 2 additional episodes for the second season on November 3, 2010, bringing it to a total of 24 episodes.
-            The second season was released in region 1 on September 6, 2011. It features commentary on every episode by cast and crew members;
-            outtakes; animatics for "Abed's Uncontrollable Christmas" and making-of featurettes covering that episode as well as "A Fistful of
-            Paintballs" and "For a Few Paintballs More".
-          </p>
-          <h3 className="pt-2" id="4.3">Third season</h3>
-          <p>
-            The series was renewed for a third season on March 17, 2011. Filming for the season began on July 25, 2011. Jim Rash, who portrays
-            Dean Pelton, was promoted to a series regular after having a recurring role throughout the first two seasons. Michael K. Williams
-            was cast as the study group's new biology professor, who is described as a deeply intense character. John Goodman appears as a recurring
-            character throughout the season as Vice Dean Laybourne, the head of Greendale's air conditioning repair school, and is a foe for Dean
-            Pelton.
-          </p>
-          <p>
-            Community premiered its third season on September 22, 2011. On November 14, 2011, NBC announced that they removing Community from 
-            their mid-season schedule, replacing it with the returning series <a href="#">30 Rock</a>. Fans of the series began a campaign
-            to get the show back on the air using Twitter, Tumblr, and Facebook, making hashtags such as #SaveCommunity, #SixSeasonsAndAMovie,
-            and #OccupyNBC trending topics. NBC responded to the backlash by announcing that the network was still planning to film and air
-            the remainder of the 22 planned episodes after the undetermined hiatus, and that the fate of the series would be determined after
-            the planned episodes air.
-          </p>
-          <p>
-            On December 7, 2011, CollegeHumor released a video titled "Save Greendale (with the cast of Community)" using the cast of
-            Community in-character to promote the series and the school in a PSA-style video. On December 22, 2011, fans of the series
-            created a flash mob outside of NBC's Rockefeller Center headquarters in New York City to Occupy NBC. The flash mob dressed in
-            Christmas gear, wearing "darkest timeline" goatees, and singing "O' Christmas Troy" from the first season's episode "Comparative
-            Religion" and chanting "Go Greendale, go Greendale go". On January 6, 2012, NBC entertainment chairman Robert Greenblatt announced
-            that Community was not canceled, though he did not mention a return date. On February 21, 2012, creator Dan Harmon announced via
-            Twitter that the third season would resume on March 15, 2012, in the regular timeslot of Thursdays at 8:00 pm.
-          </p>
-          <p>
-            The third season was released in region 1 on August 14, 2012. It features commentary on every episode by cast and crew members;
-            gag reels; deleted scenes; "This is War: Pillows vs. Blankets mockumentary" featurette; and "A Glee-ful Community Christmas"
-            featurette.
-          </p>
-          <h3 className="pt-2" id="4.4">Fourth season</h3>
-          <p>
-            On May 10, 2012, Community was renewed for a fourth season consisting of 13 episodes. Series creator and executive producer Dan
-            Harmon was replaced as showrunner for the series in the fourth season, as writers David Guarascio and Moses Port (co-creator of
-            the short-lived Aliens in America) took over as showrunners and executive producers. Sony Pictures Television, which produced the
-            series with Universal Television, initially said that Harmon would serve as a consulting producer, but Harmon asserted that he
-            was not informed of the deal and would not return in a position without any executive prerogatives. The end of the third season
-            also marked several other departures including executive producers Neil Goldman and Garrett Donovan, writer/producer Chris McKenna
-            and actor/writer Dino Stamatopoulos. Frequent episode directors and executive producers <a href="#">Anthony and Joe Russo</a> also
-            left the show in order to direct <a href="#">Captain America: The Winter Soldier</a>.
-          </p>
-          <p>
-            In early October 2012, NBC delayed the premier of the fourth season, which had been scheduled for October 19, 2012, without announcing
-            a new date. On October 30, 2012, NBC announced that the fourth season would premiere February 7, 2013, returning to its original
-            time slot of Thursdays at 8:00 pm.
-          </p>
-          <p>
-            On November 21, 2012, after allegedly using a racial slur on set, it was announced that Chevy Chase left the show by mutual agreement
-            between the actor and network. As a result of timing and the agreement made, Chase's character Pierce is absent for two episodes--he
-            did not appear in the tenth episode (produced the ninth), "Intro to Knots", and the twelfth episode, "Heroic Origins". He also
-            appeared in a voice-only role in the episode "Intro to Felt Surrogacy", which was the final episode produced for the season, and as
-            part of his agreement to leave the show, Chase was required to record all audio for the scenes where his character, alongside the other
-            characters, appeared as a puppet. The season finale, which was filmed out-of-sequence, as it was the eleventh episode produced, marked
-            Chase's final on-screen appearance as a regular cast member. He appeared in a cameo in the season 5 premiere.
-          </p>
-          <p>
-            The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
-            deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
-          </p>
-          <h3 className="pt-2" id="4.5">Fifth season</h3>
-          <p>
-            On May 10, 2013, the series was renewed for a fifth season. On June 1, 2013, Harmon announced he would return as showrunner for season five,
-            replacing season four showrunners Moses Port and David Guarascio, with former writer Chris McKenna returning as executive producer. On June 10,
-            Sony Television confirmed the return of Harmon and McKenna for the fifth season. Dino Stamatopoulos, Rob Schrab, and the Russo brothers also
-            returned.
-          </p>
-          <p>
-            Glover decided to not return as a full-time cast member for the fifth season, appearing only in the first five of the 13 episodes. To make up
-            for his absence and Chase's, Jonathan Banks was cast in the fifth season in August 2013 and appeared in 11 of the season's 13 episodes, portraying
-            Buzz Hickey, a criminology professor. Additionally, John Oliver, who played Professor Duncan in the first two seasons, reprises his role in
-            season 5 for multiple episodes.
-          </p>
-          <p>
-            On May 9, 2014, NBC announed that it had cancelled Community. For several years before its cancellation, fans adopted the slogan "six seasons and
-            a movie", a line from the second season episode "Paradigms of Human Memory" regarding Abed's hopeful legacy of short-lived NBC series The Cape.
-            Bids to continue the series were turned down by popular streaming providers like Netflix and Hulu.
-          </p>
-          <p>
-            The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
-            featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
-          </p>
-          <h3 className="pt-2" id="4.6">Sixth season</h3>
-          <p>
-            On June 30, 2014, the day the cast's contracts were due to expire, Yahoo! announced it had ordered a 13-episode sixth season to stream on Yahoo!
-            Screen, including the main cast along with executive producers Dan Harmon, Chris McKenna, Russ Krasnoff, and Gary Foster. Harmon said, "I am very
-            pleased that Community will be returning for its predestined sixth season on Yahoo ... I look forward to bringing our beloved NBC sitcom to a larger
-            audience by moving it online." However, Yvette Nicole Brown dropped out to care for her ailing father, although she made guest appearances in "Ladders"
-            and "Emotional Consequences of Broadcast Television". Paget Brewster was cast as consultant Francesca "Frankie" Dart and Keith David was cast as inventor
-            Elroy Patashnik. Filming began for season six on November 17, 2014, and on December 8, 2014, the series celebrated the milestone of 100 episodes.
-            Filming ended on March 27, 2015.
-          </p>
-          <p>
-            In a June 3, 2015 interview with TV Insider, Dan Harmon explained why season six would likely be the last of the series:
-            <blockquote>
-              We've exploded into these successful shrapnel. Dr. Ken is now Dr. Ken. Alison has probably got her eye on movies. Gillian is working on a Netflix show.
-              If there was some magical way of guaranteeing that everyone could come back all at once, let's fo it. But it would be a lot easier to put together a
-              movie project and get them all on board than to say, "Let's give it one more season!"
-            </blockquote>
-          </p>
-          <p>
-            Despite the show's "six seasons and a movie" mantra, Yahoo never formally marketed season six as its final season. On July 30, 2015, Joel McHale stated
-            that Yahoo! "wanted to [make more seasons of Community], but all of [the actors'] contracts were up after six years." McHale later clarified his statement
-            via Twitter, saying "Community is not canceled." Yahoo released a statement: "We've seen tremendous value in our partnership with Sony and are continuing
-            to discuss future opportunities for Community." Harmon said he "could have said yes immediately" to season seven, but "given the actors' velocity and
-            trajectory" decided in favor of "getting [the cast] back together for an awesome movie." On January 4, 2016, Yahoo announced it had shut down its Yahoo
-            Screen service, after a $42 million write-down, with its original prorgramming being moved to Yahoo TV for continoued public viewing.
-          </p>
-          <p>
-            The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
-            the finale, trivia with the cast and crew, and a gag reel.
-          </p>
-          <h3 className="pt-2" id="4.7">Webisodes</h3>
-          <p>
-            In addition to the regular episodes, NBC produced a series of webisodes. Some focus on the daily life of Dean Pelton and others include a Spanish project,
-            study breaks, and Abed copying his friends' lives and turning them into student films. These webisodes were featured on the front page of the Greendale
-            Community College website on the AV Department page.
-          </p>
-          <p>
-            On March 2, 2012, it was announced that three animated webisodes would air exclusively on Hulu in lead up to the return of the series on March 15, 2012.
-            Titled Abed's Master Key, the shorts were written by Dave Seger and Tom Kauffman of Channel 101 and animated by Animax Entertainment. In the webisodes,
-            Abed becomes Dean Pelton's assistant and is given a master key to Greendale.
-          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Film</h2>
