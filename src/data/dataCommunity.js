@@ -518,79 +518,79 @@ export const communitys4 = [
   {
     "id": "cmtys4e1",
     "title": "History 101",
-    "file": "History101",
+    "file": "CommunityS4E1",
     "route": "/community/history_101"
   },
   {
     "id": "cmtys4e2",
     "title": "Paranormal Parentage",
-    "file": "ParanormalParentage",
+    "file": "CommunityS4E2",
     "route": "/community/paranormal_parentage"
   },
   {
     "id": "cmtys4e3",
     "title": "Conventions of Space and Time",
-    "file": "ConventionsOfSpaceAndTime",
+    "file": "CommunityS4E3",
     "route": "/community/conventions_of_space_and_time"
   },
   {
     "id": "cmtys4e4",
     "title": "Alternative History of the German Invasion",
-    "file": "AlternativeHistoryOfTheGermanInvasion",
+    "file": "CommunityS4E4",
     "route": "/community/alternative_history_of_the_german_invasion"
   },
   {
     "id": "cmtys4e5",
     "title": "Cooperative Escapism in Familial Relations",
-    "file": "CooperativeEscapismInFamilialRelations",
+    "file": "CommunityS4E5",
     "route": "/community/cooperative_escapism_in_familial_relations"
   },
   {
     "id": "cmtys4e6",
     "title": "Advanced Documentary Filmmaking",
-    "file": "AdvancedDocumentaryFilmmaking",
+    "file": "CommunityS4E6",
     "route": "/community/advanced_documentary_filmmaking"
   },
   {
     "id": "cmtys4e7",
     "title": "Economics of Marine Biology",
-    "file": "EconomicsOfMarineBiology",
+    "file": "CommunityS4E7",
     "route": "/community/economics_of_marine_biology"
   },
   {
     "id": "cmtys4e8",
     "title": "Herstory of Dance",
-    "file": "HerstoryofDance",
+    "file": "CommunityS4E8",
     "route": "/community/herstory_of_dance"
   },
   {
     "id": "cmtys4e9",
     "title": "Intro to Felt Surrogacy",
-    "file": "IntroToFeltSurrogacy",
+    "file": "CommunityS4E9",
     "route": "/community/intro_to_felt_surrogacy"
   },
   {
     "id": "cmtys4e10",
     "title": "Intro to Knots",
-    "file": "IntroToKnots",
+    "file": "CommunityS4E10",
     "route": "/community/intro_to_knots"
   },
   {
     "id": "cmtys4e11",
     "title": "Basic Human Anatomy",
-    "file": "BasicHumanAnatomy",
+    "file": "CommunityS4E11",
     "route": "/community/basic_human_anatomy"
   },
   {
     "id": "cmtys4e12",
     "title": "Heroic Origins",
-    "file": "HeroicOrigins",
+    "file": "CommunityS4E12",
     "route": "/community/heroic_origins"
   },
   {
     "id": "cmtys4e13",
     "title": "Advanced Introduction to Finality",
-    "file": "AdvancedIntroductionToFinality",
+    "file": "CommunityS4E13",
     "route": "/community/advanced_introduction_to_finality"
   }
 ]
