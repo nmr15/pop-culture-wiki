@@ -239,7 +239,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapse2" id="3">Production</h2>
+          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapse3" id="3">Production</h2>
           <div className="collapse show" id="collapse3">
             <h3 className="pt-2" id="3.1">Casting</h3>
             <p>
