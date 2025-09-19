@@ -118,6 +118,12 @@ export const topics = [
     "title": "Battlefield",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BattlefieldLogo.svg/500px-BattlefieldLogo.svg.png",
     "route": "/battlefield"
+  },
+  {
+    "id": 20,
+    "title": "Phineas and Ferb",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/500px-Phineas_and_Ferb_logo.svg.png",
+    "route": "/phinease_and_ferb"
   }
 ]
 
