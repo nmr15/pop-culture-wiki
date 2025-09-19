@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from "../data/dataCommunity";
 
 const TableCommunity = () =>
@@ -17,7 +18,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitychars.map((character) => (
-                                        <a href="#" className="table-list-link" key={character.id}>{character.title}</a>
+                                        <Link to={character.route} className="table-list-link" key={character.id}>{character.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -27,7 +28,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys1.map((s1) => (
-                                        <a href="#" className="table-list-link" key={s1.id}>{s1.title}</a>
+                                        <Link to={s1.route} className="table-list-link" key={s1.id}>{s1.title}</Link>
                                     ))}
                                 </div>
                             </td>
