@@ -101,6 +101,24 @@ export const topics = [
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/220px-Harry_Potter_wordmark.svg.png",
     "route": "/hpfilms"
   },
+  {
+    "id": 17,
+    "title": "Halo",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halo_%28series%29_logo.svg/580px-Halo_%28series%29_logo.svg.png",
+    "route": "/halo"
+  },
+  {
+    "id": 18,
+    "title": "Call of Duty",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Call_of_Duty_logo_2023.svg/960px-Call_of_Duty_logo_2023.svg.png",
+    "route": "/call_of_duty"
+  },
+  {
+    "id": 19,
+    "title": "Battlefield",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BattlefieldLogo.svg/500px-BattlefieldLogo.svg.png",
+    "route": "/battlefield"
+  }
 ]
 
 export const marvelcharacters = [
