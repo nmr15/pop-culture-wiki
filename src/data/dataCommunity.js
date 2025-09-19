@@ -236,115 +236,115 @@ export const communitys2 = [
   {
     "id": "cmntys2e1",
     "title": "Anthropology 101",
-    "file": "Anthropology101",
+    "file": "CommunityS2E1",
     "route": "/community/anthropology_101"
   },
   {
     "id": "cmntys2e2",
     "title": "Accounting for Lawyers",
-    "file": "AccountingForLawyers",
+    "file": "CommunityS2E2",
     "route": "/community/accounting_for_lawyers"
   },
   {
     "id": "cmntys2e3",
     "title": "The Psychology of Letting Go",
-    "file": "ThePsychologyOfLettingGo",
+    "file": "CommunityS2E3",
     "route": "/community/the_psychology_of_letting_go"
   },
   {
     "id": "cmntys2e4",
     "title": "Basic Rocket Science",
-    "file": "BasicRocketScience",
+    "file": "CommunityS2E4",
     "route": "/community/basic_rocket_science"
   },
   {
     "id": "cmntys2e5",
     "title": "Messianic Myths and Ancient People",
-    "file": "MessianicMythsAndAncientPeople",
+    "file": "CommunityS2E5",
     "route": "/community/messianic_myths_and_ancient_people"
   },
   {
     "id": "cmntys2e6",
     "title": "Epidemiology",
-    "file": "Epidemiology",
+    "file": "CommunityS2E6",
     "route": "/community/epidemiology"
   },
   {
     "id": "cmntys2e7",
     "title": "Aerodynamics of Gender",
-    "file": "AerodynamicsOfGender",
+    "file": "CommunityS2E7",
     "route": "/community/aerodynamics_of_gender"
   },
   {
     "id": "cmntys2e8",
     "title": "Cooperative Calligraphy",
-    "file": "CooperativeCalligraphy",
+    "file": "CommunityS2E8",
     "route": "/community/cooperative_calligraphy"
   },
   {
     "id": "cmntys2e9",
     "title": "Conspiracy Theories and Interior Design",
-    "file": "ConspiracyTheoriesAndInteriorDesign",
+    "file": "CommunityS2E19",
     "route": "/community/conspiracy_theories_and_interior_design"
   },
   {
     "id": "cmntys2e10",
     "title": "Mixology Certification",
-    "file": "MixologyCertification",
+    "file": "CommunityS2E10",
     "route": "/community/mixology_certification"
   },
   {
     "id": "cmntys2e11",
     "title": "Abed's Uncontrollable Christmas",
-    "file": "AbedsUncontrollableChristmas",
+    "file": "CommunityS2E11",
     "route": "/community/abed's_uncontrollable_christmas"
   },
   {
     "id": "cmntys2e12",
     "title": "Asian Population Studies",
-    "file": "AsianPopulationStudies",
+    "file": "CommunityS2E12",
     "route": "/community/asian_population_studies"
   },
   {
     "id": "cmntys2e13",
     "title": "Celebrity Pharmacology",
-    "file": "CelebrityPharmacology",
+    "file": "CommunityS2E13",
     "route": "/community/celebrity_pharmacology"
   },
   {
     "id": "cmntys2e14",
     "title": "Advanced Dungeons & Dragons",
-    "file": "AdvancedDungeonsDragons",
+    "file": "CommunityS2E14",
     "route": "/community/advanced_dungeons_&_dragons"
   },
   {
     "id": "cmntys2e15",
     "title": "Early 21st Century Romanticism",
-    "file": "Early21stCenturyRomanticism",
+    "file": "CommunityS2E15",
     "route": "/community/early_21st_century_romanticism"
   },
   {
     "id": "cmtys2e16",
     "title": "Intermediate Documentary Filmmaking",
-    "file": "IntermediateDocumentaryFilmmaking",
+    "file": "CommunityS2E16",
     "route": "/community/intermediate_documentary_filmmaking"
   },
   {
     "id": "cmtys2e17",
     "title": "Intro to Political Science",
-    "file": "IntroToPoliticalScience",
+    "file": "CommunityS2E17",
     "route": "/community/intro_to_political_science"
   },
   {
     "id": "cmtys2e18",
     "title": "Custody Law and Eastern European Diplomacy",
-    "file": "CustodyLawAndEasternEuropeanDiplomacy",
+    "file": "CommunityS2E18",
     "route": "/community/custody_law_and_eastern_european_diplomacy"
   },
   {
     "id": "cmtys2e19",
     "title": "Critical Film Studies",
-    "file": "CriticalFilmStudies",
+    "file": "CommunityS2E19",
     "route": "/community/critical_film_studies"
   },
   {
