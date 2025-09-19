@@ -67,7 +67,7 @@ const Community = () =>
           <li className="py-1"><a href="#7">Syndication</a></li>
           <li className="py-1"><a href="#8">Streaming</a></li>
           <div className="py-1">
-            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6"></span>
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse6"></span>
             <li className="d-inline ms-2">
               <a href="#9">Soundtrack</a>
               <ul className="collapse" id="collapse9">
