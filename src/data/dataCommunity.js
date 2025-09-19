@@ -383,133 +383,133 @@ export const communitys3 = [
   {
     "id": "cmtys3e1",
     "title": "Biology 101",
-    "file": "Biology101",
+    "file": "CommunityS3E1",
     "route": "/community/biology_101"
   },
   {
     "id": "cmtys3e2",
     "title": "Geography of Global Conflict",
-    "file": "GeographyOfGlobalConflict",
+    "file": "CommunityS3E2",
     "route": "community/geography_of_global_conflict"
   },
   {
     "id": "cmtys3e3",
     "title": "Comparative Ecology",
-    "file": "ComparativeEcology",
+    "file": "CommunityS3E3",
     "route": "/community/comparative_ecology"
   },
   {
     "id": "cmtys3e4",
     "title": "Remedial Chaos Theory",
-    "file": "RemedialChaosTheory",
+    "file": "CommunityS3E4",
     "route": "/community/remedial_chaos_theory"
   },
   {
     "id": "cmtys3e5",
     "title": "Horror Fiction in Seven Spooky Steps",
-    "file": "HorrorFictionInSevenSpookySteps",
+    "file": "CommunityS3E5",
     "route": "/community/horror_fiction_in_seven_spooky_steps"
   },
   {
     "id": "cmtys3e6",
     "title": "Advanced Gay",
-    "file": "AdvancedGay",
+    "file": "CommunityS3E6",
     "route": "/community/advanced_gay"
   },
   {
     "id": "cmtys3e7",
     "title": "Studies in Modern Movement",
-    "file": "StudiesInModernMovement",
+    "file": "CommunityS3E7",
     "route": "/community/studies_in_modern_movement"
   },
   {
     "id": "cmtys3e8",
     "title": "Documentary Filmmaking: Redux",
-    "file": "DocumentaryFilmmakingRedux",
+    "file": "CommunityS3E8",
     "route": "/community/documentary_filmmaking_redux"
   },
   {
     "id": "cmtys3e9",
     "title": "Foosball and Nocturnal Vigilantism",
-    "file": "FoosballAndNocturnalVigilantism",
+    "file": "CommunityS3E9",
     "route": "/community/foosball_and_nocturnal_vigilantism"
   },
   {
     "id": "cmtys3e10",
     "title": "Regional Holiday Music",
-    "file": "RegionalHolidayMusic",
+    "file": "CommunityS3E110",
     "route": "/community/regional_holiday_music"
   },
   {
     "id": "cmtys3e11",
     "title": "Urban Matrimony and the Sandwich Arts",
-    "file": "UrbanMatrimonyAndTheSandwichArts",
+    "file": "CommunityS3E11",
     "route": "/community/urban_matrimony_and_the_sandwich_arts"
   },
   {
     "id": "cmtys3e12",
     "title": "Contemporary Impressionists",
-    "file": "ContemporaryImpressionists",
+    "file": "CommunityS3E12",
     "route": "/community/contemporary_impressionists"
   },
   {
     "id": "cmtys3e13",
     "title": "Digital Exploration of Interior Design",
-    "file": "DigitalExplorationOfInteriorDesign",
+    "file": "CommunityS3E13",
     "route": "/community/digital_explorer_of_interior_design"
   },
   {
     "id": "cmtys3e14",
     "title": "Pillows and Blankers",
-    "file": "PillowsAndBlankets",
+    "file": "CommunityS3E14",
     "route": "/community/pillows_and_blankets"
   },
   {
     "id": "cmtys3e15",
     "title": "Origins of Vampire Mythology",
-    "file": "OriginsOfVampireMythology",
+    "file": "CommunityS3E15",
     "route": "/community/origins_of_vampire_mythology"
   },
   {
     "id": "cmtys3e16",
     "title": "Virtual System Analysis",
-    "file": "VirtualSystemAnalysis",
+    "file": "CommunityS3E16",
     "route": "/community/virtual_system_analysis"
   },
   {
     "id": "cmtys3e17",
     "title": "Basic Lupine Urology",
-    "file": "BasicLupineUrology",
+    "file": "CommunityS3E17",
     "route": "/community/basic_lupine_urology"
   },
   {
     "id": "cmtys3e18",
     "title": "Course Listing Unavailable",
-    "file": "CourseListingUnavailable",
+    "file": "CommunityS3E18",
     "route": "/community/course_listing_unavailable"
   },
   {
     "id": "cmtys3e19",
     "title": "Curriculum Unavailable",
-    "file": "CurriculumUnavailable",
+    "file": "CommunityS3E19",
     "route": "/community/curriculum_unavailable"
   },
   {
     "id": "cmtys3e20",
     "title": "Digital Estate Planning",
-    "file": "DigitalEstatePlanning",
+    "file": "CommunityS3E20",
     "route": "/community/digital_estate_planning"
   },
   {
     "id": "cmtys3e21",
     "title": "The First Chang Dynasty",
-    "file": "TheFirstChangDynasty",
+    "file": "CommunityS3E21",
     "route": "/community/the_first_chang_dynasty"
   },
   {
     "id": "cmtys3e22",
     "title": "Introduction to Finality",
-    "file": "IntroductionToFinality",
+    "file": "CommunityS3E2",
     "route": "/community/introduction_to_finality"
   }
 ]
