@@ -28,7 +28,7 @@ const Wrapper = ({ children }) => {
 
 const routes = communitychars.map(char => ({
   path: char.route,
-  Component: lazy(() => import(`./pages/community/${char.file}`))
+  Component: lazy(() => import(`./pages/Community/${char.file}`))
 }));
 
 function App() {

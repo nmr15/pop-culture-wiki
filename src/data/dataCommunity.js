@@ -3,43 +3,43 @@ export const communitychars = [
     "id": "cmtychar1",
     "title": "Jeff Winger",
     "file": "JeffWinger",
-    "route": "/community/jeff_winger",
+    "route": "/Community/jeff_winger",
   },
   {
     "id": "cmtychar2",
     "title": "Britta Perry",
     "file": "BrittaPerry",
-    "route": "/community/britta_perry"
+    "route": "/Community/britta_perry"
   },
   {
     "id": "cmtychar3",
     "title": "Abed Nadir",
     "file": "AbedNadir",
-    "route": "/community/abed_nadir"
+    "route": "/Community/abed_nadir"
   },
   {
     "id": "cmtychar4",
     "title": "Troy Barnes",
     "file": "TroyBarnes",
-    "route": "/community/troy_barnes"
+    "route": "/Community/troy_barnes"
   },
   {
     "id": "cmtychar5",
     "title": "Annie Edison",
     "file": "AnnieEdison",
-    "route": "/community/annie_edison"
+    "route": "/Community/annie_edison"
   },
   {
     "id": "cmtychar6",
     "title": "Shirley Bennett",
     "file": "ShirleyBennett",
-    "route": "/community/shirley_bennett"
+    "route": "/Community/shirley_bennett"
   },
   {
     "id": "cmtychar7",
     "title": "Pierce Hawthorne",
     "file": "PierceHawthorne",
-    "route": "/community/pierce_hawthorne"
+    "route": "/Community/pierce_hawthorne"
   },
   // {
   //   "id": "cmtychar8",
