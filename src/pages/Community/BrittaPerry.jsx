@@ -10,7 +10,7 @@ const BrittaPerry = () =>
                     <li className="py-1"><a href="#top">Top</a></li>
                 </ul>
             </nav>
-            <main className="px-5 py-4" id="top">
+            <main className="main px-5 py-4" id="top">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><Link to="/">Home</Link></li>
