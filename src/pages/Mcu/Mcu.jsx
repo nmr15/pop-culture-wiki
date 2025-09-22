@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import TableMcu from "../../components/TableMcu"
 
 const Mcu = () => 
