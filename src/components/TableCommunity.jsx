@@ -38,7 +38,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys2.map((s2) => (
-                                        <a href="#" className="table-list-link" key={s2.id}>{s2.title}</a>
+                                        <Link to={s2.route} className="table-list-link" key={s2.id}>{s2.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -48,7 +48,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys3.map((s3) => (
-                                        <a href="#" className="table-list-link" key={s3.id}>{s3.title}</a>
+                                        <Link to={s3.route} className="table-list-link" key={s3.id}>{s3.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -58,7 +58,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys4.map((s4) => (
-                                        <a href="#" className="table-list-link" key={s4.id}>{s4.title}</a>
+                                        <Link to={s4.route} className="table-list-link" key={s4.id}>{s4.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -68,7 +68,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys5.map((s5) => (
-                                        <a href="#" className="table-list-link" key={s5.id}>{s5.title}</a>
+                                        <Link to={s5.route} className="table-list-link" key={s5.id}>{s5.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -78,7 +78,7 @@ const TableCommunity = () =>
                             <td>
                                 <div className="table-list">
                                     {communitys6.map((s6) => (
-                                        <a href="#" className="table-list-link" key={s6.id}>{s6.title}</a>
+                                        <Link to={s6.route} className="table-list-link" key={s6.id}>{s6.title}</Link>
                                     ))}
                                 </div>
                             </td>
