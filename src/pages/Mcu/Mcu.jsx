@@ -22,6 +22,7 @@ const Mcu = () =>
                     <li className="py-1"><a href="#1.1.1">The Infinity Saga films</a></li>
                     <li className="py-1"><a href="#1.1.2">The Multiverse Saga films and series</a></li>
                     <li className="py-1"><a href="#1.1.3">Integration of mutant characters and the X-Men</a></li>
+                    <li className="py-1"><a href="#1.1.4">Next saga</a></li>
                   </ul>
                 </li>
                 <li className="py-1"><a href="#1.2">Marvel Television series</a></li>
@@ -268,6 +269,20 @@ const Mcu = () =>
               revealed to be a mutant in the film <Link>Black Panther: Wakanda Forever</Link> (2022), as he is in the comics. <Link>Kelsey Grammer</Link> appears
               as <Link>Dr. Hank McCoy / Beast</Link> in <Link>The Marvels</Link> (2023), reprising the role from the X-Men films. The film also introduces the
               mutant <Link>Binary</Link>, an alternate version of <Link>Maria Rambeau</Link>, portrayed by <Link>Lashana Lynch</Link>.
+            </p>
+            <p>
+              Feige called <Link>Deadpool & Wolverine</Link> (2024) the true start to Marvel Studios' exploration and use of the Fox characters, and said every
+              project after it would be part of the MCU's "Mutant era". Some of the films between Deadpool & Wolverine and Secret Wars featured additional X-Men
+              characters, with Feige saying the story of Secret Wars would lead into a "new age of mutants" and the X-Men being introduced to the MCU. Doomsday
+              sees additional X-Men film series actors reprising their roles, including <Link>Ian McKellen</Link> as <Link>Erik Lensherr / Magneto</Link>,
+              <Link>Alan Cumming</Link> as <Link>Kurt Wagner / Nightcrawer</Link>, <Link>Rebecca Romjin</Link> as <Link>Raven Darkhölme / Mystique</Link>,
+              and <Link>James Marsden</Link> as <Link>Scott Summers / Cyclops</Link>, Stewart and Grammer also reprise their roles in the film. Feige reportedly
+              has a 10-year plan for the X-Men in the MCU.
+            </p>
+            <h4 className="pt-2" id="1.1.4">Next saga</h4>
+            <p>
+              In July 2025, Feige said Marvel Studios was "already well into development" on the three phases of their next saga following the conclusion of
+              the Multiverse Saga with Secret Wars, noting that Phase Seven would be "directly impacted" bu what was being created for Doomsday and Secret Wars.
             </p>
           </div>
         </div>
