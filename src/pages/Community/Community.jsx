@@ -81,7 +81,7 @@ const Community = () =>
       <main className="main px-5 py-4" id="top">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><Link to="/">Home</Link></li>
             <li class="breadcrumb-item active" aria-current="page">Community</li>
           </ol>
         </nav>
