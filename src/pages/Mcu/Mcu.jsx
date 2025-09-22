@@ -243,6 +243,32 @@ const Mcu = () =>
               example" of Marvel Studios refocusing efforts. In July, Feige said the studio had reduced the budgets of their 2024 and 2025 films to be a third lower
               than those for 2022 and 2023.
             </p>
+            <p>
+              In 2024, Marvel Studios introduced their "Marvel Animation" and "Marvel Television" banners for their animated and live-action series, respectively.
+              This was done, along with the previously established <Link>Marvel Spotlight</Link> banner, to help indicate to audiences that they did not have to
+              watch all of the studio's projects to understand the overall story and could choose which storylines and characters under these banners to follow.
+              At San Diego Comic-Con 2024, the fifth Avengers film was retitled <Link>Avengers: Doomsday</Link> (2026), with <Link>Robert Downey Jr.</Link> cast
+              as the Multiverse Saga's new antagonist <Link>Victor von Doom / Doctor Doom</Link> (after previously portraying the superhero <Link>Tony Stark /
+              Iron Man</Link> in the MCU from 2008 to 2019) for both Doomsday and Secret Wars. Following several critical and financial failures, the studio began
+              testing its films through test screenings organized by the National Research Group (NRG). The studio previously relied on "friends-and-family" test
+              screenings at Walt Disney Studios in Burbank, California, to help maintain secrecy. Feige said the NRG tests had similar results to their own. By
+              July 2025, <Link>Sacha Baron Cohen</Link>'s <Link>Mephisto</Link> was being viewed as the next "prominent" villain of the MCU.
+            </p>
+            <h4 className="pt-2" id="1.1.3">Integration of mutant characters and the X-Men</h4>
+            <p>
+              In December 2017, Disney agreed to acquire assets from <Link>21st Century Fox</Link>, and finalized the transaction on March 19, 2019. This saw the
+              return of the film rights for <Link>Deadpool</Link>, the X-Men, and the <Link>Fantastic Four</Link> to Marvel Studios, although Feige explained that
+              despite the acquisition being completed in 2019, access and integration of these characters and concepts were unavailable "for a very long time"
+              because of corporate acquisition laws. Some of the first elements to be integrated into the MCU following the acquisition were the organization
+              <Link>S.W.O.R.D.</Link> in the Disney+ series <Link>WandaVision</Link> (2021) and the fictional country <Link>Madripoor</Link> in the series
+              <Link>The Falcon and the Winter Soldier</Link> (2021). Additionally, <Link>Patrick Stewart</Link> appeared as Professor <Link>Charles Xavier</Link>
+              in the film <Link>Doctor Strange in the Multiverse of Madness</Link> (2022), portraying a different version of the character that he previously
+              played in Fox's <Link>X-Men film series</Link>, while <Link>Kamala Khan</Link> was revealed to have a genetic mutation in <Link>Ms. Marvel</Link>,
+              with star <Link>Iman Vellani</Link> confirming that she is the first mutant (a term related to the X-Men) in the MCU. <Link>Namor</Link> is also
+              revealed to be a mutant in the film <Link>Black Panther: Wakanda Forever</Link> (2022), as he is in the comics. <Link>Kelsey Grammer</Link> appears
+              as <Link>Dr. Hank McCoy / Beast</Link> in <Link>The Marvels</Link> (2023), reprising the role from the X-Men films. The film also introduces the
+              mutant <Link>Binary</Link>, an alternate version of <Link>Maria Rambeau</Link>, portrayed by <Link>Lashana Lynch</Link>.
+            </p>
           </div>
         </div>
         <div>
