@@ -4,7 +4,6 @@ export const communitychars = [
     "title": "Jeff Winger",
     "file": "JeffWinger",
     "route": "/community/jeff_winger",
-    "element": <JeffWinger />
   },
   {
     "id": "cmtychar2",
