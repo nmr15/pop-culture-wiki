@@ -3,7 +3,8 @@ export const communitychars = [
     "id": "cmtychar1",
     "title": "Jeff Winger",
     "file": "JeffWinger",
-    "route": "/community/jeff_winger"
+    "route": "/community/jeff_winger",
+    "element": <JeffWinger />
   },
   {
     "id": "cmtychar2",

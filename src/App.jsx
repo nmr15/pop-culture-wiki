@@ -1,5 +1,6 @@
 import { useLayoutEffect } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
+import { communitychars } from "./data/dataCommunity"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -24,6 +25,7 @@ const Wrapper = ({ children }) => {
   }, [location.pathname])
   return children
 }
+
 
 function App() {
 
