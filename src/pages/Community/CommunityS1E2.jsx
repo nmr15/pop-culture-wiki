@@ -24,8 +24,8 @@ const CommunityS1E2 = () =>
             <main className="main px-5 py-4">
                 <nav aria-label="breadcrumb">
                     <ol className="breadcrumb">
-                        <Link to="/"><li className="breadcrumb-item">Home</li></Link>
-                        <Link to="/community"><li className="breadcrumb-item">Community</li></Link>
+                        <li className="breadcrumb-item"><Link to="/">Home</Link></li>
+                        <li className="breadcrumb-item"><Link to="/community">Community</Link></li>
                         <li className="breadcrumb-item active">Spanish 101</li>
                     </ol>
                 </nav>
