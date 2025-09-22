@@ -1,4 +1,4 @@
-import { useLayoutEffect } from "react"
+import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
 import { communitychars } from "./data/dataCommunity"
 import Navbar from "./components/Navbar"
@@ -26,6 +26,10 @@ const Wrapper = ({ children }) => {
   return children
 }
 
+const routes = communitychars.map(char => ({
+  path: char.route,
+  Component: lazy(() => import(`./pages/community/${char.file}`))
+}));
 
 function App() {
 
@@ -40,6 +44,9 @@ function App() {
         <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
         <Route path='/starwars' element={<StarWars />} />
         <Route path='/community' element={<Community />} />
+        {routes.map(({ path, Component }, index) => (
+            <Route key={index} path={path} element={<Component />} />
+          ))}
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
         <Route path='/beatles' element={<Beatles />} />
