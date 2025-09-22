@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import TableMcu from "../../components/TableMcu"
 
 const Mcu = () => 
@@ -166,10 +165,34 @@ const Mcu = () =>
               self-described "fanboy", envisioned combining these characters in a shared universe similar to the one created by <Link>Stan Lee</Link> and 
               <Link>Jack Kirby</Link> for Marvel Comics in the 1960s.
             </p>
+            <p>
+              To raise capital, the studio secured funding from a seven-year, $520 million revolving credit facility with Merrill Lynch. Marvel planned to release
+              individual films for their main characters and then merge them in a crossover film. Arad, who resigned in 2006, doubted this strategy would work. He
+              insisted that it was his reputation that helped secure the initial financing. In 2007, Feige was named studio chief. To preserve its artistic integrity,
+              Marvel Studios formed a creative committee of six people familiar with its comic book lore: Feige, Marvel Studios co-president Louis D'Esposito, Marvel
+              Comics' president of publishing Dan Buckley, Marvel Entertainment's chief creative officer Joe Quesada, comic book writer <Link>Brian Michael Bendis</Link>,
+              and Marvel Entertainment president Alan Fine, who oversaw the committee. Feige initally referred to the shared narrative continuity of the films as the
+              "Marvel Cinema Universe", but later used the term "Marvel Cinemtic Universe". Since the franchise expanded to other media, some have use this phrase to
+              only refer to the feature films.
+            </p>
+            <p>
+              The MCU films are released in groups called "Phases", beginning with <Link>Phase One</Link> and <Link>Phase Two</Link>. In December 2009, <Link>the Walt
+              Disney Company</Link> purchased Marvel Entertainment for $4 billion. Disney said future Marvel Studios films would be distributed by its own studio once
+              the prior deal with Paramount expired. The films of <Link>Phase Three</Link> were announced at a special press event in October 2014. By September 2015,
+              Marvel Studios was integrated into Walt Disney Studios. Feige was reporting to Walt Disney Studios chairman Alan F. Horn instead of Marvel Entertainment
+              CEO Isaac Perlmutter, and the creative committee begain having only "nominal" input on the films. They continued to consult on <Link>Marvel Television</Link>
+              productions, which remained under Perlmutter's control. All key film decisions moving forward were to be made by Feige, D'Esposito, and executive vice
+              president Victoria Alonso. The studio went on to establish the Marvel Studios Parliament, a "brain trust" of long-time executives at the company who help
+              to elevate each other's projects where possible. In November 2017, Feige said <Link>Avengers: Endgame</Link> (2019) would provide a definitive conclusion
+              to the films thus far and begin a new period for the franchise. He later said Phase Three would conclude "<Link>The Infinity Saga</Link>".
+            </p>
           </div>
         </div>
         <div>
-          <h2 className="article-heading" id="2">Feature films</h2>
+          <h2 className="article-heading" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
+          <div className="collapse show" id="collapseTwo">
+
+          </div>
         </div>
         <div>
           <h2 className="article-heading" id="3">Television series and specials</h2>
