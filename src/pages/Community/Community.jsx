@@ -627,23 +627,74 @@ const Community = () =>
               or specific texts) with help from subconscious hupotheses and charts that are built on previous experiences with similar works."
             </blockquote>
             <h3 className="pt-2" id="6.3">Ratings</h3>
+            <p>
+              Premiering in the 9:30 pm ET spot on September 17, 2009, the pilot episode had a viewership of 7.680 million In the 18-49 audience, it had a rating of 3.7. As such, it
+              held 93% of this audience from The Office, which had been in the previous time slot. The show was called the "bright spot for the night" for NBC, seeing how The Office
+              was down 18% from the previous year's premier, while Parks and Recreation, in the preceding time slot, was down 30%. However, the show, like many other NBC comedies at
+              the time (including The Office, Parks and Recreation, and <a href="#">30 Rock</a>), would later struggle in the ratings despite critical acclaim, though the show did
+              tend to improve after factoring in DVR ratings. Some commentators noted that the show's uniqueness and ambition prevented it from achieving the broad appeal of other
+              sitcoms.
+            </p>
           </div>
           <div>
             <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Syndication</h2>
             <div className="collapse show" id="collapseSeven">
-
+              <p>
+                On March 14, 2012, Comedy Central announced that it had purchased the rights to Community for syndication that began airing in September 2013 at the same time as
+                weeknight syndication on local stations. On November 28, 2020, the show made its debut on IFC.
+              </p>
+              <p>
+                Community premiered in syndication in Canada on The Comedy Network on September 4, 2012. In January 2014, the show moved to Canadian sister channel MuchMusic. The
+                series made its Canadian over-the-air broadcast debut in 2018, whtn the series moved to CHCH.
+              </p>
+              <p>
+                In the United Kingdom, Community aired on subscription cable network Universal TV from 2011 to 2016, with season one also airing on MTV's free-to-air Viva channel
+                and Channel 4 Television Corporation's 4Music.
+              </p>
+              <p>
+                In India, Community premiered on Star World in 2010. It began airing on Comedy Central from 2016.
+              </p>
             </div>
           </div>
           <div>
             <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Streaming</h2>
             <div className="collapse show" id="collapseEight">
-
+              <p>
+                In the United States, the complete series is available on Peacock. The first three seasons are available on Netflix throughout Latin America with Spanish or
+                Brazillian Portugese subtitles. All six seasons are available via the iTunes Store. The series was available exclusively on Amazon Prime Video UK until February
+                1, 2015, when seasons one though five also became available on Netflix in the UK and Ireland until 2017. In Australia, the entire series is available on Stan
+                and Amazon Prime Video. In 2018, all six seasons were made available on All 4, the streaming service of Channel 4, in the United Kingdom.
+              </p>
+              <p>
+                On April 1, 2020, the series became available to stream on Netflix worldwide. The show reached a wider audience on the platform, as shown by its entrance into
+                Netflix's list of top 10 most popular shows in April 2020. From January to June 2023, the first period for which data was released, Netflix figures show that
+                Community was watched for a cumulative 91.5 million hours on its platform. It left the platform on March 31, 2024, and moved to Peacock on April 1.
+              </p>
+              <p>
+                On June 26, 2020, Netflix and Hulu removed the season 2 episode "Advanced Dungeons & Dragons" from their platforms due to controversial scenes with Chang
+                playing a dark elf by wearing black make-up and a white wig, which was perceived as blackface. Several other live action comedies had episodes featuring blackface
+                removed as well. At the time, Harmon did not comment on the episode's removal. In a 2021 interview with The New York Times, Harmon remarked that "justifiably
+                they're stripping it from the streaming archives because it's got a joke about blackface", but added that it "is probably the best episode of Community".
+                The episode later returned to streaming following the series' move to Peacock.
+              </p>
             </div>
           </div>
           <div>
             <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Soundtrack</h2>
             <div className="collapse show" id="collapseNine">
-
+              <p>
+                A soundtrack for the first season, titled Community (Music from the Original Television Series), was released on September 21, 2010 by Madison Gate Records.
+                The track list included the main title theme, "At Least It Was Here" by the 88; original songs and incidental music composed for the show (by series
+                composer Ludwig Göransson); and several songs were performed by the characters (a mix of orifinal compositions and covers).
+              </p>
+              <h3 className="pt-2" id="9.1">Other tracks</h3>
+              <p>
+                Songs featured on the show that were not released on the soundtrack are available on composer Ludwig Göransson's official website.
+              </p>
+              <p>
+                Throughout the series, Michael Haggins' song "Daybreak" can be heard. On several occasions the characters are humming the tune and sometimes it can be heard
+                on the radio in the background.
+              </p>
             </div>
           </div>
         </div>
