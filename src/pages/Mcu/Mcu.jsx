@@ -187,34 +187,65 @@ const Mcu = () =>
               to elevate each other's projects where possible. In November 2017, Feige said <Link>Avengers: Endgame</Link> (2019) would provide a definitive conclusion
               to the films thus far and begin a new period for the franchise. He later said Phase Three would conclude "<Link>The Infinity Saga</Link>".
             </p>
+            <h4 className="pt-2" id="1.1.2">The Multiverse Saga films and series</h4>
+            <p>
+              Disney was reportedly developing a Marvel-based television series for their new streaming service <Link>Disney+</Link> by November 2017. In July 2018,
+              Feige said discussions had begun with Disney regarding any potential invlovement Marvel Studios could have with the streaming service, which he felt was
+              important for the wider company. In September 2018, Marvel Studios was reported to be developing several limited series centered on "second-tier"
+              characters from the MCU films who had not and were unlikely to headline their own films. Each series was expected to be six to eight episodes and would
+              be produced by Marvel Studios rather than Marvel Television, with Feige taking a "hands-on role" in each series' development. Feige said these series
+              would "tell stories... that we wouldn't be able to tell in a theatrical experience, a longer-form narrative". He added that being asked by Disney to
+              create these series "energized everyone creatively" within Marvel Studios, since they "could play in a new medium and throw the rules out the window in
+              terms of structure and format". Television specials from the studio are marketed as "<Link>Marvel Studios Special Presentations</Link>".
+              <Link>The Guardians of the Galaxy Holiday Special</Link> (2022), a Special Presentation, was the first project Marvel Studios began planning for Disney+.
+            </p>
+            <p>
+              In July 2019, Feige announced the <Link>Phase Four</Link> slate at <Link>San Diego Comic-Con</Link>, consisting of films and, for the first time,
+              television event series on Disney+. The Phase Four slate included <Link>What If...?</Link>, the first animated series from Marvel Studios, and by July
+              2021 the studio was creating an "animation branch and mini studio", known as <Link>Marvel Studios Animation</Link>, to focus on more animated content
+              beyond What If...?. Alonso said Marvel had around 31 projects in various stages of development by September 2021. In April 2022, Feige said he and
+              Marvel Studios were on a creative retreat to plan and discuss the MCU films for the following 10 years. That July, Feige announced some of the films
+              and series for <Link>Phase Five</Link> and <Link>Phase Six</Link> at San Diego Comic-Con, revealing that the second three Phases were collectively
+              known as "<Link>The Multiverse Saga</Link>". After the "creative experience" of ending Phase Three and "The Infinity Saga" with <Link>Avengers:
+              Infinity War</Link> (2018) and Avengers: Endgame, and the expansion in the number of projects being produced by the studio in a short amount of time,
+              Marvel Studios decided to move away from having an Avengers crossover film at the end of each Phase and instead decided to have a crossover culmination
+              at the end of "The Multiverse Saga" with the planned <Link>Avengers: The Kang Dynasty</Link> and <Link>Avengers: Secret Wars</Link> (2027).
+              The studio was excited to explore <Link>Kang the Conqueror</Link> as an overarching villain of the Multiverse Saga after <Link>Thanos</Link> in the
+              Infinity Saga, because Kang was a different villain in part because he has multiple variants from different timelines within the multiverse. The studio
+              did not initially plan to build the next saga around Kang, and made that decision after seeing actor <Link>Jonathan Majors</Link>' performance in the
+              <Link>first season</Link> of the Disney+ series <Link>Loki</Link> (2021), as well as dallies from the filming of <Link>Ant-Man and the Wasp: Quantumania</Link>
+              (2023). After Majors was found guilty of assault and harassment amidst legal issues in December 2023, he was fired by Disney and Marvel Studios. At that
+              time, Marvel was internally referring to The Kang Dynasty as Avengers 5, by early 2024, Marvel had decided to drop the Kang storyline and began searching
+              for a new antagonist for the saga.
+            </p>
           </div>
         </div>
         <div>
-          <h2 className="article-heading" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
+          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
           <div className="collapse show" id="collapseTwo">
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading" id="3">Television series and specials</h2>
+          <h2 className="article-heading-2" id="3">Television series and specials</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="4">Short films</h2>
+          <h2 className="article-heading-2" id="4">Short films</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="5">Other media</h2>
+          <h2 className="article-heading-2" id="5">Other media</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="6">Fictional universe</h2>
+          <h2 className="article-heading-2" id="6">Fictional universe</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="7">Recurring cast and characters</h2>
+          <h2 className="article-heading-2" id="7">Recurring cast and characters</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="8">Reception</h2>
+          <h2 className="article-heading-2" id="8">Reception</h2>
         </div>
         <div>
-          <h2 className="article-heading" id="9">Cultural impact</h2>
+          <h2 className="article-heading-2" id="9">Cultural impact</h2>
         </div>
         <div>
           <table className="table-center">
