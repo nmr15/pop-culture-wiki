@@ -41,42 +41,42 @@ export const communitychars = [
     "file": "PierceHawthorne",
     "route": "/community/pierce_hawthorne"
   },
-  {
-    "id": "cmtychar8",
-    "title": "Ben Chang",
-    "file": "BenChang",
-    "route": "/community/ben_chang"
-  },
-  {
-    "id": "cmtychar9",
-    "title": "Craig Pelton",
-    "file": "CraigPelton",
-    "route": "/community/craig_pelton"
-  },
-  {
-    "id": "cmtychar10",
-    "title": "Ian Duncan",
-    "file": "IanDuncan",
-    "route": "/community/ian_duncan"
-  },
-  {
-    "id": "cmtychar11",
-    "title": "Buzz Hickey",
-    "file": "BuzzHickey",
-    "route": "/community/buzz_hickey"
-  },
-  {
-    "id": "cmtychar12",
-    "title": "Frankie Dart",
-    "file": "FrankieDart",
-    "route": "/community/frankie_dart"
-  },
-  {
-    "id": "cmtychar13",
-    "title": "Elroy Patashnik",
-    "file": "ElroyPatashnik",
-    "route": "/community/elroy_patashnik"
-  },
+  // {
+  //   "id": "cmtychar8",
+  //   "title": "Ben Chang",
+  //   "file": "BenChang",
+  //   "route": "/community/ben_chang"
+  // },
+  // {
+  //   "id": "cmtychar9",
+  //   "title": "Craig Pelton",
+  //   "file": "CraigPelton",
+  //   "route": "/community/craig_pelton"
+  // },
+  // {
+  //   "id": "cmtychar10",
+  //   "title": "Ian Duncan",
+  //   "file": "IanDuncan",
+  //   "route": "/community/ian_duncan"
+  // },
+  // {
+  //   "id": "cmtychar11",
+  //   "title": "Buzz Hickey",
+  //   "file": "BuzzHickey",
+  //   "route": "/community/buzz_hickey"
+  // },
+  // {
+  //   "id": "cmtychar12",
+  //   "title": "Frankie Dart",
+  //   "file": "FrankieDart",
+  //   "route": "/community/frankie_dart"
+  // },
+  // {
+  //   "id": "cmtychar13",
+  //   "title": "Elroy Patashnik",
+  //   "file": "ElroyPatashnik",
+  //   "route": "/community/elroy_patashnik"
+  // },
 ]
 
 export const communitys1 = [
