@@ -218,6 +218,31 @@ const Mcu = () =>
               time, Marvel was internally referring to The Kang Dynasty as Avengers 5, by early 2024, Marvel had decided to drop the Kang storyline and began searching
               for a new antagonist for the saga.
             </p>
+            <p>
+              Alonso was fired from her role at Marvel Studios in March 2023 for serving as a producer on the Amazon Studios film Argentina, 1985 (2022), in breach of
+              a 2018 agreement between Alonso and Disney to not work for a competing studio. The decision was made by a group that included Disney Entertainment
+              co-chairman Alan Bergman and Disney's human resources and legal department. Alonso reportedly did not seek permission to work on the film and was asked by
+              Disney to stop working on it or promoting it. The situation was deemed serious enough that Disney requested a new agreement be signed. The company
+              consistently reminded her of this while she continued to promote the film following its September 2022 premiere, ultimately leading to her firing. Alonso's
+              lawyers refuted these claims, saying Disney was aware of, and agreed to, Alonso's work on Argentina, 1985 and Alonso had been "silenced [and] was terminated
+              when she refused to do something she believed was reprehensible", this was reported to be a disagreement with a Disney executive over the censoring of gay
+              pride elements in Quantumania so the film could be released in Kuwait in compliance with the country's restrictive anti-LGBTQ laws. A Disney spokesperson
+              reiterated that Alonso was fird due to "an indisputable breach of contract and a direct violation of company policy" among other factors. Disney and
+              Alonso reached a multi-million dollar compensation settlement in April.
+            </p>
+            <p>
+              Disney CEO Bob Iger said in July 2023 that the company would be reducing the amount of Marvel content created moving forward, admitting that Marvel Studios'
+              expansion into Disney+ series and more films had "diluted foxus and attention" after several underachieving films at the box office. He clarified their
+              plans in May 2024, saying Disney would now release two, or at most three, Marvel films and two Marvel series a year. This was a decrease from up to four
+              films and around four series being released in some recent years. The company was reducing output and focusing on quality across all its divisions, but
+              Iger felt the change was especially needed for Marvel. Feige and D'Esposito said 2023 had been a particularly difficult year for the studio but they had
+              learned their lesson on trying to make too much content at once. They added that no longer being "on top" of the box office allowed them to be underdogs
+              again, as they had been while starting work on Phase One, and they would be "coming back strong" with the hopes of surprising audiences and exceeding
+              expectations. Feige expected the studio to begin releasing two films and three series per year after 2025, when they were planning to release three films
+              and six series that had been in development for a long time and were ready to be released. In May 2025, Iger called Thunderbolts* the "first and best
+              example" of Marvel Studios refocusing efforts. In July, Feige said the studio had reduced the budgets of their 2024 and 2025 films to be a third lower
+              than those for 2022 and 2023.
+            </p>
           </div>
         </div>
         <div>
