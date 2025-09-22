@@ -103,8 +103,8 @@ const Mcu = () =>
           </div>
         </ul>
       </nav>
-      <main className="main px-5 py-4">
-        <div id="top">
+      <main className="main px-5 py-4" id="top">
+        <div >
           <h1 className="article-heading">Marvel Cinematic Universe</h1>
         </div>
         <div className="img-right pt-2">
@@ -149,7 +149,23 @@ const Mcu = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="1">Development</h2>
+          <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapseOne">Development</h2>
+          <div className="collapse show" id="collapseOne">
+            <h3 className="pt-2" id="1.1">Marvel Studios films and series</h3>
+            <h4 className="pt-2" id="1.1.1">The Infinity Saga films</h4>
+            <p>
+              By 2005, Marvel Entertainment was planning to produce its own films independently and distribute them through Paramount Pictures. Previously, Marvel had
+              co-produced several superhero films based on <Link to="/marvelcomics">Marvel Comics</Link> with Columbia Pictures, New Line Cinema, 20th Century Fox, and
+              others. Marvel made relatively little profit from these licensing deals and wanted to get more money out of its films while maintaining artistic control
+              of the projects and distribution. Avi Arad, head of Marvel Entertainment's film division known as <Link>Marvel Films</Link>, was pleased with director
+              <Link>Sam Raimi</Link>'s <Link>Spider-Man film trilogy</Link> (2002-2007) at <Link>Sony Pictures</Link> and Columbia but was less enthused with some of
+              the other films. Arad decided to form <Link>Marvel Studios</Link>, Hollywood's first major independent film studio since <Link>DreamWorks Pictures</Link>
+              was founded in 1994, <Link>Kevin Feige</Link>, Arad's second-in-command, realized that unlike <Link>Spider-Man</Link>, <Link>Blade</Link>, and the
+              <Link>X-Men</Link> which were respectively licensed to Sony, New Line, and Fox, Marvel owned the rights to the <Link>Avengers</Link> team. Feige, a
+              self-described "fanboy", envisioned combining these characters in a shared universe similar to the one created by <Link>Stan Lee</Link> and 
+              <Link>Jack Kirby</Link> for Marvel Comics in the 1960s.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading" id="2">Feature films</h2>
