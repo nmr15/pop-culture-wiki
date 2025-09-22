@@ -1,4 +1,4 @@
-import TableMcu from "../components/TableMcu"
+import TableMcu from "../../components/TableMcu"
 
 const Mcu = () => 
 {
