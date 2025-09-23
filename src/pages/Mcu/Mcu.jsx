@@ -293,25 +293,32 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Television series and specials</h2>
+          <h2 className="article-heading-2" id="3" data-bs-toggle="collapse" data-bs-target="#collapseThree">Television series and specials</h2>
+          <div className="collapse show" id="collapseThree"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Short films</h2>
+          <h2 className="article-heading-2" id="4" data-bs-toggle="collapse" data-bs-target="#collapseFour">Short films</h2>
+          <div className="collapse show" id="collapseFour"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Other media</h2>
+          <h2 className="article-heading-2" id="5" data-bs-toggle="collapse" data-bs-target="#collapseFive">Other media</h2>
+          <div className="collapse show" id="collapseFive"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Fictional universe</h2>
+          <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Fictional universe</h2>
+          <div className="collapse show" id="collapseSix"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Recurring cast and characters</h2>
+          <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Recurring cast and characters</h2>
+          <div className="collapse show" id="collapseSeven"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Reception</h2>
+          <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Reception</h2>
+          <div className="collapse show" id="collapseEight"></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="9">Cultural impact</h2>
+          <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Cultural impact</h2>
+          <div className="collapse show" id="collapseNine"></div>
         </div>
         <div>
           <table className="table-center">
