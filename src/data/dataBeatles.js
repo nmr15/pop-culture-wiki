@@ -447,3 +447,90 @@ export const beatlesHlp = [
     "route": "/beatles/dizzy_miss_lizzy"
   }
 ];
+
+export const beatlesRbs = [
+  {
+    "id": "btlsRbs1",
+    "title": "Drive My Car",
+    "file": "DriveMyCar",
+    "route": "/beatles/drive_my_car"
+  },
+  {
+    "id": "btlsRbs2",
+    "title": "Norwegian Wood",
+    "file": "NorwegianWood",
+    "route": "/beatles/norwegian_wood"
+  },
+  {
+    "id": "btlsRbs3",
+    "title": "You Won't See Me",
+    "file": "YouWontSeeMe",
+    "route": "/beatles/you_wont_see_me"
+  },
+  {
+    "id": "btlsRbs4",
+    "title": "Nowhere Man",
+    "file": "NowhereMan",
+    "route": "/beatles/nowhere_man"
+  },
+  {
+    "id": "btlsRbs5",
+    "title": "Think For Yourself",
+    "file": "ThinkForYourself",
+    "route": "/beatles/think_for_yourself"
+  },
+  {
+    "id": "btlsRbs6",
+    "title": "The Word",
+    "file": "TheWord",
+    "route": "/beatles/the_word"
+  },
+  {
+    "id": "btlsRbs7",
+    "title": "Michelle",
+    "file": "Michelle",
+    "route": "/beatles/michelle"
+  },
+  {
+    "id": "btlsRbs8",
+    "title": "What Goes On",
+    "file": "WhatGoesOn",
+    "route": "/beatles/what_goes_on"
+  },
+  {
+    "id": "btlsRbs9",
+    "title": "Girl",
+    "file": "Girl",
+    "route": "/beatles/girl"
+  },
+  {
+    "id": "btlsRbs10",
+    "title": "I'm Looking Through You",
+    "file": "ImLookingThroughYou",
+    "route": "/beatles/im_looking_through_you"
+  },
+  {
+    "id": "btlsRbs11",
+    "title": "In My Life",
+    "file": "InMyLife",
+    "route": "/beatles/in_my_life"
+  },
+  {
+    "id": "btlsRbs12",
+    "title": "Wait",
+    "file": "Wait",
+    "route": "/beatles/wait"
+  },
+  {
+    "id": "btlsRbs13",
+    "title": "If I Needed Someone",
+    "file": "IfINeededSomeone",
+    "route": "/beatles/if_i_needed_someone"
+  },
+  {
+    "id": "btlsRbs14",
+    "title": "Run For Your Live",
+    "file": "RunForYourLife",
+    "route": "/beatles/run_for_your_life"
+  }
+]
