@@ -272,4 +272,91 @@ export const beatlesAnh = [
     "file": "IllBeBack",
     "route": "/beatles/i'll_be_back"
   }
-]
+];
+
+export const beatlesBfs = [
+  {
+    "id": "btlsBfs1",
+    "title": "No Reply",
+    "file": "NoReply",
+    "route": "/beatles/no_reply"
+  },
+  {
+    "id": "btlsBfs2",
+    "title": "I'm a Loser",
+    "file": "ImALoser",
+    "route": "/beatles/Im_a_loser"
+  },
+  {
+    "id": "btlsBfs3",
+    "title": "Baby's in Black",
+    "file": "BabysInBlack",
+    "route": "/beatles/babys_in_black"
+  },
+  {
+    "id": "btlsBfs4",
+    "title": "Rock and Roll Music",
+    "file": "RockAndRollMusic",
+    "route": "/beatles/rock_and_roll_music"
+  },
+  {
+    "id": "btlsBfs5",
+    "title": "I'll Follow the Sun",
+    "file": "IllFollowTheSun",
+    "route": "/beatles/ill_follow_the_sun"
+  },
+  {
+    "id": "btlsBfs6",
+    "title": "Mr. Moonlight",
+    "file": "MrMoonlight",
+    "route": "/beatles/mr_moonlight"
+  },
+  {
+    "id": "btlsBfs7",
+    "title": "Kansas City",
+    "file": "KansasCity",
+    "route": "/beatles/kansas_city"
+  },
+  {
+    "id": "btlsBfs8",
+    "title": "Eight Days a Week",
+    "file": "EightDaysAWeek",
+    "route": "/beatles/eight_days_a_week"
+  },
+  {
+    "id": "btlsBfs9",
+    "title": "Words of Love",
+    "file": "WordsOfLove",
+    "route": "/beatles/words_of_love"
+  },
+  {
+    "id": "btlsBfs10",
+    "title": "Honey Don't",
+    "file": "HoneyDont",
+    "route": "/beatles/honey_dont"
+  },
+  {
+    "id": "btlsBfs11",
+    "title": "Every Little Thing",
+    "file": "EveryLittleThing",
+    "route": "/beatles/every_little_thing"
+  },
+  {
+    "id": "btlsBfs12",
+    "title": "I Don't Want to Spoil the Party",
+    "file": "IDontWantToSpoilTheParty",
+    "route": "/beatles/i_dont_want_to_spoil_the_party"
+  },
+  {
+    "id": "btlsBfs13",
+    "title": "What You're Doing",
+    "file": "WhatYoureDoing",
+    "route": "/beatles/what_youre_doing"
+  },
+  {
+    "id": "btlsBfs14",
+    "title": "Everybody's Trying to Be My Baby",
+    "file": "EverybodysTryingToBeMyBaby",
+    "route": "/beatles/everybodys_trying_to_be_my_baby"
+  }
+];
