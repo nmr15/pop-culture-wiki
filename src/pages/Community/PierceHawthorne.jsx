@@ -14,6 +14,7 @@ const PierceHawthorne = () =>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><Link to="/">Home</Link></li>
+                        <li className="breadcrumb-item"><Link to="/community">Community</Link></li>
                         <li class="breadcrumb-item active" aria-current="page">Pierce Hawthorne</li>
                     </ol>
                 </nav>
@@ -27,3 +28,4 @@ const PierceHawthorne = () =>
 
 
 export default PierceHawthorne;
+
