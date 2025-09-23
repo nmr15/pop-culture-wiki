@@ -533,4 +533,91 @@ export const beatlesRbs = [
     "file": "RunForYourLife",
     "route": "/beatles/run_for_your_life"
   }
-]
+];
+
+export const beatlesRvlr = [
+  {
+    "id": "btlsRvlr1",
+    "title": "Taxman",
+    "file": "Taxman",
+    "route": "/beatles/taxman"
+  },
+  {
+    "id": "btlsRvlr2",
+    "title": "Eleanor Rigby",
+    "file": "EleanorRigby",
+    "route": "/beatles/ealeanor_rigby"
+  },
+  {
+    "id": "btlsRvlr3",
+    "title": "I'm Only Sleeping",
+    "file": "ImOnlySleeping",
+    "route": "/beatles/im_only_sleeping"
+  },
+  {
+    "id": "btlsRvlr4",
+    "title": "Love You To",
+    "file": "LoveYouTo",
+    "route": "/beatles/love_you_to"
+  },
+  {
+    "id": "btlsRvlr5",
+    "title": "Here, There and Everywhere",
+    "file": "HereThereAndEverywhere",
+    "route": "/beatles/here_there_and_everywhere"
+  },
+  {
+    "id": "btlsRvlr6",
+    "title": "Yellow Submarine",
+    "file": "YellowSubmarine",
+    "route": "/beatles/yellow_submarine"
+  },
+  {
+    "id": "btlsRvlr7",
+    "title": "She Said She Said",
+    "file": "SheSaidSheSaid",
+    "route": "/beatles/she_said_she_said"
+  },
+  {
+    "id": "btlsRvlr8",
+    "title": "Good Day Sunshine",
+    "file": "GoodDaySunshine",
+    "route": "/beatles/good_day_sunshine"
+  },
+  {
+    "id": "btlsRvlr9",
+    "title": "And Your Bird Can Sing",
+    "file": "AndYourBirdCanSing",
+    "route": "/beatles/and_your_bird_can_sing"
+  },
+  {
+    "id": "btlsRvlr10",
+    "title": "For No One",
+    "file": "ForNoOne",
+    "route": "/beatles/for_no_one"
+  },
+  {
+    "id": "btlsRvlr11",
+    "title": "Doctor Robert",
+    "file": "DoctorRobert",
+    "route": "/beatles/doctor_robert"
+  },
+  {
+    "id": "btlsRvlr12",
+    "title": "I Want to Tell You",
+    "file": "IWantToTellYou",
+    "route": "/beatles/i_want_to_tell_you"
+  },
+  {
+    "id": "btlsRvlr13",
+    "title": "Got to Get You Into My Life",
+    "file": "GotToGetYouIntoMyLife",
+    "route": "/beatles/got_to_get_you_into_my_life"
+  },
+  {
+    "id": "btlsRvlr14",
+    "title": "Tomorrow Never Knows",
+    "file": "TomorrowNeverKnows",
+    "route": "/beatles/tomorrow_never_knows"
+  }
+];
