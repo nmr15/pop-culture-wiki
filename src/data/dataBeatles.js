@@ -360,3 +360,90 @@ export const beatlesBfs = [
     "route": "/beatles/everybodys_trying_to_be_my_baby"
   }
 ];
+
+export const beatlesHlp = [
+  {
+    "id": "btlsHlp1",
+    "title": "Help!",
+    "file": "HelpSong",
+    "route": "/beatles/help_song"
+  },
+  {
+    "id": "btlsHlp2",
+    "title": "The Night Before",
+    "file": "TheNightBefore",
+    "route": "/beatles/the_night_before"
+  },
+  {
+    "id": "btlsHlp3",
+    "title": "You've Got to Hide Your Love Away",
+    "file": "YouveGotToHideYourLoveAway",
+    "route": "/beatles/youve_got_to_hide_your_love_away"
+  },
+  {
+    "id": "btlsHlp4",
+    "title": "I Need You",
+    "file": "INeedYou",
+    "route": "/beatles/i_need_you"
+  },
+  {
+    "id": "btlsHlp5",
+    "title": "Another Girl",
+    "file": "AnotherGirl",
+    "route": "/beatles/another_girl"
+  },
+  {
+    "id": "btlsHlp6",
+    "title": "You're Going to Lose That Girl",
+    "file": "YoureGoingToLoseThatGirl",
+    "route": "/beatles/youre_going_to_lose_that_girl"
+  },
+  {
+    "id": "btlsHlp7",
+    "title": "Ticket to Ride",
+    "file": "TicketToRide",
+    "route": "/beatles/ticket_to_ride"
+  },
+  {
+    "id": "btlsHlp8",
+    "title": "Act Naturally",
+    "file": "ActNaturally",
+    "route": "/beatles/act_naturally"
+  },
+  {
+    "id": "btlsHlp9",
+    "title": "It's Only Love",
+    "file": "ItsOnlyLove",
+    "route": "/beatles/its_only_love"
+  },
+  {
+    "id": "btlsHlp10",
+    "title": "You Like Me Too Much",
+    "file": "YouLikeMeTooMuch",
+    "route": "/beatles/you_like_me_too_much"
+  },
+  {
+    "id": "btlsHlp11",
+    "title": "Tell Me What You See",
+    "file": "TellMeWhatYouSee",
+    "route": "/beatles/tell_me_what_you_see"
+  },
+  {
+    "id": "btlsHlp12",
+    "title": "I've Just Seen a Face",
+    "file": "IveJustSeenAFace",
+    "route": "/beatles/ive_just_seen_a_face"
+  },
+  {
+    "id": "btlsHlp13",
+    "title": "Yesterday",
+    "file": "Yesterday",
+    "route": "/beatles/yesterday"
+  },
+  {
+    "id": "btlsHlp14",
+    "title": "Dizzy Miss Lizzy",
+    "file": "DizzyMissLizzy",
+    "route": "/beatles/dizzy_miss_lizzy"
+  }
+];
