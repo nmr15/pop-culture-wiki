@@ -3,7 +3,7 @@ export const communitychars = [
     "id": "cmtychar1",
     "title": "Jeff Winger",
     "file": "JeffWinger",
-    "route": "/Community/jeff_winger",
+    "route": "/community/jeff_winger",
   },
   {
     "id": "cmtychar2",
@@ -755,4 +755,5 @@ export const communitys6 = [
     "file": "CommunityS6E13",
     "route": "/community/emotional_consequences_of_broadcast_television"
   }
+
 ]
