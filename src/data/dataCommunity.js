@@ -9,44 +9,44 @@ export const communitychars = [
     "id": "cmtychar2",
     "title": "Britta Perry",
     "file": "BrittaPerry",
-    "route": "/Community/britta_perry"
+    "route": "/community/britta_perry"
   },
   {
     "id": "cmtychar3",
     "title": "Abed Nadir",
     "file": "AbedNadir",
-    "route": "/Community/abed_nadir"
+    "route": "/community/abed_nadir"
   },
   {
     "id": "cmtychar4",
     "title": "Troy Barnes",
     "file": "TroyBarnes",
-    "route": "/Community/troy_barnes"
+    "route": "/community/troy_barnes"
   },
   {
     "id": "cmtychar5",
     "title": "Annie Edison",
     "file": "AnnieEdison",
-    "route": "/Community/annie_edison"
+    "route": "/community/annie_edison"
   },
   {
     "id": "cmtychar6",
     "title": "Shirley Bennett",
     "file": "ShirleyBennett",
-    "route": "/Community/shirley_bennett"
+    "route": "/community/shirley_bennett"
   },
   {
     "id": "cmtychar7",
     "title": "Pierce Hawthorne",
     "file": "PierceHawthorne",
-    "route": "/Community/pierce_hawthorne"
+    "route": "/community/pierce_hawthorne"
   },
-  // {
-  //   "id": "cmtychar8",
-  //   "title": "Ben Chang",
-  //   "file": "BenChang",
-  //   "route": "/community/ben_chang"
-  // },
+  {
+    "id": "cmtychar8",
+    "title": "Ben Chang",
+    "file": "BenChang",
+    "route": "/community/ben_chang"
+  },
   // {
   //   "id": "cmtychar9",
   //   "title": "Craig Pelton",
@@ -757,3 +757,4 @@ export const communitys6 = [
   }
 
 ]
+
