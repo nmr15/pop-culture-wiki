@@ -148,6 +148,18 @@ export const topics = [
     "title": "A Series of Unfortunate Events",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg",
     "route": "/a_series_of_unfortunate_events"
+  },
+  {
+    "id": 25,
+    "title": "Non-MCU Spider-Man films",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Spider-Man-Logo.svg/700px-Spider-Man-Logo.svg.png",
+    "route": "/spiderman_films"
+  },
+  {
+    "id": 26,
+    "title": "X-Men films",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_X-Men_films.svg/500px-Logo_X-Men_films.svg.png",
+    "route": "/x-men_films"
   }
 ]
 
