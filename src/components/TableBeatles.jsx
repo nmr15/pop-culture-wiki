@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { beatles, beatlesAlbums } from '../data/dataBeatles';
+import { beatles, beatlesAlbums, beatlesWtb, beatlesAnh, beatlesBfs, beatlesHlp, beatlesRbs, beatlesRvlr, beatlesSgt, beatlesMmt, beatlesTwa } from '../data/dataBeatles';
 
 const TableBeatles = () =>
 {
@@ -28,6 +28,16 @@ const TableBeatles = () =>
                                 <div className="table-list">
                                     {beatlesAlbums.map((album) => (
                                         <Link to={album.route} className="table-list-link" key={album.id}>{album.title}</Link>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>With the Beatles</td>
+                            <td>
+                                <div className="table-list">
+                                    {beatlesWtb.map((Wtb) => (
+                                        <Link to={Wtb.route} className="table-list-link" key={Wtb.id}>{Wtb.title}</Link>
                                     ))}
                                 </div>
                             </td>
