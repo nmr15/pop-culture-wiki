@@ -142,6 +142,12 @@ export const topics = [
     "title": "Bojack Horseman",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/500px-BoJack_Horseman_Logo.svg.png",
     "route": "/bojack_horseman"
+  },
+  {
+    "id": 24,
+    "title": "A Series of Unfortunate Events",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg",
+    "route": "/a_series_of_unfortunate_events"
   }
 ]
 
