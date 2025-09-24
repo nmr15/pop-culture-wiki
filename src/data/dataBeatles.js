@@ -621,3 +621,84 @@ export const beatlesRvlr = [
     "route": "/beatles/tomorrow_never_knows"
   }
 ];
+
+export const beatlesSgt = [
+  {
+    "id": "btlsSgt1",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "file": "SgtPepperSong",
+    "route": "/beatles/sgt_peppers_lonely_hears_club_band_song"
+  },
+  {
+    "id": "btlsSgt2",
+    "title": "With a Little Help from My Friends",
+    "file": "WithALittleHelpFromMyFriends",
+    "route": "/beatles/with_a_little_help_from_my_friends"
+  },
+  {
+    "id": "btlsSgt3",
+    "title": "Lucy in the Sky with Diamonds",
+    "file": "LucyInTheSkyWithDiamonds",
+    "route": "/beatles/lucy_in_the_sky_with_diamonds"
+  },
+  {
+    "id": "btlsSgt4",
+    "title": "Getting Better",
+    "file": "GettingBetter",
+    "route": "/beatles/getting_better"
+  },
+  {
+    "id": "btlsSgt5",
+    "title": "Fixing a Hole",
+    "file": "FixingAHole",
+    "route": "/beatles/fixing_a_hole"
+  },
+  {
+    "id": "btlsSgt6",
+    "title": "She's Leaving Home",
+    "file": "ShesLeavingHome",
+    "route": "/beatles/shes_leaving_home"
+  },
+  {
+    "id": "btlsSgt7",
+    "title": "Being for the Benefit of Mr. Kite",
+    "file": "BeingForTheBenefitOfMrKite",
+    "route": "/beatles/being_for_the_benefit_of_mr_kite"
+  },
+  {
+    "id": "btlsSgt8",
+    "title": "Within You Without You",
+    "file": "WithinYouWithoutYou",
+    "route": "/beatles/within_you_without_you"
+  },
+  {
+    "id": "btlsSgt9",
+    "title": "When I'm Sixty Four",
+    "file": "WhenImSixtyFour",
+    "route": "/beatles/when_im_sixty_four"
+  },
+  {
+    "id": "btlsSgt10",
+    "title": "Lovely Rita",
+    "file": "LovelyRita",
+    "route": "/beatles/lovely_rita"
+  },
+  {
+    "id": "btlsSgt11",
+    "title": "Good Morning Good Morning",
+    "file": "GoodMorningGoodMorning",
+    "route": "/beatles/good_morning_good_morning"
+  },
+  {
+    "id": "btlsSgt12",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band - Reprise",
+    "file": "SgtPepperReprise",
+    "route": "/beatles/sgt_peppers_lonely_hears_club_band_reprise"
+  },
+  {
+    "id": "btlsSgt13",
+    "title": "A Day in the Life",
+    "file": "ADayInTheLife",
+    "route": "/beatles/a_day_in_the_life"
+  }
+];
