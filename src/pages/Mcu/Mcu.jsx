@@ -284,6 +284,17 @@ const Mcu = () =>
               In July 2025, Feige said Marvel Studios was "already well into development" on the three phases of their next saga following the conclusion of
               the Multiverse Saga with Secret Wars, noting that Phase Seven would be "directly impacted" bu what was being created for Doomsday and Secret Wars.
             </p>
+            <h3 className="pt-2" id="1.2">Marvel Television series</h3>
+            <p>
+              Marvel Television was lanuched in June 2010 with Jeph Loeb as head, and had entered into discussions with <Link>ABC</Link> to create a show set in
+              the MCU by July 2012, the network went on to release <Link>Agents of S.H.I.E.L.D.</Link>, <Link>Agent Carter</Link>, and <Link>Inhumans</Link>.
+              The latter was a co-production with IMAX Corporation. In November 2013, Disney was set to provide Netflix with the live-action series
+              <Link>Daredevil</Link>, <Link>Jessica Jones</Link>, <Link>Luke Cage</Link>, and <Link>Iron Fist</Link>, building up to the crossover miniseries
+              <Link>The Defenders</Link>. In April 2016, Netflix ordered <Link>The Punisher</Link>, a spin-off of Daredevil. By February 2019, Netflix had
+              cancelled all of its Marvel series. In April 2016, the Disney-owned cable network Freeform announced <Link>Cloak & Dagger</Link>. In May 2017,
+              Marvel announced that <Link>Runaways</Link> had received a series order from Hulu. In May 2019, Marvel announced that <Link>Helstrom</Link>
+              had been greenlit for Hulu.
+            </p>
           </div>
         </div>
         <div>
