@@ -160,6 +160,24 @@ export const topics = [
     "title": "X-Men films",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_X-Men_films.svg/500px-Logo_X-Men_films.svg.png",
     "route": "/x-men_films"
+  },
+  {
+    "id": 27,
+    "title": "Just Cause",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Just_Cause_logo.svg/580px-Just_Cause_logo.svg.png",
+    "route": "/just_cause"
+  },
+  {
+    "id": 28,
+    "title": "Red Dead",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/21/Official_Red_Dead_logo.png",
+    "route": "/red_dead"
+  },
+  {
+    "id": 29,
+    "title": "The Sims",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Sims_series_logo.webp/500px-The_Sims_series_logo.webp.png",
+    "route": "/the_sims"
   }
 ]
 
