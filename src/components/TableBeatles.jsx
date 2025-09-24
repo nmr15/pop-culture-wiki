@@ -42,6 +42,16 @@ const TableBeatles = () =>
                                 </div>
                             </td>
                         </tr>
+                        <tr>
+                            <td>A Hard Day's Night</td>
+                            <td>
+                                <div className="table-list">
+                                    {beatlesAnh.map((Anh) => (
+                                        <Link to={Anh.route} className="table-list-link" key={Anh.id}>{Anh.title}</Link>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
