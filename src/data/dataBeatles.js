@@ -702,3 +702,72 @@ export const beatlesSgt = [
     "route": "/beatles/a_day_in_the_life"
   }
 ];
+
+export const beatlesMmt = [
+  {
+    "id": "btlsMmt1",
+    "title": "Magical Mystery Tour",
+    "file": "MagicalMysteryYourSong",
+    "route": "/beatles/magical_mystery_tour"
+  },
+  {
+    "id": "btlsMmt2",
+    "title": "The Fool on the Hill",
+    "file": "TheFoolOnTheHill",
+    "route": "/beatles/the_fool_on_the_hill"
+  },
+  {
+    "id": "btlsMmt3",
+    "title": "Flying",
+    "file": "FlyingSong",
+    "route": "/beatles/flying"
+  },
+  {
+    "id": "btlsMmt4",
+    "title": "Blue Jay Way",
+    "file": "BlueJayWay",
+    "route": "/beatles/blue_jay_way"
+  },
+  {
+    "id": "btlsMmt5",
+    "title": "Your Mother Should Know",
+    "file": "YourMotherShouldKnow",
+    "route": "/beatles/your_mother_should_know"
+  },
+  {
+    "id": "btlsMmt6",
+    "title": "I Am the Walrus",
+    "file": "IAmTheWalrus",
+    "route": "/beatles/i_am_the_walrus"
+  },
+  {
+    "id": "btlsMmt7",
+    "title": "Hello, Goodbye",
+    "file": "Hello Goodbye",
+    "route": "/beatles/hello_goodbye"
+  },
+  {
+    "id": "btlsMmt8",
+    "title": "Strawberry Fields Forever",
+    "file": "StrawberryFieldsForever",
+    "route": "/beatles/strawberry_fields_forever"
+  },
+  {
+    "id": "btlsMmt9",
+    "title": "Penny Lane",
+    "file": "PennyLane",
+    "route": "/beatles/penny_lane"
+  },
+  {
+    "id": "btlsMmt10",
+    "title": "Baby, You're a Rich Man",
+    "file": "BabyYoureARichMan",
+    "route": "/beatles/baby_youre_a_rich_man"
+  },
+  {
+    "id": "btlsMmt11",
+    "title": "All You Need is Love",
+    "file": "AllYouNeedIsLove",
+    "route": "/beatles/all_you_need_is_love"
+  }
+];
