@@ -171,3 +171,138 @@ export const HimymS1 = [
     "route": "/himym/come_on"
   }
 ];
+
+export const HimymS2 = [
+  {
+    "id": "himyms2e1",
+    "title": "Where Were We?",
+    "file": "HimymS2E1",
+    "route": "/himym/where_were_we"
+  },
+  {
+    "id": "himyms2e2",
+    "title": "The Scorpion and the Toad",
+    "file": "HimymS2E2",
+    "route": "/himym/the_scorpion_and_the_toad"
+  },
+  {
+    "id": "himyms2e3",
+    "title": "Brunch",
+    "file": "HimymS2E3",
+    "route": "/himym/brunch"
+  },
+  {
+    "id": "himyms2e4",
+    "title": "Ted Mosby, Architect",
+    "file": "HimymS2E4",
+    "route": "/himym/ted_mosby_architect"
+  },
+  {
+    "id": "himyms2e5",
+    "title": "World's Greatest Couple",
+    "file": "HimymS2E5",
+    "route": "/himym/worlds_greatest_couple"
+  },
+  {
+    "id": "himyms2e6",
+    "title": "Aldrin Justice",
+    "file": "HimymS2E6",
+    "route": "/himym/aldrin_justice"
+  },
+  {
+    "id": "himyms2e7",
+    "title": "Swarley",
+    "file": "HimymS2E7",
+    "route": "/himym/swarley"
+  },
+  {
+    "id": "himyms2e8",
+    "title": "Atlantic City",
+    "file": "HimymS2E8",
+    "route": "/himym/atlantic_city"
+  },
+  {
+    "id": "himyms2e9",
+    "title": "Slap Bet",
+    "file": "HimymS2E9",
+    "route": "/himym/slap_bet"
+  },
+  {
+    "id": "himyms2e10",
+    "title": "Single Stamina",
+    "file": "HimymS2E10",
+    "route": "/himym/single_stamina"
+  },
+  {
+    "id": "himyms2e11",
+    "title": "How Lily Stole Christmas",
+    "file": "HimymS2E11",
+    "route": "/himym/how_lily_stole_christmas"
+  },
+  {
+    "id": "himyms2e12",
+    "title": "First Time in New York",
+    "file": "HimymS2E12",
+    "route": "/himym/first_time_in_new_york"
+  },
+  {
+    "id": "himyms2e13",
+    "title": "Columns",
+    "file": "HimymS2E13",
+    "route": "/himym/columns"
+  },
+  {
+    "id": "himyms2e14",
+    "title": "Monday Night Football",
+    "file": "HimymS2E14",
+    "route": "/himym/Monday_night_football"
+  },
+  {
+    "id": "himyms2e15",
+    "title": "Lucky Penny",
+    "file": "HimymS2E15",
+    "route": "/himym/lucky_penny"
+  },
+  {
+    "id": "himyms2e16",
+    "title": "Stuff",
+    "file": "HimymS2E16",
+    "route": "/himym/stuff"
+  },
+  {
+    "id": "himyms2e17",
+    "title": "Arrivederci, Fierro",
+    "file": "HimymS2E17",
+    "route": "/himym/arrivederci_fierro"
+  },
+  {
+    "id": "himyms2e18",
+    "title": "Moving Day",
+    "file": "HimymS2E18",
+    "route": "/himym/moving_day"
+  },
+  {
+    "id": "himyms2e19",
+    "title": "Bachelor Party",
+    "file": "HimymS2E19",
+    "route": "/himym/bachelor_party"
+  },
+  {
+    "id": "himyms2e20",
+    "title": "Showdown",
+    "file": "HimymS2E20",
+    "route": "/himym/showdown"
+  },
+  {
+    "id": "himyms2e21",
+    "title": "Something Borrowed",
+    "file": "HimymS2E21",
+    "route": "/himym/something_borrowed"
+  },
+  {
+    "id": "himyms2e22",
+    "title": "Something Blue",
+    "file": "HimymS2E22",
+    "route": "/himym/something_blue"
+  }
+];
