@@ -295,6 +295,24 @@ const Mcu = () =>
               Marvel announced that <Link>Runaways</Link> had received a series order from Hulu. In May 2019, Marvel announced that <Link>Helstrom</Link>
               had been greenlit for Hulu.
             </p>
+            <p>
+              In October 2019, further corporate restructuring saw Feige named Chief Creative Officer of Marvel Entertainment, with Marvel Television
+              becoming part of Marvel Studios and executives of Marvel Television reporting to Feige. In December 2019, Marvel Television was folded into
+              Marvel Studios, with Marvel Studios taking over production of the remaining series and no further series expected to be developed by Marvel
+              Television. In January 2021, Feige said "never say never" to potentially reviving the Netflix series, but noted that Marvel Studios was
+              focused on their new Disney+ series. In May 2022, Marvel Studios was revealed to be developing a new Daredevil series for Disney+, which was
+              announed in July as <Link>Daredevil: Born Again</Link>.
+            </p>
+            <h3 className="pt-2" id="1.3">Expansion to other media</h3>
+            <p>
+              In 2008, the first comic book to tie-into the MCU was released. Quesada explained that these comics would be set within the continuity of the
+              films, but were not intended to be direct adaptations. Rather, they would explore "something that happened off screen" or flesh out something
+              briefly mentioned. Feige was invloved with the creation of the comics, with the film's screenwriters sometimes as well. Marvel Comics worked
+              with Brad Winderbaum, Jeremy Latcham, and Will Corona Pilgrim at Marvel Studios to decide which concepts would be carried over from the Marvel
+              Comics Universe to the Marvel Cinematic Universe, what to show in the tie-in comics, and what to leave for the films. Marvel later clarified
+              which of the tie-in comics are considered canonical MCU stories, with the rest being merely inspired by the MCU "where we get to show off all
+              the characters from the film in costume and in comic form".
+            </p>
           </div>
         </div>
         <div>
