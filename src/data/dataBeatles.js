@@ -771,3 +771,186 @@ export const beatlesMmt = [
     "route": "/beatles/all_you_need_is_love"
   }
 ];
+
+export const beatlesTwa = [
+  {
+    "id": "btlsTwa1",
+    "title": "Back in the U.S.S.R.",
+    "file": "BackInTheUSSR",
+    "route": "/beatles/back_in_the_ussr"
+  },
+  {
+    "id": "btlsTwa2",
+    "title": "Dear Prudence",
+    "file": "DearPrudence",
+    "route": "/beatles/dear_prudence"
+  },
+  {
+    "id": "btlsTwa3",
+    "title": "Glass Onion",
+    "file": "GlassOnion",
+    "route": "/beatles/glass_onion"
+  },
+  {
+    "id": "btlsTwa4",
+    "title": "Ob-La-Di, Ob-La-Da",
+    "file": "ObladiOblada",
+    "route": "/beatles/obladi_oblada"
+  },
+  {
+    "id": "btlsTwa5",
+    "title": "Wild Honey Pie",
+    "file": "WildHoneyPie",
+    "route": "/beatles/wild_honey_pie"
+  },
+  {
+    "id": "btlsTwa6",
+    "title": "The Continuing Story of Bungalow Bill",
+    "file": "TheContinuingStoryOfBungalowBill",
+    "route": "/beatles/the_continuing_story_of_bungalow_bill"
+  },
+  {
+    "id": "btlsTwa7",
+    "title": "While My Guitar Gently Weeps",
+    "file": "WhileMyGuitarGentlyWeeps",
+    "route": "/beatles/while_my_guitar_gently_weeps"
+  },
+  {
+    "id": "btlsTwa8",
+    "title": "Happiness is a Warm Gun",
+    "file": "HappinessIsAWarmGun",
+    "route": "/beatles/happiness_is_a_warm_gin"
+  },
+  {
+    "id": "btlsTwa9",
+    "title": "Martha My Dear",
+    "file": "MarthaMyDear",
+    "route": "/beatles/martha_my_dear"
+  },
+  {
+    "id": "btlsTwa10",
+    "title": "I'm So Tired",
+    "file": "ImSoTired",
+    "route": "/beatles/im_so_tired"
+  },
+  {
+    "id": "btlsTwa11",
+    "title": "Blackbird",
+    "file": "Blackbird",
+    "route": "/beatles/blackbird"
+  },
+  {
+    "id": "btlsTwa12",
+    "title": "Piggies",
+    "file": "Piggies",
+    "route": "/beatles/piggies"
+  },
+  {
+    "id": "btlsTwa13",
+    "title": "Rocky Raccoon",
+    "file": "RockyRaccoon",
+    "route": "/beatles/rocky_raccoon"
+  },
+  {
+    "id": "btlsTwa14",
+    "title": "Don't Padd Me By",
+    "file": "DontPassMeBy",
+    "route": "/beatles/dont_pass_me_by"
+  },
+  {
+    "id": "btlsTwa15",
+    "title": "Why Don�t We Do It On The Road",
+    "file": "WhyDontWeDoItOnTheRoad",
+    "route": "/beatles/why_dont_we_do_it_on_the_road"
+  },
+  {
+    "id": "btlsTwa16",
+    "title": "I Will",
+    "file": "Iwill",
+    "route": "/beatles/i_will"
+  },
+  {
+    "id": "btlsTwa17",
+    "title": "Julia",
+    "file": "Julia",
+    "route": "/beatles/Julia"
+  },
+  {
+    "id": "btlsTwa18",
+    "title": "Birthday",
+    "file": "Birthday",
+    "route": "/beatles/birthday"
+  },
+  {
+    "id": "btlsTwa19",
+    "title": "Yer Blues",
+    "file": "Yer Blues",
+    "route": "/beatles/yer_blues"
+  },
+  {
+    "id": "btlsTwa20",
+    "title": "Mother Nature's Son",
+    "file": "MotherNaturesSon",
+    "route": "/beatles/mother_natures_son"
+  },
+  {
+    "id": "btlsTwa21",
+    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+    "file": "EverybodysGotSomethingToHide",
+    "route": "/beatles/everybodys_got_something_to_hide_except_me_and_my_monkey"
+  },
+  {
+    "id": "btlsTwa22",
+    "title": "Sexy Sadie",
+    "file": "SexySadie",
+    "route": "/beatles/sexy_sadie"
+  },
+  {
+    "id": "btlsTwa23",
+    "title": "Helter Skelter",
+    "file": "HelterSkelter",
+    "route": "/beatles/helter_skelter"
+  },
+  {
+    "id": "btlsTwa24",
+    "title": "Long, Long, Long",
+    "file": "LongLongLong",
+    "route": "/beatles/long_long_long"
+  },
+  {
+    "id": "btlsTwa25",
+    "title": "Revolution 1",
+    "file": "Revolution1",
+    "route": "/beatles/revolution1"
+  },
+  {
+    "id": "btlsTwa26",
+    "title": "Honey Pie",
+    "file": "HoneyPie",
+    "route": "/beatles/honey_pie"
+  },
+  {
+    "id": "btlsTwa27",
+    "title": "Savoy Truffle",
+    "file": "SavoyTruffle",
+    "route": "/beatles/savoy_truffle"
+  },
+  {
+    "id": "btlsTwa28",
+    "title": "Cry Baby Cry",
+    "file": "CryBabyCry",
+    "route": "/beatles/cry_baby_cry"
+  },
+  {
+    "id": "btlsTwa29",
+    "title": "Revolution 9",
+    "file": "Revolution9",
+    "route": "/beatles/revolutio9"
+  },
+  {
+    "id": "btlsTwa30",
+    "title": "Good Night",
+    "file": "GoodNight",
+    "route": "/beatles/good_night"
+  }
+];
