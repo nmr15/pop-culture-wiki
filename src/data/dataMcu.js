@@ -138,6 +138,7 @@ export const mcu = [
     "id": "mcu16",
     "title": "Spider-Man: Homecoming",
     "file": "SpiderManHomecoming",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
     "route": "/mcu/spiderman_homecoming",
     "media": "film",
     "phase": 3
@@ -146,6 +147,7 @@ export const mcu = [
     "id": "mcu17",
     "title": "Thor: Ragnarok",
     "file": "ThorRagnarok",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
     "route": "/mcu/thor_ragnarok",
     "media": "film",
     "phase": 3
@@ -154,6 +156,7 @@ export const mcu = [
     "id": "mcu18",
     "title": "Black Panther",
     "file": "BlackPanther",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
     "route": "/mcu/black_panther",
     "media": "film",
     "phase": 3
@@ -162,6 +165,7 @@ export const mcu = [
     "id": "mcu19",
     "title": "Avengers: Infinity War",
     "file": "AvengersInfinityWar",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
     "route": "/mcu/avengers_infinity_war",
     "media": "film",
     "phase": 3
@@ -170,6 +174,7 @@ export const mcu = [
     "id": "mcu20",
     "title": "Ant-Man and the Wasp",
     "file": "AntManAndTheWasp",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg",
     "route": "/mcu/antman_and_the_wasp",
     "media": "film",
     "phase": 3
