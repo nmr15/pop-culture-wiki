@@ -353,6 +353,7 @@ export const mcu = [
     "id": "mcu40",
     "title": "Black Panther: Wakanda Forever",
     "file": "BlackPantherWakandaForever",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Black_Panther_Wakanda_Forever_poster.jpg",
     "route": "/mcu/black_panther_wakanda_forever",
     "media": "film",
     "phase": 4
@@ -361,6 +362,7 @@ export const mcu = [
     "id": "mcu41",
     "title": "The Guardians of the Galaxy Holiday Special",
     "file": "GuardiansOfTheGalaxyHolidaySpecial",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_Guardians_of_the_Galaxy_Holiday_Special_poster.jpg",
     "route": "/mcu/the_guardians_of_the_galaxy_holiday_special",
     "media": "special",
     "phase": 4
@@ -369,6 +371,7 @@ export const mcu = [
     "id": "mcu42",
     "title": "Ant-Man and the Wasp: Quantumania",
     "file": "AntManAndTheWaspQuantumania",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
     "route": "/mcu/antman_and_the_wasp_quantumania",
     "media": "film",
     "phase": 5
@@ -377,6 +380,7 @@ export const mcu = [
     "id": "mcu43",
     "title": "Guardians of the Galaxy Vol. 3",
     "file": "GuardiansOfTheGalaxyVol3",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
     "route": "/mcu/guardians_of_the_galaxy_vol_3",
     "media": "film",
     "phase": 5
@@ -385,6 +389,7 @@ export const mcu = [
     "id": "mcu44",
     "title": "Secret Invasion",
     "file": "SecretInvasion",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Secret_Invasion_%28miniseries%29_logo.jpg",
     "route": "/mcu/secret_invasion",
     "media": "series",
     "phase": 5
