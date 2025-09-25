@@ -354,6 +354,43 @@ const Mcu = () =>
               and include new suggestions rather than sticking to a set script. Feige said they would not atart a film without a full script, but he was never
               satisfied with their scripts or finished films and always felt they could do better.
             </p>
+            <p>
+              In August 2012, Marvel sined The Avengers and <Link>Avengers: Age of Ultron</Link> (2015) director <Link>Joss Whedon</Link> to an exclusive
+              contract through June 2015 for film and television. With the deal, Whedon contributed creatively to all of the Phase Two films and also
+              developed Agents of S.H.I.E.L.D., the first telvesion series set in the MCU. In April 2017, <Link>Guardians of the Galaxy</Link> (2014) and
+              <Link>Guardians of the Galaxy Vol. 2</Link> (2017) writer and director <Link>James Gunn</Link> revealed that he would be working with Marvel
+              to help plan future stories for the <Link>Guardians of the Galaxy</Link> characters and the wider "Marvel Cosmic Universe", although Gunn
+              became the co-CEO of <Link>DC Studios</Link> in November 2022 and signed a four-year deal to work exclusively on <Link>DC Comics</Link>-based
+              projects. For Phase Three, there was a large amount of collaboration between the filmmakers of the individual character films and the
+              filmmakers of the crossover films Avengers: Infinity War and Avengers: Endgame, which were directed by the <Link>Russo brothers</Link> and
+              written by <Link>Christopher Markus and Stephen McFeely</Link>. This was to ensure their storytelling aligned for the Infinity Saga's
+              culmination.
+            </p>
+            <p>
+              Marvel Studios began contracting their actors for multiple films, including signing actor <Link>Samuel L. Jackson</Link> to a
+              then-unprecedented nine-film contract. Feige said the studio had all actors sign contracts for multiple films, with the normal number being
+              for three or more while the nine or twelve film deals were rare. The actors' contracts also featre clauses that allow Marvel to use up to
+              three minutes of an actor's performance from one film in another, which Marvel describes as "bridging material". By the start of Phase
+              Four, Marvel Studios was no longer contracting actors for a large number of projects, with deal lengths varying for each actor and project.
+              Feige said the studio was looking for actors who were excited to join the franchise and appear in multiple projects without being locked into
+              contractual obligations. He also noted that they were starting to include theme park attractions in actors' deals. By December 2020,
+              because of the impact COVID-19 had on theaters and film studios shifting away from theatrical releases, Marvel Studios began exploring updated
+              contracts for actors, writers, directors, and producers to receive adjusted compensation in the event a film had to debut on Disney+ instead
+              of in theaters. TheWrap reported that the new contracts would likely only apply to films about to enter production.
+            </p>
+            <p>
+              For Marvel Television, Loeb said he and his executives were involved in all aspects of production: "whether it's being in the writers' room,
+              editing, on set, casting, every step of the production goes through the Marvel team to tell the best story that we can". He said the studio
+              was able to work on so many series across different networks and platforms because all they needed was one person working on each series to
+              help "guide the process". When developing the crossover miniseries The Defenders, showrunner Marco Ramirez consulted with the creators of
+              all the individual Marvel Netflix series, having them read each of the scripts for The Defenders and provide insight into individual
+              characters' worlds. Actors appearing in Marvel Television series, such as <Link>Charlie Cox</Link> (who portrayed <Link>Matt Murdock /
+              Daredevil</Link> in Daredevil) and <Link>Adrianna Palicki</Link> (<Link>Bobbi Morse / Mockingbird</Link> in Agents of S.H.I.E.L.D.), were
+              contractually obligated to appear in a Marvel Studios film if asked. In December 2021, Feige confirmed that Cox would reprise the role of
+              Daredevil in Marvel Studios MCU productions, with Cox first reprising the role in the film <Link>Spider-Man: No Way Home</Link> (2021).
+              Additionally, <Link>Vincent D'Onofrio</Link> first reprised his role as <Link>Wilson Fisk / Kingpin</Link> from Daredevil in the Disney+
+              series <Link>Hawkeye</Link> (2021).
+            </p>
           </div>
         </div>
         <div>
