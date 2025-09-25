@@ -183,6 +183,7 @@ export const mcu = [
     "id": "mcu21",
     "title": "Captain Marvel",
     "file": "CaptainMarvelFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg",
     "route": "/mcu/captain_marvel_film",
     "media": "film",
     "phase": 3
@@ -191,6 +192,7 @@ export const mcu = [
     "id": "mcu22",
     "title": "Avengers: Endgame",
     "file": "AvengersEndgame",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
     "route": "/mcu/avengers_endgame",
     "media": "film",
     "phase": 3
@@ -199,6 +201,7 @@ export const mcu = [
     "id": "mcu23",
     "title": "Spider-Man: Far From Home",
     "file": "SpiderManFarFromHome",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
     "route": "/mcu/spiderman_far_from_home",
     "media": "film",
     "phase": 3
@@ -207,6 +210,7 @@ export const mcu = [
     "id": "mcu24",
     "title": "WandaVision",
     "file": "WandaVision",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png",
     "route": "/mcu/wandavision",
     "media": "series",
     "phase": 4
@@ -215,6 +219,7 @@ export const mcu = [
     "id": "mcu25",
     "title": "The Falcon and the Winter Soldier",
     "file": "TheFalconAndTheWinterSoldier",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Falcon_and_the_Winter_Soldier_logo.png",
     "route": "/mcu/the_falcon_and_the_winter_soldier",
     "media": "series",
     "phase": 4
