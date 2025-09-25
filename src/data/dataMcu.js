@@ -460,6 +460,7 @@ export const mcu = [
     "id": "mcu52",
     "title": "What If...? Season 3",
     "file": "WhatIf",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/What_If...%3F_season_3_poster.jpeg",
     "route": "/mcu/what_if",
     "media": "series 5",
     "phase": ""
@@ -468,6 +469,7 @@ export const mcu = [
     "id": "mcu53",
     "title": "Captain America: Brave New World",
     "file": "CaptainAmericaBraveNewWorld",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg",
     "route": "/mcu/captain_america_brave_new_world",
     "media": "film",
     "phase": 5
@@ -476,6 +478,7 @@ export const mcu = [
     "id": "mcu52",
     "title": "Daredevil: Born Again",
     "file": "DaredevilBornAgain",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Daredevil_Born_Again_logo.jpeg",
     "route": "/mcu/daredevil_born_again",
     "media": "series",
     "phase": 5
@@ -484,6 +487,7 @@ export const mcu = [
     "id": "mcu53",
     "title": "Thunderbolts*",
     "file": "Thunderbolts",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",
     "route": "/mcu/thunderbolts",
     "media": "film",
     "phase": 5
@@ -492,6 +496,7 @@ export const mcu = [
     "id": "mcu54",
     "title": "Ironheart",
     "file": "IronheartSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Ironheart_%28miniseries%29_logo.png",
     "route": "/mcu/ironheart_series",
     "media": "series",
     "phase": 5
@@ -500,6 +505,7 @@ export const mcu = [
     "id": "mcu55",
     "title": "The Fantastic Four: First Steps",
     "file": "FantasticFourFirstSteps",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg",
     "route": "/mcu/the_fantastic_four_first_steps",
     "media": "film",
     "phase": 6
@@ -508,6 +514,7 @@ export const mcu = [
     "id": "mcu56",
     "title": "Eyes of Wakanda",
     "file": "EyesOfWakanda",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Eyes_of_Wakanda_logo.jpg/500px-Eyes_of_Wakanda_logo.jpg",
     "route": "/mcu/eyes_of_wakanda",
     "media": "series",
     "phase": 6
