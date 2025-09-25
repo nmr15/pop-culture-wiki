@@ -93,6 +93,7 @@ export const mcu = [
     "id": "mcu11",
     "title": "Avengers: Age of Ultron",
     "file": "AvengersAgeOfUltron",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
     "route": "/mcu/avengers_age_of_ultron",
     "media": "film",
     "phase": 2
@@ -101,6 +102,7 @@ export const mcu = [
     "id": "mcu12",
     "title": "Ant-Man",
     "file": "AntManFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg",
     "route": "/mcu/antman_film",
     "media": "film",
     "phase": 2
@@ -109,6 +111,7 @@ export const mcu = [
     "id": "mcu13",
     "title": "Captain America: Civil War",
     "file": "CaptainAmericaCivilWar",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
     "route": "/mcu/captain_america_civil_war",
     "media": "film",
     "phase": 3
@@ -117,6 +120,7 @@ export const mcu = [
     "id": "mcu14",
     "title": "Doctor Strange",
     "file": "DoctorStrangeFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg",
     "route": "/mcu/doctor_strange_film",
     "media": "film",
     "phase": 3
@@ -125,6 +129,7 @@ export const mcu = [
     "id": "mcu15",
     "title": "Guardians of the Galaxy Vol. 2",
     "file": "GuardiansOfTheGalaxyVol2",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg",
     "route": "/mcu/guardians_of_the_galaxy_vol_2",
     "media": "film",
     "phase": 3
