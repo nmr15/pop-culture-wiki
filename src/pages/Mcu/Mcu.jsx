@@ -331,6 +331,29 @@ const Mcu = () =>
               as <Link>J. Jonah Jameson</Link> in a video where he speaks out against Spider-Man before asking viewers to "like and subscribe". In December 2020,
               Marvel Studios announeced <Link>I Am Groot</Link>, a series of photorealistic animated shorts atarring <Link>Baby Groot</Link> for Disney+.
             </p>
+            <h3 className="pt-2" id="1.4">Business practices</h3>
+            <p>
+              In November 2016, Feige explained that the studio would often put together a "lookback" of influences from the comics and art by Marvel's visual 
+              development department, to create a visual template for a project. These are put together at company retreats, which the studio holds approximately
+              every 18 months to plan out future projects and develop the phases of the MCU. However, these lookbacks are not always shown to directors, with
+              Marvel sometimes preferring to let the director offer their own ideas first. When choosing a director for a project, Marvel Studios looks for
+              filmmakers to hire who can guide a film. Some of their choices for directors have been considered "out-of-left-field" based on those director's
+              previous work. On this, Feige remarked that "you don't have to have directed a big, giant visual-effects movie to do a big, giant visual-effects
+              movie for us. You just have to have done something singularly sort of awesome."
+            </p>
+            <p>
+              The studio ensures directors are open to the idea of the shared universe and are willing to include connective material, such as
+              <Link>Kenneth Branagh</Link> and <Link>Joe Johnston</Link> needing to invlude scenes that set-up <Link>The Avengers</Link> (2012) in their
+              respective Phase One films <Link>Thor</Link> and <Link>Captain America: The First Avenger</Link> (both 2011). Marvel Studios usually has a
+              big idea they would like to explore or build to in a project, such as <Link>Hydra</Link> infiltrating <Link>S.H.I.E.L.D.</Link> in
+              <Link>Captain America: The Winter Soldier</Link> (2014), but they leave it up to the filmmaker to interpret and "improve a little bit" to
+              get that point. After these ideas have been developed, the creative team then begins exploring ideas from other future projects to see how to
+              make and larger universe connections. For many of their early films, Feige was closely involved during a film's development before allowing
+              filming to be overseen by lower-level studio executives. Feige would then become invloved again during editing, when films could be entirely
+              rewritten or reworked. Feige described the company's approach as "plus-ing at every turn", where they are always trying to improve a project
+              and include new suggestions rather than sticking to a set script. Feige said they would not atart a film without a full script, but he was never
+              satisfied with their scripts or finished films and always felt they could do better.
+            </p>
           </div>
         </div>
         <div>
