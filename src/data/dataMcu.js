@@ -228,6 +228,7 @@ export const mcu = [
     "id": "mcu26",
     "title": "Loki Season 1",
     "file": "LokiSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Loki_%28TV_series%29_logo.png",
     "route": "/mcu/loki_series",
     "media": "series",
     "phase": 4
@@ -236,6 +237,7 @@ export const mcu = [
     "id": "mcu27",
     "title": "Black Widow",
     "file": "BlackWidowFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",
     "route": "/mcu/black_widow_film",
     "media": "film",
     "phase": 4
@@ -244,6 +246,7 @@ export const mcu = [
     "id": "mcu28",
     "title": "What If...?",
     "file": "WhatIf",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b6/What_If...%3F_%28TV_series%29_logo.png",
     "route": "/mcu/what_if",
     "media": "series",
     "phase": 4
@@ -252,6 +255,7 @@ export const mcu = [
     "id": "mcu29",
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "file": "ShangChiFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",
     "route": "/mcu/shangchi_and_the_legends_of_the_ten_rings",
     "media": "film",
     "phase": 4
@@ -260,6 +264,7 @@ export const mcu = [
     "id": "mcu30",
     "title": "Eternals",
     "file": "Eternals",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Eternals_%28film%29_poster.jpeg",
     "route": "/mcu/eternals",
     "media": "film",
     "phase": 4
