@@ -39,6 +39,7 @@ export const mcu = [
     "id": "mcu5",
     "title": "Captain America: The First Avenger",
     "file": "CaptainAmericaTheFirstAvenger",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
     "route": "/mcu/captain_america_the_first_avenger",
     "media": "film",
     "phase": 1
@@ -47,6 +48,7 @@ export const mcu = [
     "id": "mcu6",
     "title": "The Avengers",
     "file": "TheAvengersFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
     "route": "mcu/the_avengers_film",
     "media": "film",
     "phase": 1
@@ -55,6 +57,7 @@ export const mcu = [
     "id": "mcu7",
     "title": "Iron Man 3",
     "file": "IronMan3",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
     "route": "/mcu/iron_man_3",
     "media": "film",
     "phase": 2
@@ -63,6 +66,7 @@ export const mcu = [
     "id": "mcu8",
     "title": "Thor: The Dark World",
     "file": "ThorTheDarkWorld",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Thor_The_Dark_World_poster.jpg",
     "route": "/mcu/thor_the_dark_world",
     "media": "film",
     "phase": 2
@@ -71,6 +75,7 @@ export const mcu = [
     "id": "mcu9",
     "title": "Captain America: The Winter Soldier",
     "file": "CaptainAmericaTheWinterSoldier",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg",
     "route": "/mcu/captain_america_the_winter_soldier",
     "media": "film",
     "phase": 2
@@ -79,6 +84,7 @@ export const mcu = [
     "id": "mcu10",
     "title": "Guardians of the Galaxy",
     "file": "GuardiansOfTheGalaxyFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
     "route": "/mcu/guardians_of_the_galaxy_film",
     "media": "film",
     "phase": 2
