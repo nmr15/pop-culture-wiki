@@ -3,6 +3,7 @@ export const mcu = [
     "id": "mcu1",
     "title": "Iron Man",
     "file": "IronManFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
     "route": "/mcu/iron_man_film",
     "media": "film",
     "phase": 1
@@ -11,6 +12,7 @@ export const mcu = [
     "id": "mcu2",
     "title": "The Incredible Hulk",
     "file": "TheIncredibuleHulkFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg",
     "route": "/mcu/the_incredible_hulk_film",
     "media": "film",
     "phase": 1
@@ -19,6 +21,7 @@ export const mcu = [
     "id": "mcu3",
     "title": "Iron Man 2",
     "file": "IronMan2",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",
     "route": "/mcu/iron_man_2",
     "media": "film",
     "phase": 1
@@ -27,6 +30,7 @@ export const mcu = [
     "id": "mcu4",
     "title": "Thor",
     "file": "ThorFilm",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg",
     "route": "/mcu/thor_film",
     "media": "film",
     "phase": 1
