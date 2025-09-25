@@ -406,6 +406,7 @@ export const mcu = [
     "id": "mcu46",
     "title": "Loki Season 2",
     "file": "LokiSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/Loki_season_2_poster.jpg",
     "route": "/mcu/loki_series",
     "media": "series",
     "phase": 5
@@ -414,6 +415,7 @@ export const mcu = [
     "id": "mcu47",
     "title": "The Marvels",
     "file": "TheMarvels",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg",
     "route": "/mcu/the_marvels",
     "media": "film",
     "phase": 5
@@ -422,6 +424,7 @@ export const mcu = [
     "id": "mcu48",
     "title": "What If...? Season 2",
     "file": "WhatIf",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/What_If...%3F_season_2_poster.jpeg",
     "route": "/mcu/what_if",
     "media": "series",
     "phase": 5
@@ -430,6 +433,7 @@ export const mcu = [
     "id": "mcu49",
     "title": "Echo",
     "file": "Echo",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Echo_%28miniseries%29_logo.jpg",
     "route": "mcu/echo",
     "media": "series",
     "phase": 5
@@ -438,6 +442,7 @@ export const mcu = [
     "id": "mcu50",
     "title": "Deadpool & Wolverine",
     "file": "DeadpoolAndWolverine",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
     "route": "/mcu/deadpool_&_wolverine",
     "media": "film",
     "phase": 5
@@ -446,6 +451,7 @@ export const mcu = [
     "id": "mcu51",
     "title": "Agatha All Along",
     "file": "AgathaAllAlong",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Agatha_All_Along_%28miniseries%29_logo.jpg",
     "route": "/mcu/agatha_all_along",
     "media": "series",
     "phase": 5
