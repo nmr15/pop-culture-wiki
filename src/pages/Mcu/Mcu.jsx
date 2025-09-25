@@ -313,6 +313,24 @@ const Mcu = () =>
               which of the tie-in comics are considered canonical MCU stories, with the rest being merely inspired by the MCU "where we get to show off all
               the characters from the film in costume and in comic form".
             </p>
+            <p>
+              In August 2011, Marvel announced a series of direct-to-video short films called <Link>Marvel One-Shots</Link>. The name was derived from the
+              label used by Marvel Comics for their one-shot comics. Winderbaum said the shorts were "a fun way to experiment with new characters and ideas"
+              and to expand the MCU. Each short was designed to be a self-contained story that provided more backstory for characters or events introduced in
+              the films.
+            </p>
+            <p>
+              In March 2015, Marvel's vice president of animation development and production, Cort Lane, said animated tie-ins to the MCU were "in the works".
+              That July, Marvel Studios partneered with <Link>Google</Link> to produce the faux news program <Link>WHIH Newsfront with Christine Everhart</Link>,
+              a series of in-universe <Link>Youtube</Link> videos serving as the center of a viral marketing campaign to promote the films and universe. In
+              Deceber 2016, a six-part web series, <Link>Agents of S.H.I.E.L.D.: Slingshot</Link>, debuted on ABC.com. It follows <Link>Elena "Yo-Yo" 
+              Rodriguez</Link> on a secret mission, shortly before the start of Agents of S.H.I.E.L.D.'s <Link>fourth season</Link>, with <Link>Natalie
+              Cordova-Buckley</Link> reprising her role from the series. In September 2019, Sony created a real version of the fictional <Link>The Daily Bugle</Link>
+              website as part of a viral marketing campaign to promote the home media realse of <Link>Spider-Man: Far From Home</Link> (2019).
+              Inspired by real world "conspiracy-pushing" websites such as Alex Jones' InfoWars, the website featured <Link>J. K. Simmons</Link> reprising his role
+              as <Link>J. Jonah Jameson</Link> in a video where he speaks out against Spider-Man before asking viewers to "like and subscribe". In December 2020,
+              Marvel Studios announeced <Link>I Am Groot</Link>, a series of photorealistic animated shorts atarring <Link>Baby Groot</Link> for Disney+.
+            </p>
           </div>
         </div>
         <div>
