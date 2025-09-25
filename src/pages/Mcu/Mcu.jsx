@@ -413,7 +413,34 @@ const Mcu = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Fictional universe</h2>
-          <div className="collapse show" id="collapseSix"></div>
+          <div className="collapse show" id="collapseSix">
+            <h3 className="pt-2" id="6.1">Timeline</h3>
+            <p>
+              The fictional timeline of the MCU includes the feature films, television series, television specials, short films, and the I Am Groot
+              shorts from Marvel Studios, and Marvel Television's Netflix series. While the early films of Phase One and Phase Two of the franchise
+              followed each other in the timeline similar to their release order, Phase Three saw many of the films overlapping with each other in
+              the timeline, while also introducing the first prequel property, Captain Marvel. The Phase Three film Avengers: Endgame featured
+              characters travelling into the past and introduced a five-year time jump, with many subsequent releases in Phase Four and Phase Five
+              set after Endgame's events in the timeline. The television series Loki and What If...? were the first properties to occur outside of
+              the main timeline and explore alternate timelines and universes.
+            </p>
+            <p>
+              There have been numerous attempts by Marvel Studios and others to codify the events of the MCU, which have been subject to perceived
+              continuity errors, resulting in Marvel Studios releasing an official timeline book in 2023 for their first four phases that were
+              designated as part of their "<Link>Sacred Timeline</Link>". This book did not feature projects produced by other companies, such as
+              Marvel Television's series which all had been loosely connected to the films, however, it was noted all of these outside projects
+              were part of the larger Marvel canon. In early 2024, Marvel Studios formally integrated Marvel Television's group of Netflix series
+              into their Disney+ timeline.
+            </p>
+            <p>
+              As of the Phase Five television series Daredevil: Born Again and the film Thunderbolts*, the "present day" in the MCU is 2027. The
+              following covers and discusses MCU media released by Marvel Studios and the Netflix series by Marvel Television. Loki and What
+              If...? are excluded from the diagram because they occur outside of the main timeline. Werewolf by Night is also excluded give the
+              special explicitly does not indicate where it takes place in the MCU. Disney+'s timeline order places the first seasons of Loki and
+              What If...? between Avengers: Endgame and WandaVision, their second seasons after The Marvels, and Werewolf by Night after Thor: Love
+              and Thunder. Werewolf by Night is also placed here in The Marvel Cinematic Universe: An Official Timeline.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Recurring cast and characters</h2>
