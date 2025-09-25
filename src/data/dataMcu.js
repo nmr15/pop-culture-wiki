@@ -273,6 +273,7 @@ export const mcu = [
     "id": "mcu31",
     "title": "Hawkeye",
     "file": "HawkeyeSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/Hawkeye_%28miniseries%29_logo.png",
     "route": "/mcu/hawkeye_series",
     "media": "series",
     "phase": 4
@@ -281,6 +282,7 @@ export const mcu = [
     "id": "mcu32",
     "title": "Spider-Man: No Way Home",
     "file": "SpiderManNoWayHome",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
     "route": "/mcu/spiderman_no_way_home",
     "media": "film",
     "phase": 4
@@ -289,6 +291,7 @@ export const mcu = [
     "id": "mcu33",
     "title": "Moon Knight",
     "file": "MoonKnightSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Moon_Knight_%28miniseries%29_logo.jpg",
     "route": "/mcu/moon_knight_series",
     "media": "series",
     "phase": 4
@@ -297,6 +300,7 @@ export const mcu = [
     "id": "mcu34",
     "title": "Doctor Strange in the Multiverse of Madness",
     "file": "DoctorStrangeMultiverseMadness",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
     "route": "/mcu/doctor_strange_in_the_multiverse_of_madness",
     "media": "film",
     "phase": 4
@@ -305,6 +309,7 @@ export const mcu = [
     "id": "mcu35",
     "title": "Ms. Marvel",
     "file": "MsMarvelSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Ms._Marvel_%28miniseries%29_logo.jpg",
     "route": "/mcu/ms._marvel_series",
     "media": "series",
     "phase": 4
@@ -313,6 +318,7 @@ export const mcu = [
     "id": "mcu36",
     "title": "Thor: Love and Thunder",
     "file": "ThorLoveAndThunder",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Thor_Love_and_Thunder_poster.jpeg",
     "route": "/mcu/thor_love_and_thunder",
     "media": "film",
     "phase": 4
@@ -329,6 +335,7 @@ export const mcu = [
     "id": "mcu38",
     "title": "She-Hulk: Attorney at Law",
     "file": "SheHulkAttorneyAtLaw",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/32/She-Hulk_Attorney_at_Law_logo.jpg",
     "route": "/mcu/shehulk_attorney_at_law",
     "media": "series",
     "phase": 4
@@ -337,6 +344,7 @@ export const mcu = [
     "id": "mcu39",
     "title": "Werewolf by Night",
     "file": "WerewolfByNight",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/06/Werewolf_by_Night_%28TV_special%29_poster.jpg",
     "route": "/mcu/werewolf_by_night",
     "media": "special",
     "phase": 4
