@@ -54,6 +54,8 @@ a
 .main
 {
   margin-left: 18.75rem;
+  padding: 3rem;
+  transition: .5s;
 }
 
 .img-right
