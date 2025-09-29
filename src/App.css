@@ -16,7 +16,7 @@ a
 .navbar
 {
   padding: 1rem;
-  position: fixed;
+  position: sticky;
   color: #fff;
   background-color: #212529;
 }
