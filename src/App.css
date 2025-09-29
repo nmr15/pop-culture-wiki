@@ -13,6 +13,11 @@ a
   text-decoration: none;
 }
 
+ul
+{
+  list-style-type: none;
+}
+
 .navbar
 {
   padding: 1rem;
@@ -47,7 +52,11 @@ a
 .sidebar-list
 {
   padding: 1rem 2rem;
-  list-style: none;
+}
+
+.sidebar-list-item
+{
+  padding: 1rem 0;
 }
 
 .sidebar a
