@@ -15,9 +15,10 @@ a
 
 .navbar
 {
-  background-color: #212529;
   padding: 1rem;
+  position: fixed;
   color: #fff;
+  background-color: #212529;
 }
 
 .nav-link
