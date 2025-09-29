@@ -323,14 +323,14 @@ export const mcu = [
     "media": "film",
     "phase": 4
   },
-  {
-    "id": "mcu37",
-    "title": "I am Groot Season 1",
-    "file": "IAmGroot",
-    "route": "/mcu/i_am_groot",
-    "media": "series",
-    "phase": 4
-  },
+  // {
+  //   "id": "mcu37",
+  //   "title": "I am Groot Season 1",
+  //   "file": "IAmGroot",
+  //   "route": "/mcu/i_am_groot",
+  //   "media": "series",
+  //   "phase": 4
+  // },
   {
     "id": "mcu38",
     "title": "She-Hulk: Attorney at Law",
@@ -394,14 +394,14 @@ export const mcu = [
     "media": "series",
     "phase": 5
   },
-  {
-    "id": "mcu45",
-    "title": "I Am Groot Season 2",
-    "file": "IAmGroot",
-    "route": "/mcu/i_am_groot",
-    "media": "series",
-    "phase": 5
-  },
+  // {
+  //   "id": "mcu45",
+  //   "title": "I Am Groot Season 2",
+  //   "file": "IAmGroot",
+  //   "route": "/mcu/i_am_groot",
+  //   "media": "series",
+  //   "phase": 5
+  // },
   {
     "id": "mcu46",
     "title": "Loki Season 2",
@@ -519,4 +519,5 @@ export const mcu = [
     "media": "series",
     "phase": 6
   }
+
 ]
