@@ -6,7 +6,7 @@ const Mcu = () =>
   return (
     <>
       <nav className="sidebar bg-dark">
-        <ul>
+        <ul className="sidebar-list">
           <li className="py-1">
             <a href="#top">Top</a>
           </li>
