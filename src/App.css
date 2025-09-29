@@ -17,6 +17,8 @@ a
 {
   padding: 1rem;
   position: sticky;
+  top: 0;
+  overflow: hidden;
   color: #fff;
   background-color: #212529;
 }
