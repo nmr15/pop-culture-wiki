@@ -155,7 +155,7 @@ export const mcu = [
   {
     "id": "mcu18",
     "title": "Black Panther",
-    "file": "BlackPanther",
+    "file": "BlackPantherFilm",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
     "route": "/mcu/black_panther",
     "media": "film",
