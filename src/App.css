@@ -10,6 +10,13 @@ a
   text-decoration: none;
 }
 
+.navbar
+{
+  background-color: #212529;
+  padding: 1rem;
+  color: #fff;
+}
+
 .nav-link
 {
   color: #ffffff
@@ -27,6 +34,8 @@ a
   height: 100%;
   overflow: auto;
   color: #fff;
+  background-color: #212529;
+  transition: 0.5s;
 }
 
 .sidebar ul
