@@ -255,7 +255,7 @@ const Mcu = () =>
               screenings at Walt Disney Studios in Burbank, California, to help maintain secrecy. Feige said the NRG tests had similar results to their own. By
               July 2025, <Link>Sacha Baron Cohen</Link>'s <Link>Mephisto</Link> was being viewed as the next "prominent" villain of the MCU.
             </p>
-            <h4 className="pt-2" id="1.1.3">Integration of mutant characters and the X-Men</h4>
+            <h4 className="arti" id="1.1.3">Integration of mutant characters and the X-Men</h4>
             <p>
               In December 2017, Disney agreed to acquire assets from <Link>21st Century Fox</Link>, and finalized the transaction on March 19, 2019. This saw the
               return of the film rights for <Link>Deadpool</Link>, the X-Men, and the <Link>Fantastic Four</Link> to Marvel Studios, although Feige explained that
