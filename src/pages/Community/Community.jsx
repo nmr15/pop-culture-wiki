@@ -5,8 +5,8 @@ const Community = () =>
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
-        <ul>
+      <nav className="sidebar">
+        <ul className='sidebar-list'>
           <li className="py-1">
             <a href="#top">Top</a>
           </li>

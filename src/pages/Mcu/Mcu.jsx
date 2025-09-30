@@ -5,7 +5,7 @@ const Mcu = () =>
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
+      <nav className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item">
             <a href="#top">Top</a>
@@ -414,7 +414,7 @@ const Mcu = () =>
         <div>
           <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Fictional universe</h2>
           <div className="collapse show" id="collapseSix">
-            <h3 className="pt-2" id="6.1">Timeline</h3>
+            <h3 className="article-heading-3" id="6.1">Timeline</h3>
             <p>
               The fictional timeline of the MCU includes the feature films, television series, television specials, short films, and the I Am Groot
               shorts from Marvel Studios, and Marvel Television's Netflix series. While the early films of Phase One and Phase Two of the franchise
