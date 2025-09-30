@@ -105,18 +105,18 @@ const Mcu = () =>
           </div>
         </ul>
       </nav>
-      <main className="main px-5 py-4" id="top">
+      <main className="main" id="top">
         <div >
           <h1 className="article-heading">Marvel Cinematic Universe</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right img-top">
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/250px-Marvel_Cinematic_Universe_logo.png" 
             alt="Marvel Cinematic Universe" 
             className="article-heading-img"
           />
         </div>
-        <div className="pt-2">
+        <div className="div-top">
           <p>
             The <b>Marvel Cinematic Universe</b> is an American media franchise and shared universe centered on <a href="#">a series</a> of superhero films
             produced by <a href="#">Marvel Studios</a>. The films are based on characters that appear in American comic books published by <a href="#">Marvel Comics</a>.

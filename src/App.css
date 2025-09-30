@@ -118,6 +118,11 @@ p
   transition: .5s;
 }
 
+.img-top
+{
+  padding-top: 1rem;
+}
+
 .img-right
 {
   margin-left: 1rem;
@@ -132,10 +137,10 @@ p
   clear: left;
 }
 
-/* .article-div
+.div-top
 {
-  padding-top: .5rem;
-} */
+  padding-top: 1rem;
+}
 
 .article-heading
 {
