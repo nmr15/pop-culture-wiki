@@ -188,7 +188,7 @@ const Mcu = () =>
               to elevate each other's projects where possible. In November 2017, Feige said <Link>Avengers: Endgame</Link> (2019) would provide a definitive conclusion
               to the films thus far and begin a new period for the franchise. He later said Phase Three would conclude "<Link>The Infinity Saga</Link>".
             </p>
-            <h4 className="pt-2" id="1.1.2">The Multiverse Saga films and series</h4>
+            <h4 className="article-heading-4" id="1.1.2">The Multiverse Saga films and series</h4>
             <p>
               Disney was reportedly developing a Marvel-based television series for their new streaming service <Link>Disney+</Link> by November 2017. In July 2018,
               Feige said discussions had begun with Disney regarding any potential invlovement Marvel Studios could have with the streaming service, which he felt was
