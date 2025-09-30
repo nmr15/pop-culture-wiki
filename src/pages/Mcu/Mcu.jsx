@@ -255,7 +255,7 @@ const Mcu = () =>
               screenings at Walt Disney Studios in Burbank, California, to help maintain secrecy. Feige said the NRG tests had similar results to their own. By
               July 2025, <Link>Sacha Baron Cohen</Link>'s <Link>Mephisto</Link> was being viewed as the next "prominent" villain of the MCU.
             </p>
-            <h4 className="arti" id="1.1.3">Integration of mutant characters and the X-Men</h4>
+            <h4 className="article-heading-4" id="1.1.3">Integration of mutant characters and the X-Men</h4>
             <p>
               In December 2017, Disney agreed to acquire assets from <Link>21st Century Fox</Link>, and finalized the transaction on March 19, 2019. This saw the
               return of the film rights for <Link>Deadpool</Link>, the X-Men, and the <Link>Fantastic Four</Link> to Marvel Studios, although Feige explained that
@@ -279,12 +279,12 @@ const Mcu = () =>
               and <Link>James Marsden</Link> as <Link>Scott Summers / Cyclops</Link>, Stewart and Grammer also reprise their roles in the film. Feige reportedly
               has a 10-year plan for the X-Men in the MCU.
             </p>
-            <h4 className="pt-2" id="1.1.4">Next saga</h4>
+            <h4 className="article-heading-4" id="1.1.4">Next saga</h4>
             <p>
               In July 2025, Feige said Marvel Studios was "already well into development" on the three phases of their next saga following the conclusion of
               the Multiverse Saga with Secret Wars, noting that Phase Seven would be "directly impacted" bu what was being created for Doomsday and Secret Wars.
             </p>
-            <h3 className="pt-2" id="1.2">Marvel Television series</h3>
+            <h3 className="article-heading-3" id="1.2">Marvel Television series</h3>
             <p>
               Marvel Television was lanuched in June 2010 with Jeph Loeb as head, and had entered into discussions with <Link>ABC</Link> to create a show set in
               the MCU by July 2012, the network went on to release <Link>Agents of S.H.I.E.L.D.</Link>, <Link>Agent Carter</Link>, and <Link>Inhumans</Link>.
@@ -303,7 +303,7 @@ const Mcu = () =>
               focused on their new Disney+ series. In May 2022, Marvel Studios was revealed to be developing a new Daredevil series for Disney+, which was
               announed in July as <Link>Daredevil: Born Again</Link>.
             </p>
-            <h3 className="pt-2" id="1.3">Expansion to other media</h3>
+            <h3 className="article-heading-3" id="1.3">Expansion to other media</h3>
             <p>
               In 2008, the first comic book to tie-into the MCU was released. Quesada explained that these comics would be set within the continuity of the
               films, but were not intended to be direct adaptations. Rather, they would explore "something that happened off screen" or flesh out something
@@ -331,7 +331,7 @@ const Mcu = () =>
               as <Link>J. Jonah Jameson</Link> in a video where he speaks out against Spider-Man before asking viewers to "like and subscribe". In December 2020,
               Marvel Studios announeced <Link>I Am Groot</Link>, a series of photorealistic animated shorts atarring <Link>Baby Groot</Link> for Disney+.
             </p>
-            <h3 className="pt-2" id="1.4">Business practices</h3>
+            <h3 className="article-heading-3" id="1.4">Business practices</h3>
             <p>
               In November 2016, Feige explained that the studio would often put together a "lookback" of influences from the comics and art by Marvel's visual 
               development department, to create a visual template for a project. These are put together at company retreats, which the studio holds approximately
