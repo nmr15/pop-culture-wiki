@@ -88,14 +88,14 @@ const Community = () =>
         <div>
           <h1 className="article-heading">Community</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right img-top">
           <img
             src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
             alt="Community"
             className="article-heading-img"
           />
         </div>
-        <div className="pt-2">
+        <div className="div-top">
           <p>
             <b>Community</b> is an American television sitcom created by <a href="#">Dan Harmon</a>. The series ran
             for <a href="#">110 episodes</a> over six seasons, with its first five seasons airing on <a href="#">NBC</a> from
@@ -159,7 +159,6 @@ const Community = () =>
               still remianing Greendale.
             </p>
           </div>
-          
         </div>
         <div>
           <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Cast and characters</h2>
@@ -256,7 +255,7 @@ const Community = () =>
         <div>
           <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseThree" id="3">Production</h2>
           <div className="collapse show" id="collapseThree">
-            <h3 className="pt-2" id="3.1">Casting</h3>
+            <h3 className="article-heading-3" id="3.1">Casting</h3>
             <p>
               <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
               percent of putting the show together," he said in an interview. He had worked with several of the cast members previously. Actor
@@ -273,7 +272,7 @@ const Community = () =>
               someone resembling Tracy Flick, Reese Witherspoon's character in the 1999 movie Election. Originally the producers were looking for
               a Latina or Asian Tracy Flick, but they cast Alison Brie, known for her role as Trudy Campbell on Mad Men.
             </p>
-            <h3 className="pt-2" id="3.2">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Development</h3>
             <p>
               Harmon based the premise of Community on his own experiences. In an attempt to save his relationship with his then-girlfriend, he
               enrolled in Glendale Community College northeast of Los Angeles, where they would take Spanish together. Harmon got involved in a
@@ -287,7 +286,7 @@ const Community = () =>
               About the creative process behing the writing, Harmon said that he had to write the show as if it were a movie, not a sitcom.
               Essentially, the process was no different from the earlier works he had done, except for the length and the target demographic.
             </p>
-            <h3 className="pt-2" id="3.3">Writing</h3>
+            <h3 className="article-heading-3" id="3.3">Writing</h3>
             <p>
               Each episode of Community is written in accordance with Dan Harmon's template of "story circles" that he developed while at Channel
               101. Harmon rewrote every episode (except while not working on the show during its fourth season), which helps lend the show his
@@ -303,7 +302,7 @@ const Community = () =>
               (the seventh variant is that the die was not rolled at all). Frequent episode themes are school-year holidays (Halloween and Christmas
               being the most frequent), paintball, and various forms of animation.
             </p>
-            <h3 className="pt-2" id="3.4">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Filming</h3>
             <p>
               Filming the show involved a lot of improvisation, particularly from Chase. Of Chase, Harmon said that he "tends to come up with lines
               that you can actually end scens with sometimes". He had also called McHale and Glover adept improvisers. Apart from a few exterior
@@ -326,7 +325,7 @@ const Community = () =>
               seasons. One June 6, 2018, it was announced that Community: The Complete Series would be released by Mill Creek Entertainment on
               high-definition Blu-ray on October 23, 2018.
             </p>
-            <h3 className="pt-2" id="4.1">First season</h3>
+            <h3 className="article-heading-3" id="4.1">First season</h3>
             <p>
               The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
               three episodes, the show was moved to 8:00 pm ET.
@@ -339,8 +338,7 @@ const Community = () =>
               Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
               scenes; and three mini episodes.
             </p>
-            
-            <h3 className="pt-2" id="4.2">Second season</h3>
+            <h3 className="article-heading-3" id="4.2">Second season</h3>
             <p>
               On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
               May 12, 2011. NBC ordered 2 additional episodes for the second season on November 3, 2010, bringing it to a total of 24 episodes.
@@ -348,7 +346,7 @@ const Community = () =>
               outtakes; animatics for "Abed's Uncontrollable Christmas" and making-of featurettes covering that episode as well as "A Fistful of
               Paintballs" and "For a Few Paintballs More".
             </p>
-            <h3 className="pt-2" id="4.3">Third season</h3>
+            <h3 className="article-heading-3" id="4.3">Third season</h3>
             <p>
               The series was renewed for a third season on March 17, 2011. Filming for the season began on July 25, 2011. Jim Rash, who portrays
               Dean Pelton, was promoted to a series regular after having a recurring role throughout the first two seasons. Michael K. Williams
@@ -378,7 +376,7 @@ const Community = () =>
               gag reels; deleted scenes; "This is War: Pillows vs. Blankets mockumentary" featurette; and "A Glee-ful Community Christmas"
               featurette.
             </p>
-            <h3 className="pt-2" id="4.4">Fourth season</h3>
+            <h3 className="article-heading-3" id="4.4">Fourth season</h3>
             <p>
               On May 10, 2012, Community was renewed for a fourth season consisting of 13 episodes. Series creator and executive producer Dan
               Harmon was replaced as showrunner for the series in the fourth season, as writers David Guarascio and Moses Port (co-creator of
@@ -407,7 +405,7 @@ const Community = () =>
               The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
               deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
             </p>
-            <h3 className="pt-2" id="4.5">Fifth season</h3>
+            <h3 className="article-heading-3" id="4.5">Fifth season</h3>
             <p>
               On May 10, 2013, the series was renewed for a fifth season. On June 1, 2013, Harmon announced he would return as showrunner for season five,
               replacing season four showrunners Moses Port and David Guarascio, with former writer Chris McKenna returning as executive producer. On June 10,
@@ -429,7 +427,7 @@ const Community = () =>
               The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
               featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
             </p>
-            <h3 className="pt-2" id="4.6">Sixth season</h3>
+            <h3 className="article-heading-3" id="4.6">Sixth season</h3>
             <p>
               On June 30, 2014, the day the cast's contracts were due to expire, Yahoo! announced it had ordered a 13-episode sixth season to stream on Yahoo!
               Screen, including the main cast along with executive producers Dan Harmon, Chris McKenna, Russ Krasnoff, and Gary Foster. Harmon said, "I am very
@@ -459,7 +457,7 @@ const Community = () =>
               The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
               the finale, trivia with the cast and crew, and a gag reel.
             </p>
-            <h3 className="pt-2" id="4.7">Webisodes</h3>
+            <h3 className="article-heading-3" id="4.7">Webisodes</h3>
             <p>
               In addition to the regular episodes, NBC produced a series of webisodes. Some focus on the daily life of Dean Pelton and others include a Spanish project,
               study breaks, and Abed copying his friends' lives and turning them into student films. These webisodes were featured on the front page of the Greendale
@@ -518,7 +516,7 @@ const Community = () =>
         <div>
           <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Reception</h2>
           <div className="collapse show" id="collapseSix">
-            <h3 className="pt-2" id="6.1">Critical reception</h3>
+            <h3 className="article-heading-3" id="6.1">Critical reception</h3>
             <p>
               Community has appeared on a number of lists determining the greatest television shows off all time. In TV (The Book): Two Experts Pick the Greatest American Shows
               of All Time, critics Alan Sepinwall and Matt Zoller Seltz ranked Community 54th in their combined top 100 list, placing them in the section titled "Groundbreaking
@@ -576,7 +574,7 @@ const Community = () =>
               and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
               second life free to be weird and playful and experimental."
             </p>
-            <h3 className="pt-2" id="6.2">Awards and nominations</h3>
+            <h3 className="article-heading-3" id="6.2">Awards and nominations</h3>
             <p>
               In 2009, the series received a nomination for Favorite New TV Comedy at the 36th People's Choice Awards.
             </p>
@@ -607,7 +605,7 @@ const Community = () =>
               Rash and Danny Pudi were nominated for Best Supporting Actor in a Comedy Series, and Alison Brie and Gillian Jacobs were nominated Best Supporting Actress in a Comedy
               Series. Community was also nominated for TCA Awaward for Outstanding Achievement in Comedy ath the 2012 TCA Awards.
             </p>
-            <h3 className="pt-2" id="6.3">Semiotics and Community</h3>
+            <h3 className="article-heading-3" id="6.3">Semiotics and Community</h3>
             <p>
               While sitcoms are often underrepresented in the academic study of television, Community is an exception. More specifically, television critics and scholars often
               reference Community when discussing semiotics, the study of signs, due to its frequent use of self-reference in highlighting common film and television tropes as they
@@ -626,7 +624,7 @@ const Community = () =>
               "The most important knowledge a viewer brings to the viewing of Community is the subconscious recognition of indicators for other formal systems (meaning other genres
               or specific texts) with help from subconscious hupotheses and charts that are built on previous experiences with similar works."
             </blockquote>
-            <h3 className="pt-2" id="6.3">Ratings</h3>
+            <h3 className="article-heading-3" id="6.3">Ratings</h3>
             <p>
               Premiering in the 9:30 pm ET spot on September 17, 2009, the pilot episode had a viewership of 7.680 million In the 18-49 audience, it had a rating of 3.7. As such, it
               held 93% of this audience from The Office, which had been in the previous time slot. The show was called the "bright spot for the night" for NBC, seeing how The Office
@@ -687,7 +685,7 @@ const Community = () =>
                 The track list included the main title theme, "At Least It Was Here" by the 88; original songs and incidental music composed for the show (by series
                 composer Ludwig Göransson); and several songs were performed by the characters (a mix of orifinal compositions and covers).
               </p>
-              <h3 className="pt-2" id="9.1">Other tracks</h3>
+              <h3 className="article-heading-3" id="9.1">Other tracks</h3>
               <p>
                 Songs featured on the show that were not released on the soundtrack are available on composer Ludwig Göransson's official website.
               </p>
