@@ -153,8 +153,8 @@ const Mcu = () =>
         <div>
           <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapseOne">Development</h2>
           <div className="collapse show" id="collapseOne">
-            <h3 className="pt-2" id="1.1">Marvel Studios films and series</h3>
-            <h4 className="pt-2" id="1.1.1">The Infinity Saga films</h4>
+            <h3 className="article-heading-3" id="1.1">Marvel Studios films and series</h3>
+            <h4 className="article-heading-4" id="1.1.1">The Infinity Saga films</h4>
             <p>
               By 2005, Marvel Entertainment was planning to produce its own films independently and distribute them through Paramount Pictures. Previously, Marvel had
               co-produced several superhero films based on <Link to="/marvelcomics">Marvel Comics</Link> with Columbia Pictures, New Line Cinema, 20th Century Fox, and
