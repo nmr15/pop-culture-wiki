@@ -151,8 +151,7 @@ p
 
 .article-heading-3, .article-heading-4
 {
-  padding-top: 1rem;
-  padding-bottom: .5rem;
+  padding: 1.5rem
 }
 
 .article-heading-img
