@@ -11,7 +11,7 @@ const Mcu = () =>
           <li className="sidebar-list-item">
             <a href="#top">Top</a>
           </li>
-          
+          <Collapse />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
               aria-expanded="true" aria-controls="development">
