@@ -106,9 +106,19 @@ p
   margin-left: .5rem;
 }
 
+.sidebar-collapse-sub
+{
+  margin-left: 1rem;
+}
+
 .sidebar-list
 {
   padding: 1rem 2rem;
+  list-style-type: none;
+}
+
+.sidebar-list-item > ul
+{
   list-style-type: none;
 }
 
