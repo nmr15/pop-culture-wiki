@@ -84,6 +84,11 @@ p
   cursor: pointer;
 }
 
+.collapse
+{
+  padding: 0.5rem 0;
+}
+
 .sidebar
 {
   width: 18.75rem;

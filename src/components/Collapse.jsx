@@ -11,7 +11,7 @@ const Collapse = ({ id, item, sub, sub2}) =>
 
   return(
     <>
-      <div>
+      <div className="collapse">
         <span class="sidebar-toggle" onClick={toggle}>▼</span>
         <li class="sidebar-list-item sidebar-collapse">
           <a href={id}>{item}</a>
