@@ -5,12 +5,17 @@ const Collapse = () =>
   return(
     <>
       <div>
-        <span className="sidebar-toggle">▼</span>
-        <li className="sidebar-list-item sidebar-collapse">
+        <span class="sidebar-toggle">▼</span>
+        <li class="sidebar-list-item sidebar-collapse">
           <a href="#">List Item</a>
-          <ul className="sidebar-collapse-sub">
-            <li className="sidebar-list-item">
+          <ul class="sidebar-collapse-sub">
+            <li class="sidebar-list-item">
               <a href="#">Sub List Item</a>
+              <ul>
+                <li class="sidebar-list-item sidebar-collapse-sub2">
+                  <a href="#">Sub 2 List Item</a>
+                </li>
+              </ul>
             </li>
           </ul>
         </li>
