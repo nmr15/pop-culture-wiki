@@ -102,6 +102,7 @@ p
 
 .sidebar-collapse
 {
+  display: inline;
   margin-left: .5rem;
 }
 
