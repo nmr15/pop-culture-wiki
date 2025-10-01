@@ -14,7 +14,7 @@ const Mcu = () =>
           <Collapse 
             id="1" 
             item="Development" 
-            sub="Marvel Studios films and series"
+            sub={[{id: "1.1", title: "Marvel Studios films and series"}]}
             sub2={[{id: "1.1.1", title: "The Infinity Saga films"}, {id: "1.1.2", title: "The Multiverse Saga films and series"}]}
           />
           <div className="accordion sidebar-list-item">
