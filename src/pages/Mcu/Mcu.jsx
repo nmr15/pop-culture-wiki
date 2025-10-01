@@ -62,7 +62,7 @@ const Mcu = () =>
           />
           <Collapse 
             id="6"
-            item="ShoFictional universe"
+            item="Fictional universe"
             sub={[
               {id: "6.1", title: "Timeline"},
               {id: "6.2", title: "Multiverse"}
