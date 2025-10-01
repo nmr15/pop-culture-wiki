@@ -26,27 +26,14 @@ const Mcu = () =>
               {id: "1.4", title: "Business practices"}
             ]}
           />
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
-              aria-expanded="true" aria-controls="development">
-            </span>
-            <li className="d-inline ms-2"><a href="#1">Development</a>
-              <ul id="development" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li className="sidebar-list-item">
-                  <a href="#1.1">Marvel Studios films and series</a>
-                  <ul>
-                    <li className="sidebar-list-item"><a href="#1.1.1">The Infinity Saga films</a></li>
-                    <li className="sidebar-list-item"><a href="#1.1.2">The Multiverse Saga films and series</a></li>
-                    <li className="sidebar-list-item"><a href="#1.1.3">Integration of mutant characters and the X-Men</a></li>
-                    <li className="sidebar-list-item"><a href="#1.1.4">Next saga</a></li>
-                  </ul>
-                </li>
-                <li className="sidebar-list-item"><a href="#1.2">Marvel Television series</a></li>
-                <li className="sidebar-list-item"><a href="#1.3">Expansion to other media</a></li>
-                <li className="sidebar-list-item"><a href="#1.4">Business practices</a></li>
-              </ul>
-            </li>
-          </div>
+          <Collapse 
+            id="2"
+            item="Feature films"
+            subs={[
+              {id: "2.1", title: "The Infinity Saga"},
+              {id: "2.2", title: "The Multiverse Saga"}
+            ]}
+          />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#films"
               aria-expanded="true" aria-controls="films">
