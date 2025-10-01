@@ -50,28 +50,24 @@ const Mcu = () =>
               {id: "4.2", title: "I Am Groot"}
             ]}
           />
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#other-media"
-              aria-expanded="true" aria-controls="other-media">
-            </span>
-            <li className="d-inline ms-2"><a href="#5">Other media</a></li>
-            <ul id="other-media" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="sidebar-list-item"><a href="#5.1">Digital series</a></li>
-              <li className="sidebar-list-item"><a href="#5.2">Comic books</a></li>
-              <li className="sidebar-list-item"><a href="#5.3">Books</a></li>
-              <li className="sidebar-list-item"><a href="#5.4">Music</a></li>
-            </ul>
-          </div>
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#universe"
-              aria-expanded="true" aria-controls="universe">
-            </span>
-            <li className="d-inline ms-2"><a href="#6">Fictional universe</a></li>
-            <ul id="universe" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="sidebar-list-item"><a href="#6.1">Timeline</a></li>
-              <li className="sidebar-list-item"><a href="#6.2">Multiverse</a></li>
-            </ul>
-          </div>
+          <Collapse 
+            id="5"
+            item="Other media"
+            sub={[
+              {id: "5.1", title: "Digital series"},
+              {id: "5.2", title: "Comic books"},
+              {id: "5.3", title: "Books"},
+              {id: "5.4", title: "Music"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="ShoFictional universe"
+            sub={[
+              {id: "6.1", title: "Timeline"},
+              {id: "6.2", title: "Multiverse"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#7">Recurring cast and characters</a></li>
           <li className="sidebar-list-item"><a href="#8">Reception</a></li>
           <div className="accordion sidebar-list-item">
