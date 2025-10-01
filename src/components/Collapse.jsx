@@ -5,8 +5,8 @@ const Collapse = () =>
   return(
     <>
       <div>
-        <span style={{fontSize: "14px"}}>▼</span>
-        <li className="sidebar-list-item" style={{display: "inline"}}>
+        <span className="sidebar-toggle">▼</span>
+        <li className="sidebar-list-item sidebar-collapse">
           <a href="#">List Item</a>
           <ul>
             <li className="sidebar-list-item">

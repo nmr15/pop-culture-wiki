@@ -95,6 +95,16 @@ p
   transition: 0.5s;
 }
 
+.sidebar-toggle
+{
+  font-size: 14px;
+}
+
+.sidebar-collapse
+{
+  margin-left: .5rem;
+}
+
 .sidebar-list
 {
   padding: 1rem 2rem;
