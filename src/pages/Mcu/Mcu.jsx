@@ -29,7 +29,7 @@ const Mcu = () =>
           <Collapse 
             id="2"
             item="Feature films"
-            subs={[
+            sub={[
               {id: "2.1", title: "The Infinity Saga"},
               {id: "2.2", title: "The Multiverse Saga"}
             ]}
