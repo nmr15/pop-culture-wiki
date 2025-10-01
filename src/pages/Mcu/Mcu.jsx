@@ -20,15 +20,11 @@ const Mcu = () =>
                 {id: "1.1.2", title: "The Multiverse Saga films and series"},
                 {id: "1.1.3", title: "Integration of mutant characters and the X-Men"},
                 {id: "1.1.4", title: "Next saga"}
-                ]},
-              {id: "1.2", title: "Marvel Television series"}
-              ]}
-            // sub2={[
-            //   {id: "1.1.1", title: "The Infinity Saga films"}, 
-            //   {id: "1.1.2", title: "The Multiverse Saga films and series"},
-            //   {id: "1.1.3", title: "Integration of mutant characters and the X-Men"},
-            //   {id: "1.1.4", title: "Next saga"}
-            //   ]}
+              ]},
+              {id: "1.2", title: "Marvel Television series"},
+              {id: "1.3", title: "Expansion to other media"},
+              {id: "1.4", title: "Business practices"}
+            ]}
           />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
