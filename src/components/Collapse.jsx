@@ -11,11 +11,13 @@ const Collapse = ({ id, item, sub, sub2}) =>
           <ul class="sidebar-collapse-sub">
             <li class="sidebar-list-item">
               <a href="#">{sub}</a>
-              <ul>
+              { sub2 && (
+                <ul>
                 <li class="sidebar-list-item sidebar-collapse-sub2">
                   <a href="#">{sub2}</a>
                 </li>
               </ul>
+              )}
             </li>
           </ul>
         </li>
