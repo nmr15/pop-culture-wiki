@@ -2,17 +2,20 @@ import { useState } from "react";
 
 const Collapse = ({ id, item, sub, sub2}) =>
 {
+  const [isOpen, setIsOpen] = useState(false);
+
   return(
     <>
       <div>
-        <span class="sidebar-toggle">▼</span>
+        <span class="sidebar-toggle" onClick={setIsOpen(!isOpen)}>▼</span>
         <li class="sidebar-list-item sidebar-collapse">
           <a href={id}>{item}</a>
+          {isOpen && (
           <ul class="sidebar-collapse-sub">
             {sub.map((sub) => (
               <li class="sidebar-list-item" key={sub.id}>
               <a href={"#" + sub.id}>{sub.title}</a>
-              { sub2 && (
+              {sub2 && (
                 <ul>
                   {sub2.map((sub2) => (
                   <li class="sidebar-list-item sidebar-collapse-sub2" key={sub2.id}>
@@ -24,6 +27,7 @@ const Collapse = ({ id, item, sub, sub2}) =>
             </li>
             ))}
           </ul>
+          )}
         </li>
       </div>
     </>
