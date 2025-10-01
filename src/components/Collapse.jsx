@@ -4,10 +4,15 @@ const Collapse = ({ id, item, sub, sub2}) =>
 {
   const [isOpen, setIsOpen] = useState(false);
 
+  const toggle = () =>
+  {
+    setIsOpen(!isOpen);
+  }
+
   return(
     <>
       <div>
-        <span class="sidebar-toggle" >▼</span>
+        <span class="sidebar-toggle" onClick={toggle()}>▼</span>
         <li class="sidebar-list-item sidebar-collapse">
           <a href={id}>{item}</a>
           {isOpen && (
