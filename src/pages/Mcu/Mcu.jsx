@@ -15,7 +15,12 @@ const Mcu = () =>
             id="1" 
             item="Development" 
             sub={[{id: "1.1", title: "Marvel Studios films and series"}]}
-            sub2={[{id: "1.1.1", title: "The Infinity Saga films"}, {id: "1.1.2", title: "The Multiverse Saga films and series"}]}
+            sub2={[
+              {id: "1.1.1", title: "The Infinity Saga films"}, 
+              {id: "1.1.2", title: "The Multiverse Saga films and series"},
+              {id: "1.1.3", title: "Integration of mutant characters and the X-Men"},
+              {id: "1.1.4", title: "Next saga"}
+              ]}
           />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
