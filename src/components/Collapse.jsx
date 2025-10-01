@@ -22,11 +22,11 @@ const Collapse = ({ id, item, sub, sub2}) =>
               <a href={"#" + sub.id}>{sub.title}</a>
               {sub.sub2 && (
                 <ul>
-                  
-                  <li class="sidebar-list-item sidebar-collapse-sub2" >
-                    <a href="#">{sub.sub2.title}</a>
+                  {sub.sub2.map((sub2) => (
+                  <li class="sidebar-list-item sidebar-collapse-sub2" key={sub2.id}>
+                    <a href={"#" + sub2.id}>{sub2.title}</a>
                   </li>
-                  
+                  ))} 
                 </ul>
               )}
             </li>
