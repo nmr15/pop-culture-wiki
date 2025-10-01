@@ -11,7 +11,7 @@ const Mcu = () =>
           <li className="sidebar-list-item">
             <a href="#top">Top</a>
           </li>
-          <Collapse id="1" item="Development" sub="Marvel Studios films and series" sub2="The Infinity Saga" />
+          <Collapse id="1" item="Development" sub="Marvel Studios films and series" />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#development"
               aria-expanded="true" aria-controls="development">
