@@ -34,36 +34,22 @@ const Mcu = () =>
               {id: "2.2", title: "The Multiverse Saga"}
             ]}
           />
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#films"
-              aria-expanded="true" aria-controls="films">
-            </span>
-            <li className="d-inline ms-2"><a href="#2">Feature films</a></li>
-            <ul id="films" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="sidebar-list-item"><a href="#2.1">The Infinity Saga</a></li>
-              <li className="sidebar-list-item"><a href="#2.2">The Multiverse Saga</a></li>
-            </ul>
-          </div>
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#series-specials"
-              aria-expanded="true" aria-controls="series-specials">
-            </span>
-            <li className="d-inline ms-2"><a href="#3">Television series and specials</a></li>
-            <ul id="series-specials" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="sidebar-list-item"><a href="#3.1">Marvel Television series</a></li>
-              <li className="sidebar-list-item"><a href="#3.2">Marvel Studio series</a></li>
-            </ul>
-          </div>
-          <div className="accordion sidebar-list-item">
-            <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#short-films"
-              aria-expanded="true" aria-controls="short-films">
-            </span>
-            <li className="d-inline ms-2"><a href="#4">Short films</a></li>
-            <ul id="short-films" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-              <li className="sidebar-list-item"><a href="#4.1">Marvel One-Shots</a></li>
-              <li className="sidebar-list-item"><a href="#4.2">I Am Groot</a></li>
-            </ul>
-          </div>
+          <Collapse 
+            id="3"
+            item="Television series and specials"
+            sub={[
+              {id: "3.1", title: "Marvel Television series"},
+              {id: "3.2", title: "Marvel Studio series"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Short films"
+            sub={[
+              {id: "4.1", title: "Marvel One-Shots"},
+              {id: "4.2", title: "I Am Groot"}
+            ]}
+          />
           <div className="accordion sidebar-list-item">
             <span className="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#other-media"
               aria-expanded="true" aria-controls="other-media">
