@@ -154,7 +154,7 @@ const Mcu = () =>
               was founded in 1994, <Link>Kevin Feige</Link>, Arad's second-in-command, realized that unlike <Link>Spider-Man</Link>, <Link>Blade</Link>, and the
               <Link>X-Men</Link> which were respectively licensed to Sony, New Line, and Fox, Marvel owned the rights to the <Link>Avengers</Link> team. Feige, a
               self-described "fanboy", envisioned combining these characters in a shared universe similar to the one created by <Link>Stan Lee</Link> and 
-              <Link>Jack Kirby</Link> for Marvel Comics in the 1960s.
+              @nbsp;<Link>Jack Kirby</Link> for Marvel Comics in the 1960s.
             </p>
             <p>
               To raise capital, the studio secured funding from a seven-year, $520 million revolving credit facility with Merrill Lynch. Marvel planned to release
