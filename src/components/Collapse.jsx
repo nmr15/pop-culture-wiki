@@ -1,19 +1,19 @@
 import { useState } from "react";
 
-const Collapse = () =>
+const Collapse = ({ id, item, sub, sub2}) =>
 {
   return(
     <>
       <div>
         <span class="sidebar-toggle">▼</span>
         <li class="sidebar-list-item sidebar-collapse">
-          <a href="#">List Item</a>
+          <a href={id}>{item}</a>
           <ul class="sidebar-collapse-sub">
             <li class="sidebar-list-item">
-              <a href="#">Sub List Item</a>
+              <a href="#">{sub}</a>
               <ul>
                 <li class="sidebar-list-item sidebar-collapse-sub2">
-                  <a href="#">Sub 2 List Item</a>
+                  <a href="#">{sub2}</a>
                 </li>
               </ul>
             </li>
