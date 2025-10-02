@@ -32,7 +32,9 @@ const Home = () =>
                 <div className="col-4" key={topic.id}>
                   <Link to={topic.route}>
                   <div className="card">
-                    <img src={topic.img} alt={topic.title} className="card-img-top" />
+                    <div className="card-top">
+                      <img src={topic.img} alt={topic.title} className="card-img" />
+                    </div>
                     <div className="card-body">
                       <p className="card-title">{topic.title}</p>
                     </div>
