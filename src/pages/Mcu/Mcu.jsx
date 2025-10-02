@@ -397,7 +397,10 @@ const Mcu = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="3" data-bs-toggle="collapse" data-bs-target="#collapseThree">Television series and specials</h2>
-          <div className="collapse show" id="collapseThree"></div>
+          <div className="collapse show" id="collapseThree">
+            <h3 className="article-heading-3" id="3.1">Marvel Television series</h3>
+            <h3 className="article-heading-3" id="3.2">Marvel Studios series</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="4" data-bs-toggle="collapse" data-bs-target="#collapseFour">Short films</h2>
