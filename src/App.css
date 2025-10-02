@@ -253,29 +253,14 @@ p
   padding-right: 3rem;
 }
 
-.card
+.card-top, .card-body
 {
-  width: 20rem;
-  margin: 0 auto;
-  border: none;
+  text-align: center;
 }
 
 .card-body
 {
-  text-align: center;
-}
-
-.card-title
-{
-  color: #0d6efd;
-}
-
-.card-img-top
-{
-  width: 20rem;
-  height: 10rem;
-  object-fit: contain;
-  text-align: center;
+  padding-top: 1rem;
 }
 
 table
