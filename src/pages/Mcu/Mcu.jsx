@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { mcu } from '../../data/dataMcu'
+import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
@@ -380,7 +381,13 @@ const Mcu = () =>
           <div className="collapse show" id="collapseTwo">
             <h3 className="article-heading-3" id="2.1">The Infinity Saga</h3>
             {infinity.map((inf) => (
-              <p key={inf.id}>{inf.title}</p>
+              <Card 
+                route={inf.route}
+                key={inf.id}
+                img={inf.img}
+                alt={inf.title}
+                title={inf.title}
+              />
             ))}
           </div>
         </div>
