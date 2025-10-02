@@ -51,6 +51,37 @@ const TableMcu = () =>
                                 </div>
                             </td>
                         </tr>
+                        <tr>
+                            <td rowSpan={3}>The Multiverse Saga</td>
+                            <td>Phase Four</td>
+                            <td>
+                                <div className="table-list">
+                                    {phaseFour.map((p4) => (
+                                        <a href="#" className="table-list-link" key={p4.id}>{p4.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phase Five</td>
+                            <td>
+                                <div className="table-list">
+                                    {phaseFive.map((p5) => (
+                                        <a href="#" className="table-list-link" key={p5.id}>{p5.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phase Six</td>
+                            <td>
+                                <div className="table-list">
+                                    {phaseSix.map((p6) => (
+                                        <a href="#" className="table-list-link" key={p6.id}>{p6.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
