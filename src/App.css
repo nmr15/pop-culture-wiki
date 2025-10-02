@@ -263,6 +263,11 @@ p
   padding-top: 1rem;
 }
 
+.card-img
+{
+  max-width: 100%
+}
+
 table
 {
   border-collapse: collapse;
