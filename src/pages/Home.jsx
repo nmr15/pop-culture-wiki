@@ -29,7 +29,7 @@ const Home = () =>
           <main className="main  py-4">
             <div className="row">
               {topics.map((topic) => (
-                <div className="col-3 my-3" key={topic.id}>
+                <div className="col-4" key={topic.id}>
                   <Link to={topic.route}>
                   <div className="card">
                     <img src={topic.img} alt={topic.title} className="card-img-top" />
