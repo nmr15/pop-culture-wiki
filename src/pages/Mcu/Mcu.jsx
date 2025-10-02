@@ -70,24 +70,18 @@ const Mcu = () =>
           />
           <li className="sidebar-list-item"><a href="#7">Recurring cast and characters</a></li>
           <li className="sidebar-list-item"><a href="#8">Reception</a></li>
-          <div className="accordion sidebar-list-item">
-            <span class="accordion-toggle dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#impact"
-              aria-expanded="true" aria-controls="impact">
-            </span>
-            <li className="d-inline ms-2"><a href="#9">Cultural impact</a>
-              <ul id="impact" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <li className="sidebar-list-item">
-                  <a href="#9.1">Other studios</a>
-                  <ul>
-                    <li className="sidebar-list-item"><a href="#9.1.1">DC Entertainment and Warner Bros. Pictures</a></li>
-                    <li className="sidebar-list-item"><a href="#9.1.2">20th Century Fox</a></li>
-                    <li className="sidebar-list-item"><a href="#9.1.3">Sony Pictures</a></li>
-                  </ul>
-                </li>
-                <li className="sidebar-list-item"><a href="#9.2">Academia</a></li>
-              </ul>
-            </li>
-          </div>
+          <Collapse 
+            id="9"
+            item="Cultural impact"
+            sub={[
+              {id: "9.1", title: "Other studios", sub2: [
+                {id: "9.1.1", title: "DC Entertainment and Warner Bros. Pictures"},
+                {id: "9.1.2", title: "20th Century Fox"},
+                {id: "9.1.3", title: "Sony Pictures"}
+              ]},
+              {id: "9.2", title: "Academia"}
+            ]}
+          />
         </ul>
       </nav>
       <main className="main" id="top">
