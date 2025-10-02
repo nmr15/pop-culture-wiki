@@ -16,11 +16,12 @@ const TableMcu = () =>
                 <table className="table-center">
                     <thead>
                         <tr>
-                            <th colSpan={2}>Marvel Cinematic Universe</th>
+                            <th colSpan={3}>Marvel Cinematic Universe</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
+                            <td rowSpan={3}>The Infinity Saga</td>
                             <td>Phase One</td>
                             <td>
                                 <div className="table-list">
@@ -36,6 +37,16 @@ const TableMcu = () =>
                                 <div className="table-list">
                                     {phaseTwo.map((p2) => (
                                         <a href="#" className="table-list-link" key={p2.id}>{p2.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phase Three</td>
+                            <td>
+                                <div className="table-list">
+                                    {phaseThree.map((p3) => (
+                                        <a href="#" className="table-list-link" key={p3.id}>{p3.title}</a>
                                     ))}
                                 </div>
                             </td>
