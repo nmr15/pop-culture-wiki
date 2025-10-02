@@ -380,15 +380,19 @@ const Mcu = () =>
           <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
           <div className="collapse show" id="collapseTwo">
             <h3 className="article-heading-3" id="2.1">The Infinity Saga</h3>
-            {infinity.map((inf) => (
-              <Card 
-                route={inf.route}
-                key={inf.id}
-                img={inf.img}
-                alt={inf.title}
-                title={inf.title}
-              />
+            <div className="row">
+              {infinity.map((inf) => (
+              <div className="col-4" key={inf.key}>
+                <Card 
+                  route={inf.route}
+                  key={inf.id}
+                  img={inf.img}
+                  alt={inf.title}
+                  title={inf.title}
+                />
+              </div>
             ))}
+            </div>
           </div>
         </div>
         <div>

@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom'
 
-const Card = ({ route, key, img, alt, title }) =>
+const Card = ({ route, img, alt, title }) =>
 {
   return(
     <>
         <Link to={route}>
-            <div className="card" key={key}>
+            <div className="card">
                 <div className="card-top">
                     <img src={img} alt={alt} className="card-img" />
                 </div>
