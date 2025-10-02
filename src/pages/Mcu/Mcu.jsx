@@ -3,6 +3,8 @@ import { mcu } from '../../data/dataMcu'
 import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
+const infinity = mcu.filter((mcu) => mcu.phase == 1 || mcu.phase == 2 || mcu.phase == 3);
+
 const Mcu = () => 
 {
   return (
@@ -376,7 +378,10 @@ const Mcu = () =>
         <div>
           <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
           <div className="collapse show" id="collapseTwo">
-
+            <h3 className="article-heading-3" id="2.1">The Infinity Saga</h3>
+            {infinity.map((inf) => (
+              <p key={inf.id}>{inf.title}</p>
+            ))}
           </div>
         </div>
         <div>
