@@ -434,63 +434,6 @@ const Mcu = () =>
           <div className="collapse show" id="collapseNine"></div>
         </div>
         <div>
-          <table className="table-center">
-            <thead>
-              <tr>
-                <th colSpan="4">Marvel Cinematic Universe</th>
-              </tr>
-              <tr>
-                <th colSpan="4">Marvel Studios</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td rowSpan="3">Infinity Saga</td>
-                <td>Phase One</td>
-                <td>
-                  <ul className="table-list">
-                    <li><a href="#">Iron Man</a></li>
-                    <li><a href="#">The Incredible Hulk</a></li>
-                    <li><a href="#">Iron Man 2</a></li>
-                    <li><a href="#">Thor</a></li>
-                    <li><a href="#">Captain America: The First Avenger</a></li>
-                    <li><a href="#">The Avengers</a></li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Phase Two</td>
-                <td>
-                  <ul className="table-list">
-                    <li><a href="#">Iron Man 3</a></li>
-                    <li><a href="#">Thor: The Dark World</a></li>
-                    <li><a href="#">Captain America: The Winter Soldier</a></li>
-                    <li><a href="#">Guardians of the Galaxy</a></li>
-                    <li><a href="#">Avengers: Age of Ultron</a></li>
-                    <li><a href="#">Ant-Man</a></li>
-                  </ul>
-                </td>
-              </tr>
-              <tr>
-                <td>Phase Three</td>
-                <td>
-                  <ul className="table-list">
-                    <li><a href="#">Captain America: Civil War</a></li>
-                    <li><a href="#">Doctor Strange</a></li>
-                    <li><a href="#">Guardians of the Galaxy Vol. 2</a></li>
-                    <li><a href="#">Spider-Man: Homecoming</a></li>
-                    <li><a href="#">Thor: Ragnarok</a></li>
-                    <li><a href="#">Black Panther</a></li>
-                    <li><a href="#">Avengers: Infinity War</a></li>
-                    <li><a href="#">Ant-Man and the Wasp</a></li>
-                    <li><a href="#">Captain Marvel</a></li>
-                    <li><a href="#">Avengers: Endgame</a></li>
-                    <li><a href="#">Spider-Man: Farm From Home</a></li>
-                  </ul>
-                </td>
-              </tr>
-            </tbody>
-          </table>
           <TableMcu />
         </div>
       </main>
