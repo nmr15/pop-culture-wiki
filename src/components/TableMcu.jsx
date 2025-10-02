@@ -26,7 +26,7 @@ const TableMcu = () =>
                             <td>
                                 <div className="table-list">
                                     {phaseOne.map((p1) => (
-                                        <a href="#" className="table-list-link" key={p1.id}>{p1.title}</a>
+                                        <Link to={p1.route} className="table-list-link" key={p1.id}>{p1.title}</Link>
                                     ))}
                                 </div>
                             </td>
