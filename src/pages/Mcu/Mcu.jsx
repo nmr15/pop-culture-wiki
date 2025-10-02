@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { mcu } from '../../data/dataMcu'
 import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
