@@ -462,8 +462,8 @@ export const mcu = [
     "file": "WhatIf",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/What_If...%3F_season_3_poster.jpeg",
     "route": "/mcu/what_if",
-    "media": "series 5",
-    "phase": ""
+    "media": "series",
+    "phase": "5"
   },
   {
     "id": "mcu53",
