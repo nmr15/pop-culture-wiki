@@ -84,7 +84,7 @@ const TableMcu = () =>
                         </tr>
                         <tr>
                             <td>Marvel Television</td>
-                            <td>
+                            <td colSpan={2}>
                                 <div className="table-list">
                                     {marveltv.map((tv) => (
                                         <Link to={tv.route} className="table-list-link" key={tv.id}>{tv.title}</Link>
