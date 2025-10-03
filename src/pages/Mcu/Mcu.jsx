@@ -5,6 +5,7 @@ import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
 const infinity = mcu.filter((mcu) => mcu.phase == 1 || mcu.phase == 2 || mcu.phase == 3);
+const multiverse = mcu.filter((mcu) => (mcu.phase == 4 || mcu.phase == 5 || mcu.phase == 6) && mcu.media == film);
 
 const Mcu = () => 
 {
@@ -385,13 +386,25 @@ const Mcu = () =>
               <div className="col-4" key={inf.key}>
                 <Card 
                   route={inf.route}
-                  key={inf.id}
                   img={inf.img}
                   alt={inf.title}
                   title={inf.title}
                 />
               </div>
             ))}
+            </div>
+            <h3 className="article-heading-3" id="2.2">The Multiverse Saga</h3>
+            <div className="row">
+              {multiverse.map((mul) => (
+                <div className="col-4" key={mul.id}>
+                  <Card 
+                    route={mul.route}
+                    img={mul.img}
+                    alt={mul.title}
+                    title={mul.title}
+                  />
+                </div>
+              ))}
             </div>
           </div>
         </div>
