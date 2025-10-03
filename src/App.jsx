@@ -1,6 +1,7 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
 import { communitychars } from "./data/dataCommunity"
+import { mcu } from "./data/dataMcu"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -31,6 +32,11 @@ const routes = communitychars.map(char => ({
   Component: lazy(() => import(`./pages/Community/${char.file}.jsx`))
 }));
 
+const routesMcu = mcu.map(mcu => ({
+  path: mcu.route,
+  Component: lazy(() => import(`./pages/Mcu/${mcu.file}.jsx`))
+}));
+
 function App() {
 
   return (
@@ -40,6 +46,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/mcu' element={<Mcu />} />
+        {routesMcu.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
         <Route path='/marvelcomics' element={<MarvelComics />} />
         <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
         <Route path='/starwars' element={<StarWars />} />
