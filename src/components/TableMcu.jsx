@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { mcu } from '../data/dataMcu'
+import { mcu, marveltv } from '../data/dataMcu'
 
 const phaseOne = mcu.filter((mcu) => mcu.phase == 1);
 const phaseTwo = mcu.filter((mcu) => mcu.phase == 2);
@@ -78,6 +78,16 @@ const TableMcu = () =>
                                 <div className="table-list">
                                     {phaseSix.map((p6) => (
                                         <a href="#" className="table-list-link" key={p6.id}>{p6.title}</a>
+                                    ))}
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Marvel Television</td>
+                            <td>
+                                <div className="table-list">
+                                    {marveltv.map((tv) => (
+                                        <Link to={tv.route} className="table-list-link" key={tv.id}>{tv.title}</Link>
                                     ))}
                                 </div>
                             </td>
