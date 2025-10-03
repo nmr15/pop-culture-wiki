@@ -623,3 +623,216 @@ export const marveltv = [
     "route": "/mcu/cloak_&_dagger"
   }
 ];
+
+export const mcuChar = [
+  {
+    "id": "mcuchar1",
+    "title": "Tony Stark (MCU)",
+    "file": "TonyStarkMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg/revision/latest/scale-to-width-down/535?cb=20240802142023",
+    "route": "/mcu/tony_stark"
+  },
+  {
+    "id": "mcuchar2",
+    "title": "Bruce Banner (MCU)",
+    "file": "BruceBannerMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Hulk_in_the_She-Hulk_series_-_Infobox.jpg/revision/latest?cb=20231020212314",
+    "route": "/mcu/bruce_banner"
+  },
+  {
+    "id": "mcuchar3",
+    "title": "Thor (MCU)",
+    "file": "ThorMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Thor_in_LoveAndThunder_Poster.jpg/revision/latest?cb=20231021012616",
+    "route": "/mcu/thor"
+  },
+  {
+    "id": "mcuchar4",
+    "title": "Steve Rogers (MCU)",
+    "file": "SteveRogersMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/Steve_Rogers_Infobox.jpg/revision/latest/scale-to-width-down/535?cb=20231025163634",
+    "route": "/mcu/steve_rogers"
+  },
+  {
+    "id": "mcuchar5",
+    "title": "Natasha Romanoff (MCU)",
+    "file": "NatashaRomanoffMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Black_Widow_Infobox.jpg/revision/latest?cb=20231025163748",
+    "route": "/mcu/natasha_romanoff"
+  },
+  {
+    "id": "mcuchar6",
+    "title": "Clint Barton (MCU)",
+    "file": "ClintBartonMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5b/Hawkeye_Infobox.jpg/revision/latest?cb=20240222145717",
+    "route": "/mcu/clint_barton"
+  },
+  {
+    "id": "mcuchar7",
+    "title": "James Rhodes (MCU)",
+    "file": "JamesRhodesMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest?cb=20231025163822",
+    "route": "/mcu/james_rhodes"
+  },
+  {
+    "id": "mcuchar8",
+    "title": "Phil Coulson (MCU)",
+    "file": "PhilCoulsonMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/98/Phil_Coulson_Infobox.jpg/revision/latest?cb=20250203215516",
+    "route": "/mcu/phil_coulson"
+  },
+  {
+    "id": "mcuchar9",
+    "title": "Maria Hill (MCU)",
+    "file": "MariaHillMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f4/Maria_Hill_Infobox.jpg/revision/latest?cb=20250203210426",
+    "route": "/mcu/maria_hill"
+  },
+  {
+    "id": "mcuchar10",
+    "title": "Nick Fury (MCU)",
+    "file": "NickFuryMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Nick_Fury_Profile.png/revision/latest/scale-to-width-down/535?cb=20240802141551",
+    "route": "/mcu/nick_fury"
+  },
+  {
+    "id": "mcuchar11",
+    "title": "Sam Wilson (MCU)",
+    "file": "SamWilsonMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Sam_Wilson_Infobox.jpg/revision/latest?cb=20250117164205",
+    "route": "/mcu/sam_wilson"
+  },
+  {
+    "id": "mcuchar12",
+    "title": "Peter Quill (MCU)",
+    "file": "PeterQuillMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Star-Lord_Infobox.jpg/revision/latest?cb=20241126002144",
+    "route": "/mcu/peter_quill"
+  },
+  {
+    "id": "mcuchar13",
+    "title": "Gamora (MCU)",
+    "file": "GamoraMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Gamora_Infobox.jpg/revision/latest/scale-to-width-down/536?cb=20231024023800",
+    "route": "/mcu/gamora"
+  },
+  {
+    "id": "mcuchar14",
+    "title": "Rocket (MCU)",
+    "file": "RocketMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Rocket_Vol._3.jpg/revision/latest?cb=20231114031203",
+    "route": "/mcu/rocket"
+  },
+  {
+    "id": "mcuchar15",
+    "title": "Groot (MCU)",
+    "file": "GrootMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cf/Old_Groot.png/revision/latest/scale-to-width-down/536?cb=20230815175849",
+    "route": "/mcu/groot"
+  },
+  {
+    "id": "mcuchar16",
+    "title": "Drax (MCU)",
+    "file": "DraxMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Drax_Vol._3.jpg/revision/latest?cb=20231113213618",
+    "route": "/mcu/drax"
+  },
+  {
+    "id": "mcuchar17",
+    "title": "Nebula (MCU)",
+    "file": "NebulaMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/37/Nebula_Vol._3.jpg/revision/latest?cb=20240802144159",
+    "route": "/mcu/nebula"
+  },
+  {
+    "id": "mcuchar18",
+    "title": "Wanda Maximoff (MCU)",
+    "file": "WandaMaximoffMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Scarlet_Witch_Infobox.jpg/revision/latest?cb=20250203231704",
+    "route": "/mcu/wanda_maximoff"
+  },
+  {
+    "id": "mcuchar19",
+    "title": "Piertro Maximoff (MCU)",
+    "file": "PietroMaximoffMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1e/Quicksilver_Infobox.jpg/revision/latest/scale-to-width-down/536?cb=20241211144208",
+    "route": "/mcu/piertro_maximoff"
+  },
+  {
+    "id": "mcuchar20",
+    "title": "Vision (MCU)",
+    "file": "VisionMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6e/Vision_Infobox.jpg/revision/latest?cb=20231024023951",
+    "route": "/mcu/vision"
+  },
+  {
+    "id": "mcuchar21",
+    "title": "Scott Land (MCU)",
+    "file": "ScottLangMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/46/Ant-Man_Infobox.png/revision/latest?cb=20231021014114",
+    "route": "/mcu/scott_lang"
+  },
+  {
+    "id": "mcuchar22",
+    "title": "Hope van Dyne (MCU)",
+    "file": "HopeVanDyneMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Wasp_Quantumania.jpg/revision/latest?cb=20231124223547",
+    "route": "/mcu/hope_van_dyne"
+  },
+  {
+    "id": "mcuchar23",
+    "title": "Hank Pym (MCU)",
+    "file": "HankPymMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/Hank_Pym_Quantumania.jpg/revision/latest?cb=20231124223815",
+    "route": "/mcu/hank_pym"
+  },
+  {
+    "id": "mcuchar24",
+    "title": "Peter Parker (MCU)",
+    "file": "PeterParkerMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Spider-Man_Infobox.jpg/revision/latest/scale-to-width-down/535?cb=20250708061114",
+    "route": "/mcu/peter_parker"
+  },
+  {
+    "id": "mcuchar25",
+    "title": "T'Challa (MCU)",
+    "file": "TchallaMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/T%27Challa_Infobox.jpg/revision/latest?cb=20231024023619",
+    "route": "/mcu/t'challa"
+  },
+  {
+    "id": "mcuchar26",
+    "title": "Shuri (MCU)",
+    "file": "ShuriMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/BlackPantherWFInfobox.jpg/revision/latest?cb=20240802145610",
+    "route": "/mcu/shuri"
+  },
+  {
+    "id": "mcuchar27",
+    "title": "Stephen Strange (MCU)",
+    "file": "StephenStrangeMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg/revision/latest?cb=20231021153337",
+    "route": "/mcu/stephen_strange"
+  },
+  {
+    "id": "mcuchar28",
+    "title": "Wong (MCU)",
+    "file": "WongMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Wong_in_She-Hulk.jpg/revision/latest?cb=20240802144541",
+    "route": "/mcu/wong"
+  },
+  {
+    "id": "mcuchar29",
+    "title": "Mantis (MCU)",
+    "file": "MantisMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Mantis_Infobox.jpg/revision/latest?cb=20241126000747",
+    "route": "/mcu/mantis"
+  },
+  {
+    "id": "mcuchar30",
+    "title": "Carol Danvers (MCU)",
+    "file": "CarolDanversMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_Marvel_Profile.png/revision/latest?cb=20240120054800",
+    "route": "/mcu/carol_danvers"
+  }
+];
