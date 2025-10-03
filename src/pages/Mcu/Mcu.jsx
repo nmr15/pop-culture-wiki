@@ -485,6 +485,15 @@ const Mcu = () =>
               What If...? between Avengers: Endgame and WandaVision, their second seasons after The Marvels, and Werewolf by Night after Thor: Love
               and Thunder. Werewolf by Night is also placed here in The Marvel Cinematic Universe: An Official Timeline.
             </p>
+            <h3 className="article-heading-3" id="6.2">Multiverse</h3>
+            <p>
+              The Official Handbook of the Marvel Universe A to Z, Vol. 5, published in 2008, originally designated the Marvel Cinematic Universe as
+              Earth-199999 within the continuity of Marve's comic multiverse, a collection of fictional alternate universes, although this designation
+              was rarely used officially outside of the source material. The television series Loki and What If...? were the first to explore the
+              concept of the multiverse within the MCU, as well as the film Spider-Man: No Way Home, which connected the MCU to 
+              other <Link>Spider-Man film franchises</Link> by featuring characters from <Link>Sam Raimi</Link>'s <Link>Spider-Man trilogy</Link> (2002 - 2007),
+              Marc Webb's <Link>The Amazing Spider-Man films</Link> (2012-14), and <Link>Sony's Spider-Man Universe</Link> (SSU).
+            </p>
           </div>
         </div>
         <div>
