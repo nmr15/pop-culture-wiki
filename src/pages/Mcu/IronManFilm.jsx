@@ -22,7 +22,7 @@ const IronManFilm = () =>
           <h1 className="article-heading">{page.title}</h1>
         </div>
         <div className="img-right img-top">
-          <img src={page.img} alt={page.title} className="article-heading-img" />
+          <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" alt={page.title} className="article-heading-img" />
         </div>
       </main>
     </>
