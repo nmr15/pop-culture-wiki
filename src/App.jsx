@@ -51,7 +51,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         {/* <Route path='/mcu' element={<Mcu />} /> */}
-        {routesMcuMeta.ap(({ path, Component}, index) => (
+        {routesMcuMeta.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
         {routesMcu.map(({ path, Component}, index) => (
