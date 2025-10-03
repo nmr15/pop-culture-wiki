@@ -498,7 +498,9 @@ const Mcu = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Recurring cast and characters</h2>
-          <div className="collapse show" id="collapseSeven"></div>
+          <div className="collapse show" id="collapseSeven">
+            <Link to="/mcu/characters">List of Marvel Cinematic Universe characters</Link>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Reception</h2>
