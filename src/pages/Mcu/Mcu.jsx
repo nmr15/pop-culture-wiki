@@ -426,6 +426,18 @@ const Mcu = () =>
               ))}
             </div>
             <h3 className="article-heading-3" id="3.2">Marvel Studios series</h3>
+            <div className="row">
+              {mcutv.map((mcutv) => (
+                <div className="col-3" key={mcutv.id}>
+                  <Card 
+                    route={mcutv.route}
+                    img={mcutv.img}
+                    alt={mcutv.title}
+                    title={mcutv.title}
+                  />
+                </div>
+              ))}
+            </div>
           </div>
         </div>
         <div>
