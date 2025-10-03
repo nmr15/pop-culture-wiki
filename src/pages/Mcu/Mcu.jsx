@@ -5,7 +5,7 @@ import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
 const infinity = mcu.filter((mcu) => mcu.phase == 1 || mcu.phase == 2 || mcu.phase == 3);
-const multiverse = mcu.filter((mcu) => (mcu.phase == 4 || mcu.phase == 5 || mcu.phase == 6) && mcu.media == film);
+const multiverse = mcu.filter((mcu) => (mcu.phase == 4 || mcu.phase == 5 || mcu.phase == 6) && mcu.media == "film");
 
 const Mcu = () => 
 {
