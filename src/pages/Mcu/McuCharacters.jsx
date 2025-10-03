@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import Card from '../../components/Card';
 import { mcuChar } from '../../data/dataMcu';
 
 const McuCharacters = () =>
