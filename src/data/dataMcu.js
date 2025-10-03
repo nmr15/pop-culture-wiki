@@ -1,3 +1,18 @@
+export const mcuMeta = [
+  {
+    "id": "mcumeta1",
+    "title": "Marvel Cinematic Universe",
+    "file": "Mcu",
+    "route": "/mcu"
+  },
+  {
+    "id": "mcumeta2",
+    "title": "Marvel Cinematic Universe Characters",
+    "file": "McuCharacters",
+    "route": "/mcu/characters"
+  }
+];
+
 export const mcu = [
   {
     "id": "mcu1",
