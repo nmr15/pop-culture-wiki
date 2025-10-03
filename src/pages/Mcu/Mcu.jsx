@@ -506,7 +506,13 @@ const Mcu = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Cultural impact</h2>
-          <div className="collapse show" id="collapseNine"></div>
+          <div className="collapse show" id="collapseNine">
+            <h3 className="article-heading-3" id="9.1">Other studios</h3>
+            <h4 className="article-heading-4" id="9.1.1">DC Entertainment and Warner Bros. Pictures</h4>
+            <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
+            <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
+            <h3 className="article-heading-3" id="9.2">Academia</h3>
+          </div>
         </div>
         <div>
           <TableMcu />
