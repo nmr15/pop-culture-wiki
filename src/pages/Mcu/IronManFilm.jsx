@@ -28,6 +28,9 @@ const IronManFilm = () =>
         </div>
         <div className="div-top">
           Iron Man is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character <Link>of the same name</Link>.
+          Produced by <Link>Marvel Studios</Link> and distributed by <Link>Paramount Pictures</Link>, it is the first film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
+          Directed by <Link>Jon Favreau</Link> from a screenplay by the writing team of Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway, the film
+          stars <Link>Roberty Downey Jr.</Link> as <Link>Tony Stark / Iron Man</Link> alongside
         </div>
       </main>
     </>
