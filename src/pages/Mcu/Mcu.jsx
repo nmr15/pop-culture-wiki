@@ -396,7 +396,7 @@ const Mcu = () =>
             <h3 className="article-heading-3" id="2.2">The Multiverse Saga</h3>
             <div className="row">
               {multiverse.map((mul) => (
-                <div className="col-4" key={mul.id}>
+                <div className="col-3" key={mul.id}>
                   <Card 
                     route={mul.route}
                     img={mul.img}
