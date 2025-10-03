@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { mcu } from '../../data/dataMcu'
+import { mcu, marveltv } from '../../data/dataMcu'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
@@ -412,6 +412,18 @@ const Mcu = () =>
           <h2 className="article-heading-2" id="3" data-bs-toggle="collapse" data-bs-target="#collapseThree">Television series and specials</h2>
           <div className="collapse show" id="collapseThree">
             <h3 className="article-heading-3" id="3.1">Marvel Television series</h3>
+            <div className="row">
+              {marveltv.map((tv) => (
+                <div className="col-3" key={tv.id}>
+                  <Card 
+                    route={tv.route}
+                    img={tv.img}
+                    alt={tv.title}
+                    title={tv.title}
+                  />
+                </div>
+              ))}
+            </div>
             <h3 className="article-heading-3" id="3.2">Marvel Studios series</h3>
           </div>
         </div>
