@@ -520,4 +520,91 @@ export const mcu = [
     "phase": 6
   }
 
-]
+];
+
+export const marveltv = [
+  {
+    "id": "mrvltel1",
+    "title": "Agents of S.H.I.E.L.D.",
+    "file": "AgentsOfShield",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Agents_of_S.H.I.E.L.D._logo.jpg",
+    "route": "/mcu/agents_of_shield"
+  },
+  {
+    "id": "mrvltel2",
+    "title": "Agent Carter",
+    "file": "AgentCarter",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Agent_Carter_%28TV_series%29_logo.png",
+    "route": "/mcu/agent_carter"
+  },
+  {
+    "id": "mrvltel3",
+    "title": "Inhumans",
+    "file": "Inhumans",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Inhumans_%28TV_series%29_logo.jpg",
+    "route": "/mcu/inhumans"
+  },
+  {
+    "id": "mrvltel4",
+    "title": "Most Wanted",
+    "file": "MostWanted",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Marvel%27s_Most_Wanted_logo.jpg",
+    "route": "/mcu/most_wanted"
+  },
+  {
+    "id": "mrvltel5",
+    "title": "Daredevil",
+    "file": "DaredevilSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Daredevil_%28TV_series%29_logo.jpg",
+    "route": "/mcu/daredevil_series"
+  },
+  {
+    "id": "mrvltel6",
+    "title": "Jessica Jones",
+    "file": "JessicaJonesSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Jessica_Jones_%28TV_series%29_logo.jpg",
+    "route": "/mcu/jessica_jones_series"
+  },
+  {
+    "id": "mrvltel7",
+    "title": "Luke Cage",
+    "file": "LukeCageSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/01/Luke_Cage_%28TV_series%29_logo.png",
+    "route": "/mcu/luke_cage_series"
+  },
+  {
+    "id": "mrvltel8",
+    "title": "Iron Fist",
+    "file": "IronFistSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/eb/Iron_Fist_%28TV_series%29_logo.png",
+    "route": "/mcu/iron_fist_series"
+  },
+  {
+    "id": "mrvltel9",
+    "title": "The Defenders",
+    "file": "TheDefendersSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/72/The_Defenders_%28miniseries%29_logo.jpg",
+    "route": "/mcu/the_defenders_series"
+  },
+  {
+    "id": "mrvltel10",
+    "title": "The Punisher",
+    "file": "ThePunisherSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Punisher_%28TV_series%29_logo.jpg",
+    "route": "/mcu/the_punisher_series"
+  },
+  {
+    "id": "mrvltel11",
+    "title": "Runaways",
+    "file": "RunawaysSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Runaways_%28TV_series%29_logo.jpg",
+    "route": "/mcu/runaways_series"
+  },
+  {
+    "id": "mrvltel12",
+    "title": "Cloak & Dagger",
+    "file": "CloakAndDaggerSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Cloak_%26_Dagger_%28TV_series%29_logo.jpg",
+    "route": "/mcu/cloak_&_dagger"
+  }
+];
