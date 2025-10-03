@@ -383,7 +383,7 @@ const Mcu = () =>
             <h3 className="article-heading-3" id="2.1">The Infinity Saga</h3>
             <div className="row">
               {infinity.map((inf) => (
-              <div className="col-4" key={inf.key}>
+              <div className="col-3" key={inf.key}>
                 <Card 
                   route={inf.route}
                   img={inf.img}
