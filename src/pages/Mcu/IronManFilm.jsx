@@ -20,7 +20,14 @@ const IronManFilm = () =>
           <h1 className="article-heading">Iron Man</h1>
         </div>
         <div className="img-right img-top">
-          <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" alt="Iron Man" className="article-heading-img" />
+          <img 
+            src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" 
+            alt="Iron Man" 
+            className="article-heading-img" 
+          />
+        </div>
+        <div className="div-top">
+          Iron Man is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character <Link>of the same name</Link>.
         </div>
       </main>
     </>
