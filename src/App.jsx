@@ -1,7 +1,7 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
 import { communitychars } from "./data/dataCommunity"
-import { mcu } from "./data/dataMcu"
+import { mcu, mcuMeta } from "./data/dataMcu"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -14,7 +14,7 @@ import GravityFalls from "./pages/GravityFalls/GravityFalls"
 import Gta from "./pages/Gta/Gta"
 import Himym from "./pages/Himym/Himym"
 import MarvelComics from "./pages/MarvelComics/MarvelComics"
-import Mcu from "./pages/Mcu/Mcu"
+// import Mcu from "./pages/Mcu/Mcu"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 import Spongebob from "./pages/Spongebob/Spongebob"
 import StarWars from "./pages/StarWars/StarWars"
@@ -32,6 +32,11 @@ const routes = communitychars.map(char => ({
   Component: lazy(() => import(`./pages/Community/${char.file}.jsx`))
 }));
 
+const routesMcuMeta = mcuMeta.map(mcumeta => ({
+  path: mcumeta.route,
+  Component: lazy(() => import(`./pages/Mcu/${mcumeta.file}.jsx`))
+}));
+
 const routesMcu = mcu.map(mcu => ({
   path: mcu.route,
   Component: lazy(() => import(`./pages/Mcu/${mcu.file}.jsx`))
@@ -45,7 +50,10 @@ function App() {
       <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/mcu' element={<Mcu />} />
+        {/* <Route path='/mcu' element={<Mcu />} /> */}
+        {routesMcuMeta.ap(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
         {routesMcu.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
