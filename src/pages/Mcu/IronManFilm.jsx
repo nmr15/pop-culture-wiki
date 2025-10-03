@@ -19,7 +19,7 @@ const IronManFilm = () =>
       </aside>
       <main className="main" id="top">
         <div>
-          <h1 className="article-heading">{page.title}}</h1>
+          <h1 className="article-heading">{page.title}</h1>
         </div>
         <div className="img-right img-top">
           <img src={page.img} alt={page.title} className="article-heading-img" />
