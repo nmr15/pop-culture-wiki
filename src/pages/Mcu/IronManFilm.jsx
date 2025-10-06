@@ -25,6 +25,26 @@ const IronManFilm = () =>
               {id: "3.4", title: "Post-production"}
             ]}
           />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office"},
+              {id: "7.2", title: "Critical reception"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Sequels</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
