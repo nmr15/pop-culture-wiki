@@ -526,7 +526,18 @@ const Mcu = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Reception</h2>
-          <div className="collapse show" id="collapseEight"></div>
+          <div className="collapse show" id="collapseEight">
+            Early on, the shared universe element of the Marvel Cinematic Universe was criticized by some journalists. Around the release of
+            The Avengers in 2012, Jim Vorel of Herald & Review called the Marvel Cinematic Universe "complicated" and "impressive", but
+            said, "As more and more heroes get their own film adaptations, the overall universe becomes increasingly confusing." Kofi Outlaw
+            of Screen Rant stated that while The Avengers was a success, "Marvel Studios still has room to improve their approach to building
+            a shared movie universe". Some reviewers criticized the fact that the desire to create a shared universe led to films that did
+            not hold as well on their own. In his review of Thor: The Dark World, Forbes critic Scott mendelson likened the MCU to "a glorified
+            television series", with The Dark World being a "'stand-alone' episode that contains little long-range mythology". Collider's
+            Matt Goldberg considered that while Iron Man 2, Thor, and Captain America: The First Avenger were quality productions, "they had
+            never really been their own movies", feeling that the plot detours to S.H.I.E.L.D. or leads-up to The Avengers dragged down the
+            films' narratives.
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Cultural impact</h2>
