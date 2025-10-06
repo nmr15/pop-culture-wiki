@@ -87,7 +87,27 @@ const IronManFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Plot</h2>
-          <div></div>
+          <div>
+            <p>
+              <Link>Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
+              war-torn Afghanistan with his best friend and military liasion, <Link>James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
+              demonstration, his convoy is ambushed by a terrorist group, the <Link>Ten Rings</Link>, and Stark is gravely wounded by a missile used by the attackers,
+              one of his company's own. He is captured and imprisoned in a cave by the Ten Rings. <Link>Yinsen</Link>, a fellow captive and doctor, implants an
+              electromagnet into Stark's chest to keep the shrapnel shards that wounded him from reaching his heart and killing him. Ten Rings leader <Link>Raza</Link>,
+              offers Stark freedom in exchange for building a Jericho missile for the group, but he and Yinsen believe that Raza will not keep his word.
+            </p>
+            <p>
+              Stark and Yinsen secretly build a small, powerful electric generator called an <Link>arc reactor</Link> to power Stark's electromagnet and construct a
+              prototype armored suit to aid in their escape. Although they keep the suit hidden, the Ten Rings discover their intentions and attack the workshop.
+              Yinsen sacrifices himself to divert them while the suit powers up. The armored Stark battles his way out of the cave to find the dying Yinsen, then
+              burns the Ten Rings' weapons and flies away, crashing in the desert and destroying the suit. After being rescued by Rhodes, Stark returns home and
+              announces that his company will cease manufacturing weapons. <Link>Obadiah Stane</Link>, his father's old partner and the company's manager, advises
+              Stark that this will bankrupt Stark Industries and ruin his father's legacy. In his home workshop, Stark builds a sleeker, more powerful version of
+              his improvised armor suit as well as a more powerful arc reactor for it and his chest after testing a prototype. Personal assistant
+              <Link> Pepper Potts</Link> places the original reactor inside a small glass showcase. Though Stane requests details, a suspicious Stark decides to keep
+              his work to himself.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
