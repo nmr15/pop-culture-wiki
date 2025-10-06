@@ -558,6 +558,14 @@ const Mcu = () =>
               decades. There's something legitimately exciting about the way the medium tells stories when it's good, and if nothing else, Marvel's
               success shows the film world could learn from that."
             </p>
+            <p>
+              Following the conclusion of season of Agents of S.H.I.E.L.D., Mary McNamara at the Los Angeles Times praised the connections
+              between the series and the films, stating that "never before has television been literally married to film, charged with
+              filling in the back story and creating the connective tissue of an ongoing film franchise ...[Agents of S.H.I.E.L.D.] is now
+              not only a very good show in its own right, it's part of Marvel's multiplatform city-state. It faces a future of perpetual
+              re-invention, and that puts it in the exhilirating first car of television's roller-coaster ride toward possible world
+              domination."
+            </p>
           </div>
         </div>
         <div>
