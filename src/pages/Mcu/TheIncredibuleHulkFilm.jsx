@@ -1,10 +1,13 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
+import TableMcu from "../../components/TableMcu"
+
 const TheIncredibuleHulkFilm = () =>
 {
   return(
     <>
-      <div>
-        <h1>The Incredible Hulk</h1>
-      </div>
+      <aside className="sidebar"></aside>
+      
     </>
   )
 }

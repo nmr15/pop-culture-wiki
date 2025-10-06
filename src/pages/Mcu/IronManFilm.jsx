@@ -1,6 +1,4 @@
 import { Link } from 'react-router-dom'
-import { mcu, marveltv } from '../../data/dataMcu'
-import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableMcu from "../../components/TableMcu"
 
