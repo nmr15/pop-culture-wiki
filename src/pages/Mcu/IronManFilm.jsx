@@ -69,6 +69,50 @@ const IronManFilm = () =>
           Directed by <Link>Jon Favreau</Link> from a screenplay by the writing team of Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway, the film
           stars <Link>Roberty Downey Jr.</Link> as <Link>Tony Stark / Iron Man</Link> alongside
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Plot</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Cast</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Production</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Music</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Release</h2>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <h3 className="article-heading-3" id="6.2">Home media</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <h3 className="article-heading-3" id="7.2">Critical reception</h3>
+            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Sequels</h2>
+          <div></div>
+        </div>
       </main>
     </>
   )
