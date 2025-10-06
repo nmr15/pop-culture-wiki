@@ -169,6 +169,23 @@ p
   transition: .5s;
 }
 
+.breadcrumb
+{
+  list-style: none;
+}
+
+.breadcrumb li
+{
+  display: inline;
+}
+
+.breadcrumb li+li:before
+{
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
 .img-top
 {
   padding-top: 1rem;
