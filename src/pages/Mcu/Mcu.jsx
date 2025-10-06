@@ -118,8 +118,8 @@ const Mcu = () =>
             <Link to="mcu/the_avengers_film"> The Avengers</Link>. <a href="#">Phase Two</a> begain with <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013) and concluded with <Link to="/mcu/antman_film">Ant-Man</Link> (2015), while
             <a href="#"> Phase Three</a> began with <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016) and concluded with <Link to="/mcu/spiderman_far_from_home">Spider-Man: Far From Home</Link> (2019).
             <Link to="/mcu/black_widow_film">Black Widow</Link> (2021) is the first film in <a href="#">Phase Four</a>, which concluded with <Link to="/mcu/black_panther_wakanda_forever">Black Panther: Wakanda Forever</Link> (2022),
-            while <a href="#">Phase Five</a> began with <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link> (2023) and will conclude with <a href="#">Thunderbolts*</a> (2025).
-            <a href="#">Phase Six</a> will begin with <a href="#">The Fantastic Four: First Steps</a> (2025) and it will conclude with <a href="#">Avengers: Doomsday</a>
+            while <a href="#">Phase Five</a> began with <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link> (2023) and concluded with <Link to="/mcu/thunderbolts">Thunderbolts*</Link> (2025).
+            <a href="#">Phase Six</a> will begin with <Link to="/mcu/the_fantastic_four_first_steps">The Fantastic Four: First Steps</Link> (2025) and it will conclude with <Link>Avengers: Doomsday</Link>.
             (2026) and <a href="#">Avengers: Secret Wars</a> (2027).
           </p>
           <p>
