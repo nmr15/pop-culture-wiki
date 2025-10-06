@@ -107,6 +107,16 @@ const IronManFilm = () =>
               <Link> Pepper Potts</Link> places the original reactor inside a small glass showcase. Though Stane requests details, a suspicious Stark decides to keep
               his work to himself.
             </p>
+            <p>
+              At a charity event, reporter <Link>Christine Everhart</Link> informs Stark that his company's weapons were recently delivered to the Ten Rings and are
+              being used to attack Yinsen's home village. Stark dons his new armor and flies to Afghanistan, where he fends off the terrorists and saves the villagers.
+              While flying home, Stark is intercepted by the Air Force. He reveals his secret identity to Rhodes over the phone to end the attack. Meanwhile, the Ten
+              Rings gather the pieces of Stark's prototype suit and meet with Stane, who has been trafficking arms to the Ten Rings and has staged a coup to replace
+              Stark as Stark Industries' CEO by hiring the Ten Rings to kill him. He subdues Raza and has him and the rest of the group killed. Stane has a massive
+              new armor suit reverse-engineered from the wreckage. Seeking to track his company's illegal shipments, Stark sends Potts to hack into its database. She
+              discovers that Stane hired the Ten Rings to kill Stark, but the group altered their plans when they realized they had a direct route to Stark's weapons.
+              Potts meets with Agent <Link>Phil Coulson</Link> of <Link>S.H.I.E.L.D.</Link>, an intelligence agency, to inform him of Stane's activities.
+            </p>
           </div>
         </div>
         <div>
