@@ -53,7 +53,23 @@ const TheIncredibuleHulkFilm = () =>
           />
         </ul>
       </aside>
-      <main className="main" id="top"></main>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
+          <li>The Incredible Hulk (film)</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">The Incredible Hulk (film)</h1>
+        </div>
+        <div className="img-right img-top">
+          <img 
+            src="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg" 
+            alt="The Incredible Hulk" 
+            className="article-heading-img" 
+          />
+        </div>
+      </main>
     </>
   )
 }

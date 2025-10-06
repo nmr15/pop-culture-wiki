@@ -50,7 +50,7 @@ const IronManFilm = () =>
           <li>Iron Man (film)</li>
         </ul>
         <div>
-          <h1 className="article-heading">Iron Man</h1>
+          <h1 className="article-heading">Iron Man (film)</h1>
         </div>
         <div className="img-right img-top">
           <img 
