@@ -113,6 +113,9 @@ const IronManFilm = () =>
           <h2 className="article-heading-2" id="8">Sequels</h2>
           <div></div>
         </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
