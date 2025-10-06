@@ -114,9 +114,9 @@ const Mcu = () =>
           </p>
           <p>
             Marvel Studios releases its films in groupd called "Phases", with the first three phases collectively known as "The Infinity Saga" and the following three phases
-            as "The Multiverse Saga". The first MCU film, <a href="#">Iron Man</a> (2008), began <a href="#">Phase One</a>, which culminated in the 2012 crossover film
-            <a href="#"> The Avengers</a>. <a href="#">Phase Two</a> begain with <a href="#">Iron Man 3</a> (2013) and concluded with <a href="#">Ant-Man</a> (2015), while
-            <a href="#"> Phase Three</a> began with <a href="#">Captain America: Civil War</a> (2016) and concluded with <a href="#">Spider-Man: Far From Home</a> (2019).
+            as "The Multiverse Saga". The first MCU film, <Link to="/mcu/iron_man_film">Iron Man</Link> (2008), began <a href="#">Phase One</a>, which culminated in the 2012 crossover film
+            <Link to="mcu/the_avengers_film"> The Avengers</Link>. <a href="#">Phase Two</a> begain with <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013) and concluded with <Link to="/mcu/antman_film">Ant-Man</Link> (2015), while
+            <a href="#"> Phase Three</a> began with <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016) and concluded with <a href="#">Spider-Man: Far From Home</a> (2019).
             <a href="#"> Black Widow</a> (2021) is the first film in <a href="#">Phase Four</a>, which concluded with <a href="#">Black Panther: Wakanda Forever</a> (2022),
             while <a href="#">Phase Five</a> began with <a href="#">Ant-Man and the Wasp: Quantumania</a> (2023) and will conclude with <a href="#">Thunderbolts*</a> (2025).
             <a href="#">Phase Six</a> will begin with <a href="#">The Fantastic Four: First Steps</a> (2025) and it will conclude with <a href="#">Avengers: Doomsday</a>
