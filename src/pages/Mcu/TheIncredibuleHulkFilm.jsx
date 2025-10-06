@@ -6,8 +6,54 @@ const TheIncredibuleHulkFilm = () =>
 {
   return(
     <>
-      <aside className="sidebar"></aside>
-      
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Filming"},
+              {id: "3.4", title: "Post-production", sub2: [
+                {id: "3.4.1", title: "Editing"},
+                {id: "3.4.2", title: "Visual effects"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office"},
+              {id: "7.2", title: "Critical reception"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Future"
+            sub={[
+              {id: "8.1", title: "Future MCU appearances"},
+              {id: "8.2", title: "Potential sequel"}
+            ]}
+          />
+        </ul>
+      </aside>
+      <main className="main" id="top"></main>
     </>
   )
 }

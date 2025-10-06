@@ -8,9 +8,7 @@ const IronManFilm = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item">
-            <a href="#top">Top</a>
-          </li>
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Plot</a></li>
           <li className="sidebar-list-item"><a href="#2">Cast</a></li>
           <Collapse 
