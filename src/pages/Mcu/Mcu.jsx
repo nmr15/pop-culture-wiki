@@ -507,6 +507,15 @@ const Mcu = () =>
               and its sequel <Link>Fantastic Four: Rise of the Silver Surfer</Link> (2007), and New Line Cinema's Blade film trilogy (1994-2004).
               Phases Four, Five, and Six comprise "<Link>The Multiverse Saga</Link>".
             </p>
+            <p>
+              With the release of The Marvel Cinematic Universe: An Official Timeline in October 2023, Feige wrote in its foreword that Marvel Studios
+              only considers, at that time, projects developed by them in their first four phases as part of their "<Link>Sacred Timeline</Link>", but
+              acknowledged the history of <Link>other Marvel films</Link> and <Link>television series</Link> that would exist in the larger multiverse
+              and said they were "canonical to Marvel". In January 2024, Winderbaum acknowledged that Marvel Studios had previously been "a little bit
+              cagey" about what was part of their Sacred Timeline, noting how there had been the corporate divide between what Marvel Studios created
+              and what Marvel Television created. He continued that as time had passed, Marvel Studios began to see "how well integrated the [Marvel
+              Televison] stores are" and personally felt confident in saying Marvel Television's Daredevil was part of the Sacred Timeline.
+            </p>
           </div>
         </div>
         <div>
