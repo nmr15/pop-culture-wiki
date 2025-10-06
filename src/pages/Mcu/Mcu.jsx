@@ -92,7 +92,7 @@ const Mcu = () =>
       </aside>
       <main className="main" id="top">
         <ul class="breadcrumb">
-          <li><a href="#">Home</a></li>
+          <li><Link to="/">Home</Link></li>
           <li>Marvel Cinematic Universe</li>
         </ul>
         <div>
