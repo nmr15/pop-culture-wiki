@@ -494,9 +494,18 @@ const Mcu = () =>
               The Official Handbook of the Marvel Universe A to Z, Vol. 5, published in 2008, originally designated the Marvel Cinematic Universe as
               Earth-199999 within the continuity of Marve's comic multiverse, a collection of fictional alternate universes, although this designation
               was rarely used officially outside of the source material. The television series Loki and What If...? were the first to explore the
-              concept of the multiverse within the MCU, as well as the film Spider-Man: No Way Home, which connected the MCU to 
+              concept of the multiverse within the MCU, as well as the film Spider-Man: No Way Home, which connected the MCU to
               other <Link>Spider-Man film franchises</Link> by featuring characters from <Link>Sam Raimi</Link>'s <Link>Spider-Man trilogy</Link> (2002 - 2007),
-              Marc Webb's <Link>The Amazing Spider-Man films</Link> (2012-14), and <Link>Sony's Spider-Man Universe</Link> (SSU).
+              Marc Webb's <Link>The Amazing Spider-Man films</Link> (2012-14), and <Link>Sony's Spider-Man Universe</Link> (SSU). The SSU
+              film <Link>Venom: Let There Be Carnage</Link> (2021) briefly featured the main universe of the MCU as well. In Doctor Strange in the
+              Multiverse of Madness, the main universe of MCU events was designated as <Link>Earth-606</Link> (a designation first referenced in
+              Spider-Man: Far From Home), sharing the name of the <Link>main Marvel Comics universe</Link>, while another universe was designated
+              as <Link>Earth-838</Link>. Sony's animated film <Link>Spider-Man: Across the Spider-Verse</Link> (2023) referenced the events of No
+              Way Home, citing the MCU's primary reality as Earth-199999. <Link>20th Century Fox</Link>'s <Link>X-Men film series</Link> (2000-2020)
+              is designated as Earth-10005 in Deadpool & Wolverine. That film features several actors reprising their roles from the X-Men film series
+              along with characters from Fox's films <Link>Daredevil</Link> (2003) and its spin-off <Link>Elektra</Link> (2005), <Link>Fantastic Four</Link> (2005)
+              and its sequel <Link>Fantastic Four: Rise of the Silver Surfer</Link> (2007), and New Line Cinema's Blade film trilogy (1994-2004).
+              Phases Four, Five, and Six comprise "<Link>The Multiverse Saga</Link>".
             </p>
           </div>
         </div>
