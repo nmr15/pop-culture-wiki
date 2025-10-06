@@ -10,9 +10,21 @@ const IronManFilm = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-ite">
+          <li className="sidebar-list-item">
             <a href="#top">Top</a>
           </li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Filming"},
+              {id: "3.4", title: "Post-production"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
