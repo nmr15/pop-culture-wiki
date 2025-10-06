@@ -91,7 +91,11 @@ const Mcu = () =>
         </ul>
       </aside>
       <main className="main" id="top">
-        <div >
+        <ul class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li>Marvel Cinematic Universe</li>
+        </ul>
+        <div>
           <h1 className="article-heading">Marvel Cinematic Universe</h1>
         </div>
         <div className="img-right img-top">
