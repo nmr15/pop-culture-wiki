@@ -110,15 +110,15 @@ const Mcu = () =>
             The <b>Marvel Cinematic Universe</b> is an American media franchise and shared universe centered on <a href="#">a series</a> of superhero films
             produced by <a href="#">Marvel Studios</a>. The films are based on characters that appear in American comic books published by <a href="#">Marvel Comics</a>.
             The franchise also includes <a href="#">several television series</a>, short films, digital series, and literature. The shared universe, much like the original
-            <a href="#">Marvel Universe</a> in comic books, was established by crossing over common plot elements, settings, cast, and characters.
+            <a href="#"> Marvel Universe</a> in comic books, was established by crossing over common plot elements, settings, cast, and characters.
           </p>
           <p>
             Marvel Studios releases its films in groupd called "Phases", with the first three phases collectively known as "The Infinity Saga" and the following three phases
             as "The Multiverse Saga". The first MCU film, <Link to="/mcu/iron_man_film">Iron Man</Link> (2008), began <a href="#">Phase One</a>, which culminated in the 2012 crossover film
             <Link to="mcu/the_avengers_film"> The Avengers</Link>. <a href="#">Phase Two</a> begain with <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013) and concluded with <Link to="/mcu/antman_film">Ant-Man</Link> (2015), while
-            <a href="#"> Phase Three</a> began with <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016) and concluded with <a href="#">Spider-Man: Far From Home</a> (2019).
-            <a href="#"> Black Widow</a> (2021) is the first film in <a href="#">Phase Four</a>, which concluded with <a href="#">Black Panther: Wakanda Forever</a> (2022),
-            while <a href="#">Phase Five</a> began with <a href="#">Ant-Man and the Wasp: Quantumania</a> (2023) and will conclude with <a href="#">Thunderbolts*</a> (2025).
+            <a href="#"> Phase Three</a> began with <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016) and concluded with <Link to="/mcu/spiderman_far_from_home">Spider-Man: Far From Home</Link> (2019).
+            <Link to="/mcu/black_widow_film">Black Widow</Link> (2021) is the first film in <a href="#">Phase Four</a>, which concluded with <Link to="/mcu/black_panther_wakanda_forever">Black Panther: Wakanda Forever</Link> (2022),
+            while <a href="#">Phase Five</a> began with <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link> (2023) and will conclude with <a href="#">Thunderbolts*</a> (2025).
             <a href="#">Phase Six</a> will begin with <a href="#">The Fantastic Four: First Steps</a> (2025) and it will conclude with <a href="#">Avengers: Doomsday</a>
             (2026) and <a href="#">Avengers: Secret Wars</a> (2027).
           </p>
