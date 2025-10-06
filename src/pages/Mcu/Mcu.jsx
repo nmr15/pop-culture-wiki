@@ -527,16 +527,37 @@ const Mcu = () =>
         <div>
           <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Reception</h2>
           <div className="collapse show" id="collapseEight">
-            Early on, the shared universe element of the Marvel Cinematic Universe was criticized by some journalists. Around the release of
-            The Avengers in 2012, Jim Vorel of Herald & Review called the Marvel Cinematic Universe "complicated" and "impressive", but
-            said, "As more and more heroes get their own film adaptations, the overall universe becomes increasingly confusing." Kofi Outlaw
-            of Screen Rant stated that while The Avengers was a success, "Marvel Studios still has room to improve their approach to building
-            a shared movie universe". Some reviewers criticized the fact that the desire to create a shared universe led to films that did
-            not hold as well on their own. In his review of Thor: The Dark World, Forbes critic Scott mendelson likened the MCU to "a glorified
-            television series", with The Dark World being a "'stand-alone' episode that contains little long-range mythology". Collider's
-            Matt Goldberg considered that while Iron Man 2, Thor, and Captain America: The First Avenger were quality productions, "they had
-            never really been their own movies", feeling that the plot detours to S.H.I.E.L.D. or leads-up to The Avengers dragged down the
-            films' narratives.
+            <p>
+              Early on, the shared universe element of the Marvel Cinematic Universe was criticized by some journalists. Around the release of
+              The Avengers in 2012, Jim Vorel of Herald & Review called the Marvel Cinematic Universe "complicated" and "impressive", but
+              said, "As more and more heroes get their own film adaptations, the overall universe becomes increasingly confusing." Kofi Outlaw
+              of Screen Rant stated that while The Avengers was a success, "Marvel Studios still has room to improve their approach to building
+              a shared movie universe". Some reviewers criticized the fact that the desire to create a shared universe led to films that did
+              not hold as well on their own. In his review of Thor: The Dark World, Forbes critic Scott mendelson likened the MCU to "a glorified
+              television series", with The Dark World being a "'stand-alone' episode that contains little long-range mythology". Collider's
+              Matt Goldberg considered that while Iron Man 2, Thor, and Captain America: The First Avenger were quality productions, "they had
+              never really been their own movies", feeling that the plot detours to S.H.I.E.L.D. or leads-up to The Avengers dragged down the
+              films' narratives.
+            </p>
+            <p>
+              The metaphor of the MCU as "the world's biggest TV show" was discussed again, after the release of Captain America: Civil War, by
+              Emily St. James of Vox, who felt that film in particular highlighted Marvel's success with the model, saying, "Viewed in complete
+              isolation, the plot of Captain America: Civil War makes little to no sense ...[but] when you think about where [Captain America]
+              has been in earlier Marvel films ...his leeriness about being a subject to oversight makes a lot more sense." St. James continued
+              that when thinking about the MCU as a television series, many "common criticisms people tent to level at it take on a new context"
+              such as complaining that the films are formulaic, lack "visual spark", or "shoehorning in story elements" that "are necessary to
+              set up future films", all characteristics that "are fairly typical on television, where a director's influence is much lower than
+              that of the showrunner", in this case, Feige. Comparing the films to the series Game of Thrones specifically, St. James noted that
+              each solo film checks "in on various characters and their individual side stories, before bringing everyone together in the finale
+              (or, rather, an Avengers film)", with Guardians of the Galaxy being equivalent to the character Daeners Targaryen, "both separated
+              by long distance from everybody else". She noted that this format was an extension of early "TV-like" film franchises such as Star
+              Swars, as well as the format of the comics upon which the films are based. "I say all of this not to suggest that film franchises
+              resembling TV series is necessarily a good trend", St. James concluded, "For as much as I generally enjoy the Marvel movies, I'm
+              disheartened by the possibility that their particular form might take over the film industry ...But I also don't think it's the
+              end of the world if Marvel continues on ...there's a reason TV has stolen so much of the cultural conversation over the past few
+              decades. There's something legitimately exciting about the way the medium tells stories when it's good, and if nothing else, Marvel's
+              success shows the film world could learn from that."
+            </p>
           </div>
         </div>
         <div>
