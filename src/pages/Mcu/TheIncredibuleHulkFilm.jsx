@@ -69,6 +69,15 @@ const TheIncredibuleHulkFilm = () =>
             className="article-heading-img" 
           />
         </div>
+        <div className="div-top">
+          <p>
+            The Incredible Hulk
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Plot</h2>
+          <h2 className="article-heading-2" id="2">Cast</h2>
+        </div>
       </main>
     </>
   )
