@@ -1,16 +1,22 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
 import TableBeatles from "../../components/TableBeatles"
 
 const Beatles = () => 
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
-        <ul>
-          <li className="py-1">
-            <a href="#top">Top</a>
-          </li>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <Collapse 
+            id="1"
+            item="History"
+            sub={[
+              {id: "1.1", title: "1956-1963: Formation"}
+            ]}
+          />
         </ul>
-      </nav>
+      </aside>
       <main className="main px-5 py-4">
         <div id="top">
           <h1 className="article-heading">The Beatles</h1>
