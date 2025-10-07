@@ -12,7 +12,11 @@ const Beatles = () =>
             id="1"
             item="History"
             sub={[
-              {id: "1.1", title: "1956-1963: Formation"}
+              {id: "1.1", title: "1956-1963: Formation", sub2: [
+                {id: "1.1.1", title: "The Quarrymen and name change"},
+                {id: "1.1.2", title: "Early residencies and UK popularity"},
+                {id: "1.1.3", title: "First EMI recordings"}
+              ]}
             ]}
           />
         </ul>
