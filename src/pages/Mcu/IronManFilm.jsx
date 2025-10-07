@@ -137,7 +137,17 @@ const IronManFilm = () =>
             <ul className="article-list">
               <li>
                 <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>:<br />
-                An industrialist, genius inventor,
+                An industrialist, genius inventor, and playboy, he is CEO of Stark Industries and chief weapons manufacturer for the U.S. military. Director Jon
+                Favreau felt that Downey's past made him an appropriate choice for the part and that the actor could not only make Stark a "likeable asshole."
+                but also portray an authentic emotional journey, one he had won over the audience. Favreau was also attracted to Downey because of his performance
+                in <Link>Kiss Kiss Bang Bang</Link>. Downey frequently spoke with the film's director, <Link>Shane Black</Link>, about the script and dialogue in
+                Iron Man. Downey had an office next to Favreau during pre-production, which allowed him greater involvement in the screenwriting process, especially
+                when it came to adding humor to the film. Downey explained, "What I usually hate about these [superhero] movies [is] when suddenly the guy that you
+                were digging turns into Dudley Do-Right, and then you're supposed to buy into all his 'Let's go do some good!' That Eliot Ness-in-a-cape-type thing.
+                What was really important to me was to not have him change so much that he's unrecognizable. When someone used to be a schmuck and they're not
+                anymore, hopefully they still have a sense of humor." To get into shape, Downey spent five days a week weight training and practiced martial arts,
+                which he said benefited him because "it's hard not to have a personality meltdown ...after about several hours in that suit. I'm calling up
+                every therapeutic moment I can think of to just get them through the day."
               </li>
             </ul>
           </div>
