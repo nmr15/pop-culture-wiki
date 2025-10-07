@@ -134,7 +134,7 @@ const IronManFilm = () =>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
           <div>
-            <ul>
+            <ul className="article-list">
               <li>
                 <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>:<br />
                 An industrialist, genius inventor,

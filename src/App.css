@@ -236,6 +236,11 @@ p
   max-width: 20rem;
 }
 
+.article-list
+{
+  margin-left: 1rem;
+}
+
 .character-card
 {
   width: 15rem !important;
