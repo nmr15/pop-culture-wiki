@@ -108,6 +108,21 @@ const TheIncredibuleHulkFilm = () =>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <h3 className="article-heading-3" id="7.2">Critical reception</h3>
+            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Future</h2>
+          <div>
+            <h3 className="article-heading-3" id="8.1">Future MCU appearances</h3>
+            <h3 className="article-heading-3" id="8.2">Potential sequel</h3>
+          </div>
+        </div>
       </main>
     </>
   )
