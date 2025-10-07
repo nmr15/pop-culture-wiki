@@ -86,6 +86,11 @@ const TheIncredibuleHulkFilm = () =>
           <h2 className="article-heading-2" id="3">Production</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <h4 className="article-heading-4" id="3.4.1">Editing</h4>
+            <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
           </div>
         </div>
       </main>
