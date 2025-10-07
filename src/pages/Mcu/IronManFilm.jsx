@@ -149,6 +149,15 @@ const IronManFilm = () =>
                 which he said benefited him because "it's hard not to have a personality meltdown ...after about several hours in that suit. I'm calling up
                 every therapeutic moment I can think of to just get them through the day."
               </li>
+              <li>
+                <Link>Terrence Howard</Link> as <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>:<br />
+                A friend of Stark's and the liaison between Stark Industries and the United States Air Force in the department of acquisitions, specifically
+                weapons development. Favreau cast Howard because he felt he could play War Machine in a sequel. Howard prepared for the role by visiting Nellis
+                Air Force Base on March 16, 2007, where he ate with the pilots and observed HH-60 Pave Hawk rescue helicopters and F-22 Raptors. While Rhodes is
+                roguish in the comics after he meets Stark, his previous role as a disciplinarian creates a dynamic tension with Stark's character. He is unsure
+                whether Stark's actions are acceptable, "Rhodey is completely disgusted with the way Tony has lived his life, but at a certain point he realizes
+                that perhaps there is a different way," Howard said.
+              </li>
             </ul>
           </div>
         </div>
