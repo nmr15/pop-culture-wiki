@@ -123,6 +123,9 @@ const TheIncredibuleHulkFilm = () =>
             <h3 className="article-heading-3" id="8.2">Potential sequel</h3>
           </div>
         </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
