@@ -64,7 +64,7 @@ const IronManFilm = () =>
             Iron Man is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character <Link>of the same name</Link>.
             Produced by <Link>Marvel Studios</Link> and distributed by <Link>Paramount Pictures</Link>, it is the first film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
             Directed by <Link>Jon Favreau</Link> from a screenplay by the writing team of Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway, the film
-            stars <Link>Roberty Downey Jr.</Link> as <Link>Tony Stark / Iron Man</Link> alongside Terrence Howard, <Link>Jeff Bridges</Link>, <Link>Gwyneth Paltrow</Link>,
+            stars <Link>Roberty Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link> alongside Terrence Howard, <Link>Jeff Bridges</Link>, <Link>Gwyneth Paltrow</Link>,
             <Link> Leslie Bibb</Link>, and <Link>Shaun Toub</Link>. In the film, following his escape from captivity by a terrorist group, world-famous industrialist
             and master engineer Tony Stark builds a mechanical suit of armor and becomes the superhero Iron Man.
           </p>
@@ -89,8 +89,8 @@ const IronManFilm = () =>
           <h2 className="article-heading-2" id="1">Plot</h2>
           <div>
             <p>
-              <Link>Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
-              war-torn Afghanistan with his best friend and military liasion, <Link>James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
+              <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
+              war-torn Afghanistan with his best friend and military liasion, <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
               demonstration, his convoy is ambushed by a terrorist group, the <Link>Ten Rings</Link>, and Stark is gravely wounded by a missile used by the attackers,
               one of his company's own. He is captured and imprisoned in a cave by the Ten Rings. <Link>Yinsen</Link>, a fellow captive and doctor, implants an
               electromagnet into Stark's chest to keep the shrapnel shards that wounded him from reaching his heart and killing him. Ten Rings leader <Link>Raza</Link>,
@@ -115,7 +115,19 @@ const IronManFilm = () =>
               Stark as Stark Industries' CEO by hiring the Ten Rings to kill him. He subdues Raza and has him and the rest of the group killed. Stane has a massive
               new armor suit reverse-engineered from the wreckage. Seeking to track his company's illegal shipments, Stark sends Potts to hack into its database. She
               discovers that Stane hired the Ten Rings to kill Stark, but the group altered their plans when they realized they had a direct route to Stark's weapons.
-              Potts meets with Agent <Link>Phil Coulson</Link> of <Link>S.H.I.E.L.D.</Link>, an intelligence agency, to inform him of Stane's activities.
+              Potts meets with Agent <Link to="/mcu/phil_coulson">Phil Coulson</Link> of <Link>S.H.I.E.L.D.</Link>, an intelligence agency, to inform him of Stane's activities.
+            </p>
+            <p>
+              Stane's scientists are unable to replicate Stark's miniature arc reactor, so Stane enters Stark's home, stuns him, and steals the one from his chest.
+              Stark manages to replace it with his original reactor. Potts and several S.H.I.E.L.D. agents attempt to arrest Stane, but he dons his suit and overpowers
+              them. Stark fights Stane but is outmatched without his new reactor to run his suit at full capacity. The fight carries Stark and Stane to the top of the
+              Stark Industries building, where Stark instructs Potts to overload the large arc reactor powering the building. This unleashes a massive electrical surge
+              that causes Stane to fall into the reactor and he is killed in the explosion. The next day, at a press conference, Stark publicly admits to being the
+              superhero the press has dubbed "Iron Man".
+            </p>
+            <p>
+              In a post-credits scene, S.H.I.E.L.D. director <Link to="/mcu/nick_fury">Nick Fury</Link> visits Stark at his home, telling him he has become part of a
+              "bigger universe", and that he wants to discuss the "<Link>Avengers Initiative</Link>".
             </p>
           </div>
         </div>
