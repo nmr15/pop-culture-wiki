@@ -16,7 +16,10 @@ const Beatles = () =>
                 {id: "1.1.1", title: "The Quarrymen and name change"},
                 {id: "1.1.2", title: "Early residencies and UK popularity"},
                 {id: "1.1.3", title: "First EMI recordings"}
-              ]}
+              ]},
+              {
+                id: "1.2", title: "1963-1966: Beatlemania and touring years"
+              }
             ]}
           />
         </ul>
