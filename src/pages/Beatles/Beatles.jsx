@@ -17,9 +17,9 @@ const Beatles = () =>
                 {id: "1.1.2", title: "Early residencies and UK popularity"},
                 {id: "1.1.3", title: "First EMI recordings"}
               ]},
-              {
-                id: "1.2", title: "1963-1966: Beatlemania and touring years"
-              }
+              {id: "1.2", title: "1963-1966: Beatlemania and touring years", sub2: [
+                {id: "1.2.1", title: "Please Plase Me and With the Beatles"}
+              ]}
             ]}
           />
         </ul>
