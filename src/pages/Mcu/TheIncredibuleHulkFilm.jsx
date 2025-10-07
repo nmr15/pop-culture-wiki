@@ -93,6 +93,21 @@ const TheIncredibuleHulkFilm = () =>
             <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
           </div>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Music</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Release</h2>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <h3 className="article-heading-3" id="6.2">Home media</h3>
+          </div>
+        </div>
       </main>
     </>
   )
