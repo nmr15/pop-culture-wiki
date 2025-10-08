@@ -193,6 +193,29 @@ const IronManFilm = () =>
           <h2 className="article-heading-2" id="3">Production</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              In April 1990, Universal Pictures bought the rights to develop Iron Man for the big screen, with Stuart Gordon to direct a low-budget film based
+              on the property. By February 1996, 20th Century Fox had acquired the rights from Universal. In January 1997, <Link to="#">Nicolas Cage</Link> expressed 
+              interest in portraying the character, while in September 1998, <Link to="#">Tom Cruise</Link> expressed interest in producing as well as starring
+              in an Iron Man film. Jeff Vintar and Iron Man co-creator Stan Lee co-wrote a story for Fox, which Vintar adapted into a screenplay. It included a
+              new science-fiction origin for the character, and featured <Link to="#">MODOK</Link> as the villain. Tom rothman, President of Production at Fox,
+              credited the screenplay with finally making him understand the character. In May 1999, Jeffrey Caine was hired to rewrite Vintar and Lee's script.
+              That October, <Link to="#">Quentin Tarantino</Link> was approached to write and direct the film. Fox sold the rights to New Line Cinema the
+              following December, reasong that although the Vintar/Lee scripts was strong, the studio had too many Marvel superheroes in development, and "we
+              can't make them all."
+            </p>
+            <p>
+              By July 2000, the film was being written for New Line Cinema by Ted Elliott, Terry Rossio, and Tim McCanlies. McCanlies' script used the idea of
+              a Nick Fury cameo to set up his own film. In June 2001, New Line Cinema entered talks with <Link to="#">Joss Whedon</Link>, a fan of the character,
+              to direct, and in December 2002, McCanlies had turned in a completed script. New Line took a "unique" approach to writing the film's script,
+              hiring David Hayter, David S. Goyer, and Mark Protosevich to "sit in a room and simply talk on camera about Iron Man for a few days". After this,
+              Hayter was hired in 2004 to write the script. He reworked scripts that had been written by Jeff Vintar and Alfred Gough and Miles Millar, which had
+              included the villain the <Link to="#">Mandarin</Link> and Pepper Potts as a love interest. Hayter removed the Mandarin and instead chose to pit
+              Iron Man against his father Howard Stark, who becomes War Machine. Hayter said "you want to try to mirror your hero with your villain as much as
+              possible" for his reasoning behing making Howard the villain. He also made <Link to="#">Bethany Cabe</Link> the film's love interest over Potts.
+              In December 2004, the studio attached director Nick Cassavetes to the project for a target 2006 release. However, this deal ultimately fell
+              through, and the Iron Man film rights return to Marvel.
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
@@ -235,5 +258,6 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
