@@ -18,7 +18,10 @@ const Beatles = () =>
                 {id: "1.1.3", title: "First EMI recordings"}
               ]},
               {id: "1.2", title: "1963-1966: Beatlemania and touring years", sub2: [
-                {id: "1.2.1", title: "Please Plase Me and With the Beatles"}
+                {id: "1.2.1", title: "Please Plase Me and With the Beatles"},
+                {id: "1.2.2", title: "First visit to the United States and the British Invasion"},
+                {id: "1.2.3", title: "A Hard Day's Night"},
+                {id: "1.2.4", title: "1964 world tour, meeting Bob Dylan and stand on civil rights"}
               ]}
             ]}
           />
