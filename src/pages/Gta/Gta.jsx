@@ -36,7 +36,29 @@ const Gta = () =>
           <Collapse 
             id="4"
             item="Controversies"
+            sub={[
+              {id: "4.1", title: "Grand Theft Auto"},
+              {id: "4.2", title: "Grand Theft Auto III"},
+              {id: "4.3", title: "Vice City"},
+              {id: "4.4", title: "San Andreas"},
+              {id: "4.5", title: "Grand Theft Auto IV"},
+              {id: "4.6", title: "The Lost and Damned"},
+              {id: "4.7", title: "Chinatown Wars"},
+              {id: "4.8", title: "Grand Theft Auto V"},
+              {id: "4.9", title: "Lawsuits", sub2: [
+                {id: "4.9.1", title: "Lawsuits invloving Jack Thompson"}
+              ]},
+              {id: "4.10", title: "Modding and fan recreation"},
+            ]}
           />
+          <Collapse 
+            id="5"
+            item="Reception"
+            sub={[
+              {id: "5.1", title: "Sales"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Similar games</a></li>
         </ul>
       </aside>
       <main className="main px-5 py-4">
