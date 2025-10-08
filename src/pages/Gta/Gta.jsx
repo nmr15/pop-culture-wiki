@@ -82,10 +82,15 @@ const Gta = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Series history</h2>
-          <h3 className="article-heading-3" id="1.1">Main series</h3>
-          <h3 className="article-heading-3" id="1.2">Other games</h3>
-          <h3 className="article-heading-3" id="1.3">Compilations</h3>
-          <h3 className="article-heading-3" id="1.4">Titles</h3>
+          <div>
+            <h3 className="article-heading-3" id="1.1">Main series</h3>
+            <h3 className="article-heading-3" id="1.2">Other games</h3>
+            <h3 className="article-heading-3" id="1.3">Compilations</h3>
+            <h3 className="article-heading-3" id="1.4">Titles</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Related media</h2>
         </div>
       </main>
     </>
