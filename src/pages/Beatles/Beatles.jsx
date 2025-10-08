@@ -8,6 +8,7 @@ const Beatles = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <Collapse 
             id="1"
             item="History"
@@ -21,10 +22,38 @@ const Beatles = () =>
                 {id: "1.2.1", title: "Please Plase Me and With the Beatles"},
                 {id: "1.2.2", title: "First visit to the United States and the British Invasion"},
                 {id: "1.2.3", title: "A Hard Day's Night"},
-                {id: "1.2.4", title: "1964 world tour, meeting Bob Dylan and stand on civil rights"}
+                {id: "1.2.4", title: "1964 world tour, meeting Bob Dylan and stand on civil rights"},
+                {id: "1.2.5", title: "Beatles for Sale, Help!, and Rubber Soul"},
+                {id: "1.2.6", title: "Controversies, Revolver, and final tour"}
+              ]},
+              {id: "1.3", title: "1966-1970: Studio years", sub2: [
+                {id: "1.3.1", title: "Sgt. Pepper's Lonely Hearts Club Band"},
+                {id: "1.3.2", title: "Magical Mystery Tour and Yellow Submarine"},
+                {id: "1.3.3", title: "India retreat, Apple Corps, and the White Album"},
+                {id: "1.3.4", title: "Abbey Road, Let it Be, and separation"}
+              ]},
+              {id: "1.4", title: "After the breakup", sub2: [
+                {id: "1.4.1", title: "1970s"},
+                {id: "1.4.2", title: "1980s"},
+                {id: "1.4.3", title: "1990s"},
+                {id: "1.4.4", title: "2000s"},
+                {id: "1.4.5", title: "2010s"},
+                {id: "1.4.6", title: "2020s"}
               ]}
             ]}
           />
+          <Collapse 
+            id="2"
+            item="Artistry"
+            sub={[
+              {id: "2.1", title: "Development"},
+              {id: "2.2", title: "Influences"},
+              {id: "2.3", title: "Genres"},
+              {id: "2.4", title: "Contribution of George Martin"},
+              {id: "2.5", title: "In the studio"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#3">Legacy</a></li>
         </ul>
       </aside>
       <main className="main px-5 py-4">
