@@ -54,6 +54,18 @@ const Beatles = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#3">Legacy</a></li>
+          <li className="sidebar-list-item"><a href="#4">Awards and achievements</a></li>
+          <Collapse 
+            id="5"
+            item="Band members"
+            sub={[
+              {id: "5.1", title: "Timeline"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Discography</a></li>
+          <li className="sidebar-list-item"><a href="#7">Song catalogue</a></li>
+          <li className="sidebar-list-item"><a href="#8">Selected filmography</a></li>
+          <li className="sidebar-list-item"><a href="#9">Concert tours</a></li>
         </ul>
       </aside>
       <main className="main px-5 py-4">
