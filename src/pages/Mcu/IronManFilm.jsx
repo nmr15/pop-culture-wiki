@@ -216,6 +216,18 @@ const IronManFilm = () =>
               In December 2004, the studio attached director Nick Cassavetes to the project for a target 2006 release. However, this deal ultimately fell
               through, and the Iron Man film rights return to Marvel.
             </p>
+            <p>
+              In November 2005, Marvel Studios worked to start development from sratch, and announced Iron Man as their first independent feature, because the
+              character was their only major one not already depicted in live action. Paramount Pictures was announced as Marvel's distribution partner for Iron
+              Man. According to associate producer Jeremy Latcham, "we went after about 30 writers and they all passed," saying they were uninterested in the
+              project due to both the relative obscurity of the character and the fact that it was solely a Marvel production. When the film did have a script,
+              even the requests to rewrite met with many refusals. Early scripts for the film also directly referenced Sony Pictures' <Link>Spider-Man 2</Link>
+              (2004) by identifying Stark as the creator of <Link>Otto Octavius</Link>'s bionic arms. In order to build the general public's awareness of Iron
+              Man and elevate him to the same level of popularity as <Link>Spider-Man</Link> or <Link>Hulk</Link>, Marvel conducted focus groups, trying to find
+              a way to remove the general perception that the character is a robot. The information Marvel received from the focus groups was used to formulate
+              an awareness-building plan which included releasing three animated short films ahead of the film's release. The shorts were called "Iron Man
+              Advertorials", and were produced by <Link>Tim Miller</Link> and Blur Studio.
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
