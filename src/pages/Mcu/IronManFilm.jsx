@@ -229,6 +229,20 @@ const IronManFilm = () =>
               Advertorials", and were produced by <Link>Tim Miller</Link> and Blur Studio.
             </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              Jon Favreau was hired to direct the film in April 2006, and he celebrated getting the job by going on a diet, resulting in him losing 70 pounds
+              (32 kg). Favreau had wanted to work with Marvel producer <Link>Avi Arad</Link> on another film after they both worked on <Link>Daredevil</Link>
+              (2003). The director found the opportunity to create a politically ambitious "ultimate spy movie" in Iron Man, citing inspiration from
+              <Link> Tom Clancy</Link>, <Link>James Bond</Link>, and <Link>Robocop</Link> (1987), and compared his approach to an independent film, "If
+              Robert Altman had directed <Link>Superman</Link>" and <Link>Batman Begins</Link> (2025). Favreau wanted to make Iron Man a story of an adult man
+              literally reinventing himself after discovering the world is far more complex than he originally believed. He changed the Vietnam War origin of
+              the character to Afghanistan, as he did not to do a period piece. Art Marcum and Matt Holloway were hired to write the script, while Mark Fergus
+              and Hawk Ostby wrote another version, with Favreau compiling both teams' scripts, and John August then "polishing" the combined version. Comic
+              book staff <Link>Mark Millar</Link>, <Link>Brian Michael Bendis</Link>, <Link>Joe Quesada</Link>, Tom Brevoort, Axel Alonso, and Ralph Macchio
+              were also called upon by Favreau to give advice on the script. In May 2006, Arad left Marvel Studios to become an independent producer. Because
+              he was on staff when the deal was made for Iron Man, he retained producer credit on the film. By July 2006, Matthew Libatique was attached to
+              serve as cinematographer.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
