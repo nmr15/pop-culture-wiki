@@ -161,6 +161,20 @@ const IronManFilm = () =>
                 Downey as an actor since the latter appeared in Weird Science (1985); the two completed physically on set. Howard signed a three-picure deal
                 with Marvel Studios.
               </li>
+              <li>
+                <Link>Gwyneth Paltrow</Link> as <Link>Virgina "Pepper" Potts</Link>:<br />
+                Stark's personal assistant and budding love interest. Paltrow asked Marvel to send her any comics they would consider relevant to her
+                understanding of the character, whom she considered to be very smart, level-headed, and grounded. She said she like "the fact that there's a
+                sexuality that's not blatant." Favreau wanted Potts' and Stark's relationship to be reminiscent of a 1940s comedy, something which Paltrow
+                considered to be fun in an "innocent yet sexy" way.
+              </li>
+              <li>
+                <Link>Leslie Bibb</Link> as <Link>Christine Everhart</Link>: A reported for Vanity Fair.
+              </li>
+              <li>
+                <Link>Shaun Toub</Link> as <Link>Ho Yinsen</Link>: Stark's fellow captive, who grafts an electromagnet to Stark's chest "to keep the shrapnel
+                shell shards that wounded him from reaching his heart and killing him" and helps Stark build the first Iron Man suit.
+              </li>
             </ul>
           </div>
         </div>
@@ -210,3 +224,4 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
