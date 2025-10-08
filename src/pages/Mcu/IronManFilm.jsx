@@ -176,6 +176,17 @@ const IronManFilm = () =>
                 shell shards that wounded him from reaching his heart and killing him" and helps Stark build the first Iron Man suit.
               </li>
             </ul>
+            <p>
+              Additionally, Faran Tahir appears as <Link>Raza</Link>, the leader of the Ten Rings; <Link>Paul Bettany</Link> voices <Link>J.A.R.V.I.S.</Link>,
+              Stark's personal AI system; and <Link>Clark Gregg</Link> appears as <Link to="/mcu/phil_coulson">Phil Coulson</Link>, an agent of S.H.I.E.L.D.
+              Will Lyman provides the voice-over during the opening awards ceremony. Director <Link>Jon Favreau</Link> plays <Link>Harold "Happy" Hogan</Link>,
+              Stark's bodyguard and chauffeur, and <Link>Samuel L. Jackson</Link> makes an uncredited cameo appearance as <Link to="/mcu/nick_fury">Nick Fury</Link>,
+              director of S.H.I.E.L.D., in a post-credits scene. Jackson's face was previously used as the model for the <Link>Ultimate Marvel</Link> imprint
+              <Link>version of Nick Fury</Link>. Other cameos in the film include <Link>Stan Lee</Link> as himself, being mistaken for Hugh Hefner by Stark
+              at a party; Peter Billingsley as <Link>William Ginter Riva</Link>, a scientist who works for Stane; Tom Morello, who provided guitar music for
+              the film, as a terrorist guard; and Jim Cramer as himself. Ghostface Killah, who often adopted Iron Man's name as an alias, had a cameo in a
+              scene where Stark says in Dubai, but the scene was cut for pacing reasons.
+            </p>
           </div>
         </div>
         <div>
@@ -224,4 +235,5 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
