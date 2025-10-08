@@ -2,13 +2,36 @@ const Gta = () =>
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
-        <ul>
-          <li className="py-1">
-            <a href="#top">Top</a>
-          </li>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Series history"
+            sub={[
+              {id: "1.1", title: "Main series"},
+              {id: "1.2", title: "Other games"},
+              {id: "1.3", title: "Compilations"},
+              {id: "1.4", title: "Titles"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#2">Related media</a></li>
+          <Collapse 
+            id="3"
+            item="Common elements"
+            sub={[
+              {id: "3.1", title: "Gameplay"},
+              {id: "3.2", title: "Settings", sub: [
+                {id: "3.2.1", title: "Liberty City"},
+                {id: "3.2.2", title: "San Andreas"},
+                {id: "3.2.3", title: "Vice City"},
+                {id: "3.2.4", title: "Other settings"}
+              ]},
+              {id: "3.3", title: "Voice acting"}
+            ]}
+          />
         </ul>
-      </nav>
+      </aside>
       <main className="main px-5 py-4">
         <div id="top">
           <h1 className="article-heading">Grand Theft Auto</h1>
