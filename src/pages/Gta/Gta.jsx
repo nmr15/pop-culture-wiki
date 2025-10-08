@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
+
 const Gta = () => 
 {
   return (
