@@ -242,6 +242,11 @@ p
   padding: .5rem 0;
 }
 
+.article-list:not:last-of-type li
+{
+  padding-bottom: .5rem;
+}
+
 .character-card
 {
   width: 15rem !important;
