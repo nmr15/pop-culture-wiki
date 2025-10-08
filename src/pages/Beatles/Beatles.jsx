@@ -94,7 +94,7 @@ const Beatles = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading2" id="1">History</h2>
+          <h2 className="article-heading-2" id="1">History</h2>
           <div>
             <h3 className="article-heading-3" id="1.1">1956-1963: Formation</h3>
             <h4 className="article-heading-4" id="1.1.1">The Quarrymen and name change</h4>
@@ -122,35 +122,42 @@ const Beatles = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading2" id="2">History</h2>
+          <h2 className="article-heading-2" id="2">Artistry</h2>
+          <h3 className="article-heading-3" id="2.1">Development</h3>
+          <h3 className="article-heading-3" id="2.2">Influences</h3>
+          <h3 className="article-heading-3" id="2.3">Genres</h3>
+          <h3 className="article-heading-3" id="2.4">Contribution of George Martin</h3>
+          <h3 className="article-heading-3" id="2.5">In the studio</h3>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="3">History</h2>
+          <h2 className="aritcle-heading-2" id="3">Legacy</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="4">History</h2>
+          <h2 className="aritcle-heading-2" id="4">Awards and achievements</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="5">History</h2>
+          <h2 className="aritcle-heading-2" id="5">Band members</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Timeline</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="aritcle-heading-2" id="6">Discography</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="6">History</h2>
+          <h2 className="aritcle-heading-2" id="7">Song catalogue</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="7">History</h2>
+          <h2 className="aritcle-heading-2" id="8">Selected filmography</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading2" id="8">History</h2>
-          <div></div>
-        </div>
-        <div>
-          <h2 className="article-heading2" id="9">History</h2>
+          <h2 className="aritcle-heading-2" id="9">Concert tours</h2>
           <div></div>
         </div>
       <TableBeatles />
