@@ -24,7 +24,7 @@ const Gta = () =>
             item="Common elements"
             sub={[
               {id: "3.1", title: "Gameplay"},
-              {id: "3.2", title: "Settings", sub: [
+              {id: "3.2", title: "Settings", sub2: [
                 {id: "3.2.1", title: "Liberty City"},
                 {id: "3.2.2", title: "San Andreas"},
                 {id: "3.2.3", title: "Vice City"},
@@ -32,6 +32,10 @@ const Gta = () =>
               ]},
               {id: "3.3", title: "Voice acting"}
             ]}
+          />
+          <Collapse 
+            id="4"
+            item="Controversies"
           />
         </ul>
       </aside>
