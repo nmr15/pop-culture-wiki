@@ -260,6 +260,25 @@ const IronManFilm = () =>
               role. While preparing for filming, Favreau and Downey were given a tour of SpaceX by Elon Musk. Downey said, "Elon was someone Tony probably
               hung out with and partied with, or more likely went on some weird jungle trek together to drink concotions with the shamans."
             </p>
+            <p>
+              Additional casting for the film occurred over the next few months: Terrence Howard was announced in the rol of Stark's best friend James
+              "Rhodey" Rhodes in October 2006. He had been the first actor cast for the film; <Link>Rachel McAdams</Link> was reportedly Favreau's first
+              choice for the role of Virgina "Pepper" Potts, but she turned it down to focus on raising her own family. Gwyneth Paltrow was in the role
+              instead in January 2007; and Jeff Bridges was in an undisclosed role in February. <Link>Don Cheadle</Link> has also been approached for the
+              role of Rhodes, and would eventually replace Howard in the role starting with the sequel, Iron Man 2. Choosing a character to be the villain
+              of the film was difficult, as Favreau felt Iron Man's arch-nemesis the Mandarin would not feel realistic, especially after Mark Millar gave
+              his opinion on the script. The Mandarin had originally been envisioned as a rival to Tony Stark with a building of his own right next to
+              Stark Industries, with the Mandarin eventually drilling a hole underneath Stark Industries to steal all of Stark's technology for himself;
+              associate producer Jeremy Latcham described such story as "crazy terrible" and "underwhelming". Favreau felt only in a sequel, with an
+              altered tone, would the fantasy of the <Link>Mandarin's rings</Link> be appropriate. The decision to push him into the background was
+              compated to Sauron in The Lord of the Rings, or <Link>Palpatine</Link> in <Link to="/starwars">Star Wars</Link>. Fabreau also wanted Iron
+              Man to face a giant enemy. The switch from Mandarin to Obadiah Stane was done after Bridges was cast in the role, with Stane originally
+              intended to become a villain in the sequel; a version of the script intended to show Stane had escaped his damaged suit. The
+              <Link> Crimson Dynamo</Link> was also a villain in early drafts of the script, including at one point combining the character with the
+              Mandarin. Favreau felt it was important to include intentional insider references for fans of the comics, such as giving the two fighter
+              jets that attack Iron Man the call sign of "Whiplash 1" and "Whiplash 2", a reference to the comic book villain <Link>Whiplash</Link>,
+              and including <Link>Captain America's shield</Link> in Stark's workshop.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
