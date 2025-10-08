@@ -239,12 +239,11 @@ p
 .article-list
 {
   margin-left: 1rem;
-  padding: .5rem 0;
 }
 
-.article-list:not:last-child
+.article-list li
 {
-  padding-bottom: .5rem;
+  padding: .5rem 0
 }
 
 .character-card
