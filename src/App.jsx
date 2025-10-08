@@ -50,7 +50,7 @@ function App() {
       <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
-        {/* <Route path='/mcu' element={<Mcu />} /> */}
+        <Route path='/mcu' element={<Mcu />} />
         {routesMcuMeta.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
