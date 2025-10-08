@@ -61,18 +61,18 @@ const Gta = () =>
           <li className="sidebar-list-item"><a href="#6">Similar games</a></li>
         </ul>
       </aside>
-      <main className="main px-5 py-4">
-        <div id="top">
+      <main className="main" id="top">
+        <div>
           <h1 className="article-heading">Grand Theft Auto</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right img-top">
           <img 
             src="https://1000logos.net/wp-content/uploads/2018/03/GTA-Logo.png" 
             alt="Grand Theft Auto" 
             className="article-heading-img"
           />
         </div>
-        <div className="pt-2">
+        <div className="div-top">
           <p>
             <b>Grand Theft Auto</b> is an action-adventure video game series created by David Jones and Mike Dailly. Later titles were developed under the oversight
             of brothers Dan and Sam Houser, Leslie Benzies, and Aaron Garbut. It is primarily developed by British development house <a href="#">Rockstar North</a>
