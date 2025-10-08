@@ -14,7 +14,7 @@ import GravityFalls from "./pages/GravityFalls/GravityFalls"
 import Gta from "./pages/Gta/Gta"
 import Himym from "./pages/Himym/Himym"
 import MarvelComics from "./pages/MarvelComics/MarvelComics"
-// import Mcu from "./pages/Mcu/Mcu"
+import Mcu from "./pages/Mcu/Mcu"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 import Spongebob from "./pages/Spongebob/Spongebob"
 import StarWars from "./pages/StarWars/StarWars"
@@ -27,7 +27,7 @@ const Wrapper = ({ children }) => {
   return children
 }
 
-const routes = communitychars.map(char => ({
+const routesCommunityChars = communitychars.map(char => ({
   path: char.route,
   Component: lazy(() => import(`./pages/Community/${char.file}.jsx`))
 }));
@@ -61,7 +61,7 @@ function App() {
         <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
         <Route path='/starwars' element={<StarWars />} />
         <Route path='/community' element={<Community />} />
-        {routes.map(({ path, Component }, index) => (
+        {routesCommunityChars.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />
           ))}
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
