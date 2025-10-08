@@ -243,6 +243,23 @@ const IronManFilm = () =>
               he was on staff when the deal was made for Iron Man, he retained producer credit on the film. By July 2006, Matthew Libatique was attached to
               serve as cinematographer.
             </p>
+            <p>
+              Favreau planned to cast a newcomer in the title role, as "those movies don't require an expensive star; Iron Man's the star, the superhero is
+              the star. The success of <Link>X-Men</Link> and <Link>Spider-Man</Link> without being star-driven pieces reassures [executives] that the film
+              does have an upside commercially." Those considered for the role included Jim Caviezel, <Link>Timothy Olyphant</Link>, <Link>Sam Rockwell</Link>,
+              and Clive Owen. Rockwell was approached and was interested, but Favrueau then met with Robert Downey Jr., who he was convinced was the right
+              actor for the role. Favreau chose Downey, a fan of the comic, because he felt the actor's past made him an appropriate choice for the part,
+              explaining: "The best and worst moments of Robert's life have been in the public eye. He had to find an inner balance to overcome obstacles
+              that went far beyond his career. That's Tony Stark." Favreau faced opposition from Marvel Entertainment executives in casting Downey, but
+              would not take no for an answer, saying: "It was my job as a director to show that it was the best choice creatively ...everybody knew he was
+              talented [and] certainly by studying the Iron Man role and developing that script I realized that the character seemed to line-up with Robert
+              in all the good and bad ways." Casting director <Link>Sarah Hailey Finn</Link> suggested Downey create an audition tape to help persuade them.
+              The executives were still not convinced, despite Favreau and Feige recommending Downey for the role, which resulted in Favreau leaking to the
+              press that Downey was in talks; the positive reaction and enthusiasm to this story helped convice the executives, and Downey was cast in
+              September 2006. Rockewell would later portray <Link>Justin Hammer</Link> in <Link>Iron Man 2</Link> (2010). Downey earned $500,000 for the
+              role. While preparing for filming, Favreau and Downey were given a tour of SpaceX by Elon Musk. Downey said, "Elon was someone Tony probably
+              hung out with and partied with, or more likely went on some weird jungle trek together to drink concotions with the shamans."
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
