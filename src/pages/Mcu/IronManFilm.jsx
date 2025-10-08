@@ -156,7 +156,10 @@ const IronManFilm = () =>
                 Air Force Base on March 16, 2007, where he ate with the pilots and observed HH-60 Pave Hawk rescue helicopters and F-22 Raptors. While Rhodes is
                 roguish in the comics after he meets Stark, his previous role as a disciplinarian creates a dynamic tension with Stark's character. He is unsure
                 whether Stark's actions are acceptable, "Rhodey is completely disgusted with the way Tony has lived his life, but at a certain point he realizes
-                that perhaps there is a different way," Howard said.
+                that perhaps there is a different way," Howard said. "Whose life is the right way: Is it the strict military life, or the life of an independent?"
+                Howard and his father are Iron Man fans, partly because Thodes was one of the few black superheroes when Howard was a child. Howard admired
+                Downey as an actor since the latter appeared in Weird Science (1985); the two completed physically on set. Howard signed a three-picure deal
+                with Marvel Studios.
               </li>
             </ul>
           </div>
@@ -204,5 +207,6 @@ const IronManFilm = () =>
     </>
   )
 }
+
 
 export default IronManFilm;
