@@ -131,33 +131,33 @@ const Beatles = () =>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="3">Legacy</h2>
+          <h2 className="article-heading-2" id="3">Legacy</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="4">Awards and achievements</h2>
+          <h2 className="article-heading-2" id="4">Awards and achievements</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="5">Band members</h2>
+          <h2 className="article-heading-2" id="5">Band members</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Timeline</h3>
           </div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="6">Discography</h2>
+          <h2 className="article-heading-2" id="6">Discography</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="7">Song catalogue</h2>
+          <h2 className="article-heading-2" id="7">Song catalogue</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="8">Selected filmography</h2>
+          <h2 className="article-heading-2" id="8">Selected filmography</h2>
           <div></div>
         </div>
         <div>
-          <h2 className="aritcle-heading-2" id="9">Concert tours</h2>
+          <h2 className="article-heading-2" id="9">Concert tours</h2>
           <div></div>
         </div>
       <TableBeatles />
