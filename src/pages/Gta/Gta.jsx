@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import TableGta from '../../components/TableGta'
 
 const Gta = () => 
 {
@@ -130,6 +131,9 @@ const Gta = () =>
         <div>
           <h2 className="article-heading-2" id="6">Similar games</h2>
           <div></div>
+        </div>
+        <div>
+          <TableGta />
         </div>
       </main>
     </>
