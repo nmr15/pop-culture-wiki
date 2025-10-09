@@ -105,6 +105,22 @@ const Gta = () =>
             <h3 className="article-heading-3" id="3.3">Voice acting</h3>
           </div>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Controversies</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Grand Theft Auto</h3>
+            <h3 className="article-heading-3" id="4.2">Grand Theft Auto III</h3>
+            <h3 className="article-heading-3" id="4.3">Vice City</h3>
+            <h3 className="article-heading-3" id="4.4">San Andreas</h3>
+            <h3 className="article-heading-3" id="4.5">Grand Theft Auto IV</h3>
+            <h3 className="article-heading-3" id="4.6">The Lost and Damned</h3>
+            <h3 className="article-heading-3" id="4.7">Chinatown Wars</h3>
+            <h3 className="article-heading-3" id="4.8">Grand Theft Auto V</h3>
+            <h3 className="article-heading-3" id="4.9">Lawsuits</h3>
+            <h4 className="article-heading-4" id="4.9.1">Lawsuits invloving Jack Thompson</h4>
+            <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
+          </div>
+        </div>
       </main>
     </>
   )
