@@ -330,6 +330,18 @@ const IronManFilm = () =>
               characters for rehearsal to see how their own lines sounded. Paltrow was less comfortable with improvisation, so Favreau would take notes
               on things she said during rehearsals or in off-handed moments that were in line with the character to incorporate into Potts' dialogue.
             </p>
+            <p>
+              The crew conceived a post-credits scene featuring Nick Fury and called Samuel L. Jackson to ask him if he would be interested in playing
+              Fury, as Jackson had learned a few years earlier that his likeness had been used for Fury in the Ultimate Marvel comics imprint. However.
+              according to Latcham, Jackson originally appeared without any deal for him to reappear in later films: "It was just this weird idea that
+              maybe people give a shi-- if we stick it on the end". The fialogue for the scene was also changed on set, with comic writer Brian Michael
+              Bendis providing three pages of dialogue for the part, and the filmmakers choosing the best lines for filming on set. It was filmed with
+              a skeleton crew in order to keep the cameo a secret, but rumors appeared on the internet only days later. Feige subsequently had the scene
+              removed from all preview prints in order to maintain the surprise and keep fans guessing. An alternate version of the Nick Fury post-credits
+              scene was filmed in which he specifically mentions "gamma accidents, radioactive bug bites and assorted mutants", referencing Hulk, 
+              Spider-Man, and the X-Men, but this was cut due to Sony Pictures and 20th Century Fox holding the respective film rights to Spider-Man and
+              the X-Men at the time.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
@@ -370,6 +382,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
