@@ -35,27 +35,27 @@ const Community = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#5">Film</a></li>
-          <div className="py-1">
-            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6"></span>
-            <li className="d-inline ms-2">
-              <a href="#6">Reception</a>
-              <ul className="collapse" id="collapse6">
-                <li className="py-1"><a href="#6.1">Critical reception</a></li>
-                <li className="py-1"><a href="#6.2">Awards and nominations</a></li>
-                <li className="py-1"><a href="#6.3">Semiotics and Community</a></li>
-                <li className="py-1"><a href="#6.4">Ratings</a></li>
-              </ul>
-            </li>
-          </div>
-          <li className="py-1"><a href="#7">Syndication</a></li>
-          <li className="py-1"><a href="#8">Streaming</a></li>
+          <Collapse 
+            id="6"
+            item="Reception"
+            sub={[
+              {id: "6.1", title: "Critical reception"},
+              {id: "6.2", title: "Awards and nominations"},
+              {id: "6.3", title: "Semiotics and Community"},
+              {id: "6.4", title: "Ratings"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Syndication</a></li>
+          <li className="sidebar-list-item"><a href="#8">Streaming</a></li>
+          <Collapse 
+          
+          />
           <div className="py-1">
             <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse6"></span>
             <li className="d-inline ms-2">
               <a href="#9">Soundtrack</a>
               <ul className="collapse" id="collapse9">
-                <li className="py-1"><a href="#9.1">Track listing</a></li>
-                <li className="py-1"><a href="#9.2">Other tracks</a></li>
+                <li className="py-1"><a href="#9.1">Other tracks</a></li>
               </ul>
             </li>
           </div>
