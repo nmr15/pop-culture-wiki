@@ -319,6 +319,17 @@ const IronManFilm = () =>
               "I'm shocked that I [was] on schedule. I thought that there were going to be many curveballs". He hired "people who are good at creating
               action", so "the human story [felt] like it belongs to the comic book genre".
             </p>
+            <p>
+              There was much improvisation in dialogue scenes, because the script was not completed when filming began (the filmmakers had focused on
+              the story making sense and planning the action). Favreau felt that improvisation would make the film feel more natural. Some scenes were
+              shot with two cameras to capture lines said on the spot. Multiple takes were done, as Downey wanted to ry something new each time. It
+              was Downey's idea to have Stark hold a news conference on the floor, and he created the speech Stark makes when demonstrating the
+              Jericho weapon. Downey improvised the film's final line, "I am Iron Man", which Feige felt was in line with the character's personality.
+              Bridges described this approach as "a $200 million student film", and noted that it caused stress for Marvel executives when the stars
+              were trying to come up with dialogue on the day of filming scens. He also noted that in some instances, he and Downey would swap
+              characters for rehearsal to see how their own lines sounded. Paltrow was less comfortable with improvisation, so Favreau would take notes
+              on things she said during rehearsals or in off-handed moments that were in line with the character to incorporate into Potts' dialogue.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
@@ -359,6 +370,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
