@@ -7,11 +7,11 @@ const Himym = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-link"><a href="#top">Top</a></li>
-          <li className="sidebar-list-link"><a href="#1">Premise</a></li>
-          <li className="sidebar-list-link"><a href="#3">Production</a></li>
-          <li className="sidebar-list-link"><a href="#4">Syndication</a></li>
-          <li className="sidebar-list-link"><a href="#5">Cast and characters</a></li>
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+          <li className="sidebar-list-item"><a href="#3">Production</a></li>
+          <li className="sidebar-list-item"><a href="#4">Syndication</a></li>
+          <li className="sidebar-list-item"><a href="#5">Cast and characters</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
