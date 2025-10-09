@@ -8,15 +8,19 @@ const Community = () =>
     <>
       <nav className="sidebar">
         <ul className='sidebar-list'>
-          <li className="py-1">
-            <a href="#top">Top</a>
-          </li>
-          <li className="py-1">
-            <a href="#1">Premise</a>
-          </li>
-          <li className="py-1">
-            <a href="#2">Cast and characters</a>
-          </li>
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast and characters</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Casting"},
+              {id: "3.2", title: "Development"},
+              {id: "3.3", title: "Writing"},
+              {id: "3.4", title: "Filming"}
+            ]}
+          />
           <div className="py-1">
             <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3"></span>
             <li className="d-inline ms-2">
