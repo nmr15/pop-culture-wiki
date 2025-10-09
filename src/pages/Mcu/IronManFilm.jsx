@@ -309,7 +309,15 @@ const IronManFilm = () =>
               Afghanistan, and saw the cold breath as he spoke: realizing remote caves are actually very cold, Riva placed an air conditioning system
               in the set. He also sought Downey's advice about makeshift objects in prison, such as a sock being used to make tea. Afterwards, Stark's
               capture was filmed at Lone Pine, and other exterior scens in Afghanistan were filmed at Olancha Sand Dunes, where the crew endured two
-              days of 40-60-mile-per-hour (64-97 km/h) winds.
+              days of 40-60-mile-per-hour (64-97 km/h) winds. During three days of filming at the Edwards Air Force Base in mid-April, around 150
+              servicemembers were cast as extras. Other producion assitance by the United States Department of Defense included the provision of fabric
+              for 100 uniforms, F-22 Raptors, two HH-60 helicopters and parked C-17. In return, the Departmet of Defense consulted on the film regarding
+              certain scenes and dialogue depcting the military. This included changing Stark from being opposed to arms deals, to instead becoming one
+              who sells his technology to the U.S. military. Exterior shots os Stark's home were digitally added to footage of Point Dume in Malibu,
+              while the interior was built at Playa Vista, where Favreau and Riva aimed to make Stark's home look less futuristic and more "grease
+              monkey". Filming concluded on June 25, 2007, at Caesars Palace in Las Vegas, Nevada. Favreau, a newcomer to action films, remarked,
+              "I'm shocked that I [was] on schedule. I thought that there were going to be many curveballs". He hired "people who are good at creating
+              action", so "the human story [felt] like it belongs to the comic book genre".
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
@@ -351,6 +359,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
