@@ -91,6 +91,19 @@ const Gta = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Related media</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Common elements</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Gameplay</h3>
+            <h3 className="article-heading-3" id="3.2">Settings</h3>
+            <h4 className="article-heading-4" id="3.2.1">Liberty City</h4>
+            <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
+            <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
+            <h4 className="article-heading-4" id="3.2.4">Other settings</h4>
+            <h3 className="article-heading-3" id="3.3">Voice acting</h3>
+          </div>
         </div>
       </main>
     </>
