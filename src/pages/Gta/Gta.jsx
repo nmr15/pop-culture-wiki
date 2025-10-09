@@ -121,6 +121,16 @@ const Gta = () =>
             <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
           </div>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Sales</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Similar games</h2>
+          <div></div>
+        </div>
       </main>
     </>
   )
