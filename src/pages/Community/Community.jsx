@@ -21,42 +21,20 @@ const Community = () =>
               {id: "3.4", title: "Filming"}
             ]}
           />
-          <div className="py-1">
-            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3"></span>
-            <li className="d-inline ms-2">
-              <a href="#3">Production</a>
-              <ul className="collapse" id="collapse3">
-                <li className="py-1">
-                  <a href="#3.1">Casting</a>
-                </li>
-                <li className="py-1">
-                  <a href="#3.2">Development</a>
-                </li>
-                <li className="py-1">
-                  <a href="#3.3">Writing</a>
-                </li>
-                <li className="py-1">
-                  <a href="#3.4">Filming</a>
-                </li>
-              </ul>
-            </li>
-          </div>
-          <div className="py-1">
-            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4"></span>
-            <li className="d-inline ms-2">
-              <a href="#4">Episodes</a>
-              <ul className="collapse" id="collapse4">
-                <li className="py-1"><a href="#4.1">First season</a></li>
-                <li className="py-1"><a href="#4.2">Second season</a></li>
-                <li className="py-1"><a href="#4.3">Third season</a></li>
-                <li className="py-1"><a href="#4.4">Fourth season</a></li>
-                <li className="py-1"><a href="#4.5">Fifth season</a></li>
-                <li className="py-1"><a href="#4.6">Sixth season</a></li>
-                <li className="py-1"><a href="#4.7">Webisodes</a></li>
-              </ul>
-            </li>
-          </div>
-          <li className="py-1"><a href="#5">Film</a></li>
+          <Collapse 
+            id="4"
+            item="Episodes"
+            sub={[
+              {id: "4.1", title: "First season"},
+              {id: "4.2", title: "Second season"},
+              {id: "4.3", title: "Third season"},
+              {id: "4.4", title: "Fourth season"},
+              {id: "4.5", title: "Fifth season"},
+              {id: "4.6", title: "Sixth season"},
+              {id: "4.7", title: "Webisodes"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Film</a></li>
           <div className="py-1">
             <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6"></span>
             <li className="d-inline ms-2">
