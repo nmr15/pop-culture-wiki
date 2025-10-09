@@ -279,6 +279,22 @@ const IronManFilm = () =>
               jets that attack Iron Man the call sign of "Whiplash 1" and "Whiplash 2", a reference to the comic book villain <Link>Whiplash</Link>,
               and including <Link>Captain America's shield</Link> in Stark's workshop.
             </p>
+            <p>
+              Favreau wanted the film to be believable by showing the construction of the Iron Man suit in its three stages. Stan Winston, a fan of the
+              comic book, and his company, who Favreau worked with on Zathura (2005), built metal and rubber versions of the armor. The Mark I design
+              was intended to look like it was built from spare parts. The back is less armored than the front, because Stark Stark would use his
+              resources for a forward attack. It also foreshadows the design of Stane's armor. A single 41-kilogram (90 lb) version was built, causing
+              concern when a stuntman fell over inside it, though both the stuntman and the suit were unscathed.  The armor was also designed to have
+              only its top half worn at times. Stan Winston Studios built a 3.0-meter (10 ft), 360-kilogram (800 lb) animatronic version of Iron Monger
+              (Obadiah Stane), a name which Stane calls Tony Stark and himself earleier in the film as a reference, but is never actually used for the
+              suit itself in the film. The animatronic required five operators for the arm, and was built on a gimbal to simulate walking. A scale model
+              was used for the shots of it being built. The Mark II resembles an airplane prototype, with visible flaps. Iron Man comic book artist Adi
+              Granov designed the Mark III with illustrator Phil Saunders. Granov's designs were the primary inspiration for the film's, and he came on
+              board the film after he recognized his work on Favreau's MySpace page. Saunders streamlined Granov's concept art, making it stealthier and
+              less cartoonish in its proportions, and also designed the War Machine armor, but it was "cut from the script about halfway through
+              pre-production". He explained that the War Machine armor "was going to be called the Mark IV armor and would have had weaponized swap-out
+              parts that would be worn over the original Mark III armor", and that it "would have been worn by Tony Stark in the final battle sequence".
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
@@ -320,6 +336,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
