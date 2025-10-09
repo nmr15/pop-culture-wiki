@@ -296,6 +296,21 @@ const IronManFilm = () =>
               parts that would be worn over the original Mark III armor", and that it "would have been worn by Tony Stark in the final battle sequence".
             </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <p>
+              Production was based in the former Hughes Company soundstage in Playa Vista, Los Angeles, Califronia. Howard Hughes was one of the
+              inspiration for the comic book, and the filmmakers acknowledged the coincidence that they would film Iron Man creating the flying Mark
+              III where the Hughes H-4 Hercules was built. Favreau rejected the East Coast setting of the comic books because many superhero films had
+              already been set there.
+            </p>
+            <p>
+              Filimg began on March 12, 2007, with Matthew Libatique serving as director of photography. The first few weeks of filming were spent on
+              Stark's captivity in Afghanistan. The cave where Stark is imprisoned was a 150-200 yeard (140-180 m) long set, which had movable forks
+              in the caverns to allow great freedom for the film's crew. Production designer J. Michael Riva saw footage of a Taliban fighter in
+              Afghanistan, and saw the cold breath as he spoke: realizing remote caves are actually very cold, Riva placed an air conditioning system
+              in the set. He also sought Downey's advice about makeshift objects in prison, such as a sock being used to make tea. Afterwards, Stark's
+              capture was filmed at Lone Pine, and other exterior scens in Afghanistan were filmed at Olancha Sand Dunes, where the crew endured two
+              days of 40-60-mile-per-hour (64-97 km/h) winds.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
@@ -336,6 +351,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
