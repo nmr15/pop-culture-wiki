@@ -343,6 +343,17 @@ const IronManFilm = () =>
               the X-Men at the time.
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <p>
+              Favreau's main concern with the film's effects was whether the transition between the computer-generated and practical costumes would be
+              too obvious. He hired <Link>Industrial Light & Magic</Link> (ILM) to create the bulk of the visual effects for the film after seeing
+              Pirates of the Caribbean: At World's End and Transformers. The Orphanage and The Embassy did additional work, with the latter creating a
+              ditial version of the Mark I armor. To help with aniamting the more refined suits, information was sometimes captured by having Downey
+              wear only the helmet, sleeves, and chest of the costume over a motion capture suit, and skydivers were filmed in a vertical wind tunnel to
+              study the physics of flying. For shots of the Mark III flying, it was animated to look realistic by taking off slowly, and landing quickly.
+              To generate shots of Iron Man an the F-22 Raptors battling, cmaeras were flown in the air to provide reference for physics, wind and frost
+              on the lenses. Favreau conceived of the head-up display shots so audiences would not become disconnected from Stark when watching scenes
+              with the CG Iron Man.
+            </p>
           </div>
         </div>
         <div>
@@ -382,6 +393,7 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
+
 
 
 
