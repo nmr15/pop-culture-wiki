@@ -115,7 +115,9 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="7">Subplots</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="7.1">The Slap Bet</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="8">Tie-ins</h2>
