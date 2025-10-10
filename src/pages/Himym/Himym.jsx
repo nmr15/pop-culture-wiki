@@ -12,6 +12,34 @@ const Himym = () =>
           <li className="sidebar-list-item"><a href="#3">Production</a></li>
           <li className="sidebar-list-item"><a href="#4">Syndication</a></li>
           <li className="sidebar-list-item"><a href="#5">Cast and characters</a></li>
+          <Collapse 
+            id="6"
+            item="Season synopses"
+            sub={[
+              {id: "6.1", title: "Season 1"},
+              {id: "6.2", title: "Season 2"},
+              {id: "6.3", title: "Season 3"},
+              {id: "6.4", title: "Season 4"},
+              {id: "6.5", title: "Season 5"},
+              {id: "6.6", title: "Season 6"},
+              {id: "6.7", title: "Season 7"},
+              {id: "6.8", title: "Season 8"},
+              {id: "6.9", title: "Season 9"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Critical reception</a></li>
+          <Collapse 
+            id="7"
+            item="Subplots"
+            sub={[
+              {id: "7.1", title: "The Slap Bet"},
+              {id: "7.2", title: "The Pineapple Incident"},
+              {id: "7.3", title: "Robin Sparkles"},
+              {id: "7.4", title: "The Doppelgangers"},
+              {id: "7.5", title: "The Playbook"},
+              {id: "7.6", title: "Marshall vs. Machines"},
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
