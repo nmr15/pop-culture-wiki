@@ -126,7 +126,17 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="8">Tie-ins</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="8.1">Books</h3>
+            <h3 className="article-heading-3" id="8.2">Podcasts</h3>
+            <h3 className="article-heading-3" id="8.3">Music Volume</h3>
+            <h3 className="article-heading-3" id="8.4">Soundtracks</h3>
+            <h3 className="article-heading-3" id="8.5">Pineapple incident explained</h3>
+            <h3 className="article-heading-3" id="8.6">Websites</h3>
+            <h3 className="article-heading-3" id="8.7">Spin-offs</h3>
+            <h4 className="article-heading-4" id="8.7.1">How I Met Your Dad</h4>
+            <h4 className="article-heading-4" id="8.7.2">How I Met Your Father</h4>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="9">Nielsen ratings</h2>
