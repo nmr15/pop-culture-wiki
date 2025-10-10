@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
+
 const AssassinsCreed = () => 
 {
   return (
@@ -5,6 +8,16 @@ const AssassinsCreed = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Development history"
+            sub={[
+              {id: "1.1", title: "Period one"},
+              {id: "1.2", title: "Period two"},
+              {id: "1.3", title: "Period three"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#2">Gameplay</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
