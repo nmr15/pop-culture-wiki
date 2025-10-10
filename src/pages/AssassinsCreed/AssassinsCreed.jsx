@@ -2,25 +2,23 @@ const AssassinsCreed = () =>
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
-        <ul>
-          <li className="py-1">
-            <a href="#top">Top</a>
-          </li>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
         </ul>
-      </nav>
-      <main className="main px-5 py-4">
-        <div id="top">
+      </aside>
+      <main className="main" id="top">
+        <div>
           <h1 className="article-heading">Assassin's Creed</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right img-top">
           <img 
             src="https://1000logos.net/wp-content/uploads/2017/08/Assassins-Creed-Logo-1536x966.png" 
             alt="Assassin's Creed" 
             className="article-heading-img"
           />
         </div>
-        <div className="pt-2">
+        <div className="div-top">
           <p>
             <b>Assassin's Creed</b> is a historical action-adventure video game series and media franchise published by <a href="#">Ubisoft</a> and developed mainly
             by its studio <a href="#">Ubisoft Montreal</a> using the game engine Anvil and its more advanced derivatives. Created by Patrice Désilets, Jade Raymond,
