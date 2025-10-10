@@ -354,6 +354,17 @@ const IronManFilm = () =>
               on the lenses. Favreau conceived of the head-up display shots so audiences would not become disconnected from Stark when watching scenes
               with the CG Iron Man.
             </p>
+            <p>
+              When editor Dan Lebental started compiling an initial edit of the film in late 2007, it was quickly realized that the final act of the film
+              was not working, as it was "basically two robots punching each other". They tried shortening the sequence, which did not help as it became
+              "both emotionally unsatisfying and abruptly anticlimactic". Marvel rehired Marcum and Holloway, as all of the screenwriters had been
+              relased from their commitments at the end of filming, who suggested the act should call back to earlier in the film when Stark was learning
+              that one of the limitations of the suit was it freezing at high altitudes. Favreau was hesitant to commit to this change, as it would cost
+              an additional $6 million. However, the impending writers' strike forced him to move forward with this idea, with Marcum and Holloway
+              submitting a draft of the ending on November 4, 2007, a day before the strike began. Given no further rewrites could occur because of the
+              strike and Bridges was unable to participate in shooting new material, ILM worked with as much previously-shot footage as possible to rework
+              the film's ending.
+            </p>
           </div>
         </div>
         <div>
