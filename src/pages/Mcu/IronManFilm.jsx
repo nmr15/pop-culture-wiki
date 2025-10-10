@@ -384,7 +384,16 @@ const IronManFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Marketing</h2>
-          <div></div>
+          <div>
+            <p>
+              In July 2006, with the film still in pre-production, Favreau and Arad attended <Link>San Diego Comic-Con</Link> to promote the film, where the
+              film's armor design, drawn by Adi Granov, was revealed along with the announcement fhat the Mandarin was intended to be the the antagonist of
+              the film. The following year, Favreau returned to San Diego Comic-Con to once again promote the film with Downey and Feige, where a teaser
+              trailer was shown. With much of the visuals not yet ready, Favreau worked with ILM to have the flying shots ready, saying "I know that I had
+              to make a splash because there was zero anticipation for the film at the time".Stan Winston Studios also brought a life-sized replica of the
+              film's armor to display at the convention.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="6">Release</h2>
