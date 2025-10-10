@@ -117,6 +117,11 @@ const Himym = () =>
           <h2 className="article-heading-2" id="7">Subplots</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">The Slap Bet</h3>
+            <h3 className="article-heading-3" id="7.2">The Pineapple Incident</h3>
+            <h3 className="article-heading-3" id="7.3">Robin Sparkles</h3>
+            <h3 className="article-heading-3" id="7.4">The Doppelgangers</h3>
+            <h3 className="article-heading-3" id="7.5">The Playbook</h3>
+            <h3 className="article-heading-3" id="7.6">Marshall vs. Machines</h3>
           </div>
         </div>
         <div>
