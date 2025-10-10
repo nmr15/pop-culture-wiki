@@ -369,7 +369,18 @@ const IronManFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Music</h2>
-          <div></div>
+          <div>
+            <p>
+              Composer Ramin Djawadi had been a fan of the character Iron Man as a child, saying that he always like superheroes "that actually don't have
+              any superpowers". After Favreau's previous collaborator John Debney was unavailable to score the film, Djawadi sought out the role himself.
+              Favreau had a clear vision of heavy metal music and guitars for the project, saying that Tony Stark was more of a rock star than a traditional
+              superhero. Djawadi subsequently composed most of the film's score on guitar, before arranging it for orchestra. Djawadi had help with
+              arrangements and additional cues from Hans Zimmer and Remote Control Productions, and Rage Against the Machine guitarist Tom Morello, who also
+              makes a cameo appearance in the film, contributed guitar performances to the score. The film also features a big band-style arrangement of the
+              Iron Man theme song from the 1966 cartoon The Marvel Super Heroes from frequent Favreau collaborators John O'Brien and Rick Boston. A
+              soundtrack featuring Djawadi's score was released by Lions Gate Records on April 29, 2008.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Marketing</h2>
