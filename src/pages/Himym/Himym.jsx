@@ -79,6 +79,50 @@ const Himym = () =>
             recounts to his daughter Penny and son Luke the events from September 2005 to May 2013 that led to him meeting <a href="#">their mother</a>.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Premise</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Production</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Syndication</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Cast and characters</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Season synopses</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Critical reception</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Subplots</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Tie-ins</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="9">Nielsen ratings</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="10">Awards and nominations</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="11">Home media</h2>
+          <div></div>
+        </div>
       </main>
     </>
   )
