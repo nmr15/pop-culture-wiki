@@ -97,7 +97,17 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Season synopses</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Season 1</h3>
+            <h3 className="article-heading-3" id="5.2">Season 2</h3>
+            <h3 className="article-heading-3" id="5.3">Season 3</h3>
+            <h3 className="article-heading-3" id="5.4">Season 4</h3>
+            <h3 className="article-heading-3" id="5.5">Season 5</h3>
+            <h3 className="article-heading-3" id="5.6">Season 6</h3>
+            <h3 className="article-heading-3" id="5.7">Season 7</h3>
+            <h3 className="article-heading-3" id="5.8">Season 8</h3>
+            <h3 className="article-heading-3" id="5.9">Season 9</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="6">Critical reception</h2>
