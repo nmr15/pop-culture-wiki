@@ -40,6 +40,25 @@ const Himym = () =>
               {id: "7.6", title: "Marshall vs. Machines"},
             ]}
           />
+          <Collapse 
+            id="8"
+            item="Tie-ins"
+            sub={[
+              {id: "8.1", title: "Books"},
+              {id: "8.2", title: "Podcasts"},
+              {id: "8.3", title: "Music Volume"},
+              {id: "8.4", title: "Soundtracks"},
+              {id: "8.5", title: "Pineapple incident explained"},
+              {id: "8.6", title: "Websites"},
+              {id: "8.7", title: "Spin-offs", sub2: [
+                {id: "8.7.1", title: "How I Met Your Dad"},
+                {id: "8.7.2", title: "How I Met Your Father"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#9">Nielsen ratings</a></li>
+          <li className="sidebar-list-item"><a href="#10">Awards and nominations</a></li>
+          <li className="sidebar-list-item"><a href="#11">Home media</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
