@@ -86,19 +86,36 @@ const GravityFalls = () =>
         </div>
          <div>
           <h2 className="article-heading-2" id="4">Production</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Conception</h3>
+            <h3 className="article-heading-3" id="4.2">Writing</h3>
+            <h3 className="article-heading-3" id="4.3">Animation</h3>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="5">Broadcast</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Initial broadcast</h3>
+            <h3 className="article-heading-3" id="5.2">International broadcast</h3>
+            <h3 className="article-heading-3" id="5.3">Broadcast edits</h3>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="6">Merchandise</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Home media</h3>
+            <h3 className="article-heading-3" id="6.2">Books</h3>
+            <h3 className="article-heading-3" id="6.3">Video game</h3>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="7">Reception</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Critical reception</h3>
+            <h3 className="article-heading-3" id="7.2">Ratings</h3>
+            <h3 className="article-heading-3" id="7.3">Influence, legacy, and industry impact</h3>
+            <h3 className="article-heading-3" id="7.4">Awards and nominations</h3>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="8">Future</h2>
