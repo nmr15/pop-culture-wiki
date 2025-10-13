@@ -7,21 +7,27 @@ import Home from "./pages/Home"
 import './App.css'
 import AdventureTime from "./pages/AdventureTime/AdventureTime"
 import AssassinsCreed from "./pages/AssassinsCreed/AssassinsCreed"
+import Battlefield from "./pages/Battlefield/Battlefield"
 import Beatles from "./pages/Beatles/Beatles"
+import CallofDuty from "./pages/CallofDuty/CallofDuty"
 import Community from "./pages/Community/Community"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
 import Futurama from "./pages/Futurama/Futurama"
 import GravityFalls from "./pages/GravityFalls/GravityFalls"
 import Gta from "./pages/Gta/Gta"
+import Halo from "./pages/Halo/Halo"
+import HarryPotterBooks from "./pages/HarryPotter/HarryPotterBooks"
 import Himym from "./pages/Himym/Himym"
 import MarvelComics from "./pages/MarvelComics/MarvelComics"
 import Mcu from "./pages/Mcu/Mcu"
 import Pixar from "./pages/Pixar/Pixar"
+import PhineasandFerb from "./pages/PhineasandFerb/PhineasandFerb"
 import Simpsons from "./pages/Simpsons/Simpsons"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 import Spongebob from "./pages/Spongebob/Spongebob"
 import StarWars from "./pages/StarWars/StarWars"
+import WizardingWorld from "./pages/HarryPotter/WizardngWorld"
 
 const Wrapper = ({ children }) => {
   const location = useLocation()
@@ -80,6 +86,12 @@ function App() {
         <Route path='/simpsons' element={<Simpsons />} />
         <Route path='/futurama' element={<Futurama />} />
         <Route path='/pixar' element={<Pixar />} />
+        <Route path='/hpbooks' element={<HarryPotterBooks />} />
+        <Route path='/wizardingworld' element={<WizardingWorld />} />
+        <Route path='/halo' element={<Halo />} />
+        <Route path='/call_of_duty' element={<CallofDuty />} />
+        <Route path='/battlefield' element={<Battlefield />} />
+        <Route path='/phinease_and_ferb' element={<PhineasandFerb />} />
       </Routes>
       </Wrapper>
     </>
