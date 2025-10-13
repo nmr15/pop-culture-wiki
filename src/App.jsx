@@ -76,6 +76,7 @@ function App() {
         <Route path='/gta' element={<Gta />} />
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
         <Route path='/gravityfalls' element={<GravityFalls />} />
+        <Route path="/adventuretime" element={<AdventureTime />} />
       </Routes>
       </Wrapper>
     </>
