@@ -11,6 +11,44 @@ const GravityFalls = () =>
             <li className="sidebar-list-item"><a href="#1">Premise</a></li>
             <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
             <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
+            <Collapse 
+              id="4"
+              item="Production"
+              sub={[
+                {id: "4.1", title: "Conception"},
+                {id: "4.2", title: "Writing"},
+                {id: "4.3", title: "Animation"}
+              ]}
+            />
+            <Collapse 
+              id="5"
+              item="Broadcast"
+              sub={[
+                {id: "5.1", title: "Initial broadcast"},
+                {id: "5.2", title: "International broadcast"},
+                {id: "5.3", title: "Broadcast edits"}
+              ]}
+            />
+            <Collapse 
+              id="6"
+              item="Merchandise"
+              sub={[
+                {id: "6.1", title: "Home media"},
+                {id: "6.2", title: "Books"},
+                {id: "6.3", title: "Video game"}
+              ]}
+            />
+            <Collapse 
+              id="7"
+              item="Reception"
+              sub={[
+                {id: "7.1", title: "Critical reception"},
+                {id: "7.2", title: "Ratings"},
+                {id: "7.3", title: "Influence, legacy, and industry impact"},
+                {id: "7.4", title: "Awards and nominations"},
+              ]}
+            />
+            <li className="sidebar-list-item"><a href="#8">Future</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
