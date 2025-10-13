@@ -93,6 +93,34 @@ const AdventureTime = () =>
             of Ooo.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Main characters</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Television series</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">References in other media</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Comic series</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Video games</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Books</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Merchandise</h2>
+          <div></div>
+        </div>
       </main>
     </>
   )
