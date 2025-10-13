@@ -92,14 +92,14 @@ export const topics = [
   {
     "id": 16,
     "title": "Harry Potter (Books)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/220px-Harry_Potter_wordmark.svg.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp/500px-Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp.png",
     "route": "/hpbooks"
   },
   {
     "id": 16,
-    "title": "Harry Potter (Films)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/220px-Harry_Potter_wordmark.svg.png",
-    "route": "/hpfilms"
+    "title": "Wizarding World",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Wizarding_World_logo.svg/500px-Wizarding_World_logo.svg.png",
+    "route": "/wizardingworld"
   },
   {
     "id": 17,
