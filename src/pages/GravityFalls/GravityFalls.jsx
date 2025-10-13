@@ -6,7 +6,12 @@ const GravityFalls = () =>
   return(
     <>
       <aside className="sidebar">
-        <ul className="sidebar-list"></ul>
+        <ul className="sidebar-list">
+            <li className="sidebar-list-item"><a href="#top">Top</a></li>
+            <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+            <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
+            <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
+        </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
