@@ -1,4 +1,4 @@
-const Pixar = () =>
+const AdventureTime = () =>
 {
   return(
     <>
@@ -7,4 +7,4 @@ const Pixar = () =>
   )
 }
 
-export default Pixar;
+export default AdventureTime;
