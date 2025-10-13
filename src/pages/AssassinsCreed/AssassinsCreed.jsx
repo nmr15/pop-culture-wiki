@@ -29,6 +29,9 @@ const AssassinsCreed = () =>
           <Collapse 
             id="4"
             item="Release History"
+            sub={[
+              {id: "4.1", title: "Main series"}
+            ]}
           />
           <li className="sidebar-list-item"><a href="#5">Animus Hub</a></li>
           <Collapse 
