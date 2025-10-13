@@ -56,13 +56,11 @@ const Community = () =>
           />
         </ul>
       </nav>
-      <main className="main px-5 py-4" id="top">
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
-            <li class="breadcrumb-item"><Link to="/">Home</Link></li>
-            <li class="breadcrumb-item active" aria-current="page">Community</li>
-          </ol>
-        </nav>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li>Community</li>
+        </ul>
         <div>
           <h1 className="article-heading">Community</h1>
         </div>

@@ -51,6 +51,10 @@ const AssassinsCreed = () =>
         </ul>
       </aside>
       <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li>Assassin's Creed (franchise)</li>
+        </ul>
         <div>
           <h1 className="article-heading">Assassin's Creed</h1>
         </div>

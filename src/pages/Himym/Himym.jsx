@@ -62,6 +62,10 @@ const Himym = () =>
         </ul>
       </aside>
       <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li>How I Met Your Mother</li>
+        </ul>
         <div>
           <h1 className="article-heading">How I Met Your Mother</h1>
         </div>
