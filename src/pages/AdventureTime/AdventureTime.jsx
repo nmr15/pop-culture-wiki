@@ -14,11 +14,11 @@ const AdventureTime = () =>
             item="Television series"
             sub={[
               {id: "2.1", title: "Adventure Time Shorts (2007)"},
-              {id: "2.1", title: "Adventure Time (2010-2018)"},
-              {id: "2.1", title: "Adventure Time: Distant Lands (2020-2021)"},
-              {id: "2.1", title: "Adventure Time: Fionna and Cake (2023-present)"},
-              {id: "2.1", title: "Side Quest"},
-              {id: "2.1", title: "Heyo BMO"}
+              {id: "2.2", title: "Adventure Time (2010-2018)"},
+              {id: "2.3", title: "Adventure Time: Distant Lands (2020-2021)"},
+              {id: "2.4", title: "Adventure Time: Fionna and Cake (2023-present)"},
+              {id: "2.5", title: "Side Quest"},
+              {id: "2.6", title: "Heyo BMO"}
             ]}
           />
           <Collapse 
@@ -57,7 +57,7 @@ const AdventureTime = () =>
             id="6"
             item="Books"
             sub={[
-              {id: "6.1", title: "Epic Tales from Adventure Time (2014-2016"}
+              {id: "6.1", title: "Epic Tales from Adventure Time (2014-2016)"}
             ]}
           />
           <Collapse 
@@ -99,27 +99,57 @@ const AdventureTime = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Television series</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="2.1">Adventure Time Shorts (2007)</h3>
+            <h3 className="article-heading-3" id="2.2">Adventure Time (2010-2018)</h3>
+            <h3 className="article-heading-3" id="2.3">Adventure Time: Distant Lands (2020-2021)</h3>
+            <h3 className="article-heading-3" id="2.4">Adventure Time: Fionna and Cake (2023-present)</h3>
+            <h3 className="article-heading-3" id="2.5">Side Quest</h3>
+            <h3 className="article-heading-3" id="2.6">Heyo BMO</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">References in other media</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Cameo in Futurama</h3>
+            <h3 className="article-heading-3" id="3.2">Parody in The Simpsons</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Comic series</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Comic books</h3>
+            <h4 className="article-heading-4" id="4.1.1">Trade Paperback collections</h4>
+            <h4 className="article-heading-4" id="4.1.2">Sugary Shorts</h4>
+            <h4 className="article-heading-4" id="4.1.3">Miniseries</h4>
+            <h4 className="article-heading-4" id="4.1.4">Fionna and Cake comics</h4>
+            <h3 className="article-heading-3" id="4.2">Graphic novels</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Video games</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! (2012)</h3>
+            <h3 className="article-heading-3" id="5.2">Adventure Time: Explore the Dungeon Because I Don't Know! (2013)</h3>
+            <h3 className="article-heading-3" id="5.3">Adventure Time: The Secret of the Nameless Kingdom (2014)</h3>
+            <h3 className="article-heading-3" id="5.4">Adventure Time: Finn & Jake Investigations (2015)</h3>
+            <h3 className="article-heading-3" id="5.5">Adventure Time: Pirates of the Enchiridion (2018)</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="6">Books</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Epic Tales from Adventure Time (2014-2016)</h3>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="7">Merchandise</h2>
-          <div></div>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Home release</h3>
+            <h3 className="article-heading-3" id="7.2">Board and card games</h3>
+            <h3 className="article-heading-3" id="7.3">Lego</h3>
+            <h3 className="article-heading-3" id="7.4">Other</h3>
+          </div>
         </div>
       </main>
     </>
