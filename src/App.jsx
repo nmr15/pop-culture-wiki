@@ -76,6 +76,10 @@ function App() {
         <Route path='/gta' element={<Gta />} />
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
         <Route path='/gravityfalls' element={<GravityFalls />} />
+        <Route path='/adventuretime' element={<AdventureTime />} />
+        <Route path='/simpsons' element={<Simpsons />} />
+        <Route path='/futurama' element={<Futurama />} />
+        <Route path='/pixar' element={<Pixar />} />
       </Routes>
       </Wrapper>
     </>
