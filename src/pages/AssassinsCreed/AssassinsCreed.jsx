@@ -18,6 +18,33 @@ const AssassinsCreed = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Gameplay</a></li>
+          <Collapse 
+            id="3"
+            item="Storyline"
+            sub={[
+              {id: "3.1", title: "Premise"},
+              {id: "3.2", title: "Story arcs"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Release History"
+          />
+          <li className="sidebar-list-item"><a href="#5">Animus Hub</a></li>
+          <Collapse 
+            id="6"
+            item="Other media"
+            sub={[
+              {id: "6.1", title: "Television"},
+              {id: "6.2", title: "Film"},
+              {id: "6.3", title: "Print publications"},
+              {id: "6.4", title: "Audio drama"},
+              {id: "6.5", title: "Board games"},
+              {id: "6.6", title: "Concert"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Reception</a></li>
+          <li className="sidebar-list-item"><a href="#7">Cultural impact</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
