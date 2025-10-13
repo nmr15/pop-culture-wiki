@@ -72,6 +72,38 @@ const GravityFalls = () =>
                 <Link> Disney XD</Link>.
             </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Premise</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="2">Episodes</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="3">Voice cast</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="4">Production</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="5">Broadcast</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="6">Merchandise</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="7">Reception</h2>
+          <div></div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="8">Future</h2>
+          <div></div>
+        </div>
       </main>
     </>
   )
