@@ -5,7 +5,7 @@ import { mcu, mcuMeta } from "./data/dataMcu"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
-import AdventureTime from "./pages/AdventureTime/AdventureTime"
+// import AdventureTime from "./pages/AdventureTime/AdventureTime"
 import AssassinsCreed from "./pages/AssassinsCreed/AssassinsCreed"
 import Beatles from "./pages/Beatles/Beatles"
 import Community from "./pages/Community/Community"
@@ -76,7 +76,6 @@ function App() {
         <Route path='/gta' element={<Gta />} />
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
         <Route path='/gravityfalls' element={<GravityFalls />} />
-        <Route path="/adventuretime" element={<AdventureTime />} />
       </Routes>
       </Wrapper>
     </>
