@@ -5,7 +5,6 @@ import { mcu, mcuMeta } from "./data/dataMcu"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
-// import AdventureTime from "./pages/AdventureTime/AdventureTime"
 import AssassinsCreed from "./pages/AssassinsCreed/AssassinsCreed"
 import Beatles from "./pages/Beatles/Beatles"
 import Community from "./pages/Community/Community"
