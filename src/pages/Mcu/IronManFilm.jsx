@@ -427,12 +427,30 @@ const IronManFilm = () =>
               photographer Ronnie Adams filing a lawsuit against Paramount and Marvel for using his on-location spy photo in the scene. A Walmart-exclusive
               DVD release included a preview of the animated series Iron Man: Armored Adventures.
             </p>
+            <p>
+              The film was also collected in a 10-disc box set titled "Marvel Cinematic Universe: Phase One - Avengers Assembled" which included all of
+              Phase One films in the Marvel Cinematic Universe. It was released by Walt Disney Studios Home Entertainment on April 2, 2013. The IMAX
+              Enhanced version of the film was made available on <Link>Disney +</Link> beginning on November 12, 2021.
+            </p>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              Iron Man earned $319 million in the United States and Canada and $266.8 million in other territories, for a worldwide gross of $585.8
+              million.
+            </p>
+            <p>
+              In its opening weekend, Iron Man grossed $98.6 million in 4,105 theaters in the United States and Canada, ranking first at the box office,
+              giving it the eleventh biggest-opening weekend at the time, ninth-widest release in terms of theaters, and the third highest-grossing opening
+              weekend of 2008 behind <Link>Indiana Jones and the Kingdom of the Crystal Skull</Link> and <Link>The Dark Knight</Link>. It grossed
+              $35.2 million on its first day, giving it the thirteenth biggest-opening day at the time. Iron Man had the second-best premiere for a
+              non-sequel, behind <Link>Spider-Man</Link>, and the fourth biggest-opening for a superhero film. Iron Man was also the number one film in
+              the United States and Canada in its second weekend, grossing $51.2 million, giving it the twelfth-best second weekend and the fifth-best
+              for a non-sequel. On June 19, 2008, Iron Man became that year's first film to pass the $300 million mark for the domestic box office.
+            </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
