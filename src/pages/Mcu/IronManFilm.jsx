@@ -413,7 +413,20 @@ const IronManFilm = () =>
           <h2 className="article-heading-2" id="6">Release</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <p>
+              Iron Man premiered at the Greater Union theater at George Street, Sydney, on April 14, 2008. The film began releasing in international markets
+              on April 30, and was released in the United States on May 2, 2008. Iron Man was the first film released in <Link>Phase One</Link> of the MCU.
+              The film was re-formatted and screened in IMAX for the first time on August 30, 2018, as part of Marvel Studios' 10th anniversary IMAX festival.
+            </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              The film was released by Paramount Home Entertainment on DVD and Blu-Ray Disc on September 30, 2008, in the United States and Canada, and
+              October 27, 2008 in most of Europe. DVD sales were very successful, selling over 4 milion copies the first week and generating a gross of over
+              US$93 million. There were a total of 9 million copies sold and an accumulated total sales of over $160 million (not including Blu-ray). For
+              the home release of the film, the image on the newspaper Stark reads before he announces he is Iron Man had to be altered because of amateur
+              photographer Ronnie Adams filing a lawsuit against Paramount and Marvel for using his on-location spy photo in the scene. A Walmart-exclusive
+              DVD release included a preview of the animated series Iron Man: Armored Adventures.
+            </p>
           </div>
         </div>
         <div>
