@@ -5,7 +5,20 @@ const Simpsons = () =>
 {
   return(
     <>
-      <aside className="sidebar"></aside>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Background"
+            sub={[
+              {id: "1.1", title: "Creation"},
+              {id: "1.1", title: "Themes"},
+              {id: "1.1", title: "Main characters"}
+            ]}
+          />
+        </ul>
+      </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
@@ -24,7 +37,8 @@ const Simpsons = () =>
         <div className="div-top">
           <p>
             The Simpsons is an American animated comedy franchise whose eponymous family consists of <Link>Homer</Link>, <Link>Marge</Link>,
-            <Link> Bart</Link>, <Link>Lisa</Link>, and <Link>Maggie</Link>.
+            <Link> Bart</Link>, <Link>Lisa</Link>, and <Link>Maggie</Link>. The Simpsons were created by cartoonist <Link>Matt Groening</Link> for
+            a series of <Link>animated shorts</Link> that debuted on The Tracey Ullman Show on <Link>Fox</Link> on April 19, 1987.
           </p>
         </div>
       </main>
