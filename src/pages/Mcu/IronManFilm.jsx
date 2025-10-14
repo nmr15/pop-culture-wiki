@@ -496,7 +496,20 @@ const IronManFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="8">Sequels</h2>
-          <div></div>
+          <div>
+            <p>
+              Main articles: <Link to="/mcu/iron_man_2">Iron Man 2</Link> and <Link to="/mcu/iron_man_3">Iron Man 3</Link>
+            </p>
+            <p>
+              A sequel written by Justin Theroux and released in the United States on May 7, 2010, saw Favreau, Downey, Paltrow, Gregg, and Jackson
+              returning. <Link>Don Cheadle</Link> replaced Terrence Howard in the role of Colonel Rhodes, who is also seen as War Machine. Also
+              starring are <Link>Mickey Rourke</Link> as villain <Link>Ivan Vanko</Link>, <Link>Sam Rockwell</Link> as <Link>Justin Hammer</Link>,
+              and <Link to="/mcu/natasha_romanoff">Scarlett Johansson</Link> as S.H.I.E.L.D. agent <Link>Natasha Romanoff</Link>. Walt Disney Studios
+              and Marvel Studios released a second sequel on May 3, 2013, with Favreau opting to direct Magic Kingdom instead, but still reprised his role
+              as Happy Hogan. Downey, Platrow, and Cheadle also return while Shane Black took over directing, from a screenplay by Drew Pearce.
+              <Link>Guy Pearce</Link> also starred as <Link>Aldrich Killian</Link>, and <Link>Ben Kingsley</Link> as <Link>Trevor Slattery</Link>.
+            </p>
+          </div>
         </div>
         <div>
           <TableMcu />
