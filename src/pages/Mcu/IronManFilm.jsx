@@ -452,6 +452,20 @@ const IronManFilm = () =>
               for a non-sequel. On June 19, 2008, Iron Man became that year's first film to pass the $300 million mark for the domestic box office.
             </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 94%, with an average score of 7.7/10, based on 282 reviews. The
+              website's critical consensus reads, "Powered by Robert Downey Jr.'s vibrant charm, Iron Man turbo-charged the superhero genre with a deft
+              intelligence and infectious sense of fun." On Metacritic, the film has an average score of 79 out of 100, based on 38 critics, indicating
+              "generally favorable" reviews. Audiences plled by CinemaScore gave the film an average grade of "A" on an A+ to F scale.
+            </p>
+            <p>
+              Among the major trade journals, Todd McCarthy of Variety called the film an "expensively entertaining special effects extravaganza"
+              with "fresh energy and stylish polish", while Kirk Honeycutt of The Hollywood Reporter praised the film, while nonetheless finding
+              "disappointment [in] a climactic battle between different Iron Man prototypes ... how did Tony's nemesis learn how to use the suit?"
+              In one of the first major-daily newspaper reviews, Frank Lovece of Newsday lauded the film's "emotional truth ...pitch-perfect casting
+              and plausibly rendered super-science" that made it "faithful to the source material while updating it, and recognizing what's made that
+              material so enduring isn't just the high-tech cool of a man in a metal suit, but the human condition that got him there".
+            </p>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
         </div>
