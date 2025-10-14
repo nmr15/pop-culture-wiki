@@ -473,6 +473,16 @@ const IronManFilm = () =>
               something that, whilst hardly original or groundbreaking, is nervertheless refreshing in its earnestness to avoid dark dramatic stylings
               in favor of an easy-going, crows-pleasing action movie with a sprinkle of anti-war and redemption themes".
             </p>
+            <p>
+              Among major metropolitan weeklies, David Edelstein of New York magazine called the film "a sharply piece of mythmaking ...Favreau
+              doesn't go in for stylized comic-book frames, at least in the first half. He gets real with it, you'd think you were watching a
+              military thriller", while conversely, David Denby of The New Yorker gave a negative review, claiming "a slightly depressed,
+              going-through-the-motions feel to the entire show ...Gwyneth Paltrow, widening her eyes and palpitating, can't do much with an antique
+              role as Stark's girl Friday, who loves him but can't say so; Terrence Howard, playing a military man who chases around after Stark, looks
+              displaced and taken for granted". IGN's Todd Gilchrist recognized Downey as "the best thing" in a film that "functions on autopilot,
+              providing requisite story development and character details to fill in this default 'origin story' while the actors successfully breathe
+              life into their otherwise conventional roles."
+            </p>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
         </div>
