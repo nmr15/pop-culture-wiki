@@ -484,6 +484,14 @@ const IronManFilm = () =>
               life into their otherwise conventional roles."
             </p>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
+            <p>
+              Roger Ebert and Richard Corliss named Iron Man as among their favorite films of 2008. It was selected by the American Film Institute as
+              one of the ten best films of the year and by Empire magazine as one of The 500 Greatest Movies of All Time. Tony Stark was also selected
+              by Empire as one of The 100 Greatest Movie Characters of All Time, and on their list of the 100 Greatest Ficitional Characters, Fandomania.com
+              ranked him at number 37. The Library of Congress selected Iron Man to be added to the National Film Registry in 2022, deeming it
+              "culturally, historically, or aesthetically significant". Responding to the selection, Feige stated its inclusion on the Film Registry
+              meant the film "has stood the test of time and that it is still meaningful to audiences around the world".
+            </p>
           </div>
         </div>
         <div>
