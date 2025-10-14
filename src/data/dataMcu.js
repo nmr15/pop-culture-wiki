@@ -623,7 +623,7 @@ export const mcuChar = [
     "id": "mcuchar1",
     "title": "Tony Stark (MCU)",
     "file": "TonyStarkMCU",
-    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg/revision/latest/scale-to-width-down/535?cb=20240802142023",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg",
     "route": "/mcu/tony_stark"
   },
   {
