@@ -464,7 +464,14 @@ const IronManFilm = () =>
               "disappointment [in] a climactic battle between different Iron Man prototypes ... how did Tony's nemesis learn how to use the suit?"
               In one of the first major-daily newspaper reviews, Frank Lovece of Newsday lauded the film's "emotional truth ...pitch-perfect casting
               and plausibly rendered super-science" that made it "faithful to the source material while updating it, and recognizing what's made that
-              material so enduring isn't just the high-tech cool of a man in a metal suit, but the human condition that got him there".
+              material so enduring isn't just the high-tech cool of a man in a metal suit, but the human condition that got him there". Roger Ebert of
+              the Chicago Sun-Times gave the film four out of four stars, praising Downey's performance and stating, "At the end of the day it's Robert
+              Downey Jr. who powers the lift-off separating this from other superhero movies". A. O. Scott of The New York Times called the film "an
+              unusually good superhero picture. Or at least, since it certainly has its problems, a superhero movie that's good in unusual ways."
+              Among the specialty press, Garth Franklin of Dark Horizons commended the "impressive sets and mechanics that combine smoothly with
+              relatively seamless CG", and said, "Roberty Downey Jr., along with director Jon Favreau ...help this rise above formula. The result is
+              something that, whilst hardly original or groundbreaking, is nervertheless refreshing in its earnestness to avoid dark dramatic stylings
+              in favor of an easy-going, crows-pleasing action movie with a sprinkle of anti-war and redemption themes".
             </p>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
