@@ -393,6 +393,20 @@ const IronManFilm = () =>
               to make a splash because there was zero anticipation for the film at the time".Stan Winston Studios also brought a life-sized replica of the
               film's armor to display at the convention.
             </p>
+            <p>
+              Marvel and Paramount modeled their marketing campaign for Iron Man on that of Transformers. In May 2008, <Link>Sega</Link> released an official
+              tie-in <Link>video game based on the film</Link> on multiple gaming platforms. Downey, Howard, and Toub reprise their roles from the film. A
+              30-second spot for the film aired during Super Bowl XLII break. <Link>Hasbro</Link> created figures of armor from the film, as well as
+              <Link> Titanium Man</Link> (who appears in the video game) and the <Link>armor from the World War Hulk comics</Link>.
+            </p>
+            <p>
+              The 7-Eleven convenience store chain helped promote the film across the United States, and LG Group also made a sponsorship deal with Paramount.
+              Worldwide, Burger King and Audi promoted the film. Favreau was set to direct a commercial for the fast-food chain, as Transformers director
+              <Link> Michael Bay</Link> did for that film. In the film, Tony Stark drives an Audi R8, and also has an "American cheeseburger" from Burger
+              King after his rescue from Afghanistan, as part of the studio's product placement deal with the respective companies. Three other vehicles, the
+              Audi S5 sports coupe and the Audi Q7 SUV, also appear in the film. Audi created a tie-in website, as General Motors did for Transformers.
+              Oracle Corporation also promoted the film on its site. Several <Link>tie-in comics</Link> were released for the film.
+            </p>
           </div>
         </div>
         <div>
