@@ -588,12 +588,3 @@ const IronManFilm = () =>
 
 
 export default IronManFilm;
-
-
-
-
-
-
-
-
-
