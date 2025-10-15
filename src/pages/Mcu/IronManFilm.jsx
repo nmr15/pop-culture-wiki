@@ -89,7 +89,16 @@ const IronManFilm = () =>
           <h2 className="article-heading-2" id="1">Plot</h2>
           <div>
             <p>
-              <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
+              Playboy and visionary industrial genius <Link to="/mcu/tony_stark">Tony Stark</Link>, CEO of leading military defense contractor, <Link>Stark Industries</Link>,
+              is at a casino, blowing off an award ahead of a big day in war-torn Kunar, Afghanistan, to demonstrate his company's new <Link>Jericho</Link> missile.
+              With him is his friend and military liaison, Lieutenant Colonel <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, a member of the United States Air
+              Force, they arrive.
+            </p>
+            <div className="img-left" style={{width: "250px"}}>
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Terrence-Howard_RDJ_Iron-Man-1-.jpg" alt="" />
+            </div>
+            {/* <p>
+               <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
               war-torn Afghanistan with his best friend and military liasion, <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
               demonstration, his convoy is ambushed by a terrorist group, the <Link>Ten Rings</Link>, and Stark is gravely wounded by a missile used by the attackers,
               one of his company's own. He is captured and imprisoned in a cave by the Ten Rings. <Link>Yinsen</Link>, a fellow captive and doctor, implants an
@@ -128,7 +137,7 @@ const IronManFilm = () =>
             <p>
               In a post-credits scene, S.H.I.E.L.D. director <Link to="/mcu/nick_fury">Nick Fury</Link> visits Stark at his home, telling him he has become part of a
               "bigger universe", and that he wants to discuss the "<Link>Avengers Initiative</Link>".
-            </p>
+            </p> */}
           </div>
         </div>
         <div>
