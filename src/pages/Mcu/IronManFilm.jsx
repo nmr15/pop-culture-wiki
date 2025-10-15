@@ -88,15 +88,24 @@ const IronManFilm = () =>
         <div>
           <h2 className="article-heading-2" id="1">Plot</h2>
           <div>
+            <div className="img-left" style={{width: "250px"}}>
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Terrence-Howard_RDJ_Iron-Man-1-.jpg" alt="" />
+            </div>
             <p>
               Playboy and visionary industrial genius <Link to="/mcu/tony_stark">Tony Stark</Link>, CEO of leading military defense contractor, <Link>Stark Industries</Link>,
               is at a casino, blowing off an award ahead of a big day in war-torn Kunar, Afghanistan, to demonstrate his company's new <Link>Jericho</Link> missile.
               With him is his friend and military liaison, Lieutenant Colonel <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, a member of the United States Air
               Force, they arrive.
             </p>
-            <div className="img-left" style={{width: "250px"}}>
-              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Terrence-Howard_RDJ_Iron-Man-1-.jpg" alt="" />
+            <div className="img-right" style={{width: "250px"}}>
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/Tony_Stark_(2008).jpg" alt="" />
             </div>
+            <p>
+              While riding in a transport convoy, Stark is critically wounded in an ambush and held captive in a cave by the <Link>Ten Rings</Link>. An electromagnet built by
+              fellow captive <Link>Ho Yinsen</Link> keeps the shrapnel that wounded Stark from reaching his heart and killing him. The Ten Rings leader, <Link>Raza Hamidmi
+              al-Wazar</Link>, offers Stark freedom; in exchange, Stark must build a Jericho missile for the terrorists. Stark and Yinsen agree that al-Wazar will not keep
+              his word of letting Stark live.
+            </p>
             {/* <p>
                <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
               war-torn Afghanistan with his best friend and military liasion, <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
