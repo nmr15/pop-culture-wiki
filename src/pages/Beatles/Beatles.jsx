@@ -100,6 +100,19 @@ const Beatles = () =>
             first hit, "<Link>Love Me Do</Link>", in late 1962. As their popularity grew into the intense fan frenzy dubbed "<Link>Beatlemania</Link>", the band
             acquired the nickname "the Fab Four".
           </p>
+          <p>
+            By early 1964, the Beatles were international stars and had achieved unprecedented levels of critical and commercial success. They became a leading
+            force in Britain's cultural resurgence, ushering in the British invasion of the United States pop market. They soon made their film debut with
+            <Link>A Hard Day's Night</Link> (1964). A growing desire to refine their studio efforts, coupled with the challenging nature of their concert
+            tours, led to the band's retirement from live performances in 1966. During this time, they produced albums of great sophistication, including
+            <Link>Rubber Soul</Link> (1965), <Link>Revolver</Link> (1966), and <Link>Sgt. Pepper's Lonely Hearts Club Band</Link> (1967). They enjoyed further
+            commercial success with <Link>The Beatles</Link> (also known as "the White Album", 1968) and <Link>Abbey Road</Link> (1969). The success of these
+            records heralded the <Link>album era</Link>, increased public interest in psychedelic drugs and Eastern spirituality, and furthered advancements
+            in electronic music, album art, and music videos. In 1968, they founded Apple Corps, a multi-armed multimedia company that continues to oversee
+            projects related to the band's legacy. After <Link>the group's break-up</Link> in 1970, all principal former members enjoyed success as solo
+            artists. While some partial reunions occurred over the next decades, the four members never reunited. <Link>Lennon was murdered</Link> in 1980
+            and Harrison died of lung cancer in 2001; McCartney and Starr remain musically active.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">History</h2>
