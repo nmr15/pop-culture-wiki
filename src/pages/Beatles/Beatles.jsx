@@ -85,12 +85,20 @@ const Beatles = () =>
         </div>
         <div className="div-top">
           <p>
-            <b>The Beatles</b> were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
+            The Beatles were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
             <a href="#">George Harrison</a>, and <a href="#">Ringo Starr</a>. They are widely regarded as the most influential band in Western popular music and were integral to the
             development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated elements of
             classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in
             recording, songwriting, and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and
-            sociocultural movements
+            sociocultural movements.
+          </p>
+          <p>
+            Led by primary songwriters <Link>Lennon and McCartney</Link>, the Beatles evolved from Lennon's previous group, <Link>the Quarrymen</Link>, and built
+            their reputation by playing clubs in Liverpool and Hamburg, Germany, starting in 1960. The core trio of Lennon, Mccartney, and Harrison, together
+            since 1958, went through a succession of drummers before inviting Starr to join them in 1962. Manager Brian Epstein moulded them into a professional
+            act, and producer George Martin developed their recordings, greatly expanding their domestic success after they signed with EMI and achieved their
+            first hit, "<Link>Love Me Do</Link>", in late 1962. As their popularity grew into the intense fan frenzy dubbed "<Link>Beatlemania</Link>", the band
+            acquired the nickname "the Fab Four".
           </p>
         </div>
         <div>
