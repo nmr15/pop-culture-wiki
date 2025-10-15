@@ -106,6 +106,25 @@ const IronManFilm = () =>
               al-Wazar</Link>, offers Stark freedom; in exchange, Stark must build a Jericho missile for the terrorists. Stark and Yinsen agree that al-Wazar will not keep
               his word of letting Stark live.
             </p>
+            <p>
+              While pretending to work on the missile, Stark and Yinsen secretly build a powerful electric generator called an <Link>Arc Reactor</Link> to power Stark's
+              electromagnet. They then begin to build a <Link>powered suit of armor</Link>, designed by Stark, to help them escape. The Ten Rings ambush the workshop when
+              they discover Stark's plan, but Yinsen sacrifices himself to distract them while Stark's suit powers up. Using the armored suit, Stark fights his way out of
+              the cave to find a mortally wounded Yinsen, who reassures Stark and urges him to continue his escape and not waste his life. An enraged Stark leaves the
+              cave, burns the terrorist's stockpile of Stark Industries-produced weapns, and flies away. Having escaped, Stark crashes in the desert, which destroys the
+              suit.
+            </p>
+            <p>
+              Having been rescued by a search party, including Rhodes, Stark returns home. He calls a press conference to announce that his company will no longer
+              manufacture weapons, having seen first-hand the strife that they cause in the wrong hands. <Link>Obadiah Stane</Link>, his father's old partner and the
+              company's manager, informs Stark that this may ruin Stark Industries and his father's legacy.
+            </p>
+            <p>
+              In his home workshop, Stark spends the following weeks building an <Link>improved version</Link> of his suit, as well as a more powerful arc reactor for his
+              chest. At Stark's first public appearance after his return, <Link>Christine Everhart</Link> informs him that Stark Industries weapons, including the Jericho
+              missile, were recently delivered to the Ten Rings and are being used to attack Guiira, Yinsen's home village. Stark confronts Stane about the supplied
+              weapons and learns that Stane is trying to replace him as head of the company.
+            </p>
             {/* <p>
                <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
               war-torn Afghanistan with his best friend and military liasion, <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
