@@ -125,6 +125,36 @@ const IronManFilm = () =>
               missile, were recently delivered to the Ten Rings and are being used to attack Guiira, Yinsen's home village. Stark confronts Stane about the supplied
               weapons and learns that Stane is trying to replace him as head of the company.
             </p>
+            <p>
+              Enraged, Stark dons his <Link>new armor</Link> and flies to Afghanistan, where he saves the citizens of Guimira from the Ten Rings' wrath. While flying
+              home, Stark is engaged by two F-22 Raptors on behalf of the U.S. Air Force. He phones Rhodes and reveals his identity in an attempt to call off the attack.
+              Meanwhile, the Ten Rings gather the pieces of Stark's prototype suit. Al-Wazar meets with Stane and offers to exchange the suit with him. However, Stane
+              has al-Wazar and his faction eliminated, taking the suit for himself. Returning to Stark Industries, Stane orders his scientists to have a new suit
+              reverse-engineered from the wreckage.
+            </p>
+            <p>
+              Seeking to find any other weapons delivered to the Ten Rings, Stark sends his trusted personal assistant, <Link>Pepper Potts</Link>, to hack into the
+              company computer system from Stane's office. Potts finds evidence of Stane supplying weapons to the terrorists, but also discovers that Stane had initially
+              hired the Ten Rings to kill Stark in Afghanistan. After an uncomfortable encounter with a suspicious Stane, Potts meets with 
+              <Link to="/mcu/phil_coulson">Phil Coulson</Link> of <Link>S.H.I.E.L.D.</Link>, to inform him of Stane's activities.
+            </p>
+            <p>
+              Stane's scientists reveal that they cannot finish his suit, as no one can manage to duplicate Stark's Arc Reactor. Stane ambushes Stark at his home using
+              a <Link>Sonic Taser</Link> to paralyze him and take his current Arc Reactor. Left to die, Stark manages to crawl to his lab and saves himself by re-using
+              his original arc reactor. Potts and several S.H.I.E.L.D. agents attempt to arrest Stane, but he dons <Link>his suit</Link> and atacks them. Stark fights
+              Stane, but is outmatched without his upgraded reactor to run his suit at full capacity.
+            </p>
+            <p>
+              Stark lures Stane atop the Stark Industries building and instructs Potts to overload the large Arc Reactor there. Doing so unleashes a massive electrical
+              surge that knocks Stane unconscious, causing him and his armor to fall into the exploding reactor, killing him. The next day, the press has dubbed the
+              armored hero "Iron Man". Agent Coulson gives Stark a cover story to explain the events of the night and Stane's death. At a press conference, Stark begins
+              giving the cover story, but then instead announces that he is Iron Man, shocking the public as the crowd of interviewers suddenly begin roaring out
+              questions, much to Rhodes' confusion.
+            </p>
+            <p>
+              Afterward, <Link to="/mcu/nick_fury">Nick Fury</Link> visits Stark at his home, stating that Iron Man is not "the only superhero in the world," and wants
+              to discuss the <Link>Avengers Initiative</Link>.
+            </p>
             {/* <p>
                <Link to="/mcu/tony_stark">Tony Stark</Link>, who has inherited the defense contractor <Link>Stark Industries</Link> from his late father <Link>Howard Stark</Link>, tours in
               war-torn Afghanistan with his best friend and military liasion, <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, to demonstrate the new "Jericho" missile. After the
