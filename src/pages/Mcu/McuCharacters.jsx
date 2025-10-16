@@ -25,6 +25,7 @@ const McuCharacters = () =>
                             route={char.route}
                             img={char.img}
                             alt={char.title}
+                            imgStyle={card-img-vertical}
                             title={char.title}
                         />
                     </div>
