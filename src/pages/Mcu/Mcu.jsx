@@ -393,6 +393,7 @@ const Mcu = () =>
                   route={inf.route}
                   img={inf.img}
                   alt={inf.title}
+                  imgStyle="card-img-vertical"
                   title={inf.title}
                 />
               </div>
@@ -406,6 +407,7 @@ const Mcu = () =>
                     route={mul.route}
                     img={mul.img}
                     alt={mul.title}
+                    imgStyle="card-img-vertical"
                     title={mul.title}
                   />
                 </div>
@@ -424,6 +426,7 @@ const Mcu = () =>
                     route={tv.route}
                     img={tv.img}
                     alt={tv.title}
+                    imgStyle="card-img-horizontal"
                     title={tv.title}
                   />
                 </div>
@@ -437,6 +440,7 @@ const Mcu = () =>
                     route={mcutv.route}
                     img={mcutv.img}
                     alt={mcutv.title}
+                    imgStyle="card-img"
                     title={mcutv.title}
                   />
                 </div>

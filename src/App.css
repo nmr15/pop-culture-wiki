@@ -306,6 +306,13 @@ p
   object-fit: cover;
 }
 
+.card-img-horizontal
+{
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
+}
+
 table
 {
   border-collapse: collapse;
