@@ -88,7 +88,13 @@ const Gta = () =>
             Gameplay focuses on an open world where the player can complete missions to progress an overall story, as well as engage in various side
             activities. Most of the gameplay revolves around driving and shooting, with occasional role-playing and stealth elements. The series also
             has elements of the earlier beat 'em up games from the 16-bit era. The games in the Grand Theft Auto series are set in fictional locales
-            modelled after real-life cities, at various points in time from the early 1960s to the 2010s.
+            modelled after real-life cities, at various points in time from the early 1960s to the 2010s. The original game's map encompassed three
+            cities, Liberty City (based on New York City), San Andreas (based on San Francisco), and Vice City (based on Miami), but later titles
+            tend to focus on a single setting and expand upon the original three locales. Each game in the series centers on different respective
+            protagonist who attempts to rise through the criminal underworld due to various motives, often accompanying themes of betrayal. Several
+            film and music veterans have voiced characters in the game, including <Link>Ray Liotta</Link>, Dennis Hopper, <Link>Sameul L.
+            Jackson</Link>, William Fichtner, <Link>James Woods</Link>, Debbie Harry, <Link>Axl Rose</Link>, and Peter Fonda, while few others have
+            appeared as themselves, including <Link>Lazlow</Link>, <Link>Phil Collins</Link>, Dr. Dre, and Anderson Paak.
           </p>
         </div>
         <div>
