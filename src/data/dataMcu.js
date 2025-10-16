@@ -847,7 +847,7 @@ export const mcuChar = [
     "id": "mcuchar33",
     "title": "Alexei Shostakov",
     "file": "AlexeiShostakov",
-    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Red_Guardian_Info",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Red_Guardian_Infobox.jpg",
     "route": "/mcu/alexei_shostakov"
   },
   {
@@ -877,5 +877,61 @@ export const mcuChar = [
     "file": "IkarisMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/Ikaris_Character_Poster.jpg",
     "route": "/mcu/ikaris"
+  },
+  {
+    "id": "mcuchar38",
+    "title": "Thena (MCU)",
+    "file": "ThenaMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/Thena_First_Look.jpg",
+    "route": "/mcu/thena"
+  },
+  {
+    "id": "mcuchar39",
+    "title": "Ajak (MCU)",
+    "file": "AjakMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Ajak_Infobox.jpg",
+    "route": "/mcu/ajak"
+  },
+  {
+    "id": "mcuchar40",
+    "title": "Kingo (MCU)",
+    "file": "KingoMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Kingo_Character_Poster.jpg",
+    "route": "/mcu/kingo"
+  },
+  {
+    "id": "mcuchar41",
+    "title": "Sprite (MCU)",
+    "file": "SpriteMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d8/Sprite_Character_Poster.jpg",
+    "route": "/mcu/sprite"
+  },
+  {
+    "id": "mcuchar42",
+    "title": "Phastos (MCU)",
+    "file": "PhastosMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/Phastos_Character_Poster.jpg",
+    "route": "/mcu/phastos"
+  },
+  {
+    "id": "mcuchar43",
+    "title": "Makkari (MCU)",
+    "file": "MakkariMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/78/Makkari_infobox.jpg",
+    "route": "/mcu/makkari"
+  },
+  {
+    "id": "mcuchar44",
+    "title": "Druig (MCU)",
+    "file": "DruigMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6d/Druig_Character_Poster.jpg",
+    "route": "/mcu/druig"
+  },
+  {
+    "id": "mcuchar45",
+    "title": "Gilgamesh (MCU)",
+    "file": "GilgameshMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/07/Gilgamesh_Character_Poster.jpg",
+    "route": "/mcu/gilgamesh"
   }
 ]
