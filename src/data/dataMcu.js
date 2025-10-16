@@ -828,5 +828,12 @@ export const mcuChar = [
     "file": "CarolDanversMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_Marvel_Profile.png",
     "route": "/mcu/carol_danvers"
+  },
+  {
+    "id": "mcuchar31",
+    "title": "Yelena Bolova (MCU)",
+    "file": "YelenaBolovaMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8e/Yelena_Belova_Infobox.jpg",
+    "route": "/mcu/yelena_bolova"
   }
 ];
