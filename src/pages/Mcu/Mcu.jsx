@@ -426,7 +426,7 @@ const Mcu = () =>
                     route={tv.route}
                     img={tv.img}
                     alt={tv.title}
-                    imgStyle="card-img-horizontal"
+                    imgStyle="card-img"
                     title={tv.title}
                   />
                 </div>
