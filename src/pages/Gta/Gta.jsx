@@ -84,6 +84,12 @@ const Gta = () =>
             (formerly DMA Design), and published by its American parent company, <a href="#">Rockstar Games</a>. The name of the series is a term for motor vehicle
             theft in the United States.
           </p>
+          <p>
+            Gameplay focuses on an open world where the player can complete missions to progress an overall story, as well as engage in various side
+            activities. Most of the gameplay revolves around driving and shooting, with occasional role-playing and stealth elements. The series also
+            has elements of the earlier beat 'em up games from the 16-bit era. The games in the Grand Theft Auto series are set in fictional locales
+            modelled after real-life cities, at various points in time from the early 1960s to the 2010s.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Series history</h2>
