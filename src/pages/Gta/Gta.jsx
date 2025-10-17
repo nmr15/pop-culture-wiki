@@ -407,6 +407,12 @@ const Gta = () =>
               James Woods, it has been decided that the use of such actors should be reduced, particularly for leading roles. As a result, many
               of the prominent roles in San Andreas were voiced by lower profile actors or rappers.
             </p>
+            <p>
+              From Liberty City Stories through to Grand Theft Auto V, the series has continued using lesser known actors to voice main
+              characters, but still use celebrities and real-life radio personalities to voice the DJs of the many radio stations featured in
+              each game. Some games also feature celebrities portraying themselves, such as Lazlow Jones, <Link>Phil Collins</Link>, Ricky
+              Gervais, Katt Williams, and Dr. Dre.
+            </p>
           </div>
         </div>
         <div>
