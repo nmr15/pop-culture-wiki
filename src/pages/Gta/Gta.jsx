@@ -287,6 +287,12 @@ const Gta = () =>
               and other benefits they had before being chased. The "wanted level" gameplay concept has become common in similar open world games.
             </p>
             <h3 className="article-heading-3" id="3.2">Settings</h3>
+            <p>
+              Most Grand Theft Auto games are set in fictional parodies of well-known United States cities, in a number of different time periods. The
+              games are split into three different universes (2D, 3D, and HD), each with their own reinterpretations of previously established settings.
+              The universes share the names of cities, several brands, and background characters who never make physical appearances in the games (with
+              a few exceptions), but are otherwise considered to be separate continuities.
+            </p>
             <h4 className="article-heading-4" id="3.2.1">Liberty City</h4>
             <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
             <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
