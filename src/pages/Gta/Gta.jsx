@@ -244,6 +244,48 @@ const Gta = () =>
           <h2 className="article-heading-2" id="3">Common elements</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Gameplay</h3>
+            <p>
+              Each game in this series allows the player to take on the role of a criminal in the big city, typically an individual who ends up rising
+              through the ranks of organized crime through the course of the game. The player is given various missions by kingpins and major idols in
+              the city underworld which must be completed to progress through the storyline. Assassinations and other violent crimes are featured
+              regularly. Occasionally, taxi driving, firefighting, street racing, bus driving, or learning to fly helicopters and fixed-wing aircraft
+              are also involved in the game.
+            </p>
+            <p>
+              In later titles, notably those released after Grand Theft Auto 2, the player is given a more developed storyline in which they are forced to
+              overcome an unfortunate event (e.g., being betrayed and left for dead), which serves as motivation for the character to advance up the
+              criminal ladder and ultimately leads to the triumph of the character by the end of the storyline.
+            </p>
+            <p>
+              The Grand Theft Auto series belongs to a genre of free-roaming role-playing video games called open world games, and grants a large amount of
+              freedom to the player. Traditional action games are structured as a single track series of levels with linear gameplay, but in Grand Theft
+              Auto the player can determine the missions that they want to undertake, and their relationship with various characters are changed based on
+              these choices, influenced by the earlier game Turbo Esprit, the cities of the games can be roamed freely at any point in the game, and are
+              examples of open world video game environments which offer accessible buildings with minor missions in addition to the main storyline. There
+              are exceptions; missions follow a linear, overarching plot. These missions are required to complete in order to unlock new areas in the game.
+            </p>
+            <p>
+              Grand Theft Auto III and subsequent games have more voice acting and radio stations, which simulate driving to music with disc jockeys, radio
+              personalities, commercials, talk radio, popular music, and American culture.
+            </p>
+            <p>
+              The use of vehicles in an explorable urban environment provides a basic simulation of a working city, complete with pedestrians who generally
+              obey traffic signals. Further details are used to flesh out an open-ended atmosphere that has been used in several other games, such as
+              <Link> The Simpsons: Hit & Run</Link>, which has less emphasis on crime or violence, and Lego City Undercover, which reverses the roles of
+              police officer and criminal, although the player goes undercover in gangs for a portion of the game.
+            </p>
+            <p>
+              Criminal activities in Grand Theft Auto games do not go unnoticed by the police. As the player engages in these in-game illegal activities,
+              they may gain a "wanted level", represented by a maximum of five or six stars. A small crime, such as running over a non-playable
+              character, may create a one star wanted level situation, while shooting an officer may earn more stars. As the number of stars increase,
+              the amount and strength of the response will increase; a single star might have a few police cars chase after the player, while at 5 or 6
+              stars, tanks and attack helicopters will chase down the player. Many in-game missions will automatically give the player a wanted level
+              after completing a certain event which they must then get rid of before the mission is complete. Often, trying to keep away from the police
+              while wanted will cause the player to gain even higher wanted levels. The player can remove their character's wanted level by avoiding
+              detection or spending in-game money at specific locations to elude the police (such as a mod shop to repair their car). Alternatively, if
+              the player-character dies, they will respawn at a hospital and the wanted level will be removed, though the player may lose money, guns,
+              and other benefits they had before being chased. The "wanted level" gameplay concept has become common in similar open world games.
+            </p>
             <h3 className="article-heading-3" id="3.2">Settings</h3>
             <h4 className="article-heading-4" id="3.2.1">Liberty City</h4>
             <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
