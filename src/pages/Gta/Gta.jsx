@@ -215,12 +215,29 @@ const Gta = () =>
         <div>
           <h2 className="article-heading-2" id="2">Related media</h2>
           <div>
-            The series has been expanded into various other formats. Jacked: The Outlaw Story of Grand Theft Auto, a book written by David Kushner
-            chronicling the development of the series, was published in 2012. In March 2015, BBC Two announced The Gamechangers, a 90-minute docudrama
-            based on the creation of Grand Theft Auto. Directed by Owen Harris and written by James Wood, the drama stars <Link>Daniel Radcliffe</Link>
-            as Rockstar president <Link>Sam Houser</Link> and <Link>Bill Paxton</Link> as disbarred attorney <Link>Jack Thompson</Link>. In May 2015,
-            Rockstar filed a lawsuit against the BBC for trademark infringement, stating that they had no involvement with the development of the film
-            and had unsuccessfully tried to contact the BBC to resolve the matter. It first aired on September 15, 2015 on BBC Two.
+             <p>
+              The series has been expanded into various other formats. Jacked: The Outlaw Story of Grand Theft Auto, a book written by David Kushner
+              chronicling the development of the series, was published in 2012. In March 2015, BBC Two announced The Gamechangers, a 90-minute docudrama
+              based on the creation of Grand Theft Auto. Directed by Owen Harris and written by James Wood, the drama stars <Link>Daniel Radcliffe</Link>
+              as Rockstar president <Link>Sam Houser</Link> and <Link>Bill Paxton</Link> as disbarred attorney <Link>Jack Thompson</Link>. In May 2015,
+              Rockstar filed a lawsuit against the BBC for trademark infringement, stating that they had no involvement with the development of the film
+              and had unsuccessfully tried to contact the BBC to resolve the matter. It first aired on September 15, 2015 on BBC Two.
+            </p>
+            <p>
+              In 2006, McFarland & Company published The Meaning and Culture of Grand Theft Auto. Compiled by Nate Garrelts, the 264-page book is a
+              collection of essays regarding the Grand Theft Auto series, to help audiences better understand the games and to make a point about due
+              diligence of game criticism. The book is divided into two parts: the first part discusses the controversies surrounding the series, while
+              the second half takes a theoretical look at the games absent of the controversy.
+            </p>
+            <p>
+              Roger Corman, who produced the unrelated 1977 film Grand Theft Auto, claimed that any attempted film adaptation of the video game series
+              was unable to proceed. In 2017, he claimed that he sude the "video game manufacturer who flat-out stole the idea", and that they "settled
+              out of court and they gave me some money". He said that he retains the rights, "but the way it was actually written in the contract is a
+              little bit cloudy", and that his lawyers were analysing the contract to ensure that he can remake the film. Take-Two Interactive responded
+              to Corman's claims, noting that the company "owns all rights for films related to the Grand Theft Auto video game series", and that it
+              "can and will take appropriate legal action against anyone attempting to misuse our intellectual property by attempting to make a new film
+              titled Grand Theft Auto"; it claimed to have successfully taken legal action against similar attempts in the past.
+            </p>
           </div>
         </div>
         <div>
