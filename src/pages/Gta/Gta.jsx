@@ -375,6 +375,26 @@ const Gta = () =>
               the real world Miami Beach.
             </p>
             <h4 className="article-heading-4" id="3.2.4">Other settings</h4>
+            <p>
+              The London 1969 and London 1961 expansion packs for Grand Theft Auto take place within a fictionalized version of London during the
+              1960s. As such, they are the only games in the series to be set outside of the United States. The portion of the city used in the games
+              is based on Central London, although heavily condensed and mostly geographically inaccurate. It consists of two landmasses, separated
+              by the River Thames and connected by several road bridges. A fictionalized version of Manchester is also featured in the games.
+            </p>
+            <p>
+              Grand Theft Auto 2 is set in Anywhere City, a fictional US retro futuristic metropolis with no apparent inspiration from any
+              real-life city. The setting consists of three areas, which the player will switch between as the story progresses: the Downtown
+              District, the Residential District, and the Industrial District. Each district is depicted as its own individual island. The game is
+              set in an unspecified time period, conflicting sources suggest anything from "three weeks into the future", toe the year 2013, while
+              the game itself features several references to the "new millennium" that is coming, implying that the year is 1999.
+            </p>
+            <p>
+              Grand Theft Auto V features the fictional town of Ludendorff in the state of North Yankton, which is the setting of two missions and
+              is inaccessible outside of the storyline. The 2020 update for <Link>Grand Theft Auto Online</Link>, The Cayo Perico Heist, introduced
+              the eponymous fictional island, a "tropical paradise" off the Caribbean coast of Colombia privately owned by notorious drug lord
+              Juan "El Rubio" Strickler. The island is used as both a transshipment base and a partying place by El Rubio, and draws inspiration
+              from Norman's Cay and Hacienda Napoles. Cayo Perico is the first setting in the series not located in the United States since London.
+            </p>
             <h3 className="article-heading-3" id="3.3">Voice acting</h3>
           </div>
         </div>
