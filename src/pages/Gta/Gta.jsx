@@ -96,6 +96,20 @@ const Gta = () =>
             Jackson</Link>, William Fichtner, <Link>James Woods</Link>, Debbie Harry, <Link>Axl Rose</Link>, and Peter Fonda, while few others have
             appeared as themselves, including <Link>Lazlow</Link>, <Link>Phil Collins</Link>, Dr. Dre, and Anderson Paak.
           </p>
+          <p>
+            DMA Design began the series with 1997's Grand Theft Auto. As of 2020, the series consists of seven standalone titles and four expansion
+            packs. The third main title, <Link>Grand Theft Auto III</Link>, released in 2001, is considered a landmark game, and brough the series
+            into a three-dimensional environment for the first time. Subsequent titles have followed and built upon the format established by Grand
+            Theft Auto III, receiving significant acclaim. The games influenced other open-world games, and led to the label <Link>Grand Theft
+            Auto clone</Link> on similar titles.
+          </p>
+          <p>
+            The series has been critically acclaimed, with all the main 3D entries in the franchise frequently ranked among the greatest and
+            best-selling video games; it has shipped almost 450 million units, making it one of the best-selling video game franchises. In 2006,
+            Grand Theft Auto was featured in a list of British design icon ins in the Great British Design Quest organised by the BBC and the
+            Design Museum. In 2013, The Telegraph ranked Grand Theft Auto among Britain's most successful exports. The series has also been
+            controversial for its adult nature and violent themes, as well as for cut content.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Series history</h2>
