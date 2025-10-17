@@ -187,6 +187,13 @@ const Gta = () =>
               Switch</Link>, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on November 11, 2021, and for Android and iOS on
               December 14, 2023.
             </p>
+            <p>
+              Grand Theft Auto: Episodes from Liberty City is a standalone compilation of the two episodes for Grand Theft Auto IV. It contains both
+              The Lost and Damned and The Ballad of Gay Tony on one disc. It was released on October 29, 2009 for the Xbox 360 and on April 13, 2010
+              for PlayStation 3 and Windows. Microsoft added Episodes from Liberty City to its backwards compatibility list for Xbox One platforms in
+              February 2017. The standalone release of Episodes from Liberty City for Windows was discontinued and replaced by a single-player-only
+              version of Grand Theft Auto IV: Complete Edition in 2020.
+            </p>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
           </div>
         </div>
