@@ -324,6 +324,34 @@ const Gta = () =>
               by road bridges, underground tunnels, and a subway system; none of which lead out of the city.
             </p>
             <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
+            <p>
+              San Andreas, based on San Francisco, is one of the three original cities introduced in Grand Theft Auto. It is the second setting
+              available to the player. The locale encompasses two landmasses: a large northern portion, which is divided into fifteen districts and
+              generally considered to be the city's core, and a smaller island in the southeast, consisting of only one district, which acts as the
+              city's docks area. The northern landmass is further divided by Aye Valley, which cuts through the heart of the area from the east to the
+              west.
+            </p>
+            <p>
+              A reimagined version of San Andreas was featured in Grand Theft Auto: San Andreas (set in 1992), as a state rather than a city. Based on
+              California and Nevada, the state encompasees two landmasses, separated by a river and surrounded by a large body of water. The southern
+              portion of the map features the cities of Los Santos (based on Los Angeles) and San Fierro (San Francisco), separated by vast forest
+              and mountain areas. By contrast, the northern portion is one large desert region and incorporates only one city, Las Venturas
+              (Las Vegas). Both landmasses feature additional rural settlements, which are less inhabited than the three major cities. The cities are
+              connected by a train track system, and each one features an airport, which can be used to fast travel from a city to another. At the
+              beginning of the game, players only have access to Los Santos, with the rest of the map being gradually unlcoked as the story progresses.
+            </p>
+            <p>
+              A third version of San Andreas appeared in Grand Theft Auto V (set in 2013), again imagined as a state. The game features only the
+              southern portion of the state, which is depicted as a large island. The southern portion of the island is occupied mostly by the city of
+              Los Santos (which resembles Los Angeles much more closely than its San Andreas counterpart), while the northern portion, known as Blaine
+              County, is less inhabited, featuring vast areas of desert, forest, and mountain, and only a few small towns. This version of San Andreas
+              is currently the only setting in the series that does not feature any map limitations, allowing players to explore the entire island at
+              the beginning of the game. Los Angeles was extensively researched for Grand Theft Auto V. The team organized field research trips with
+              tour guides and architectural historians and capture around 250,000 photos and hours of video footage during these visits. Since the
+              release of the game, hundreds of in-game buildings have been identified as being based on real-world landmarks. The New Yorker's Sam
+              Sweet noted that, with sales of the game reaching thirteen million copies, "there will be more people living in the imaginary state of
+              Los Santos than in the real city on which it was modelled."
+            </p>
             <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
             <h4 className="article-heading-4" id="3.2.4">Other settings</h4>
             <h3 className="article-heading-3" id="3.3">Voice acting</h3>
