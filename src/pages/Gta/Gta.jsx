@@ -168,6 +168,13 @@ const Gta = () =>
               take place simultaneously with Grand Theft Auto IV's. Both were later released for the PlayStation 3 and Windows as part of a
               compilation, titled Grand Theft Auto: Episodes from Liberty City, also avaiable on Xbox 360.
             </p>
+            <p>
+              Numerous titles in the series have received ports to mobile devices. Chinatown Wars was released for iOS in 2010 and for Android and
+              Fire OS in 2014. For their tenth anniversaries, Grand Theft Auto III and Vice City were both re-released for iOS and Android in 2011
+              and 2012, respectively. In 2013, San Andreas was ported to iOS, Android, and Windows Phone and RT; the mobile port was later re-released
+              for Xbox 360 in 2014, the year of the game's tenth anniversary, and the following year for PlayStation 3. In 2015, Liberty City Stories
+              was ported to iOS, Android, and Fire OS.
+            </p>
             <h3 className="article-heading-3" id="1.3">Compilations</h3>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
           </div>
