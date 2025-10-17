@@ -294,6 +294,35 @@ const Gta = () =>
               a few exceptions), but are otherwise considered to be separate continuities.
             </p>
             <h4 className="article-heading-4" id="3.2.1">Liberty City</h4>
+            <p>
+              Liberty City, based on New York City, is one of the three original cities introduced in Grand Theft Auto. It is the first setting available
+              to the player. The city encompasses two landmasses (a large one in the southeast and a smaller one in the northeast) and a Manhattan-like
+              central island; two smaller islands are featured along the river that separates the three main islands. This setting also incorporates the
+              neighbouring state of New Guernsey (a parody of New Jersey), which occupies the northwest portion of the map. All four major islands are
+              divided into multiple districts, inspired by New York and New Jersey's boroughs.
+            </p>
+            <p>
+              A redesigned version of Liberty City was introduced in Grand Theft Auto III (set in 2001). This iteration is only loosely based on New York,
+              and incorporates elements from other U.S. cities, such as Philadelphia, Detroit, Boston, Chicago, and Baltimore. The city encompasses three
+              main islands, which are gradually unlocked as the game's storyline progresses: Portland (based on the industrial areas of Brooklyn and
+              Queens, with additional elements from Manhattan and Long Island), Staunton Island (based mostly on Manhattan), and Shoreside Vale (loosely
+              based on North Jersey, The Bronx, Staten Island, and Upstate New York). The islands are connected by road bridges and an underground
+              tunnel system. A tunnel leading out of Liberty City can be found in Shoreside Vale, but it is impassable by the player. This particular
+              version of Liberty City returned in the prequels Grand Theft Auto Advance (set in 2000) and Grand Theft Auto: Liberty City Stories (set in
+              1998), albeit with several changes to reflect the different time periods. The city was also mentioned in Grand Theft Auto: Vice City and
+              Grand Theft Auto: San Andreas, and was the setting of a mission in the latter.
+            </p>
+            <p>
+              A third version of Liberty City was featured in Grand Theft Auto IV, its expansion packs The Lost and Damned and The Ballad of Gay Tony
+              (all three set in 2008), and the handheld game Grand Theft Auto: Chinatown Wars (set in 2009). This iteration closely resembles New York,
+              and consists of four main boroughs, which become available to explore as the story progresses: Broker (based on Brooklyn), Dukes (Queens),
+              Bohan (The Bronx), and Algonquin (Manhattan). The placement of these boroughs mirrors that of their real-life counterparts: Broker and
+              Dukes occupy a large landmass in the southeast, while Bohan forms its own, smaller island in the northeast, and Algonquin acts as the
+              city's central island. The setting also incorporates three smaller islands, Charge Island (Randall's Island), Colony Island (Roosevelt
+              Island), and Happiness Island (Liberty Island), and a fourth landmass, Alderney, which is located west of Algonquin and regarded as its
+              own idependent state (similar to New Jersey). Alderney is absent in Chinatown Wars. All islands, barring Happiness Island, are connected
+              by road bridges, underground tunnels, and a subway system; none of which lead out of the city.
+            </p>
             <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
             <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
             <h4 className="article-heading-4" id="3.2.4">Other settings</h4>
