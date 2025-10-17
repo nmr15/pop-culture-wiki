@@ -353,6 +353,27 @@ const Gta = () =>
               Los Santos than in the real city on which it was modelled."
             </p>
             <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
+            <p>
+              Vice City, based on Miami, is one of the three original cities introduced in Grand Theft Auto. It is the third setting available to the
+              player. The city encopasses one large landmass divided into eight districts which form the city's core, and a smaller island, Vice Beach,
+              in the northeast. Like its real-life counterpart, Vice City is depicted as a tropical city, easily distinguished from the other two in
+              the game by its beaches and palm trees.
+            </p>
+            <p>
+              A redesigned version of Vice City, located in the state of Florida, was introduced in Grand Theft Auto: Vice City (set in 1986). The
+              city consists of two main landmasses, Vice City Beach and Vice City Mainland, separated by a large body of water and connected to each
+              other and to two smaller islands, Starfish Island and Prawn Island, by a series of road bridges. At the beginning of the game, the
+              player only has access to Vice City Beach, with the rest of the city being gradually unlocked as the story progresses. The same setting
+              would be later used in the prequel Grand Theft Auto: Vice City Stories (set in 1984), albeit with several changes to reflect the
+              earlier time period.
+            </p>
+            <p>
+              A third version of Vice City will be featured as a main setting of the upcoming Grand Theft Auto VI (set in the present) and will again
+              be based on Miami. It is also being re-imagine as a major city in the fictional state of Leonidas, based on Florida, and as the county
+              seat of Vice-Dale County, based on Miami-Dade County. In addition, unlike previous iterations of the city, Vice Beach (known as Vice
+              City Beach in the 3D universe's depiction of Vice City) will be its own separate city complete with its own police force, much like
+              the real world Miami Beach.
+            </p>
             <h4 className="article-heading-4" id="3.2.4">Other settings</h4>
             <h3 className="article-heading-3" id="3.3">Voice acting</h3>
           </div>
