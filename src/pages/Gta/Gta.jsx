@@ -214,7 +214,14 @@ const Gta = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Related media</h2>
-          <div></div>
+          <div>
+            The series has been expanded into various other formats. Jacked: The Outlaw Story of Grand Theft Auto, a book written by David Kushner
+            chronicling the development of the series, was published in 2012. In March 2015, BBC Two announced The Gamechangers, a 90-minute docudrama
+            based on the creation of Grand Theft Auto. Directed by Owen Harris and written by James Wood, the drama stars <Link>Daniel Radcliffe</Link>
+            as Rockstar president <Link>Sam Houser</Link> and <Link>Bill Paxton</Link> as disbarred attorney <Link>Jack Thompson</Link>. In May 2015,
+            Rockstar filed a lawsuit against the BBC for trademark infringement, stating that they had no involvement with the development of the film
+            and had unsuccessfully tried to contact the BBC to resolve the matter. It first aired on September 15, 2015 on BBC Two.
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Common elements</h2>
