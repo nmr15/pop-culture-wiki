@@ -197,17 +197,19 @@ const Gta = () =>
               version of Grand Theft Auto IV: Complete Edition in 2020.
             </p>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
-            {gta.map((gta) => (
-              <div className="col-4" key={gta.id}>
-                <Card 
-                  route={gta.route}
-                  img={gta.img}
-                  alt={gta.title}
-                  imgStyle="card-img-vertical"
-                  title={gta.title}
-                />
-              </div>
-            ))}
+            <div className="row">
+              {gta.map((gta) => (
+                <div className="col-4" key={gta.id}>
+                  <Card 
+                    route={gta.route}
+                    img={gta.img}
+                    alt={gta.title}
+                    imgStyle="card-img-vertical"
+                    title={gta.title}
+                  />
+                </div>
+              ))}
+            </div>
           </div>
         </div>
         <div>
