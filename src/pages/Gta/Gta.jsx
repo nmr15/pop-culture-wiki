@@ -418,6 +418,11 @@ const Gta = () =>
         <div>
           <h2 className="article-heading-2" id="4">Controversies</h2>
           <div>
+            <p>
+              According to The Guinness World Records 2008 and 2009 Gamer's Edition, it is the most controversial video game series in history,
+              with over 4,000 articles published about it, which include accusations of glamorizing violence, corrupting gamers, and connection
+              to real life crimes.
+            </p>
             <h3 className="article-heading-3" id="4.1">Grand Theft Auto</h3>
             <h3 className="article-heading-3" id="4.2">Grand Theft Auto III</h3>
             <h3 className="article-heading-3" id="4.3">Vice City</h3>
