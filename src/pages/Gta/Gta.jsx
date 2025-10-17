@@ -396,6 +396,17 @@ const Gta = () =>
               from Norman's Cay and Hacienda Napoles. Cayo Perico is the first setting in the series not located in the United States since London.
             </p>
             <h3 className="article-heading-3" id="3.3">Voice acting</h3>
+            <p>
+              The series has included a wide variety of voice actors. The original Grand Theft Auto, its mission packs and its sequel, as well as
+              Grand Theft Auto Advance and Chinatown Wars did not feature any voice credited to specific roles. The first game in the series to do
+              so was Grand Theft Auto III which, despite a limited budget and the series' low profile at the time, featured several notable actors
+              from film and television. These include Frank Vincent, Michael Madsen, and Kyle MacLachlan, who all had prominent roles. At the time
+              it was rare for a video game to use such high-profile actors, and Grand Theft Auto III is considered a pioneer in doing so. The
+              next game, Grand Theft Auto: Vice City, featured more film actors, including Ray Liotta as the player character. Althoug the
+              following title, Grand Theft Auto: San Andreas, also featured many notable film actors, such as Samuel L. Jackson, Peter Fonda, and
+              James Woods, it has been decided that the use of such actors should be reduced, particularly for leading roles. As a result, many
+              of the prominent roles in San Andreas were voiced by lower profile actors or rappers.
+            </p>
           </div>
         </div>
         <div>
