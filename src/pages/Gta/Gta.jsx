@@ -122,6 +122,35 @@ const Gta = () =>
               are considered the "HD universe". Each universe is considered separate with only brands, place names, and background characters
               shared between them.
             </p>
+            <p>
+              Grand Theft Auto, the first game in the series, was released for <Link>MS-DOS</Link> and <Link>Windows</Link> in November 1997, ported
+              to the <Link>PlayStation</Link> in 1998 and the <Link>Game Boy Color</Link> in 1999. Grand Theft Auto 2 was released in 1999 for
+              Windows, later received ports on the PlayStation, Dreamcast, and Game Boy Color.
+            </p>
+            <p>
+              The <Link>PlayStation 2</Link> also featured three installments of the main series, all of which have been re-released on several
+              platforms; a deal between <Link>Take-Two Interactive</Link> and <Link>Sony Computer Entertainment</Link> resulted in their timed
+              exclusivity on the PlayStation 2, before receiving ports to Windows and the <Link>Xbox</Link>. The 2001 title Grand Theft Auto III
+              moved away from the two-dimension (2D) graphics used in the first two games to three-dimensional (3D) computer graphics.
+              <Link> Grand Theft Auto: Vice City</Link> was published in 2002, and was the first to feature a speaking protagonst, voice by Ray
+              Liotta. <Link>Grand Theft Auto: San Andreas</Link>, released in 2004, introduced various new elements, including character
+              customization and a large map encompassing three cities and surrounding rural area.
+            </p>
+            <p>
+              Two main installments were published for the <Link>PlayStation 3</Link> and <Link>Xbox 360</Link>. The 2008 title <Link>Grand
+              Theft Auto IV</Link> focused on realism and detail, removing various customization features, while adding an online multiplayer mode.
+              <Link> Grand Theft Auto V</Link>, published in 2013, featured three playable protagonists. It was released to massive financial
+              success, breaking multiple records. It was later re-released with various enhancements, in 2014 for the <Link>PlayStation 4</Link> and
+              <Link> Xbox One</Link>, and in 2015 for Windows; versions for <Link>PlayStation 5</Link> and <Link>Xbox Series X and S</Link> were
+              released in 2022.
+            </p>
+            <p>
+              On February 4, 2022, Rockstar confirmed that development of a new entry in the series was "well underway". In-development footage of
+              the game leaked in September 2022; Rockstar noted that was "extremely dissapointed" by the manner in which the game was first 
+              demonstrated, but that it did not anticipate long-term effects on development. In December 2023, the game was officially announed as
+              <Link>Grand Theft Auto VI</Link>, with a projected relase date of 2025 for the PlayStation 5 and Xbox Series X/S. It was later delayed
+              to May 26, 2026.
+            </p>
             <h3 className="article-heading-3" id="1.2">Other games</h3>
             <h3 className="article-heading-3" id="1.3">Compilations</h3>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
