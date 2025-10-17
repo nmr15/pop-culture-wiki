@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
+import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableGta from '../../components/TableGta'
+import { gta } from '../../data/dataGta'
 
 const Gta = () => 
 {
