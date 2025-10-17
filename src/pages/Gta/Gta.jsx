@@ -115,6 +115,13 @@ const Gta = () =>
           <h2 className="article-heading-2" id="1">Series history</h2>
           <div>
             <h3 className="article-heading-3" id="1.1">Main series</h3>
+            <p>
+              The Grand Theft Auto series is split into separate fictional universes, named after the primary level of graphics capability used
+              in each era. The original Grand Theft Auto, its expansions and its sequel are considered the "2D universe". Grand Theft Auto III
+              and its sequels are considered the "3D universe". <Link>Grand Theft Auto IV</Link>, its expansions and <Link>Grand Theft Auto V</Link>
+              are considered the "HD universe". Each universe is considered separate with only brands, place names, and background characters
+              shared between them.
+            </p>
             <h3 className="article-heading-3" id="1.2">Other games</h3>
             <h3 className="article-heading-3" id="1.3">Compilations</h3>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
