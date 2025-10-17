@@ -176,6 +176,17 @@ const Gta = () =>
               was ported to iOS, Android, and Fire OS.
             </p>
             <h3 className="article-heading-3" id="1.3">Compilations</h3>
+            <p>
+              Grand Theft Auto Double Pack was released in 2003 for the PlayStation 2 and Xbox, and includes both Grand Theft Auto III and Vice City.
+              Grand Theft Auto: The Trilogy is a compilation of III, Vice City, and San Andreas, and was first released in 2005 for the Xbox. It was
+              later re-released for the PlayStation 2, Windows, Mac OS X, and PlayStation 4. The Trilogy also served as the revised package for San
+              Andreas, which had to be pulled from shelves due to the controversial <Link>Hot Coffee mod</Link>. A report in August 2021 suggested
+              that Rockstar Dundee was leading development on a remastered version of the trilogy, using <Link>Unreal Engine</Link>; following some
+              leaks, Rockstar officially announced <Link>Grand Theft Auto: The Trilogy - The Defintive Edition</Link> on October 8, 2021. The game
+              features graphical and gameplay upgrades, and replaced existing versions on digital retailers. It was released for the <Link>Nintendo
+              Switch</Link>, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on November 11, 2021, and for Android and iOS on
+              December 14, 2023.
+            </p>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
           </div>
         </div>
