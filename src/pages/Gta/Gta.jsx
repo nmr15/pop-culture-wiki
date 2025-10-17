@@ -152,6 +152,22 @@ const Gta = () =>
               to May 26, 2026.
             </p>
             <h3 className="article-heading-3" id="1.2">Other games</h3>
+            <p>
+              Grand Theft Auto has spawned numerous additional games and expansion packs. In 1999, the original game received two expansion packs:
+              Grand Theft Auto: London 1969 and Grand Theft Auto: London 1961, which, as their names suggest, featured a different setting, a
+              fictional version of London, and new missions and characters. Grand Theft Auto Advance, released in 2004 exclusively for the
+              <Link> Game Boy Advance</Link>, featured a top-down perspective, similarly to the first two main games in the series, and the same
+              setting as Grand Theft Auto III, to which it served as a prequel. Three games were released for the <Link>PlayStation Portable</Link>:
+              <Link> Grand Theft Auto: Liberty City Stores</Link> in 2005, which is also a prequel to Grand Theft Auto III; <Link>Grand Theft
+              Auto: Vice City Stories</Link> in 2006, which is a prequel to Vice City; and <Link>Grand Theft Auto: Chinatown Wars</Link> in 2009,
+              which features the same setting as Grand Theft Auto IV, but the two games are otherwise unrelated. Both Liberty City Stories and Vice
+              City Stories were later ported to the PlayStation 2, while Chinatown Wars was originally released for the <Link>Nintendo DS</Link> and
+              later ported to PlayStation Portable. In 2009, <Link>The Lost and Damned</Link> and <Link>The Ballad of Gay Tony</Link> were released
+              for the Xbox 360 as expansion packs to Grand Theft Auto I; a "strategic alliance" between Rockstar and <Link>Microsoft</Link> resulted
+              in the timed exclusivity. The expansions focus on characters who played a relatively minor role in the main game, and whose stories
+              take place simultaneously with Grand Theft Auto IV's. Both were later released for the PlayStation 3 and Windows as part of a
+              compilation, titled Grand Theft Auto: Episodes from Liberty City, also avaiable on Xbox 360.
+            </p>
             <h3 className="article-heading-3" id="1.3">Compilations</h3>
             <h3 className="article-heading-3" id="1.4">Titles</h3>
           </div>
