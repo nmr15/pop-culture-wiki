@@ -284,6 +284,11 @@ p
   padding-right: 3rem;
 }
 
+.card
+{
+  margin: var(--px-16) 0;
+}
+
 .card-top, .card-body
 {
   text-align: center;
