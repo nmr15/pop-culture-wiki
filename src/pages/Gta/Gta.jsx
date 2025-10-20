@@ -506,8 +506,34 @@ const Gta = () =>
               Best stated "Rockstar North has crossed a line by effectively forcing people to take on the role of a torturer and perform a
               series of unspeakable acts if they want to achieve success in the game."
             </p>
+            <p>
+              The game has also been accused of sexism. The Los Angeles Times considered the game's satirical portrayals of women uncreative,
+              and added that violent and sexist themes hurt the game experience. Edge noted that while "every female in the game exists solely
+              to be sneered, leered, or laughed at", it treated its all-men lead characters in a similar vein through their stereotyped
+              tendencies towards violence. Sam Houser, Rockstar Games co-founder, felt that the development team sometimes overlooked their
+              portrayal of women in Grand Theft Auto games, but that the weight towards male characters "fit with the story we wanted to tell".
+            </p>
             <h3 className="article-heading-3" id="4.9">Lawsuits</h3>
+            <p>
+              Several celebrities have sued Rockstar Games and/or Take-Two Interactive for puportedly violating their intellectual property or
+              personality rights, including hip-hop artitst Daz Dillinger, Karen Graveno of Mob Wives, and actress Lindsay Lohan.
+            </p>
             <h4 className="article-heading-4" id="4.9.1">Lawsuits invloving Jack Thompson</h4>
+            <p>
+              Former lawyer Jack Thompson has been involved in a number of attempts to get families or murder victims to hold the Grand Theft Auto
+              series accountable for the death of their loved ones. Due to his conduct in this and related cases, Thompson was disbarred in 2008
+              and was fined more than $100,000 by the Florida Bar Association.
+            </p>
+            <p>
+              On October 20, 2003, the families of Aaron Hamel and Kimberly Bede, two young people shot by teens William and Josh Buckner (who in
+              statements to investigators claimed their actions were inspired by Grand Theft Auto III) file a US$246 million lawsuit against
+              publisher Rockstar Games, Take-Two Interactive Software, retailer Walmart, and PlayStation 2 manufacturer <Link>Sony Computer
+              Entertainment America</Link>. Rockstar and its parent company, Take-Two, filed for dismissal of the lawsuite, stating in US District
+              Court on October 29, 2003 that the "ideas and concepts as well as the 'purported psychological effects' on the Buckners are protected
+              by the First Amenment's free-speech clause". The lawyer of the victims, Jack Thompson, denied that, but failed in his attempt to move
+              the lawsuit into a state court and under Tennessee's consumer protection act. Two days later, the plaintiff filed a Notion of
+              Voluntary Dismissal, and the case was closed.
+            </p>
             <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
           </div>
         </div>
