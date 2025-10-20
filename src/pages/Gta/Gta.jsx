@@ -424,8 +424,35 @@ const Gta = () =>
               to real life crimes.
             </p>
             <h3 className="article-heading-3" id="4.1">Grand Theft Auto</h3>
+            <p>
+              The game was controversial from the first incarnation of the series. Grand Theft Auto was condemned in Britain, Germany, and
+              France due to its "extreme violence", and Brazil banned it outright. Publicisit Max Clifford planted sensational stories in
+              tabloids in order to help sell the first game.
+            </p>
             <h3 className="article-heading-3" id="4.2">Grand Theft Auto III</h3>
+            <p>
+              The controversies flared up again Grand Theft Auto III, for various reasons. First, the 3D graphics made the violence more realistic.
+              Also, players could restore their health by paying for the services of prostitutes, and if they wished, kill them to get some of
+              their money back.
+            </p>
+            <p>
+              There was also criticism of the focus on illegal activities in comparison with traditional "heroic" roles that other games offer. The
+              main character can commit crimes and violent acts, including the killing of policemen and military personnel, while suffering only
+              temporary consequences.
+            </p>
             <h3 className="article-heading-3" id="4.3">Vice City</h3>
+            <p>
+              The sixth game in the series, Grand Theft Auto: Vice City, also came under criticism. One mission in particular, in which the player
+              must instigate a gang war between Haitian and Cuban gangs, has been controversial. Haitian and Cuban anti-defamation groups
+              criticized the game.
+            </p>
+            <p>
+              Jean-Robert Lafortune of the Haitian American Grassroots Coalition in quoted as saying that "The game shouldn't be designed to
+              destroy human life, it shouldn't be designed to destroy an ethnic group," for this and similar scenarios, including lines in the
+              game's script such as "kill the Haitian dickheads" said by character "Diaz" during an altercation between the player and a Haitian
+              gang. After the threat of a lawsuit by the Haitian-American Grassroots Coalition, Rockstar removed the word "Haitian" from the
+              phrase in the game's subtitles.
+            </p>
             <h3 className="article-heading-3" id="4.4">San Andreas</h3>
             <h3 className="article-heading-3" id="4.5">Grand Theft Auto IV</h3>
             <h3 className="article-heading-3" id="4.6">The Lost and Damned</h3>
