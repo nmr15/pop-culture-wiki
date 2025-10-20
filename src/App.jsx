@@ -2,6 +2,7 @@ import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
 import { communitychars } from "./data/dataCommunity"
 import { mcu, mcuMeta } from "./data/dataMcu"
+import { gta } from "./data/dataGta"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -56,6 +57,11 @@ const routesMcu = mcu.map(mcu => ({
   Component: lazy(() => import(`./pages/Mcu/${mcu.file}.jsx`))
 }));
 
+const routesGta = gta.map(gta => ({
+  path: gta.route,
+  Component: lazy(() => import(`./pages/Gta/${gta.file}.jsx`))
+}))
+
 function App() {
 
   return (
@@ -84,6 +90,9 @@ function App() {
         <Route path='/spongebob' element={<Spongebob />} />
         <Route path='/himym' element={<Himym />} />
         <Route path='/gta' element={<Gta />} />
+        {routesGta.map(({ path, Component }, index) => (
+            <Route key={index} path={path} element={<Component />} />
+          ))}
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
         <Route path='/gravityfalls' element={<GravityFalls />} />
         <Route path='/adventuretime' element={<AdventureTime />} />
