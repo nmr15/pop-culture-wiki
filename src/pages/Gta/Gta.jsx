@@ -468,6 +468,18 @@ const Gta = () =>
               rating. A class action lawsuit against Take-Two was also filed as a result of the "Hot Coffee" code.
             </p>
             <h3 className="article-heading-3" id="4.5">Grand Theft Auto IV</h3>
+            <p>
+              One of the controversies invlived with this game was Mothers Against Drunk Driving's (MADD) criticism of the ability to drink and
+              drive as a new feature. MADD had even requested the ESRB to change the rating of the game from "M" for ages seventeen and up to "AO",
+              for adults only, because they felt it was inappropriate for children, even at the age of seventeen, to experience drunk driving in
+              such a manner. In the final game, drunk driving is a playable event, but it is a crime that automatically generates a wanted rating
+              and main playable character <Link>Niko Bellic</Link> loudly (and drunkenly) proclaims that it is a "bad idea" and that he "should
+              know better".
+            </p>
+            <p>
+              Notably, it is impossible to drive while drunk in the GTA IV expansions, The Lost and Damned and The Ballad of Gay Tony. These were
+              released after the criticism. It is, however, possible to drunk drive again the successor, Grand Theft Auto V.
+            </p>
             <h3 className="article-heading-3" id="4.6">The Lost and Damned</h3>
             <h3 className="article-heading-3" id="4.7">Chinatown Wars</h3>
             <h3 className="article-heading-3" id="4.8">Grand Theft Auto V</h3>
