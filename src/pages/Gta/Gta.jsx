@@ -481,7 +481,18 @@ const Gta = () =>
               released after the criticism. It is, however, possible to drunk drive again the successor, Grand Theft Auto V.
             </p>
             <h3 className="article-heading-3" id="4.6">The Lost and Damned</h3>
+            <p>
+              The Lost and Damned expansion pack for Grand Theft Auto IV was condemened by US parents group Common Sense Media who issued a public
+              warning against the pack's content due to a full-frontal nudity scene during one of the cutscenes. They claimed the game was "more
+              controversial than its predecessors" because it featured "full frontal male nudity".
+            </p>
             <h3 className="article-heading-3" id="4.7">Chinatown Wars</h3>
+            <p>
+              There has been some controversy over a drug dealing minigame along with comments that some Nintendo games are being aimed at children
+              (despite the fact that the game was rated Mature). The drug dealing minigame allows players to peddle six types of drugs around the
+              city, but the profit the player makes depends on market conditions, which will be based on the area in which they deal, and the
+              level of regular service this area receives from them.
+            </p>
             <h3 className="article-heading-3" id="4.8">Grand Theft Auto V</h3>
             <h3 className="article-heading-3" id="4.9">Lawsuits</h3>
             <h4 className="article-heading-4" id="4.9.1">Lawsuits invloving Jack Thompson</h4>
