@@ -614,7 +614,26 @@ const Gta = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="6">Similar games</h2>
-          <div></div>
+          <div>
+            <p>
+              The release of Grand Theft Auto III is treated as a major event in the history of video games, considered a revolutionary title in the
+              medium, much like the release of Doom nearly a decade earlier.
+            </p>
+            <p>
+              During interviews to mark the 10th anniversary of the release of Grand Theft Auto III, producer of the Street Fighter series, Yoshinori
+              Ono, said "it would be no exaggeration to say that Grand Theft Auto III changed the industry, and we can bascially separate the time
+              before and after its emergence as distinct eras." In the same article <Link>Bethesda Game Studios</Link> director, Todd Howard, said
+              "The mark of a truly great game is how many people try to recapture or emulate it and fail. There's a long line behind this one."
+            </p>
+            <p>
+              Subsequent games that followed this formula of driving and shooting have been called "Grand Theft Auto clones". Some reviewers even
+              extended this label to the Driver series, even though this series began years before the release of Grand Theft Auto III. Grand Theft
+              Auto clones are a type of 3D action-adventure game, where players are given the ability to drive any vehicle or fire any weapon as they
+              explore an open world. These games often incorporate violent and criminal themes. Notable games that are comparable to Grand Theft Auto
+              are <Link>Saints Row</Link>, Scarface: The World Is Yours, True Crime: Streets of LA, <Link>Watch Dogs</Link>, <Link>Sleeping Dogs</Link>,
+              <Link to="/just_cause">Just Cause</Link>, <Link>Mafia</Link>, and <Link>The Godfather</Link>.
+            </p>
+          </div>
         </div>
         <div>
           <TableGta />
