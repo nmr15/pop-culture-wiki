@@ -494,6 +494,18 @@ const Gta = () =>
               level of regular service this area receives from them.
             </p>
             <h3 className="article-heading-3" id="4.8">Grand Theft Auto V</h3>
+            <p>
+              A segment in the this installment caused controversy for scenes containing player-initiated torture. The mission "By The Book"
+              features graphic depictions of kneecapping, electrocution, dental extraction, and waterboarding, and the player is required to
+              perform an act of torture in order to progress in the game.
+            </p>
+            <p>
+              UK-based charity Freedrom from Torture publicly condemned the use of torture scenes in Grand Theft Auto V. The organization, who
+              works to rehabilitate survivors of torture, joined other human rights charities who were outraged at a torture scene in the game
+              in which the players have to pull teeth and electrocute an unarmed man in order to extract information. The charity's CEO Keith
+              Best stated "Rockstar North has crossed a line by effectively forcing people to take on the role of a torturer and perform a
+              series of unspeakable acts if they want to achieve success in the game."
+            </p>
             <h3 className="article-heading-3" id="4.9">Lawsuits</h3>
             <h4 className="article-heading-4" id="4.9.1">Lawsuits invloving Jack Thompson</h4>
             <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
