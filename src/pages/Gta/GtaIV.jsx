@@ -73,6 +73,67 @@ const GtaIV = () =>
             className="article-heading-img"
           />
         </div>
+        <div className="div-top">
+          <p>
+            Grand Theft Auto IV is a 2008 action-adventure game developed by <Link>Rockstar North</Link> and published by <Link>Rockstar
+            Games</Link>. It is the sixth main entry in the <Link to='/gta'>Grand Theft Auto series</Link>, following 2004's
+            <Link to="/gta/grand_theft_auto_san_andreas">Grand Theft Auto: San Andreas</Link>, and the eleventh entry overall. Set in the
+            fictional <Link>Liberty City</Link>, based on New York City, the single-player story follows Eastern European war veteran
+            <Link>Niko Bellic</Link> and his attempts to escape his past while under pressure from high-profile criminals. The open world
+            design lets players freely roam Liberty City, consisting of four boroughs across three islands, and the neighboring state of
+            Alderney, which is based on New Jersey.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <div>
+            <h3 className="article-heading-3" id="2.1">Setting</h3>
+            <h3 className="article-heading-3" id="2.2">Plot</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Research and open world design</h3>
+            <h3 className="article-heading-3" id="3.2">Story and character development</h3>
+            <h3 className="article-heading-3" id="3.3">Art design</h3>
+            <h3 className="article-heading-3" id="3.4">Technical and gameplay design</h3>
+            <h3 className="article-heading-3" id="3.5">Music production</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Release</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Promotion</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Critical response</h3>
+            <h4 className="article-heading-4" id="5.1.1">Windows version</h4>
+            <h3 className="article-heading-3" id="5.2">Awards</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Sales</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Controversies</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Pre-release</h3>
+            <h3 className="article-heading-3" id="7.2">Post-release</h3>
+          </div>
+        </div>
       </main>
     </>
   )
