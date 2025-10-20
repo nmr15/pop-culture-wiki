@@ -54,13 +54,7 @@ const Gta = () =>
               {id: "4.10", title: "Modding and fan recreation"},
             ]}
           />
-          <Collapse 
-            id="5"
-            item="Reception"
-            sub={[
-              {id: "5.1", title: "Sales"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#5">Reception</a></li>
           <li className="sidebar-list-item"><a href="#6">Similar games</a></li>
         </ul>
       </aside>
@@ -592,7 +586,30 @@ const Gta = () =>
         <div>
           <h2 className="article-heading-2" id="5">Reception</h2>
           <div>
-            <h3 className="article-heading-3" id="5.1">Sales</h3>
+            <p>
+              Ever since the release of Grand Theft Auto III in 2001, the Grand Theft Auto series has been a major success, both critically and
+              financially. It has shipped almost 450 million units, making it one of the best-selling video game franchises of all time.
+            </p>
+            <p>
+              In 2006, Grand Theft Auto was voted one of Britain's top 10 designs in the Great British Design Quest organized by the BBC and the Design
+              Museum. The game appeared in a list of British design icons which included Concord, Jaguar E-Type, Aston Martin DB5, Mini, World Wide
+              Web, <Link>Tomb Raider</Link>, K2 telephone box, London tube map, AEC Routemaster bus, and the Supermarine Spitfire.
+            </p>
+            <p>
+              The series had broken several records, resulting in Guinness World Records awarding the series 10 world records in the Gamer's Edition
+              2008. These records include Most Guest Stars in a Video Game Series, Largest Voice Cast in a Video Game (Grand Theft Auto: San Andreas),
+              Largest In-Game Soundtrack (Grand Theft Auto San Andreas) as well as Most Successful Entertainment Launch of All Time (Grand Theft Auto
+              V). Guinness World Records also ranked Grand Theft Auto in third place on their list of top 50 console games of all time based on initial
+              impact and lasting legacy. Grand Theft Auto: San Andreas is listed as the most successful game on the PlayStation 2 according to The
+              Guinness World Records 2009 Gamer's Edition.
+            </p>
+            <p>
+              Grand Theft Auto III, Sand Andreas, and Vice City currently lie at the 2nd, 5th, and 6th highest rated PlayStation 2 games on Metacritic,
+              respectively, while Chinatown Wars is rated the best game on the Nintendo DS and the second best on the PlayStation Portable, and Grand
+              Theft Auto IV is currently rated the second best game ever, with a score of 98, only trailing behind The Legend of Zelda: Ocarina of Time.
+              Also, Vice City and Grand Theft Auto V lie at 11th and 2nd best PC games of all time, on Metacritic. Along with this, The Lost and Damned
+              and The Ballad of Gay Tony are currently placed 35th and 59th in the top Xbox 360 games.
+            </p>
           </div>
         </div>
         <div>
