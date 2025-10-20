@@ -561,6 +561,32 @@ const Gta = () =>
               his stepmother. Posey was also taking Zoloft at the time of the killings. The lawsuit was dismissed in December 2007.
             </p>
             <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
+            <p>
+              Modding of Grand Theft Auto content, either within Grand Theft Auto games or recreation via other software, has been generally performed
+              by the player community since around the early 2000s, with one of the first major conversions being the recreation of Grand Theft Auto
+              III's Liberty City within the game engine running Vice City. Around 2017, Take-Two began taking action against these mods, specifically
+              issuing a cease and desist letter to the makers of OpenIV, a piece of software that allowed players to alter content from Grand Theft
+              Auto IV and V. Take-Two said at the time that its issue was not directly with the mod itself, but that it "enables recent malicious mods
+              that allow harassment of players and interfere with the GTA Online experience for everybody", and that it was working with OpenIV to find
+              an amenable solution. OpenIV developers opted to remove the mod from circulation after several rounds of discussion with Take-Two. Take-Two
+              issued a statement to clarify that it would not take action against single-player mods; this statement was updated in 2019 to exclude
+              moders from including other Take-Two intellectual property or from "making new games, stories, missions, or maps".
+            </p>
+            <p>
+              The Grand Theft Auto modding community worked under this response to continue to build mods and other content within the bounds set by
+              Take-Two. In February 2021, Take-Two, under the Digital Millennium Copyright Act (DMC), issued a takedown request for two projects
+              hosted on <Link>Github</Link> that had reverse-engineered the game engine for Grand Theft Auto III and Vice City, asserting that such
+              reverse engineering was disallowed by the game's end-user license agreement. One June 10, 2021, the project developers file a
+              counter-notice; per DMCA rules regarding disputes, the source code was restored after two weeks. Take-Two CEO Strauss Zeinick stated the
+              company had a "pretty flexible" view on user mods, asserting that "if the economy is threatened, or if there's bad behavior, and we know
+              how to define that, tneh we would issue a takedown notice". However, the company proceeded to continue to file a lawsuit in California
+              against the programmers behind this effor in September 2021, asserting that the programmers "are well aware that they do not possess the
+              right to copy, adapt, or distribute derivative GTA source code, or the audiovisual elements of the games, and that doing so constitutes
+              copyright infringment." As part of the lawshuit, Take-Two issued another takedown notice to Github to remove the mods in October 2021.
+              The modders, in their legal reply, asserted that use of the assets were within fair use, as the reverse-engineered versions were
+              transformative in nature and as neither Rockstar nor Take-Two had issued any updates for years, did not hoarm the commercial prospects
+              of the games.
+            </p>
           </div>
         </div>
         <div>
