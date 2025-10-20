@@ -534,6 +534,32 @@ const Gta = () =>
               the lawsuit into a state court and under Tennessee's consumer protection act. Two days later, the plaintiff filed a Notion of
               Voluntary Dismissal, and the case was closed.
             </p>
+            <p>
+              In February 2005, a lawsuit was brought upon the makers and distributers of the Grand Theft Auto series claiming the games caused a
+              teenager to shoot and kill three members of the Alabama police force. The shooting took place in June 2003 when Devin Moore, 17 years
+              old at the time, was taken in for questioning by police in Fayette, Alabama, regarding a stolen vehicle. Moore then grabbed a pistol
+              from one of the police officers and shot and killed him along with another officer and dispatcher before fleeing in a police car.
+              One of Moore's attorneys, Jack Thompson, claimed it was Grand Theft Auto's graphic nature, with his constant playing time, that
+              caused Moore to commit the murders, and Moore's family agreed. Damages were being sought from branches of GameStop and Walmart in
+              Jasper, Alabama, the stores from which Grand Theft Auto III and Grand Theft Auto: Vice City, respectively, were purchased and also
+              from the games' publisher Take-Two Interactive, and the PlayStation 2 manufacturer Sony Computer Entertainment. On March 29, 2006
+              the case was dismissed and permission to appeal was denied.
+            </p>
+            <p>
+              In May 2005, Jack Thompson appeared via satellite on the Glenn Beck program on CNN's Headline News. Thompson mentioned Devin Moore
+              and said, regarding Grand Theft Auto III and Grand Theft Auto: Vice City, "There's no doubt in my mind [...] that but for Devin
+              Moore's training on this cop killing simulator, he would not have been able to kill three cops in Fayette, Alabama, who are now dead
+              and in the ground. We are suing Take-Two, Sony, Walmart, and Gamestop for having trained Devin Moore to kill. He had no history of
+              violence. No criminal record."
+            </p>
+            <p>
+              In September 2006, Thompson brought another lawsuit, claiming that Cody Posey played the game obsessively before murdering his
+              Delbert Paul Posey, stepmother Tyrone Schmid, and stepsister Marliea Schmid on a ranch in Albuquerque, New Mexico. The suit was filed
+              on behalf of the victims' families. The suit alleged that were if not for his obsessive playing of Grand Theft Auto: Vice City, the
+              murders would not have taken place. Named in the suit ware Cody Posey, Rockstar Games, Take-Two Interactive, and Sony. The suit asked
+              for US$600 million in damages. During the criminal trial, Posey's defense team argued he was abused by his father, and tormented by
+              his stepmother. Posey was also taking Zoloft at the time of the killings. The lawsuit was dismissed in December 2007.
+            </p>
             <h3 className="article-heading-3" id="4.10">Modding and fan recreation</h3>
           </div>
         </div>
