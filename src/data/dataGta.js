@@ -2,70 +2,70 @@ export const gta = [
   {
     "id": "gta1",
     "title": "Grand Theft Auto III",
-    "file": "GTAIII",
+    "file": "Gtaiii",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/250px-GTA3boxcover.jpg",
     "route": "/gta/grand_theft_auto_iii"
   },
   {
     "id": "gta2",
     "title": "Grand Theft Auto: Vice City",
-    "file": "GTAVC",
+    "file": "Gtavc",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Vice-city-cover.jpg/250px-Vice-city-cover.jpg",
     "route": "/gta/grand_theft_auto_vice_city"
   },
   {
     "id": "gta3",
     "title": "Grand Theft Auto: San Andreas",
-    "file": "GTASA",
+    "file": "Gtasa",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/GTASABOX.jpg/250px-GTASABOX.jpg",
     "route": "/gta/grand_theft_auto_san_andreas"
   },
   {
     "id": "gta4",
     "title": "Grand Theft Auto: Liberty City Stories",
-    "file": "GTALCS",
+    "file": "Gtalcs",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Grand_Theft_Auto_Liberty_City_Stories_box.jpg/250px-Grand_Theft_Auto_Liberty_City_Stories_box.jpg",
     "route": "/gta/grand_theft_auto_liberty_city_stories"
   },
   {
     "id": "gta5",
     "title": "Grand Theft Auto: Vice City Stories",
-    "file": "GTAVCS",
+    "file": "Gtavcs",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/GTA_Vice_City_Stories_PSP_boxart.jpg/250px-GTA_Vice_City_Stories_PSP_boxart.jpg",
     "route": "/gta/grand_theft_auto_vice_city_stories"
   },
   {
     "id": "gta6",
     "title": "Grand Theft Auto IV",
-    "file": "GTAIV",
+    "file": "Gtaiv",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Grand_Theft_Auto_IV_cover.jpg/250px-Grand_Theft_Auto_IV_cover.jpg",
     "route": "/gta/grand_theft_auto_iv"
   },
   {
     "id": "gta7",
     "title": "Grand Theft Auto IV: The Lost and Damned",
-    "file": "GTAIVLaD",
+    "file": "GtaivLaD",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Grand_Theft_Auto_IV_coverart.jpg/250px-Grand_Theft_Auto_IV_coverart.jpg",
     "route": "/gta/grand_theft_auto_iv_the_lost_and_damned"
   },
   {
     "id": "gta8",
     "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
-    "file": "GTAIVBoGT",
+    "file": "GtaivBoGT",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/The_Ballad_of_Gay_Tony_cover.jpg/250px-The_Ballad_of_Gay_Tony_cover.jpg",
     "route": "/gta/grand_theft_auto_iv_the_ballad_of_gay_tony"
   },
   {
     "id": "gta9",
     "title": "Grand Theft Auto V",
-    "file": "GTAV",
+    "file": "Gtav",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/250px-Grand_Theft_Auto_V.png",
     "route": "/gta/grand_theft_auto_v"
   },
   {
     "id": "gta10",
     "title": "Grand Theft Auto VI",
-    "file": "GTAVI",
+    "file": "Gtavi",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Grand_Theft_Auto_VI.png/250px-Grand_Theft_Auto_VI.png",
     "route": "/gta/grand_theft_auto_vi"
   }
