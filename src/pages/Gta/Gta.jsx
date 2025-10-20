@@ -454,6 +454,19 @@ const Gta = () =>
               phrase in the game's subtitles.
             </p>
             <h3 className="article-heading-3" id="4.4">San Andreas</h3>
+            <p>
+              San Andreas was criticized initially for its "gangster" elements, which include drugs, prostitution, and murder. It received additional
+              criticism after the discovery of an interactive sex minigame, nicknamed Hot Coffee. Although it had been out from the game, it remained
+              in the code, and was discovered in both the console and Windows version.
+            </p>
+            <p>
+              After the release of San Andreas, modders managed to fin the unused code in the game and released unofficial patches for the Windows
+              and Xbox (with a modchip) versions as well as a PlayStation 2 version through the use of an Action Replay code enabling the player to
+              engage in these sexual mini-games (dubbed "Hot Coffee" in reference to a euphemism for sex used in the game). These mini-games were
+              left partially intact in the game's code. This prompted application of an AO (Adults Only) <Link>ESRB</Link> raitng to the version of
+              the game containing the leftover code. Take-Two Interactive was forced to re-release the game in order to restore the M (Mature)
+              rating. A class action lawsuit against Take-Two was also filed as a result of the "Hot Coffee" code.
+            </p>
             <h3 className="article-heading-3" id="4.5">Grand Theft Auto IV</h3>
             <h3 className="article-heading-3" id="4.6">The Lost and Damned</h3>
             <h3 className="article-heading-3" id="4.7">Chinatown Wars</h3>
