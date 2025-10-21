@@ -91,6 +91,15 @@ const GtaIV = () =>
             <Link to="/gta/grand_theft_auto_iv_the_ballad_of_gay_tony"> The Ballad of Gay Tony</Link>, which both featured new plots that
             are interconnected with the main Grand Theft Auto IV storyline, and follow new protagonists.
           </p>
+          <p>
+            Development of Grand Theft Auto IV began soon after the release of San Andreas and was shared between many of Rockstar's stuiods
+            worldwide. The game introduced a shift to a more realistic and detailed style and tone for the series. Unlike previous entries,
+            Grand Theft Auto IV lacked a strong cinematic influence, as the team attempted an original approach to the story. As part of
+            their research for the open world, the development team conducted extensive field research in New York, capturing over 100,000
+            photographs and several hours of video. The developers considered the world to be the most important element of the game; though
+            not the largest map in the series, they considered it comparable in scope due to its verticality and level of detail. The budget
+            climbed to over US$100 million, making it one of the most expensive video games to develop.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Gameplay</h2>
