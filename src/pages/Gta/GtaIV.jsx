@@ -124,7 +124,6 @@ const GtaIV = () =>
             </p>
           </div>
         </div>
-        </div>
         <div>
           <h2 className="article-heading-2" id="2">Synopsis</h2>
           <div>
