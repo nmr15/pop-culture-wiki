@@ -113,9 +113,17 @@ const GtaIV = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Gameplay</h2>
-          <div>
-
+           <div>
+            <p>
+              Grand Theft Auto IV is an action-adventure game played from a third-person perspective. Players complete missions, linear
+              scenarios with set objectives, to progress through the story. It is possible to have several active missions running at one time,
+              as some require players to wait for further instructions or events. Outside of missions, players can freely roam the game's open
+              world and complete optional side missions. Composed of the fictional city of <Link>Liberty City</Link>, the world is larger in
+              area than most earlier Grand Theft Auto series entries. At the beginning of the game, players can only explore a limited area,
+              Bohan, Broker, and Dukes, with all other islands unlocking as the story progresses.
+            </p>
           </div>
+        </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Synopsis</h2>
