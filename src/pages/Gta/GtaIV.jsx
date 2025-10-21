@@ -83,6 +83,14 @@ const GtaIV = () =>
             design lets players freely roam Liberty City, consisting of four boroughs across three islands, and the neighboring state of
             Alderney, which is based on New Jersey.
           </p>
+          <p>
+            The game is played from a third-person perspective and its world is navigated on foot and by vehicle. Throught the single-player
+            mode, players control Niko Bellic. An online multiplayer modes is also invluded with the game, allowing up to 32 players to
+            engage in both cooperative and competitive gameplay in a recreation of the single-player setting. Two expansion packs were
+            later released for the game, <Link to="/gta/grand_theft_auto_iv_the_lost_and_damned">The Lost and Damned</Link> and
+            <Link to="/gta/grand_theft_auto_iv_the_ballad_of_gay_tony"> The Ballad of Gay Tony</Link>, which both featured new plots that
+            are interconnected with the main Grand Theft Auto IV storyline, and follow new protagonists.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Gameplay</h2>
