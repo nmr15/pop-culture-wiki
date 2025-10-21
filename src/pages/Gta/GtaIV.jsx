@@ -100,6 +100,16 @@ const GtaIV = () =>
             not the largest map in the series, they considered it comparable in scope due to its verticality and level of detail. The budget
             climbed to over US$100 million, making it one of the most expensive video games to develop.
           </p>
+          <p>
+            Grand Theft Auto IV was released for the <Link>PlayStation 3</Link> and <Link>Xbox 360</Link> consoles in April 2008, and for
+            Windows in December. It received critical acclaim, with praise directed at the narrative and open-world design. Grand Theft Auto
+            IV broke industry sales records and became the fastest-selling entertainment product in history at the time, earning US$310
+            million in its first day and US$500 million in its first week. Considered one of the most significant titles of the <Link>seventh
+            generation</Link> of video games, and by many critics as one of the greatest video games of all time, it won year-end accolades,
+            including Game of the Year awards from several gaming publications. It is among the best-selling video games with over 25 million
+            copies sold by 2013. The game generated controversy, with criticism directed at the game's depiction of violence and players'
+            ability to drive drunk. Its successor, <Link to="/gta/grand_theft_auto_v">Grand Theft Auto V</Link>, was released in 2013.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Gameplay</h2>
