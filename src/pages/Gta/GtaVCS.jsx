@@ -8,7 +8,30 @@ const GtaVCS = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Gameplay</a></li>
+          <Collapse 
+            id="2"
+            item="Synopsis"
+            sub={[
+              {id: "2.1", title: "Setting"},
+              {id: "2.2", title: "Plot"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Development"
+            sub={[
+              {id: "3.1", title: "PlayStation 2 port"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Reception"
+            sub={[
+              {id: "4.1", title: "Accolades"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -51,6 +74,34 @@ const GtaVCS = () =>
             the fourth best-selling PSP game of all time. The next game in the series was <Link to="/gta/grand_theft_auto_iv">Grand Theft
             Auto IV</Link>, which was released in April 2008.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <div>
+            <h3 className="article-heading-3" id="2.1">Setting</h3>
+            <h3 className="article-heading-3" id="2.2">Plot</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">PlayStation 2 port</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <TableGta />
         </div>
       </main>
     </>
