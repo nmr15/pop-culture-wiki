@@ -7,7 +7,41 @@ const GtaSA = () =>
   return(
     <>
       <aside className="sidebar">
-        <ul className="sidebar-list"></ul>
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Gameplay</a></li>
+          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <Collapse 
+            id="3"
+            item="Development"
+            sub={[
+              {id: "3.1", title: "Technical and open world design"},
+              {id: "3.2", title: "Story and characters"},
+              {id: "3.3", title: "Music"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Release and promotion</a></li>
+          <Collapse 
+            id="5"
+            item="Reception"
+            sub={[
+              {id: "5.1", title: "Critical response", sub2: [
+                {id: "5.1.1", title: "Windows version"},
+                {id: "5.1.2", title: "Mobile version"},
+              ]},
+              {id: "5.2", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Sales</a></li>
+          <li className="sidebar-list-item"><a href="#7">"Hot Coffee" controversy</a></li>
+          <Collapse 
+            id="8"
+            item="Legacy"
+            sub={[
+              {id: "8.1", title: "Ports"}
+            ]}
+          />
+        </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
@@ -53,6 +87,62 @@ const GtaSA = () =>
             copies sold, and one of the best-selling games of all time with 27.5 million copies sold overall. Its successor, 
             <Link to="/gta/grand_theft_auto_iv"> Grand Theft Auto IV</Link>, was released in April 2008.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Plot</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Technical and open world design</h3>
+            <h3 className="article-heading-3" id="3.2">Story and characters</h3>
+            <h3 className="article-heading-3" id="3.3">Music</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Release and promotion</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Critical response</h3>
+            <h4 className="article-heading-4" id="5.1.1">Windows version</h4>
+            <h4 className="article-heading-4" id="5.1.2">Mobile version</h4>
+            <h3 className="article-heading-3" id="5.2">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Sales</h2>
+          <div>
+            
+          </div>
+        </div>
+         <div>
+          <h2 className="article-heading-2" id="7">"Hot Coffee" controversy</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Legacy</h2>
+          <div>
+            <h3 className="article-heading-3" id="8.1">Ports</h3>
+          </div>
+        </div>
+        <div>
+          <TableGta />
         </div>
       </main>
     </>
