@@ -70,6 +70,41 @@ const GtaLCS = () =>
             <Link to="/gta/grand_theft_auto_vice_city"> Grand Theft Auto: Vice City</Link>.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <div>
+            <h3 className="article-heading-3" id="2.1">Setting</h3>
+            <h3 className="article-heading-3" id="2.2">Characters</h3>
+            <h3 className="article-heading-3" id="2.3">Plot</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Soundtrack</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Sales</h3>
+          </div>
+        </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
