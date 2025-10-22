@@ -8,7 +8,26 @@ const GtaLCS = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Gameplay</a></li>
+          <Collapse 
+            id="2"
+            item="Synopsis"
+            sub={[
+              {id: "2.1", title: "Setting"},
+              {id: "2.2", title: "Characters"},
+              {id: "2.3", title: "Plot"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#3">Development</a></li>
+          <li className="sidebar-list-item"><a href="#4">Soundtrack</a></li>
+          <Collapse 
+            id="5"
+            item="Reception"
+            sub={[
+              {id: "5.1", title: "Sales"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
