@@ -133,6 +133,9 @@ const GtaIII = () =>
             <h3 className="article-heading-3" id="7.1">Ports</h3>
           </div>
         </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
