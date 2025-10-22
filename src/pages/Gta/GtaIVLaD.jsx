@@ -40,7 +40,7 @@ const GtaIVLaD = () =>
         </div>
         <div className="img-right img-top">
           <img 
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/250px-GTA3boxcover.jpg" 
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Grand_Theft_Auto_IV_coverart.jpg/250px-Grand_Theft_Auto_IV_coverart.jpg" 
             alt="Grand Theft Auto IV: The Lost and Damned logo" 
             className="article-heading-img"
           />
