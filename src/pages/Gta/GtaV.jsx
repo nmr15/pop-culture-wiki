@@ -50,7 +50,7 @@ const GtaV = () =>
             the game around three lead protagonists to innovate on the core structure of its predecessors. Much of the development work constituted
             the open world's creation, and several team members conducted field research around California to capture footage for the design team.
             The game's soundtrack features an original score composed by a team of producers who collaborated over several years. Grand Theft Auto V
-            was released in September 2013 for the <LInk>PlayStation 3</LInk> and <Link>Xbox 360</Link>, in November 2014 for the <Link>PlayStation
+            was released in September 2013 for the <Link>PlayStation 3</Link> and <Link>Xbox 360</Link>, in November 2014 for the <Link>PlayStation
             4</Link> and <Link>Xbox One</Link>, in April 2015 for Windows, and in March 2022 for the <Link>PlayStation 5</Link> and <Link>Xbox
             Series X/S</Link>.
           </p>
