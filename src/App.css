@@ -355,3 +355,16 @@ td, th
 {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 768px)
+{
+  .sidebar
+  {
+    width: 0;
+  }
+
+  .main
+  {
+    margin-left: 0;
+  }
+}
