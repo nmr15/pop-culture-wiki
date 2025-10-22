@@ -93,6 +93,54 @@ const GtaV = () =>
             <Link to="/gta/grand_theft_auto_vi">Grand Theft Auto VI</Link>, is schedule to be released in May 2026.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Plot</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Release</h3>
+            <h3 className="article-heading-3" id="3.2">Grand Theft Auto Online</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Initial release</h3>
+            <h3 className="article-heading-3" id="4.2">Re-release</h3>
+            <h3 className="article-heading-3" id="4.3">Awards</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Controversies</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Sales</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Legacy</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Use in research</h3>
+          </div>
+        </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
