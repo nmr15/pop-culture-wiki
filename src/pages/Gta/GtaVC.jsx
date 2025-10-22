@@ -8,7 +8,38 @@ const GtaVC = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Gameplay</a></li>
+          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <Collapse 
+            id="3"
+            item="Development"
+            sub={[
+              {id: "3.1", title: "Setting"},
+              {id: "3.2", title: "Story and characters"},
+              {id: "3.3", title: "Sound design and music production"},
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Reception"
+            sub={[
+              {id: "4.1", title: "Critical response", sub2: [
+                {id: "4.1.1", title: "Windows version"},
+                {id: "4.1.2", title: "Mobile version"},
+              ]},
+              {id: "4.2", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Sales</a></li>
+          <li className="sidebar-list-item"><a href="#6">Controversies</a></li>
+          <Collapse 
+            id="7"
+            item="Legacy"
+            sub={[
+              {id: "7.1", title: "Ports"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
