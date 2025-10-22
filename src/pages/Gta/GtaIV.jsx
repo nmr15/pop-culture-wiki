@@ -168,6 +168,9 @@ const GtaIV = () =>
             <h3 className="article-heading-3" id="7.2">Post-release</h3>
           </div>
         </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
