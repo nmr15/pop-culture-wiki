@@ -87,6 +87,56 @@ const GtaVC = () =>
             <Link to="/gta/grand_theft_auto_vice_city_stories"> Vice City Stories</Link> (2006).
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Plot</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Setting</h3>
+            <h3 className="article-heading-3" id="3.2">Story and characters</h3>
+            <h3 className="article-heading-3" id="3.3">Sound design and music production</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Critical response</h3>
+            <h4 className="article-heading-4" id="4.1.1">Windows version</h4>
+            <h4 className="article-heading-4" id="4.1.2">Mobile version</h4>
+            <h3 className="article-heading-3" id="4.2">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Sales</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Controversies</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Legacy</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Ports</h3>
+          </div>
+        </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
