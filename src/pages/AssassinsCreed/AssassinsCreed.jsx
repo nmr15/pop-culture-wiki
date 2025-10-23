@@ -77,6 +77,36 @@ const AssassinsCreed = () =>
             a spirtial successor to the Prince of Persia series, Assassin's Creed took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol,
             based on the historical Hashashin sect of the medieval Iran (Persia).
           </p>
+          <p>
+            The first <Link to="/assassinscreed/assassins_creed_game">Assassin's Creed</Link> game was released in 2007, and the series has featured
+            fourteen main installments in total, the most recent being <Link to="/assassinscreed/assassins_creed_shadows">Assassin's Creed
+            Shadows</Link> in 2025. Main games in the Assassin's Creed series are set in an open world and played from the third-person view. Gameplay
+            revolves around combat, stealth, and exploration, including the use of parkour to navigate the environment. The games feature both main and
+            side missions, and some titles also include competitive and cooperative multiplayer game modes.
+          </p>
+          <p>
+            A new story and occasionally new time periods are introduced in each entry, with the gameplay elements also evolving. There are three
+            overarching story arcs in the series. The first five main games follow <Link>Desmond Miles</Link>, a descendant of several important
+            Assassins throught history, who uses a machine called the Animus to relive his ancestors' memories and find powerful artifacts called
+            Pieces of Eden in an attempt to prevent a catastrophic event, referencing the 2012 phenomenon. From
+            <Link to="/assassinscreed/assassins_creed_iv_black_flag"> Assassin's Creed IV: Black Flag</Link> to
+            <Link to="/assassinscreed/assassins_creed_syndicate"> Assassin's Creed Syndicate</Link>, Assassin initiates and employees of Abstergo
+            Industries (a company used as a front by the modern-day Templars) record genetic memories using the Helix software, helping the Templars
+            and Assassins find new Pieces of Eden in the modern world. The next three games, 
+            <Link to="/assassinscreed/assassins_creed_origins"> Assassin's Creed Origins</Link>,
+            <Link to="/assassinscreed/assassins_creed_odyssey"> Odyssey</Link>, and
+            <Link to="/assassinscreed/assassins_creed_valhalla"> Valhalla</Link>, follow ex-Abstergo employee Layla Hassan on her own quest to save
+            humanity from another disaster.
+          </p>
+          <p>
+            The main games in the Assassin's Creed franchise have received generally positive reviews for their ambition in visuals, game design, and
+            narrative, with criticism for the yearly release cycle and frequent bugs, as well as the prioritizing of role-playing mechanics in later
+            titles. The series has received multiple awards and nominations, including multiple Game of the Year awards. It is commercially successful,
+            selling over 200 million copies as of September 2022, becoming Ubisoft's best-selling franchise and one of the best selling video game
+            franchises of all time. While main titles are produced for major consoles and desktop platforms, multiple spin-off games have been released
+            for consoles, mobiles, and handheld platforms. A series of art books, encyclopedias, comics, and novels have also been published. A
+            live-action film adaptation of the series was released in 2016.
+          </p>
         </div>
         <div>
           <TableAssassinsCreed />
