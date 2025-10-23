@@ -29,7 +29,7 @@ const AssassinsCreed = () =>
           />
           <Collapse 
             id="4"
-            item="Release History"
+            item="Release history"
             sub={[
               {id: "4.1", title: "Main series"},
               {id: "4.2", title: "Spin-offs", sub2: [
@@ -77,7 +77,7 @@ const AssassinsCreed = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#7">Reception</a></li>
-          <li className="sidebar-list-item"><a href="#7">Cultural impact</a></li>
+          <li className="sidebar-list-item"><a href="#8">Cultural impact</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -136,6 +136,87 @@ const AssassinsCreed = () =>
             for consoles, mobiles, and handheld platforms. A series of art books, encyclopedias, comics, and novels have also been published. A
             live-action film adaptation of the series was released in 2016.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Development history</h2>
+          <div>
+            <h3 className="article-heading-2" id="1.1">Period one</h3>
+            <h3 className="article-heading-2" id="1.2">Period two</h3>
+            <h3 className="article-heading-2" id="1.3">Period three</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Gameplay</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Storyline</h2>
+          <div>
+            <h3 className="article-heading-2" id="2.1">Premise</h3>
+            <h3 className="article-heading-2" id="2.2">Story arcs</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Release history</h2>
+          <div>
+            <h3 className="article-heading-2" id="4.1">Main series</h3>
+            <h3 className="article-heading-2" id="4.2">Spin-offs</h3>
+            <h4 className="article-heading-2" id="4.2.1">Assassin's Creed III: Liberation</h4>
+            <h4 className="article-heading-2" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
+            <h4 className="article-heading-2" id="4.2.3">Assassin's Creed Chronicles</h4>
+            <h4 className="article-heading-2" id="4.2.4">Assassin's Creed Nexus VR</h4>
+            <h3 className="article-heading-2" id="4.3">Handheld and mobile games</h3>
+            <h4 className="article-heading-2" id="4.3.1">Assassin's Creed: Altaïr's Chronicles</h4>
+            <h4 className="article-heading-2" id="4.3.2">Assassin's Creed: Bloodlines</h4>
+            <h4 className="article-heading-2" id="4.3.3">Assassin's Creed II: Discovery</h4>
+            <h4 className="article-heading-2" id="4.3.4">Assassin's Creed: Multiplayer Rearmed</h4>
+            <h4 className="article-heading-2" id="4.3.5">Assassin's Creed: Recollection</h4>
+            <h4 className="article-heading-2" id="4.3.6">Assassin's Creed: Pirates</h4>
+            <h4 className="article-heading-2" id="4.3.7">Assassin's Creed: Memories</h4>
+            <h4 className="article-heading-2" id="4.3.8">Assassin's Creed Unity: Arno's Chronicles</h4>
+            <h4 className="article-heading-2" id="4.3.9">Assassin's Creed Rebellion</h4>
+            <h3 className="article-heading-2" id="4.4">Cancelled and defunct games</h3>
+            <h4 className="article-heading-2" id="4.4.1">Assassin's Creed: Project Legacy</h4>
+            <h4 className="article-heading-2" id="4.4.2">Assassin's Creed: Utopia</h4>
+            <h4 className="article-heading-2" id="4.4.3">Assassin's Creed: Initiates</h4>
+            <h4 className="article-heading-2" id="4.4.4">Assassin's Creed Identity</h4>
+            <h4 className="article-heading-2" id="4.4.5">Untitled Civil War game</h4>
+            <h3 className="article-heading-2" id="4.5">Re-release compilations and collections</h3>
+            <h3 className="article-heading-2" id="4.6">Future games</h3>
+            <h4 className="article-heading-2" id="4.6.1">Assassin's Creed Jade</h4>
+            <h4 className="article-heading-2" id="4.6.2">Assassin's Creed: Codename Hexe</h4>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Animus Hub</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Other media</h2>
+          <div>
+            <h3 className="article-heading-2" id="6.1">Television</h3>
+            <h3 className="article-heading-2" id="6.2">Film</h3>
+            <h3 className="article-heading-2" id="6.3">Print publications</h3>
+            <h3 className="article-heading-2" id="6.4">Audio drama</h3>
+            <h3 className="article-heading-2" id="6.5">Board games</h3>
+            <h3 className="article-heading-2" id="6.6">Concert</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Reception</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Cultural impact</h2>
+          <div>
+
+          </div>
         </div>
         <div>
           <TableAssassinsCreed />
