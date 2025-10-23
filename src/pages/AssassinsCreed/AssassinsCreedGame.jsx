@@ -1,3 +1,7 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
+import TableAssassinsCreed from '../../components/TableAssassinsCreed'
+
 const AssassinsCreedGame = () =>
 {
   return(
@@ -20,6 +24,22 @@ const AssassinsCreedGame = () =>
             alt="Assassin's Creed logo" 
             className="article-heading-img"
           />
+        </div>
+        <div className="div-top">
+          <p>
+            Assassin's Creed is a 2007 action-adventure game developed by Ubisoft Montreal and published by <Link>Ubisoft</Link>. It is the first
+            installment in the <Link to="/assassinscreed">Assassin's Creed</Link> series. The game was released for <Link>PlayStation 3</Link> and
+            <Link> Xbox 360</Link> in Nivember 2007. A Microsoft Windows version titled Assassin's Creed: Director's Cut Edition containing
+            additional content was released in April 2008.
+          </p>
+          <p>
+            The plot is set in a fictional history of real-world events, taking place primarily during the Third Crusade in the Holy Lands in 1191.
+            The player character is a modern-day man named <Link>Desmond Miles</Link> who, through a machine called the Animus, relives the genetic
+            memories of his ancestor, <Link>Altaïr Ibn-La'Ahad</Link>. Through this plot device, details emerge about a millenia-old struggle
+            between two factions: the Assassin Brotherhood (inspired by the real-life Order of Assassins), who fight to preserve peace and free will,
+            and the Templar Order (inspired by the Knights Templar military order), who seek to establish peace through order and control. Both
+            factions fight over powerful artifacts of mysterious origins known as Pieces of Eden to gain an advantage over the other.
+          </p>
         </div>
       </main>
     </>
