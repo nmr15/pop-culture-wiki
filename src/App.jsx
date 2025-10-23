@@ -1,5 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
+import { routesAssassinsCreed } from "./articles"
 import { communitychars } from "./data/dataCommunity"
 import { mcu, mcuMeta } from "./data/dataMcu"
 import { gta } from "./data/dataGta"
@@ -94,6 +95,9 @@ function App() {
             <Route key={index} path={path} element={<Component />} />
           ))}
         <Route path='/assassinscreed' element={<AssassinsCreed />} />
+        {routesAssassinsCreed.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
         <Route path='/gravityfalls' element={<GravityFalls />} />
         <Route path='/adventuretime' element={<AdventureTime />} />
         <Route path='/simpsons' element={<Simpsons />} />
