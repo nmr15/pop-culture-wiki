@@ -4,7 +4,7 @@ export const assassinscreed = [
     "title": "Assassin's Creed",
     "file": "AssassinsCreedGame",
     "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg",
-    "route": "/assassinscreed/assassins_creed_video_game"
+    "route": "/assassinscreed/assassins_creed_game"
   },
   {
     "id": "ac2",
