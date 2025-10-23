@@ -31,7 +31,36 @@ const AssassinsCreed = () =>
             id="4"
             item="Release History"
             sub={[
-              {id: "4.1", title: "Main series"}
+              {id: "4.1", title: "Main series"},
+              {id: "4.2", title: "Spin-offs", sub2: [
+                {id: "4.2.1", title: "Assassin's Creed III: Liberation"},
+                {id: "4.2.2", title: "Assassin's Creed: Freedom Cry"},
+                {id: "4.2.3", title: "Assassin's Creed Chronicles"},
+                {id: "4.2.4", title: "Assassin's Creed Nexus VR"}
+              ]},
+              {id: "4.3", title: "Handheld and mobile games", sub2: [
+                {id: "4.3.1", title: "Assassin's Creed: Altaïr's Chronicles"},
+                {id: "4.3.2", title: "Assassin's Creed: Bloodlines"},
+                {id: "4.3.3", title: "Assassin's Creed II: Discovery"},
+                {id: "4.3.4", title: "Assassin's Creed: Multiplayer Rearmed"},
+                {id: "4.3.5", title: "Assassin's Creed: Recollection"},
+                {id: "4.3.6", title: "Assassin's Creed: Pirates"},
+                {id: "4.3.7", title: "Assassin's Creed: Memories"},
+                {id: "4.3.8", title: "Assassin's Creed Unity: Arno's Chronicles"},
+                {id: "4.3.9", title: "Assassin's Creed Rebellion"}
+              ]},
+              {id: "4.4", title: "Cancelled and defunct games", sub2: [
+                {id: "4.4.1", title: "Assassin's Creed: Project Legacy"},
+                {id: "4.4.2", title: "Assassin's Creed: Utopia"},
+                {id: "4.4.3", title: "Assassin's Creed: Initiates"},
+                {id: "4.4.4", title: "Assassin's Creed Identity"},
+                {id: "4.4.5", title: "Untitled Civil War game"}
+              ]},
+              {id: "4.5", title: "Re-release compilations and collections"},
+              {id: "4.6", title: "Future games", sub2: [
+                {id: "4.6.1", title: "Assassin's Creed Jade"},
+                {id: "4.6.2", title: "Assassin's Creed: Codename Hexe"}
+              ]},
             ]}
           />
           <li className="sidebar-list-item"><a href="#5">Animus Hub</a></li>
