@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom'
+import { assassinscreed } from '../data/dataAssassinsCreed';
+
 const TableAssassinsCreed = () =>
 {
   return(
@@ -12,13 +15,13 @@ const TableAssassinsCreed = () =>
           <tbody>
             <tr>
                 <td>Games</td>
-                {/* <td>
+                <td>
                     <div className="table-list">
-                        {gta.map((gta) => (
-                            <Link to={gta.route} className="table-list-link" key={gta.id}>{gta.title}</Link>
+                        {assassinscreed.map((ac) => (
+                            <Link to={ac.route} className="table-list-link" key={ac.id}>{ac.title}</Link>
                         ))}
                     </div>
-                </td> */}
+                </td>
             </tr>
           </tbody>
         </table>

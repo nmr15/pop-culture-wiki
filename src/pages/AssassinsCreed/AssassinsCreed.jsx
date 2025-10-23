@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
 const AssassinsCreed = () => 
 {
@@ -76,6 +77,9 @@ const AssassinsCreed = () =>
             a spirtial successor to the Prince of Persia series, Assassin's Creed took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol,
             based on the historical Hashashin sect of the medieval Iran (Persia).
           </p>
+        </div>
+        <div>
+          <TableAssassinsCreed />
         </div>
       </main>
     </>
