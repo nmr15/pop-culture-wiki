@@ -38,7 +38,10 @@ const AssassinsCreedGame = () =>
             memories of his ancestor, <Link>Altaïr Ibn-La'Ahad</Link>. Through this plot device, details emerge about a millenia-old struggle
             between two factions: the Assassin Brotherhood (inspired by the real-life Order of Assassins), who fight to preserve peace and free will,
             and the Templar Order (inspired by the Knights Templar military order), who seek to establish peace through order and control. Both
-            factions fight over powerful artifacts of mysterious origins known as Pieces of Eden to gain an advantage over the other.
+            factions fight over powerful artifacts of mysterious origins known as Pieces of Eden to gain an advantage over the other. The 12th century
+            portion of the story follows Altaïr, an Assassin who embarks on a quest to regain his honor after botching a mission to recover one such
+            artifact from the Templars. Altaïr is stripped of his status as Master Assassin and is given nine targets spread out across the Holy Land
+            that he must find and assassinate for his redemption.
           </p>
         </div>
       </main>
