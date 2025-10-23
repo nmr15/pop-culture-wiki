@@ -1,7 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesAssassinsCreed, routesCommunityChars } from "./articles"
-import { communitychars } from "./data/dataCommunity"
+import { routesAssassinsCreed, routesCommunityChars, routesMcu } from "./articles"
 import { mcu, mcuMeta } from "./data/dataMcu"
 import { gta } from "./data/dataGta"
 import Navbar from "./components/Navbar"
@@ -50,10 +49,7 @@ const routesMcuMeta = mcuMeta.map(mcumeta => ({
   Component: lazy(() => import(`./pages/Mcu/${mcumeta.file}.jsx`))
 }));
 
-const routesMcu = mcu.map(mcu => ({
-  path: mcu.route,
-  Component: lazy(() => import(`./pages/Mcu/${mcu.file}.jsx`))
-}));
+
 
 const routesGta = gta.map(gta => ({
   path: gta.route,
