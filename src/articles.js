@@ -1,9 +1,15 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 
+import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
 import { gta } from "./data/dataGta";
 import { mcu, mcuMeta } from "./data/dataMcu";
+
+export const routesTopics = topics.map(topic => ({
+    path: topic.route,
+    Component: lazy(() => import(`./pages/${topic.folder}/${topic.file}.jsx`))
+}));
 
 export const routesAssassinsCreed = assassinscreed.map(ac => ({
     path: ac.route,

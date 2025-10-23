@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesAssassinsCreed, routesCommunityChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
@@ -48,48 +48,51 @@ function App() {
       <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/mcu' element={<Mcu />} />
+        {routesTopics.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+        {/* <Route path='/mcu' element={<Mcu />} /> */}
         {routesMcuMeta.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
         {routesMcu.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
-        <Route path='/marvelcomics' element={<MarvelComics />} />
+        {/* <Route path='/marvelcomics' element={<MarvelComics />} /> */}
         <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
-        <Route path='/starwars' element={<StarWars />} />
-        <Route path='/community' element={<Community />} />
+        {/* <Route path='/starwars' element={<StarWars />} /> */}
+        {/* <Route path='/community' element={<Community />} /> */}
         {routesCommunityChars.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />
           ))}
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
-        <Route path='/beatles' element={<Beatles />} />
-        <Route path='/spongebob' element={<Spongebob />} />
-        <Route path='/himym' element={<Himym />} />
-        <Route path='/gta' element={<Gta />} />
+        {/* <Route path='/beatles' element={<Beatles />} /> */}
+        {/* <Route path='/spongebob' element={<Spongebob />} /> */}
+        {/* <Route path='/himym' element={<Himym />} /> */}
+        {/* <Route path='/gta' element={<Gta />} /> */}
         {routesGta.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />
           ))}
-        <Route path='/assassinscreed' element={<AssassinsCreed />} />
+        {/* <Route path='/assassinscreed' element={<AssassinsCreed />} /> */}
         {routesAssassinsCreed.map(({ path, Component }, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
-        <Route path='/gravityfalls' element={<GravityFalls />} />
-        <Route path='/adventuretime' element={<AdventureTime />} />
-        <Route path='/simpsons' element={<Simpsons />} />
-        <Route path='/futurama' element={<Futurama />} />
-        <Route path='/pixar' element={<Pixar />} />
-        <Route path='/hpbooks' element={<HarryPotterBooks />} />
-        <Route path='/wizardingworld' element={<WizardingWorld />} />
-        <Route path='/halo' element={<Halo />} />
-        <Route path='/call_of_duty' element={<CallofDuty />} />
-        <Route path='/battlefield' element={<Battlefield />} />
-        <Route path='/phinease_and_ferb' element={<PhineasandFerb />} />
-        <Route path='/the_amazing_world_of_gumball' element={<GumballSeries />} />
-        <Route path='/rick_and_morty' element={<RickandMorty />} />
-        <Route path='/bojack_horseman' element={<BojackHorsemanSeries />} />
-        <Route path='/a_series_of_unfortunate_events' element={<Asoue />} />
+        {/* <Route path='/gravityfalls' element={<GravityFalls />} /> */}
+        {/* <Route path='/adventuretime' element={<AdventureTime />} /> */}
+        {/* <Route path='/simpsons' element={<Simpsons />} /> */}
+        {/* <Route path='/futurama' element={<Futurama />} /> */}
+        {/* <Route path='/pixar' element={<Pixar />} /> */}
+        {/* <Route path='/hpbooks' element={<HarryPotterBooks />} /> */}
+        {/* <Route path='/wizardingworld' element={<WizardingWorld />} /> */}
+        {/* <Route path='/halo' element={<Halo />} /> */}
+        {/* <Route path='/call_of_duty' element={<CallofDuty />} /> */}
+        {/* <Route path='/battlefield' element={<Battlefield />} /> */}
+        {/* <Route path='/phinease_and_ferb' element={<PhineasandFerb />} /> */}
+        {/* <Route path='/the_amazing_world_of_gumball' element={<GumballSeries />} /> */}
+        {/* <Route path='/rick_and_morty' element={<RickandMorty />} /> */}
+        {/* <Route path='/bojack_horseman' element={<BojackHorsemanSeries />} /> */}
+        {/* <Route path='/a_series_of_unfortunate_events' element={<Asoue />} /> */}
       </Routes>
       </Wrapper>
     </>
