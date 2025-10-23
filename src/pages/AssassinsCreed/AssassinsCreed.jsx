@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom'
+import { assassinscreed } from '../../data/dataAssassinsCreed'
+import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
@@ -162,6 +164,19 @@ const AssassinsCreed = () =>
           <h2 className="article-heading-2" id="4">Release history</h2>
           <div>
             <h3 className="article-heading-2" id="4.1">Main series</h3>
+            <div className="row">
+              {assassinscreed.map((ac) => (
+                <div className="col-4" key={ac.id}>
+                  <Card 
+                    route={ac.route}
+                    img={ac.img}
+                    alt={ac.title}
+                    imgStyle="card-img-vertical"
+                    title={ac.title}
+                  />
+                </div>
+              ))}
+            </div>
             <h3 className="article-heading-2" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-2" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <h4 className="article-heading-2" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
