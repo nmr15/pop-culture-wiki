@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesAssassinsCreed, routesCommunityChars, routesMcu } from "./articles"
+import { routesAssassinsCreed, routesCommunityChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
