@@ -1,4 +1,4 @@
-const AssassinsCreedGame = () =>
+const AssassinsCreedBrotherhood = () =>
 {
   return(
     <>
@@ -9,15 +9,15 @@ const AssassinsCreedGame = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/assassinscreed">Assassin's Creed (franchise)</Link></li>
-          <li>Assassin's Creed (game)</li>
+          <li>Assassin's Creed Brotherhood</li>
         </ul>
         <div>
-          <h1 className="article-heading">Assassin's Creed (game)</h1>
+          <h1 className="article-heading">Assassin's Creed Brotherhood</h1>
         </div>
         <div className="img-right img-top">
           <img 
-            src="https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg" 
-            alt="Assassin's Creed logo" 
+            src="https://upload.wikimedia.org/wikipedia/en/2/2a/Assassins_Creed_brotherhood_cover.jpg" 
+            alt="Assassin's Creed Brotherhood logo" 
             className="article-heading-img"
           />
         </div>
@@ -26,4 +26,4 @@ const AssassinsCreedGame = () =>
   )
 }
 
-export default AssassinsCreedGame;
+export default AssassinsCreedBrotherhood;
