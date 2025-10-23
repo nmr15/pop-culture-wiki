@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesAssassinsCreed } from "./articles"
+import { routesAssassinsCreed, routesCommunityChars } from "./articles"
 import { communitychars } from "./data/dataCommunity"
 import { mcu, mcuMeta } from "./data/dataMcu"
 import { gta } from "./data/dataGta"
@@ -43,10 +43,7 @@ const Wrapper = ({ children }) => {
   return children
 }
 
-const routesCommunityChars = communitychars.map(char => ({
-  path: char.route,
-  Component: lazy(() => import(`./pages/Community/${char.file}.jsx`))
-}));
+
 
 const routesMcuMeta = mcuMeta.map(mcumeta => ({
   path: mcumeta.route,
