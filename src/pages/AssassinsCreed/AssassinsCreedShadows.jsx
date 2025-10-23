@@ -1,3 +1,7 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
+import TableAssassinsCreed from '../../components/TableAssassinsCreed'
+
 const AssassinsCreedShadows = () =>
 {
   return(
