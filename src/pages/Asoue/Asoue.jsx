@@ -112,7 +112,16 @@ const Asoue = () =>
         <div>
           <h2 className="article-heading-2" id="1">Background</h2>
           <div>
-
+            <p>
+              Prior to the publication of A Series of Unfortunate Events, Handler had never written for children. According to an interview with Handler,
+              he was encouraged to try writing children's books by his friend and editor, Susan Rich. In a separate author interview, Daphne Merkin wrote
+              that Handler adapted a manuscript for a "mock-gothic" book originally inded for adults into a series more suited for children. Handler
+              invented the pseudonym "Lemony Snicket" as an inside joke among friends years before the publication of A Series of Unfortunate Events.
+            </p>
+            <p>
+              Handler acknowledges Edward Gorey and Roald Dahl as influences for his writing style in the series. The first book in the series, The Bad
+              Beginning, was released on September 30, 1999.
+            </p>
           </div>
         </div>
         <div>
