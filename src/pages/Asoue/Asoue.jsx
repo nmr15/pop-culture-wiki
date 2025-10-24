@@ -129,6 +129,20 @@ const Asoue = () =>
           <div>
             <h3 className="article-heading-2" id="2.1">Plot</h3>
             <h3 className="article-heading-2" id="2.2">Setting</h3>
+            <p>
+              The books seem to be set in an alternate, "timeless" world with stylistic similarities to both the 19th century and the 1930s, though
+              with contemporary, and seemingly anachronistic scientific knowledge. For instance, in <Link>The Hostile Hospital</Link>, the
+              Baudelaire children send a message via Morse code on a telegraph, yet the general store they are in has fiber-optic cable for sale. An
+              "advanced computer" appears in <Link>The Austere Academy</Link>.
+            </p>
+            <p>
+              Danielle Russell, a professor at Glendale College, argues that the settings are reflective of familiar places, but are "bizarre"
+              enough that young readers feel distanced from the world of the Baudelaires. The setting of the world has been compared to Edward
+              Scissorhands in that it is "suburban gothic". While the film version sets the Baudelair mansion in the city of Boston, Massachusetts,
+              real places rarely appear in the books, though some are mentioned. For example, in <Link>The Ersatz Elevator</Link>, a book in
+              <Link>Jerome</Link> and <Link>Esmé Squalor</Link>'s library was titled Trout, in France They're Out. There are also references to the
+              fictional nobility of North American regions, specifically the Duchess of Winnipeg and the King of Arizona.
+            </p>
             <h3 className="article-heading-2" id="2.3">Characters</h3>
           </div>
         </div>
