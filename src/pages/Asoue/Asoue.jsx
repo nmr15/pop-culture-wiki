@@ -69,6 +69,22 @@ const Asoue = () =>
           />
         </ul>
       </aside>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li>A Series of Unfortunate Events</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">A Series of Unfortunate Events</h1>
+        </div>
+        <div className="img-right img-top">
+          <img 
+            src="https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg" 
+            alt="A Series of Unfortunate Events logo" 
+            className="article-heading-img"
+          />
+        </div>
+      </main>
     </>
   )
 }
