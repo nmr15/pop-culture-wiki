@@ -150,6 +150,33 @@ const Asoue = () =>
           <h2 className="article-heading-2" id="3">Literary analysis and themes</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Allusions</h3>
+            <p>
+              While the books are marketed primarily to children, the series features numerous references that adults or older children are more
+              likely to undertand.
+            </p>
+            <p>
+              Many of the characters' names allude to other fictional works or real people with macabre connections. For example, The Reptile Room
+              includes allusions to Monty Python (the Baudelaire children's unclue Monty has a large snake collection that includes a python, and
+              a reference to the "Self-Defense Against Fresh Fruit" sketch). The Baudelaire orphans are named after Charles Baudelaire; Violet's name
+              also comes from the T.S. Elliot's poem The Waste Land, specifically its verses concerning the "violet hour", and Sunny and Klaus take
+              their first names from Claus and Sunny von Bülow, while Mr. Poe is a reference to Edgar Allan Poe (his sons are named Edgar and Albert).
+              In the seventh installment, The Vile Village, Count Olaf's disguise, Detective Dupin, is an allusion to C. Augustus Dupin, a fictional
+              detective created by Edgar Allan Poe.
+            </p>
+            <p>
+              <LInk> Isadora and Duncan Quagmire</LInk> are named after Isadora Duncan, a notorious dancer also remembered for her unusual death by
+              strangulation when her scarf entangled around the wheels of the open car in which she was a passenger. In the fourth book, The Miserable
+              Mill, <Link>Dr. Georgina Orwell</Link> is a reference to British author George Orwell. Orwell finished his famous book <Link>1984</Link>
+              in 1948, and in the sixth book, The Ersatz Elevator, it is not clear if the skyscraper in which Esmé and Jerome Squalor live has 48 or 84
+              stories. The Squalors' names reference <Link>Jerome David "J.D." Salinger</Link> and his short story for Esmé - with Love and Squalor.
+              While in an auction on which the plot hinges, Lot 49 is skipped, i.e. not cried, an allusion to Thomas Pynchon's The Crying of Lot 49.
+              Both Salinger and Pynchon were reputed not to be actual persons at one time. The ninth book in the series, The Carnivorous Carnival, takes
+              place at Caligari Carnival; the carnival's name is a nod to the 1920 silent horror film The Cabinet of Dr. Caligari. Also in the ninth
+              book, Hugo the Hunchback's name is an allusion to French author Victor Hugo, who wrote the famous book The Hunchback of Notre Dame.
+              Subsequently, many of the inhabitants of the island the Baudelaires find themselves on in The End are named after characters from The
+              Tempest, a play by William Shakespeare, while some are named after characters from Robinson Crusoe, Moby-Dick, and other after general
+              nautical or island-based literature. The Fire and the Sugar Bowl was inspired by We Have Always Lived in the Castle by Shirley Jackson.
+            </p>
             <h3 className="article-heading-3" id="3.2">Genre</h3>
             <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
             <h3 className="article-heading-3" id="3.4">Narration style</h3>
