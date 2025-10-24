@@ -188,6 +188,16 @@ const Asoue = () =>
               The End refuse to eat despire the fact that it is a cure for a fatal illness).
             </p>
             <h3 className="article-heading-3" id="3.2">Genre</h3>
+            <p>
+              This series is most commonly classified as children's fiction, but the books have also been classified in more specific genres such as
+              gothic fiction, or some variety thereof, whether it is mock-gothic, a satire of gothic literature, neo-Victorian or "suburban gothic".
+              The series has been described as absurdist fiction, because of its strange characters, improbable storylines, and black comedy.
+            </p>
+            <p>
+              The books can be categorized as mystery novels. According to Chris McGee, the Baudelaires spend the series trying to uncover the truth
+              about their parents' deaths. He also likens the series to noir fiction. Danielle Russell argues that mysteries are solved for the reader
+              by their end. So, the lack of clear answers in The End does not align with this genre.
+            </p>
             <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
             <h3 className="article-heading-3" id="3.4">Narration style</h3>
             <h3 className="article-heading-3" id="3.5">Repetition</h3>
