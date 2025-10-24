@@ -84,6 +84,31 @@ const Asoue = () =>
             className="article-heading-img"
           />
         </div>
+        <div className="div-top">
+          <p>
+            A Series of Unfortunate Events is a series of thirteen children's novels written by American author <Link>Daniel Handler</Link> under the pen
+            name <Link>Lemony Snicket</Link>. The books follow the turbulent lives of orphaned siblings <Link>Violet</Link>, <Link>Klaus</Link>, and
+            <Link> Sunny Baudelaire</Link>. After their parents' death in a fire, the children are placed under the care of a murderous villain,
+            <Link> Count Olaf</Link>, who attempts to steal their inheritance and causes numerous disasters with the help of his accomplices as the
+            children attempt to flee. As the plot progresses, the Baudelaires gradually confront further mysteries surrounding their family and deep
+            conspiracies invloving a secret society, which also involves Olaf and Snicket, the author's own fictional self-insert.
+          </p>
+          <p>
+            Characterized by Victorian Gothic tones and absurdist textuality, the books are noted for their dark humor, sarcastic storytelling, and
+            anachronistic elements, as well as frequent cultured and literary allusions. They have been classifed as postmodern and metafictional
+            writing, with the plot evolution throughout the later novels being cited as an exploration of the psychological process of the transition
+            from the innocnce of childhood to the moral complexity of maturity. As the series progresses, the Baudelaires must face the reality that
+            their actions have become morally ambigious, blurring the lines between which characters should be reas as "good" or "evil".
+          </p>
+          <p>
+            Since the release of the first novel, <Link>The Bad Beginning</Link>, in September 1999, the books have gained significant popularity,
+            critical acclaim, and commercial success worldwide, spawning a <Link>film</Link>, a <Link>video game</Link>, assorted merchandise, and a
+            <Link> television series</Link>. The main thirteen books in the series have collectively sold more than 60 million copies and have been
+            translated into 41 languages. Several companion books and set in the same universe of the series have also been released, including
+            <Link>Lemony Snicket: The Unauthorized Autobiography</Link>, <Link>The Beatrice Letters</Link>, and the noir prequel tetralogy
+            <Link>All the Wrong Questions</Link>, which chronicled Snicket's childhood.
+          </p>
+        </div>
       </main>
     </>
   )
