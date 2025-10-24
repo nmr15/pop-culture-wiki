@@ -178,7 +178,14 @@ const Asoue = () =>
               nautical or island-based literature. The Fire and the Sugar Bowl was inspired by We Have Always Lived in the Castle by Shirley Jackson.
             </p>
             <p>
-
+              The name Beatrice, Snicket's dedicatee, may be an allusion to the poem La Béatrice by Charles Baudelaire. The poem references an "actor
+              without a job", like the actor Count Olaf. The poem also begins with the line "In a burnt, ash-grey land without vegetation", similar to
+              the Baudelaire mansion burning down at the beginning of the series. The name Beatrice could also be an allusion to Italian poet Dante.
+              Dante dedicated all of his works to "Beatrice", with whom he was obsessed, and who was also dead, like Snicket's Beatrice.
+            </p>
+            <p>
+              In the final book, in an allusion to the Book of Genesis, a snake offers the children a life-giving apple (which the other characters in
+              The End refuse to eat despire the fact that it is a cure for a fatal illness).
             </p>
             <h3 className="article-heading-3" id="3.2">Genre</h3>
             <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
