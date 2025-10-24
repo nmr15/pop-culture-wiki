@@ -109,6 +109,64 @@ const Asoue = () =>
             <Link>All the Wrong Questions</Link>, which chronicled Snicket's childhood.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Background</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Series overview</h2>
+          <div>
+            <h3 className="article-heading-2" id="2.1">Plot</h3>
+            <h3 className="article-heading-2" id="2.2">Setting</h3>
+            <h3 className="article-heading-2" id="2.3">Characters</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Literary analysis and themes</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Allusions</h3>
+            <h3 className="article-heading-3" id="3.2">Genre</h3>
+            <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
+            <h3 className="article-heading-3" id="3.4">Narration style</h3>
+            <h3 className="article-heading-3" id="3.5">Repetition</h3>
+            <h3 className="article-heading-3" id="3.6">Secrets in the series</h3>
+            <h3 className="article-heading-3" id="3.7">Clues</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Distribution</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Books</h3>
+            <h3 className="article-heading-3" id="4.2">Appearance</h3>
+            <h3 className="article-heading-3" id="4.3">Accompanying books</h3>
+            <h3 className="article-heading-3" id="4.4">All the Wrong Questions</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">In other media</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Television</h3>
+            <h3 className="article-heading-3" id="5.2">Film</h3>
+            <h3 className="article-heading-3" id="5.3">Video game</h3>
+            <h3 className="article-heading-3" id="5.4">Board games</h3>
+            <h3 className="article-heading-3" id="5.5">Card games</h3>
+            <h3 className="article-heading-3" id="5.6">Audio</h3>
+            <h4 className="article-heading-4" id="5.6.1">Audio books</h4>
+            <h4 className="article-heading-4" id="5.6.2">Album</h4>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Reviews</h3>
+            <h3 className="article-heading-3" id="6.2">Criticism</h3>
+            <h3 className="article-heading-3" id="6.3">Sales</h3>
+            <h3 className="article-heading-3" id="6.4">Awards</h3>
+            <h3 className="article-heading-3" id="6.5">Book lists</h3>
+          </div>
+        </div>
       </main>
     </>
   )
