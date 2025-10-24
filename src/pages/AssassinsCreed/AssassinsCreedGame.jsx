@@ -43,6 +43,25 @@ const AssassinsCreedGame = () =>
             artifact from the Templars. Altaïr is stripped of his status as Master Assassin and is given nine targets spread out across the Holy Land
             that he must find and assassinate for his redemption.
           </p>
+          <p>
+            The game focuses on using Altaïr's combat, stealth, and parkour abilities to defeat enemies and explore the environment. The game features
+            counter-based hack-and-slah combat, social stealth (the ability to use crowds of people and the environment to hide from enemies), and a
+            large open world comprising various regions of the Holy Land, primarily the cities of Masyaf, Jerusalem, Acre, and Damascus, all of which
+            have been accurately recreated to fir the game's time period. While most of the game takes places within a simulation based on Altaïr's
+            memories, the player will occasionally be forced out of the Animus to play as Desmond in the modern day. Here, they are restricted to
+            exploring a small laboratory facility, as Desmond has been kidnapped by Abstergo Industries, a shady corporation looking for specific
+            information within Altaïr's memories that will further their enigmatic goals.
+          </p>
+          <p>
+            Upon release, Assassin's Creed received generally positive reviews, with critics praising its storytelling, visuals, art design, and
+            originality, while criticism mostly focused on the repetitive nature of its gameplay. Assassin's Creed won several awards at the 2006 E3
+            and several year-end awards after its release. The game spawned two spin-offs: Assassin's Creed: Altaïr's Chronicles (2008) and
+            Assassins Creed: Bloodlines (2009), which excluded the modern-day aspect and focus entirely on Altaïr. A direct sequel,
+            <Link to="/assassinscreed/assassins_creed_ii"> Assassin's Creed II</Link>, was released in November 2009. The sequel continues the
+            modern-day narrative following Desmond but introduces a new storyline set during the Italian Renaissance in the late 15th century and a
+            new protagonist, <Link>Ezio Auditore da Firenze</Link>. Since the release and success of Assassin's Creed II, subsequent games have been
+            released with various other Assassins and periods.
+          </p>
         </div>
       </main>
     </>
