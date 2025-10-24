@@ -140,7 +140,7 @@ const Asoue = () =>
               enough that young readers feel distanced from the world of the Baudelaires. The setting of the world has been compared to Edward
               Scissorhands in that it is "suburban gothic". While the film version sets the Baudelair mansion in the city of Boston, Massachusetts,
               real places rarely appear in the books, though some are mentioned. For example, in <Link>The Ersatz Elevator</Link>, a book in
-              <Link>Jerome</Link> and <Link>Esmé Squalor</Link>'s library was titled Trout, in France They're Out. There are also references to the
+              <Link> Jerome</Link> and <Link>Esmé Squalor</Link>'s library was titled Trout, in France They're Out. There are also references to the
               fictional nobility of North American regions, specifically the Duchess of Winnipeg and the King of Arizona.
             </p>
             <h3 className="article-heading-2" id="2.3">Characters</h3>
@@ -164,7 +164,7 @@ const Asoue = () =>
               detective created by Edgar Allan Poe.
             </p>
             <p>
-              <LInk> Isadora and Duncan Quagmire</LInk> are named after Isadora Duncan, a notorious dancer also remembered for her unusual death by
+              <Linkk> Isadora and Duncan Quagmire</Linkk> are named after Isadora Duncan, a notorious dancer also remembered for her unusual death by
               strangulation when her scarf entangled around the wheels of the open car in which she was a passenger. In the fourth book, The Miserable
               Mill, <Link>Dr. Georgina Orwell</Link> is a reference to British author George Orwell. Orwell finished his famous book <Link>1984</Link>
               in 1948, and in the sixth book, The Ersatz Elevator, it is not clear if the skyscraper in which Esmé and Jerome Squalor live has 48 or 84
