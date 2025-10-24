@@ -164,7 +164,7 @@ const Asoue = () =>
               detective created by Edgar Allan Poe.
             </p>
             <p>
-              <Linkk> Isadora and Duncan Quagmire</Linkk> are named after Isadora Duncan, a notorious dancer also remembered for her unusual death by
+              <Link> Isadora and Duncan Quagmire</Link> are named after Isadora Duncan, a notorious dancer also remembered for her unusual death by
               strangulation when her scarf entangled around the wheels of the open car in which she was a passenger. In the fourth book, The Miserable
               Mill, <Link>Dr. Georgina Orwell</Link> is a reference to British author George Orwell. Orwell finished his famous book <Link>1984</Link>
               in 1948, and in the sixth book, The Ersatz Elevator, it is not clear if the skyscraper in which Esmé and Jerome Squalor live has 48 or 84
@@ -176,6 +176,9 @@ const Asoue = () =>
               Subsequently, many of the inhabitants of the island the Baudelaires find themselves on in The End are named after characters from The
               Tempest, a play by William Shakespeare, while some are named after characters from Robinson Crusoe, Moby-Dick, and other after general
               nautical or island-based literature. The Fire and the Sugar Bowl was inspired by We Have Always Lived in the Castle by Shirley Jackson.
+            </p>
+            <p>
+
             </p>
             <h3 className="article-heading-3" id="3.2">Genre</h3>
             <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
