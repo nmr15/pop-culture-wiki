@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import asoue from '../../data/dataAsoue'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableAsoue from '../../components/TableAsoue'
@@ -223,6 +224,19 @@ const Asoue = () =>
           <h2 className="article-heading-2" id="4">Distribution</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Books</h3>
+            <div className="row">
+              {asoue.map((asoue) => (
+                <div className="col-4" key={asoue.id}>
+                  <Card 
+                    route={asoue.route}
+                    img={asoue.img}
+                    alt={asoue.title}
+                    imgStyle="card-img-vertical"
+                    title={asoue.title}
+                  />
+                </div>
+              ))}
+            </div>
             <h3 className="article-heading-3" id="4.2">Appearance</h3>
             <h3 className="article-heading-3" id="4.3">Accompanying books</h3>
             <h3 className="article-heading-3" id="4.4">All the Wrong Questions</h3>
