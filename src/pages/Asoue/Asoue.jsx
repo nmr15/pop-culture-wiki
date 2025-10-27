@@ -344,6 +344,13 @@ const Asoue = () =>
               Horseradish: Bitter Truths You Can't Avoid.
             </p>
             <h3 className="article-heading-3" id="4.4">All the Wrong Questions</h3>
+            <p>
+              Lemony Snicket's All the Wrong Questions is a four-part young adult series focused on the character, Snicket's childhood working for V.F.D.
+              It is set in the same universe as A Series of Unfortunate Events and features several of the same characters and locations. The first book
+              was titled <Link>Who Could That Be at This Hour?</Link>, and was released in October 2012. The second, <Link>When Did You See Her
+              Last?</Link>, was released in October 2013, and the third, <Link>Shouldn't You Be in School?</Link>, was released in September 2014. The
+              final book, <Link>Why is This Night Different from All Other Nights?</Link>, was released on September 29, 2015.
+            </p>
           </div>
         </div>
         <div>
