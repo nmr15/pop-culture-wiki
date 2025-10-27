@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
-import asoue from '../../data/dataAsoue'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableAsoue from '../../components/TableAsoue'
+import asoue from '../../data/dataAsoue'
 
 const Asoue = () =>
 {
