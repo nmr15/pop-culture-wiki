@@ -85,7 +85,7 @@ export const asoue = [
   },
   {
     "id": "asoue13",
-    "title": "The End (book)",
+    "title": "The End",
     "file": "TheEndBook",
     "img": "https://upload.wikimedia.org/wikipedia/en/5/52/TheEndBook.jpg",
     "route": "/asoue/the_end"
