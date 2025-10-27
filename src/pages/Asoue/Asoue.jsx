@@ -264,6 +264,13 @@ const Asoue = () =>
               cycle in The Grim Grotto.
             </p>
             <h3 className="article-heading-3" id="3.5">Repetition</h3>
+            <p>
+              The plots of the first seven books follow the same basic pattern: the Baudelaires go to a new guardian in a new location, where Count
+              Olaf appears and attempts to steal their fortune; although the guardian is killed off, Olaf's schemes are foiled. The books following
+              pick up where the previous book ended. There are thirteen books in the series and each book has thirteen chapters. The last book in the
+              series, The End, contains two stories: The End, which has 13 chapters, and a separate "book" that is titled Chapter Fourteen. The
+              location of each book's events is udually identified in the book's title; the first twelve book titles are generally alliterative.
+            </p>
             <h3 className="article-heading-3" id="3.6">Secrets in the series</h3>
             <h3 className="article-heading-3" id="3.7">Clues</h3>
           </div>
