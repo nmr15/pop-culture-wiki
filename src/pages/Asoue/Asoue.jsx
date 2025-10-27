@@ -357,6 +357,29 @@ const Asoue = () =>
           <h2 className="article-heading-2" id="5">In other media</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Television</h3>
+            <p>
+              Netflix, in association with Paramount Television, announced in November 2014 its plans to adapt the books into an origianl TV series with
+              25 total episodes spanning 3 seasons, with 2 episodes dedicated to each book, with the exception of the 13th book, The End. Author Daniel
+              Handler serves as a writer and executive producer.
+            </p>
+            <p>
+              On September 4, 2015, it was announced that filmmaker Barry Sonnenfeld and True Bloods showrunner Mark Hudis had agreed to helm the series.
+              Hudis would serve as showrunner, Sonnenfeld as director, and both as executive producers with Daniel Handler penning the script. On
+              December 3, 2015, an open casting call was announced for the roles of Violet and Klaus Baudelaire, with the casting call confirming that
+              the series would begin production in March 2016.
+            </p>
+            <p>
+              In January 2016, Netflix announced that Hudis had left the project. However, it was announced that Sonnenfeld aand Handler were both still
+              on board, and that <Link>Neil Patrick Harris</Link> had been cast as Count Olaf and Malina Weissman and Louis Hynes as Violet and Klaus.
+            </p>
+            <p>
+              In March 2016, K. Todd Freeman and <Link>Patrick Warburton</Link> were cast as Mr. Poe and Lemony Snicket respectively. The first season,
+              consisting of eight episodes that cover the first four books, was released worldwide on Netflix on January 13, 2017. A Series of
+              Unfortunate Events was renewed for a second season, which was released on March 30, 2018, and consisted of ten episodes that adapt books
+              five through nine of the novel series. The television series was also renewed for a third and final season, which was released on January
+              1, 2019, consisting of seven episodes that adapted the final four books. The last book The End, was adapted into one episode instead of
+              the standard two episodes.
+            </p>
             <h3 className="article-heading-3" id="5.2">Film</h3>
             <h3 className="article-heading-3" id="5.3">Video game</h3>
             <h3 className="article-heading-3" id="5.4">Board games</h3>
