@@ -326,6 +326,16 @@ const Asoue = () =>
               ))}
             </div>
             <h3 className="article-heading-3" id="4.2">Appearance</h3>
+            <p>
+              In an article about children's literature, Bruce Butt describes the hardcover books as "elegant" and "collectible". He noted that the
+              endpapers and overall book design resemble Victorian-era novels. Danielle Russell argues that the visual stylization of the books adds to
+              their sense of timelessness. The hardcover books were printed with a deckle edge.
+            </p>
+            <p>
+              There was an initial paperback release of the series, featuring restyled covers, new illustrations, and a serial supplement entitled The
+              Cornucopian Cavalcade with The Bad Beginning: or, Orphans!, The Reptile Room: or, Murder!, and The Wide Window: or, Disappearance!.
+              However, the release was stopped after the third.
+            </p>
             <h3 className="article-heading-3" id="4.3">Accompanying books</h3>
             <h3 className="article-heading-3" id="4.4">All the Wrong Questions</h3>
           </div>
