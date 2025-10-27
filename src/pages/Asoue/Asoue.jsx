@@ -443,6 +443,11 @@ const Asoue = () =>
               Merritt.
             </p>
             <h4 className="article-heading-4" id="5.6.2">Album</h4>
+            <p>
+              In October 2006, The Tragic Treasury: Songs from A Series of Unfortunate Events by The Gothic Archies was released. The album is a
+              collection of thirteen songs written and performed by Stephin Merritt (of The Magnetic Fields), each one originally appearing on one of
+              the corresponding thirteen audiobooks of the series. Two bonus songs are included.
+            </p>
           </div>
         </div>
         <div>
