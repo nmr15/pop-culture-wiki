@@ -424,6 +424,12 @@ const Asoue = () =>
               Cards, Secret Passage Tiles, and Disguise Tiles in play.
             </p>
             <h3 className="article-heading-3" id="5.5">Card games</h3>
+            <p>
+              The Catastrophic Card Game is the second game based on the books. In this card game, players are looking to complete sets of
+              characters. There are 4 different sets: The Baudelaire Orphans, Count Olaf in Disguise, Olaf's Henchmen, and the Orphans Confidants.
+              Players take turns drawing a card from wither the draw pile or the top card from the discard pile in hopes of completing their sets.
+              For 2-4 players, ages 14 and under.
+            </p>
             <h3 className="article-heading-3" id="5.6">Audio</h3>
             <h4 className="article-heading-4" id="5.6.1">Audio books</h4>
             <h4 className="article-heading-4" id="5.6.2">Album</h4>
