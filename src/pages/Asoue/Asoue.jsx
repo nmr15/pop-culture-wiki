@@ -432,6 +432,16 @@ const Asoue = () =>
             </p>
             <h3 className="article-heading-3" id="5.6">Audio</h3>
             <h4 className="article-heading-4" id="5.6.1">Audio books</h4>
+            <p>
+              Most of the series of unabridged audiobooks are read by British actor Tim Curry, though Handler as Lemony reads books 3 to 5. Of
+              narrating the audiobooks, Handler has said: "It was very, very hard,. It was unbelievable arduous. It was the worst kind of arduous."
+              As such, future narrating duties were handed back to Curry, of whom Handler states: "he does a splendid job". The "Dear Reader" blurb
+              is usually read by Handler (as Snicket) at the beginning, although it is missing in The Hostile Hospital. Handler usually reads the
+              "To my Kind Editor" blurb about the next book at the end. Starting at The Carinvorous Carnival, there is another actor who replaces
+              Handler in reading the two blurbs, although they are skipped entirely in The Grim Grotto. All of the recordings include a loosely related
+              song by The Gothic Archies, a novelty band of which Handler is a member, featuring lyrics by Handler's Magnetic Fields bandmate Stephin
+              Merritt.
+            </p>
             <h4 className="article-heading-4" id="5.6.2">Album</h4>
           </div>
         </div>
