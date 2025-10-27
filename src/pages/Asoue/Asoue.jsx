@@ -214,6 +214,24 @@ const Asoue = () =>
               strong level of realism discredits any argument that the books can be classified as fantasies.
             </p>
             <h3 className="article-heading-3" id="3.3">Morality in the series</h3>
+            <p>
+              Social commentary is a major element in the books, which often comment on the seemingly inescapable follies of humaan nature. The books
+              consistently present the Baudelaire children as free-thinking and independent, while the adults around them obey authority and succumb to
+              mob psychology, peer pressure, ambition, and other social ills. A high account is given to learning: those who are "well-read" are often
+              sympathetic characters, while those who shun knowledge are villains.
+            </p>
+            <p>
+              Tison Pugh argues that the central issue of the series is whether the Baudelaires are morally good and distinct from the villains of the
+              story, or whether their actions make them as morally ambigious as the so-called evil characters.
+            </p>
+            <p>
+              Evil characters are shown to have sympathetic characteristics. Similarly, good characters' flaws become major problems. The books highlight
+              the inevitability of temptation and moral decision making, regardless of the external situation. This indicates that regardless of one's
+              outside influences, one always has the final choice in whether to be good or bad. Characters that make brave decisions to fight back and
+              take charge are almost always "good", and characters that just go along end up as "bad." However, some characters suggest that people are
+              neither good nor bad, but a mix of both. Rebecca-Anna C. Do Rozario notes the nihilistic tone of the series, claiming the lines between
+              good and evil acts become blurred to the point where they become meaningless.
+            </p>
             <h3 className="article-heading-3" id="3.4">Narration style</h3>
             <h3 className="article-heading-3" id="3.5">Repetition</h3>
             <h3 className="article-heading-3" id="3.6">Secrets in the series</h3>
