@@ -454,6 +454,14 @@ const Asoue = () =>
           <h2 className="article-heading-2" id="6">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Reviews</h3>
+            <p>
+              Reviews for A Series of Unfortunate Events have generally been positive, with reviewers saying that the series is enjoyable for
+              children and adults alike, and that it brings fresh and adult themes to children's stories. The Times Online refer to the books as "a
+              literary phenomenon", and discuss how the plight of the Baudelaire orphans helps children cope with loss, citing the rise in sales
+              post-September 11, 2001 as evidence. Mackey attributes the series' success to the "topsy-turvy moral universe." Langbauer feels the series
+              "offers a critique of the pieties" of earlier generations and imparts "its own vision of ethics." In a May 2000 article for Publishers
+              Weekly, Sally Lodge notes kids and educators' enthusiasm for the first four books in the series.
+            </p>
             <h3 className="article-heading-3" id="6.2">Criticism</h3>
             <h3 className="article-heading-3" id="6.3">Sales</h3>
             <h3 className="article-heading-3" id="6.4">Awards</h3>
