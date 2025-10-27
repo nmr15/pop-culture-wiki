@@ -404,6 +404,18 @@ const Asoue = () =>
               you the realthing.'"
             </p>
             <h3 className="article-heading-3" id="5.3">Video game</h3>
+            <p>
+              Lemony Snicket's A Series of Unfortunate Events is a video game based on the 2004 film. It was developed by Adrenium Games and
+              <Link>Activision</Link> for <Link>PlayStation 2</Link>, <Link>GameCube</Link>, <Link>Xbox</Link>, <Link>Game Boy Advance</Link>, and PC.
+              The player plays as all three orphans at points in the game, and encounters characters such as Mr. Poe, Uncle Monty, and Aunt Josephine,
+              along with villains such as Count Olaf, the <Link>Hook-Handed Man</Link>, <Link>the White-Faced Women</Link>, and the <Link>Bald
+              Man</Link>. The game, like the movie, follows only the first three books in the series.
+            </p>
+            <p>
+              A separate casual game titled A Series of Unfortunate Events was published by Oberon Media the same year as a different tie-in to the
+              books. Set in Count Olaf's house, the game involved his six associates and many objects they use in Olaf's efforts to capture the
+              children. Gameplay includes three difficulty levels and two game modes: Deduction Junction and Swap Monster.
+            </p>
             <h3 className="article-heading-3" id="5.4">Board games</h3>
             <h3 className="article-heading-3" id="5.5">Card games</h3>
             <h3 className="article-heading-3" id="5.6">Audio</h3>
