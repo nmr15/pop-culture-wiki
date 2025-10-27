@@ -417,6 +417,12 @@ const Asoue = () =>
               children. Gameplay includes three difficulty levels and two game modes: Deduction Junction and Swap Monster.
             </p>
             <h3 className="article-heading-3" id="5.4">Board games</h3>
+            <p>
+              A board game based on the books was distributed by Mattel in 2004, prior to the movie. The Perilous Parlor Game is for 2-4 players,
+              ages 8 and up. One player assumes the role of Count Olaf, and the other players play the Baudelaire children. Count Olaf's objecive
+              in the game is to eliminate the guardian, while the children try to keep the guardian alive. The game employs Clever Cards, Tragedy
+              Cards, Secret Passage Tiles, and Disguise Tiles in play.
+            </p>
             <h3 className="article-heading-3" id="5.5">Card games</h3>
             <h3 className="article-heading-3" id="5.6">Audio</h3>
             <h4 className="article-heading-4" id="5.6.1">Audio books</h4>
