@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import TableAsoue from '../../components/TableAsoue'
-import asoue from '../../data/dataAsoue'
+import { asoue } from '../../data/dataAsoue'
 
 const Asoue = () =>
 {
