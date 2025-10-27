@@ -337,6 +337,12 @@ const Asoue = () =>
               However, the release was stopped after the third.
             </p>
             <h3 className="article-heading-3" id="4.3">Accompanying books</h3>
+            <p>
+              There are books that accompany the series, such as The Beatrice Letters, Lemony Snicket: The Unauthorized Autobiography, and The Puzzling
+              Puzzles; journals The Blank Book and The Notorious Notations; and short materials such as The Dismal Dinner and 13 Shocking Secrets You'll
+              Wish You Never Knew About Lemony Snicket. Humorous quotes from the series were used in a book published under the Snicket name,
+              Horseradish: Bitter Truths You Can't Avoid.
+            </p>
             <h3 className="article-heading-3" id="4.4">All the Wrong Questions</h3>
           </div>
         </div>
