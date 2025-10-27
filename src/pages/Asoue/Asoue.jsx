@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
+import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
+import TableAsoue from '../../components/TableAsoue'
 
 const Asoue = () =>
 {
@@ -248,6 +250,9 @@ const Asoue = () =>
             <h3 className="article-heading-3" id="6.4">Awards</h3>
             <h3 className="article-heading-3" id="6.5">Book lists</h3>
           </div>
+        </div>
+        <div>
+          <TableAsoue />
         </div>
       </main>
     </>
