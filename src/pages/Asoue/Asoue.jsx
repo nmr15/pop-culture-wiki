@@ -233,6 +233,36 @@ const Asoue = () =>
               good and evil acts become blurred to the point where they become meaningless.
             </p>
             <h3 className="article-heading-3" id="3.4">Narration style</h3>
+            <p>
+              The series is narrated by Lemony Snicket, the pseudonym of Daniel Handler. He dedicates each of his works to his deceased love interest,
+              Beatrice, and often attempts to dissuade the reader from reading the Baudelaires' unfortunate story. Handler has referred to Lemony
+              Snicket as a "character" who also doubles as the series' narrator. Some details of his life are explained somewhat in a supplement to the
+              series, <Link>Lemony Snicket: The Unauthorized Autobiography</Link>.
+            </p>
+            <p>
+              When Snicket describes a word the reader may be unfamiliar with, he typically follows it with the saying "a word which here means ...."
+              He sometimes follows this phrase with a humorous definition, or one that is relevant only to the events at hand (for example, he describes
+              "adversity" as meaning "Count Olaf").
+            </p>
+            <p>
+              Lemony Snicket continously maintains that the story is true and that it is his "solemn duty" to record it. Snicket often goes off into
+              humorous or satirical asides, discussing his opinion or personal life.
+            </p>
+            <p>
+              Lemony Snicket's narration and commentary are characteristically cynical and despondent. In the blurb for each book, Snicket warns of the
+              misery the reader may experience in reading about the Baudelaire orphans and suggests abandoning the books altogether. However, he also
+              provides ample comic relief with wry, dark humor. Snicket's narration has been described as "self-conscious" and "post-modern". Daphne
+              Merkin characterized Snicket's narration style as "droll and detached."
+            </p>
+            <p>
+              When describing a character whom the Baudelaires have met before, Snicket often describes the character first and does not reveal the name
+              of the character until they have been thoroughly described. Lemony Snicket starts each book with a "post-modern dissection of the reading
+              experience" before linking it back to how he presents the story of the Baudelaires and what their current situation is. Snicket often uses
+              alliteration to name locations, as well as book titles, throughout the story. Many of the books start with a theme being introduced that
+              is continually referenced throughout the book, such as the repeated comparisons of the words "nervous" and "anxious" in The Ersatz
+              Elevator, the consistent use of the phrase "where there's smoke, there's fire" in The Slippery Slope, and the descriptions of the water
+              cycle in The Grim Grotto.
+            </p>
             <h3 className="article-heading-3" id="3.5">Repetition</h3>
             <h3 className="article-heading-3" id="3.6">Secrets in the series</h3>
             <h3 className="article-heading-3" id="3.7">Clues</h3>
