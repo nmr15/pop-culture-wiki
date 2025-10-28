@@ -5,6 +5,8 @@ import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { gta } from '../data/dataGta';
+import { assassinscreed } from '../data/dataAssassinsCreed';
+import { asoue } from '../data/dataAsoue';
 
 const AllArticles = () =>
 {
@@ -213,13 +215,35 @@ const AllArticles = () =>
                 </ul>
             </div>
         </div>
-        
+
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Gta">Grand Theft Auto</h3>
             <ul className="allArticles-list">
             {gta.map((gta) => (
                 <li key={gta.id}>
                 <Link to={gta.route}>{gta.title}</Link>
+                </li>
+            ))}
+            </ul>
+        </div>
+
+        <div className="allArticles-section">
+            <h3 className="article-heading-3" id="AssassinsCreed">Assassin's Creed</h3>
+            <ul className="allArticles-list">
+            {assassinscreed.map((ac) => (
+                <li key={ac.id}>
+                <Link to={ac.route}>{ac.title}</Link>
+                </li>
+            ))}
+            </ul>
+        </div>
+
+        <div className="allArticles-section">
+            <h3 className="article-heading-3" id="Asoue">A Series of Unfortunate Events</h3>
+            <ul className="allArticles-list">
+            {asoue.map((asoue) => (
+                <li key={asoue.id}>
+                <Link to={asoue.route}>{asoue.title}</Link>
                 </li>
             ))}
             </ul>
