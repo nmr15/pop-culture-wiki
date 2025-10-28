@@ -4,6 +4,7 @@ import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
+import { gta } from '../data/dataGta';
 
 const AllArticles = () =>
 {
@@ -207,6 +208,16 @@ const AllArticles = () =>
                 ))}
                 </ul>
             </div>
+        </div>
+        <div className="allArticles-section">
+            <h3 className="article-heading-3" id="Gta">Grand Theft Auto</h3>
+            <ul className="allArticles-list">
+            {gta.map((gta) => (
+                <li key={gta.id}>
+                <Link to={gta.route}>{gta.title}</Link>
+                </li>
+            ))}
+            </ul>
         </div>
       </main>
     </>
