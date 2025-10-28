@@ -70,7 +70,7 @@ const AllArticles = () =>
                 </ul>
             </div>
             <div>
-                <h4 className="article-heading-4">Star Wars films</h4>
+                <h4 className="article-heading-4">Star Wars series</h4>
                 <ul className="allArticles-list">
                 {starwarsSeries.map((swSeries) => (
                     <li key={swSeries.id}>
