@@ -23,9 +23,9 @@ const AllArticles = () =>
           <h1 className="article-heading">All Articles</h1>
         </div>
         <div>
-          <h2 className="article-heading-2" id="Mcu">Marvel Cinematic Universe</h2>
+          <h3 className="article-heading-3" id="Mcu">Marvel Cinematic Universe</h3>
           <div>
-            <h3 className="article-heading-3">Marvel Studios films, series, and specials</h3>
+            <h4 className="article-heading-4">Marvel Studios films, series, and specials</h4>
           </div>
         </div>
       </main>
