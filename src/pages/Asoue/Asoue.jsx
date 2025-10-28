@@ -463,6 +463,15 @@ const Asoue = () =>
               Weekly, Sally Lodge notes kids and educators' enthusiasm for the first four books in the series.
             </p>
             <h3 className="article-heading-3" id="6.2">Criticism</h3>
+            <p>
+              Access to the book was restricted at Katy ISD Elementary School in Katy, Texas. A school in Decatur, Georgia criticized The Reptile Room
+              for its inclusion of the word "damn", cancelling an author event with Handler in protest.
+            </p>
+            <p>
+              Criticism include the suggested incest in Olaf's attempt to marry his distant cousin Violet in The Bad Beginning. The series has also been
+              criticized for formulaic and repetitive storytelling, including by Bruce Butt, who likened the first eight books to "junk food" for
+              children.
+            </p>
             <h3 className="article-heading-3" id="6.3">Sales</h3>
             <h3 className="article-heading-3" id="6.4">Awards</h3>
             <h3 className="article-heading-3" id="6.5">Book lists</h3>
