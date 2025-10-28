@@ -358,8 +358,9 @@ td, th
 
 .allArticles-list
 {
-  display: flex;
-  flex-wrap: wrap;
+  gap: 10px;
+  column-count: 2;
+  column-gap: 20px;
 }
 
 @media screen and (max-width: 768px)
