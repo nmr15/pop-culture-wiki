@@ -30,7 +30,7 @@ export const beatlesAlbums = [
     "id": "btlsAl1",
     "title": "Please Please Me",
     "file": "PleasePleaseMe",
-    "route": "/beatles/please_please_me"
+    "route": "/beatles/please_please_me_album"
   },
   {
     "id": "btlsAl2",
