@@ -3,6 +3,7 @@ import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
+import { beatles, beatlesAlbums } from '../data/dataBeatles';
 
 const AllArticles = () =>
 {
@@ -149,6 +150,29 @@ const AllArticles = () =>
                 {communitys6.map((commS6) => (
                     <li key={commS6.id}>
                     <Link to={commS6.route}>{commS6.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+        </div>
+        <div className="allArticles-section">
+            <h3 className="article-heading-3" id="Beatles">The Beatles</h3>
+            <div>
+                <h4 className="article-heading-4">Members</h4>
+                <ul className="allArticles-list">
+                {beatles.map((beatle) => (
+                    <li key={beatle.id}>
+                    <Link to={beatle.route}>{beatle.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Albums</h4>
+                <ul className="allArticles-list">
+                {beatlesAlbums.map((btlsAlbm) => (
+                    <li key={btlsAlbm.id}>
+                    <Link to={btlsAlbm.route}>{btlsAlbm.title}</Link>
                     </li>
                 ))}
                 </ul>
