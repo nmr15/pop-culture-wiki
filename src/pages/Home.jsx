@@ -12,7 +12,7 @@ const Home = () =>
                 <li class="sidebar-list-item">
                   <a href="#">Home</a>
                 </li>
-                <li className="sidbar-list-item">
+                <li className="sidebar-list-item">
                   <Link to='/all'>All Articles</Link>
                 </li>
                 <li class="sidebar-list-item">
