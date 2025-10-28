@@ -473,8 +473,25 @@ const Asoue = () =>
               children.
             </p>
             <h3 className="article-heading-3" id="6.3">Sales</h3>
+            <p>
+              Within a year of The Bad Beginning's publication, the first four books in the series had a combine printing of 125,000 copies. A
+              Series of Unfortunate Events has been printed in 41 different languages, selling at least sixty-five million copies as of 2015.
+            </p>
             <h3 className="article-heading-3" id="6.4">Awards</h3>
+            <p>
+              The Bad Beginning won multiple literary awards, including the Colorado Children's Book Award, the Nevada Young Readers Award and the
+              Nene Award. It was also a finalist for the Book Sense Book of the Year.
+            </p>
+            <p>
+              Its sequels have continued this trend, garnering multiple awards and nominations. Among these are three IRA/CBC Children's Choice
+              Awards, which it received for The Wide Window, The Vile Village, and The Hostile Hospital. The Penultimate Peril won a best book prize
+              at the Nickelodeon Kids' Choice Awards, and a 2006 Quill Book Award.
+            </p>
             <h3 className="article-heading-3" id="6.5">Book lists</h3>
+            <p>
+              While not technically awards, The Ersatz Elevator was named a Book Sense 76 Pick, and The Grim Grotto is an Amazon.com Customers'
+              Favorite.
+            </p>
           </div>
         </div>
         <div>
