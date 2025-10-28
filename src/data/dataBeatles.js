@@ -111,23 +111,100 @@ export const beatlesSongs = [
     "id": "btlsSong1",
     "title": "I Saw Her Standing There",
     "file": "ISawHerStandingThere",
-    "album": "Please Plase Me",
+    "album": "Please Please Me",
     "route": "/beatles/i_saw_her_standing_there"
   },
   {
     "id": "btlsSong2",
     "title": "Misery",
     "file": "MiseryBeatles",
-    "album": "Please Plase Me",
+    "album": "Please Please Me",
     "route": "/beatles/misery"
   },
   {
     "id": "btlsSong3",
     "title": "Anna (Go to Him)",
     "file": "AnnaBeatles",
-    "album": "Please Plase Me",
+    "album": "Please Please Me",
     "route": "/beatles/anna_go_to_him"
   },
+  {
+    "id": "btlsSong4",
+    "title": "Chains",
+    "file": "Chains",
+    "album": "Please Please Me",
+    "route": "/beatles/chains"
+  },
+  {
+    "id": "btlsSong5",
+    "title": "Boys",
+    "file": "Boys",
+    "album": "Please Please Me",
+    "route": "/beatles/boys"
+  },
+  {
+    "id": "btlsSong6",
+    "title": "Ask Me Why",
+    "file": "Ask Me Why",
+    "album": "Please Please Me",
+    "route": "/beatles/ask_me_why"
+  },
+  {
+    "id": "btlsSong7",
+    "title": "Please Please Me",
+    "file": "PleasePleaseMe",
+    "album": "Please Please Me",
+    "route": "/beatles/please_please_me_song"
+  },
+  {
+    "id": "btlsSong8",
+    "title": "Love Me Do",
+    "file": "LoveMeDo",
+    "album": "Please Please Me",
+    "route": "/beatles/love_me_do"
+  },
+  {
+    "id": "btlsSong9",
+    "title": "P.S. I Love You",
+    "file": "PSILoveYou",
+    "album": "Please Please Me",
+    "route": "/beatles/ps_i_love_you"
+  },
+  {
+    "id": "btlsSong10",
+    "title": "Baby It's You",
+    "file": "BabyItsYou",
+    "album": "Please Please Me",
+    "route": "/beatles/baby_its_you"
+  },
+  {
+    "id": "btlsSong11",
+    "title": "Do You Want to Know a Secret",
+    "file": "DoYouWanttoKnowASecret",
+    "album": "Please Please Me",
+    "route": "/beatles/do_you_want_to_know_a_secret"
+  },
+  {
+    "id": "btlsSong12",
+    "title": "A Taste of Honey",
+    "file": "ATasteofHoney",
+    "album": "Please Please Me",
+    "route": "/beatles/a_taste_of_honey"
+  },
+  {
+    "id": "btlsSong13",
+    "title": "There's a Place",
+    "file": "TheresAPlace",
+    "album": "Please Please Me",
+    "route": "/beatles/theres_a_place"
+  },
+  {
+    "id": "btlsSong14",
+    "title": "Twist and Shout",
+    "file": "TwistAndShout",
+    "album": "Please Please Me",
+    "route": "/beatles/twist_and_shout"
+  }
 ]
 
 export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
