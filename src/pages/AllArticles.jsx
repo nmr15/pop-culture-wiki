@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
+import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 
 const AllArticles = () =>
 {
@@ -75,6 +76,29 @@ const AllArticles = () =>
                 {starwarsSeries.map((swSeries) => (
                     <li key={swSeries.id}>
                     <Link to={swSeries.route}>{swSeries.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+        </div>
+        <div className="allArticles-section">
+            <h3 className="article-heading-3" id="Community">Community</h3>
+            <div>
+                <h4 className="article-heading-4">Community characters</h4>
+                <ul className="allArticles-list">
+                {communitychars.map((commChar) => (
+                    <li key={commChar.id}>
+                    <Link to={commChar.route}>{commChar.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 1</h4>
+                <ul className="allArticles-list">
+                {communitys1.map((commS1) => (
+                    <li key={commS1.id}>
+                    <Link to={commS1.route}>{commS1.title}</Link>
                     </li>
                 ))}
                 </ul>
