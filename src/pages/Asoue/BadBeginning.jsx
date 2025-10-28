@@ -104,7 +104,7 @@ const BadBeginning = () =>
         <div>
           <h2 className="article-heading-2" id="2">Dedication</h2>
           <div>
-
+            <p><i>To Beatrice—<br />darling, dearest, dead.</i></p>
           </div>
         </div>
         <div>
