@@ -103,6 +103,56 @@ const AllArticles = () =>
                 ))}
                 </ul>
             </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 2</h4>
+                <ul className="allArticles-list">
+                {communitys2.map((commS2) => (
+                    <li key={commS2.id}>
+                    <Link to={commS2.route}>{commS2.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 3</h4>
+                <ul className="allArticles-list">
+                {communitys3.map((commS3) => (
+                    <li key={commS3.id}>
+                    <Link to={commS3.route}>{commS3.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 4</h4>
+                <ul className="allArticles-list">
+                {communitys4.map((commS4) => (
+                    <li key={commS4.id}>
+                    <Link to={commS4.route}>{commS4.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 5</h4>
+                <ul className="allArticles-list">
+                {communitys5.map((commS5) => (
+                    <li key={commS5.id}>
+                    <Link to={commS5.route}>{commS5.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Community Season 6</h4>
+                <ul className="allArticles-list">
+                {communitys6.map((commS6) => (
+                    <li key={commS6.id}>
+                    <Link to={commS6.route}>{commS6.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
         </div>
       </main>
     </>
