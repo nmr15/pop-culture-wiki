@@ -27,7 +27,7 @@ const AllArticles = () =>
           <h3 className="article-heading-3" id="Mcu">Marvel Cinematic Universe</h3>
           <div>
             <h4 className="article-heading-4">Marvel Studios films, series, and specials</h4>
-            <ul>
+            <ul className="allArticles-list">
               {mcu.map((mcu) => (
                 <li key={mcu.id}>
                   <Link to={mcu.route}>{mcu.title}</Link>
