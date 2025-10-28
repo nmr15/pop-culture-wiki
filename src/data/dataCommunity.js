@@ -368,7 +368,7 @@ export const communityEps = [
     "file": "CommunityS2E4",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/5/5f/Basic_Rocket_Science.png",
     "route": "/community/basic_rocket_science",
-    "desc": ""
+    "desc": "Dean Pelton acquires a spaceflight simulator for Greendale after City College announces one of its own. The group becomes trapped in the simulation as it is towed off campus. Abed is left behind and attempts to guide them safely back."
   },
   {
     "id": "cmntys2e5",
