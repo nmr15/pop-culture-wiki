@@ -70,8 +70,10 @@ const TheIncredibuleHulkFilm = () =>
           />
         </div>
         <div className="div-top">
-          <p>
-            The Incredible Hulk
+           <p>
+            The Incredible Hulk is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character the
+            <Link to="/marvelcomics/hulk">Hulk</Link>. Produced by <Link>Marvel Studios</Link> and Valhalla Motion Pictures, and distributed by
+            Universal Pictures, it is the second film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
           </p>
         </div>
         <div>
