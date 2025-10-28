@@ -3,7 +3,7 @@ import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
-import { beatles, beatlesAlbums } from '../data/dataBeatles';
+import { beatles, beatlesAlbums, beatlesPPM } from '../data/dataBeatles';
 
 const AllArticles = () =>
 {
@@ -173,6 +173,16 @@ const AllArticles = () =>
                 {beatlesAlbums.map((btlsAlbm) => (
                     <li key={btlsAlbm.id}>
                     <Link to={btlsAlbm.route}>{btlsAlbm.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">Please Please Me</h4>
+                <ul className="allArticles-list">
+                {beatlesPPM.map((btlsPPM) => (
+                    <li key={btlsPPM.id}>
+                    <Link to={btlsPPM.route}>{btlsPPM.title}</Link>
                     </li>
                 ))}
                 </ul>

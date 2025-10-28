@@ -112,9 +112,25 @@ export const beatlesSongs = [
     "title": "I Saw Her Standing There",
     "file": "ISawHerStandingThere",
     "album": "Please Plase Me",
-    "route": "/beatles_i_saw_her_standing_there"
-  }
+    "route": "/beatles/i_saw_her_standing_there"
+  },
+  {
+    "id": "btlsSong2",
+    "title": "Misery",
+    "file": "MiseryBeatles",
+    "album": "Please Plase Me",
+    "route": "/beatles/misery"
+  },
+  {
+    "id": "btlsSong3",
+    "title": "Anna (Go to Him)",
+    "file": "AnnaBeatles",
+    "album": "Please Plase Me",
+    "route": "/beatles/anna_go_to_him"
+  },
 ]
+
+export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
 
 export const beatlesWtb = [
   {
