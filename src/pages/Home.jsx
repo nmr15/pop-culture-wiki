@@ -7,26 +7,29 @@ const Home = () =>
     <>
       {/* <div className="container-fluid"> */}
         {/* <div className="row"> */}
-          <nav class="sidebar bg-dark">
-              <ul class="nav flex-column ">
-                <li class="nav-item">
-                  <a href="#" class="nav-link sidebar-link">Home</a>
+          <aside class="sidebar">
+              <ul class="sidebar-list">
+                <li class="sidebar-list-item">
+                  <a href="#">Home</a>
                 </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">Franchises</a>
+                <li className="sidbar-list-item">
+                  <Link to='/all'>All Articles</Link>
                 </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">Movies</a>
+                <li class="sidebar-list-item">
+                  <a href="#">Franchises</a>
                 </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">Books</a>
+                <li class="sidebar-list-item">
+                  <a href="#">Movies</a>
                 </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">Video Games</a>
+                <li class="sidebar-list-item">
+                  <a href="#">Books</a>
+                </li>
+                <li class="sidebar-list-item">
+                  <a href="#">Video Games</a>
                 </li>
                 <li className="sidebar-list-item"><Link to='/a_series_of_unfortunate_events/the_bad_beginning'>Current</Link></li>
               </ul>
-          </nav>
+          </aside>
           <main className="main  py-4">
             <div className="row">
               {topics.map((topic) => (
