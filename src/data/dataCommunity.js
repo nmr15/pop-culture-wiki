@@ -378,7 +378,7 @@ export const communityEps = [
     "file": "CommunityS2E5",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/9c/2X5_Meta_Jesus.jpg",
     "route": "/community/messianic_myths_and_ancient_people",
-    "desc": ""
+    "desc": "Shirley gets inspired to create a religious film. After reading the Bible, Abed becomes very enthusiastic and wants to make his own, however, Shirley wants no part of it when she hears his idea, a film that equates a film director with Jesus and his camera with God. Meanwhile, Pierces struggles to come to terms with being the oldest member of the group and is recruited by another set of students his own age, known around the campus as 'hipsters.'"
   },
   {
     "id": "cmntys2e6",
