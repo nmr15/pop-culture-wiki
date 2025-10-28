@@ -3,7 +3,7 @@ import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
-import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB } from '../data/dataBeatles';
+import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 
 const AllArticles = () =>
 {
@@ -193,6 +193,16 @@ const AllArticles = () =>
                 {beatlesWTB.map((btlsWTB) => (
                     <li key={btlsWTB.id}>
                     <Link to={btlsWTB.route}>{btlsWTB.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">A Hard Day's Night</h4>
+                <ul className="allArticles-list">
+                {beatlesAHDN.map((btlsAHDN) => (
+                    <li key={btlsAHDN.id}>
+                    <Link to={btlsAHDN.route}>{btlsAHDN.title}</Link>
                     </li>
                 ))}
                 </ul>

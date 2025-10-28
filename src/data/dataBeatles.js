@@ -303,10 +303,102 @@ export const beatlesSongs = [
     "album": "With the Beatles",
     "route": "/beatles/money_that's_what_i_want"
   },
+  {
+    "id": "btlsSong29",
+    "title": "A Hard Day's Night",
+    "file": "AHardDaysNightSong",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/a_hard_days_night_song"
+  },
+  {
+    "id": "btlsSong30",
+    "title": "I Should Have Known Better",
+    "file": "IShouldHaveKnownBetter",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/i_should_have_known_better"
+  },
+  {
+    "id": "btlsSong31",
+    "title": "If I Fell",
+    "file": "IfIFell",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/if_i_fell"
+  },
+  {
+    "id": "btlsSong32",
+    "title": "I'm Happy Just to Dance with You",
+    "file": "ImHappyJustToDanceWithYou",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/i'm_happy_just_to_dance_with_you"
+  },
+  {
+    "id": "btlsSong33",
+    "title": "And I Love Her",
+    "file": "AndILoveHer",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/and_i_love_her"
+  },
+  {
+    "id": "btlsSong34",
+    "title": "Tell Me Why",
+    "file": "TellMeWhy",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/tell_me_why"
+  },
+  {
+    "id": "btlsSong35",
+    "title": "Can't Buy Me Love",
+    "file": "CantBuyMeLove",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/can't_buy_me_love"
+  },
+  {
+    "id": "btlsSong36",
+    "title": "Any Time At All",
+    "file": "AnyTimeAtAll",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/any_time_at_all"
+  },
+  {
+    "id": "btlsSong37",
+    "title": "I'll Cry Instead",
+    "file": "IllCryInstead",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/i'll_cry_instead"
+  },
+  {
+    "id": "btlsSong38",
+    "title": "Things We Said Today",
+    "file": "ThingsWeSaidToday",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/things_we_said_today"
+  },
+  {
+    "id": "btlsSong39",
+    "title": "When I Get Home",
+    "file": "WhenIGetHome",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/when_i_get_home"
+  },
+  {
+    "id": "btlsSong40",
+    "title": "You Can't Do That",
+    "file": "YouCantDoThat",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/you_can't_do_that"
+  },
+  {
+    "id": "btlsSong41",
+    "title": "I'll Be Back",
+    "file": "IllBeBack",
+    "album": "A Hard Day's Night",
+    "route": "/beatles/i'll_be_back"
+  },
 ]
 
 export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
-export const beatlesWTB = beatlesSongs.filter((wtb) => wtb.album == "Please Please Me");
+export const beatlesWTB = beatlesSongs.filter((wtb) => wtb.album == "With the Beatles");
+export const beatlesAHDN = beatlesSongs.filter((ahdn) => ahdn.album == "A Hard Day's Night");
 
 export const beatlesWtb = [
   {
