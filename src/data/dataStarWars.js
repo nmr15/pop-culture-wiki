@@ -212,3 +212,4 @@ export const starwars = [
 ]
 
 export const starwarsFilms = starwars.filter((sw) => sw.media == "film");
+export const starwarsSeries = starwars.filter((swseries) = swseries.media == "series");
