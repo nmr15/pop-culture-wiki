@@ -14,7 +14,7 @@ const TableAsoue = () =>
           </thead>
           <tbody>
             <tr>
-                <td>Games</td>
+                <td>Books</td>
                 <td>
                     <div className="table-list">
                         {asoue.map((asoue) => (
