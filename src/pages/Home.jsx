@@ -24,6 +24,7 @@ const Home = () =>
                 <li class="nav-item">
                   <a href="#" class="nav-link">Video Games</a>
                 </li>
+                <li className="sidebar-list-item"><Link to='/a_series_of_unfortunate_events/the_bad_beginning'>Current</Link></li>
               </ul>
           </nav>
           <main className="main  py-4">
