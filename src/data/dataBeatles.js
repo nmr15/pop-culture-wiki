@@ -106,6 +106,16 @@ export const beatlesAlbums = [
   }
 ]
 
+export const beatlesSongs = [
+  {
+    "id": "btlsSong1",
+    "title": "I Saw Her Standing There",
+    "file": "ISawHerStandingThere",
+    "album": "Please Plase Me",
+    "route": "/beatles_i_saw_her_standing_there"
+  }
+]
+
 export const beatlesWtb = [
   {
     "id": "btlsWtb1",
