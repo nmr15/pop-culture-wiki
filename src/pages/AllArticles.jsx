@@ -8,7 +8,7 @@ const AllArticles = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           {topics.map((topic) => (
-            <li className="sidebar-item" key={topic.id}>
+            <li className="sidebar-list-item" key={topic.id}>
               <a href={"#" + topic.file}>{topic.title}</a>
             </li>
           ))}
