@@ -27,6 +27,7 @@ const AllArticles = () =>
         <div>
           <h1 className="article-heading">All Articles</h1>
         </div>
+
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="Mcu">Marvel Cinematic Universe</h3>
           <div>
@@ -60,6 +61,7 @@ const AllArticles = () =>
             </ul>
           </div>
         </div>
+
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="StarWars">Star Wars</h3>
             <div>
@@ -83,6 +85,7 @@ const AllArticles = () =>
                 </ul>
             </div>
         </div>
+
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Community">Community</h3>
             <div>
@@ -156,6 +159,7 @@ const AllArticles = () =>
                 </ul>
             </div>
         </div>
+
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Beatles">The Beatles</h3>
             <div>
@@ -209,6 +213,7 @@ const AllArticles = () =>
                 </ul>
             </div>
         </div>
+        
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Gta">Grand Theft Auto</h3>
             <ul className="allArticles-list">
