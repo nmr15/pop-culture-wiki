@@ -44,7 +44,7 @@ const BadBeginning = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/asoue">A Series of Unfortunate Events</Link></li>
+          <li><Link to="/a_series_of_unfortunate_events">A Series of Unfortunate Events</Link></li>
           <li>The Bad Beginning</li>
         </ul>
         <div>
@@ -56,6 +56,18 @@ const BadBeginning = () =>
             alt="The Bad Beginning cover" 
             className="article-heading-img"
           />
+        </div>
+        <div className="div-top">
+          <p>
+            The Bae Beginning is the first book in <Link to="/a_series_of_unfortunate_events">A Series of Unfortunate Events</Link> written by
+            <Link> Lemony Snicket</Link> (<Link>Daniel Handler</Link>).
+          </p>
+          <p>
+            In this book, the Baudelaire children become orphans after a mysterious fire destroys their <Link>mansion</Link>, and supoposedly kills both
+            of their parents. They are sent to live with a dismal abusive guardian named <Link>Count Olaf</Link> in his filthy <Link>house</Link>,
+            where they are treated like slaves, physically and emotionally abused, and under threats of death. They also discover he is scheming to
+            steal their inherited <Link>fortune</Link> and will not hesitate to kill all three of them once he obtains it.
+          </p>
         </div>
       </main>
     </>
