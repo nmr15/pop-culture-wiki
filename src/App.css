@@ -356,6 +356,11 @@ td, th
   text-decoration: underline;
 }
 
+.allArticles-section
+{
+  padding: 1rem 0;
+}
+
 .allArticles-list
 {
   gap: 10px;
