@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
+import { starwarsFilms } from '../data/dataStarWars';
 
 const AllArticles = () =>
 {
@@ -51,6 +52,19 @@ const AllArticles = () =>
               {mcuChar.map((mcuChar) => (
                 <li key={mcuChar.id}>
                   <Link to={mcuChar.route}>{mcuChar.title}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+        <div>
+            <h3 className="article-heading-3" id="StarWars">Star Wars</h3>
+            <div>
+            <h4 className="article-heading-4">Star Wars films</h4>
+            <ul className="allArticles-list">
+              {starwarsFilms.map((swFilm) => (
+                <li key={swFilm.id}>
+                  <Link to={swFilm.route}>{swFilm.title}</Link>
                 </li>
               ))}
             </ul>

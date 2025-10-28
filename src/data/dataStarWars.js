@@ -210,3 +210,5 @@ export const starwars = [
     "route": "/starwars/ahsoka_series"
   }
 ]
+
+export const starwarsFilms = starwars.filter((sw) => sw.media == "film");
