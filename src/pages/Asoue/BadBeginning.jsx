@@ -72,7 +72,33 @@ const BadBeginning = () =>
         <div>
           <h2 className="article-heading-2" id="1">Dear reader</h2>
           <div>
-
+            <p><i>Dear Reader,</i></p>
+            <p>
+              <i>
+                I'm sorry to say that the book you are holding in your hands is extremely unpleasant. It tells an unhappy tale about three very unlucky
+                children. Even though they are charming and clever, the <Link>Baudelaire siblings</Link> lead lives filled with misery and woe. From the
+                very page of this book when the children are at the <Link>beach</Link> and receive terrible news, continuing on through the entire story,
+                disaster lurks at their heels. One might say they are magnets for misfortune.
+              </i>
+            </p>
+            <p>
+              <i>
+                In this short book alone, the three youngsters encounter a greedy and repulsive villain, itchy clothing, a <Link>disastrous
+                fire</Link>, a plot to steal <Link>their fortune</Link>, and cold porridge for breakfast.
+              </i>
+            </p>
+            <p>
+              <i>
+                It is my sad duty to write down these unpleasant tales, but there is nothing stopping you from putting this book down at once and
+                reading something happy, if you prefer that sort of thing.
+              </i>
+            </p>
+            <p>
+              <i>
+                With all due respect,
+              </i>
+            </p>
+            <p><i>Lemony Snicket</i></p>
           </div>
         </div>
         <div>
@@ -115,6 +141,9 @@ const BadBeginning = () =>
           <div>
             <h3 className="article-heading-3" id="7.1">Controversy</h3>
           </div>
+        </div>
+        <div>
+          <TableAsoue />
         </div>
       </main>
     </>
