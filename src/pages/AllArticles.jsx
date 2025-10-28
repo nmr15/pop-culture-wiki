@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { topics } from '../data';
+import { mcu } from '../data/dataMcu';
 
 const AllArticles = () =>
 {
@@ -8,7 +9,7 @@ const AllArticles = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           {topics.map((topic) => (
-            <li className="sidebar-item" key={topic.id}>
+            <li className="sidebar-list-item" key={topic.id}>
               <a href={"#" + topic.file}>{topic.title}</a>
             </li>
           ))}
@@ -26,6 +27,13 @@ const AllArticles = () =>
           <h3 className="article-heading-3" id="Mcu">Marvel Cinematic Universe</h3>
           <div>
             <h4 className="article-heading-4">Marvel Studios films, series, and specials</h4>
+            <ul>
+              {mcu.map((mcu) => (
+                <li key={mcu.id}>
+                  <Link to={mcu.route}>{mcu.title}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </main>
