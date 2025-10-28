@@ -54,7 +54,7 @@ function App() {
         {routesAssassinsCreed.map(({ path, Component }, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
-        <Route path='/asoue/the_bad_beginning' element={<BadBeginning />} />
+        <Route path='/a_series_of_unfortunate_events/the_bad_beginning' element={<BadBeginning />} />
       </Routes>
       </Wrapper>
     </>

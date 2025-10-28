@@ -14,7 +14,7 @@ const BadBeginning = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/asoue">A Series of Unfortunate Events</Link></li>
+          <li><Link to="/a_series_of_unfortunate_events">A Series of Unfortunate Events</Link></li>
           <li>The Bad Beginning</li>
         </ul>
         <div>
