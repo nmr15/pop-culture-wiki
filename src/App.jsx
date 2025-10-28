@@ -3,6 +3,7 @@ import { Routes, Route, useLocation } from "react-router-dom"
 import { routesTopics, routesAssassinsCreed, routesCommunityChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
+import AllArticles from "./pages/AllArticles"
 import './App.css'
 import BadBeginning from "./pages/Asoue/BadBeginning"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
@@ -25,6 +26,7 @@ function App() {
       <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
+        <Route path='/all' element={<AllArticles />} />
         {/* Routes for main topics */}
         {routesTopics.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
