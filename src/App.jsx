@@ -4,6 +4,7 @@ import { routesTopics, routesAssassinsCreed, routesCommunityChars, routesGta, ro
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import './App.css'
+import BadBeginning from "./pages/Asoue/BadBeginning"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
 import Spiderman from "./pages/MarvelComics/Spiderman"
@@ -53,7 +54,7 @@ function App() {
         {routesAssassinsCreed.map(({ path, Component }, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
-
+        <Route path='/asoue/the_bad_beginning' element={<BadBeginning />} />
       </Routes>
       </Wrapper>
     </>
