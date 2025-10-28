@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { topics } from '../data';
 
 const AllArticles = () =>
 {
@@ -6,7 +7,11 @@ const AllArticles = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-
+          {topics.map((topic) => (
+            <li className="sidebar-item" key={topic.id}>
+              <a href={"#" + topic.file}>{topic.title}</a>
+            </li>
+          ))}
         </ul>
       </aside>
       <main className="main">
