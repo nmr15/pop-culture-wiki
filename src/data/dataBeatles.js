@@ -204,10 +204,109 @@ export const beatlesSongs = [
     "file": "TwistAndShout",
     "album": "Please Please Me",
     "route": "/beatles/twist_and_shout"
-  }
+  },
+  {
+    "id": "btlsSong15",
+    "title": "It Won't Be Long",
+    "file": "ItWontBeLong",
+    "album": "With the Beatles",
+    "route": "/beatles/it_won't_be_long"
+  },
+  {
+    "id": "btlsSong16",
+    "title": "All I've Got to Do",
+    "file": "AllIveGotToDo",
+    "album": "With the Beatles",
+    "route": "/beatles/all_ive_got_to_do"
+  },
+  {
+    "id": "btlsSong17",
+    "title": "All My Loving",
+    "file": "AllMyLoving",
+    "album": "With the Beatles",
+    "route": "/beatles/all_my_loving"
+  },
+  {
+    "id": "btlsSong18",
+    "title": "Don't Bother Me",
+    "file": "DontBotherMe",
+    "album": "With the Beatles",
+    "route": "/beatles/don't_bother_me"
+  },
+  {
+    "id": "btlsSong19",
+    "title": "Little Child",
+    "file": "LittleChild",
+    "album": "With the Beatles",
+    "route": "/beatles/little_child"
+  },
+  {
+    "id": "btlsSong20",
+    "title": "Till There Was You",
+    "file": "TillThereWasYou",
+    "album": "With the Beatles",
+    "route": "/beatles/till_there_was_you"
+  },
+  {
+    "id": "btlsSong21",
+    "title": "Please Mr. Postman",
+    "file": "PleaseMrPostman",
+    "album": "With the Beatles",
+    "route": "/beatles/please_mr_postman"
+  },
+  {
+    "id": "btlsSong22",
+    "title": "Roll Over Beethoven",
+    "file": "RollOverBeethoven",
+    "album": "With the Beatles",
+    "route": "/beatles/roll_over_beethoven"
+  },
+  {
+    "id": "btlsSong23",
+    "title": "Hold Me Tight",
+    "file": "HoldMeTight",
+    "album": "With the Beatles",
+    "route": "/beatles/hold_me_tight"
+  },
+  {
+    "id": "btlsSong24",
+    "title": "You Really Got a Hold on Me",
+    "file": "YouReallyGotAHoldOnMe",
+    "album": "With the Beatles",
+    "route": "/beatles/you_really_got_a_hold_on_me"
+  },
+  {
+    "id": "btlsSong25",
+    "title": "I Wanna Be Your Man",
+    "file": "IWannaBeYourMan",
+    "album": "With the Beatles",
+    "route": "/beatles/i_wanna_be_your_man"
+  },
+  {
+    "id": "btlsSong26",
+    "title": "Devil in Her Heart",
+    "file": "DevilInHerHeart",
+    "album": "With the Beatles",
+    "route": "/beatles/devil_in_her_heart"
+  },
+  {
+    "id": "btlsSong27",
+    "title": "Not a Second Time",
+    "file": "NotASecondTime",
+    "album": "With the Beatles",
+    "route": "/beatles/not_a_second_time"
+  },
+  {
+    "id": "btlsSong28",
+    "title": "Money (That's What I Want)",
+    "file": "MoneyTWIW",
+    "album": "With the Beatles",
+    "route": "/beatles/money_that's_what_i_want"
+  },
 ]
 
 export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
+export const beatlesWTB = beatlesSongs.filter((wtb) => wtb.album == "Please Please Me");
 
 export const beatlesWtb = [
   {

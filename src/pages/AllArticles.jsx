@@ -3,7 +3,7 @@ import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
-import { beatles, beatlesAlbums, beatlesPPM } from '../data/dataBeatles';
+import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB } from '../data/dataBeatles';
 
 const AllArticles = () =>
 {
@@ -183,6 +183,16 @@ const AllArticles = () =>
                 {beatlesPPM.map((btlsPPM) => (
                     <li key={btlsPPM.id}>
                     <Link to={btlsPPM.route}>{btlsPPM.title}</Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <div>
+                <h4 className="article-heading-4">With the Beatles</h4>
+                <ul className="allArticles-list">
+                {beatlesWTB.map((btlsWTB) => (
+                    <li key={btlsWTB.id}>
+                    <Link to={btlsWTB.route}>{btlsWTB.title}</Link>
                     </li>
                 ))}
                 </ul>
