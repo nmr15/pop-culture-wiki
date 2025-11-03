@@ -299,6 +299,19 @@ const TheIncredibuleHulkFilm = () =>
               and lobbied for credit.
             </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <p>
+              Leterrier had to direct four units with a broken foot. Filming began on July 9, 2007. Shooting primarily took place in Toronto, because
+              mayor David Miller is a Hulk fan and promised to be helpful to the crew when closing Yonge Street for four nights in September to shoot
+              Hulk and Blonsky's climactic fight. Despite messing up the street with explosives and overturned burning vehicles, the crew would clean it up
+              within twenty minutes so business could continue as normal each day. The first action sequence shot was the Culver University battle, which
+              was filmed at the University of Toronto and Morningside Park. The filmmakers built a glass wall over a walkway at the university for when
+              the soldiers trap Banner inside to smoke him out. There was also shooting in the Financial District. A factory in Hamilton, Ontario, which
+              was due for demolition, was the interior of the Brazilian factory. The site's underground floors were used for Ross's military command
+              center. The crew also shot part of the Hulk and Blonsky's fight on a backlot in Hamilton. Other Canadian locations included military
+              base CFB Trenton and a glacier in Bella Coola, British Columbia. Afterwards, there was a week-long shoot in New York City and two weeks in
+              Rio de Janeiro. While there, the crew shot at Rocinha, Lapa, Tijuca Forest, and Santa Teresa. Filming concluded in November after
+              eighty-eight days of filming.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Editing</h4>
             <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
