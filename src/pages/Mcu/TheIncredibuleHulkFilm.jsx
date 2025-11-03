@@ -99,7 +99,47 @@ const TheIncredibuleHulkFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Plot</h2>
-          <div></div>
+          <div>
+            <p>
+              At Culver University in Virginia, U.S. military general <Link>Thaddeus Ross</Link> meets with Dr. Bruce Banner, the colleague and boyfriend
+              of his daughter <Link>Betty</Link>, regarding an experiment that Ross claims is meant to make humans immune to gamma radiation. This is
+              part of Ross's attempts to recreate a World War II-era "super soldier" program. The experiment fails and Banner is exposed to high levels of
+              gamma radiation, causing him to transform into the Hulk if enraged or if his heart rate rises above 200 beats per minute. The Hulk destroys
+              the lab and injures the general, Betty, and others outside. Banner becomes a fugitive from Ross, who wants to weaponize the Hulk.
+            </p>
+            <p>
+              Five years later, Banner works at a bottling factory in Rio de Janeiro, Brazil, and has not transformed in five months. He trains in yoga
+              and breathing techniques while collaborating anonymously with an internet user called "Mr. Blue" in his search to cure his condition. After
+              Banner accidentally cuts his finger, a drop of his blood falls into a bottle of soda which is eventually ingested by an elderly consumer in
+              Milwaukee, Wisconsin, giving him gamma sickness. Using the bottle to track Banner, Ross sends a special forces team led by <Link>Emil
+              Blonsky</Link> to capture him. Banner transforms into the Hulk and defeats Blonsky's team, though Blonsky survives. After Ross explains
+              how Banner became the Hulk, Blonsky agrees to be injected with a similar serum, gaining enhanced speed, strength, and agility.
+            </p>
+            <p>
+              Banner returns to Culver University and reunites with Betty. Her new boyfriend, Dr. Leonard Samson, contacts Ross who soon arrives with his
+              forces and Blonsky. They attack Banner at the university and he transforms into the Hulk again. Blonsky, whose judgement is impaired by the
+              serum, attacks and mocks the Hulk. The Hulk severely injures Blonsky, but the serum allows him to heal quickly. Betty is almost killed by
+              military fire and is saved by the Hulk, who flees with Betty and eventually reverts to Banner. The pair go on the run, and Banner contacts
+              Mr. Blue who urges them to meet him in New York City. Mr. Blue is a cellular biologist Dr. <Link>Samuel Sterns</Link>, who has developed
+              a possible antidote to Banner's condition. After a seemingly successful test, he warns Banner that the antidote may only reverse an initial
+              transformation. Sterns reveals that he has synthesized Banner's blood samples, which Banner sent from Brazil, into a large supply, and
+              wants to apply its "limitless potential" to medicine. Fearful of the Hulk's power falling into the wrong hands, Banner wants to destroy the
+              supply.
+            </p>
+            <p>
+              Blonsky and Ross's forces take Banner into custody. As Banner and Betty are taken away in a helicopter, Blonsky stays behind and orders
+              Sterns to inject him with Banner's blood, as he covets the Hulk's powers. The experiment mutates Blonsky into <Link>the Abomination</Link>,
+              a monstrous creature with size and strength surpassing that of the Hulk. He attacks Sterns, who gets some of Banner's blood in a cut on his
+              forehead and begins mutating as well. The Abomination rampages through Harlem. Realzing that Hulk is the only one who can stop the
+              Abomination, Banner convinces Ross to release him. He jumps from Ross's helicopter and transforms after hitting the ground. The Hulk defeats
+              the Abomination by nearly strangling him to death with a chain, but spares his life upon hearing Betty's plea. The Hulk leaves the
+              Abomination for Ross and his forces to arrest and flees New York.
+            </p>
+            <p>
+              A month later, Banner is in Bella Coola, British Columbia, where he practices transforming in a controlled manner. Sometime later,
+              <Link to="/mcu/tony_stark"> Tony Stark</Link> approaches Ross at a bar and informs him that a team is being put together.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
