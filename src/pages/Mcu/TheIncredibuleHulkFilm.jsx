@@ -190,6 +190,21 @@ const TheIncredibuleHulkFilm = () =>
                 with Terry Notary, his trainer from the film Planet of the Apes (2001), on the monster's movement. Roth was signed on for three more
                 films.
               </li>
+              <li>
+                <Link>William Hurt</Link> as <Link>Thaddeus Ross</Link>:<br />
+                Betty's father and a U.S. Army general who has dedicated his life to capturing the Hulk. Leterrier cast Hurt because "Ross is more
+                physical, more explosive in this movie, and no actor goes from zero to 100 as well as Villiam". He compared Ross to  Captain Ahab. The
+                Hulk was Hurt's favorite superhero, and his son is also a big fan of the character. Hurt found production very different from the typical
+                "pure anxiety" of a studio film, finding it more akin to an independent film. He described Ross as "humiliated by Hulk's conscience: he
+                actually sees and recognizes that it's more developed than his own, even though he's a patriot and a warrior for his country. He's
+                sacrificed [much] for that purpose, but at the expense at times of his humanity, which he occasionally recovers." In June 2015, when
+                reflecting on how his reprisal in the MCU film <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016) was
+                different from this film, Hurt said, "What I created [for The Incredible Hulk] was a Ross who was right out of the graphic novel type of
+                thing, when he was as much of a cartoon, in a way, as the monsters were. His ego was just as big and his problems were just as big. I
+                really did do that consciously. I created a General Ross before which created a verisimillitude for the monsters, by making him a
+                human monster. I worked really hard on the makeup and the exaggerated behavior and things like that and a controlled psychosis." Sam
+                Elliott had expressed interest in reprising the role from the 2003 film before Hurt was cast.
+              </li>
             </ul>
           </div>
         </div>
