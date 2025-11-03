@@ -312,6 +312,17 @@ const TheIncredibuleHulkFilm = () =>
               Rio de Janeiro. While there, the crew shot at Rocinha, Lapa, Tijuca Forest, and Santa Teresa. Filming concluded in November after
               eighty-eight days of filming.
             </p>
+            <p>
+              The Incredible Hulk joined Toronto's Green-Screen Initiative, to help cut carbon emissions and waste created during filming. Producer Gale
+              Anne Hurd acknowledged the Hulk, being green, was a popular environmental analogy, and Norton himself is an environmentalist. Hybrid and
+              fuel-efficient vehicles were used, with low-sulfur diesel as their energy source. The construction department used a sustainably
+              harvested, locally sourced yellow pine instead of lauran for the sets, and also used zero- or low-VOC paint. The wood was generally
+              recycled or given to environmental organizations, and paint cans were handed to waste management. In addition, they used cloth bags,
+              biodegradable food containers, china and silverware food utenshils, a stainless steel mug for each production crew member, a contractor
+              who removed bins, recycled paper, biodegradable soap and cleaners in the trailers and production offices, and the sound department used
+              rechargeable batteries. The Incredible Hulk became the first blockbuster film to receive the Environmental Media Association's Green Seal,
+              which is displayed during the end credits.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Editing</h4>
             <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
