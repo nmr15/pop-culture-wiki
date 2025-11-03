@@ -205,6 +205,20 @@ const TheIncredibuleHulkFilm = () =>
                 human monster. I worked really hard on the makeup and the exaggerated behavior and things like that and a controlled psychosis." Sam
                 Elliott had expressed interest in reprising the role from the 2003 film before Hurt was cast.
               </li>
+              <li>
+                <Link>Tim Blake Nelson</Link> as <Link>Samuel Sterns</Link>:<br />
+                A cellular biologist who develops a possible antidote to Banner's condition. Towards the end of the film, Sterns is exposed to a
+                substance that begins his transformation into the comic book villain "<Link>The Leader</Link>".
+              </li>
+              <li>
+                <Link>Ty Burrell</Link> as <Link>Leonard Samson</Link>:<br />
+                A psychiatrist who is in a relationship with Betty during Bruce's absence. Burrell had performed with Norton in the off Broadway play
+                Burn This in 2003, and when Leterrier met him, he recognized Burrell as the "jerk" from the 2004 <Link>Dawn of the Dead</Link> remake,
+                which was how Samson was characterized in the script before Norton rewrote it.
+              </li>
+              <li>
+                Christina Cabot as Kathleen Sparr: A U.S. Army major who is General Ross's personal aide.
+              </li>
             </ul>
           </div>
         </div>
