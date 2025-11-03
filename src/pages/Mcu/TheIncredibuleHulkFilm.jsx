@@ -243,6 +243,16 @@ const TheIncredibuleHulkFilm = () =>
           <h2 className="article-heading-2" id="3">Production</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              After the release of Ang Lee's Hulk, screenwriter James Schamus was planning a sequel which would continue the story featuring the Grey
+              Hulk. He was also considering the <Link>Leader</Link> and the Abomination as villains. Marvel wanted the Abomination because he would be
+              an actual threat to the Hulk, unlike General Ross. During the filming of Hulk, producer Avi Arad had a target May 2005 theatrical release
+              date. On January 28, 2006, Arad confirmed Marvel Studios would be providing the money for The Incredible Hulk's production budget, with
+              Universal distributing, because Universal did not meet the deadline for filming a sequel. Marvel felt it would be better to deviate from
+              Ang Lee's style to continue the franchise, arguing his film was like a parallel universe one-shot comic book, and their next film needed
+              to be, in Kevin Feige's words, "really starting the Marvel Hulk franchise". Producer Glen Anne Hurd also felt the film had to meet what
+              "everyone expects to see from having read the comics and seen the TV series".
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
