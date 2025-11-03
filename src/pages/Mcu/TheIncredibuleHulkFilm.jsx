@@ -143,7 +143,32 @@ const TheIncredibuleHulkFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
-          <div></div>
+          <div>
+            <ul className="article-list">
+              <li>
+                <Link>Edward Norton</Link> as <Link to="/mcu/bruce_banner">Bruce Banner</Link>:<br/>
+                A nuclear physicist and biochemist at Culver University who, because of exposure to gamma radiation, transforms into an enormous green
+                humanoid monster when enraged or agitated. David Duchovny was a front-runner for the film before Norton's casting, while director Louis
+                Leterrier's original choice was Mark Ruffalo who would later play Banner in future Marvel Cinematic Universe (MCU) films. Producer Gale
+                Anne Hurd recalled the duality of Norton's performance in the films Primal Fear (1996) and Fight Club (1999), while Norton reminded
+                producer <Link>Kevin Feige</Link> of Bill Bixby, who played Banner in the 1978-1982 television series. Lou Ferrigno, who played the Hulk
+                in that series, said Norton "has a smiliar physique [and a] similar personality" to Bixby. Norton was a Hulk fan, citing the early comic
+                books, the Bixby series, and Bruce Jone's run on the comics as his favorite depictions of the character. He had expressed interest in the
+                role for the previous film, <Link>Hulk</Link> (2003), and was initially reluctant to take on the part after the film had strayed from the
+                fugitive story that he associated with the character. He was won over by the vision of Leterrier and Marvel Studios and believed they
+                were looking to him to guide the project. Norton subsequently rewrote the script. Leterrier praised Norton for bringing gravitas to the
+                script, and said they were both approaching superheroes as "the new greek gods". Norton was particularly drawn to the Greek myth of
+                Prometheus for the character.
+              </li>
+              <li>
+                <Link>Lou Ferrigno</Link> voices the Hulk. During the 2008 New York Comic Con, Leterrier publicly offered Ferrigno the role. This marks
+                the third time Ferrigno portrayed the Hulk, having also voice the character in the 1996-97 animated series. Originally, the Hulk's only
+                line was "Betty" at the film's ending, which would have been his first word. Leterrier was aware that fans wanted him to speak
+                normally and added "Leave me alone!" and "Hulk smash!". The latter line received cheers during a screening Leterrier attended. Ferrigno
+                also had a cameo appearance in the film as a security guard who is bribed by Banner with a pizza.
+              </li>
+            </ul>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Production</h2>
