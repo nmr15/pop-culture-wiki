@@ -220,6 +220,23 @@ const TheIncredibuleHulkFilm = () =>
                 Christina Cabot as Kathleen Sparr: A U.S. Army major who is General Ross's personal aide.
               </li>
             </ul>
+            <p>
+              <Link>Robert Downey Jr.</Link> makes an uncredited cameo appearance as <Link to="/mcu/tony_stark">Tony Stark</Link> at the end of the film,
+              reprising his role from the MCU film <Link to="/mcu/iron_man_film">Iron Man</Link> (2008). Downey appeared as a favor to Marvel Studios
+              and was frustrated that he was constantly being asked about his short appearance in the film while promoting Iron Man. He acknowledged that
+              this was a smart move on Marvel's part, bringing more attention to The Incredible Hulk. Hulk co-creator <Link>Stan Lee</Link> cameos as a
+              man who becomes ill when drinking soda that is poisoned with Banner's blood. Paul Soles, who voiced Banner in the 1966 The Marvel Super
+              Heroes animated series, appears as kindly pizzeria owner Stanley Lieber who was friends with Banner and Betty in the past. His name is a
+              reference to Stan Lee's full name. <Link>Jim Wilson</Link> and <Link>Jack McGee</Link>, supporting characters from the Hulk comics, appear
+              as Culver University students played by P.J. Kerr and Nicholas Rose, respectively. Other small roles include: Brazilian Jiu-Jitsu artist
+              Rickson Gracie as Bruce Banner's martial arts instructor, credited as an Aikido instructor due to Norton's background with that style;
+              Brazilian actress Débora Nascimento as Martina, Banner's colleague at a beverage factory; Michael K. Williams as a Harlem bystander, a role
+              that was written for him by Norton and a fan of William's series The Wire (2002-2008); and Peter Mensah as General Joe Greller, one of
+              Ross's military friends. Additionally, Martin Starr played a college student who is credited as "Computer Nerd". In May 2019, Feige said
+              this character had been retroactively named <Link>Roger Harrington</Link>, which is Starr's role in the MCU films
+              <Link to="/mcu/spiderman_homecoming"> Spider-Man: Homecoming</Link> (2017), <Link to="/mcu/spiderman_far_from_home">Spider-Man:
+              Far From Home</Link> (2019), and <Link to="/mcu/spiderman_no_way_home">Spider-Man: No Way Home</Link> (2021).
+            </p>
           </div>
         </div>
         <div>
