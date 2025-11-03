@@ -282,6 +282,22 @@ const TheIncredibuleHulkFilm = () =>
               a reference to <Link to="/marvelcomics/spiderman">Peter Parker</Link>, but was unable to since <Link>Sony Pictures</Link> controls the film
               rights of Spider-Man.
             </p>
+            <p>
+              Shortly after the release of The Incredible Hulk, Gale Anne Hurd commented on the uncertainty of its relationship with Ang Lee's Hulk film.
+              "We couldn't quite figure out how to term this ...It's kind of a reboot and it's kind of a sequel." Hurd said that "requel", a portmanteau
+              of "reboot" and "sequel", was a "perfect" description for the film. Feige clarified that the two films are not connected, noting how events
+              shown in the opening sequence of The Incredible Hulk contradicts Hulk. Norton explained his decision to ignore Lee's origin story: "I don't
+              even like the phrase: 'origin story', and I don't think in great literature and great films that explaining the roots of the story doesn't
+              mean it comes in the begining." "Audiences know this story," he added, "[so] deal with it artfully." He wanted to "have revelations even
+              in the third act about what set this whole thing in motion". The new origin story references <Link>Ultimate Marvel</Link>'s take on the
+              Hulk, which also had him created in an attempt to make super soldiers. Norton removed <Link>Rick Jones</Link> and toned down
+              <Link> S.H.I.E.L.D.</Link>'s presence. He also added the scene where Banner attempts to extract a cure from a flower and his e-mailing
+              with Samuel Sterns, which references Bruce Jones' story. Norton rewrote scenes every day. Ultimately, the Writers Guild of America decided
+              to credit the script solely to Penn, who argued Norton had not dramatically changed his script. Journalist Anne Thompson explained "The
+              Guild tends to favor plot, structure, and pre-existing characters over dialogue." Penn said in 2008, "I wasn't happy with [Norton] coming
+              to Comic-Con saying that he wrote the script." Before either Penn or Norton joined the project, an anonymous screenwriter wrote a draft
+              and lobbied for credit.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Editing</h4>
