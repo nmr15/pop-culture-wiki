@@ -325,6 +325,26 @@ const TheIncredibuleHulkFilm = () =>
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Editing</h4>
+            <p>
+              Seventy minutes of footage, mostly dealing with the origin, were not included in the final cut. Much of this back-story was unscripted and
+              the filmmakers were never sure of including it in the final cut, and had considered releasing some of these clips on the internet. Editor
+              Kyle Cooper, creator of the Marvel logo (with the flipping pages) and the montage detailing Iron Man's biography in that film, edited
+              together much of this footage into the opening credits. Leterrier explained a negative test screening, where flashbacks were placed
+              accross the film that the audiences found too similar to Hulk, had resulted in compressing these to the film's start. This replaced the
+              original opening, where Banner comes to the Arctic to commit suicide. When the scene ends, in an instant the frozen body of
+              <Link to="/mcu/steve_rogers"> Captain America</Link> is partially seen in the ice. Leterrier said he did not want this scene to be lost
+              amid the opening montage. Associate producer Stephen Broussard opined that the scene really worked, but given the test audiences's
+              dislike for such an opening, the filmmakers decided to move on from the planned opening and instead open the film with Bruce Banner living
+              in Brazil after a recap telling his origin story.
+            </p>
+            <p>
+              Norton and Leterrier disputed with the producers over the final running time: they wanted it to be near 135 minutes, while the producers
+              wanted the film to be under 2 hours. This was made public, and rumors spread that Norton "made it clear he won't cooperate with publicity
+              plans if he's not happy with the final product". Norton dismissed this: "Our healthy process [of collaboration], which is and should be a
+              private matter, was misrepresented publicly as a 'dispute', seized on by people looking for a good story, and has been distorted to such a
+              degree that it risks distracting from the film itself, which Marvel, Universal, and I refuse to let happen. It has always been my firm
+              conviction that films should speak for themselves and that knowing too much about how they are made diminishes the magic of watching them."
+            </p>
             <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
           </div>
         </div>
