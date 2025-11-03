@@ -167,6 +167,29 @@ const TheIncredibuleHulkFilm = () =>
                 normally and added "Leave me alone!" and "Hulk smash!". The latter line received cheers during a screening Leterrier attended. Ferrigno
                 also had a cameo appearance in the film as a security guard who is bribed by Banner with a pizza.
               </li>
+              <li>
+                <Link>Liv Tyler</Link> as <Link>Betty Ross</Link>:<br />
+                A cellular biologist and Bruce's former girlfriend, from whom he is separated as a result of his condition. Tyler was attracted to the
+                love story in the script and was a fan of the Bixby series because of the "humanity and what [Banner] is going through". She was called
+                about the role while driving home and accepted the part after a day, without reading the script. Tyler and Norton spent hours discussing
+                Bruce and Betty's life before he became the Hulk. She said filming the part was physical and fun, and compared her performance to "a
+                deer caught in the headlights" because of Betty's shock at Bruve's unexpected return into her life.
+              </li>
+              <li>
+                <Link>Tim Roth</Link> as <Link>Emil Blonsky / Abomination</Link>:<br />
+                A Russian-born officer in the United Kingdom's Royal Marines Commandos who is loaned to General Ross. Lusting for the Hulk's power,
+                Blonsky is injected with various serums that transform him into a near-skeletal humanoid monster as strong as the Hulk himself. Roth said
+                he took the part to please his sons, who are comic book superhero fans, and because he found Leterrier's ideas "very dark and very
+                interesting". Roth was a fan of the Bixby series as a teenager. He started watching the 2003 film to prepare for the part, but stopped as
+                he did not want to compare himself to it. It was Roth who suggested Blonsky be a soldier rather than a KGB agent as in the comics.
+                Leterrier was a fan of Roth's work and felt it was "great watching a normal Cockney boy become a superhero", but Marvel and Norton were
+                initially reluctant to cast him. Before he was cast in the film Punisher: War Zone (2008), Ray Stevenson was in discussion for the role.
+                Roth trained with gun and military experts in preparation for the role, but did not work out due to Blonsky's aging. This made it
+                difficult to film some stunts, including being pulled bu a harness to show Blonsky's enhanced 30-40 mile per hour running speed. Cyril
+                Raffaelli performed some of his stunts. Roth enjoyed the motion capture for Abomination, which reminded him of fringe theatre. He worked
+                with Terry Notary, his trainer from the film Planet of the Apes (2001), on the monster's movement. Roth was signed on for three more
+                films.
+              </li>
             </ul>
           </div>
         </div>
