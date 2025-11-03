@@ -254,6 +254,34 @@ const TheIncredibuleHulkFilm = () =>
               "everyone expects to see from having read the comics and seen the TV series".
             </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              Louis Leterrier, who enjoyed the TV series as a child and liked the first film, had expressed interest in directing the Iron Man film
+              adaptation. <Link>Jon Favreau</Link> had taken that project, so Marvel offered him the Hulk. Leterrier was reluctant as he was unsure if
+              he could replicate Lee's style, but Marvel explained that was not their intent. Leterrier's primary inspiration was Jeph Loeb and Tim
+              Sale's <Link>Hulk: Gray</Link> (a retelling of the character's first appearance). He replicated every comic book panel that he pinned-up
+              during pre-production, from the many comics he browsed, in the final film. Leterrier said that he planned to show Bruce Banner's sturggle
+              with the monster within him, while Feige added the film would explore "that element of wish fulfillment, of overcoming an injustice or a
+              bully and tapping into a strength that you didn't quite realize you had in yourself". Arad also said the film would be "a lot more of a
+              love story between Bruce Banner and Betty Ross". In May 2006, Arad left Marvel Studios to become an independent producer. Because he was on
+              staff when the deal was made for The Incredible Hulk, he retained producer credit on the film.
+            </p>
+            <p>
+              Zak Penn, who wrote a draft of the first film in 1996, said the film would follow up Hulk, but stressed it would be more tonally similar
+              to the TV show and Bruce Jones' run on the comic. He compared his script to <Link>Aliens</Link>, which was a very different film from
+              <Link> Alien</Link>, but still in the same continuity. He included two scens from his 1996 script: Banner jumping from a helicopter to
+              trigger a transformation, and realizing he is unable to have sex with Betty. After the studio rejected a treatment by another screenwriter
+              in 2006, Penn wrote three drafts before departing in early 2007 to promote his film The Grand. Edward Norton began discussions to play
+              Banner in April 2006, and arranged a deal that included him as a both an actor and a writer, with a screenpaly draft he was contractually
+              obligated to turn in within a month. He did so, and continued to polish his draft as late as halfway through principal photography. In
+              November 2006, a June 13, 2008 release date was set. Leterrier acknowledged the only remaining similarity between the two films was Bruce
+              Banner hiding in South America, and that the film was a unique reboot, as generally audiences would have expected another forty-minute
+              origin story. There were previous discussions to set the first act in Thailand. Leterrier felt audiences were left restless waiting for the
+              character to arrive in Ang Lee's film. Feige commented, "we didn't want to tell the origin story again, because we thought people were so
+              familiar with it, which is why we didn't tell that... One reason we made Incredible Hulk was to get Hulk into the [Marvel Cinematic
+              Universe] canon." The end of the film occurs st Columbia University, and Leterrier was interested in naming it Empire State University, as
+              a reference to <Link to="/marvelcomics/spiderman">Peter Parker</Link>, but was unable to since <Link>Sony Pictures</Link> controls the film
+              rights of Spider-Man.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Editing</h4>
