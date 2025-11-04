@@ -410,7 +410,22 @@ const TheIncredibuleHulkFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Marketing</h2>
-          <div></div>
+          <div>
+            <p>
+              Effort was made to promote the story as having a romance and a physical antagonist, and the title was used for promotional puns (such as
+              7-Eleven's "Incredible Gulp" Slurpees, and "Incredible Dad" themed Father's Day gifts at Kmart). Burger King also promoted the film, and
+              general Nutrition Centers used the title character as a role model for strength training. Hasbro created the toy line, which they released
+              on May 3, 2008. Sega released two tie-in video games on Juen 5, 2008; a <Link>version for consoles and personal computers</Link> was
+              developed by Edge of Reality, while a <Link>handheld version</Link> for the <Link>Nintendo DS</Link> was developed by Amaze Entertainment.
+              The film was promoted in an episode of American Gladiators on June 9, 2008, which was hosted by Hulk Hogan and featured Lou Ferrigno.
+            </p>
+            <p>
+              Following the editing dispute between Norton and Leterrer, Universal's Adam Fogelson and Norton planned a promotional tour that would
+              avoid constant media interviews and therefore uncomfortable questions. Norton attended the premiere, took part in a <Link>Jimmy
+              Kimmel Live!</Link> sketch, and would also promote the film in Japan. However, during the film's release he chose to do charity work in
+              Africa.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="6">Release</h2>
