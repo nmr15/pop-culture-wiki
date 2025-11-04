@@ -41,7 +41,7 @@ function App() {
           <Route key={index} path={path} element={<Component />} />
         ))}
 
-        <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
+        <Route path='/marvelcomics/spider_man' element={<Spiderman />} />
 
         {routesCommunityChars.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />

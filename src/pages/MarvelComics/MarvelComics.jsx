@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import { marvel } from "../../data/dataMarvel"
 import { marvelcharacters } from "../../data"
 
 const MarvelComics = () => 
@@ -32,7 +33,7 @@ const MarvelComics = () =>
         <div>
           <h2 className="article-heading">Characters</h2>
           <div className="row">
-            {marvelcharacters.map((character) => (
+            {marvel.map((character) => (
               <div className="col-3" key={character.id}>
                 <Link to={character.route}>
                   <div className="card character-card">
