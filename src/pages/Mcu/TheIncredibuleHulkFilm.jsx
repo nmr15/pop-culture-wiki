@@ -438,6 +438,16 @@ const TheIncredibuleHulkFilm = () =>
               festival.
             </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              The Incredible Hulk was released by Universal Studios Home Entertainment on Blu-ray and DVD on October 21, 2008. It includes
+              behind-the-scenes featurettes, audio commentary, deleted scenes, and an alternate opening.
+            </p>
+            <p>
+              The film was also collected in a 10-disc box set titled "Marvel Cinematic Universe: Phase One - Avengers Assembled" which
+              included all of the Phase One films in the Marvel Cinematic Universe. It was released by Walt Disney Studios Home Entertainment on April
+              2, 2013. Universal released the film on Ultra HD Blu-ray on April 10, 2018. The Incredible Hulk began streaming on <Link>Disney+</Link>
+              in the United States on June 16, 2023, after the distribution rights to the film reverted to Marvel Studios and Disney from Universal.
+            </p>
           </div>
         </div>
         <div>
