@@ -40,7 +40,6 @@ const TheIncredibuleHulkFilm = () =>
             sub={[
               {id: "7.1", title: "Box office"},
               {id: "7.2", title: "Critical reception"},
-              {id: "7.3", title: "Accolades"}
             ]}
           />
           <Collapse 
@@ -474,7 +473,38 @@ const TheIncredibuleHulkFilm = () =>
               million) in its Chinese opening on August 26, outgrossing the previous film's overall gross of 10 million yuan.
             </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
-            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 68%, with an average score of 6.2/10, based on 237 reviews.
+              The website's critical consensus reads, "The Incredible Hulk may not be quite the smashing success that fans of Marvel's raging
+              behemoth might hope for, but it offers more than enough big green action to make up for its occasionally puny narrative." Metacritic
+              gave the film an average score of 61 out of 100, based on 38 critics, including "generally favorable" reviews. Audiences polled by
+              CinemaScore gave the film an average grad of "A-" on an A+ to F scale.
+            </p>
+            <p>
+              Todd McCarthy of Variety said, "what seemed, in theory, the least-necessary revival of a big screen superhero emerges as perfectly solid
+              summer action fare in The Incredible Hulk." He emphasized "it's all par-for-the-course cinematic demolition and destruction, staged
+              efficiently and with a hint of enthusiasm," and "penned with sporadic wit [...] Visuals lean toward the dark and murky, but editing by
+              three, actually six, hands is fleet, and Craig Armstrong's ever-present score is simultaneously bombastic and helpfully supportive of the
+              action. Effects are in line with pic's generally pro but not inspired achievements." Rene Rodriguez of The Miami Herald applauded that
+              the film "does a lot of things [Ang] Lee's Hulk didn't: it's lighter and faster-paced, it's funnier and it embraces (instead of ignores)
+              the 1970s TV series that furthered the character's popularity". Mark Rahner of The Seattle Times wrote that, "The relaunch of Marvel's
+              green goliath is an improvement over director Ang Lee's ponderous 2003 Hulk in nearly every way, except that the actual Hulk still looks
+              scarcely better than something from a video game, and he still barely talks". Roger Ebert was not a fan of the film stating, "The
+              Incredible Hulk is no doubt an ideal version of the Hulk saga for those who found Ang Lee's Hulk too talky, or dare I say, too thoughtful.
+              But not for me. It sidesteps the intriguing aspects of Hulkdom and spends way too much time in, dare I say, noisy and mindless action
+              sequences."
+            </p>
+            <p>
+              Conversely, Christy Lemire of the Associated Press found that "the inevitable comparisons to Iron Man, Marvel Studios' first blockbuster
+              this summer, serve as a glaring reminder of what this Hulk lacks: wit and heart. Despire the presence of Edward Norton, an actor capable
+              of going just as deep as Robert Downey Jr., we don't feel a strong sense of Bruce Banner's inner conflict". A.O. Scott of The New York
+              Times opined, "The Adequate Hulk would have been a more suitable title. There are some big, thumping fights and a few bright shards of
+              pop-cultural wit, but for the most part this movie seems content to aim for the generic mean". David Ansen of Newsweek wrote, "Leterrier
+              has style, he's good with action and he's eager to give the audience its money's worth of bone-crunching battles. Still, once the movie
+              leaves the atmospheric Brazillian settings, nothing in this "Hulk" sinks in deeply: its familiar genre pleasures are all on the surface.
+              ...The movie's scene stealer is Tim Blake Nelson, making a comically welcome third act appearance as the unethical but madly enthusiastic
+              Samuel Sterns".
+            </p>
           </div>
         </div>
         <div>
