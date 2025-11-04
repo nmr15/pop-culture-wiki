@@ -431,6 +431,12 @@ const TheIncredibuleHulkFilm = () =>
           <h2 className="article-heading-2" id="6">Release</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <p>
+              The Incredible Hulk premiered on June 8, 2008, at the Gibson Ampitheatre in Universal City, California and was released in theaters on
+              June 13 in the United States, where it opened in 3,505 theaters. The film is part of <Link>Phase One</Link> of the MCU. The Incredible
+              Hulk was formatted and screened in IMAX for the first time on August 30, 2018, as part of Marvel Studios' 10 year anniversary IMAX
+              festival.
+            </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
