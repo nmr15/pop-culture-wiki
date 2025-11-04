@@ -39,7 +39,7 @@ const TheIncredibuleHulkFilm = () =>
             item="Reception"
             sub={[
               {id: "7.1", title: "Box office"},
-              {id: "7.2", title: "Critical reception"},
+              {id: "7.2", title: "Critical response"},
             ]}
           />
           <Collapse 
