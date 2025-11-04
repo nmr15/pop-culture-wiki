@@ -1182,6 +1182,8 @@ export const communityEps = [
   }
 ]
 
+export const communityS1 = communityEps.filter((s1) => s1.season == 1);
+
 export const communitys1 = [
   {
     "id": "cmntys1e1",
