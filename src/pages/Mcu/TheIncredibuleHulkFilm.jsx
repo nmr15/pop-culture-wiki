@@ -534,6 +534,32 @@ const TheIncredibuleHulkFilm = () =>
               2022.
             </p>
             <h3 className="article-heading-3" id="8.2">Potential sequel</h3>
+            <p>
+              In March 2008, Norton said "a lot" was left out of the film because it had been envisioned as multiple parts, with this film "intended as
+              chapter one". Leterrier made the film's final shot of Banner ambiuous; the though being if there was a sequel, it would mean Banner
+              finally masters control over his anger; if there was not a sequel, the shot indicated instead that he becomes a menace in The Avengers.
+              Leterrier had also inteded for a scene in the credits showing Blonsky, human once more, imprisoned and chained in a box, with Feige
+              originally having an idea that the character would be locked in a steel vault that would have been sunk to the bottom of the ocean. The
+              character of Samuel Sterns, played by Tim Blake Nelson, was introduced to set him up as a villain in a possible future film, where he
+              would become the Leader. Aaron Sims, the lead designer on The Incredible Hulk, also took time to work on concepts for the Leader. Ty
+              Burrell was also interested in portraying Doc Samson more faithfully to how he appears in the comics.
+            </p>
+            <p>
+              Leterrier and Roth were originally contracted to return. Leterrier also stated Norton was not signed on, but in October, Hurd stated that
+              Norton was contracted to reprise the role. The film had outgrossed its predecessor and Universal indicated interest in a sequel, though
+              Leterrier believed a sequel would not be made because of the film's box office return. Feige said the film met Marvel's expectations and
+              that Hulk would return, but after The Avengers. Hurd was not concerned that a sequel may not be produced until at least 2012, citing the
+              positive reception to the film and having produced the Terminator series, the second and third film of which had a 12-year gap. Leterrier,
+              after having previosly said he did not want to direct a sequel, said in late 2009 he had changed his mind and was now amenable.
+            </p>
+            <p>
+              In April 2012, despite Ruffalo being on board to play the Hulk in the sequel, Feige confirmed that Marvel had no plans at the time to film
+              another Hulk film. In a Q&A session, Feige and Ruffalo confirmed that discussions were underway to produce another Hulk film due to the
+              positive response to Ruffalo's performance in The Avengers. In September, Feige, while exploring all possible story options for a sequel
+              film, including a film based on the "<Link>Planet Hulk</Link>" and "<Link>World War Hulk</Link>" storylines, stated all stories from the
+              comics were "on the table" and that the character could "carry a movie and be as entertaining" as he was in The Avengers. He added that
+              Marvel Studios would not consider a sequel until after Age of Ultron.
+            </p>
           </div>
         </div>
         <div>
