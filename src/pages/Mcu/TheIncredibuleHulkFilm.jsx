@@ -454,6 +454,25 @@ const TheIncredibuleHulkFilm = () =>
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              The Incredible Hulk earned $134.8 million in the United States and Canada, as well as $130.8 million from other territories, for a
+              worldwide total of $265.6 million. The film, even though it barely passed its predessor, and only equaled it if the smaller budget of
+              the first film is taken into account, was still considered moderately successful. Entertainment analyst David Davis told The Hollywood
+              Reporter, "The first Hulk had such high expectations after the NBCUniversal merger and was supposed to be critical-favorite Ang Lee's
+              breakout commercial blockbuster. Then with the new Hulk film, Marvel was able to underplay the importance of the success after the great
+              success of Iron Man this summer. So the new one overdelivered, relative to its underpromise."
+            </p>
+            <p>
+              The Incredible Hulk earned $55.4 million in its opening weekend, becoming the top film at the box office. Behind <Link>Fantastic
+              Four: Rise of the Silver Surfer</Link>, it was the second-highest gross for a film released over the Father's Day weekend. This surpassed
+              industry expectations of a $45 million opening, following the disappointing response to the 2003 film. Universal believed word of mouth
+              would contribute to the film breaking even eventually.
+            </p>
+            <p>
+              The Incredible Hulk also opened in 38 other countries, adding $31 million to the total opening. The film outgrossed the 2003 film in
+              South Korea, while its opening in Mexico and Russia created records for Universal. The film grossed 24 million yuan (roughly $3.4
+              million) in its Chinese opening on August 26, outgrossing the previous film's overall gross of 10 million yuan.
+            </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
