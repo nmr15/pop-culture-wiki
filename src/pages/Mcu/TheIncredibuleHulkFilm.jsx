@@ -398,7 +398,15 @@ const TheIncredibuleHulkFilm = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Music</h2>
-          <div></div>
+          <div>
+            <p>
+              The score for the film was composed by Craig Armstrong, who was the arrange for Massive Attack, a band Letterier was fond of and had
+              collaborated with on the 2005 film Unleashed. Armstrong was his first choice, which surprised Marvel, not knowing if he had scored an
+              action film (he did compose 2001's Kiss of the Dragon). At Leterrier's suggestion, the soundtrack was released on a two-disc album, which
+              Armstrong thought was a joke until he compiled the album and Marvel asked him whey they were given only one disc. The film's score borrows
+              Joe Harnell's theme "The Lonely Man" from the 1978 Incredible Hulk television series.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Marketing</h2>
