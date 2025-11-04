@@ -346,6 +346,54 @@ const TheIncredibuleHulkFilm = () =>
               conviction that films should speak for themselves and that knowing too much about how they are made diminishes the magic of watching them."
             </p>
             <h4 className="article-heading-4" id="3.4.2">Visual effects</h4>
+            <p>
+              Leterrier cited Andy Serkis's motion capture portrayal of Gollum and King Kong in The Lord of the Rings and King Kong, respectively, as the
+              standard he was aiming for with the Hulk and Abomination. Norton and Roth filmed 2500 takes of different movements the monsters would make,
+              such as the Hulk's "thunder claps". Phosporescent face paint applied to the actors' faces and strobe lighting would help record the most
+              subtle mannerisms into the computer. Others, including Cyril Raffaelli, provided motion capture for stunts and fights, after the main actor
+              had done video referencing. Leterrier hired Rhythym & Hues Studios to provide the computer-generated imager (CGI), rather than Industrial
+              Light & Magic (ILM) who created the visual effects for Ang Lee's Hulk. Visual effects company Image Engine spent over a year working on a
+              shot where Banner's gamma-irradiated blood falls through three factory floors into a bottle. 700 effects shots were created for the film.
+              Motion cature aided in placing and timing of movements, but key frame animation by Rhythm and Hues provided the necessary "finesse [and]
+              superhero quality". Many of the animators and Leterrier himself provided video reference for the climactic fight.
+            </p>
+            <p>
+              Dale Keown's comic book artwork of the Hulk was an inspiration for his design. Leterrier felt the first Hulk had "too much fat [and] the
+              proportions were a little off". He explained, "The Hulk is beyond perfect so there is zero grams of fat, all chiseled, and his muscle and
+              strength defines this creature so he's like a tank." Visual effects supervisor Kurt Williams envisioned the Hulk's physique as a linebacker
+              rather than a bodybuilder. A height of nine feet was chosen for the character as they did not want him to be too inhuman. To make him more
+              expressive, computer programs controlling the inflation of his muscles and saturation of skin color were created. Williams cited flushing
+              as an example of humans' skin color being influenced by their emotions. The animators felt green blood would mke his skin become darker
+              than lighter, and his skin tones, depending on lighting, either resemble an olive or even gray slate. His animation model was completed
+              without the effects company's full knowledge of what he would be required to do: he was rigged to do whatever they imagined, in case the
+              model was to be used for <Link to="mcu/the_avengers_film">The Avengers</Link> film. The Hulk's medium-length hair was modeled on Mike
+              Deodato's art. He originally had a crew cut, but Leterrier decided flopping hair imbued him with more character. Leterrier cited An
+              American Werewolf in London as the inspiration for Banner's transformation, wanting to show how painful it was for him to change. As a nod
+              to the live-action TV series, Banner's eyes change color first when he transforms. Leterrier changed the Abomination's design from the
+              comics because he felt the audience would question why he resembled a fish or a reptile, instead of "an uber-human" like the Hulk. Rather,
+              his hideousness is derived from being injected multiple times into his skin, muscles, and bones, creating a creature with a protruding
+              spine and sharp bones that he can use to stab. His green skin is pale and reflects light, so it appears orange because of the surrounding
+              fire during the climactic battle. The motion capture performers, including Roth, tried to make the character behave less gracefully than
+              the Hulk. They modeled his posture and the way he turns his head on a shark. The character also shares Roth's tattoos. A height of eleven
+              feet was chosen for the character. Leterrier tried to work in the character's pointed ears, but realized the Hulk would bite them off
+              (using the example of Mike Tyson when he fought Evander Holyfield), and felt ignoring that would make the Hulk come across as stupid.
+            </p>
+            <p>
+              Leterrier had planned to use prostetic makeup and animatronics to complement the computer-generated imagery that was solely used in the
+              previous film. The make-up artists who worked on <Link>X-Men: The Last Stand</Link> were set to portray Blonsky's gradual transformation,
+              which Zak Penn said would portray Blonsky "not [being] used to having these properties. Like he's much heavier, and we talked about how
+              when he walks down the sidewalk, his weight destroys the sidewalk and he's tripping. [It's all about] the humanization of these kinds of
+              superhero characters, showing the effects physics may actually have on [them]." Tom Woodruff Jr. of Amalgamated Dynamics (who created all
+              the costumes for the <Link>Alien</Link> films since Alien 3) was in negotiations and created two busts of the Hulk and prosthetic hands
+              to act as stand-ins for the character. A full animatronic was never created as it was decided it would complicate production to set up
+              shots for a puppet and then a cumputer graphic. An animatronic was used for Sterns' mutating head, however. Destruction was mostly done
+              practically. A model of a bottling machine was smashed through a wall for when the Hulk escapes the factory. The filmmakers used steam and
+              dry ice for the gas used to smoke out the Hulk, and they destoryed a real humbee by dropping a weight on it when shooting the Culver
+              University battle. Pipes blew fire for when the Hulk strikes down the computer-generated helicopter. When Banner falls from the helicopter
+              to trigger the Hulk into fighting the Abomination, Norton was attached to surface held by a bar which turned 90 degrees while the camera
+              was pulled to the ceiling to simulate falling. Leterrier jokingly remarked that making Norton fall that distance would render him unable
+              to act.
+            </p>
           </div>
         </div>
         <div>
