@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
-import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
+import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
@@ -103,7 +103,7 @@ const AllArticles = () =>
             <div>
                 <h4 className="article-heading-4">Community Season 1</h4>
                 <ul className="allArticles-list">
-                {communitys1.map((commS1) => (
+                {communityS1.map((commS1) => (
                     <li key={commS1.id}>
                     <Link to={commS1.route}>{commS1.title}</Link>
                     </li>

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { communitychars, communitys1, communitys2, communitys3, communitys4, communitys5, communitys6 } from "../data/dataCommunity";
+import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from "../data/dataCommunity";
 
 const TableCommunity = () =>
 {
@@ -27,7 +27,7 @@ const TableCommunity = () =>
                             <td>Season 1</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys1.map((s1) => (
+                                    {communityS1.map((s1) => (
                                         <Link to={s1.route} className="table-list-link" key={s1.id}>{s1.title}</Link>
                                     ))}
                                 </div>
