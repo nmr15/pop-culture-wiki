@@ -511,6 +511,28 @@ const TheIncredibuleHulkFilm = () =>
           <h2 className="article-heading-2" id="8">Future</h2>
           <div>
             <h3 className="article-heading-3" id="8.1">Future MCU appearances</h3>
+            <p>
+              Mark Ruffalo, Leterrier's first choice for Banner, replaced Norton as Banner / Hulk in the MCU beginning in The Avengers, after Feige
+              said he chose not to bring back Norton. He explained: "Our decision is definitely not one based on monetary factors, but instead rooted in
+              the need for an actor who embodies the creativity and collaborative spirit of our other talented cast members. The Avengers demands
+              players who thrive working as part of an ensemble". Norton felt this statement was "cheap". In October 2014, Norton claimed he chose
+              nerver to play Hulk again because he "wanted more diversity" with his career, and did not want to be associated with only one character.
+              Ruffalo also portrayed the character in <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> (2015),
+              <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link> (2017), <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> (2018),
+              and <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> (2019). Ruffalo said Banner was able to have a more prominent role in
+              Ragnarok, Infinity War, and Endgame because of the lack of a standalone Hulk film, with the character's arc across those films "feel[ing]
+              like a Hulk movie". Ruffalo also made appearances in post- and mid- credits scenes of <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013),
+              <Link to="/mcu/captain_marvel_film"> Captain Marvel</Link>, and <Link to="/mcu/shangchi_and_the_legends_of_the_ten_rings">Shang-Chi
+              and the Legend of the Ten Rings</Link> (2021).
+            </p>
+            <p>
+              Hurt first reprised his role as Thaddeus Ross in <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link>. Ruffalo and
+              Roth both reprised their roles in the Disney+ series <Link to="/mcu/shehulk_attorney_at_law">She-Hulk: Attorney at Law</Link> (2022).
+              Roth also provided uncredited vocals for Abomination in Shang-Chi and the Legend of the Ten Rings. Nelson and Tyler reprised their
+              respective roles as Samuel Sterns and Betty Ross in <Link to="/mcu/captain_america_brave_new_world">Captain America: Brave New
+              World</Link> (2025), while <Link>Harrison Ford</Link> was cast to play Thaddeus Ross in Brave New World in the wake of Hurt's death in
+              2022.
+            </p>
             <h3 className="article-heading-3" id="8.2">Potential sequel</h3>
           </div>
         </div>
