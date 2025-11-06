@@ -109,6 +109,29 @@ const IronMan2 = () =>
               of prison and asks him to build a line of armored suits to upstage Stark. Vanko decides that unmanned drones are better to eliminate the
               human factor.
             </p>
+            <p>
+              During his birthday party, Stark gets drunk while wearing the Iron Man suit. Annoyed by Tony's recklessness, Stark's best friend, U.S. Air
+              Force Lieutenant Colonel <Link>James Rhodes</Link>, dons Stark's prototype armor and tries to restrain him. The fight ends in a stalemate,
+              and Rhodes confiscates the prototype armor for the U.S. Air Force. <Link>Nick Fury</Link>, director of <Link>S.H.I.E.L.D.</Link>,
+              approaches Stark. Fury reveals that "Rushman" is a S.H.I.E.L.D. agent <Link>Natasha Romanoff</Link> and that Fury personally knew Howard
+              Stark, who was a founder of S.H.I.E.L.D. Fury explains that Vanko's father and Howard invented the arc reactor together, but Howard had
+              Anton deported when the latter tried to sell it. The Soviets then sent Anton to the Gulag. Fury gives Stark some of his father's old
+              material. In a diorama of the 1974 Stark Expo, Stark finds a diagram of the atomic structure of a new element. With the aid of his A.I.,
+              <Link> J.A.R.V.I.S.</Link>, Stark determines it can replace his arc reactor's current palladium core, and successfully synthesizes it.
+            </p>
+            <p>
+              When Stark learns that Vanko is still alive, he goes to Hammer's expo. The armored drones are unveiled, with Rhodes, in a heavily
+              weaponized version of the prototype armor, dubbed "War Machine", as their leader. Just as Stark arrives to warn Rhodes, Vanko takes
+              remote control of all the drones and Rhodes's armor and attacks Stark. Haamer is arrested for breaking Vanko out of prison while Romanoff
+              and Stark's bodyguard <Link>Happy Hogan</Link>, infiltrate Hammer's factory. Vanko escapes, but Romanoff gains access to Hammer Industries
+              software and returns control of Rhodes's armor to him. Together, Stark and Rhodes defeate Vanko who dies by suicide via blowing up his
+              suit and the drones.
+            </p>
+            <p>
+              At a debriefing, Fury informs Stark that because of his difficult personality, S.H.I.E.L.D. intends to use him only as a consultant moving
+              forward. Stark and Rhodes receive medals for their heroism. In a post-credits scene, S.H.I.E.L.D. agent <Link>Phil Coulson</Link>
+              discovers <Link>a large hammer</Link> in New Mexico.
+            </p>
           </div>
         </div>
         <div>
