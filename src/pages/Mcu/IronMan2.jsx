@@ -136,7 +136,44 @@ const IronMan2 = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
-          <div></div>
+          <div>
+            <ul className="article-list">
+              <li>
+                <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>:<br />
+                A billionaire who escaped captivity in Afganistan with a suit of armor he created, he now struggles to keep his technology out of the
+                government's hands. Downey and Favreau, who had been handed a script and worked from it on the first movie, conceinved part of the film's
+                story themselves. On Stark being a hero, Downey said, "It's kind of heroic, but really kind of on his own behalf. So I think there's
+                probably a bit of an imposter complex and no sooner has he said, 'I am Iron Man,' that he's now really wondering what that means. If you
+                hav all this cushion like he does and the public is on your side and you have immense wealth and power, I think he's way too insulated
+                to be okay." Downey put on 20 pounds of muscle to reprise the role. Six-year-old Davin Ransom portrays Tony Stark as a child.
+              </li>
+              <li>
+                <Link>Gwyneth Paltrow</Link> as <Link>Pepper Potts</Link>:<br />
+                Stark's closest friend, budding love interest, and business partner; Pepper is promoted to CEO of Stark Industries. On her character's
+                promotion, Paltrow opined, "When we start Iron Man 2 Pepper and Tony are very much in the same vibe... as the movie progresses, Pepper is
+                given more responsibility and she's promoted and it's nice to see her sort of grow up in that way. I think it really suits her, the job
+                fits her really well." Paltrow expressed excitement about working with Johansson.
+              </li>
+              <li>
+                <Link>Don Cheadle</Link> as <Link>James "Rhodey" Rhodes / War Machine</Link>:<br />
+                An officer in the U.S. Air Force and Tony Stark's close personal friend who later operates the <Link>War Machine</Link> armor. Cheadle
+                replaces Terrence Howard from the first film. Cheadle had only a few hours to accept the role and did not even know what storyline Rhodes
+                would undergo. commented that he is a comic book fan, but had not previously participated in comics-themed films due to the scarcity of
+                black superheroes. Cheadle said he thought Iron Man was a robot before the first film cmae out. On how he approached his character,
+                Cheadle stated, "I go, what's the common denominator here? And the common denominator was really his friendship with Tony, and that's
+                what we really tried to track in this one. How is their friendship impacted once Tony comes out and owns 'I am Iron Man'?". Cheadle said
+                his suit was 23 kilograms (50 lbs) of metal, and that he could not touch his face while wearing it. Cheadle signed a six-picture deal.
+              </li>
+              <li>
+                <Link>Scarlett Johansson</Link> as <Link to="/mcu/natasha_romanoff">Natasha Romanoff / Black Widow</Link>:<br />
+                An undercover spy for S.H.I.E.L.D. posing as Stark's new assistant. Johansson dyed her hair red before she landed the part, hoping that
+                it would help convince Favreau that she was right for the role. On why she chose the role, Johansson said, "the Black Widow character
+                resonated with me... [She] is a superhero, but she's also human. She's small, but she's strong... She is dark and has faced death so many
+                times that she has a deep perspective on the value of life... It's hard not to admire her." She stated that she had "a bit of a freak-out
+                moment" when she first saw the cat-suit and worked closely with the stunt team to learn how to fight in it in order to "sell it".
+              </li>
+            </ul>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Production</h2>
