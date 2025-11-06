@@ -61,12 +61,55 @@ const IronMan2 = () =>
         </div>
         <div className="div-top">
           <p>
-            Iron Man 2
+            Iron Man 2 is a 2010 American superhero film basded on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/iron_man"> Iron Man</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Paramount Pictures, it is the
+            sequel to <Link to="/mcu/iron_man_film">Iron Man</Link> (2008) and the third film in the <Link to="/mcu">Marvel Cinematic Universe</Link>
+            (MCU). Directed by <Link>Jon Favreau</Link> and written by Justin Theroux, the film stars <Link>Robert Downey Jr.</Link> as
+            <Link to="/mcu/tony_stark"> Tony Stark / Iron Man</Link> alongside <Link>Gwyneth Paltrow</Link>, <Link>Don Cheadle</Link>,
+            <Link> Scarlett Johansson</Link>, <Link>Sam Rockwell</Link>, <Link>Mickey Rourke</Link>, and <Link>Samuel L. Jackson</Link>. Set six months
+            after the events of Iron Man, the film follows Stark as he rejects government demands to share his technology, which is slowly killing him,
+            while facing the vengeful Russian scientist <Link>Ivan Vanko</Link> (Rourke).
+          </p>
+          <p>
+            Development on a sequel to Iron Man began in May 2008 after the success of the first film. In July, Theroux was hired to write the script and
+            Favreau was signed to return as director. Downey, Paltrow, and Jackson were set to reprise their roles from Iron Man, while Cheadle was
+            brought in to replace Terrence Howard in the role of <Link>James Rhodes</Link>. In early 2009, Rourke, Rockwell, and Johansson filled out the
+            supporting cast. Filming took place from April to July 2009, mostly in California as with the first film. A key sequence was filmed in
+            Monaco. Unlike its predecessor, which mixed digital and practical effects, the sequel primarily relied on computer-generated imagery to
+            create the Iron Man suits.
+          </p>
+          <p>
+            Iron Man 2 premiered at the El Capitan Theatre in Hollywood, Los Angeles, on April 26, 2010, and was released in the United States on May 7
+            as part of <Link>Phase One</Link> of the MCU. It received praise for it action sequences and performance, but critics deemed it inferior to
+            the first film. The sequel grossed over $623.9 million at the worldwide box office, making it the seventh-highest gorssing film of 2010. It
+            received and Academy Award nomination for Best Visual Effects. A sequel, <Link to="/mcu/iron_man_3">Iron Man 3</Link>, was released on May 3,
+            2013.
           </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Plot</h2>
-          <div></div>
+          <div>
+            <p>
+              In Russia, the media covers Tony Stark's disclosure of his identity as Iron Man. Ivan Vanko, mourning the death of his father
+              <Link> Anton Vanko</Link>, a former <Link>Stark Industries</Link> employee, sees this and builds the same miniature arc reactor as Stark's
+              using old Stark Industries blueprints left behind by Anton 
+            </p>
+            <p>
+              Six months later, Tony wants to continue the legacy of his father <Lin>Howard</Lin>, and re-institutes the Stark Expo in New York City's
+              Flushing Meadows-Corona Park. He also resists pressure to turn over his armored suits to the government and Stark's rival,
+              <Link> Justin Hammer</Link>. However, Stark learns that the palladium core in the arc reactor that keeps him alive and powers the armor is
+              slowly poisoning him, and he is unable to find a substitute. Growing increasingly despondent about his impending death, and refusing to
+              tell anyone about his condition, Stark appoints his assistant <Link>Pepper Potts</Link> as CEO of Stark Industries and hires Stark employee
+              <Link>Natlie Rushman</Link> to replace her as his assistant.
+            </p>
+            <p>
+              Stark competes in the Monaco Historic Grand Prix, where he is attacked in the middle of the race by Vanko, who wields electrified whips
+              powered by his arc reactor. Stark dons his armor and defeats Vanko, but the armor is severly damaged. Vanko explains that he intends to
+              prove to the world that Iron Man is not invincible. Impressed by Vanko's performance, Hammer fakes Vancko's death while breaking him out
+              of prison and asks him to build a line of armored suits to upstage Stark. Vanko decides that unmanned drones are better to eliminate the
+              human factor.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Cast</h2>
