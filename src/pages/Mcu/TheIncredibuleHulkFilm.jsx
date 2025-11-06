@@ -560,6 +560,43 @@ const TheIncredibuleHulkFilm = () =>
               comics were "on the table" and that the character could "carry a movie and be as entertaining" as he was in The Avengers. He added that
               Marvel Studios would not consider a sequel until after Age of Ultron.
             </p>
+            <p>
+              In June 2014, Ruffalo said he believed the studio might be considering doing a new standalone Hulk film, saying "I think they are for the
+              first time, entertaining the idea of it. When we did The Avengers it was basically 'No!', and now there is some consideration for it. But
+              there's still nothing definitive, not even a skeletal version of what it would be". In July, Feige stated that the studio was not
+              considering a "Planet Hulk" film at that time, due to wanting to feature Ruffalo's Banner in the film. However, he did not rule out a
+              story that saw the Hulk and Banner end up in space and explained why a solo Hulk film did not occur in <Link>Phase Two</Link> of the
+              MCU by saying the studio wanted to "save" one of the original Avengers characters for just the Avengers films, with the others appearing in
+              their own solo films (Iron Man, Thor, and Captain America) or the films of other (Black Widow and Nick Fury in
+              <Link to="/mcu/captain_america_the_winter_soldier"> Captain America: The Winter Soldier</Link>). In October, again on a solo film, Feige
+              said, "We'll see. We'd love to do it, we'd love to find the place to put it", but that the character would make appearances in other
+              character's films in <Link>Phase Three</Link>. In August 2022, Ruffalo noted there had been conversations around exploring the two-year
+              time period of Hulk arriving on Sakaar, as well as how Banner and Hulk were to integrate to becoming Smart Hulk. He was also open to
+              adapting more of Planet Hulk or World War Hulk, which he said the fans were hoping to see.
+            </p>
+            <p>
+              In April 2015, Ruffalo and Universal holding the distribution rights to Hulk films may be an obstacle to releasing a future Hulk
+              standalone film, and later reiterated this in October, and July 2017. Marvel regained the film production rights for the character in
+              February 2006, but Universal retained the distrubtion rights for The Incredible Hulk as well as the right of first refusal to pick up the
+              distribution rights to each of any future Marvel-produced Hulk films. According to The Hollywood Reporter, a potential reason why Marvel
+              had not reacquired the film distribution rights to the Hulk as they did with Paramount Pictures for the Iron Man, Thor, and Captain
+              America films is that Universal holds the theme park rights to several Marvel characters thta Marvel's parent company, <Link>Disney</Link>,
+              wants for its own theme parks. In December, Ruffalo stated that the strained relationship between Marvel and Universal may be another
+              obstacle to releasing a future standalone Hulk film. MCU director James Gunn expressed interest in doing a film featuring both Hulk and
+              Red Hulk, but the project never entered development due to conflicts with Universal; Red Hulk first appeared in the MCU in Brave New
+              World.
+            </p>
+            <p>
+              By August 2022, reports believed it was possible Marvel Studios would regain the distribution rights to the character from Universal in
+              2023. This was due to U.S. Securities and Exchange Commission filings from Marvel Entertainment that indicated Universal had agreed to
+              distribute The Incredible Hulk under the same terms Marvel agreed to with Paramount, which held distribution rights for 15 years from
+              first release. In March 2023, Citigroup financial analyst Jason Bazinet felt Disney may try to include the distribution rights to Hulk,
+              as well as <Link>Namor</Link>, in any potential sale of the streaming service Hulu to Comcast, the owner of Universal Pictures through
+              NBCUniversal. The distribution rights to The Incredible Hulk returned to Marvel Studios and Disney by June 15, 2023. In August 2023,
+              Leterrier revealed a potential sequel had considered featuring Hulk's <Link>Grey Hulk</Link> persona as well as multiple Red Hulks. In
+              February 2024, Ruffalo expressed doubt over the likelihood of making a standalone Hulk film, citing the cost of the CGI required for the
+              character as a reason.
+            </p>
           </div>
         </div>
         <div>
