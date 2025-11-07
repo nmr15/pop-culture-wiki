@@ -239,6 +239,18 @@ const IronMan2 = () =>
               interviews how the films' version of Mandarin "allows us to incorporate the whole pantheon of villains". He mentioned that S.H.I.E.L.D.
               would continue to have a major role.
             </p>
+            <p>
+              During development, Favreau said the film would explore Stark's alcoholism, but it would not be "the '<Link>Demon in a Bottle</Link>'
+              version". While promoting the first film, Downey stated that Stark would probably develop a drinking problem as he is unable to cope with
+              his age, the effects of revealing he is Iron Man, and Pepper getting a boyfriend. Downey later clarified that the film was not a strict
+              adaptation of the "Demon in a Bottle" storyline from the comic book series, but was instead about the "interim space" between the origin
+              and the "Demon" story arc. The storyline was ultimately downplayed for the film, as studio executives were concerned with how an alcoholic
+              Iron Man would be perceived in marketing and affect merchandise sales. <Link>Shane Black</Link> gave some advice on a script, and
+              suggested to Favreau and Downey that they model Stark on J. Robert Oppenhemier, who became depressed with being "the destroyer of worlds"
+              after working on the Manhattan Project. An early version for the film's story involved Justin Hammer creating different villains in
+              addition to Whiplash, like <Link>Ghost</Link>, but the idea was discarded. Ghost debuted in the MCU years later in
+              <Link to="/mcu/antman_and_the_wasp"> Ant-Man and the Wasp</Link> (2018).
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
