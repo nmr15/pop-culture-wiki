@@ -95,7 +95,7 @@ const IronMan2 = () =>
               using old Stark Industries blueprints left behind by Anton 
             </p>
             <p>
-              Six months later, Tony wants to continue the legacy of his father <Lin>Howard</Lin>, and re-institutes the Stark Expo in New York City's
+              Six months later, Tony wants to continue the legacy of his father <Link>Howard</Link>, and re-institutes the Stark Expo in New York City's
               Flushing Meadows-Corona Park. He also resists pressure to turn over his armored suits to the government and Stark's rival,
               <Link> Justin Hammer</Link>. However, Stark learns that the palladium core in the arc reactor that keeps him alive and powers the armor is
               slowly poisoning him, and he is unable to find a substitute. Growing increasingly despondent about his impending death, and refusing to
