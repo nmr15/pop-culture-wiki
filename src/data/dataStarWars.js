@@ -117,7 +117,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Solo_A_Star_Wars_Story_poster.jpg",
-    "route": "/starwars/solo_film"
+    "route": "/starwars/solo"
   },
   {
     "id": "starwars13",

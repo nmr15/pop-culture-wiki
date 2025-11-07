@@ -100,6 +100,24 @@ const StarWars = () =>
             and <a href="#">themed areas</a>, comprising an all-encompassing fictional universe.
             Star Wars is one of the highest-grossing media franchises of all time.
           </p>
+          <p>
+            The original 1977 film, retroactively subtitled <Link to="/starwars/a_new_hope">Episode IV: A New Hope</Link>, was followed by the sequels
+            <Link to="/starwars/the_empire_strikes_back"> Episode V: The Empire Strikes Back</Link> (1980) and
+            <Link to="/starwars/return_of_the_jedi"> Episode VI: Return of the Jedi</Link> (1983), forming the <Link>original Star Wars trilogy</Link>.
+            Lucas later returned to the series to write and direct <Link>a prequel trilogy</Link>, consisting of
+            <Link to="/starwars/the_phantom_menace"> Episode I: The Phantom Menace</Link> (1999), <Link to="/starwars/attack_of_the_clones">Episode
+            II: Attack of the Clones</Link> (2002), and <Link to="/starwars/revenge_of_the_sith">Episode III: Revenge of the Sith</Link> (2005). In 2012,
+            Lucas sold his production company to <Link>Disney</Link>, relinquishing his ownership of the franchise. This led to <Link>a sequel
+            trilogy</Link>, consisting of <Link to="/starwars/the_force_awakens">Episode VII: The Force Awakens</Link> (2015),
+            <Link to="/starwars/the_last_jedi">Episode VIII: The Last Jedi</Link> (2017), and <Link to="/starwars/the_rise_of_skywalker">Episode
+            IX: The Rise of Skywalker</Link> (2019).
+          </p>
+          <p>
+            All nine films, collectively referred to as the "Skywalker Saga", were nominated for Academy Awards, with Oscars going to the first three
+            releases. Together with the theatrical live action "anthology" films <Link to="/starwars/rogue_one">Rogue One</Link> (2016) and
+            <Link to="/starwars/solo">Solo</Link> (2018), the combined box office revenue of the films equate to over US$10 billion, making Star Wars
+            the third-highest-grossing film franchise in cinematic history.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Premise</h2>
