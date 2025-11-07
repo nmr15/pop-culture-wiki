@@ -101,6 +101,71 @@ const StarWars = () =>
             Star Wars is one of the highest-grossing media franchises of all time.
           </p>
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Premise</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Films</h2>
+          <div>
+            <h3 className="article-heading-3" id="2.1">The Skywalker Saga</h3>
+            <h4 className="article-heading-4" id="2.1.1">Original trilogy</h4>
+            <h4 className="article-heading-4" id="2.1.2">Prequel trilogy</h4>
+            <h4 className="article-heading-4" id="2.1.3">Sequel trilogy</h4>
+            <h3 className="article-heading-3" id="2.2">Standalone films</h3>
+            <h3 className="article-heading-3" id="2.3">Upcoming films</h3>
+            <h4 className="article-heading-4" id="2.3.1">Other potential projects</h4>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Television</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Animated series</h3>
+            <h3 className="article-heading-3" id="3.2">Live-action series</h3>
+            <h3 className="article-heading-3" id="3.3">Films and specials</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Fictional universe</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Other media</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Print media</h3>
+            <h4 className="article-heading-4" id="5.1.1">Novels</h4>
+            <h4 className="article-heading-4" id="5.1.2">Comics</h4>
+            <h3 className="article-heading-3" id="5.2">Audio</h3>
+            <h4 className="article-heading-4" id="5.2.1">Soundtracks and singles</h4>
+            <h4 className="article-heading-4" id="5.2.2">Audio novels</h4>
+            <h4 className="article-heading-4" id="5.2.3">Radio</h4>
+            <h3 className="article-heading-3" id="5.3">Video games</h3>
+            <h4 className="article-heading-4" id="5.3.1">Early licensed games (1979-1993)</h4>
+            <h4 className="article-heading-4" id="5.3.2">LucasArts and modern self-published games (1993-2014)</h4>
+            <h4 className="article-heading-4" id="5.3.3">EA Star Wars (2014-present)</h4>
+            <h3 className="article-heading-3" id="5.4">Theme park attractions</h3>
+            <h3 className="article-heading-3" id="5.5">Multimedia projects</h3>
+            <h3 className="article-heading-3" id="5.6">Merchandising</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Themes</h2>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Historical influences</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Cultural impact</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Indistry</h3>
+            <h4 className="article-heading-4" id="7.1.1">Fan workds</h4>
+            <h3 className="article-heading-3" id="7.2">Academia</h3>
+          </div>
+        </div>
       </main>
     </>
   )
