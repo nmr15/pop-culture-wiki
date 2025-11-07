@@ -228,6 +228,17 @@ const IronMan2 = () =>
           <h2 className="article-heading-2" id="3">Production</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              Jon Favreau said it was originally his intent to create a film trilogy for <Link>Iron Man</Link>, with Obadiah Stane (Jeff Bridges)
+              becoming <Link>Iron Monger</Link> during the sequels. After a meeting between Favreau and various comic book writers, including
+              <Link> Mark Millar</Link>, Stane became the main villain in Iron Man. Millar argued that the <Link>Mandarin</Link>, whom Favreau
+              originally intended to fill that role, was too fantastical. Favreau concurred, deciding, "I look at Mandarin more like how in
+              <Link>Star Wars</Link> you had the <Link>Emperor</Link>, but <Link>Darth Vader</Link> is the guy you want to see fight. Then you work your
+              way to the time when lightning bolts are shooting out of the fingers and all that stuff could happen. But you can't have what happened in
+              <Link>Return of the Jedi</Link> (1983) happen in <Link>A New Hope</Link> (1977). You just can't do it". Favreau also discussed in
+              interviews how the films' version of Mandarin "allows us to incorporate the whole pantheon of villains". He mentioned that S.H.I.E.L.D.
+              would continue to have a major role.
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
