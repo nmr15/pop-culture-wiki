@@ -388,7 +388,7 @@ export const communityEps = [
     "file": "CommunityS2E6",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/61/Troy_the_hero.png",
     "route": "/community/epidemiology",
-    "desc": ""
+    "desc": "Pierce and a few other Greendale students ingest a bio-hazard substance at the school Halloween Party, causing them to exhibit flu-like symptoms and they soon begin turning into zombies. It is up to the rest of the gang to save themselves and the school when Dean Pelton locks them in with the zombie-infected student body."
   },
   {
     "id": "cmntys2e7",
@@ -398,7 +398,7 @@ export const communityEps = [
     "file": "CommunityS2E7",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/6b/Father_%28trampoline%29.jpg",
     "route": "/community/aerodynamics_of_gender",
-    "desc": ""
+    "desc": `After a classroom smackdown with a group of "mean girls" led by Meghan (Hilary Duff), Britta, Shirley, and Annie bond with Abed by turning him into the ultimate "mean girl." Meanwhile, Jeff and Troy embrace a zen-like spirituality under the guidance of a groundskeeper (Matt Walsh) when they come across a secret trampoline on campus. Determine to uncover the source of their new bliss, Pierce ends up taking a disastrous turn on the trampoline and lands in the hospital.`
   },
   {
     "id": "cmntys2e8",
@@ -408,7 +408,7 @@ export const communityEps = [
     "file": "CommunityS2E8",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/09/2X8_Main_photo.jpg",
     "route": "/community/cooperative_calligraphy",
-    "desc": ""
+    "desc": "When Annie's pen goes missing, she suspects that a member of her own study group is the thief. On a mission to find the pen and solve the mystery, the group take a self-imposed lockdown and Jeff takes the lead in conducting the search. Meanwhile, Troy and Abed are itching to get out of the study room to make it to the Greendale Puppy Parade taking place on the quad."
   },
   {
     "id": "cmntys2e9",
@@ -418,7 +418,7 @@ export const communityEps = [
     "file": "CommunityS2E19",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/0b/Conspiracy_theories_and_Interior_Designs_Annie_Points_Gun.jpeg",
     "route": "/community/conspiracy_theories_and_interior_design",
-    "desc": ""
+    "desc": `When Dean Pelton begins checking class schedules, he discovers that Jeff has listed a class that doesn't exist. Just when it appears Jeff will be caught in a lie, the mysterious "Pressor Professorson" (Kevin Corrigan) emerges from the shadows to confirm that Jeff has been taking his class, "Conspiracy Theories in U.S. History," at night school. When Jeff later admits to Annie that he's never seen Professor Professorson in his life, the two decide to find out who the professor really is. Meanwhile, Abed and Troy are busy building the most elaborate blanket for that Greendale Community College has ever seen.`
   },
   {
     "id": "cmntys2e10",
@@ -428,7 +428,7 @@ export const communityEps = [
     "file": "CommunityS2E10",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/be/Mixology_Certification1.png",
     "route": "/community/mixology_certification",
-    "desc": ""
+    "desc": "When the study group convenes to celebrate Troy's birthday, they realize he is actually turing 21 and decide to hit the bars. While Jeff and Britta ingest a few too many cocktails and get silly, Shirley gets busy pulling down incriminating photos of herself that are posted at the bar, and Pierce gets stuck in his resolve of not taking help from others. Annie embraces the identity on her fake ID while Abed delves into conversation with a fellow sci-fi nerd (Paul F. Tompkins)"
   },
   {
     "id": "cmntys2e11",
@@ -438,7 +438,7 @@ export const communityEps = [
     "file": "CommunityS2E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/d/d0/The_study_group_returns.png",
     "route": "/community/abed's_uncontrollable_christmas",
-    "desc": ""
+    "desc": "When Abed wakes up in stop-motion animation, he takes it as a sign that he and the group must re-discover the meaning of Christmas."
   },
   {
     "id": "cmntys2e12",
