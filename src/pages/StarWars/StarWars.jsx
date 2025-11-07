@@ -1,27 +1,31 @@
-import React from 'react'
+import { Link } from 'react-router-dom'
+import Collapse from '../../components/Collapse'
 
 const StarWars = () => 
 {
   return (
     <>
-      <nav className="sidebar bg-dark">
-        <ul>
-          <li className="py-1">
-            <a href="#top">Top</a>
-          </li>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+
         </ul>
-      </nav>
-      <main className="main px-5 py-4">
-        <div id="top">
-          <h1 className="article-heading">Star Wars</h1>
+      </aside>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li>Star Wars (franchise)</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Star Wars (franchise)</h1>
         </div>
-        <div className="img-right pt-2">
+        <div className="img-right img-top">
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png" 
-            alt="Star Wars" 
+            alt="Star Wars logo"
+            className="article-heading-img"
           />
         </div>
-        <div className="pt-2">
+        <div className="div-top">
           <p>
             <b>Star Wars</b> is an American epic space opera media franchise created by <a href="#">George Lucas</a>,
             which began with the <a href="#">eponymous 1977 film</a> and quickly became a worlwide pop
