@@ -197,7 +197,31 @@ const IronMan2 = () =>
                 not want to play a "one-dimensional bad guy", and wanted to challenge the audience to see something redeemable in him. Not knowing
                 anything about computers, Rourke described pretending to be tech-savvy as the hardest part of the role.
               </li>
+              <li>
+                <Link>Samuel L. Jacson</Link> as <Link to="/mcu/nick_fury">Nick Fury</Link>:<br />
+                Director of S.H.I.E.L.D.: Jackson signed a nine-film contract to play the character. On the subject of his character not seeing any
+                action in the film, Jackson said, "We still haven't moved Nick Fury into the bad-ass zone. He's still just kind of a talker."
+              </li>
             </ul>
+            <p>
+              The director, Jon Favreau, reprises his role as <Link>Happy Hogan</Link>, Tony Stark's bodyguard and chauffeu, while <Link>Clark
+              Gregg</Link> and Leslie Bibb reprise their roles as S.H.I.E.L.D. agent <Link>Phil Coulson</Link> and reporter <Link>Christine
+              Everhart</Link>, respectively. <Link>John Slattery</Link> appears as Tony's father <Link>Howard Stark</Link> and Garry Shandling appears
+              as United States Senator <Link>Stern</Link>, who wants Stark to give <Link>Iron Man's armor</Link> to the government. Favreau stated that
+              Shandling's character was named after radio personality Howard Stern. <Link>Paul Bettany</Link> again voices Stark's computer,
+              <Link>J.A.R.V.I.S.</Link>. Olivia Munn originally appeared as an unnamed character who was subsequently cut from the film. Favreau then
+              gave her the role of Chess Roberts, a reporter covering the Stark expo. Yevgeni Lazarev appears as Ivan Vanko's father, <Link>Anton
+              Vanko</Link>, <Link>Kate Mara</Link> portrays a process server who summons Tony to the government hearing, and <Link>Stan Lee</Link>
+              appears as himself (but is mistaken for Larry King).
+            </p>
+            <p>
+              Additionally, news anchor Christiane Amanpour, political commentator Bill O'Reilly, Tesla Motors CEO Elon Musk, and Oracle Corporation
+              CEO Larry Ellison appear as themselves. Adam Goldstein, who also appears as himself, died before the film's release; the film is dedicated
+              to his memory. Favreau's son Max appears as a child wearing an Iron Man mask whom Stark saves from a drone. In 2017,
+              <Link to="/mcu/spiderman_homecoming"> Spider-Man: Homecoming</Link> director <Link>Jon Watts</Link> said that he had suggested to Feige
+              that they retroactively establish this child to be the intoduction of a young <Link to="/mcu/peter_parker">Peter Parker / Spider-Man</Link>
+              to the MCU, an idea that Feige agreed was plausible, and which then-Spider-Man actor <Link>Tom Holland</Link> also supported.
+            </p>
           </div>
         </div>
         <div>
