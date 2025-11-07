@@ -170,7 +170,32 @@ const IronMan2 = () =>
                 it would help convince Favreau that she was right for the role. On why she chose the role, Johansson said, "the Black Widow character
                 resonated with me... [She] is a superhero, but she's also human. She's small, but she's strong... She is dark and has faced death so many
                 times that she has a deep perspective on the value of life... It's hard not to admire her." She stated that she had "a bit of a freak-out
-                moment" when she first saw the cat-suit and worked closely with the stunt team to learn how to fight in it in order to "sell it".
+                moment" when she first saw the cat-suit and worked closely with the stunt team to learn how to fight in it in order to "sell it". During
+                the promotion for <Link to="/mcu/black_widow_film">Black Widow</Link> (2021), Johansson said the character was hyper-sexualized in Iron
+                Man 2, specifically referring to dialogue that described her as "a piece of something, like a possession", but at the time she felt this
+                was "like a compliment". Though she was grateful to have bben a part of the film, she was more grateful that the character's portrayal
+                had evolved to convey a more positive message by the time of Black Widow.
+              </li>
+              <li>
+                <Link>Sam Rockwell</Link> as <Link>Justin Hammer</Link>:
+                A rival weapons manufacturer. Sam Rockwell was considered for the role of Tony Stark in the first film, and he accepted the role of
+                Hammer without reading the script. He had never heard of the character before he was contacted about the part, and was unaware Hammer
+                is an old Englishman in the comics. Rockwell said, "I worked with Jon Favreau on this film called Made (2001). And Justin Theroux, who
+                wrote the script, is an old friend of mine, they sort of cooked up this idea and pitched it to Kevin Feige. What they did, they were
+                maybe going to do one villain like they did with <Link>Jeff Bridges</Link>, but then they decided to split the villains. And really
+                Mickey [Rourke] is the main [villain], but I come to his aid." Rockwell described his character as "plucky comic relief, but he's got a
+                little bit of an edge".
+              </li>
+              <li>
+                <Link>Mickey Rourke</Link> as <Link>Ivan Vanko / Whiplash</Link>:<br />
+                A Russian physicist and ex-convict who builds a pair of arc reactor-based electric whips to exact vengeance on the Stark family. The
+                character is an amalgamation of <Link>Whiplash</Link> and <Link>Crimson Dynamo</Link>. Rourke visited Butyrka to research the role, and
+                he suggested that half of the character's dialogue be in Russian. He also suggested the addition of tattoos, gold teeth, and a
+                fondness for a pet cockatoo, paying for the teeth and bird with his own money. One of Rourke's tattoos read "Loki", the name of one of
+                his dogs that had died prior to filming, which Feige requested be digitally removed as it felt it would lead to confusion regarding the
+                comics character <Link>Loki</Link>, who was set to appear in <Link to="/mcu/thor_film">Thor</Link> (2011). Rourke explained that he did
+                not want to play a "one-dimensional bad guy", and wanted to challenge the audience to see something redeemable in him. Not knowing
+                anything about computers, Rourke described pretending to be tech-savvy as the hardest part of the role.
               </li>
             </ul>
           </div>
