@@ -75,6 +75,74 @@ const Spongebob = () =>
           went on to become one of the longest-running American animated series. The franchise is the most profitable property for Paramount Consumer
           Products, having generated over $13 billion in merchandising revenue.
         </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
+            <h3 className="article-heading-3" id="1.2">Conception</h3>
+            <h3 className="article-heading-3" id="1.3">Assembling the crew</h3>
+            <h3 className="article-heading-3" id="1.4">Pitching</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Television series</h2>
+          <div>
+            <h3 className="article-heading-3" id="2.1">Spongebob Squarepants (1999-present)</h3>
+            <h3 className="article-heading-3" id="2.2">Kamp Koral!: Spongebob's Under Years (2021-2024)</h3>
+            <h3 className="article-heading-3" id="2.3">The Patrick Star Show (2021-present)</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Films</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">The Spongebob Squarepants Movie (2004)</h3>
+            <h3 className="article-heading-3" id="3.2">The Spongebob Movie: Sponge Out of Water (2015)</h3>
+            <h3 className="article-heading-3" id="3.3">The Spongebob Movie: Sponge on the Run (2020)</h3>
+            <h3 className="article-heading-3" id="3.4">In development</h3>
+            <h4 className="article-heading-4" id="3.4.1">The Spongebob Movie: Search for Squarepants (2025)</h4>
+            <h3 className="article-heading-3" id="3.5">Spin-off films</h3>
+            <h4 className="article-heading-4" id="3.5.1">Saving Bikini Bottom: The Sandy Cheeks Movie (2024)</h4>
+            <h4 className="article-heading-4" id="3.5.2">Plankton: The Movie (2025)</h4>
+            <h3 className="article-heading-3" id="3.6">Fans' short films</h3>
+            <h4 className="article-heading-4" id="3.6.1">Spongebob Squareshorts</h4>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Video games</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Comic books</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Music</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Theater</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="8">Theme park rides</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="9">Merchandise</h2>
+          <div>
+
+          </div>
+        </div>
       </main>
     </>
   )
