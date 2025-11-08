@@ -37,10 +37,21 @@ const Spongebob = () =>
               {id: "4.4", title: "In development", sub2: [
                 {id: "4.4.1", title: "The Spongebob Movie: Search for Squarepants (2025)"}
               ]},
-              {id: "4.5", title: "Spin-off films"},
-              {id: "4.6", title: "Fans' short films"},
+              {id: "4.5", title: "Spin-off films", sub2: [
+                {id: "4.5.1", title: "Saving Bikini Bottom: The Sandy Cheeks Movie (2024)"},
+                {id: "4.5.2", title: "Plankton: The Movie (2025)"}
+              ]},
+              {id: "4.6", title: "Fans' short films", sub2: [
+                {id: "4.6.1", title: "Spongebob Squareshorts"}
+              ]},
             ]}
           />
+          <li className="sidebar-list-item"><a href="#5">Video games</a></li>
+          <li className="sidebar-list-item"><a href="#6">Comic books</a></li>
+          <li className="sidebar-list-item"><a href="#7">Music</a></li>
+          <li className="sidebar-list-item"><a href="#8">Theater</a></li>
+          <li className="sidebar-list-item"><a href="#9">Theme park rides</a></li>
+          <li className="sidebar-list-item"><a href="#10">Merchandise</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -57,6 +68,12 @@ const Spongebob = () =>
             alt="Spongebob Squarepants logo"
             className="article-heading-img"
           />
+        </div>
+        <div className="div-top">
+          Spongebob Squarepants is an American animated comedy media franchise created by marine science eduactor and animator
+          <Link> Stephen Hillenburg</Link> and owned by <Link>Nickelodeon</Link>. It begain with the <Link>series</Link>, which premiered in 1999, and
+          went on to become one of the longest-running American animated series. The franchise is the most profitable property for Paramount Consumer
+          Products, having generated over $13 billion in merchandising revenue.
         </div>
       </main>
     </>
