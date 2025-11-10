@@ -7,6 +7,7 @@ import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { asoue } from '../data/dataAsoue';
+import { spidermanFilms } from '../../data/dataSpidermanFilms';
 
 const AllArticles = () =>
 {
@@ -247,6 +248,17 @@ const AllArticles = () =>
                 </li>
             ))}
             </ul>
+        </div>
+
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="SpidermanFilms">Non-MCU Spider-Man films</h3>
+          <ul className="allArticles-list">
+            {spidermanFilms.map((spFilm) => (
+              <li key={spFilm.id}>
+                <Link to={spFilm.route}>{spFilm.title}</Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </main>
     </>
