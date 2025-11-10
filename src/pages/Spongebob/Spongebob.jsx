@@ -130,7 +130,55 @@ const Spongebob = () =>
               place." When he heard Kenny say it Hillenburg loved the phrase and felt it would reinforce the character's nerdiness.
             </p>
             <h3 className="article-heading-3" id="1.3">Assembling the crew</h3>
+            <p>
+              Derek Drymon, who served as creative director for the first three seasons, has said that Hillenburg wanted to surround himself with a
+              "team of young and hungry people." Many of the major contributors to SpongeBob SquarePants had worked before with Hillenburg on Rocko's
+              Modern Life: this included: Drymon, art director Nick Jennings, supervising director Alan Smart, writer / voice actor <Link>Doug
+              Lawrence</Link> (often credited as Mr. Lawrence), and Tim Hill, who helped develop the series bible.
+            </p>
+            <p>
+              Although Drymon would go on to have a significant influence on SpongeBob SquarePants, he was not offered a role on the series initially.
+              As a late recruit to Rocko's Modern Life, he had not established much of a relationship with Hillenburg before SpongeBob's conception.
+              Hillenburg first sought out Drymon's storyboard partner, Mark O'Hare, but he had just created the soon-to-be syndicated comic strip,
+              Citizen Dog. While he would later join SpongeBob as a writer, he lacked the time to get invloved with both projects from the outset.
+              Drymon has said, "I remember Hillenburg's bringing it up to Mark in our office and asking him if he'd be interested in working on it ... I
+              was all ready to say yes to the offer, but Steven didn't ask; he just left the room. I was pretty desperate ...so I ran into the hall
+              after him and basically begged him for the job. He didn't jump at the chance." Once Hillenburg had given it some thought and decided to
+              bring Drymon on as creative director, the two began meeting at Hillenburg's house several times a week to develop the series. Drymon has
+              identified this periods as having begun in 1996, shortly after the end of Rocko's Modern Life.
+            </p>
+            <p>
+              Jennings was also instrumental in SpongeBob's genesis. Kenny has called him "one of SpongeBob's early graphics mentors". On weekends, Kenny
+              joined Hillenburg, Jennings, and Drymon for creative sessions where they recorded ideas on a tape recorder. Kenny performed audio tests as
+              SpongeBob during these sessions, while Hillenburg voice acted the other characters.
+            </p>
+            <p>
+              Hill contributed scripts for several first-season episodes (including the pilot) and was offered the role of story editor, but turned it
+              down, he would go on to pursue a career as a family film director. In his stead, Pete Burns was brought in for the job. Burns hailed from
+              Chicago and had never met any of the principal players on SpongeBob before joining the team.
+            </p>
             <h3 className="article-heading-3" id="1.4">Pitching</h3>
+            <p>
+              While pitching the cartoon to Nickelodeon executives, Hillenburg donned a Hawaiian shirt, brought along an "underwater terrarium with models
+              of the characters", and played Hawaiian musice to set the theme. The setup was described by Nickelodeon executive Eric Coleman as "pretty
+              amazing". They were given money and two weeks to write the pilot episode "<Link>Help Wanted</Link>". Drymon, Hillenburg, and Jennings
+              returned with what was described by Nickelodeon offical Albie Hecht as, "a performance [he] wished [he] had on tape". Although executive
+              producer Detek Drymon described the pitch as stressful, he said it went "very well". Kevin Kay and Hecht had to step outside because they
+              were "exhausted from laughing", which worried the cartoonists.
+            </p>
+            <p>
+              In an interview, Cyma Zarghami, then-president of Nickelodeon, said, "their [Nickelodeon executives'] immediate reaction was to see it
+              again, both because they liked it and it was unlike anything they'd ever seen before". Zarghami was one of four executives in the room when
+              SpongeBob SquarePants was screened for the first time.
+            </p>
+            <p>
+              Before commissioning the full series, Nickelodeon executives insisted that it would not be popular unless SponbeBob was a child who went to
+              school, with his teacher as a main character. Hillenburg recalled in 2012 that Nickelodeon told him, "Our winning formula is animation about
+              kids in school... We want you to put SpongeBob in school." Hillenburg was ready to "walk out" on Nickelodeon and abandon the series, since
+              he wanted SpongeBob to be an adult character. He eventually compromised by adding a new character to the main cast, Mrs. Puff, who is a
+              boat-driving teacher. Hillenburg was happy with the compromise and said, "A positive thing for me that came out of it was [how it brought]
+              in a new character, Mrs. Puff, who I love."
+            </p>
           </div>
         </div>
         <div>
