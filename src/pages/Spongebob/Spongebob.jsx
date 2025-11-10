@@ -97,6 +97,27 @@ const Spongebob = () =>
               which they sent on Christmas Eve. This song was "Loop de Loop", which was used in the episode "Your Shoe's United".
             </p>
             <h3 className="article-heading-3" id="1.2">Conception</h3>
+            <p>
+              While working as a staff artist at the Ocean Institute, Hillenburg entertained plans to return eventually to college for a master's
+              degree in art. Before this could materialize, he attended an animation festival, which inspired him to make a slight change in course.
+              Instead of continuing his education with a traditional art program, Hillenburg chose to study experimental animation at the California
+              Institute of the Arts. His thesis film, Wormholes, is about the theory of relativity. It was screened at festivals, and at one of these,
+              Hillenburg met Joe Murray, creator of the popular <Link>Nickelodeon</Link> animated seres, Rocko's Modern Life. Murray was impressed by
+              the style of the film and offered Hillenburg a job. Hillenburg joined the series as a director, and later during the fourth season, he took
+              on the roles of producer and creative director.
+            </p>
+            <p>
+              Martin Olson, one of the writers for Rocko's Modern Life, read The Intertidal Zone and encouraged Hillenburg to create a television series
+              with a similar concept. At that point, Hillenburg had not even considered creating his own series. However, he realized that if ever did,
+              this would be the best approach. He began to develop some of the characters from The Intertidal Zone, including the comic's "announcer",
+              Bob the Sponge. He wanted his series to stand out from most popular cartoon of the time, which he felt was exemplified by buddy comedies
+              like The Ren & Stimpy Show. As a result, Hillenburg decided to focus on a single main character: the "weirdest" sea creature he could think
+              of. This led him to the sponge. The Intertidal Zone's Bob the Sponge resembles an actual sea sponge, and at first, Hillenburg continued to
+              use this design. In determining the new character's behavior, Hillenburg drew inspiration from innocent, childlike figures that he enjoyed,
+              such as Charlie Chaplin, Laurel and Hardy, Jerry Lewis, and Pee-wee Herman. He then considered modeling the character after a kitchen
+              sponge and realized this idea would match the character's square personality perfectly. Patrick, Mr. Krabs, Pearl, and Squidward were the
+              next characters Hillenburg created for the show.
+            </p>
             <h3 className="article-heading-3" id="1.3">Assembling the crew</h3>
             <h3 className="article-heading-3" id="1.4">Pitching</h3>
           </div>
