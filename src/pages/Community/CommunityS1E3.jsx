@@ -51,8 +51,24 @@ const CommunityS1E3 = () =>
               subsequently distracted by <Link to="/community/troy_barnes">Troy</Link>'s funny sneeze.
             </p>
             <div className="img-right">
-              <img src="https://static.wikia.nocookie.net/community-sitcom/images/f/fc/Seize_the_day%21.png/revision/latest/scale-to-width-down/300?cb=20120523174602" 
-              alt="Seize the day" />
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/f/fc/Seize_the_day%21.png" 
+                alt="Seize the day" 
+              />
+            </div>
+            <p>
+              The study group, minus Britta and Abed, join Jeff for Professor Whitman's accounting course the following day. After
+              <Link to="/community/shirley_bennett">Shirley</Link> introduces herself to the class, Whitman encourages her to have an emotional
+              breakthrough regarding her husband. He then commands Annie along with the rest of the students to stand on their desks. After one of the
+              students gets injured when her desk collapses, Whitman gives out their homework assignments and dismisses them. He asks that Jeff stay behind
+              and hells him he believes his motivations for taking the class are insincere. If by the end of the week he doesn't try to genuinely "live in
+              the moment" and "seize the day", Whitman will fail him. Later, Jeff is complaining to Britta about Whitman's ultimatum.
+            </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/7/7f/ITF_Living_in_the_moment_by_standing_on_desks.png" 
+                alt="Living_in_the_moment_by_standing_on_desks" 
+              />
             </div>
           </div>
         </div>
