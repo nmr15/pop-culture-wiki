@@ -7,7 +7,7 @@ import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { asoue } from '../data/dataAsoue';
-import { spidermanFilms } from '../../data/dataSpidermanFilms';
+import { spidermanFilms } from '../data/dataSpidermanFilms';
 
 const AllArticles = () =>
 {
