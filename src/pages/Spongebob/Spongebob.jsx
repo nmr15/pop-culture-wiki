@@ -79,6 +79,23 @@ const Spongebob = () =>
           <h2 className="article-heading-2" id="1">Development</h2>
           <div>
             <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
+            <p>
+              Series' creator Stephen Hillenburg first became fascinated with the ocean as a child and began developing his artistic abilities at a young
+              age. Although these interests would not overlap for some time, the idea of drawing fish seemed boring to him, Hillenburg pursued both
+              during college, majoring in marine biology and minoring in art. After graduating in 1984, he joined the Ocean Institue, an organization in
+              Dana Point, California, dedicated to educating the public about marine science and maritime history.
+            </p>
+            <p>
+              While Hillenburg was there, his love of the ocean began to influence his artistry. He created a precursor to Spongebob Squarepants: a
+              comic book titled The Intertidal Zone used by the institute to teach visiting students about the animal life of tide pools. The comic
+              starred various anthropomorphic sea lifeforms, many of which would evolve into Spongebob Squarepants characters. Hillenburg tried to get
+              the comic professionally published, but none of the companies he sent it to were interested.
+            </p>
+            <p>
+              A large inspiration to Hillenburg was Ween's 1997 album The Mollusk, which had a nautical and underwater theme. Hillenburg contacted the
+              band shortly after the album's release, explaining the baseline ideas for Spongebob Squarepants, and also requesed a song from the band,
+              which they sent on Christmas Eve. This song was "Loop de Loop", which was used in the episode "Your Shoe's United".
+            </p>
             <h3 className="article-heading-3" id="1.2">Conception</h3>
             <h3 className="article-heading-3" id="1.3">Assembling the crew</h3>
             <h3 className="article-heading-3" id="1.4">Pitching</h3>
