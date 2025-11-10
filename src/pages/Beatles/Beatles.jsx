@@ -113,6 +113,9 @@ const Beatles = () =>
             artists. While some partial reunions occurred over the next decades, the four members never reunited. <Link>Lennon was murdered</Link> in 1980
             and Harrison died of lung cancer in 2001; McCartney and Starr remain musically active.
           </p>
+          <p>
+            The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">History</h2>
