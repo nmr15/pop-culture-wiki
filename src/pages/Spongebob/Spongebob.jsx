@@ -118,6 +118,17 @@ const Spongebob = () =>
               sponge and realized this idea would match the character's square personality perfectly. Patrick, Mr. Krabs, Pearl, and Squidward were the
               next characters Hillenburg created for the show.
             </p>
+            <p>
+              To voice the series's central character, Hillenburg turned to <Link>Tom Kenny</Link>, whose career in animation had started alongside
+              Hillenburg's on Rocko's Modern Life. Elements of Kenny's own personality were employed to develop the character further. Initially,
+              Hillenburg wanted to use the name Spongeboy, the character had no last name, and the series was to have been called Spongeboy Ahoy!
+              However, the Nickelodwon legal department discovered, after voice acting had been completed for the original seven-minute pilot episode,
+              that the name "SpngeBoy", was already in use for a mop product, and a character of the same name was already in trademark by Flaming
+              Carrot Comics creator Bob Burden. In choosing a replacement name, Hillenburg felt he still had to use the word "Sponge", so that viewers
+              would not mistake the character for a "Cheese Man". He settled on the name "SpongeBob". "SquarePants" was chosen as a family name after
+              Kenny saw a picture of the character and remarked, "Boy, look at this sponge in square pants, thinking he can get a job in a fast food
+              place." When he heard Kenny say it Hillenburg loved the phrase and felt it would reinforce the character's nerdiness.
+            </p>
             <h3 className="article-heading-3" id="1.3">Assembling the crew</h3>
             <h3 className="article-heading-3" id="1.4">Pitching</h3>
           </div>
