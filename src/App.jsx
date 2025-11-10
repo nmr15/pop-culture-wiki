@@ -8,6 +8,7 @@ import './App.css'
 import BadBeginning from "./pages/Asoue/BadBeginning"
 import CommunityS1E1 from "./pages/Community/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/CommunityS1E2"
+import CommunityS1E3 from "./pages/Community/CommunityS1E3"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 
 const Wrapper = ({ children }) => {
@@ -49,6 +50,7 @@ function App() {
 
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
+        <Route path="/community/intoduction_to_film" element={<CommunityS1E3 />} />
 
         {routesGta.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />
