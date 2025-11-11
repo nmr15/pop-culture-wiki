@@ -193,6 +193,11 @@ const CommunityS1E3 = () =>
                   </li>
                 </ul>
               </li>
+              <li>
+                <b>Middle Eastern Magic 8 Ball</b>: <Link to="/community/annie_edison">Annie</Link> is inspired by Professor Whitman's philosophy of
+                living in the moment and makes a few significant decisions in the <Link>Season 1</Link> finale
+                "<Link to="/community/pascals_triangle_revisited"> Pascal's Triangle Revisited</Link>" based on the idea.
+              </li>
             </ul>
           </div>
         </div>
