@@ -220,7 +220,46 @@ const CommunityS1E3 = () =>
                 </li>
               </ul>
             <h4 className="article-heading-4" id="3.1.3">Places</h4>
+              <ul className="article-list">
+                <li>
+                  <b>This must be the place</b>:
+                  <ul className="article-sublist">
+                    <li>
+                      <Link>Group Study Room F</Link>
+                    </li>
+                    <li>
+                      <Link>Library</Link>
+                    </li>
+                    <li>
+                      <Link>Cafeteria</Link>
+                    </li>
+                    <li>
+                      <Link>Hot & Brown</Link>
+                    </li>
+                    <li>
+                      <Link>Student lounge</Link>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
             <h4 className="article-heading-4" id="3.1.4">Things</h4>
+            <ul className="article-list">
+              <li>
+                <b>School supplies</b>: The <Link>Foosball table</Link> debuts.
+              </li>
+              <li>
+                <b>School uniform</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Troy is still wearing his <Link>letterman jacket</Link>, and Pierce tells him to lose it because it makes him look like a high school
+                    bitch.
+                  </li>
+                  <li>
+                    Annie wears <Link>a light blue cardigan</Link> and later, a yellow one.
+                  </li>
+                </ul>
+              </li>
+            </ul>
             <h3 className="article-heading-3" id="3.2">Running gags</h3>
             <h3 className="article-heading-3" id="3.3">Pop culture references</h3>
             <h3 className="article-heading-3" id="3.4">Meta references</h3>
