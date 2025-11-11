@@ -155,13 +155,45 @@ const CommunityS1E3 = () =>
         <div>
           <h2 className="article-heading-2" id="2">End tag</h2>
           <div>
-            
+            <p>
+              Troy and Abed try to krump before being joined by Jeff who tries to show them how it's done.
+            </p>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Themes</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="3.1">Continuity</h3>
+            <h4 className="article-heading-4" id="3.1.1">Narrative</h4>
+            <ul className="article-list">
+              <li>
+                <b>Discontinuity</b>: The photo of Abed's mom appears to be that of a middle-eastern woman, but it is stated several times on the show
+                that his mother is Polish. It's possible that she is of Asian ethnicity but grew up in Poland.
+              </li>
+              <li>
+                <b>Express tuition</b>: All Whitman teaches his students is to "seize the day". His class is supposed to be accounting.
+              </li>
+              <li>
+                <b>Googly eyes</b>: Jeff and Britta share their first kiss in this episode although Britta explains it was only for Professor Whitman's
+                benefit and to make things even between them for him helping her out with Abed.
+              </li>
+              <li>
+                <b>History lesson</b>:
+                <ul className="aritcle-list">
+                  <li>
+                    Shirley fills in more details about why she's at Greendale when she reveals she was left by <Link>her husband</Link> who cheated on
+                    her and now wants to get what's hers.
+                  </li>
+                  <li>
+                    Abed's desire to get into filmmaking is revealed. He would eventually move to Hollywood and become a personal assistant on a TV show
+                    in "<Link to="/community/emotional_consequences_of_broadcast_television">Emotional Consequences of Broadcast Television</Link>".
+                  </li>
+                  <li>
+                    Through Abed and Gubi's relationship, Britta's own strained relationship with her father is hinted at.
+                  </li>
+                </ul>
+              </li>
+            </ul>
           </div>
         </div>
         <div>
