@@ -261,7 +261,62 @@ const CommunityS1E3 = () =>
               </li>
             </ul>
             <h3 className="article-heading-3" id="3.2">Running gags</h3>
+            <ul className="article-list">
+              <li>
+                <b>Awww!</b>: Annie and Shirley coo when they see that the check Britta made out to Abed for his class is signed out with "For dreams".
+              </li>
+              <li>
+                <b>Double entendre</b>: Troy gets upset that Jeff says he sneezes like a girl, and he replies, "How about I pound you like a boy?" before
+                quickly realizing how that could be misinterpreted.
+              </li>
+              <li>
+                <b>You're a huge nerd</b>: Jeff joins Troy and Abed when they try to krump.
+              </li>
+            </ul>
             <h3 className="article-heading-3" id="3.3">Pop culture references</h3>
+            <ul className="article-list">
+              <li>
+                <b>IMDb</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Dead Poets Society is mentioned by Jeff as having heavily influenced Professor Whitman.
+                  </li>
+                  <li>
+                    Aladdin is mentioned by Troy who considers Jafar a badass.
+                  </li>
+                  <li>
+                    Jeff describes Abed's short film as not exactly Citizen Kane.
+                  </li>
+                  <li>
+                    Britta is disappointed that Jeff lied to her about having Ravi Shankar tickets.
+                  </li>
+                  <li>
+                    Abed's film, "Six Candles", is a reference to John Hughes' Sixteen Candles.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <b>Shout out</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Actor/comedian Robin Williams is mentioned and referenced. Abed dislikes how in every movie, an authority figure will criticize
+                    Williams for making people laugh.
+                  </li>
+                  <li>
+                    Gobi Nadir asks Jeff where the band Weezer is.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <b>Use your allusions</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Many references to the movie Dead Poets Society are alluded to in this episode. The last name Whitman itself is a reference to the
+                    poet Walt Whitman that the teacher in the film, John Keating, was a fan of.
+                  </li>
+                </ul>
+              </li>
+            </ul>
             <h3 className="article-heading-3" id="3.4">Meta references</h3>
           </div>
         </div>
