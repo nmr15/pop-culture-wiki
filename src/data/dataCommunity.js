@@ -438,7 +438,7 @@ export const communityEps = [
     "file": "CommunityS2E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/d/d0/The_study_group_returns.png",
     "route": "/community/abed's_uncontrollable_christmas",
-    "desc": "When Abed wakes up in stop-motion animation, he takes it as a sign that he and the group must re-discover the meaning of Christmas."
+    "desc": "When Abed wakes up in stop-motion animation, he takes it as a sign that he and the group must re-discover the meaning of Christmas. Meanwhile, Jeff and Britta become increasingly concerned about Abed's mental health and enlist the help of Duncan. They trick Abed into a group therapy session to explore his winter wonderland and unravel the truth behind Abed's madness as one by one, the members who don’t believe in his fantasy get thrown off the tour."
   },
   {
     "id": "cmntys2e12",
@@ -448,7 +448,7 @@ export const communityEps = [
     "file": "CommunityS2E12",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/1/1b/Jeff_running_in_the_rain.jpg",
     "route": "/community/asian_population_studies",
-    "desc": ""
+    "desc": "The group debates whether Annie's new crush Rich (Greg Cromer) or Chang should be new additions to the group. Shirley has big news to reveal when her ex-husband Andre (Malcolm-Jamal Warner) returns."
   },
   {
     "id": "cmntys2e13",
@@ -458,7 +458,7 @@ export const communityEps = [
     "file": "CommunityS2E13",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/5/51/CP212.png",
     "route": "/community/celebrity_pharmacology",
-    "desc": ""
+    "desc": "Annie convinces the group to put on a middle school anti-drug production, but finds it continually derailed by Pierce's efforts to give himself a better role. Meanwhile, Chang attempts to connect with Shirley, while a prank involving Britta's phone puts Jeff in an awkward situation."
   },
   {
     "id": "cmntys2e14",
@@ -468,7 +468,7 @@ export const communityEps = [
     "file": "CommunityS2E14",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/ec/AD%26D.png",
     "route": "/community/advanced_dungeons_&_dragons",
-    "desc": ""
+    "desc": `Jeff invites "Fat Neil" (Charley Koontz) to play a game of Dungeons & Dragons with the rest of the study group, hoping to boost his confidence, after Jeff becomes concerned about his mental health. When Pierce finds out he was not invited, he joins anyway, disrupting their plans.`
   },
   {
     "id": "cmntys2e15",
@@ -478,7 +478,7 @@ export const communityEps = [
     "file": "CommunityS2E15",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/d/d8/Andy_Dick.png",
     "route": "/community/early_21st_century_romanticism",
-    "desc": ""
+    "desc": "During Valentine's Day, Abed and Troy compete over the college librarian. Britta befriends a female student who she thinks is gay. Jeff is forced to throw a party at his apartment when Duncan invites himself over to watch a soccer game."
   },
   {
     "id": "cmtys2e16",
@@ -488,7 +488,7 @@ export const communityEps = [
     "file": "CommunityS2E16",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/22/CFS_Levar_Burton.png",
     "route": "/community/intermediate_documentary_filmmaking",
-    "desc": ""
+    "desc": `Pierce pretends to be dying and gives the study group specific gifts that are actually meant to torment them. Britta wonders what to do with a blank check for "charity," Jeff ponders the idea of meeting his father, and Troy gets to meet LeVar Burton, while Abed films the whole thing for a documentary.`
   },
   {
     "id": "cmtys2e17",
