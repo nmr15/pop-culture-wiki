@@ -796,142 +796,205 @@ export const mcuChar = [
   },
   {
     "id": "mcuchar26",
+    "title": "Valkyrie",
+    "file": "ValkyrieMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d8/Valkyrie_in_LoveAndThunder_Poster.png",
+    "route": "/mcu/valkyrie"
+  },
+  {
+    "id": "mcuchar27",
     "title": "T'Challa",
     "file": "TchallaMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/T%27Challa_Infobox.jpg",
     "route": "/mcu/t'challa"
   },
   {
-    "id": "mcuchar27",
+    "id": "mcuchar28",
     "title": "Shuri",
     "file": "ShuriMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/BlackPantherWFInfobox.jpg",
     "route": "/mcu/shuri"
   },
   {
-    "id": "mcuchar28",
+    "id": "mcuchar29",
     "title": "Stephen Strange",
     "file": "StephenStrangeMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg",
     "route": "/mcu/stephen_strange"
   },
   {
-    "id": "mcuchar29",
+    "id": "mcuchar30",
     "title": "Wong",
     "file": "WongMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Wong_in_She-Hulk.jpg",
     "route": "/mcu/wong"
   },
   {
-    "id": "mcuchar30",
+    "id": "mcuchar31",
     "title": "Mantis",
     "file": "MantisMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Mantis_Infobox.jpg",
     "route": "/mcu/mantis"
   },
   {
-    "id": "mcuchar31",
+    "id": "mcuchar32",
     "title": "Carol Danvers",
     "file": "CarolDanversMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_Marvel_Profile.png",
     "route": "/mcu/carol_danvers"
   },
   {
-    "id": "mcuchar32",
+    "id": "mcuchar33",
     "title": "Yelena Bolova",
     "file": "YelenaBolovaMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8e/Yelena_Belova_Infobox.jpg",
     "route": "/mcu/yelena_bolova"
   },
   {
-    "id": "mcuchar33",
+    "id": "mcuchar34",
     "title": "Alexei Shostakov",
     "file": "AlexeiShostakov",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Red_Guardian_Infobox.jpg",
     "route": "/mcu/alexei_shostakov"
   },
   {
-    "id": "mcuchar34",
+    "id": "mcuchar35",
     "title": "Melina Vostokoff",
     "file": "MelinaVostokoff",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/MelinaVostokoffProfilePic.jpeg",
     "route": "/mcu/melina_vostokoff"
   },
   {
-    "id": "mcuchar35",
+    "id": "mcuchar36",
     "title": "Shang-Chi",
     "file": "ShangChiMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/40/Shang-Chi_Profile.jpg",
     "route": "/mcu/shang_chi"
   },
   {
-    "id": "mcuchar36",
+    "id": "mcuchar37",
     "title": "Sersi",
     "file": "SersiMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cc/Sersi_Character_Poster.jpg",
     "route": "/mcu/sersi"
   },
   {
-    "id": "mcuchar37",
+    "id": "mcuchar38",
     "title": "Ikaris",
     "file": "IkarisMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/Ikaris_Character_Poster.jpg",
     "route": "/mcu/ikaris"
   },
   {
-    "id": "mcuchar38",
+    "id": "mcuchar39",
     "title": "Thena",
     "file": "ThenaMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/Thena_First_Look.jpg",
     "route": "/mcu/thena"
   },
   {
-    "id": "mcuchar39",
+    "id": "mcuchar40",
     "title": "Ajak",
     "file": "AjakMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Ajak_Infobox.jpg",
     "route": "/mcu/ajak"
   },
   {
-    "id": "mcuchar40",
+    "id": "mcuchar41",
     "title": "Kingo",
     "file": "KingoMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Kingo_Character_Poster.jpg",
     "route": "/mcu/kingo"
   },
   {
-    "id": "mcuchar41",
+    "id": "mcuchar42",
     "title": "Sprite",
     "file": "SpriteMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d8/Sprite_Character_Poster.jpg",
     "route": "/mcu/sprite"
   },
   {
-    "id": "mcuchar42",
+    "id": "mcuchar43",
     "title": "Phastos",
     "file": "PhastosMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/Phastos_Character_Poster.jpg",
     "route": "/mcu/phastos"
   },
   {
-    "id": "mcuchar43",
+    "id": "mcuchar44",
     "title": "Makkari",
     "file": "MakkariMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/78/Makkari_infobox.jpg",
     "route": "/mcu/makkari"
   },
   {
-    "id": "mcuchar44",
+    "id": "mcuchar45",
     "title": "Druig",
     "file": "DruigMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6d/Druig_Character_Poster.jpg",
     "route": "/mcu/druig"
   },
   {
-    "id": "mcuchar45",
+    "id": "mcuchar46",
     "title": "Gilgamesh",
     "file": "GilgameshMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/07/Gilgamesh_Character_Poster.jpg",
     "route": "/mcu/gilgamesh"
+  },
+  {
+    "id": "mcuchar47",
+    "title": "Adam Warlock",
+    "file": "AdamWarlockMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/Adam_Warlock_Infobox.png",
+    "route": "/mcu/adam_warlock"
+  },
+  {
+    "id": "mcuchar48",
+    "title": "Wade Wilson",
+    "file": "WadeWilsonMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ad/Deadpool_Infobox.png",
+    "route": "/mcu/wade_wilson"
+  },
+  {
+    "id": "mcuchar49",
+    "title": "James Howlett",
+    "file": "JamesHowlettMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7c/Wolverine_Infobox.png",
+    "route": "/mcu/james_howlett"
+  },
+  {
+    "id": "mcuchar50",
+    "title": "Bob Reynolds",
+    "file": "BobReynoldsMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Sentry_Infobox.png",
+    "route": "/mcu/bob_reynolds"
+  },
+  {
+    "id": "mcuchar51",
+    "title": "Reed Richards",
+    "file": "ReedRichardsMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9f/Mister_Fantastic_Infobox.png",
+    "route": "/mcu/reed_richards"
+  },
+  {
+    "id": "mcuchar52",
+    "title": "Sue Storm",
+    "file": "SueStormMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/69/Invisible_Woman_Infobox.png",
+    "route": "/mcu/sue_storm"
+  },
+  {
+    "id": "mcuchar53",
+    "title": "Johnny Storm",
+    "file": "JohnnyStormMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b8/Human_Torch_Infobox.png",
+    "route": "/mcu/johnny_storm"
+  },
+  {
+    "id": "mcuchar54",
+    "title": "Ben Grimm",
+    "file": "BenGrimmMCU",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/Thing_Infobox.png",
+    "route": "/mcu/ben_grimm"
   }
 ]
