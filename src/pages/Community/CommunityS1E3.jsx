@@ -179,7 +179,7 @@ const CommunityS1E3 = () =>
               </li>
               <li>
                 <b>History lesson</b>:
-                <ul className="aritcle-list">
+                <ul className="aritcle-sublist">
                   <li>
                     Shirley fills in more details about why she's at Greendale when she reveals she was left by <Link>her husband</Link> who cheated on
                     her and now wants to get what's hers.
@@ -199,6 +199,31 @@ const CommunityS1E3 = () =>
                 "<Link to="/community/pascals_triangle_revisited"> Pascal's Triangle Revisited</Link>" based on the idea.
               </li>
             </ul>
+            <h4 className="article-heading-4" id="3.1.2">People</h4>
+              <ul className="article-list">
+                <li>
+                  <b>First appearance</b>:
+                  <ul className="article-sublist">
+                    <li>
+                      Professor <Link>Eustice Whitman</Link> debuts. He is the Accounting professor who is heavily inspired by the film Dead Poets
+                      Society. He next appears in the episode "<Link to="/community/debate_109">Debate 109</Link>".
+                    </li>
+                    <li>
+                      <Link>Gobi Nadir</Link> debuts. He is the father of Abed who runs a falafel restaurant. He next appears in the episode
+                      "<Link to="/community/basic_genealogy">Basic Genealogy</Link>".
+                    </li>
+                    <li>
+                      <Link>Stoner friend</Link> debuts. He is a coffee delivery guy who is also a buddy of <Link>Vaughn Miller</Link>. He next appears
+                      in the episode "<Link to="/community/social_psychology">Social Psychology</Link>".
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            <h4 className="article-heading-4" id="3.1.3">Places</h4>
+            <h4 className="article-heading-4" id="3.1.4">Things</h4>
+            <h3 className="article-heading-3" id="3.2">Running gags</h3>
+            <h3 className="article-heading-3" id="3.3">Pop culture references</h3>
+            <h3 className="article-heading-3" id="3.4">Meta references</h3>
           </div>
         </div>
         <div>
