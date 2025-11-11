@@ -97,6 +97,59 @@ const CommunityS1E3 = () =>
               cake from the <Link>Hot & Brown</Link> coffee shop. Meanwhile, in the <Link>student lounge</Link>, Pierce offers to teach Troy how to sneeze
               strongly and with intent. Elsewhere, Jeff concots a more elaborate scheme to impress Whitman.
             </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/a/ac/ITF_Whitman%27s_verdict.png" 
+                alt="Whitman's_verdict" 
+              />
+            </div>
+            <p>
+              Jeff lies in wait for Whitman to appear in the campus courtyard and launches his plan. Whitman witnesses the entire charade and gives it a
+              disapproving thumbs down. He tells Jeff to sincerely try to seize the day, or he will not only fail the class but life as well. Overhearing
+              their conversation as she approaches, Britta arrives and gets a flower from Whitman before he leaves. She asks Jeff to talk to Abed about
+              his behavior as she just learned he hasn't been attending the film class she paid for. She pleads with Jeff to talk to Abed since he
+              refuses to talk to her. It is then that they both notice Abed filming them for his documentary.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/f/f7/IF_Filming_Mom_and_Dad.png" 
+                alt="Filming_Mom_and_Dad" 
+              />
+            </div>
+           <p>
+              Later in the study room, Abed is treating the group to pizza using Britta's money. Britta again urgest Jeff to talk to him about his
+              recent be havior. When Jeff confronts Abed about cutting class, he replies that working on his movie project is much more important. When a
+              delivery man arrives with lattes, paid for by Britta's money, she immediately loses her cool. She starts to get hysterical and demands that
+              Abed explain himself. Abed refuses to give her any answers and instead suggests to her that this is the scene where she leaves. After Britta
+              leaves upset, Abed turns to Jeff for his reaction. He calls Abed weird before leaving as well.
+            </p>
+             <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/87/IF_Abeds_film.png" 
+                alt="Abed's_film" 
+              />
+            </div>
+            <p>
+              The following day, Jeff tricks both Britta and Abed's father to come to the study room. Abed is there as well, editing his movie on the computer.
+              Jeff gathered them all for a meeting to hopefully resolve the situation. However, Jeff's efforts are futile as things become heated again
+              between Britta and Abed's dad. Abed cuts through all the arguing with an announcment that his project is finished. He gets the other three to
+              sit down and watch his film "<Link>Six Candles</Link>". Britta and Jeff are unsure what they are watching and are surprised to see the movie
+              upsets Abed's father, who is crying. He tells Abed that he never blamed him for what happened to his marriage.
+            </p>
+             <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/d/d9/IF_JB_First_kiss.png" 
+                alt="JB_First_kiss" 
+              />
+            </div>
+            <p>
+              Abed's father turns to Britta and Jeff and says that if filmmaking is a way for Abed to express himself and be understood, then he will pay for
+              the classes. After he leaves, Britta realizes that Abed planned this all along and tells him it was a poor way to treat his friend but Abed is
+              unapologetic. Meanwhile, Pierce and Troy are walking behind Shirley, and Troy tests his new sneeze, leaving Shirley impressed. Later, outside the
+              <Link> library</Link>, Britta is bothered by the fact that she's now in Jeff's debt. She asks Jeff to kiss her, and he eagerly complies. When the
+              kiss ends, Professor Whitman shouts out his approval of Jeff seizing the day. Britta tells Jeff that they are now even and walks off. Whitman
+              further congratulates Jeff and tells him that the kiss just earned him a passing grade in his class.
+            </p>
           </div>
         </div>
         <div>
