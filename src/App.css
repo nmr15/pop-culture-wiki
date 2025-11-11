@@ -246,6 +246,11 @@ p
   padding: .5rem 0
 }
 
+.article-sublist
+{
+  margin-left: 1.5rem;
+}
+
 .character-card
 {
   width: 15rem !important;
