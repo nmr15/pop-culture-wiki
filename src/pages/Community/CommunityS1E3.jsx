@@ -318,6 +318,22 @@ const CommunityS1E3 = () =>
               </li>
             </ul>
             <h3 className="article-heading-3" id="3.4">Meta references</h3>
+            <ul className="article-list">
+              <li>
+                <b>IRL</b>: Gobi Nadir tells Jeff to go host the popular TV talent show American Idol, alluding to Ryan Seacrest who <Link>Joel
+                McHale</Link> has a real life friendly rivalry with.
+              </li>
+              <li>
+                <b>Parody</b>: A key scene in Dead Poets Society is re-enacted when Professor Whitman asks his studnets to stand on their desks which is
+                what John Keating requested his students do as well in the film. Unfortunately, it has less than desirable results.
+              </li>
+              <li>
+                <b>Résumé</b>: Jeff wears rainbow suspenders and says in a drawn out manner "Good morning, Professor Whitman" to prove to Whitman that
+                he's living in the moment. He then says "Shazbot!" when his attempt fails. These are all references to the actor/comedian Robin Williams's
+                past roles as Mork from the 1970s sitcom Mork and Mindy and the deejay from Good Morning, Vietnam. Williams also portrayed the teacher
+                John Keating in the film Dead Poets Society.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
