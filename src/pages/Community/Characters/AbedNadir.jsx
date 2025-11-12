@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import TableCommunity from '../../components/TableCommunity'
+import TableCommunity from '../../../components/TableCommunity'
 
 const AbedNadir = () =>
 {
