@@ -345,14 +345,26 @@ const CommunityS1E3 = () =>
                 src="https://static.wikia.nocookie.net/community-sitcom/images/6/68/Translation_error.jpeg" 
                 alt="Translation_error" 
               />
-              <p>
+            </div>
+            <p>
                 During the scene in the study room where Abed presents his short film to his father, Jeff, and Britta, there is an error when a
                 particular Arabic word is used. The word is "ليسار (alyasar)" which is a direct translation of "left" which literally means "the left",
                 as in the direction, not as in someone having just left a room. The closest translation of an Arabic word in this context would be
                 "أعتقد أن الشخص الخاطئ رحل ('aetaqid 'ana alshakhs alkhati' rahal)".
               </p>
-            </div>
             <h3 className="article-heading-3" id="4.2">The Bicentennial Man</h3>
+            <div className="img-right">
+               <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/4/40/The_Bicentennial_Man.jpg" 
+                alt="The Bicentennial Man" 
+              />
+            </div>
+            <p>
+              This episode has a Robin Williaams theme with various references to film and television roles he has played. Actor John Michael Higgins
+              portrays the character Professor Eustice Whitman who is inspired by Williams's role of John Keating from the 1989 film Dead Poets Society.
+              Higgins co-starred with the comedian in the 1999 film The Bicentennial Man. He portrayed the character Bill Feingold, the lawyer of
+              Williams's robot character Andrew.
+            </p>
             <h3 className="article-heading-3" id="4.3">Dead Poets Society</h3>
             <h3 className="article-heading-3" id="4.4">Karate Kid Club</h3>
           </div>
