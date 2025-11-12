@@ -89,8 +89,24 @@ const AdventureTime = () =>
         </div>
         <div className="div-top">
           <p>
-            Adventure Time is an American animated fantasy franchise created by <Link>Pendleton Ward</Link>, set in the post-apocalyptic Land
-            of Ooo.
+            Adventure Time is an American animated fantasy franchise created by <Link>Pendleton Ward</Link>, set in the post-apocalyptic <Link>Land
+            of Ooo</Link>. The franchise originated from a 2007 short produced by <Link>Fred Seibert</Link>'s animation incubator series Random!
+            Cartoons at Nickelodeon Animation and aired on Nicktoons Network. After the short became a viral hit on the Internet, Nickelodeon's executives
+            passed on its option before <Link>Cartoon Network</Link> commissioned a full-length series from Seibert and Ward, which premiered on
+            Cartoon Network on April 5, 2010, and ended on September 3, 2018. The series drew inspiration from a variety of sources, including the
+            fantasy role-playing game, Dungeons & Dragons and video games. Alongside the original television series, the characters of the show have been
+            featured in a variety of media, including two spin-offs, comic series, card games, and video games.
+          </p>
+          <p>
+            The original series centers on the coming of age of <Link>Finn the Human</Link> and his best friend and adoptive brother <Link>Jake the
+            Dog</Link>, a dog with the magical power to change size and shape at will, as they embark on a series of adventures, interacting with
+            <Link>Princess Bubblegum</Link>, the <Link>Ice King</Link>, <Link>Marceline the Vampire Queen</Link>, and several others. Different versions
+            of the characters inhabit other dimensions throughout the show's multiverse and their personal characteristics can vary from one reality from
+            one reality to another. The Adventure Time franchise has received widespread critical acclaim, winning several awards, including eight
+            Primetime Emmy Awards, a Peabody Award, three Annie Awards, two British Academy Children's Awards, a Motion Picture Sound Editors Award, and
+            a Karrang! Award. The series has also been nominated for three Critic's Choice Television Awards, two Annecy Festival Awards, a TCA Award,
+            and a Sundance Film Festival Award, among others. Of the many comic book series in the franchise, one received an Elsner Award and two Harvey
+            Awards.
           </p>
         </div>
         <div>
