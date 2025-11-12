@@ -469,6 +469,9 @@ const CommunityS1E3 = () =>
             </div>
           </div>
         </div>
+        <div>
+          <TableCommunity />
+        </div>
       </main>
     </>
   )
