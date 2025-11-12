@@ -99,8 +99,65 @@ const Simpsons = () =>
           <p>
             The Simpsons is an American animated comedy franchise whose eponymous family consists of <Link>Homer</Link>, <Link>Marge</Link>,
             <Link> Bart</Link>, <Link>Lisa</Link>, and <Link>Maggie</Link>. The Simpsons were created by cartoonist <Link>Matt Groening</Link> for
-            a series of <Link>animated shorts</Link> that debuted on The Tracey Ullman Show on <Link>Fox</Link> on April 19, 1987.
+            a series of <Link>animated shorts</Link> that debuted on The Tracey Ullman Show on <Link>Fox</Link> on April 19, 1987. After a three-season
+            run, the sketch was developed into <Link>The Simpsons</Link>, a half-hour prime time show that was an early hit for Fox, becoming the first
+            Fox series to land in the Top 30 ratings in a season (1989-1990). The popularity of The Simpsons had made it a billion-dollar merchandising
+            and media franchise. Alongside the television series, the characters of the show have been featured in a variety of media, including books,
+            comic books, a magazine, musical releases, and video games.
           </p>
+          <p>
+            <Link>The Simpsons Movie</Link>, a feature-length film, was released in 2007 and was the eighth highest-grossing film of that year. A variety
+            of merchandise, including T-shirts, DVDs, board games, and action figures have been released. The Simpsons merchandise has sold well,
+            generating $2 billion in revenue during the first 14 months of sales. In 2003, about 500 companies around the world were licensed to use The
+            Simpsons characters in their advertising. In 2008, $750 million worth of The Simpsons merchandise were purchased worldwide. Peter Byrnes, Fox
+            executive vice-president of licensing and merchandising, called The Simpsons "without doubt the biggest licensing entity that Fox has had,
+            full stop, I would say from either TV or film."
+          </p>
+          <p>
+            In 2002, the property was valued at $5 billion to $6 billion according to Fox.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Background</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Television</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Films</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Print publication</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Video games</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Theme park attractions</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Merchandise</h2>
+          <div>
+            
+          </div>
         </div>
       </main>
     </>
