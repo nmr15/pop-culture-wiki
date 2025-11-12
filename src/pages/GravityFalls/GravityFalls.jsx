@@ -67,10 +67,29 @@ const GravityFalls = () =>
           />
         </div>
         <div className="div-top">
-            <p>
-                Gravity Falls is an American animated mystery comedy television series created by <Link>Alex Hirsch</Link> for <Link>Disney Channel</Link> and
-                <Link> Disney XD</Link>.
-            </p>
+          <p>
+            Gravity Falls is an American animated mystery comedy television series created by <Link>Alex Hirsch</Link> for <Link>Disney Channel</Link>
+            and <Link> Disney XD</Link>. The series follows the adventures of <Link>Dipper Pines</Link> (<Link>Jason Ritter</Link>) and his twin sister
+            <Link> Mabel</Link> (<Link>Kristen Schaal</Link>), who are sent to spend the summer with their great-uncle (or "Grunkle") <Link>Stan</Link>
+            (Hirsch) in <Link>Gravity Falls</Link>, Oregon, a mysterious town rife with paranormal incidents and supernatural creatures. The kids help
+            Stan run the "<Link>Myster Shack</Link>", the tourist trap that he owns, while also investigating the local mysteries.
+          </p>
+          <p>
+            The series premiered on June 15, 2012, and run until February 15, 2016. On November 20, 2015, Hirsch announed that the series would conclude
+            with its second season, stating that this was "100% [his] choice" and that "the show isn't being cancelled, it's being finished" and was
+            reaching its intended conclusion. The series ended on February 15, 2016, with a one-hour finale,
+            "<Link to="/gravity_falls/weirdmageddon_3_take_back_the_falls">Weirdmageddon 3: Take Back the Falls</Link>". Hirsch later stated that he
+            remains open to continuing the series with additional episodes or specials, with the story continued in written form with the 2016 replica of
+            <Link>Journal 3</Link>, a 2018 graphic novel <Link>Gravity Falls: Lost Legends</Link> and the 2024 teen-oriented novel <Link>The Book
+            of Bill</Link>.
+          </p>
+          <p>
+            Gravity Falls received critical acclaim for its writing, characters, voice acting, animation, and humor. Additionally, the series won two
+            Emmy Awards, three Annie Awards, and a BAFTA Children's Award, among various other wins and nominations. Gravity Falls garnered high
+            viewership amongst children, teenagers, and young adults during its run and was Disney XD's highest-rated show in 2015 and early 2016, while
+            also setting several ratings records for the network. The series has attracted a broad and passionate fandom, is considered to be an
+            influence for many animated shows that followed it, and spawned a variety of official merchandise.
+          </p>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Premise</h2>
