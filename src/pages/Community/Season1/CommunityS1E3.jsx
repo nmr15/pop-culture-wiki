@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import Collapse from '../../components/Collapse'
+import Collapse from '../../../components/Collapse'
 
 const CommunityS1E3 = () =>
 {

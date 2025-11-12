@@ -6,9 +6,9 @@ import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
 import './App.css'
 import BadBeginning from "./pages/Asoue/BadBeginning"
-import CommunityS1E1 from "./pages/Community/CommunityS1E1"
-import CommunityS1E2 from "./pages/Community/CommunityS1E2"
-import CommunityS1E3 from "./pages/Community/CommunityS1E3"
+import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
+import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
+import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 
 const Wrapper = ({ children }) => {
