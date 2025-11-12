@@ -142,6 +142,19 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="1">Development history</h2>
           <div>
+            <p>
+              While the games in the series have had several narrative arcs, Ubisoft views the series as currently having three periods of development
+              and design philosophy. Until 2015's <Link to="/assassinscreed/assassins_creed_syndicate">Assassin's Creed Syndicate</Link>, the franchise
+              was structured around single-player content, and while centering on open world spaces and incorporating several role-playing elements,
+              were more action-adventure and stealth-oriented. Period two, covering from <Link to="/assassinscreed/assassins_creed_origins">Assassin's
+              Creed Origins</Link> to <Link to="/assassinscreed/assassins_creed_mirage">Assassin's Creed Mirage</Link>, brought in more role-playing
+              elements and live-service features to increase player engagement.
+            </p>
+            <p>
+              Period three launched with <Link to="/assassinscreed/assassins_creed_shadows">Assassin's Creed Shadows</Link>, using lessons from the
+              second perios of development to make engrossing single-player games similar to the original titles but with features to allow players to
+              share achievements and content with others through a new Animus Hub system that will be integrated with all future and some earlier games.
+            </p>
             <h3 className="article-heading-2" id="1.1">Period one</h3>
             <h3 className="article-heading-2" id="1.2">Period two</h3>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
