@@ -93,7 +93,16 @@ const GravityFalls = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Premise</h2>
-          <div></div>
+          <div>
+            <p>
+              For their summer vacation, 12-year-old twin siblings Dipper and Mabel Pines are dropped off from their home in Piedmont, California to the
+              fictional town of Gravity Falls, Oregon, to spend the summer with their great uncle ("Grunkle") Stan Pines, who runs a tourist trap called
+              the "Mystery Shack". Soon after they arrive in Gravity Falls, Dipper accidentally uncovers a mysterious journal that details many
+              different paranormal or mythical creatures that live in the town. With Wendy Corduroy, Mystery Shack;s cashier; Soos Ramirez, a friend of
+              Dipper and Mabel and handyman to Grunkle Stan; plus an assortment of other characters, Dipper and Mabel always have an intriguing day to
+              look forward to.
+            </p>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="2">Episodes</h2>
