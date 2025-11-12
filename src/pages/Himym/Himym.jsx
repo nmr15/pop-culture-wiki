@@ -96,7 +96,11 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Premise</h2>
-          <div></div>
+          <div>
+            The series follows the adventures of <Link>Ted Mosby</Link> (played by <Link>Josh Radnor</Link>) and his love life as a single man. His
+            stories are narrated by <Link>Bob Saget</Link> as Ted Mosby 25 years later, as he tells them to his adolescent children, Luke (named after
+            <Link>Luke Skywalker</Link>) and Penny (named after Ted's love for coins).
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Production</h2>
