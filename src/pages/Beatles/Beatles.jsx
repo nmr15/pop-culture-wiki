@@ -122,6 +122,14 @@ const Beatles = () =>
           <div>
             <h3 className="article-heading-3" id="1.1">1956-1963: Formation</h3>
             <h4 className="article-heading-4" id="1.1.1">The Quarrymen and name change</h4>
+            <p>
+              In November 1956, sixteen-year-old John Lennon formed a skiffle group with several friends from Quarry Bank High School in Liverpool. They
+              were called <Link>the Quarrymen</Link>, a reference to their school song "Quarry men old before our birth". Fifteen-year-old Paul
+              McCartney met Lennon on July 6, 1957 and joined as a rhythm guitarist shorly after. In February 1958, McCartney invited his friend George
+              Harrison, then aged fifteen, to watch the band. Harrison auditioned for Lennon, impressing him with his playing, but Lennon initially
+              thought Harrison was too young. After a month's persistence, during a second meeting (arranged by McCartney), Harrison performed the lead
+              guitar part of the instrumental song "Raunchy" on the upper deck of a Liverpool bus, and they enlisted him as lead guitarist.
+            </p>
             <h4 className="article-heading-4" id="1.1.2">Early residencies and UK popularity</h4>
             <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
