@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
-import TableCommunity from '../../components/TableCommunity'
+import TableCommunity from '../../../components/TableCommunity'
 
-const ShirleyBennett = () =>
+const JeffWinger = () =>
 {
     return(
         <>
@@ -15,7 +15,7 @@ const ShirleyBennett = () =>
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><Link to="/">Home</Link></li>
                         <li className="breadcrumb-item"><Link to="/community">Community</Link></li>
-                        <li class="breadcrumb-item active" aria-current="page">ShirleyBennett</li>
+                        <li class="breadcrumb-item active" aria-current="page">Jeff Winger</li>
                     </ol>
                 </nav>
                 <div>
@@ -27,5 +27,4 @@ const ShirleyBennett = () =>
 }
 
 
-export default ShirleyBennett;
-
+export default JeffWinger;
