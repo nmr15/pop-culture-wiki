@@ -78,9 +78,20 @@ const Himym = () =>
         </div>
         <div className="div-top">
           <p>
-            <b>How I Met Your Mother</b> is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005,
-            to March 31, 2014, follows main character <a href="#">Ted Mosby</a> and his group of friends in New York City's Manhattan. As a frame story, Ted (in 2030)
-            recounts to his daughter Penny and son Luke the events from September 2005 to May 2013 that led to him meeting <a href="#">their mother</a>.
+            How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005,
+            to March 31, 2014, follows main character <Link>Ted Mosby</Link> and his group of friends in New York City's Manhattan. As a frame story,
+            Ted (in 2030)recounts to his daughter Penny and son Luke the events from September 2005 to May 2013 that led to him meeting
+            <Link> their mother</Link>.
+          </p>
+          <p>
+            The series was loosely inspired by Thomas and Bays' friendship when they both lived in New York. The vast majority of the episodes (196 out of
+            208) were directed by Pamela Fryman. The other directors were Rob Greenberg (7 episodes), Michael Shea (4 episodes), and
+            <Link> Neil Patrick Harris</Link> (1 episode).
+          </p>
+          <p>
+            Known for its non-contemporary structure, humor, and incorporation of dramatic elements, How I Met Your Mother was popular throughout its run.
+            It received positive reviews initially, but reception became more mixed as the seasons went on. The show was nominated for 91 awards and
+            received 21.
           </p>
         </div>
         <div>
