@@ -339,7 +339,22 @@ const CommunityS1E3 = () =>
         <div>
           <h2 className="article-heading-2" id="4">Trivia</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="4.1">Translation error</h3>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/6/68/Translation_error.jpeg" 
+                alt="Translation_error" 
+              />
+              <p>
+                During the scene in the study room where Abed presents his short film to his father, Jeff, and Britta, there is an error when a
+                particular Arabic word is used. The word is "ليسار (alyasar)" which is a direct translation of "left" which literally means "the left",
+                as in the direction, not as in someone having just left a room. The closest translation of an Arabic word in this context would be
+                "أعتقد أن الشخص الخاطئ رحل ('aetaqid 'ana alshakhs alkhati' rahal)".
+              </p>
+            </div>
+            <h3 className="article-heading-3" id="4.2">The Bicentennial Man</h3>
+            <h3 className="article-heading-3" id="4.3">Dead Poets Society</h3>
+            <h3 className="article-heading-3" id="4.4">Karate Kid Club</h3>
           </div>
         </div>
         <div>
