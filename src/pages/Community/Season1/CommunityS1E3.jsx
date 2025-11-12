@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
+import TableCommunity from '../../../components/TableCommunity'
 
 const CommunityS1E3 = () =>
 {
@@ -367,13 +368,105 @@ const CommunityS1E3 = () =>
               Williams's robot character Andrew.
             </p>
             <h3 className="article-heading-3" id="4.3">Dead Poets Society</h3>
+            <div className="img-right">
+              <img
+                src="https://static.wikia.nocookie.net/community-sitcom/images/0/04/Dead_Poets_Society.jpg"
+                alt="Dead Poets Society"
+              />
+            </div>
+            <p>
+              Many aspects of Professor Whitman's class are direct references to the film Dead Poets Society. This includes his learning to walk and
+              standing on desks exercises, and his motto, Carpe Diem, latin for seize the day. Ironically, while Whitman's class is set in the sub-par
+              educational institute that is Greendale, Dead PoetsSociety features a prestigious New England boarding school.
+            </p>
             <h3 className="article-heading-3" id="4.4">Karate Kid Club</h3>
+            <ul className="article-list">
+              <li>
+                "Karate Kid Club" has a sign-up booth in the quad. The Karate Kid becomes a major plot point in
+                "<Link to="/community/queer_studies_and_advanced_waxing">Queer Studies & Advanced Waxing</Link>".
+              </li>
+            </ul>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Quotes</h2>
           <div>
-            
+            <div className="article-quote">
+              <p>
+                <i>
+                  "Isn't Abed's dad a hardcore Muslim? They're not as understanding as Christians. You could get your head cut off with a salami sword."
+                </i>
+                - <b>Shirley</b>
+              </p>
+              <p>
+                <i>
+                  "Shirley! That's the most racist thing I've ever heard!"
+                </i>
+                - <b>Annie</b>
+              </p>
+              <p>
+                <i>
+                  "Pierce will beat that in 1 minute."
+                </i>
+                - <b>Jeff</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>
+                  "I have to plan, in advance, how to prove that I live in the moment."
+                </i>
+                - <b>Jeff</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>
+                  "I'm interested in making movies. But my dad says all media's Western propaganda that negatively stereotypes Arabs."
+                </i>
+                - <b>Abed</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>"Raising him means letting him follow his dreams."</i>
+                - <b>Britta</b>
+              </p>
+              <p>
+                <i>"Dreams are for sleeping."</i>
+                - <b>Abed's Father</b>
+              </p>
+              <p>
+                <i>"Our first assignment is a documentary. They're like real movies but with ugly people."</i>
+                - <b>Abed</b>
+              </p>
+              <p>
+                <i>"You don't know that!"</i>
+                - <b>Britta</b>
+              </p>
+              <p>
+                <i>"It's clinically proven!"</i>
+                - <b>Abed's Father</b>
+              </p>
+              <p>
+                <i>"So's polio!"</i>
+                - <b>Britta</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>"Jeff, I think you should play the role of my father."</i>
+                - <b>Abed</b>
+              </p>
+              <p>
+                <i>"I don't want to be your father."</i>
+                - <b>Jeff</b>
+              </p>
+              <p>
+                <i>"Perfect, you already know your lines."</i>
+                - <b>Abed</b>
+              </p>
+            </div>
           </div>
         </div>
       </main>
