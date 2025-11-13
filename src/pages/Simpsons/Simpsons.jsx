@@ -86,7 +86,7 @@ const Simpsons = () =>
           <li>The Simpsons (franchise)</li>
         </ul>
         <div>
-          <h1 className="article-heading">The Simpsons</h1>
+          <h1 className="article-heading">The Simpsons (franchise)</h1>
         </div>
         <div className="img-right img-top">
           <img 
