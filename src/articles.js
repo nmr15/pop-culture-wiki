@@ -3,6 +3,7 @@ import { useLayoutEffect, Suspense, lazy } from "react"
 import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
+import { gfCharacters } from "./data/dataGravityFalls";
 import { gta } from "./data/dataGta";
 import { mcu, mcuMeta } from "./data/dataMcu";
 
@@ -20,6 +21,8 @@ export const routesCommunityChars = communitychars.map(char => ({
   path: char.route,
   Component: lazy(() => import(`./pages/Community/Characters/${char.file}.jsx`))
 }));
+
+
 
 export const routesGta = gta.map(gta => ({
   path: gta.route,
