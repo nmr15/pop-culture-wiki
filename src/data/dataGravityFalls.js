@@ -400,3 +400,13 @@ export const gfEpisodes = [
     "desc": "Ford discovers Bill’s true motives and then a final confrontation with Bill leads to the Pines family’s ultimate fate and greatest sacrifice."
   }
 ]
+
+export const gfCharacters = [
+  {
+    "id": "gfChar1",
+    "title": "Dipper Pines",
+    "file": "DipperPines"
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png",
+    "route": "/gravity_falls/dipper_pines"
+  }
+]
