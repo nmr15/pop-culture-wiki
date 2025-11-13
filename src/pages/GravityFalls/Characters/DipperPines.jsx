@@ -114,8 +114,31 @@ const DipperPines = () =>
               Mabel's date, however, he notices Norman's right hand falling off on camera, which Norman suspiciously attaches back on, making him fearful
               that Mabel could unknowingly be in danger.
             </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/gravityfalls/images/8/82/S1e1_dipper_opening_secret_compartment.png" 
+                alt="dipper_opening_secret_compartment" 
+              />
+            </div>
+            <p>
+              Using the <Link>Mystery Cart</Link> with the keys he obtained from the Mystery Shack's clerk, <Link>Wendy</Link>, Dipper quickly heads to
+              rescue Mabel, and, upon finding her, he realizes that Norman is actually made up of <Link>gnomes</Link> stacked on top of each other which
+              are residing in the forest, who planned to kidnap Mabel and force her to become their "queen". Dipper manages to subdue the creatures and
+              escape with Mabel, but they are pursued by a large monster made of hundreds of gnomes. The two end up crashing the Mystery Cart upon
+              arriving at the Shack and are concerned by the monster. The head gnome, <Link>Jeff</Link>, informs them that they will do "something crazy"
+              unless Mabel becomes their queen, and in response, Mabel agrees, much to Dipper's dismay. Shortly after accepting the gnomes' ring, she uses
+              the Mystery Shack leaf-blower to defeat the gnomes, impressing Dipper. With all the gnomes finally gone, the two make up and enter the Shack,
+              and in an act of newfound appreciation of the twins (disguised as having overstocked the Mystery Shack gift shop). Stan allows them each one
+              free gift, with Dipper choosing a new hat with a pine tree symbol on it to replace his old one, which was taken by a gnome, and Mabel
+              choosing a grappling hook. Before going to bed, he writes two new entries in the journal, one being that a gnome's weakness is a leaf blower,
+              and the other is a new page of the journal stating that while Journal 3 has told him to refuse trust from anyone in the town, he knows Mabel
+              will always have his back.
+            </p>
             <h3 className="article-heading-3" id="1.3">Adventures</h3>
             <h4 className="article-heading-4" id="1.3.1">Season 1</h4>
+            <p>
+              
+            </p>
             <h4 className="article-heading-4" id="1.3.2">Season 2</h4>
           </div>
         </div>
