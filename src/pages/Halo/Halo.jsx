@@ -25,6 +25,29 @@ const Halo = () =>
             className="article-heading-img"
           />
         </div>
+        <div className="div-top">
+          <p>
+            Halo is a military science fiction video game series and media franchise, originally developed by <Link>Bungie</Link> and currently managed
+            and developed by Halo Studios (previously 343 Indistries), part of Microsoft's Xbox Game Studios. The series launched in November 2001 with
+            the first-person shooter video game <Link>Halo: Combat Evolved</Link> and its tie-in novel, <Link>The Fall of Reach</Link>. The latest major
+            installment, <Link>Halo Infinite</Link>, was released in 2021. Spinoffs include real-time strategy and twin-stick shooter games.
+          </p>
+          <p>
+            Bungie began as a developer of computer games for the Macintosh platform, making games including Marathon 2: Durandal (1995). After the
+            company was acquired by Microsoft in 2000, their in-progress game, which started life as a real-time strategy game, became Halo: Combat
+            Evolved, a first-person shooter and exclusive launch title for Microsoft's Xbox video game console. Following the success of Halo, Bungie
+            developed additional Halo sequels before and after regaining the independence from Microsoft in 2007. Microsoft established 343 Industries
+            to oversee Halo going forward, producing games itself and in partnership with other studios. The developer was restructured and rebranded
+            as Halo Studios in 2024, in conjunction with producing new games that would shift the series away from being developed on proprietary game
+            technology, and towards being available on multiple platforms beyond Xbox and Windows going forward.
+          </p>
+          <p>
+            Halo: Combat Eveloved was the Xbox's flagship "killer app" and cemented Microsoft as a major competitor in the video game console space, and
+            its sequels pioneered online matchmaking, social features, and video game marketing. The games have sold more than 81 million copies
+            worldwide. With more than &6 billion in franchise sales, Halo is one of the highest-grossing media franchises of all time, spanning novels,
+            graphic novels, comic books, short films, animated films, feature films, fan-made short machinima animations and other licensed products.
+          </p>
+        </div>
       </main>
     </>
   )
