@@ -120,25 +120,31 @@ const Simpsons = () =>
         <div>
           <h2 className="article-heading-2" id="1">Background</h2>
           <div>
-
+            <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <h3 className="article-heading-3" id="1.2">Themes</h3>
+            <h3 className="article-heading-3" id="1.3">Main characters</h3>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Television</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="2.1">Shorts on the Tracey Ullman Show</h3>
+            <h3 className="article-heading-3" id="2.2">The Simpsons</h3>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Films</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="3.1">Feature films</h3>
+            <h3 className="article-heading-3" id="3.2">Theatrical short films</h3>
+            <h3 className="article-heading-3" id="3.3">In other media</h3>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Print publication</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="4.1">Books</h3>
+            <h3 className="article-heading-3" id="4.2">Comic books</h3>
           </div>
         </div>
         <div>
@@ -150,13 +156,19 @@ const Simpsons = () =>
         <div>
           <h2 className="article-heading-2" id="6">Theme park attractions</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="6.1">Universal Studios</h3>
+            <h3 className="article-heading-3" id="6.2">Broadway at the Beach</h3>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="7">Merchandise</h2>
           <div>
-            
+            <h3 className="article-heading-3" id="7.1">Home releases</h3>
+            <h3 className="article-heading-3" id="7.2">Music</h3>
+            <h3 className="article-heading-3" id="7.3">T-shirts</h3>
+            <h3 className="article-heading-3" id="7.4">Action figures</h3>
+            <h3 className="article-heading-3" id="7.5">Board and card games</h3>
+            <h3 className="article-heading-3" id="7.6">Other</h3>
           </div>
         </div>
       </main>
