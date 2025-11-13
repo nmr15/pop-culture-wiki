@@ -22,7 +22,7 @@ const Spongebob = () =>
             id="2"
             item="Television series"
             sub={[
-              {id: "2.1", title: "Spongebob Squarepants (1999-present)"},
+              {id: "2.1", title: "Spongebob SquarePants (1999-present)"},
               {id: "2.2", title: "Kamp Koral!: Spongebob's Under Years (2021-2024)"},
               {id: "2.3", title: "The Patrick Star Show (2021-present)"}
             ]}
@@ -184,24 +184,34 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="2">Television series</h2>
           <div>
-            <h3 className="article-heading-3" id="2.1">Spongebob Squarepants (1999-present)</h3>
-            <h3 className="article-heading-3" id="2.2">Kamp Koral!: Spongebob's Under Years (2021-2024)</h3>
+            <h3 className="article-heading-3" id="2.1"><Link>SpongeBob SquarePants</Link> (1999-present)</h3>
+            <p>
+              The series is set in the fictional underwater city of <Link>Bikini Bottom</Link>, and centers on the adventures and endeavors of
+              SpongeBob Squarepants, an over-optimistic sea sponge that annoys other characters.
+            </p>
+            <h3 className="article-heading-3" id="2.2">Kamp Koral!: SpongeBob's Under Years (2021-2024)</h3>
+            <p>
+              On February 14, 2019, it was announced that a SpongeBob SquarePants spin-off is in development. On June 4, it was announced the spin-off
+              will be titled Kamp Koral. The plot will focus on a 10-year old SpongeBob and his friends at the titular camp located in the Kelp Forest,
+              where they spend the summer catching jellyfish, building campfires, and swimming in Lake Yuckymuck. It serves as a tie-in to the animated
+              film <Link>The SpongeBob Movie: Sponge on the Run</Link>. It was confirmed production of the series began in June 2019.
+            </p>
             <h3 className="article-heading-3" id="2.3">The Patrick Star Show (2021-present)</h3>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Films</h2>
           <div>
-            <h3 className="article-heading-3" id="3.1">The Spongebob Squarepants Movie (2004)</h3>
-            <h3 className="article-heading-3" id="3.2">The Spongebob Movie: Sponge Out of Water (2015)</h3>
-            <h3 className="article-heading-3" id="3.3">The Spongebob Movie: Sponge on the Run (2020)</h3>
+            <h3 className="article-heading-3" id="3.1">The SpongeBob SquarePants Movie (2004)</h3>
+            <h3 className="article-heading-3" id="3.2">The SpongeBob Movie: Sponge Out of Water (2015)</h3>
+            <h3 className="article-heading-3" id="3.3">The SpongeBob Movie: Sponge on the Run (2020)</h3>
             <h3 className="article-heading-3" id="3.4">In development</h3>
-            <h4 className="article-heading-4" id="3.4.1">The Spongebob Movie: Search for Squarepants (2025)</h4>
+            <h4 className="article-heading-4" id="3.4.1">The SpongeBob Movie: Search for SquarePants (2025)</h4>
             <h3 className="article-heading-3" id="3.5">Spin-off films</h3>
             <h4 className="article-heading-4" id="3.5.1">Saving Bikini Bottom: The Sandy Cheeks Movie (2024)</h4>
             <h4 className="article-heading-4" id="3.5.2">Plankton: The Movie (2025)</h4>
             <h3 className="article-heading-3" id="3.6">Fans' short films</h3>
-            <h4 className="article-heading-4" id="3.6.1">Spongebob Squareshorts</h4>
+            <h4 className="article-heading-4" id="3.6.1">SpongeBob Squareshorts</h4>
           </div>
         </div>
         <div>
