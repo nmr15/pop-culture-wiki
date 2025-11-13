@@ -6,7 +6,7 @@ export const gfEpisodes = [
     "episode": 1,
     "file": "GFS1E1",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/a/a1/S1e1_Book_3_eyepiece_2.png",
-    "route": "/gravity_falls/tourist_trapped",
+    "route": "/gravityfalls/tourist_trapped",
     "desc": "Young twins Dipper and Mabel Pines arrive to spend their summer break with their Great Uncle Stan, aka Grunkle Stan, in the remote town of Gravity Falls."
   },
   {
@@ -16,7 +16,7 @@ export const gfEpisodes = [
     "episode": 2,
     "file": "GFS1E2",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/d/da/S1e2_dipper_pines_taking_picture.png",
-    "route": "/gravity_falls/the_legend_of_the_gobberwonkle",
+    "route": "/gravityfalls/the_legend_of_the_gobberwonkle",
     "desc": "When Dipper and Mabel hear rumors that a sea monster lives at the bottom of the local lake , they enlist Soos to take them on a boating expedition to prove it really does exist."
   },
   {
@@ -26,7 +26,7 @@ export const gfEpisodes = [
     "episode": 3,
     "file": "GFS1E3",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/8/8b/S1e3_dipper_holding_3.png/revision/latest?cb=20120704081627",
-    "route": "/gravity_falls/headhunters",
+    "route": "/gravityfalls/headhunters",
     "desc": "When someone tampers with Mabel's life-size wax statue, she and Dipper set out to find the culprit. Meanwhile, Grunkle Stan mourns over the loss of his wax doppelganger."
   },
   {
@@ -36,7 +36,7 @@ export const gfEpisodes = [
     "episode": 4,
     "file": "GFS1E4",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/d/de/S1e4_burning_picture.png",
-    "route": "/gravity_falls/the_hand_that_rocks_the_mabel",
+    "route": "/gravityfalls/the_hand_that_rocks_the_mabel",
     "desc": "When Grunkle Stan convinces Mabel to go on a date with their seemingly cherubic new neighbor, Gideon Gleeful, to question his authenticity as a psychic, she soon learns that his cuteness can immediately vanish."
   },
   {
@@ -46,7 +46,7 @@ export const gfEpisodes = [
     "episode": 5,
     "file": "GFS1E5",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/4/47/S1e5_behold_the_body_outlines_of_Ma_and_Pa.png",
-    "route": "/gravity_falls/the_inconveniencing",
+    "route": "/gravityfalls/the_inconveniencing",
     "desc": "When Dipper tries to impress Wendy by acting older than he really is, he's invited to join a group of teenagers on a trek that leads to an old abandoned convenience store rumored to be haunted."
   },
   {
@@ -56,7 +56,7 @@ export const gfEpisodes = [
     "episode": 6,
     "file": "GFS1E6",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/19/S1e6_dipper_spear.png",
-    "route": "/gravity_falls/dipper_vs_manliness",
+    "route": "/gravityfalls/dipper_vs_manliness",
     "desc": "In a quest to attain manliness, Dipper ventures into the forest to battle the notorious Multi-Bear. Meanwhile, Mabel tries to teach Grunkle Stan how to become an attractive man to women, particularly Lazy Susan."
   },
   {
@@ -66,7 +66,7 @@ export const gfEpisodes = [
     "episode": 7,
     "file": "GFS1E7",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/0c/S1e7_dipper_meets_tyrone.png",
-    "route": "/gravity_falls/double_dipper",
+    "route": "/gravityfalls/double_dipper",
     "desc": "When Stan throws a party, Dipper uses an off-kiltter copy machine to make clones of himself so he can impress Wendy. Meanwhile, Mabel stands up for her friends, and  she fights for the Party Queen title in their honor."
   },
   {
@@ -76,7 +76,7 @@ export const gfEpisodes = [
     "episode": 8,
     "file": "GFS1E8",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/c/cc/S1e8_dipper_mabel_hat.png",
-    "route": "/gravity_falls/irrational_treasure",
+    "route": "/gravityfalls/irrational_treasure",
     "desc": "When Dipper and Mabel discover evidence that the reported town dounder is a hoax, they set out to expose the historical cover-up and to prove that Mabel's silliness is not just an embarrassing personality trait."
   },
   {
@@ -86,7 +86,7 @@ export const gfEpisodes = [
     "episode": 9,
     "file": "GFS1E9",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/6/62/S1e9_the_gang_going_in_time.png",
-    "route": "/gravity_falls/the_time_travelers_pig",
+    "route": "/gravityfalls/the_time_travelers_pig",
     "desc": "When Dipper wishes he could go back in time and undo a mistake, he discovers that there is a real time machine for his upper advantages. Meanwhile, Mabel wins a pet pig, which she names Waddles, at the fair."
   },
   {
@@ -96,7 +96,7 @@ export const gfEpisodes = [
     "episode": 10,
     "file": "GFS1E10",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/1a/S1e10_dipper_and_rumble_face_to_face.png",
-    "route": "/gravity_falls/fight_fighters",
+    "route": "/gravityfalls/fight_fighters",
     "desc": "After being challenged to a video game battle by Wendy's boyfriend Robbie, Dipper is shocked when his favorite playable fighter, Rumble McSkirmish, comes to life to defend him. However, Dipper loses control over Rumble, and has to find a way to stop him."
   },
   {
@@ -106,7 +106,7 @@ export const gfEpisodes = [
     "episode": 11,
     "file": "GFS1E11",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/7/71/S1e11_tiny_twins.png",
-    "route": "/gravity_falls/little_dipper",
+    "route": "/gravityfalls/little_dipper",
     "desc": "Dipper feels self-conscious that Mabel is taller than him, and she is suddenly becoming the alpha twin. So, he seeks out a magical way to grow taller. However, his plan backfires tremendously."
   },
   {
@@ -116,7 +116,7 @@ export const gfEpisodes = [
     "episode": 12,
     "file": "GFS1E12",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/1d/S1e12_knock_knock.png",
-    "route": "/gravity_falls/summerween",
+    "route": "/gravityfalls/summerween",
     "desc": "It’s Gravity Falls’ version of Halloween in Summer with jack-o'-melons and lots of trick-or-treating. Dipper and Mabel are excited to join in on the fun, but when Wendy casually mentions that trick-or-treating is for kids, Dipper’s whole outlook on the evening changes. The night gets even more complicated when a monster that Dipper accidentally insulted makes them fulfill his candy quota by night’s end or else he will eat them. "
   },
   {
@@ -126,7 +126,7 @@ export const gfEpisodes = [
     "episode": 13,
     "file": "GFS1E13",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/6/6f/S1e13_Boss_Mabel.png",
-    "route": "/gravity_falls/boss_mabel",
+    "route": "/gravityfalls/boss_mabel",
     "desc": "Stan challenges Mabel to run the Shack when she questions his bossing methods."
   },
   {
@@ -136,7 +136,7 @@ export const gfEpisodes = [
     "episode": 14,
     "file": "GFS1E14",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/05/S1e14_falling_into_the_pit.png",
-    "route": "/gravity_falls/bottomless_pit",
+    "route": "/gravityfalls/bottomless_pit",
     "desc": "While Stan, Dipper, Mabel, and Soos are falling in a bottomless pit, they tell stories to pass the time."
   },
   {
@@ -146,7 +146,7 @@ export const gfEpisodes = [
     "episode": 15,
     "file": "GFS1E15",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/e/e5/S1e15_free_willy_ref.png",
-    "route": "/gravity_falls/the_deep_end",
+    "route": "/gravityfalls/the_deep_end",
     "desc": "When Mabel befriends a cute merman trapped in the public pool, she's determined to bust him out."
   },
   {
@@ -156,7 +156,7 @@ export const gfEpisodes = [
     "episode": 16,
     "file": "GFS1E16",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/4/44/S1e16_body_swapped.png",
-    "route": "/gravity_falls/carpet_diem",
+    "route": "/gravityfalls/carpet_diem",
     "desc": "The twins discover a hidden room inside the Mystery Shack, and they compete over who should have it."
   },
   {
@@ -166,7 +166,7 @@ export const gfEpisodes = [
     "episode": 17,
     "file": "GFS1E17",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/8/8f/S1e17_brain_bout_to_explode.png",
-    "route": "/gravity_falls/boyz_crazy",
+    "route": "/gravityfalls/boyz_crazy",
     "desc": "When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she wants to set them free. However, after Mabel becomes attached to all of the band members due to nurturing them, she is unwilling to set them free. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs."
   },
   {
@@ -176,7 +176,7 @@ export const gfEpisodes = [
     "episode": 18,
     "file": "GFS1E18",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/6/68/S1e18_what%27s_that.png",
-    "route": "/gravity_falls/land_before_swine",
+    "route": "/gravityfalls/land_before_swine",
     "desc": "When a prehistoric beast snatches Waddles, the Pines family must journey to a land trapped in time to rescue him."
   },
   {
@@ -186,7 +186,7 @@ export const gfEpisodes = [
     "episode": 19,
     "file": "GFS1E19",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/3e/S1e19_holy_heck_its_bill.png",
-    "route": "/gravity_falls/dreamscapers",
+    "route": "/gravityfalls/dreamscapers",
     "desc": "Dipper, Mabel and Soos must travel through Grunkle Stan’s mind to defeat a tricky dream demon summoned by Gideon Gleeful."
   },
   {
@@ -196,7 +196,7 @@ export const gfEpisodes = [
     "episode": 20,
     "file": "GFS1E20",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/5/53/S1e20_Ultimate_Gideon.png",
-    "route": "/gravity_falls/gideon_rises",
+    "route": "/gravityfalls/gideon_rises",
     "desc": "Pint-sized huckster Gideon Gleeful has swindled the Mystery Shack away, forcing Dipper, Mabel and Grunkle Stan to move in with dimwitted Soos and his grandmother. When Stan weighs whether he can still take care of his grandniece and grandnephew, Mabel and Dipper decide to take on Gideon."
   },
   {
@@ -206,7 +206,7 @@ export const gfEpisodes = [
     "episode": 21,
     "file": "GFS2E1",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/36/S2e1_attacked.png",
-    "route": "/gravity_falls/scary-oke",
+    "route": "/gravityfalls/scary-oke",
     "desc": "The Pines family begin resolving to get back to normal after the Li'l Gideon incident. They throw a “Mystery Shack Is Back” party, but some unwelcome guests intend to crash it."
   },
   {
@@ -216,7 +216,7 @@ export const gfEpisodes = [
     "episode": 22,
     "file": "GFS2E2",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/f/f9/S2e2_into_the_bunker.png",
-    "route": "/gravity_falls/into_the_bunker",
+    "route": "/gravityfalls/into_the_bunker",
     "desc": "Dipper’s secret journal pages lead him and the gang to the author’s hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls’ lore."
   },
   {
@@ -226,7 +226,7 @@ export const gfEpisodes = [
     "episode": 23,
     "file": "GFS2E3",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/2/21/S2e3_ominous_twins.png",
-    "route": "/gravity_falls/the_golf_war",
+    "route": "/gravityfalls/the_golf_war",
     "desc": "After being belittled by Pacifica one too many times, Mabel challenges her to a miniature golf-off which gets a tad out of control when some 'local residents' offer their help."
   },
   {
@@ -236,7 +236,7 @@ export const gfEpisodes = [
     "episode": 24,
     "file": "GFS2E4",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/e/e3/S2e4_sockopera.png",
-    "route": "/gravity_falls/sock_opera",
+    "route": "/gravityfalls/sock_opera",
     "desc": "Mabel decides to put on a sock puppet rock opera to impress a local puppeteer, but her show goes awry when Dipper’s drive to uncover journal secrets leads to a supernatural disaster."
   },
   {
@@ -246,7 +246,7 @@ export const gfEpisodes = [
     "episode": 25,
     "file": "GFS2E5",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/4/41/S2e5_All_her_love.png",
-    "route": "/gravity_falls/soos_and_the_real_girl",
+    "route": "/gravityfalls/soos_and_the_real_girl",
     "desc": "Soos needs a date for his cousin Reggie’s engagement party and looks to a dating simulator game to help him talk to girls."
   },
   {
@@ -256,7 +256,7 @@ export const gfEpisodes = [
     "episode": 26,
     "file": "GFS2E6",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/16/S2e6_bat_monstrosity.png",
-    "route": "/gravity_falls/little_gift_shop_of_horrors",
+    "route": "/gravityfalls/little_gift_shop_of_horrors",
     "desc": "In three separate mysterious tales, Stan is cursed by a Witch, Waddles accidentally eats a bowl of brain-enhancing jelly and builds a machine that allows him to speak for the first time, and Mabel faces her fear of Claymotion."
   },
   {
@@ -266,7 +266,7 @@ export const gfEpisodes = [
     "episode": 27,
     "file": "GFS2E7",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/e/ee/S2e7_hall_door.png",
-    "route": "/gravity_falls/society_of_the_blind_eye",
+    "route": "/gravityfalls/society_of_the_blind_eye",
     "desc": "The kids, along with Old Man McGucket's help, discover there is a secret society in Gravity Falls."
   },
   {
@@ -276,7 +276,7 @@ export const gfEpisodes = [
     "episode": 28,
     "file": "GFS2E8",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/c/c2/S2e8_twins_granny_and_soos.png",
-    "route": "/gravity_falls/blendins_game",
+    "route": "/gravityfalls/blendins_game",
     "desc": "Blendin Blandin returns to face off with Dipper and Mabel in a futuristic battle that could trap them forever in time jail."
   },
   {
@@ -286,7 +286,7 @@ export const gfEpisodes = [
     "episode": 29,
     "file": "GFS2E9",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/9/98/S2e9_mabel_the_love_god.png",
-    "route": "/gravity_falls/the_love_god",
+    "route": "/gravityfalls/the_love_god",
     "desc": "Mabel takes matchmaking too far when she steals a love potion from a real Love God."
   },
   {
@@ -296,7 +296,7 @@ export const gfEpisodes = [
     "episode": 30,
     "file": "GFS2E10",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/2/26/S2e10_attacked.png",
-    "route": "/gravity_falls/northwest_mansion_mystery",
+    "route": "/gravityfalls/northwest_mansion_mystery",
     "desc": "Pacifica enlists Dipper’s help to rid the Northwest Mansion of a ghost before he wreaks havoc on her fancy party."
   },
   {
@@ -306,7 +306,7 @@ export const gfEpisodes = [
     "episode": 31,
     "file": "GFS2E11",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/11/S2e11_stan_shadow.png",
-    "route": "/gravity_falls/not_what_he_seems",
+    "route": "/gravityfalls/not_what_he_seems",
     "desc": "After government agents take Stan into custody, Dipper and Mabel question how much they really know about their Grunkle Stan."
   },
   {
@@ -316,7 +316,7 @@ export const gfEpisodes = [
     "episode": 32,
     "file": "GFS2E12",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/a/ac/S2e12_original_mystery_twins.png",
-    "route": "/gravity_falls/a_tale_of_two_stans",
+    "route": "/gravityfalls/a_tale_of_two_stans",
     "desc": "Cornered underneath the Mystery Shack, Stan must finally reveal the secrets of his past and his mysterious portal to Dipper and Mabel."
   },
   {
@@ -326,7 +326,7 @@ export const gfEpisodes = [
     "episode": 33,
     "file": "GFS2E13",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/05/S2e13_fantasy_comes_to_life.png",
-    "route": "/gravity_falls/dungeons_dungeons_and_more_dungeons",
+    "route": "/gravityfalls/dungeons_dungeons_and_more_dungeons",
     "desc": "Dipper finds an unlikely friend to join him with his newest obsession, a board game called 'Dungeons, Dungeons & More Dungeons.'"
   },
   {
@@ -336,7 +336,7 @@ export const gfEpisodes = [
     "episode": 34,
     "file": "GFS2E14",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/d/da/S2e14_yes_we_stan.png",
-    "route": "/gravity_falls/the_stanchurian_candidate",
+    "route": "/gravityfalls/the_stanchurian_candidate",
     "desc": "When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate."
   },
   {
@@ -346,7 +346,7 @@ export const gfEpisodes = [
     "episode": 35,
     "file": "GFS2E15",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/5/5c/S2e15_crews_view.png",
-    "route": "/gravity_falls/the_last_mabelcorn",
+    "route": "/gravityfalls/the_last_mabelcorn",
     "desc": "A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher."
   },
   {
@@ -356,7 +356,7 @@ export const gfEpisodes = [
     "episode": 36,
     "file": "GFS2E16",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/2/2d/S2e16_Happy_to_be_back.png",
-    "route": "/gravity_falls/roadside_attraction",
+    "route": "/gravityfalls/roadside_attraction",
     "desc": "Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.["
   },
   {
@@ -366,7 +366,7 @@ export const gfEpisodes = [
     "episode": 37,
     "file": "GFS2E17",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/3a/S2e17_something_greater.jpg",
-    "route": "/gravity_falls/dipper_and_mabel_vs_the_future",
+    "route": "/gravityfalls/dipper_and_mabel_vs_the_future",
     "desc": "Mabel decides to plan for her and Dipper’s 13th birthday party. Meanwhile, Dipper ventures below the town to find its most shocking secret."
   },
   {
@@ -376,7 +376,7 @@ export const gfEpisodes = [
     "episode": 38,
     "file": "GFS2E18",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/1/13/S2e18_Bill_supreme.png",
-    "route": "/gravity_falls/weirdmageddon_1_xpcveaoqfoxso",
+    "route": "/gravityfalls/weirdmageddon_1_xpcveaoqfoxso",
     "desc": "Trapped in the apocalypse and menaced by villains new and old, Dipper finds himself in a race against time."
   },
   {
@@ -386,7 +386,7 @@ export const gfEpisodes = [
     "episode": 39,
     "file": "GFS2E19",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/e/ef/S2e19_mayor_mabel.jpg",
-    "route": "/gravity_falls/weirdmageddon_2_escape_from_reality",
+    "route": "/gravityfalls/weirdmageddon_2_escape_from_reality",
     "desc": "Dipper, Soos and Wendy must save Mabel from a strange new world, while Bill's forces plan their next move."
   },
   {
@@ -396,7 +396,7 @@ export const gfEpisodes = [
     "episode": 40,
     "file": "GFS2E20",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/37/S2e20_take_back_the_falls_flag.png",
-    "route": "/gravity_falls/weirdmageddon_3_take_back_the_falls",
+    "route": "/gravityfalls/weirdmageddon_3_take_back_the_falls",
     "desc": "Ford discovers Bill’s true motives and then a final confrontation with Bill leads to the Pines family’s ultimate fate and greatest sacrifice."
   }
 ]
@@ -407,6 +407,6 @@ export const gfCharacters = [
     "title": "Dipper Pines",
     "file": "DipperPines",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png",
-    "route": "/gravity_falls/dipper_pines"
+    "route": "/gravityfalls/dipper_pines"
   }
 ]
