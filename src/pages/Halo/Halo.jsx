@@ -7,7 +7,38 @@ const Halo = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Story</a></li>
+          <Collapse 
+            id="2"
+            item="Game series"
+            sub={[
+              {id: "2.1", title: "2001-2010: Bungie games"},
+              {id: "2.2", title: "2011-2021: 343 Industries games"},
+              {id: "2.3", title: "2024-present: Halo Studios games"},
+              {id: "2.4", title: "Spin-offs"},
+              {id: "2.5", title: "Defunct projects"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#3">Cultural influences and themes</a></li>
+          <li className="sidebar-list-item"><a href="#4">Esports</a></li>
+          <li className="sidebar-list-item"><a href="#5">Music</a></li>
+          <Collapse 
+            id="6"
+            item="Other media"
+            sub={[
+              {id: "6.1", title: "Books"},
+              {id: "6.2", title: "Comics"},
+              {id: "6.3", title: "Live-action", sub2: [
+                {id: "6.3.1", title: "Unproduced feature"},
+                {id: "6.3.2", title: "Halo 4: Forward Unto Dawn"},
+                {id: "6.3.3", title: "Halo: Nightfall"},
+                {id: "6.3.4", title: "Paramount+ television series"}
+              ]},
+              {id: "6.4", title: "Animation"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Legacy</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
