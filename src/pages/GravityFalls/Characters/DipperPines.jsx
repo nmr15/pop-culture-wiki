@@ -136,8 +136,21 @@ const DipperPines = () =>
             </p>
             <h3 className="article-heading-3" id="1.3">Adventures</h3>
             <h4 className="article-heading-4" id="1.3.1">Season 1</h4>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/gravityfalls/images/0/01/S1e2_mabel_soos_and_dipper_running.png" 
+                alt="mabel_soos_and_dipper_running" 
+              />
+            </div>
             <p>
-              
+              In the episode "<Link to="/gravityfalls/the_legend_of_the_gobblewonker">The Legend of the Gobblewonker</Link>," Dipper goes fishing with
+              Stan and Mabel as a family bonding day. When they hear that there is a lake monster in the vicinity known as the <Link>Gobblewonker</Link>,
+              Dipper and Mabel want to find it and get proof of its existence, and avoid having to spend 10 hours on a <Link>boat</Link> with Stan while
+              they're at it. Dipper wants to be the first to discover the beast so he can win prize money and appear on TV. They ditch Stan and go with
+              <Link>Soos</Link> to find it. Dipper brings 17 disposable cameras just in case they lose or break a camera. In the end, the Gobblewonker
+              turns out to just be a mechanical creature driven by <Link>Old Man McGucket</Link>, who is looking for attention. Because they felt bad
+              about leaving him, Dipper and Mabel spend the rest of their day with Stan to have their family bonding day. At the very end of the episode,
+              the camera pans into the water, revealing a real Gobblewonker swimming in the depths.
             </p>
             <h4 className="article-heading-4" id="1.3.2">Season 2</h4>
           </div>
