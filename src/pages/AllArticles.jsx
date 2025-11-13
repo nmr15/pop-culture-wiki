@@ -240,6 +240,15 @@ const AllArticles = () =>
         </div>
 
         <div className="allArticles-section">
+          <h3 className="article-heading-3" id="GravityFalls">Gravity Falls</h3>
+          <ul className="allArticles-list">
+            <li>
+              <Link to="/gravity_falls/dipper_pines">Dipper Pines</Link>
+            </li>
+          </ul>
+        </div>
+
+        <div className="allArticles-section">
             <h3 className="article-heading-3" id="Asoue">A Series of Unfortunate Events</h3>
             <ul className="allArticles-list">
             {asoue.map((asoue) => (
