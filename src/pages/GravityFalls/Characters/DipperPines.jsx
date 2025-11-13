@@ -70,6 +70,54 @@ const DipperPines = () =>
             <Link to="/gravityfalls/gravity_falls_forest">Gravity Falls Forest</Link>, he and Mabel work to seek out and uncover the town's mysterious
             secrets.
           </p>
+          <p>
+            Dipper represents the pine tree symbol associated with the <Link to="/gravityfalls/bill_cipher_zodiac">Bill Cipher Zodiac</Link>, as it is
+            present on his hat.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">History</h2>
+          <div>
+            <h3 className="article-heading-3" id="1.1">Early life</h3>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/gravityfalls/images/b/b1/S1e5_picture_of_dipper_in_lamb_costume.png" 
+                alt="picture_of_dipper_in_lamb_costume" 
+              />
+              <p>
+                Dipper was born on August 31, 1999. His family lives in <Link>Piedmont, California</Link>. At a young age, Dipper's <Link>mother</Link>
+                would dress him up in a lamb costume and have him perform his signature song and dance, the "<Link>Lamby Lamby Dance</Link>". He and Mabel
+                were raised secular, but celebrated all holidays at his sister's insistence. Since he was young, his favorite holiday has been Halloween,
+                of which his favorite part is trick-or-treating with Mabel. He is also known to have been teased about his birthmark by other children
+                until he started hiding it, which may be how he earned his nickname when he was no older than five. He also attended <Link>Eggbert
+                Elementary</Link> with his sister.
+              </p>
+            </div>
+            <h3 className="article-heading-3" id="1.2">Arrival in Gravity Falls</h3>
+            <p>
+              Sometime during the month of June. Dipper and his twin sister Mabel were sent north up the coast to the small town of Gravity Falls, Oregon,
+              to stay with their Great Uncle Stan (whom the twins call 'Grunkle Stan'). Stan runs a tourist trap named the <Link>Mystery Shack</Link> which
+              doubles as and was originally his house. While Mabel adjusts with ease, Dipper initially finds it difficult to get used to his new
+              surroundings.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/gravityfalls/images/e/ec/Opening_twins_arriving.png" 
+                alt="Opening_twins_arriving" 
+              />
+            </div>
+            <p>
+              One fateful day, Stan tasks Dipper to put up signs advertising the Mystery Shack in the "spooky part" of the Gravity Falls Forest, where he
+              discovers a jorunal written by an unknown and enigmatic author detailing the town's secrets and dangers. Dipper discloses his findings with
+              Mabel and consecutively meets her new boyfriend, <Link>Norman</Link>, who he begins to suspect is a zombie, based on the information in
+              Journal 3. Despite failing to find any incriminating evidence, Dipper confronts his sister on the theory, resulting in an argument. During
+              Mabel's date, however, he notices Norman's right hand falling off on camera, which Norman suspiciously attaches back on, making him fearful
+              that Mabel could unknowingly be in danger.
+            </p>
+            <h3 className="article-heading-3" id="1.3">Adventures</h3>
+            <h4 className="article-heading-4" id="1.3.1">Season 1</h4>
+            <h4 className="article-heading-4" id="1.3.2">Season 2</h4>
+          </div>
         </div>
       </main>
     </>
