@@ -405,7 +405,7 @@ export const gfCharacters = [
   {
     "id": "gfChar1",
     "title": "Dipper Pines",
-    "file": "DipperPines"
+    "file": "DipperPines",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png",
     "route": "/gravity_falls/dipper_pines"
   }
