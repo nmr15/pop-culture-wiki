@@ -297,7 +297,15 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="5">Comic books</h2>
           <div>
-
+            <p>
+              The 32-page bimonthly comic book series, SpongeBob Comics, was announced in November 2010 and debuted the following February. Before this,
+              SpongeBob SquarePants comics had been published in Nickelodeon Magazine, and episodes of the television series had been adapted by
+              Cine-Manga, but SpongeBob Comics was the first American comic book series developed solely to SpongeBob SquarePants. It also served as
+              SpongeBob SquarePants creator Stephen Hillenburg's debut as a comic book author. The series was published by Hillenburg's production
+              company, United Plankton Pictures, and distributed by Bongo Comics Group. Hillenburg described the stories from the comic books as
+              "original and always true to the humor, characters, and universe of the SpongeBob SquarePants series." Leading up to the release of the
+              series, Hillenburg said, "I'm hoping thta fans will enjoy finally having a SpongeBob comic book from me."
+            </p>
           </div>
         </div>
         <div>
