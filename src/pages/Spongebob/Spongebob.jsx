@@ -196,6 +196,12 @@ const Spongebob = () =>
               where they spend the summer catching jellyfish, building campfires, and swimming in Lake Yuckymuck. It serves as a tie-in to the animated
               film <Link>The SpongeBob Movie: Sponge on the Run</Link>. It was confirmed production of the series began in June 2019.
             </p>
+            <p>
+              Nickelodeon animation head Ramsey Naito said of the series, "SpongeBob has an incredible universe to expand upon and the greenlight for Kamp
+              Koral is a testament to the strength and longevity of these characters known and loved by generations of fans around the world." Like
+              SpongeBob SquarePants, the series is co-executive produced by Marc Ceccarelli, Jennie Monica, and Vincent Waller. Kamp Koral is produced
+              using computer animation rather than the digital ink and paint animation used for SpongeBob SquarePants.
+            </p>
             <h3 className="article-heading-3" id="2.3">The Patrick Star Show (2021-present)</h3>
           </div>
         </div>
