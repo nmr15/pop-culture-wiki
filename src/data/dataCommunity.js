@@ -1183,6 +1183,11 @@ export const communityEps = [
 ]
 
 export const communityS1 = communityEps.filter((s1) => s1.season == 1);
+export const communityS2 = communityEps.filter((s2) => s2.season == 2);
+export const communityS3 = communityEps.filter((s3) => s3.season == 3);
+export const communityS4 = communityEps.filter((s4) => s4.season == 4);
+export const communityS5 = communityEps.filter((s5) => s5.season == 5);
+export const communityS6 = communityEps.filter((s6) => s6.season == 6);
 
 // export const communitys1 = [
 //   {
