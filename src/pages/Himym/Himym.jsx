@@ -97,9 +97,15 @@ const Himym = () =>
         <div>
           <h2 className="article-heading-2" id="1">Premise</h2>
           <div>
-            The series follows the adventures of <Link>Ted Mosby</Link> (played by <Link>Josh Radnor</Link>) and his love life as a single man. His
-            stories are narrated by <Link>Bob Saget</Link> as Ted Mosby 25 years later, as he tells them to his adolescent children, Luke (named after
-            <Link>Luke Skywalker</Link>) and Penny (named after Ted's love for coins).
+            <p>
+              The series follows the adventures of <Link>Ted Mosby</Link> (played by <Link>Josh Radnor</Link>) and his love life as a single man. His
+              stories are narrated by <Link>Bob Saget</Link> as Ted Mosby 25 years later, as he tells them to his adolescent children, Luke (named after
+              <Link>Luke Skywalker</Link>) and Penny (named after Ted's love for coins).
+            </p>
+            <p>
+              The narrative leads to a flashback, and the story proper starts in 2005 with 27-year-old Ted Mosby living in New York City and working as
+              an architect. The story deals primarily with his best friends. These include the long-standing couple
+            </p>
           </div>
         </div>
         <div>
