@@ -322,7 +322,23 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="6">Music</h2>
           <div>
-
+            <p>
+              Collections of original music featured in the series have been released on the album SpongeBob SquarePants: Original Theme Highlights (2001),
+              SpongeBob's Greatest Hits (2009), and The Yellow Album (2005). The first two charted on the US Billoboard 200, reaching number 171 and 122,
+              respectively.
+            </p>
+            <p>
+              Several songs have been recorded for the purpose of a single or album release, and have not been featured on the show. The song "My Tidy
+              Whities" written by Tom Kenny and Andy Paley were released only on the album The Best Day Ever (2006). Kenny's inspiration for the song was
+              "underwear humor," saying: "Underwear humor is always a surefire laugh-getter with kids ...Just seeing a character that odd wearing really
+              prosaic, normal, Kmart, three-to-a-pack underwear is a funny drawing ...We thought it was funny to make a really lush, beatiful love song
+              to his underwar."
+            </p>
+            <p>
+              A soundtrack album The SpongeBob SquarePants Movie - Music from the Movie and More..., featured the film's score was released along with
+              the feature-length film in November 2004. Various artists including the Flaming Lips, Wilco, Ween, Motorhead, the Shins, and Avril Lavigne
+              contributed to the soundtrack that reached number 76 on the US Billboard 200.
+            </p>
           </div>
         </div>
         <div>
