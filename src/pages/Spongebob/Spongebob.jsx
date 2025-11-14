@@ -218,9 +218,27 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="3">Films</h2>
           <div>
-            <h3 className="article-heading-3" id="3.1">The SpongeBob SquarePants Movie (2004)</h3>
+            <h3 className="article-heading-3" id="3.1"><Link>The SpongeBob SquarePants Movie</Link> (2004)</h3>
+            <p>
+              In this live-action animated comedy, <Link>Plankton</Link>'s plan is to steal <Link>King Neptune</Link>'s crown and send it to the
+              dangerous Shell City, and then frame <Link>Mr. Krabs</Link> for the crime. SpongeBob and <Link>Patrick</Link> must journey to Shell City
+              while facing several perils along the way to retrieve the crown to save Mr. Krabs from Neptune's wrath and Bikini Bottom from Plankton's
+              tyranny.
+            </p>
             <h3 className="article-heading-3" id="3.2">The SpongeBob Movie: Sponge Out of Water (2015)</h3>
+            <p>
+              The plot follows a pirate named Burger Beard (Antonio Banderas), who steals the <Link>Krabby Patty</Link> secret formula using a magical
+              book that makes any text written upon it come true. After Bikini Bottom turns into an apocalyptic cesspool and the citizens turn against
+              SpongeBob, he must team up with Plankton to find the formula and save Bikini Bottom. Later, SpongeBob, Patrick, Squidward, Mr. Krabs,
+              Sandy, and Plankton must travel to the surface to confront Burger Beard and get the formula back before Bikini Bottom is completely
+              destroyed.
+            </p>
             <h3 className="article-heading-3" id="3.3">The SpongeBob Movie: Sponge on the Run (2020)</h3>
+            <p>
+              The film centers on SpongeBob and Patrick traveling to the underwater Atlantic City to save Gary from King Poseidon. During the adventure,
+              SpongeBob's friends reflect on them first meeting him at Kamp Koral. The film showcass stylized 3D animation, with most of the movie
+              presented in full CGI and some parts featuring 3D characters interacting with live-action environments, all animated by Mikros Animation.
+            </p>
             <h3 className="article-heading-3" id="3.4">In development</h3>
             <h4 className="article-heading-4" id="3.4.1">The SpongeBob Movie: Search for SquarePants (2025)</h4>
             <h3 className="article-heading-3" id="3.5">Spin-off films</h3>
