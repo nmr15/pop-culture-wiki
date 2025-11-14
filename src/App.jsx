@@ -9,6 +9,7 @@ import BadBeginning from "./pages/Asoue/BadBeginning"
 import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
 import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
+import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
 import Spiderman from "./pages/MarvelComics/Spiderman"
 
 const Wrapper = ({ children }) => {
@@ -51,6 +52,7 @@ function App() {
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
         <Route path="/community/intoduction_to_film" element={<CommunityS1E3 />} />
+        <Route path="/community/social_psychology" element={<CommunityS1E4 />} />
 
         {routesGta.map(({ path, Component }, index) => (
             <Route key={index} path={path} element={<Component />} />
