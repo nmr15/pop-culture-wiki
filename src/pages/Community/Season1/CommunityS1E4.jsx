@@ -80,6 +80,19 @@ const CommunityS1E4 = () =>
               sees Vaughn chatting to Britta at the <Link>coffee shop</Link>. He joins the rest of the study group at a table where
               <Link to="/community/pierce_hawthorne"> Pierce</Link> is showing off his hearing enhancing "<Link>Ear-Noculars</Link>".
             </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/2/24/SP_The_triangle.png" 
+                alt="The_triangle" 
+              />
+              <p>
+                Annie asks if any of them are interested in test subjects for Duncan's lab experiment. <Link to="/community/troy_barnes">Troy</Link> agrees but
+                Abed says he's going to attend a local screening of the Indiana Jones movies. Annie convinces him to reconsider in the name of friendship. A
+                jealous Jeff then goes to interrupt Britta and Vaughn's conversation. Later at Duncan's lab study, he explains to his students "The Duncan
+                Principle". When a subject has no control in a situation they eventually have an emotional eruption. Duncan plans to intentionally cause this by
+                having the volunters wait for the experiment to start.
+              </p>
+            </div>
           </div>
         </div>
       </main>
