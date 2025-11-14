@@ -241,8 +241,30 @@ const Spongebob = () =>
             </p>
             <h3 className="article-heading-3" id="3.4">In development</h3>
             <h4 className="article-heading-4" id="3.4.1">The SpongeBob Movie: Search for SquarePants (2025)</h4>
+             <p>
+              In August 2021, Nickelodeon CEO Brian Robbins, mentioned that "there's a new SpongeBob film in the works". A fourth film was officially
+              confirmed in February 2022, with a targeted theatrical release of the film. On November 10, 2022, it was announced that the film will
+              release in theaters on May 23, 2025. The film's title was revealed on April 27, 2023. In October 2023 this film's release date was pushed
+              back to December 19, 2025.
+            </p>
             <h3 className="article-heading-3" id="3.5">Spin-off films</h3>
+            <p>
+              In early March 2020, ViacomCBS announced that it would be producing two spin-off films based on the series for Paramount+. In February 2022,
+              it was revealed that these plans had been revised to three character spin-off films.
+            </p>
             <h4 className="article-heading-4" id="3.5.1">Saving Bikini Bottom: The Sandy Cheeks Movie (2024)</h4>
+            <p>
+              In May 2021, a spin-off Sandy Cheeks feature film was announced to be in development from Nickelodeon for streaming television, to be
+              directed by Liza Johnson from script written by Kaz and Tom J. Stern and described as a hybrid feature that will put the animated title
+              character into a live-action setting. On August 12, 2021, the title of the movie was revelaed as Saving Bikini Bottom.
+            </p>
+            <p>
+              On August 16, 2021, it was revealed that plans to film Saving Bikini Bottom in Los Alamos were scrapped due to rewrites of the script. In
+              February 2022, during the investors call, Nickelodeon CEO Brian Robbins said that they would be working on the three character driven
+              spin-off films would release them exclusively on its streamer Paramount+, with the first one premiering in 2023. In February 2023, Netflix
+              also picked up distribution rights for the film with a planned 2023 release. In April 2023, it was revealed that the film would instead be
+              released in 2024.
+            </p>
             <h4 className="article-heading-4" id="3.5.2">Plankton: The Movie (2025)</h4>
             <h3 className="article-heading-3" id="3.6">Fans' short films</h3>
             <h4 className="article-heading-4" id="3.6.1">SpongeBob Squareshorts</h4>
