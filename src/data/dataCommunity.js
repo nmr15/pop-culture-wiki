@@ -498,7 +498,7 @@ export const communityEps = [
     "file": "CommunityS2E17",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/4e/ITPS.png",
     "route": "/community/intro_to_political_science",
-    "desc": ""
+    "desc": "When the vice president comes to Greendale, Dean Pelton organizes a student body election, which Annie is determined to win against Leonard, Jeff, and Star Burns. Meanwhile, Abed becomes friends with a secret service agent (Eliza Coupe)."
   },
   {
     "id": "cmtys2e18",
@@ -508,7 +508,7 @@ export const communityEps = [
     "file": "CommunityS2E18",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/2c/It%27s_all_downhill_from_here.png",
     "route": "/community/custody_law_and_eastern_european_diplomacy",
-    "desc": ""
+    "desc": "The study group organizes a baby shower for Shirley, while she tries to keep Chang out of her life. Britta is interested in Abed and Troy's new friend, Lukka (Enver Gjokaj), who has a dark past. Jeff tries to get Chang out of his apartment by making him believe that having his own apartment and a job would convince Shirley to let him be in the baby’s life."
   },
   {
     "id": "cmtys2e19",
@@ -518,7 +518,7 @@ export const communityEps = [
     "file": "CommunityS2E19",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/1/1f/My_dinner_with_Abed_edited-1.png",
     "route": "/community/critical_film_studies",
-    "desc": ""
+    "desc": "For Abed's birthday, Jeff plans a Pulp Fiction inspired surprise party at a restaurant. Unbeknownst to the rest of the group, Abed invites Jeff to another restaurant for dinner based on the film My Dinner with Andre."
   },
   {
     "id": "cmtys2e20",
@@ -528,7 +528,7 @@ export const communityEps = [
     "file": "CommunityS2E20",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/c/c4/CWT.png",
     "route": "/community/comparative_wine_tasting",
-    "desc": ""
+    "desc": `The study group begins to choose their spring electives. Britta and Troy explore an acting class where Troy makes up a story about being molested as a child in order to fit in with the group which in turn makes Britta attracted to him, while Abed picks a course that studies the 1980s sitcom Who's the Boss? taught by Professor Sheffield (Stephen Tobolowsky) who has written a book on the subject. Meanwhile, Jeff and Pierce take a wine tasting class, where Pierce meets a mysterious Chinese woman named "Wu Mei" (Michelle Krusiec) who quickly becomes engaged to Pierce. Jeff gets suspicious of Wu Mei's actions and tries to figure out what is really going on.`
   },
   {
     "id": "cmtys2e21",
@@ -538,7 +538,7 @@ export const communityEps = [
     "file": "CommunityS2E21",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f5/POHM.png",
     "route": "/community/paradigms_of_human_memory",
-    "desc": ""
+    "desc": "As the study group assembles their 20th and final diorama for their anthropology class, they reminisce about their favorite moments over the past year (all never-before-seen flashbacks). However, while reminiscing, a secret year-long affair between Jeff and Britta comes to light which threatens to tear apart the group. Meanwhile, Troy's monkey reappears but disappears back into the ventilation system, leading Chang to try to get the monkey, as well as retrieve all their stolen loot."
   },
   {
     "id": "cmtys2e22",
@@ -548,7 +548,7 @@ export const communityEps = [
     "file": "CommunityS2E22",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/6f/Staing_into_the_abyss....png",
     "route": "community/applied_anthropology_and_culinary_arts",
-    "desc": ""
+    "desc": "Just as the study group is getting ready for their final Anthropology exam, Shirley goes into labor, leaving the group to figure out the best way to help. Meanwhile, Pierce buys the rights to Troy and Abed's special handshake, ruining it for them."
   },
   {
     "id": "cmtys2e23",
@@ -558,7 +558,7 @@ export const communityEps = [
     "file": "CommunityS2E23",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/2d/Pistol_Patty.png",
     "route": "community/a_fistfull_of_paintballs",
-    "desc": ""
+    "desc": "The Greendale campus celebrate their last day of school with a BBQ picnic. Dean Pelton announces plans for a new game of paintball, which has students forming alliances and friendships being tested. During the game, a mysterious man (Josh Holloway) emerges on campus."
   },
   {
     "id": "cmtys2e24",
@@ -568,7 +568,7 @@ export const communityEps = [
     "file": "CommunityS2E24",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/b5/FAFPBM_Troy_Platoon_pose.png",
     "route": "community/for_a_few_paintballs_more",
-    "desc": ""
+    "desc": "As the paintball game continues, it takes a dramatic turn with new participants entering the game. The study group realizes they must unite to defeat the enemy despite disagreements about strategy."
   },
   {
     "id": "cmtys3e1",
@@ -578,7 +578,7 @@ export const communityEps = [
     "file": "CommunityS3E1",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/05/B101_Ax.png",
     "route": "/community/biology_101",
-    "desc": ""
+    "desc": "The study group decides to take a biology class together, but Pierce who has rejoined the group faces problems when only six seats are available in the class. Jeff quickly makes enemies with their professor (Michael K. Williams) and is removed from the class. Pierce takes his place and Jeff realizes what it is like to be excluded. Dean Pelton, meanwhile, finds a new rival in Vice Dean Laybourne (John Goodman), the dean of the renowned Air Conditioning Repair Annex in the process of transforming Greendale’s management."
   },
   {
     "id": "cmtys3e2",
@@ -588,7 +588,7 @@ export const communityEps = [
     "file": "CommunityS3E2",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/aa/GOGC-Earth_2_is_visited_by_Earth_1.png",
     "route": "community/geography_of_global_conflict",
-    "desc": ""
+    "desc": "A Model UN competition introduces Annie to a new frenemy Annie Kim; Jeff and the rest of the group try to help her win and Annie has a big tantrum in the process. Britta goes head to head with Campus Security Officer Chang, as they both try to fulfill their own fantasies through foolish conflict. While Chang wants his job to be taken more seriously, Britta wants to be tough again."
   },
   {
     "id": "cmtys3e3",
@@ -598,7 +598,7 @@ export const communityEps = [
     "file": "CommunityS3E3",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/fa/3X4_Chang_fire.jpg",
     "route": "/community/comparative_ecology",
-    "desc": ""
+    "desc": "While the gang pairs off to build a terrarium, the seven group members have to include an outsider in order to make even pairs and the friendships are tested. Chang relishes his imaginary role as a noir detective and ends up causing a lot of damage."
   },
   {
     "id": "cmtys3e4",
@@ -608,7 +608,7 @@ export const communityEps = [
     "file": "CommunityS3E4",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/29/RCT-Norwegian_troll.png",
     "route": "/community/remedial_chaos_theory",
-    "desc": ""
+    "desc": "Troy and Abed's housewarming party turns into a surreal, post-modern world with parallel realities; each reality showing the effect on the study group of one character's absence from it (e.g. without Troy the group descend into chaos; without Jeff the group has fun)."
   },
   {
     "id": "cmtys3e5",
@@ -618,7 +618,7 @@ export const communityEps = [
     "file": "CommunityS3E5",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/97/Horror_Fiction_1.jpeg",
     "route": "/community/horror_fiction_in_seven_spooky_steps",
-    "desc": ""
+    "desc": "In order to determine the odd man out of the group (who, in this case, is apparently a sociopath), Britta conducts a search by having the gang tell scary stories."
   },
   {
     "id": "cmtys3e6",
@@ -628,7 +628,7 @@ export const communityEps = [
     "file": "CommunityS3E6",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f8/3x06-Gay_Bash.jpg",
     "route": "/community/advanced_gay",
-    "desc": ""
+    "desc": "Pierce is excited about a party he's throwing to celebrate his business success, but the affair becomes very different when his elderly father arrives."
   },
   {
     "id": "cmtys3e7",
@@ -638,7 +638,7 @@ export const communityEps = [
     "file": "CommunityS3E7",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/45/3X7_Puppet_show.jpg",
     "route": "/community/studies_in_modern_movement",
-    "desc": ""
+    "desc": "The group tries to help Annie move in with Troy and Abed but things go awry when she becomes frustrated by their lifestyle; Dean Pelton blackmails Jeff into spending the afternoon with him."
   },
   {
     "id": "cmtys3e8",
@@ -648,7 +648,7 @@ export const communityEps = [
     "file": "CommunityS3E8",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f4/Documentary_Filmmaking_Redux_Dean_Pelton.jpg",
     "route": "/community/documentary_filmmaking_redux",
-    "desc": ""
+    "desc": "Dean Pelton is asked by the school board to film a new commercial for Greendale; Abed films all the activities for a documentary."
   },
   {
     "id": "cmtys3e9",
@@ -658,7 +658,7 @@ export const communityEps = [
     "file": "CommunityS3E9",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/4e/3X9_Main_photo.jpg",
     "route": "/community/foosball_and_nocturnal_vigilantism",
-    "desc": ""
+    "desc": "Jeff and Shirley spend time together playing foosball. After Annie breaks Abed's special edition DVD of The Dark Knight, she covers it up by staging a robbery."
   },
   {
     "id": "cmtys3e10",
@@ -668,7 +668,7 @@ export const communityEps = [
     "file": "CommunityS3E110",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/8/8e/3x10_Opening_Christmas_pageant_number.jpeg",
     "route": "/community/regional_holiday_music",
-    "desc": ""
+    "desc": "Greendale's choir director (Taran Killam) asks the study group to fill in at the holiday pageant after the glee club is unable to attend."
   },
   {
     "id": "cmtys3e11",
@@ -678,7 +678,7 @@ export const communityEps = [
     "file": "CommunityS3E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a6/Hallie_Berry_1999.jpg",
     "route": "/community/urban_matrimony_and_the_sandwich_arts",
-    "desc": ""
+    "desc": `Andre re-proposes to Shirley. Britta and Annie quickly begin making arrangements for the wedding. Jeff must write a speech, and Troy and Abed attempt to become "normal" for the wedding. Pierce and Shirley try to get a sandwich shop installed in the cafeteria.`
   },
   {
     "id": "cmtys3e12",
@@ -688,7 +688,7 @@ export const communityEps = [
     "file": "CommunityS3E12",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/5/5a/CI_JEFF_SMASH.png",
     "route": "/community/contemporary_impressionists",
-    "desc": ""
+    "desc": "Jeff begins experiencing extreme narcissism. The group helps Abed get rid of debt by impersonating various celebrities at a bar mitzvah."
   },
   {
     "id": "cmtys3e13",
@@ -698,7 +698,7 @@ export const communityEps = [
     "file": "CommunityS3E13",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/48/DEOID_main_image.png",
     "route": "/community/digital_explorer_of_interior_design",
-    "desc": ""
+    "desc": "A new Subway shop opens in the cafeteria and Shirley, Pierce, and Britta attempt to shut it down. Vice Dean Laybourne returns to try to win Troy over. Troy and Abed build competing blanket/pillow forts."
   },
   {
     "id": "cmtys3e14",
@@ -708,7 +708,7 @@ export const communityEps = [
     "file": "CommunityS3E14",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/06/PAB_Former_best_friends.jpg",
     "route": "/community/pillows_and_blankets",
-    "desc": ""
+    "desc": "Presented in the style of Ken Burns' documentary, The Civil War: What starts as a casual disagreement over pillows and blankets soon blossoms into all-out war on the Greendale campus. While insults are hurled and the study group choose loyalties, Jeff tries to negotiate a truce, but with neither Abed nor Troy budging on their principles or real estate, the future looks grim for the duo's friendship."
   },
   {
     "id": "cmtys3e15",
@@ -718,7 +718,7 @@ export const communityEps = [
     "file": "CommunityS3E15",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/47/OOVM_You_are_a_lying_junkie.png",
     "route": "/community/origins_of_vampire_mythology",
-    "desc": ""
+    "desc": "The carnival comes into town and Britta enlists the help of the study group to keep her away from her ex. Vice Dean Laybourne and Dean Pelton band together to try to woo Troy to the Air Conditioning Repair Annex."
   },
   {
     "id": "cmtys3e16",
@@ -728,7 +728,7 @@ export const communityEps = [
     "file": "CommunityS3E16",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/00/VSA.png",
     "route": "/community/virtual_system_analysis",
-    "desc": ""
+    "desc": "When a final exam is postponed, Annie talks Abed into letting her spend some time in the dreamatorium, where an innocent simulation turns into an examination of the study group."
   },
   {
     "id": "cmtys3e17",
@@ -738,7 +738,7 @@ export const communityEps = [
     "file": "CommunityS3E17",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/d/d2/Law_and_order.png",
     "route": "/community/basic_lupine_urology",
-    "desc": ""
+    "desc": "In a homage to Law & Order, the study group investigate a crime when someone sabotages their biology experiment. When they discover the perp, Annie plans on prosecuting them to the fullest extent of Greendale's Code of Conduct."
   },
   {
     "id": "cmtys3e18",
@@ -748,7 +748,7 @@ export const communityEps = [
     "file": "CommunityS3E18",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f9/RIP_Starburns.png",
     "route": "/community/course_listing_unavailable",
-    "desc": ""
+    "desc": "Starburns suddenly dies and Britta insists on counseling the group using her skills from psychology class, despite nobody grieving him. This predictably fails and when the group finds out their biology credit is invalid, their attendance of their fallen classmate's wake quickly goes awry. Meanwhile Chang takes over campus and has the study group expelled."
   },
   {
     "id": "cmtys3e19",
@@ -758,7 +758,7 @@ export const communityEps = [
     "file": "CommunityS3E19",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/2c/CA_Asylum.png",
     "route": "/community/curriculum_unavailable",
-    "desc": ""
+    "desc": "When Abed becomes convinced that Dean Pelton has been replaced by an impostor, he is required to see a therapist (John Hodgman), who attempts to convince the group that they have been experiencing a shared psychosis and Greendale is actually a mental institution. This leads to the group to recall the stranger activities and events that took place at Greendale through a series of flashbacks."
   },
   {
     "id": "cmtys3e20",
@@ -768,7 +768,7 @@ export const communityEps = [
     "file": "CommunityS3E20",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/ee/Digital_Estate_Planning.png",
     "route": "/community/digital_estate_planning",
-    "desc": ""
+    "desc": "Pierce is summoned to Hawthorne Enterprises to discuss his inheritance with his deceased father's former right-hand man, Gilbert Lawson (Giancarlo Esposito). The study group goes with him for moral support and must all pitch in to play the video game of their life on Pierce's behalf – or risk losing his inheritance. Most of the episode is animated like a pixel-art video game."
   },
   {
     "id": "cmtys3e21",
@@ -778,7 +778,7 @@ export const communityEps = [
     "file": "CommunityS3E21",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/05/FCD_Changs_throwing_a_party.png",
     "route": "/community/the_first_chang_dynasty",
-    "desc": ""
+    "desc": "When Chang gains control of Greendale's campus, the study group forms a plot to take back the school. Troy seeks help at the Air Conditioning Repair Annex."
   },
   {
     "id": "cmtys3e22",
@@ -788,7 +788,7 @@ export const communityEps = [
     "file": "CommunityS3E2",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/d/de/Photo_%2880%29.png",
     "route": "/community/introduction_to_finality",
-    "desc": ""
+    "desc": "Jeff and Alan (Rob Corddry) battle in court as opposing counsel in Pierce and Shirley's sandwich shop case. Vice Dean Laybourne continues to win over Troy to the Air Conditioning Repair School."
   },
   {
     "id": "cmtys4e1",
@@ -798,7 +798,7 @@ export const communityEps = [
     "file": "CommunityS4E1",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/e1/History_101_main_photo.jpg",
     "route": "/community/history_101",
-    "desc": ""
+    "desc": `Jeff competes to earn the group places in the over-booked "History of Ice Cream" class, while Abed struggles with the inevitable end of their time at Greendale, causing him to enter a mental "happy place" which shows bizarre alternative versions of Greendale. Annie and Shirley pull pranks around the school.`
   },
   {
     "id": "cmtys4e2",
@@ -808,7 +808,7 @@ export const communityEps = [
     "file": "CommunityS4E2",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/7/7a/4X1Pierce_portrait.jpg",
     "route": "/community/paranormal_parentage",
-    "desc": ""
+    "desc": "After Pierce locks himself inside the panic room of his mansion, he calls on the study group to find the code that will unlock the room and let him out. The group searches the dark, scary mansion for the code, uncovering all sorts of secrets and oddities along the way."
   },
   {
     "id": "cmtys4e3",
@@ -818,7 +818,7 @@ export const communityEps = [
     "file": "CommunityS4E3",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/4a/4X3_Troy_and_Abed_fused_together.jpg",
     "route": "/community/conventions_of_space_and_time",
-    "desc": ""
+    "desc": `The study group attends InSpecTiCon, a convention for fans of Inspector Spacetime. Abed meets a fellow fan named Toby (guest star Matt Lucas), who causes a rift in Troy and Abed's friendship. Meanwhile, while Jeff is attracting a female Inspector Spacetime fan (Tricia Helfer), Annie creates an elaborate fantasy involving her and Jeff after the hotel staff begin calling her "Mrs. Winger". Pierce and Shirley join a focus group for an American remake of Inspector Spacetime.`
   },
   {
     "id": "cmtys4e4",
@@ -828,7 +828,7 @@ export const communityEps = [
     "file": "CommunityS4E4",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/97/4X4_Pierce_electrocuted.jpg",
     "route": "/community/alternative_history_of_the_german_invasion",
-    "desc": ""
+    "desc": `With the study group beginning their European History class, they are dismayed to learn that they will be sharing the class with the obnoxious German students that Jeff and Shirley dueled with over the foosball table the previous year. In addition, Chang returns to Greendale as "Kevin" suffering from amnesia (or "Changnesia"), which upsets Dean Pelton.`
   },
   {
     "id": "cmtys4e5",
@@ -838,7 +838,7 @@ export const communityEps = [
     "file": "CommunityS4E5",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a6/4X5_Bean_dip.jpg",
     "route": "/community/cooperative_escapism_in_familial_relations",
-    "desc": ""
+    "desc": "Jeff reunites with his father and meets his half brother. Shirley hosts a Thanksgiving gathering at her house with the study group, minus Britta, who has joined Jeff and his family. Abed narrates the group's time at Shirley's house in the style of The Shawshank Redemption."
   },
   {
     "id": "cmtys4e6",
@@ -848,7 +848,7 @@ export const communityEps = [
     "file": "CommunityS4E6",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/05/4X7_Changnesia.jpg",
     "route": "/community/advanced_documentary_filmmaking",
-    "desc": ""
+    "desc": `Abed films a documentary on Ben Chang's "Changnesia" in order to help Greendale secure a $40,000 grant from MacGuffin Neurological Institute. Jeff at first is against the idea, but then goes along with it publicly only to continue trying to find evidence that Chang is faking. Annie and Troy team up to find out that Chang had been working a trout farm for three months as unpaid labour. At the presentation to the institute Jeff shows footage of Chang calling and hanging up a number, which turns out to belong to Chang's wife, Alessandra. Upset at Chang's nonchalance at the reveal, Jeff kisses Alessandra in order to evoke a reaction from Chang, but still nothing. Seeing such skepticism, the institute decides to grant the money. The study group exiles Jeff for his dishonesty, but later forgives him.`
   },
   {
     "id": "cmtys4e7",
@@ -858,7 +858,7 @@ export const communityEps = [
     "file": "CommunityS4E7",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/4d/Archie_with_whale_bait.jpg",
     "route": "/community/economics_of_marine_biology",
-    "desc": ""
+    "desc": `Dean Pelton enlists Jeff, Britta, and Annie to help Greendale recruit a "whale", a lazy young man whose wealthy parents would be pouring money fruitlessly into his college education for a long profitable while. Annie and Britta are the welcoming committee on campus, while Jeff is tasked to keep Pierce occupied off-campus so that he doesn't show up and ruin the plan. Jeff is surprised to enjoy spending time with Pierce at an old-school barbershop, while Britta quits the whale effort and Annie is horrified when she realizes the lengths they're going to in order to reel in their target. Troy and Shirley enroll in a new "Physical Education Education" class where they are taught how to be P.E. teachers, where Shirley is a natural and Troy a complete failure, until they join forces to do a good turn for Chang. Abed starts a new fraternity, the Delta Cubes, in general defiance of the Dean's dislike for such groups.`
   },
   {
     "id": "cmtys4e8",
@@ -868,7 +868,7 @@ export const communityEps = [
     "file": "CommunityS4E8",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/1/19/4X8_Promo7.jpg",
     "route": "/community/herstory_of_dance",
-    "desc": ""
+    "desc": `To distract from Greendale's drinking fountains being removed by the CDC, Dean Pelton plans a "Sadie Hawkins" dance. Britta organizes a competing "Sophie B. Hawkins" dance in protest, confusing her with Susan B. Anthony. At the dance, Abed goes on two dates, set up by Annie and Shirley. But after he is found out, Abed realises that he enjoys spending time and has more in common with the coat check girl (Brie Larson) who aided in his night's mischief.`
   },
   {
     "id": "cmtys4e9",
