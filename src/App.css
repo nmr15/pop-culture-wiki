@@ -206,6 +206,11 @@ p
   clear: left;
 }
 
+.img-right img, .img-left img
+{
+  width: 250px;
+}
+
 .div-top
 {
   padding-top: 1rem;
