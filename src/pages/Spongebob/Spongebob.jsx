@@ -79,6 +79,12 @@ const Spongebob = () =>
           <h2 className="article-heading-2" id="1">Development</h2>
           <div>
             <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
+            <div className="img-left">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:Ocean_Institute,_aerial_shot,_cropped.png" 
+                alt="Ocean_Institute,_aerial_shot" 
+              />
+            </div>
             <p>
               Series' creator Stephen Hillenburg first became fascinated with the ocean as a child and began developing his artistic abilities at a young
               age. Although these interests would not overlap for some time, the idea of drawing fish seemed boring to him, Hillenburg pursued both
@@ -385,7 +391,14 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="9">Merchandise</h2>
           <div>
-
+            <p>
+              The popularity of SpongeBob SquarePants inspired merchandise from T-shirts to posters. It was reported that the franchise generated an
+              estimated $8 billion in merchandising revenue for Nickelodeon. It is also the most distributed property of ViacomCBS Domestic Media
+              Networks. SpongeBob is viewed in 170 countries speaking 24 languages, and has become "a killer merchandising app". The title character and
+              his firneds have been used as a theme for special editions of well-known family board games, including Monopoly, Life, and Operation, as
+              well as a SpongeBob SquarePants edition of Ants in the Pants, and Yahtzee. In April 2019, Nickelodeon released Masterpiece Memes, a series
+              of toys adapted from various SpongeBob internet memes.
+            </p>
           </div>
         </div>
       </main>
