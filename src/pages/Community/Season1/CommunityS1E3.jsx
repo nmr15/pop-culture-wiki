@@ -11,8 +11,30 @@ const CommunityS1E3 = () =>
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Plot</a></li>
           <li className="sidebar-list-item"><a href="#2">End tag</a></li>
-          <li className="sidebar-list-item"><a href="#3">Themes</a></li>
-          <li className="sidebar-list-item"><a href="#4">Trivia</a></li>
+          <Collapse 
+            id="3"
+            item="Recurring themes"
+            sub={[
+              {id: "3.1", title: "Continuity", sub2: [
+                {id: "3.1.1", title: "Narrative"},
+                {id: "3.1.2", title: "People"},
+                {id: "3.1.3", title: "Places"},
+                {id: "3.1.4", title: "Things"}
+              ]},
+              {id: "3.2", title: "Running gags"},
+              {id: "3.3", title: "Pop culture references"},
+              {id: "3.4", title: "Meta references"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Trivia"
+            sub={[
+              {id: "4.1", title: "Translation error"},
+              {id: "4.2", title: "The Bicentennial Man"},
+              {id: "4.3", title: "Dead Poets Society"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#5">Quotes</a></li>
         </ul>
       </aside>
