@@ -306,6 +306,17 @@ const Spongebob = () =>
               "original and always true to the humor, characters, and universe of the SpongeBob SquarePants series." Leading up to the release of the
               series, Hillenburg said, "I'm hoping thta fans will enjoy finally having a SpongeBob comic book from me."
             </p>
+            <p>
+              Chris Duffy, the former senior editor of Nickelodeon Magazine, serves as managing editor of SpongeBob Comics. Hillenburg and Duffy met with
+              various cartoonists, including James Kochalka, Hilary Barta, Graham Annable, Gregg Schigel, and Jacob Chabot, to contribute to each issue.
+              Retired horror comics writer and artist Stephen R. Bissette returned to write a special Halloween issue in 2012, with Tony Millionaire and
+              Al Jaffee. In an interview with Tom Spurgeon, Bissette said, "I've even broken my retirement to do one work-for-hire gig for SpongeBob
+              Comics so I could share everthing about that kind of current job."
+            </p>
+            <p>
+              In the United Kingdom, Ttian Magazine published comics based on SpongeBob SquarePants every four weeks from February 3, 2005, through
+              November 28, 2013. Titan Magazine also teamed up with Lego to release a limited edition SpongeBob-themed comic.
+            </p>
           </div>
         </div>
         <div>
