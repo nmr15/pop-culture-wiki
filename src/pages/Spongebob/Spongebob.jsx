@@ -202,6 +202,11 @@ const Spongebob = () =>
               SpongeBob SquarePants, the series is co-executive produced by Marc Ceccarelli, Jennie Monica, and Vincent Waller. Kamp Koral is produced
               using computer animation rather than the digital ink and paint animation used for SpongeBob SquarePants.
             </p>
+            <p>
+              On February 19, 2020, it was announced that the series had an official title of Kamp Koral: SpongeBob's Under Years, and would be premiering
+              in July 2020. On July 30, 2020, it was announced that that the series would be released on CBS All Access (now Paramount+), the ViacomCBS
+              streaming service, in early 2021. On January 28, 2021, it was announced that the series would premiere on March 4, 2021.
+            </p>
             <h3 className="article-heading-3" id="2.3">The Patrick Star Show (2021-present)</h3>
           </div>
         </div>
