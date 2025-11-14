@@ -81,8 +81,9 @@ const Spongebob = () =>
             <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
             <div className="img-left">
               <img 
-                src="https://en.wikipedia.org/wiki/File:Ocean_Institute,_aerial_shot,_cropped.png" 
-                alt="Ocean_Institute,_aerial_shot" 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ocean_Institute%2C_aerial_shot%2C_cropped.png/500px-Ocean_Institute%2C_aerial_shot%2C_cropped.png" 
+                alt="Ocean_Institute,_aerial_shot"
+                style={{width: "250px"}}
               />
             </div>
             <p>
@@ -361,7 +362,8 @@ const Spongebob = () =>
             <div className="img-right">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EF-Mall_of_America.jpg/500px-EF-Mall_of_America.jpg" 
-                alt="SpongeBob SquarePants 4D film" 
+                alt="SpongeBob SquarePants 4D film"
+                style={{width: "250px"}}
               />
             </div>
             <p>
