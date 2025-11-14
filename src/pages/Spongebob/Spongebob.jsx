@@ -344,13 +344,42 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="7">Theater</h2>
           <div>
-
+            SpongeBob SquarePants was adapted as a stage musical in 2016 by director Tina Landau. SpongeBob SquarePants, The Broadway Musical premiered
+            in Chicago in 2016 and opened on Broadway at the Palace Theatre on December 4, 2017. The musical opened to critical acclaim, and tied for
+            most-nominated production at the 2018 72nd Tony Awards with twelve Tony nominations.
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="8">Theme park rides</h2>
           <div>
-
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EF-Mall_of_America.jpg/500px-EF-Mall_of_America.jpg" 
+                alt="SpongeBob SquarePants 4D film" 
+              />
+            </div>
+            <p>
+              The SpongeBob SquarePants 4-D film and ride opened at several locations including Six Flags Over Texas, Flamingo Land Resort, and the
+              Shedd Aquarium. The ride features water squirts, real bubbles, and other sensory enhancements. In 2012, Nickelodeon teamed up again with
+              SimEx-Iwerks Entertainment and Super 78 to produce SpongeBob SquarePants 4-D: The Greate Jelly Rescue. The attraction opened in early 2013
+              at the Mystic Aquarium & Institute for Exploration. It was also installed at the Nickelodeon Suites Resort Orlando in Orlando, Florida.
+              The seven-minute film follows SpongeBob, Patrick, and Sandy rescuring the jellyfish of Jellyfish Fields from Plankton's evil clutches. On
+              May 23, 2015, an interactive 3D show titled SpongeBob SubPants Adventure opened in Texas at Moody Gardens. The show was replaced with a
+              generic "20,000 Leagues Under the Sea" re-theming in 2019. A dark ride shooter attraction titled SpongeBob's Crazy Carnival Ride opened at
+              the Circus Circus Resort in Las Vegas, Nevada in 2024.
+            </p>
+            <p>
+              A variety of SpongeBob SquarePants-related attractions are currently located within Nickelodeon-themed areas at Movie Park Germany, Pleasure
+              Beach Blackpool, Sea World American Dream Meadowlands, and Mall of America, which includes the SpongeBob SquarePants Rock Bottom Plunge
+              euro-flight roller coaster.
+            </p>
+            <p>
+              In 2024, Majaland Gdansk opened in Gdansk and as part of the extended cooperation with Nickelodeon, offers Nickelodeon Land, in which
+              offers rides inspired by SpongeBob. From April 2025, mascots of SpongeBob and Patrick appears in the remaining Majaland parks in Poland.
+            </p>
+            <p>
+              In 2026, Universal Kids Resort will include a themed land based on the franchise.
+            </p>
           </div>
         </div>
         <div>
