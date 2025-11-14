@@ -280,7 +280,18 @@ const Spongebob = () =>
         <div>
           <h2 className="article-heading-2" id="4">Video games</h2>
           <div>
-
+            <p>
+              Numerous video games based on the series have been produced. Some of the early games include: Legend of the Lost Spatula (2001), and
+              SpongeBob SquarePants: Battle for Bikini Bottom (2003). In 2013, Nickelodeon published and distributed SpongeBob Moves In!, a freemium
+              city-building game app developed by Kung Fu Factory for iOS and Android. On June 5, 2019, THQ Nordic announced SpongeBob SquarePants:
+              Battle for Bikini Bottom - Rehydrated, a full remake of the console versions of the original 2003 game. The game was released 1 year later
+              on June 23, 2020 and includes cut content from the original game. On May 28, 2020, a platform game developed by Old Skull Games named
+              SpongeBob SquarePants: Patty Pursuit was released by Nickelodeon on Apple devices through Apple Arcade. In 2021, EA Sports introduced a
+              SpongeBob-themed level to the Yard section of its Madden NFL 21 video game.
+            </p>
+            <p>
+              On September 17, 2021, THQ Nordic announced SpongeBob SquarePants: The Cosmic Shake, a new original game based on the franchise.
+            </p>
           </div>
         </div>
         <div>
