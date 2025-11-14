@@ -56,7 +56,31 @@ const CommunityS1E4 = () =>
           />
         </div>
         <div className="div-top">
-          
+          <p>
+            Social Psychology is the fourth episode of the first season of the American comedy television series <Link to="/community">Community</Link>. It
+            aired in the United States on NBC on October 8, 2009. The episode shows <Link to="/community/jeff_winger">Jeff</Link> bonding with
+            <Link to="/community/shirley_bennett"> Shirley</Link> through mockery of <Link to="/community/britta_perry">Britta</Link>'s new romantic
+            interest, <Link>Vaughn</Link>. <Link to="/community/annie_edison">Annie</Link> gets <Link to="/community/abed_nadir">Abed</Link> to participate
+            in a psychology experiment organized by <Link>Duncan</Link>. It received 4.87 million viewers in the United States and mixed critical reviews.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Plot</h2>
+          <div>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/84/SP_There%27s_the_awkward_pause.png" 
+                alt="the_awkward_pause" 
+              />
+            </div>
+            <p>
+              Jeff avoids walking to his next class with Shirley and accompanies Britta instead. He explains he can only stand Shirley's overly cheerful
+              personality in small doses. Along the way they pass a student named Vaughn who cordially greets Britta. In the <Link>cafeteria</Link>,
+              Annie joins Professor Duncan's psychology lab on the condition she brings him volunteers to participate. Meanwhile, Jeff is annoyed when he
+              sees Vaughn chatting to Britta at the <Link>coffee shop</Link>. He joins the rest of the study group at a table where
+              <Link to="/community/pierce_hawthorne"> Pierce</Link> is showing off his hearing enhancing "<Link>Ear-Noculars</Link>".
+            </p>
+          </div>
         </div>
       </main>
     </>
