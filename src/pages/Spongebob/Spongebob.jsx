@@ -268,6 +268,13 @@ const Spongebob = () =>
             <h4 className="article-heading-4" id="3.5.2">Plankton: The Movie (2025)</h4>
             <h3 className="article-heading-3" id="3.6">Fans' short films</h3>
             <h4 className="article-heading-4" id="3.6.1">SpongeBob Squareshorts</h4>
+            <p>
+              Nickelodeon launched the first global SpongeBob SquarePants-themed short film competition, SpongeBob SquareShorts: Original Fan Tribute,
+              in 2013. The contest encouraged fans and filmmakers around the world to create original short films inspired by SpongeBob for a chance to
+              win a prize and a trip for four people to a screening event in Hollywood. The contest opened on May 6 and ran through June 28, 2013. On
+              July 19, 2013, Nickelodeon announced the competition's finalists. On August 13, 2013, the under 18 years of age category was won by David
+              of the United States for his The Krabby Commercial, while the Finally Home short by Nichole of South Africa won the 18 and over category.
+            </p>
           </div>
         </div>
         <div>
