@@ -208,6 +208,11 @@ const Spongebob = () =>
               streaming service, in early 2021. On January 28, 2021, it was announced that the series would premiere on March 4, 2021.
             </p>
             <h3 className="article-heading-3" id="2.3">The Patrick Star Show (2021-present)</h3>
+            <p>
+              On August 10, 2020, it was reported that a Patrick Star talk show titled The Patrick Star Show was in development with a 13-episode order.
+              The show is similar to other talk shows such as The Larry Sanders Show and Comedy Bang! Bang!. The series premiered on Nickelodeon on July
+              9, 2021, with the series set to be available on Paramount+ later on.
+            </p>
           </div>
         </div>
         <div>
