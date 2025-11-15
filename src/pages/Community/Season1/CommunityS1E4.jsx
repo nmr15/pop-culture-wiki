@@ -120,6 +120,20 @@ const CommunityS1E4 = () =>
               which frustrates Duncan. A student named <Link>Garrett</Link> leaves feeling that Abed proved Duncan's theory wrong. The professor himself then
               has a meltdown and blames Annie for having ruined his experiment by bringing Abed.
             </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/8e/SP_Jeff_takes_a_photo_of_the_poem.png" 
+                alt="Jeff_takes_a_photo_of_the_poem" 
+              />
+            </div>
+            <p>
+              At the cafeteria, Shirley amuses Jeff by mocking Vaughn behind his back. Afterwards, Britta shows Jeff a poem Vaughn wrote for her which he
+              secretly takes a photo of. He later laughs at the poem alongside Shirley unaware that Pierce is eavesdropping with his Ear-Noculars. In
+              <Link> the study room</Link>, Annie angrily reveals to Troy and Abed the truth about the experiment. Abed explains internally he was
+              furious about the delays and only stayed because Annie said they were friends. Pierce arrives and denounces Jeff and Shirley having
+              completely misinterpreted their conversation. They reveal it was actually Vaughn's poem they were ridiculing which Shirley shows off to
+              everyone. Britta walks in with Vaughn who notices the poem and tearfully runs out of the room.
+            </p>
           </div>
         </div>
       </main>
