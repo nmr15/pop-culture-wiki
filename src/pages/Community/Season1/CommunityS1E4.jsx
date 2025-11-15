@@ -92,6 +92,20 @@ const CommunityS1E4 = () =>
                 Principle". When a subject has no control in a situation they eventually have an emotional eruption. Duncan plans to intentionally cause this by
                 having the volunters wait for the experiment to start.
               </p>
+              <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/8a/SP_Houston_we_have_an_idiot.png" 
+                alt="Houston_we_have_an_idiot" 
+              />
+            </div>
+            <p>
+              Duncan sends Annie to tell the volunteers about delay in the experiment which causes an explosive reaction from
+              <Link to="/community/ben_chang">Chang</Link>, who leaves. Meanwhile, Shirley and Jeff are walking together and actually start to bond when
+              they make fun of Pierce and Vaughn. Back at the experiment, only Troy and Abed remain as the rest of the test subjects reached their
+              breaking point. When Annie tells them of yet another delay, Troy finally loses it and leaves. Duncan theorizes that since Abed stayed the
+              longest this will cause the last test subject to have the biggest meltdown. On the campus quad, Jeff and Shirley catch Vaughn and Britta
+              making out.
+            </p>
             </div>
           </div>
         </div>
