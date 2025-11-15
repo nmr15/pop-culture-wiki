@@ -85,14 +85,15 @@ const CommunityS1E4 = () =>
                 src="https://static.wikia.nocookie.net/community-sitcom/images/2/24/SP_The_triangle.png" 
                 alt="The_triangle" 
               />
-              <p>
-                Annie asks if any of them are interested in test subjects for Duncan's lab experiment. <Link to="/community/troy_barnes">Troy</Link> agrees but
-                Abed says he's going to attend a local screening of the Indiana Jones movies. Annie convinces him to reconsider in the name of friendship. A
-                jealous Jeff then goes to interrupt Britta and Vaughn's conversation. Later at Duncan's lab study, he explains to his students "The Duncan
-                Principle". When a subject has no control in a situation they eventually have an emotional eruption. Duncan plans to intentionally cause this by
-                having the volunters wait for the experiment to start.
-              </p>
-              <div className="img-right">
+            </div>
+            <p>
+              Annie asks if any of them are interested in test subjects for Duncan's lab experiment. <Link to="/community/troy_barnes">Troy</Link> agrees but
+              Abed says he's going to attend a local screening of the Indiana Jones movies. Annie convinces him to reconsider in the name of friendship. A
+              jealous Jeff then goes to interrupt Britta and Vaughn's conversation. Later at Duncan's lab study, he explains to his students "The Duncan
+              Principle". When a subject has no control in a situation they eventually have an emotional eruption. Duncan plans to intentionally cause this by
+              having the volunters wait for the experiment to start.
+            </p>
+            <div className="img-right">
               <img 
                 src="https://static.wikia.nocookie.net/community-sitcom/images/8/8a/SP_Houston_we_have_an_idiot.png" 
                 alt="Houston_we_have_an_idiot" 
@@ -106,7 +107,19 @@ const CommunityS1E4 = () =>
               longest this will cause the last test subject to have the biggest meltdown. On the campus quad, Jeff and Shirley catch Vaughn and Britta
               making out.
             </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/1/10/SP_Troy_snaps.png" 
+                alt="Troy_snaps" 
+              />
             </div>
+            <p>
+              Later, Britta finds a devastated Jeff in the <Link>student lounge</Link>. She didn't tell him about Vaughn because she thought Jeff would mock
+              her him. Jeff promises he would never do that and Britta suggests the three of them all hang out together. The next day, Jeff keeps his word
+              and refuses to say anything bad about Vaughn with Shirley. Back at the lab study, Abed still hasn't had an emotional breakdown after 26 hours
+              which frustrates Duncan. A student named <Link>Garrett</Link> leaves feeling that Abed proved Duncan's theory wrong. The professor himself then
+              has a meltdown and blames Annie for having ruined his experiment by bringing Abed.
+            </p>
           </div>
         </div>
       </main>
