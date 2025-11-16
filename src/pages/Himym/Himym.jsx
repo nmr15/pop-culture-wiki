@@ -145,6 +145,42 @@ const Himym = () =>
               narration while watching the episode, or did so separately and rerecorded with the episode if necessary. He normally did not
               attend table readings but did so for the last episode.
             </p>
+            <p>
+              In multiple interviews Bays and Thomas have stated that "a pretty famous actress" turned down the role of Robin, who they
+              revealed in February 2014 was Jennifer Love Hewitt. They then cast the unknown Cobie Smulders; Bays and Thomas later said,
+              "Thank God we did for a million reasons... when Ted's seeing her for the first time, America's seeing her for the first time,
+              the intrigue of that propelled the show going forward and kep the show alive". Although Ted is initially smitten by Robin in the
+              <Link to="/himym/pilot"> pilot</Link>, it is quickly established at the end of the episode that she is not the mother, which
+              Thomas said was done so they would not repeat the "will they or won't they" Ross and Rachel storyline from Friends.
+            </p>
+            <p>
+              According to an Entertainment Weekly article, the writers adopted facets of each main actor's personality and incorporated them
+              into their characters. This includes Neil Patrick Harris' skills with magic, Jason Segel's passion for songwriting, Alyson
+              Hannigan's absent-mindedness while pregnant, and Josh Radnor's intellectualism.
+            </p>
+            <p>
+              MacLaren's, an Irish bar in the middle of New York City, in which a lot of the show is set, is loosely based on four of Bays and
+              Thomas's favorite bars: McGee's, a Midtown tavern near the Ed Sullivan Theater where the Late Show is taped; McHale's, a
+              legendary Hell's Kitchen bar which closed in 2006; Chumley's, a since-closed historic Greenwich Village pub; and Fez, another
+              closed bar on the Upper West Side. McGee's had a mural that Bays and Thomas both liked and wanted to incorporate into the show.
+              The name for the bar is from Carter Bays' assistant, Carl MacLaren; the bartender in the show is also named Carl.
+            </p>
+            <p>
+              Episodes were generally shot over a three-day period in the Los Angeles-based Soundstage Studio 22 and featured upwards of 50
+              scenes with quick transitions and flashbacks. However, the pilot episode was filmed at CBS Radford. The laugh track was later
+              created by recording an audience being shown the final edited episode. Thomas claimed that shooting before a live audience
+              would have been impossible because of the structure of the show and the numerous flashforwards in each episode and because
+              doing so "would blur the line between 'audience' and 'hostage situation'". Later seasons started filming in front of an
+              audience on occasion, when smaller sets were used.
+            </p>
+            <p>
+              The theme song is a portion of "Hey Beatiful" by The Solids, of which Bays and Thomas are members. Episodes from season 1
+              generally started with the opening credits. A cold opening has been used since season 2. Viewers then occasionally see Ted's
+              children on a couch and hear him talking to them, telling the story of how he met their mother. Alternatively, scenes from
+              previous episodes or shots of New York City are shown with Ted narrating over them. Thomas has stated that Future Ted is an
+              unreliable narrator, since he is trying to tell a story that happened over 20 years earlier, this has been a plot point in
+              several episodes including "<Link to="/himym/the_goat">The Goat</Link>", "<Link to="/himym/oh_honey">Oh Honey</Link>",
+            </p>
           </div>
         </div>
         <div>
