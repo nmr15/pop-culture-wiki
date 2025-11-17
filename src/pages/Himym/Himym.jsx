@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import TableHimym from '../../components/TableHimym'
 
 const Himym = () => 
 {
@@ -396,6 +397,9 @@ const Himym = () =>
         <div>
           <h2 className="article-heading-2" id="11">Home media</h2>
           <div></div>
+        </div>
+        <div>
+          <TableHimym />
         </div>
       </main>
     </>
