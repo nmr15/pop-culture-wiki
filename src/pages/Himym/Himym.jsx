@@ -392,14 +392,29 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="10">Awards and nominations</h2>
-          <div></div>
+          <div>
+            <p>
+              The show has been nominated for 72 awards, winning 18. The show has been nominated for 28 Emmy Awards, including a nomination for
+              Outstanding Comedy Series. Stars Alyson Hannigan and Neil Patrick Harris have each received acting accolades, with both winning People's
+              Choice Awards, and Harris receiving Emmy and Golden Globes nominations. In 2012, seven years after its premiere, the series won the
+              People's Choice for Favorite Network TV Comedy. The show's art direction, editing, and cinematography have also been awarded.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="11">Home media</h2>
-          <div></div>
-        </div>
-        <div>
-          <TableHimym />
+          <div>
+            <p>
+              Seasons 1 through 9 were available to stream on Netflix in Austria, Canada, Finland, France, Germany, Ireland, Italy, Latin America,
+              Lebanon, Turkey, Spain, Sweden, the Philippines, Romania, Russia, and the UK; season 9 was released on September 26, 2014. But they were
+              ultimately pulled and relocated to Disney+. Seasons 1-9 were removed from Netflix in the United States as of November 13, 2017 and are now
+              available on Hulu. As of March 2020, Seasons 1 through 9 are available on Amazon Prime Video in Brazil. Seasons 1 through 9 are available
+              to stream on Hotstar in India. As of December 31, 2020, seasons 1-9 are removed from Netflix in The Netherlands. Seasons 1 to 9 were
+              previously available on Netflix, Stan, and Star on Disney+ in Australia. However, Disney has pulled the show from both Stan and Netflix,
+              making Disney+ the only streaming service in Australia for the show. All nine seasons are available to stream on Hulu and Amazon Prime
+              Video in the US. Repeats in Australia are often shown on 7flix and on 7plus and are shown on Fox Comedy.
+            </p>
+          </div>
         </div>
       </main>
     </>
