@@ -9,7 +9,7 @@ const TableHimym = () =>
         <table className="table-center">
           <thead>
             <tr>
-              <th colSpan={2}>How I Met Your Mother</th>
+              <th colspan="2">How I Met Your Mother</th>
             </tr>
           </thead>
           <tbody>
