@@ -278,6 +278,32 @@ const Himym = () =>
                 children. He however, eventually switches from his corporate job, to his dream, environmental lawyer job, taking the pay cut willingly
                 to help protect the environment. By the end of the series, he has become a New York supreme court justice.
               </li>
+              <li>
+                <Link>Cobie Smulders</Link> as <Link>Robin Scherbatsky</Link>, a news anchor trying to make it as a journalist who dates both Ted and
+                Barney. Robin emigrated from Canada to take a job at a news station and met Ted at MacLaren's; her Canadian background is a source of
+                many jokes from her friends, for instance, 'Robin Sparkles' which was her stage name as a Candian teenage pop star. She is very
+                career-centric and rejects traditional roles, such as getting married and having kids. Robin often drinks scotch and smokes cigars, and
+                is an avid gun fan. She and Barney get engaged and maary in the penultimate episode of the series, but divorce in the first part of the
+                series finale, three years later. Smulder's husband <Link>Taran Killiam</Link> appears in six episodes as Gary Blauman.
+              </li>
+              <li>
+                <Link>Neil Patrick Harris</Link> as <Link>Barney Stinson</Link>, a serial playboy, using his relative wealth and an array of outrageous
+                strategies to seduce women with no intention of engaging in a relationship. His catchphrases include 'Suit Up' and 'Legen-wait-for-it-
+                Dary'. He is Ted's other best friend. Abandoned by his father at a young age, Barney has abandonment issues and clings to his friends.
+                He tells extravagant lies about everything in his life as a defense mechanism for his substandard childhood. He marries Robin in the
+                penultimate episode of the series but they divorce after three years in the two-part series finale. In 2020, a failed one-night stand
+                gives him a daughter, Ellie. Harris' husband David Burtka appeared in seven episodes as Scooter.
+              </li>
+              <li>
+                <Link>Alyson Hannigan</Link> as <Link>Lily Aldrin</Link>, a kindergarten teacher, aspiring artist, and Marshall's wife. She is terrible
+                at keeping secrets and can be manipulative at times. She marries Marshall in season 2 and gives birth to Marvin season 7. Though
+                appearing sweet and cute, Lily can be quite unexpectedly fierce. Her best girl friend is Robin, whom she met through Ted as he dated
+                Robin. Hannigan's husband Alexis Denisof appeared in ten episodes as Sandy Rivers.
+              </li>
+              <li>
+                <Link>Cristin Milioti</Link> as <Link>Tracy McConnell</Link>, the titular character who is Ted's future wife. She makes her first
+                official appearance in season 8, and gradually meets all the characters throughout season 9 leading up to her meeting Ted.
+              </li>
             </ul>
           </div>
         </div>
