@@ -376,6 +376,12 @@ const Himym = () =>
           <h2 className="article-heading-2" id="8">Tie-ins</h2>
           <div>
             <h3 className="article-heading-3" id="8.1">Books</h3>
+            <ul className="article-list">
+              <li>
+                The Bro Code, cited by Barney many times throughout the series, is a set of rules for bros to follow, and has been published as a tie-in
+                novel, an audiobook, an iPhone application and an Android application.
+              </li>
+            </ul>
             <h3 className="article-heading-3" id="8.2">Podcasts</h3>
             <h3 className="article-heading-3" id="8.3">Music Volume</h3>
             <h3 className="article-heading-3" id="8.4">Soundtracks</h3>
