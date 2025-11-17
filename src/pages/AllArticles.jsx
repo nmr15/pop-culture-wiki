@@ -4,6 +4,7 @@ import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
+import { HimymChar } from '../../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { asoue } from '../data/dataAsoue';
@@ -215,6 +216,20 @@ const AllArticles = () =>
                 ))}
                 </ul>
             </div>
+        </div>
+
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Himym" >How I Met Your Mother</h3>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+              {HimymChar.map((HimymChar) => (
+                <li key={HimymChar.id}>
+                  <Link to={HimymChar.route}>{HimymChar.title}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
 
         <div className="allArticles-section">
