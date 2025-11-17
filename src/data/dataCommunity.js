@@ -878,7 +878,7 @@ export const communityEps = [
     "file": "CommunityS4E9",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a8/4X9_Main_photo.jpg",
     "route": "/community/intro_to_felt_surrogacy",
-    "desc": ""
+    "desc": "After a traumatic balloon ride leaves them stuck in an awkward silence, Dean Pelton helps the group come to terms with events through the new technique of "puppet therapy". After Shirley admits to the terrible secret that her paranoia over Andre's fidelity put her kids in danger, the rest of the group ends up telling their own psychedelically-induced shameful disclosures (Jeff broke up with a terrific woman because she had a kid, Troy accidentally started a major forest fire, Annie let Professor Cornwallis rub her feet in order to get a better grade, Britta has never actually voted for anything but The Voice, and Pierce only made out once with Eartha Kitt and never slept with her, while Abed has no secrets beyond his earlier puppet-rendered comment that his father is "withholding"). This episode feature several musical numbers and the cast are animated with puppets."
   },
   {
     "id": "cmtys4e10",
@@ -888,7 +888,7 @@ export const communityEps = [
     "file": "CommunityS4E10",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/af/Community-season-4-episode-10-intro-to-knots-2.jpg",
     "route": "/community/intro_to_knots",
-    "desc": ""
+    "desc": "The study group holds a Christmas party at Jeff's apartment. Annie secretly invites Professor Cornwallis (Malcolm McDowell) in order to get on his good side so he will give them a good grade. At first thinking he was going to grade them with an F, Jeff is pleased to hear that they will get a C−. But after Cornwallis overhears Jeff arguing with Annie about Jeff's dislike for the professor, their grade drops to an F. The group hold Cornwallis hostage, not letting him go until he grades them with a C. Or, as Annie would like, an A in order to achieve valedictorian. After failing to have the group turn on each other, Cornwallis relents and gives the group a C+, confessing that he was willingly their hostage as he is otherwise alone during Christmas."
   },
   {
     "id": "cmtys4e11",
@@ -898,7 +898,7 @@ export const communityEps = [
     "file": "CommunityS4E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/4/40/4X11_Promopic8.jpg",
     "route": "/community/basic_human_anatomy",
-    "desc": ""
+    "desc": "Annie and Shirley are being somewhat snide to each other over the valedictorian race, but they are united in disgust that Leonard is currently #1 in the class, until they bust him for having taken just one letter-grade class since 1968. Troy and Abed re-enact a scene from the original Freaky Friday that leads them each to act like they've really switched bodies. Abed is pretending in order to support Troy who is avoiding dealing with his deteriorating relationship with Britta after they both forgot their one-year anniversary. Through dialogue with Britta and Jeff, Troy and Abed come to terms with painful truths and the need to stand up for what's right."
   },
   {
     "id": "cmtys4e12",
@@ -908,7 +908,7 @@ export const communityEps = [
     "file": "CommunityS4E12",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/04/4X12_Main_photo.jpg",
     "route": "/community/heroic_origins",
-    "desc": ""
+    "desc": "Abed pieces together the study group's past and reveals that their lives have always been intertwined. Chang attempts to destroy Greendale for good."
   },
   {
     "id": "cmtys4e13",
@@ -918,7 +918,7 @@ export const communityEps = [
     "file": "CommunityS4E13",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/64/Advanced_Introduction_to_Finality_main_photo.jpg",
     "route": "/community/advanced_introduction_to_finality",
-    "desc": ""
+    "desc": "Jeff now has enough credits to graduate and contemplates his future; the darkest timeline again comes into play."
   },
   {
     "id": "cmtys5e1",
