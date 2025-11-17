@@ -246,7 +246,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 2</h4>
             <ul className="allArticles-list">
               {himymS2.map((himymS2) => (
                 <li key={himymS2.id}>
@@ -256,7 +256,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 3</h4>
             <ul className="allArticles-list">
               {himymS3.map((himymS3) => (
                 <li key={himymS3.id}>
@@ -266,7 +266,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 4</h4>
             <ul className="allArticles-list">
               {himymS4.map((himymS4) => (
                 <li key={himymS4.id}>
@@ -276,7 +276,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 5</h4>
             <ul className="allArticles-list">
               {himymS5.map((himymS5) => (
                 <li key={himymS5.id}>
@@ -286,7 +286,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 6</h4>
             <ul className="allArticles-list">
               {himymS6.map((himymS6) => (
                 <li key={himymS6.id}>
@@ -296,7 +296,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 7</h4>
             <ul className="allArticles-list">
               {himymS7.map((himymS7) => (
                 <li key={himymS7.id}>
@@ -306,7 +306,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 8</h4>
             <ul className="allArticles-list">
               {himymS8.map((himymS8) => (
                 <li key={himymS8.id}>
@@ -316,7 +316,7 @@ const AllArticles = () =>
             </ul>
           </div>
           <div>
-            <h4 className="article-heading-4">Season 1</h4>
+            <h4 className="article-heading-4">Season 9</h4>
             <ul className="allArticles-list">
               {himymS9.map((himymS9) => (
                 <li key={himymS9.id}>
@@ -374,75 +374,6 @@ const AllArticles = () =>
         </div>
 
         {/* NON-MCU SPIDER-MAN MOVIES */}
-        <div className="allArticles-section">
-          <h3 className="article-heading-3" id="SpidermanFilms">Non-MCU Spider-Man films</h3>
-          <ul className="allArticles-list">
-            {spidermanFilms.map((spFilm) => (
-              <li key={spFilm.id}>
-                <Link to={spFilm.route}>{spFilm.title}</Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </main>
-    </>
-  )
-}
-
-export default AllArticles;
-            <h4 className="article-heading-4">Season 1</h4>
-            <ul className="allArticles-list">
-              {himymS1.map((himymS1) => (
-                <li key={himymS1.id}>
-                  <Link to={himymS1.route}>{himymS1.title}</Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-
-        <div className="allArticles-section">
-            <h3 className="article-heading-3" id="Gta">Grand Theft Auto</h3>
-            <ul className="allArticles-list">
-            {gta.map((gta) => (
-                <li key={gta.id}>
-                <Link to={gta.route}>{gta.title}</Link>
-                </li>
-            ))}
-            </ul>
-        </div>
-
-        <div className="allArticles-section">
-            <h3 className="article-heading-3" id="AssassinsCreed">Assassin's Creed</h3>
-            <ul className="allArticles-list">
-            {assassinscreed.map((ac) => (
-                <li key={ac.id}>
-                <Link to={ac.route}>{ac.title}</Link>
-                </li>
-            ))}
-            </ul>
-        </div>
-
-        <div className="allArticles-section">
-          <h3 className="article-heading-3" id="GravityFalls">Gravity Falls</h3>
-          <ul className="allArticles-list">
-            <li>
-              <Link to="/gravity_falls/dipper_pines">Dipper Pines</Link>
-            </li>
-          </ul>
-        </div>
-
-        <div className="allArticles-section">
-            <h3 className="article-heading-3" id="Asoue">A Series of Unfortunate Events</h3>
-            <ul className="allArticles-list">
-            {asoue.map((asoue) => (
-                <li key={asoue.id}>
-                <Link to={asoue.route}>{asoue.title}</Link>
-                </li>
-            ))}
-            </ul>
-        </div>
-
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="SpidermanFilms">Non-MCU Spider-Man films</h3>
           <ul className="allArticles-list">
