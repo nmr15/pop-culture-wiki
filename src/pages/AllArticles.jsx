@@ -4,7 +4,7 @@ import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
-import { HimymChar } from '../data/dataHimym';
+import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { asoue } from '../data/dataAsoue';
@@ -226,6 +226,16 @@ const AllArticles = () =>
               {HimymChar.map((HimymChar) => (
                 <li key={HimymChar.id}>
                   <Link to={HimymChar.route}>{HimymChar.title}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h4 className="article-heading-4">Season 1</h4>
+            <ul className="allArticles-list">
+              {himymS1.map((himymS1) => (
+                <li key={himymS1.id}>
+                  <Link to={himymS1.route}>{himymS1.title}</Link>
                 </li>
               ))}
             </ul>
