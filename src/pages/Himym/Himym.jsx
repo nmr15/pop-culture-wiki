@@ -388,7 +388,19 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="9">Nielsen ratings</h2>
-          <div></div>
+          <div>
+            <p>
+              The show's highest viewed episode was the series finale, "<Link to="/himym/last_forever">Last Forever</Link>", watched by 13.13 million
+              viewers. Previously, the most viewed episode was the season 1 episode "<Link to="/himym/the_pineapple_incident">The Pineapple
+              Incident</Link>", watched by 12.3 million viewers. The lowest viewed episode was the season 6 episode
+              "<Link to="/himym/landmarks">Landmarks</Link>", watched by 6.4 million viewers, approximately 52% of the show's previous series high, and
+              approximately 49% of the show's finale viewership.
+            </p>
+            <p>
+              Season 9 was the highest watched season overall and among the 18-49 adults, scoring a 4.5 rating in that sector up from the second-highest
+              rating of 4.1 in season seven.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="10">Awards and nominations</h2>
