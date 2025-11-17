@@ -245,11 +245,32 @@ const Himym = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="3">Syndication</h2>
-          <div></div>
+          <div>
+            <p>
+              How I Met Your Mother aired on Nick at Nite from September 8, 2014 to December 27, 2015, and TV Land from June 29, 2015 to 2018. It also
+              aired on FX from September 5, 2011 to 2019, and Lifetime from 2009 to 2018.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="4">Cast and characters</h2>
-          <div></div>
+          <div>
+            <ul className="article-list">
+              <li>
+                <Link>Josh Radnor</Link> as <Link>Ted Mosby</Link>, an architect, college professor, and the central character of the series. He tells the
+                story of his adult years from his late twenties to his mid thirties, and all the obstacles he overcomes before he meets "The One" (the
+                Mother). This story is stold by the Older Ted Mosby, and narrator of the series, Bob Saget. Ted moved to New York City with his friends
+                Marshall and Lily after graduating from Wesleyan University. In New York, he met Barney (at the urinal of MacLaren's) and Robin, to whom
+                he was imeediately attracted. Ted is on a quest for happiness and "The One", the woman he will marry. He has many relationships, one with
+                Robin, that reveal the qualities he wants in his future wife. At the end of each relationship, with levity, he reflects on what went
+                wrong. Although hope to find "the one" diminishes with each failed relationship, Ted does not give up. He has more elegant and
+                higher-class interests than his friends. He goes to great lengths to profess his love to the women in his life, but they all falter
+                eventually. Despite these qualities, Ted often acts immature, such as in wild activities with Barney. In the series finale, he says that,
+                in Tracy, he had met the love of his life (the titular Mother), but only after he is finished telling the story does he accept that he is
+                ready to move on and admit he is still in love with Robin.
+              </li>
+            </ul>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Season synopses</h2>
