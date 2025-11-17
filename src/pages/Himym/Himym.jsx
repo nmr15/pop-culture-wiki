@@ -311,6 +311,22 @@ const Himym = () =>
           <h2 className="article-heading-2" id="5">Season synopses</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Season 1</h3>
+            <p>
+              In 2030, Ted Mosby (voiced by Bob Saget) sits his children down to tell them the story of how he met their mother.
+            </p>
+            <p>
+              The series begins in September 2005 with Ted as a single, 27-year-old architect living with his two best friends from his college years:
+              Marshall Eriksen, a law student, and Lily Aldrin, a kindergarten teacher and an aspiring artist. Lily and Marshall have been dating for
+              almost nine years when Marshall finally proposes. Their engagement causes Ted to think about marriage and finding his soul mate, much to the
+              disgust of his self-appointed best friend Barney Stinson, whom he met in the restroom at a bar four years earlier. Barney is a serial
+              womanizer who concocts elaborate con games, usually involving costumes and fake identities, designed to bed women, only to lose interest in
+              them immediately afterward.
+            </p>
+            <p>
+              Ted begins his search for his perfect soul mate and meets an ambitious young reporter from Canada, Robin Scherbatsky, with whom he quickly
+              falls in love with. Robin, however, does not want to rush into a relationship and the two decide to be friends. Future Ted reveals that
+              Robin is not the mother after referring to her as "Aunt Robin".
+            </p>
             <h3 className="article-heading-3" id="5.2">Season 2</h3>
             <h3 className="article-heading-3" id="5.3">Season 3</h3>
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
