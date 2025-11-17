@@ -12,6 +12,18 @@ const TableHimym = () =>
               <th colSpan={2}>How I Met Your Mother</th>
             </tr>
           </thead>
+          <tbody>
+            <tr>
+              <td>Characters</td>
+              <td>
+                <div className="table-list">
+                    {HimymChar.map((character) => (
+                        <Link to={character.route} className="table-list-link" key={character.id}>{character.title}</Link>
+                    ))}
+                </div>
+              </td>
+            </tr>
+          </tbody>
         </table>
       </div>
     )
