@@ -171,6 +171,20 @@ const AssassinsCreed = () =>
               genetic memory and created the Animus device and modern storyline elements. This further allowed them to explain certain facets of
               gameplay, such as accounting for when the player character is killed, similiar to The Sands of Time.
             </p>
+            <p>
+              After Assassin's Creed was released in 2007, Ubisoft Montreal said they looked to "rework the global structure" in developing the sequel,
+              <Link to="/assassinscreed/assassins_creed_ii"> Assassin's Creed II</Link>. They felt that parkour was underutilized in the first game and
+              designed the world in the sequel to feature freerun highways to make it easier to enter into parkour moves, for example using rooftops to
+              escape pursuits. The change in setting meant that the game would feature a new cast of characters, including a new protagonist,
+              <Link> Ezio Auditore da Firenze</Link>. Assassin's Creed II also brought in more use of crowds to hide in plain sight that the developers
+              had seen used in Hitman: Blood Money, adding more to the concept of social stealth as a gameplay option. Finally, Ubisoft Montreal
+              completely reworked the repetitive mission structure from the first game through numerous side activities, collectibles, and secrets.
+              These additions became a central part of the series going forward as well as other Ubisoft games like Watch Dogs, Far Cry, and Tom
+              Clancy's Ghost Recon. Assassin's Creed II was followed by two direct sequels,
+              <Link to="/assassinscreed/assassins_creed_brotherhood"> Assassin's Creed: Brotherhood</Link> and
+              <Link to="/assassinscreed/assassins_creed_revelations"> Assassin's Creed: Revelations</Link>, which also featured Ezio as the main
+              protagonist and introduced the ability for players to recruit NPCs as Assassins and manage them in missions.
+            </p>
             <h3 className="article-heading-2" id="1.2">Period two</h3>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
           </div>
