@@ -156,6 +156,21 @@ const AssassinsCreed = () =>
               share achievements and content with others through a new Animus Hub system that will be integrated with all future and some earlier games.
             </p>
             <h3 className="article-heading-2" id="1.1">Period one</h3>
+            <p>
+              The first Assassin's Creed game originated out of ideas for a sequel for Ubisoft's video game Prince of Persia: The Sands of Time, aiming
+              for the <Link>seventh generation of video game consoles</Link>. The Ubisoft Montreal team decided to take the gameplay from The Sands of
+              Time into an open-world approach, taking advantage of the improved processing power to render larger spaces and crowds. Narratively, the
+              team wanted to move away from the Prince being someone next in line for the throne but to have to work for it; combined with research into
+              secret societies led them to focus on the Order of Assassins, based upon the historical Hashashin sect of Ismaili, who were followers of
+              Shia Islam, heavily borrowing from the novel Alamut. Ubisoft developed a narrative where the player would control an Assassin escorting a
+              non-playable Prince, leading them to call this game Prince of Persia: Assassin, or Prince of Persia: Assassins. Ubisoft was apprehensive to
+              a Prince of Persia game without the Prince as the playable character, but this led the marketing division to suggest the name Assassin's
+              Creed, playing off the creed of the Assassins, "nothing is true; everything is permitted". Ubisoft Montreal ran with this in creating a new
+              intellectual property, eliminating the Prince, and basing it around the Assassins and the Knights Templar in the Holy Land during the 12th
+              century. Additionally, in postulating what other assassinations they could account for throughout history, they came onto the idea of
+              genetic memory and created the Animus device and modern storyline elements. This further allowed them to explain certain facets of
+              gameplay, such as accounting for when the player character is killed, similiar to The Sands of Time.
+            </p>
             <h3 className="article-heading-2" id="1.2">Period two</h3>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
           </div>
