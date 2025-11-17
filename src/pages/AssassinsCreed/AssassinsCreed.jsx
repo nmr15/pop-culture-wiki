@@ -223,6 +223,19 @@ const AssassinsCreed = () =>
               developers limited the number of playable sequences for her character compared to previous games but gave them more meaning, such as
               allowing the player to explore Layla's laptop with background information on the games' universe.
             </p>
+            <p>
+              Origins was followed in 2018 by Assassin's Creed Odyssey, which shifted the setting to Classical Greece and followed a similar approach to
+              its predecessor but with more emphasis on the role-playing elements. 2020's Assassin's Creed Valhalla, set in medieval England and Norway
+              during the Viking Age, continued the same style as Origins and Odyssey. The developers recognized feedback from the previous two games and
+              brought back the social stealth elements, as well as the concept of a customizable home base that was first introduced in Assassin's Creed
+              II.
+            </p>
+            <p>
+              In 2023, Ubisoft released Assassin's Creed Mirage, a smaller title which sought to pay tribute to the franchise's earlier installments by
+              focusing on stealth and assassinations over its predecessor's role-playing elements. The game started development as an expansion for
+              Valhalla before being turned into a standalone release, and was set in 9th century Baghdad during the Islamic Golden Age, a decade before
+              the events of Valhalla, to which it served as a prequel.
+            </p>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
           </div>
         </div>
