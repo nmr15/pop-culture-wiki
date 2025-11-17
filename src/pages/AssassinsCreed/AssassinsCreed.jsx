@@ -185,6 +185,25 @@ const AssassinsCreed = () =>
               <Link to="/assassinscreed/assassins_creed_revelations"> Assassin's Creed: Revelations</Link>, which also featured Ezio as the main
               protagonist and introduced the ability for players to recruit NPCs as Assassins and manage them in missions.
             </p>
+            <p>
+              <Link to="/assassinscreed/assassins_creed_iii">Assassin's Creed III</Link> originated from both Ubisoft Montreal, who wanted to progress
+              the series' narrative forward in time, and to an unattached project that had been developed at Ubisoft Singapore and featured naval ship
+              combat. As the main team had settle into the American Revolution period for the game, they found the ship-to-ship combat system fitted
+              with the story and redesigned the setting to incorporate it further. Another major change in Assassin's Creed III was transitioning the
+              parkour and freerun systems to work in the natural woodlands of 18th century Massachusetts and New York. This further allowed the adding
+              of trees and other vegetation within the city areas themselves, not just as part of the parkour systems, but to add more varied
+              environments, which would continue as part of the series' ongoing design.
+            </p>
+            <p>
+              For Assassin's Creed III's sequel, Assassin's Creed IV: Black Flag, the Ubisoft team built upon the foundation of its predecessor,
+              particularly with regards to the naval gameplay, merging it seamlessly with the land-based gameplay. The team also used the game as a
+              chance to address aspects of the series' storyline. Choosing to focus on an outsider's perspective to the Assassin-Templar conflict, they
+              set the game around the Golden Age of Piracy, with the protagonist, <Link>Edward Kenway</Link>, starting out as a pirate who initially
+              becomes involved in the conflict with the prospect of wealth. Similarly, after the conclusion of <Link>Desmond Miles</Link>' story arc in
+              Assassin's Creed III, the modern day segments put players in the role of a nameless individual controlled from a first-person perspective.
+              The team chose this approach because they believed it allowed players to more easily identify themselves in their character. This trend
+              would continue in the series until Assassin's Creed Syndicate.
+            </p>
             <h3 className="article-heading-2" id="1.2">Period two</h3>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
           </div>
