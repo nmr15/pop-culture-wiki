@@ -269,6 +269,15 @@ const Himym = () =>
                 in Tracy, he had met the love of his life (the titular Mother), but only after he is finished telling the story does he accept that he is
                 ready to move on and admit he is still in love with Robin.
               </li>
+              <li>
+                <Link>Jason Segel</Link> as <Link>Marshall Eriksen</Link>, Ted Mosby's best friend, Marshall and Ted were roommates at Wesleyan, and
+                remained living together when they moved to New York. In season 2 Marshall marries Lily, with whom he has been in love since his
+                freshman year of college; they have a child during season 7. Marshall was born in St. Cloud, Minnesota, where his family and culture are
+                the foundation of major conflicts he faces in the series. He has an interest in the paranormal and mythical creatures, particularly
+                Sasquatch. His dream to be an environmental lawyer conflicts with his imeediate need for money, such as for his wedding and to raise his
+                children. He however, eventually switches from his corporate job, to his dream, environmental lawyer job, taking the pay cut willingly
+                to help protect the environment. By the end of the series, he has become a New York supreme court justice.
+              </li>
             </ul>
           </div>
         </div>
