@@ -204,7 +204,25 @@ const AssassinsCreed = () =>
               The team chose this approach because they believed it allowed players to more easily identify themselves in their character. This trend
               would continue in the series until Assassin's Creed Syndicate.
             </p>
+            <p>
+              Development of <Link to="/assassinscreed/assassins_creed_unity">Assassin's Creed Unity</Link> began shorly after the completion of =
+              Brotherhood in 2010, with the core development team splitting off during the early stages of development on Assassin's Creed III. As the
+              first game in the series to be released exclusively for the <Link>eighth generation of video game consoles</Link>, Unity featured a
+              graphical and gameplay overhaul. The setting chosen for the game was Paris during the early years of the French Revolution, with players
+              taking control of a new Assassin named <Link>Arno Dorian</Link>. After Unity, Ubisoft released Assassin's Creed Syndicate in 2015.
+            </p>
             <h3 className="article-heading-2" id="1.2">Period two</h3>
+            <p>
+              Following Syndicate's release, Ubisoft decided that the series needed a major reinvention across both gameplay and narrative. It was decided
+              to make the next game, Assassin's Creed Origins, closer to a role-playing video game than a stealth-action game, which would also bring a
+              game with many more hours of play than previous titles. Some long-standing features of the series were eliminated for this purpose, such as
+              the social stealth mechanic. This changed how missions were presented, rather than being linearly directed through the Animus, the player
+              character could meet various quest givers in the game's world to receive missions. From the narrative side, Ubisoft placed the game before
+              the formation of the Assassin Brotherhood in Ancient Egypt and made the player character, <Link>Bayek of Siwa</Link>, a medjay that people
+              would respect and seek the help of. The modern-day storyline also shifted back to a single character, <Link>Layla Hassan</Link>. The
+              developers limited the number of playable sequences for her character compared to previous games but gave them more meaning, such as
+              allowing the player to explore Layla's laptop with background information on the games' universe.
+            </p>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
           </div>
         </div>
