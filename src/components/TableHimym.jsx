@@ -3,8 +3,8 @@ import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS
 
 const TableHimym = () =>
 {
-  <>
-    return(
+  return(
+    <>
       <div>
         <table className="table-center">
           <thead>
@@ -26,8 +26,8 @@ const TableHimym = () =>
           </tbody>
         </table>
       </div>
-    )
-  </>
+    </>
+  )
 }
 
 export default TableHimym;

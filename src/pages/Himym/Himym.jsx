@@ -434,6 +434,9 @@ const Himym = () =>
             </p>
           </div>
         </div>
+        <div>
+          <TableHimym />
+        </div>
       </main>
     </>
   )

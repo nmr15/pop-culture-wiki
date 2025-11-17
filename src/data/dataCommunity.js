@@ -928,7 +928,7 @@ export const communityEps = [
     "file": "CommunityS5E1",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/8/84/5X1_Super_Jeff.jpg",
     "route": "/community/repilot",
-    "desc": ""
+    "desc": "Jeff returns to Greendale a year after graduation to research a potential lawsuit after his practice goes under. While doing this, he finds out what has happened to his friends within the study group since his departure."
   },
   {
     "id": "cmtys5e2",
@@ -938,7 +938,7 @@ export const communityEps = [
     "file": "CommunityS5E2",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/e5/5X2_Main_photo.jpg",
     "route": "/community/introduction_to_teaching",
-    "desc": ""
+    "desc": `Jeff begins his teaching job at Greendale and is shown the ropes by Professor Hickey, with whom he shares an office. While Jeff learns to adjust to the expectations of being on staff, Abed convinces the rest of the study group to take Professor Garrity's new class on whether Nicolas Cage is "good" or "bad".`
   },
   {
     "id": "cmtys5e3",
@@ -948,7 +948,7 @@ export const communityEps = [
     "file": "CommunityS5E3",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a9/Ass_Crack_Bandit.jpg",
     "route": "/community/basic_intergluteal_numismatics",
-    "desc": ""
+    "desc": "Jeff and Annie try to solve the case of the Ass Crack Bandit, who drops coins into people's pants. Though the suspect is quickly caught, Jeff believes that perhaps the real Bandit is still at large. Meanwhile, the team receives bad news about Pierce Hawthorne."
   },
   {
     "id": "cmtys5e4",
@@ -958,7 +958,7 @@ export const communityEps = [
     "file": "CommunityS5E4",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/6c/504CP_%283%29.jpg",
     "route": "/community/cooperative_polygraphy",
-    "desc": ""
+    "desc": "The study group undergo a polygraph test as part of the conditions of Pierce's will, but it soon turns sour as the group's secrets come to light, and Troy makes a major decision in order to satisfy the conditions of the bequeathing."
   },
   {
     "id": "cmtys5e5",
@@ -968,7 +968,7 @@ export const communityEps = [
     "file": "CommunityS5E5",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/bc/5X5_Abed_and_lava.jpg",
     "route": "/community/geothermal_escapsim",
-    "desc": ""
+    "desc": `To honor Troy's last day at Greendale, Abed organizes a campus-wide game of "The Floor Is Lava."`
   },
   {
     "id": "cmtys5e6",
@@ -978,7 +978,7 @@ export const communityEps = [
     "file": "CommunityS5E6",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/6/6c/5X6_Fat_Dog_dance.jpg",
     "route": "/community/analysis_of_cork_based_networking",
-    "desc": ""
+    "desc": "Annie and Hickey embark on a mission to start improving Greendale, but it soon turns into a labyrinthine chain of favors. Meanwhile, the rest of the gang help set up a dance, and Abed connects with a fellow student."
   },
   {
     "id": "cmtys5e7",
@@ -988,7 +988,7 @@ export const communityEps = [
     "file": "CommunityS5E7",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/b8/5X7_What_the_hell.jpg",
     "route": "/community/bondage_and_beta_male_sexuality",
-    "desc": ""
+    "desc": "Jeff helps Dr. Duncan try to win over Britta's affection. Abed and Hickey face off after Abed accidentally ruins some of Hickey's drawings, and Chang finds himself in the middle of a ghostly mystery."
   },
   {
     "id": "cmtys5e8",
@@ -998,7 +998,7 @@ export const communityEps = [
     "file": "CommunityS5E8",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/1/19/5x08_Promo_Picture_%283%29.jpg",
     "route": "/community/app_development_and_condiments",
-    "desc": ""
+    "desc": "The introduction of an app that allows people to rate others causes the campus to devolve into a caste-based society."
   },
   {
     "id": "cmtys5e9",
@@ -1008,7 +1008,7 @@ export const communityEps = [
     "file": "CommunityS5E9",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/1/1a/5X9_Main_photo.jpg",
     "route": "/community/vcr_maintenance_and_educational_publishing",
-    "desc": ""
+    "desc": "Jeff, Shirley, and Hickey discover a large stash of unused textbooks, but soon turn on each other when deciding the best way to sell them. Meanwhile, Annie and Abed decide they need a new roommate, and play an old-west themed VCR game to decide between Annie's brother Anthony or Abed's girlfriend Rachel."
   },
   {
     "id": "cmtys5e10",
@@ -1018,7 +1018,7 @@ export const communityEps = [
     "file": "CommunityS5E10",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/bf/5X10_main_photo.jpg",
     "route": "/community/advanced_advanced_dungeons_and_dragons",
-    "desc": ""
+    "desc": "The study group organizes a game of Dungeons & Dragons so that Prof. Hickey can reconnect with his estranged son, Hank (David Cross)."
   },
   {
     "id": "cmtys5e11",
@@ -1028,7 +1028,7 @@ export const communityEps = [
     "file": "CommunityS5E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/e8/G.I.Jeff_main_photo.jpg",
     "route": "/community/gi_jeff",
-    "desc": ""
+    "desc": "The entire group becomes part of the cast of a classic "G.I. Joe" cartoon from the 1980s."
   },
   {
     "id": "cmtys5e12",
@@ -1038,7 +1038,7 @@ export const communityEps = [
     "file": "CommunityS5E12",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a1/5x12_Annie%2C_Abed_and_Dean_Pelton.jpg",
     "route": "/community/basic_story",
-    "desc": ""
+    "desc": "When Greendale is appraised to be an asset instead of a liability, the school board immediately decides to sell it to Subway. Abed, Annie, and the Dean find a secret that may save the school, and Jeff must decide where his allegiance lies."
   },
   {
     "id": "cmtys5e13",
@@ -1048,7 +1048,7 @@ export const communityEps = [
     "file": "CommunityS5E13",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/c/c1/5x13_Main_photo.jpg",
     "route": "/community/basic_sandwich",
-    "desc": ""
+    "desc": "With Greendale hours away from sale, the group searches for the hidden lab of the school's first dean, believing there is a treasure there which can save the school."
   },
   {
     "id": "cmtys6e1",
@@ -1058,7 +1058,7 @@ export const communityEps = [
     "file": "CommunityS6E1",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/8/86/6x1_Ladders_class.jpg",
     "route": "/community/ladders",
-    "desc": ""
+    "desc": `Dean Pelton hires Francesca "Frankie" Dart (Paget Brewster) as a consultant to help improve Greendale, but her tactics create tension on campus.`
   },
   {
     "id": "cmtys6e2",
@@ -1068,7 +1068,7 @@ export const communityEps = [
     "file": "CommunityS6E2",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/b/b9/6x2_Main_photo.jpg",
     "route": "/community/lawnmower_maintenance_and_postnatal_care",
-    "desc": ""
+    "desc": "Britta discovers that her parents have been helping her financially from behind the scenes, while the Dean becomes obsessed with an expensive virtual reality system and Jeff seeks out the inventor, Elroy Patashnik (Keith David), to get a refund."
   },
   {
     "id": "cmtys6e3",
@@ -1078,7 +1078,7 @@ export const communityEps = [
     "file": "CommunityS6E3",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/2/22/6x3_Main_photo.jpg",
     "route": "/community/basic_crisis_room_decorum",
-    "desc": ""
+    "desc": "When City College plans an attack ad asserting that Greendale gave a degree to a dog, the group clashes over the best way to handle it."
   },
   {
     "id": "cmtys6e4",
@@ -1088,7 +1088,7 @@ export const communityEps = [
     "file": "CommunityS6E4",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/fd/6x4_main_photo.jpg",
     "route": "/community/queer_studies_and_advanced_waxing",
-    "desc": ""
+    "desc": "The Dean is offered a position on the school board but only as a token homosexual, Chang auditions for a theater version of The Karate Kid, and Abed and Elroy attempt to fix the school's Wi-Fi connection."
   },
   {
     "id": "cmtys6e5",
@@ -1098,7 +1098,7 @@ export const communityEps = [
     "file": "CommunityS6E5",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f9/6x5_Main_photo.jpg",
     "route": "/community/laws_of_robotics_and_party_rights",
-    "desc": ""
+    "desc": "Prisoners attend Greendale via telepresence robots, and Britta uses Abed so she can have a party, breaking Annie's rules."
   },
   {
     "id": "cmtys6e6",
@@ -1108,7 +1108,7 @@ export const communityEps = [
     "file": "CommunityS6E6",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/c/c0/6x6_The_school_is_hacked.jpg",
     "route": "/community/basic_email_security",
-    "desc": ""
+    "desc": "A hacker threatens to publish emails unless a scheduled appearance by a racist comic (Jay Chandrasekhar) is cancelled."
   },
   {
     "id": "cmtys6e7",
@@ -1118,7 +1118,7 @@ export const communityEps = [
     "file": "CommunityS6E7",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/0d/6x7_Main_photo.jpg",
     "route": "/community/advanced_safety_features",
-    "desc": ""
+    "desc": "The dean is highly susceptible to a guerrilla marketing campaign by Britta's ex-boyfriend, Rick, who now works for Honda. Meanwhile, the group tries to become closer friends with Elroy. Greendale hosts an alumni dance and hires the band Natalie is Freezing to perform, while Elroy reveals he once dated the band's lead singer Julie (Lisa Loeb)."
   },
   {
     "id": "cmtys6e8",
@@ -1128,7 +1128,7 @@ export const communityEps = [
     "file": "CommunityS6E8",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/a/a6/6x8_Main_photo.jpg",
     "route": "/community/intro_to_recycled_cinema",
-    "desc": ""
+    "desc": "When a commercial starring Chang goes viral, the group tries to cash in by converting footage of a cop drama starring him into a sci-fi film."
   },
   {
     "id": "cmtys6e9",
@@ -1138,7 +1138,7 @@ export const communityEps = [
     "file": "CommunityS6E9",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/9d/6x9_Grifitng_eyecatcher_1.jpg",
     "route": "/community/grifting_101",
-    "desc": ""
+    "desc": "The group is cheated and tries to get back at a grifter (Matt Berry) now teaching at Greendale."
   },
   {
     "id": "cmtys6e10",
@@ -1148,7 +1148,7 @@ export const communityEps = [
     "file": "CommunityS6E10",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/98/6x10_Abed_and_Frankie.jpg",
     "route": "/community/basic_rv_repair_and_palmistry",
-    "desc": ""
+    "desc": "The group takes a road trip in Elroy's RV to deliver a giant fiberglass hand that Frankie forces Dean Pelton to sell, while Abed imagines the trip as a flashback-filled movie."
   },
   {
     "id": "cmtys6e11",
@@ -1158,7 +1158,7 @@ export const communityEps = [
     "file": "CommunityS6E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/5/5b/6x11_Promopic1.jpg",
     "route": "/community/modern_espionage",
-    "desc": ""
+    "desc": `Frankie's "Cleaner Greendale" initiative drives the school's paintball game underground as the group tries to discover the identity of a mysterious assassin.`
   },
   {
     "id": "cmtys6e12",
@@ -1168,7 +1168,7 @@ export const communityEps = [
     "file": "CommunityS6E12",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/0e/6x12_Main_photo.jpg",
     "route": "/community/wedding_videography",
-    "desc": ""
+    "desc": "The group attends Garrett's wedding while Abed films it for a new documentary."
   },
   {
     "id": "cmtys6e13",
@@ -1178,7 +1178,7 @@ export const communityEps = [
     "file": "CommunityS6E13",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/fb/6x13_Main_photo.jpg",
     "route": "/community/emotional_consequences_of_broadcast_television",
-    "desc": ""
+    "desc": "With six years at Greendale completed, the group imagines what a hypothetical season seven would be like while discussing the uncertainty of life."
   }
 ]
 
@@ -1189,158 +1189,7 @@ export const communityS4 = communityEps.filter((s4) => s4.season == 4);
 export const communityS5 = communityEps.filter((s5) => s5.season == 5);
 export const communityS6 = communityEps.filter((s6) => s6.season == 6);
 
-// export const communitys1 = [
-//   {
-//     "id": "cmntys1e1",
-//     "title": "Pilot",
-//     "file": "CommunityS1E1",
-//     "route": "/community/pilot"
-//   },
-//   {
-//     "id": "cmntys1e2",
-//     "title": "Spanish 101",
-//     "file": "CommunityS1E2",
-//     "route": "/community/spanish_101"
-//   },
-//   {
-//     "id": "cmntys1e3",
-//     "title": "Introduction to Film",
-//     "file": "CommunityS1E3",
-//     "route": "/community/intoduction_to_film"
-//   },
-//   {
-//     "id": "cmntys1e4",
-//     "title": "Social Psychology",
-//     "file": "CommunityS1E4",
-//     "route": "/community/social_psychology"
-//   },
-//   {
-//     "id": "cmntys1e5",
-//     "title": "Advanced Criminal Law",
-//     "file": "CommunityS1E5",
-//     "route": "/community/advanced_criminal_law"
-//   },
-//   {
-//     "id": "cmntys1e6",
-//     "title": "Football, Feminism, and You<",
-//     "file": "CommunityS1E6",
-//     "route": "/community/football_feminism_and_you"
-//   },
-//   {
-//     "id": "cmntys1e7",
-//     "title": "Introduction to Statistics",
-//     "file": "CommunityS1E7",
-//     "route": "/community/introduction_to_statistics"
-//   },
-//   {
-//     "id": "cmntys1e8",
-//     "title": "Home Economics",
-//     "file": "CommunityS1E8",
-//     "route": "/community/home_economics"
-//   },
-//   {
-//     "id": "cmntys1e9",
-//     "title": "Debate 109",
-//     "file": "CommunityS1E9",
-//     "route": "/community/debate_109"
-//   },
-//   {
-//     "id": "cmntys1e10",
-//     "title": "Environmental Science",
-//     "file": "CommunityS1E10",
-//     "route": "/community/environmental_science"
-//   },
-//   {
-//     "id": "cmntys1e11",
-//     "title": "The Politics of Human Sexuality",
-//     "file": "CommunityS1E11",
-//     "route": "/community/the_politics_of_human_sexuality"
-//   },
-//   {
-//     "id": "cmntys1e12",
-//     "title": "Comparative Religion",
-//     "file": "CommunityS1E12",
-//     "route": "/community/comparative_religion"
-//   },
-//   {
-//     "id": "cmntys1e13",
-//     "title": "Investigative Journalism",
-//     "file": "CommunityS1E13",
-//     "route": "/community/investigative_journalism"
-//   },
-//   {
-//     "id": "cmntys1e14",
-//     "title": "Interpretive Dance",
-//     "file": "CommunityS1E14",
-//     "route": "/community/interpretive_dance"
-//   },
-//   {
-//     "id": "cmntys1e15",
-//     "title": "Romantic Expressionism",
-//     "file": "CommunityS1E15",
-//     "route": "/community/romantic_expressionism"
-//   },
-//   {
-//     "id": "cmntys1e16",
-//     "title": "Communication Studies",
-//     "file": "CommunityS1E16",
-//     "route": "/community/communication__studies"
-//   },
-//   {
-//     "id": "cmntys1e17",
-//     "title": "Physical Education",
-//     "file": "CommunityS1E17",
-//     "route": "/community/physical_education"
-//   },
-//   {
-//     "id": "cmntys1e18",
-//     "title": "Basic Genealogy",
-//     "file": "CommunityS1E18",
-//     "route": "/community/basic_genealogy"
-//   },
-//   {
-//     "id": "cmntys1e19",
-//     "title": "Beginner Pottery",
-//     "file": "CommunityS1E19",
-//     "route": "/community/beginner_pottery"
-//   },
-//   {
-//     "id": "cmntys1e20",
-//     "title": "The Science of Illusion",
-//     "file": "CommunityS1E20",
-//     "route": "/community/the_science_of_illusion"
-//   },
-//   {
-//     "id": "cmntys1e21",
-//     "title": "Contemporary American Poultry",
-//     "file": "CommunityS1E21",
-//     "route": "/community/contemporary_american_poultry"
-//   },
-//   {
-//     "id": "cmntys1e22",
-//     "title": "The Art of Discourse",
-//     "file": "CommunityS1E22",
-//     "route": "/community/the_art_of_discourse"
-//   },
-//   {
-//     "id": "cmntys1e23",
-//     "title": "Modern Warfare",
-//     "file": "CommunityS1E23",
-//     "route": "/community/modern_warfare"
-//   },
-//   {
-//     "id": "cmntys1e24",
-//     "title": "English as a Second Language",
-//     "file": "CommunityS1E24",
-//     "route": "/community/english_as_a_second_language"
-//   },
-//   {
-//     "id": "cmntys1e25",
-//     "title": "Pascal's Triangle Revisited",
-//     "file": "CommunityS1E25",
-//     "route": "/community/pascal's_triangle_revisited"
-//   },
-// ]
+
 
 export const communitys2 = [
   {
