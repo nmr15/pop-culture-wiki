@@ -1028,7 +1028,7 @@ export const communityEps = [
     "file": "CommunityS5E11",
     "img": "https://static.wikia.nocookie.net/community-sitcom/images/e/e8/G.I.Jeff_main_photo.jpg",
     "route": "/community/gi_jeff",
-    "desc": "The entire group becomes part of the cast of a classic "G.I. Joe" cartoon from the 1980s."
+    "desc": `The entire group becomes part of the cast of a classic "G.I. Joe" cartoon from the 1980s.`
   },
   {
     "id": "cmtys5e12",
