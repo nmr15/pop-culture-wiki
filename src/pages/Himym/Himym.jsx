@@ -180,6 +180,66 @@ const Himym = () =>
               previous episodes or shots of New York City are shown with Ted narrating over them. Thomas has stated that Future Ted is an
               unreliable narrator, since he is trying to tell a story that happened over 20 years earlier, this has been a plot point in
               several episodes including "<Link to="/himym/the_goat">The Goat</Link>", "<Link to="/himym/oh_honey">Oh Honey</Link>",
+              "<Link to="/himym/how_i_met_everyone_else">How I Met Everyone Else</Link>", and 
+              "<Link to="/himym/the_mermaid_theory">The Mermaid Theory</Link>". Nevertheless, Thomas has also emphasized maintaining a coherent and
+              consistent universe and trying to avoid continuity errors, a problem he noticed in other shows.
+            </p>
+            <p>
+              A scene relating to the identity of the mother, involving Ted's future children, was filmed in 2006 for the show's eventual series finale.
+              This was done because the teenage actors portraying them would be adults by the time the final season was shot.
+            </p>
+            <p>
+              During the 2007-2008 Writers Guild of America strike, How I Met Your Mother shut down production; when the strike ended, the show returned
+              on March 17, 2008, with nine new episodes. The network announced a change in the timeslot to 8:30 pm ET/7:30 pm CT, flip-flopping from the
+              summer schedule with The Big Bang Theory. CBS renewed the show for a fourth season on May 14, 2008, which premiered on September 22, 2008.
+            </p>
+            <p>
+              In September 2008, Lifetime Television announced it had purchased the cable rerun rights to How I Met Your Mother at a rate of about
+              $725,000 per episode. The four-year syndication contract stipulated that the studio deliver at least 110 half-hour episodes by 2010 and
+              allowed for up to eight seasons of the show. At the end of the fourth season only 88 episodes had been produced, and a further 22 episodes
+              were required, ensuring that there would be a fifth season. There also was a complication with the writing of the show because of actress
+              Alyson Hannigan's absence due to her pregnancy; in response, the writers had to create episodes that did not include on of the five main
+              characters. On May 19, 2009, the fifth season renewal was announced. May 20, 2009, CBS announced that How I Met Your Mother would again be
+              aired at 8 pm, leading into the new comedy Accidentally on Purpose. On January 12, 2010, the show aired its 100th episode, and CBS
+              announced that the series would return for a sixth season. Upon learning that the series would be syndicated, Thomas said, "We're thrilled
+              that it will live on in other forms," and they were proud of the show and it was great to see the strong demand.
+            </p>
+            <p>
+              Reruns of the series began airing on local American broadcast television stations and on Chicago-based cable superstation WGN America on
+              September 14, 2010. Featured in these airings are vanity cards previously unseen in the CBS and Lifetime airings due to marginalized credit
+              sequences used by the two networkds. Shown in between the closing credits and the production company credits, these vanity cards show
+              portions of "The Bro Code", a list of rules frequently referenced by Harris' character, Barney Stinson, on how men should interact with
+              each other, with an emphasis on activities involving pursuing members of the opposite sex. The opening theme song for the syndicated reruns
+              is also slightly edited, running shorter and not using all the pictures seen in the opening montage that runs on DVD and the original CBS
+              broadcasts. The episodes are also slightly shorter, to allow for more commercials furing a timeslot in syndication.
+            </p>
+            <p>
+              One of the series' traditions involves giving guest roles to actors from various <Link>Joss Whedon</Link> productions, many of whom
+              co-starred with Hannigan on Buffy the Vampire Slayer. Bays attributed this to their being "huge fans" and to those casts represented "a big
+              talent pool".
+            </p>
+            <p>
+              On March 4, 2011, CBS announced that the show had been renewed for two more seasons, with the seventh season premiering with back-to-back
+              episodes on September 19, 2011.
+            </p>
+            <p>
+              On July 27, 2011, the FX channel announced it had picked up the series for syndication. On September 5, 2011, FX begain airing the series.
+            </p>
+            <p>
+              Cast members had said the show would not run longer than eight seasons, but a ninth season was secured in December 2012 amid tense
+              negotiations with the studios and the actors, especially Segel, who had wanted to move on to other ventures after the eighth season.
+              During these negotitations, Bays and Thomas originally approached the eighth season as if it were the show's last, but had a "Plan B" in
+              case the show were renewed. After producers secured a ninth season, they implemented plans to secretly cast the titular future mother, with
+              Cristin Milioti eventually winning the role, having bested at least two other contenders. Milioti first appeared in the last scene in the
+              season eight finale "<Link to="/himym/something_new">Something New</Link>" and was a regular cast member in the show's final season. This
+              was the first time the show had expanded its core roster.
+            </p>
+            <p>
+              In January 2013, How I Met Your Mother was renewed for a ninth season. Carter Bays told Entertainment Weekly that season 9 would "feature
+              some of the most non-linear episodes we've ever done".
+            </p>
+            <p>
+              The season 9 premiere episode aired on September 23, 2013, and the one-hour series finale aired on March 31, 2014.
             </p>
           </div>
         </div>
