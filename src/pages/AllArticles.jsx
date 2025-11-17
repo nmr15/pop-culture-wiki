@@ -4,7 +4,7 @@ import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
-import { HimymChar } from '../../data/dataHimym';
+import { HimymChar } from '../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { asoue } from '../data/dataAsoue';
