@@ -327,6 +327,25 @@ const Himym = () =>
               falls in love with. Robin, however, does not want to rush into a relationship and the two decide to be friends. Future Ted reveals that
               Robin is not the mother after referring to her as "Aunt Robin".
             </p>
+            <p>
+              Ted begins dating a baker, <Link>Victoria</Link> (Ashley Williams), whom he meets at <Link>Stuart and Claudia</Link>'s wedding, causing
+              Robin to become jealous, and realize she does have feelings for Ted. Victoria is offeredd a fellowship in pastry-making, moves to Germany
+              and she and Ted try a long-distance relationship. Once Ted learns Robin has feelings for him, he tells her he broke up with Victoria, even
+              though he has not. They almost have sex when Victoria calls and Robin answers; mistaking Ted's phone for her own. Ted and Victoria then
+              break up and an angry Robin distances herself from Ted, but they eventually reconcile and decide to date.
+            </p>
+            <p>
+              Meanwhile, Lily begins to wonder if she has missed any opportunities because of her relationship with Marshall, and decides to pursue an
+              art fellowship in San Francisco, breaking up with Marshall in the process. The season ends with Ted returning to the apartment, the morning
+              after spending the night with Robin for the first time, to find Marshall sitting in the rain with Lily's engagement ring, devastated by
+              their sudden break-up after nine years. Marshall must then call off their wedding.
+            </p>
+            <p>
+              The phrase olive theory is most known for its appearance in the pilot episode. In the scene, Ted tells the story of his first date with
+              Robin to Lily and Marshall. Ted states that since he does not like olives but his date does, they are compatible. Lily and Marshall add on
+              that the olive theory works in their relationship, as Marshall always gives Lily his olives. However, it is later said that Marshall only
+              pretends not to like them to make Lily happy.
+            </p>
             <h3 className="article-heading-3" id="5.2">Season 2</h3>
             <h3 className="article-heading-3" id="5.3">Season 3</h3>
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
