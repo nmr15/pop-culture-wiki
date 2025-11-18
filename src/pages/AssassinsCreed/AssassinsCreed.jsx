@@ -261,6 +261,12 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="2">Gameplay</h2>
           <div>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/8/86/Assassins_Creed_3_Gameplay_segment.gif" 
+                alt="Assassins_Creed_3_Gameplay_segment" 
+              />
+            </div>
             <p>
               The Assassin's Creed games are centered around one or more fictional members of the Order of the Assassins. Their memories are experienced by
               an in-game character in the modern-day period through a device called the Animus and its dervications. The Animus allows the user to explore
@@ -295,6 +301,18 @@ const AssassinsCreed = () =>
           <h2 className="article-heading-2" id="3">Storyline</h2>
           <div>
             <h3 className="article-heading-2" id="2.1">Premise</h3>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/9/95/Abstergo_2.png" 
+                alt="Abstergo logo" 
+              />
+              <p>
+                The Assassin's Creed games primarily revolve around the rivalry and conflict between two ancient secret societies: the Order of Assassins,
+                who represent freedom, and the Knights Templar, who represent order. Versions of these societies have existed for centuries, with the
+                Assassins seeking to stop the Templars from gaining control of the Pieces of Eden, artifacts that can override free will to control
+                people's minds.
+              </p>
+            </div>
             <h3 className="article-heading-2" id="2.2">Story arcs</h3>
           </div>
         </div>
