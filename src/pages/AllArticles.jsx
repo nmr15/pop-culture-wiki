@@ -12,6 +12,7 @@ import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gfEpisodes } from '../data/dataGravityFalls';
 import { asoue } from '../data/dataAsoue';
 import { spidermanFilms } from '../data/dataSpidermanFilms';
+import { justcauseGames } from '../data/dataJustCause';
 
 const AllArticles = () =>
 {
@@ -448,6 +449,22 @@ const AllArticles = () =>
               </li>
             ))}
           </ul>
+        </div>
+
+        {/* JUST CAUSE */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="JustCause">Just Cause</h3>
+          <p><Link to="/just_cause">Main article</Link></p>
+          <div>
+              <h4 className="article-heading-4">Games</h4>
+              <ul className="allArticles-list">
+              {justcauseGames.map((jcGame) => (
+                  <li key={jcGame.id}>
+                  <Link to={jcGame.route}>{jcGame.title}</Link>
+                  </li>
+              ))}
+              </ul>
+            </div>
         </div>
       </main>
     </>
