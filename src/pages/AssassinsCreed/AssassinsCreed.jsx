@@ -237,6 +237,25 @@ const AssassinsCreed = () =>
               the events of Valhalla, to which it served as a prequel.
             </p>
             <h3 className="article-heading-2" id="1.3">Period three</h3>
+            <p>
+              In 2022, Ubisoft announced several additional games for the series, including Assassin's Creed Shadows, set in Japan during the Sengoku
+              period, and Assassin's Creed: Codename Hexe, rumored to be set in Central Europe during the 16th century.
+            </p>
+            <p>
+              Alongside the release of Assassin's Creed Shadows, Ubisoft introduced the Animus Hub, intended to serve as a central hub for the
+              Assassin's Creed games from Shadows onward. Originally teased as Assassin's Creed Infinity, the Animus Hub was described by its
+              executive producer, Marc-Alexis Côté, as a "new design philosophy" for the series, as well as a hub that would provide the release of
+              future games. According to Côté in 2024, the modern-day narrative of the series has become haphazard after the death of Desmond Miles in
+              Assassin's Creed III through the introduction of Layla Hassan in Assassin's Creed Origins due to the lack of a main character and the
+              number of studios involved, and Infinity aimed to re-establish the modern-day side of the series. The Animus Hub is not a launcher, but
+              instead a feature integrated into Shdadows future games, and select games from period two which incorporates the modern-day storyline of
+              the series.
+            </p>
+            <p>
+              As part of Ubisoft's financial troubles in the early 2020s, Ubisoft and Tencent created a separate subsidiary, Vantage Studios, in 2025 for
+              handling of Assassin's Creed and the other major Ubisoft franchises, Far Cry, and Rainbow Six. As part of this, Côté left Ubisoft in
+              October 2025, which he claimed was due to the series lead being transferred from him to a new position within Vantage Studios.
+            </p>
           </div>
         </div>
         <div>
