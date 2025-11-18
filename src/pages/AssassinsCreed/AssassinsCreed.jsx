@@ -261,7 +261,34 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="2">Gameplay</h2>
           <div>
-
+            <p>
+              The Assassin's Creed games are centered around one or more fictional members of the Order of the Assassins. Their memories are experienced by
+              an in-game character in the modern-day period through a device called the Animus and its dervications. The Animus allows the user to explore
+              these memories passed down via genetics. Within the context of the game, this provides a diegetic interface to the real-world player of the
+              game, showing them elements like health bars, a mini-map, and target objectives as if presented by the Animus. Additionally, should the
+              player cause the historical character to die or fail a mission, this is rectified as desynchronization of the genetic memory, allowing the
+              player to try the mission again. Through the Animus interface, the player can retry any past mission already completed; for example, in
+              Assassin's Creed: Brotherhood, the player achieves better synchronization results by performing the mission in a specific manner, such as by
+              only killing the mission's target. The Animus also imparts special abilities to the modern-day character that helps them to see their target
+              in a crowd or other unique points of interest.
+            </p>
+            <p>
+              While playing as the Assassin characters, the games are generally presented from a third-person view in an open world environment,
+              focusing on stealth and parkour. The games use a mission structure to follow the main story, assigning the player to complete an
+              assassination of public figureheads or a covert mission. Alternatively, several side missions are available, such as mapping out the
+              expansive cities from a high perch followed by performing a leap of faith into a haystack below, collecting treasures hidden across the
+              cities, exploring ruins for relics, building a brotherhood of assassins to perform other tasks, or funding the rebuilding of a city
+              through purchasing and upgrading of shops and other features. At times, the player is in direct control of the modern-day character who, by
+              nature of the Animus use, has learned Assassin techniques through the bleeding effect, as well as their genetic ability of Eagle Vision,
+              which separates friend, foe, and assassination targets by illuminating people in different colors.
+            </p>
+            <p>
+              The games use the concept of active versus passive moves, with active moves, such as running, climbing the sides of buildings, or jumping
+              between rooftops, more likely to alert the attention of nearby guards. When the guards become alerted, the player must either fight them or
+              break their line of sight and locate a hiding place, such as a haystack or a well, and wait until the guards' alert is reduced. The combat
+              system allows for a number of unique weapons, armor, and moves, including the use of a hidden blade set in a bracer attached at the
+              Assassin's wrist with a blade ejected via-spring mechanism, which can be used to perform surreptitious assassinations.
+            </p>
           </div>
         </div>
         <div>
