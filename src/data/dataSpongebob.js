@@ -1,3 +1,20 @@
+export const spongebobMedia = [
+  {
+    "id": "spongeMedia1",
+    "title": "SpongeBob SquarePants",
+    "file": "SpongebobSeries",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/500px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png",
+    "route": "/spongebob/spongebob_squarepants_series"
+  },
+  {
+    "id": "spongeMedia2",
+    "title": "The SpongeBob SquarePants Movie",
+    "file": "SpongebobMovie",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/31/The_SpongeBob_SquarePants_Movie_poster.jpg",
+    "route": "/spongebob/the_spongebob_squarepants_movie"
+  }
+]
+
 export const spongebobEps = [
   {
     "id": "sponges1e1a",
