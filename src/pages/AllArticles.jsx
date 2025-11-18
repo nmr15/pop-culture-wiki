@@ -5,7 +5,7 @@ import { marvel } from '../data/dataMarvel';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
-import { spongebobMedia, spongebobEps } from '../data/dataSpongebob';
+import { spongebobMedia, spongebobS1 } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
@@ -238,6 +238,30 @@ const AllArticles = () =>
                 ))}
                 </ul>
             </div>
+        </div>
+
+        {/* SPONGEBOB SQUAREPANTS */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Spongebob" >SpongeBob SquarePants</h3>
+          <p><Link to="/spongebob">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Show and Film</h4>
+            <ul className="allArticles-list">
+              {spongebobMedia.map((sbMedia) => (
+                <li key={sbMedia.id}>
+                  <Link to={sbMedia.route}>{sbMedia.title}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <h4 className="article-heading-4">Season 1</h4>
+            <ul className="allArticles-list">
+              {spongebobS1.map((sbS1) => (
+                <li key={sbS1.id}>
+                  <Link to={sbS1.route}>{sbS1.title}</Link>
+                </li>
+              ))}
+            </ul>
         </div>
 
         {/* HOW I MET YOUR MOTHER */}

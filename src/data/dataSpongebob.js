@@ -427,3 +427,5 @@ export const spongebobEps = [
     "desc": "In a contest, SpongeBob wins a conch shell that can summon Mermaid Man and Barnacle Boy in emergencies. However, he abuses this privilege, constantly calling the superheroes to help with everyday tasks. Eventually, the two heroes are exhausted, and SpongeBob apologizes, explaining that he just wanted to spend time with them. As a result, they let SpongeBob join them on their daily patrol, but he ends up doing several accidental things, annoying them. At a diner, Mermaid Man and Barnacle Boy decide to \"ditch\" SpongeBob by asking him to search for their theme song on the jukebox while they flee the restaurant. Outside, however, they are attacked and trapped by their arch nemesis, the Dirty Bubble. SpongeBob comes outside to tell them and sees their predicament. He asks the Dirty Bubble for his autograph, saying that he is his favorite supervillain, and \"accidentally\" pops the Dirty Bubble with a pencil tip, saving the day."
   }
 ]
+
+export const spongebobS1 = spongebobEps.filter((s1) => s1.season == 1);
