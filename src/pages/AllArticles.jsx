@@ -1,12 +1,15 @@
 import { Link } from 'react-router-dom'
 import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
+import { marvel } from '../data/dataMarvel';
 import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
+import { spongebobMedia, spongebobEps } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
+import { gfEpisodes } from '../data/dataGravityFalls';
 import { asoue } from '../data/dataAsoue';
 import { spidermanFilms } from '../data/dataSpidermanFilms';
 
@@ -64,6 +67,21 @@ const AllArticles = () =>
                 </li>
               ))}
             </ul>
+          </div>
+        </div>
+
+        {/* MARVEL COMICS */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="MarvelComics">Marvel Comics</h3>
+          <div>
+            <h4 className="article-heading-4">Heroes</h4>
+            <ul className="allArticles-list">
+                {marvel.map((heroes) => (
+                    <li key={heroes.id}>
+                    <Link to={heroes.route}>{heroes.title}</Link>
+                    </li>
+                ))}
+                </ul>
           </div>
         </div>
 
