@@ -38,6 +38,7 @@ const AllArticles = () =>
         {/* MARVEL CINEMATIC UNIVERSE */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="Mcu">Marvel Cinematic Universe</h3>
+          <p><Link to="/mcu">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Marvel Studios films, series, and specials</h4>
             <ul className="allArticles-list">
@@ -73,6 +74,7 @@ const AllArticles = () =>
         {/* MARVEL COMICS */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="MarvelComics">Marvel Comics</h3>
+          <p><Link to="/marvelcomics">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Heroes</h4>
             <ul className="allArticles-list">
@@ -88,6 +90,7 @@ const AllArticles = () =>
         {/* STAR WARS */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="StarWars">Star Wars</h3>
+            <p><Link to="/starwars">Main article</Link></p>
             <div>
                 <h4 className="article-heading-4">Star Wars films</h4>
                 <ul className="allArticles-list">
@@ -113,6 +116,7 @@ const AllArticles = () =>
         {/* COMMUNITY */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Community">Community</h3>
+            <p><Link to="/community">Main article</Link></p>
             <div>
                 <h4 className="article-heading-4">Community characters</h4>
                 <ul className="allArticles-list">
@@ -188,6 +192,7 @@ const AllArticles = () =>
         {/* THE BEATLES */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Beatles">The Beatles</h3>
+            <p><Link to="/beatles">Main article</Link></p>
             <div>
                 <h4 className="article-heading-4">Members</h4>
                 <ul className="allArticles-list">
@@ -267,6 +272,7 @@ const AllArticles = () =>
         {/* HOW I MET YOUR MOTHER */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="Himym" >How I Met Your Mother</h3>
+          <p><Link to="/himym">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Characters</h4>
             <ul className="allArticles-list">
@@ -372,6 +378,7 @@ const AllArticles = () =>
         {/* GRAND THEFT AUTO */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Gta">Grand Theft Auto</h3>
+            <p><Link to="/gta">Main article</Link></p>
             <ul className="allArticles-list">
             {gta.map((gta) => (
                 <li key={gta.id}>
@@ -384,6 +391,7 @@ const AllArticles = () =>
         {/* ASSASSIN'S CREED */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="AssassinsCreed">Assassin's Creed</h3>
+            <p><Link to="/assassinscreed">Main article</Link></p>
             <ul className="allArticles-list">
             {assassinscreed.map((ac) => (
                 <li key={ac.id}>
@@ -396,6 +404,7 @@ const AllArticles = () =>
         {/* GRAVITY FALLS */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="GravityFalls">Gravity Falls</h3>
+          <p><Link to="/gravityfalls">Main article</Link></p>
           <ul className="allArticles-list">
             <li>
               <Link to="/gravity_falls/dipper_pines">Dipper Pines</Link>
@@ -406,6 +415,7 @@ const AllArticles = () =>
         {/* A SERIES OF UNFORTUNATE EVENTS */}
         <div className="allArticles-section">
             <h3 className="article-heading-3" id="Asoue">A Series of Unfortunate Events</h3>
+            <p><Link to="/a_series_of_unfortunate_events">Main article</Link></p>
             <ul className="allArticles-list">
             {asoue.map((asoue) => (
                 <li key={asoue.id}>
@@ -418,6 +428,7 @@ const AllArticles = () =>
         {/* NON-MCU SPIDER-MAN MOVIES */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="SpidermanFilms">Non-MCU Spider-Man films</h3>
+          <p><Link to="/spiderman_films">Main article</Link></p>
           <ul className="allArticles-list">
             {spidermanFilms.map((spFilm) => (
               <li key={spFilm.id}>
