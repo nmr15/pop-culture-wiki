@@ -380,7 +380,17 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
-
+            <p>
+              The Assassin's Creed series has received mainly positive reviews from critics, with Blast Magazine calling it "the standout series on [the
+              seventh generaton] of consoles". It has been praised for its ambitious game design, visuals, and narratives but criticized for its technical
+              issues and annual releases of almost every installment, the series' shift which started in Origins, towards prioritising role-playing
+              mechanichs over stealth in several games has been considered polarizing.
+            </p>
+            <p>
+              As of September 2019, the series had sold over 140 million copies with over 95 million players, becoming Ubisoft's best selling franchise
+              and one of the highest selling video game franchises of all time. By September 2022, total sales of the series had reached 200 million. The
+              franchise reportedly generated around €4 billion in the decade leading up to 2024.
+            </p>
           </div>
         </div>
         <div>
