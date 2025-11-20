@@ -170,7 +170,15 @@ const AdventureTime = () =>
               down and erase them from existence." Fionna and Cake was renewed for a second season on December 5, 2023.
             </p>
             <h3 className="article-heading-3" id="2.5">Side Quest</h3>
+            <p>
+              On June 12, 2024, a fourth series, Adventure Time: Side Quests, was announced at the Annecy International Animation Film Festival. The
+              series will follow a younger Finn and Jake.
+            </p>
             <h3 className="article-heading-3" id="2.6">Heyo BMO</h3>
+            <p>
+              On June 12, 2024, a preschool series titled Adventure Time: Heyo BMO was announced to be in development at the Annecy International
+              Animation Film Festival. The series will follow BMO as they settle into a new neighborhood with new friends.
+            </p>
           </div>
         </div>
         <div>
