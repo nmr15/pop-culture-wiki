@@ -493,6 +493,32 @@ const AssassinsCreed = () =>
             </p>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Textlogo_Assassin%E2%80%99s_Creed_III_Liberation.svg/500px-Textlogo_Assassin%E2%80%99s_Creed_III_Liberation.svg.png" 
+                alt="" 
+              />
+            </div>
+            <p>
+              Assassin's Creed III: Liberation is a spin-off to Assassin's Creed III, originally released for the <Link>PlayStation Vita</Link> in
+              October 2012. The story takes place alongside the events of Assassin's Creed III and follows Aveline de Grandpré, a Louisiana Creole
+              woman from New Orleans, the daughter of a French merchant father and an African mother. Aveline is recruited into the Assassin Brotherhood
+              by a former slave and fights against slavery as well as the Templars, who plot to take over Louisiana after the end of the Seven Years'
+              War. Aveline uses a variety of new weapons in combat, including a machete and a blowpipe for ranged attacks, and can disguise herself to
+              deceive enemies, although certain disguises limit her movement and abilities. The entire game is presented as a product developed by the
+              in-universe company Abstergo Entertainment, who have done a heavy amount of censoring in regards to the Assassin-Templar conflict. At
+              various points during their playthrough, the player is contacted by the hacking collective Erudito, who helps them uncensor the game to
+              learn the true nature of the events depicted.
+            </p>
+            <p>
+              An original Assassin's Creed title for the PlayStation Vita was announced to be in development during Gamescom 2011 and would feature a
+              new sotyr with new characters; on June 4, 2012, at E3, Liberation was officially announced. On September 10, 2012, it was announced that
+              the game would be re-released as Assassin's Creed: Liberation HD for PlayStation 3, Xbox 360, and Microsoft Windows via the PlayStation
+              Network, Xbox Live Arcade, and Steam, respectively. In March 2019, it was announced that a remastered version of Liberation would be
+              bundled with Assassin's Creed III Remastered for Windows, PlayStation 4, Xbox One and later, for the Nintendo Switch. Ubisoft officially
+              decommissioned Assassin's Creed: Liberation HD on October 1, 2022, with no additional copies being sold outside of the bundled
+              Assassin's Creed III Remastered version.
+            </p>
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
             <h4 className="article-heading-4" id="4.2.3">Assassin's Creed Chronicles</h4>
             <h4 className="article-heading-4" id="4.2.4">Assassin's Creed Nexus VR</h4>
