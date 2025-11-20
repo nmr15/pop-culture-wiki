@@ -29,19 +29,7 @@ const AdventureTime = () =>
               {id: "3.2", title: "Parody in The Simpsons"}
             ]}
           />
-          <Collapse 
-            id="4"
-            item="Comic series"
-            sub={[
-              {id: "4.1", title: "Comic books", sub2: [
-                {id: "4.1.1", title: "Trade Paperback collections"},
-                {id: "4.1.2", title: "Sugary Shorts"},
-                {id: "4.1.3", title: "Miniseries"},
-                {id: "4.1.4", title: "Fionna and Cake comics"},
-              ]},
-              {id: "4.2", title: "Graphic novels"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#4">Comic series</a></li>
           <Collapse 
             id="5"
             item="Video games"
@@ -204,12 +192,6 @@ const AdventureTime = () =>
         <div>
           <h2 className="article-heading-2" id="4">Comic series</h2>
           <div>
-            <h3 className="article-heading-3" id="4.1">Comic books</h3>
-            <h4 className="article-heading-4" id="4.1.1">Trade Paperback collections</h4>
-            <h4 className="article-heading-4" id="4.1.2">Sugary Shorts</h4>
-            <h4 className="article-heading-4" id="4.1.3">Miniseries</h4>
-            <h4 className="article-heading-4" id="4.1.4">Fionna and Cake comics</h4>
-            <h3 className="article-heading-3" id="4.2">Graphic novels</h3>
           </div>
         </div>
         <div>
