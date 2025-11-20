@@ -24,7 +24,7 @@ const PhineasandFerb = () =>
             id="5"
             item="Production"
             sub={[
-              {id: "5.1", title: "Wiring style"},
+              {id: "5.1", title: "Writing style"},
               {id: "5.2", title: "Visual aspects and animation"},
               {id: "5.3", title: "Cast"},
               {id: "5.4", title: "Music"},
@@ -89,6 +89,61 @@ const PhineasandFerb = () =>
             concluded on June 12, 2015, before two new seasons were ordered in January 2023, with the <Link>fifth season</Link> premiering on Disney
             Channel on June 5, 2025, and on <Link>Disney+</Link> the following day.
           </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Premise</h2>
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">Episodes</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Characters</h2>
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Development</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Early inspirations</h3>
+            <h3 className="article-heading-3" id="4.2">Conception</h3>
+            <h3 className="article-heading-3" id="4.3">Pitching and pickup</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Production</h2>
+          <div>
+            <h3 className="article-heading-3" id="5.1">Writing style</h3>
+            <h3 className="article-heading-3" id="5.2">Visual aspects and animation</h3>
+            <h3 className="article-heading-3" id="5.3">Cast</h3>
+            <h3 className="article-heading-3" id="5.4">Music</h3>
+            <h3 className="article-heading-3" id="5.5">Conclusion and revival</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="6">Reception</h2>
+          <div>
+            <h3 className="article-heading-3" id="6.1">Critical response</h3>
+            <h3 className="article-heading-3" id="6.1">Ratings</h3>
+            <h3 className="article-heading-3" id="6.3">Awards and nominations</h3>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="7">Other media</h2>
+          <div>
+            <h3 className="article-heading-3" id="7.1">Films</h3>
+            <h3 className="article-heading-3" id="7.2">Crossovers and short series</h3>
+            <h3 className="article-heading-3" id="7.3">Fireside Girls scrapped and unconfirmed spinoff series</h3>
+            <h3 className="article-heading-3" id="7.4">Video games</h3>
+            <h3 className="article-heading-3" id="7.5">Live tour</h3>
+            <h3 className="article-heading-3" id="7.6">Merchandise</h3>
+          </div>
         </div>
       </main>
     </>
