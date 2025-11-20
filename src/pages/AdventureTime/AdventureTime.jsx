@@ -145,8 +145,30 @@ const AdventureTime = () =>
               Cartoons on December 7, 2008. After its initial release, the video became a viral hit on the Internet.
             </p>
             <h3 className="article-heading-3" id="2.2">Adventure Time (2010-2018)</h3>
+            <p>
+              <Link>Adventure Time</Link> is a fantasy animated television series created by Pendleton Ward and produced by Frederator Studios for
+              <Link> Cartoon Network</Link>. The series follows the adventures of a boy named Finn (Jeremy Shada) and his best friend and adoptive brother
+              Jake (John DiMaggio), a dog with the magical power to change size and shape at will. Finn and Jake live in the post-epocalyptic Land of Ooo,
+              where they interact with Princess Bubblegum, the Ice King, Marceline, BMO, and others. After the pilot became a viral hit on the Internet,
+              <Link>Nickelodeon</Link>'s executives passed on its opetion before Cartoon Network commissioned a full-length series from Fred Seibert and
+              Ward, which was previewed on March 11, 2010. The same year, the series premiered on Cartoon Network on April 5, and it ended its eight-year
+              run on September 3, 2018.
+            </p>
             <h3 className="article-heading-3" id="2.3">Adventure Time: Distant Lands (2020-2021)</h3>
+            <p>
+              On October 23, 2019, Cartoon Network announced that four hour-long specials, collectively titled <Link>Adventure Time: Distant
+              Lands</Link>, would air on <Link>HBO Max</Link>. The first two specials were released in 2020, while the third was released on May 20, 2021.
+              The fourth and final episode, "Wizard City", was released on September 2, 2021. The series focuses on new and returning characters in
+              previously unexplored areas of the Adventure Time universe.
+            </p>
             <h3 className="article-heading-3" id="2.4">Adventure Time: Fionna and Cake (2023-present)</h3>
+            <p>
+              On August 17, 2021, it was announced that a third series, <Lin>Adventure Time: Fionna and Cake</Lin>, had been ordered by HBO Max. The
+              series follows Finn and Jake's gender-swapped complements, <Link>Fionna the Human</Link> and <Link>Cake the Cat</Link>. The series also
+              starts Simon Petrikov, a character who for most of Adventure Time had been identified as the Ice King. Adventure Time: Fionna and Cake
+              sees the trio travel throughout the multiverse, while also being chased by "a powerful new antagonist" who is "determined to track them
+              down and erase them from existence." Fionna and Cake was renewed for a second season on December 5, 2023.
+            </p>
             <h3 className="article-heading-3" id="2.5">Side Quest</h3>
             <h3 className="article-heading-3" id="2.6">Heyo BMO</h3>
           </div>
