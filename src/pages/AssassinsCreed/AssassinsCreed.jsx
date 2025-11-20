@@ -436,6 +436,42 @@ const AssassinsCreed = () =>
               design was seen as linear and repetitive because payers had to complete several side quests before each assassination. The side quest
               prerequisite was one of the most criticized aspects of the game, so it was abandoned in future games.
             </p>
+            <h4 className="article-heading-4" id="4.1.2"><Link to="/assassinscreed/assassins_creed_ii">Assassin's Creed II</Link></h4>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Assassin%E2%80%99s_Creed_II_v1_logo.svg/500px-Assassin%E2%80%99s_Creed_II_v1_logo.svg.png" 
+                alt="Assassin's Creed 2 logo" 
+              />
+            </div>
+            <p>
+              Assassin's Creed II is a direct sequel to the first game and was released in November 2009 for the PlayStation 3 and Xbox 360, in March 2010
+              for Windows, and in October 2010 for OS X. The modern-day narrative again follows Desmond, who escapes from Abstergo (revealed at the end of
+              the previous game as a front for the modern-day Templars) with the aid of Assassin mole Lucy Stillman and is taken to her team's hideout.
+              Hoping to train Desmond as an Assassin, they put him in the Animus 2.0, where he begins to suffer from the bleeding effect; this allows
+              Desmond to gain his ancestors' skills, but it also damages his mind, as he begins to involuntarily experience flashes of his ancestors'
+              memories outside of the Animus. Meanwhile, the main narrative takes place at the height of the the Italian Renaissance in the later 15th
+              century and follows Desmond's Italian ancestor Ezio Auditore da Firenze, a young nobleman from <Link>Florence</Link> who is force to
+              become an Assassin after his father and brothers are killed by the Templars. During his journey to avenge their deaths, Ezio makes allies
+              such as <Link>Leonardo da Vinci</Link> and <Link>Caterina Sforza</Link> and combats enemies such as the <Link>Pazzi</Link> and
+              <Link> Barbarigo</Link> families and <Link>Rodrigo Borgia</Link>. Ezio also comes into contact with technology left behind by the First
+              Civilization, a race that created humanity and the Pieces of Eden and who were wiped out by a catastrophic event.
+            </p>
+            <p>
+              Similar to the first game, Assassin's Creed II incorporates historical events into its narrative and features recreations of several cities
+              from the time period it is set in (in this case, Florence, <Link>Venice</Link>, <Link>Forli</Link>, <Link>San Gimignano</Link>, and
+              <Link> Monteriggioni</Link>). Missions are divided into main story missions, themselves into memory sequences reflecting points in Ezio's
+              life, and side missions that can be accomplished at any time; this approach to mission structure remains consistent in the other games in
+              the series. The <Link>Villa Auditore</Link> in Monteriggioni, which acts as the Assassins' headquarters for most of the game, provides
+              several functions that can be expanded on by paying for upgrades of surrounding buildings, or by purchasing artwork, weapons, and armor for
+              the villa; in turn, the villa will generate wealth for the player at a rate influenced by the upgrades and acquisition of these items.
+            </p>
+            <h4 className="article-heading-4" id="4.1.3"><Link to="/assassinscreed/assassins_creed_brotherhood">Assassin's Creed: Brotherhood</Link></h4>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Assassin%27s_Creed_Brotherhood_logo.svg/500px-Assassin%27s_Creed_Brotherhood_logo.svg.png" 
+                alt="Assassin's Creed Brotherhood logo" 
+              />
+            </div>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
