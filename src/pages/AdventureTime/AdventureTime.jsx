@@ -151,7 +151,7 @@ const AdventureTime = () =>
             </p>
             <h3 className="article-heading-3" id="2.4">Adventure Time: Fionna and Cake (2023-present)</h3>
             <p>
-              On August 17, 2021, it was announced that a third series, <Lin>Adventure Time: Fionna and Cake</Lin>, had been ordered by HBO Max. The
+              On August 17, 2021, it was announced that a third series, <Link>Adventure Time: Fionna and Cake</Link>, had been ordered by HBO Max. The
               series follows Finn and Jake's gender-swapped complements, <Link>Fionna the Human</Link> and <Link>Cake the Cat</Link>. The series also
               starts Simon Petrikov, a character who for most of Adventure Time had been identified as the Ice King. Adventure Time: Fionna and Cake
               sees the trio travel throughout the multiverse, while also being chased by "a powerful new antagonist" who is "determined to track them
