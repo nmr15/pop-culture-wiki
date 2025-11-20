@@ -428,6 +428,14 @@ const AssassinsCreed = () =>
               begins with his demotion to the rank of Novice Assassin after he botches an attempt by the Assassins to recover a Piece of Eden, the
               Apple of Eden, from the Templars. To redeem himself, Altaïr is tasked with assassinating nine Templar targets across the Holy Land.
             </p>
+            <p>
+              Assassin's Creed introduced core elements that remained in the rest of the series. Players can freely explore the game's open world,
+              making use of Altaïr's parkour and climbing skills to navigate the environment. The game also features refined hack-and-slash combat,
+              with players able to block and counter-attacks, and stealth mechanics, such as hiding in crowds of people, which allow players to
+              aboid detection by enemies or lose pursuing foes. Although players can choose the order in which they kill their main targets, the mission
+              design was seen as linear and repetitive because payers had to complete several side quests before each assassination. The side quest
+              prerequisite was one of the most criticized aspects of the game, so it was abandoned in future games.
+            </p>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
