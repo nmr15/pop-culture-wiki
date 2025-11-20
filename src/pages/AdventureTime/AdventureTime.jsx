@@ -111,7 +111,22 @@ const AdventureTime = () =>
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Main characters</h2>
-          <div></div>
+          <div>
+            <p>
+              Adventure Time follows the adventures of a boy named <Link>Finn the Human</Link> (voiced by <Link>Jeremy Shada</Link>), and his best friend
+              and adoptive brother <Link>Jake the Dog</Link> (<Link>John DiMaggio</Link>), who has magical powers to change shape and size at will.
+              Pendleton Ward, the series' creator, describes Finn as a "fiery little kid with strong morals". Jake, on the other hand, is based on
+              Tripper Harrison, <Link>Bill Murray</Link>'s character in Meatballs. This means while Jake is somewhat care-free, he will "sit [Finn] down
+              and give him some decent advice if he really needs it". Finn and Jake live in the post-apocalyptic Land of Ooo, which was ravaged by a
+              cataclysmic event known as the "Mushroom War", a nuclear war that destroyed civilization a thousand years before the series' events.
+              Throughout the series, Finn and Jake interact with major characters, including the other main characters, Princess Bubblegum (Hynden Walch),
+              the sovereign of the Candy Kingdom and a sentient piece of gum; the Ice King (<Link>Tom Kenny</Link>), a menacing but largely misunderstood
+              ice wizard and Marceline the Vampire Queen (<Link>Olivia Olson</Link>), a thousand-year-old vampire and rock music enthusiast; and major
+              recurring characters, <Link>Lumpy Space Princess</Link> (Pendleton Ward), a melodramatic and immature princess made out of "lumps";
+              <Link> BMO</Link> (<Link>Niki Yang</Link>), a sentient video game console-shaped robot that lives with Finn and Jake; and
+              <Link> Flame Princess</Link> (<Link>Jessica DiCicco</Link>), a flame elemental and ruler of the Fire Kingdom.
+            </p>
+          </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="2">Television series</h2>
