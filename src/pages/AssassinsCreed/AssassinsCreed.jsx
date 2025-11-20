@@ -359,6 +359,27 @@ const AssassinsCreed = () =>
               revealed to be a Sage, a human reincarnation of Juno's husband <Link>Aita</Link>, who is trying to resurrect her, though he is killed by
               Abstergo before he can succeed.
             </p>
+            <p>
+              By the time of Assassin's Creed Unity, Abstergo has begun distributing the Animus technology via a video game console called the Helix,
+              tapping into an extensive, unaware player base to help them locate the remains of various Sages as part of the Phoenix Project, an attempt
+              to recreate the genetic structure of the ISU. The player character is recruited into the Assassins and tasked with exploring the memories
+              of <Link>Arno Dorian</Link>, an Assassin during the French Revolution, so that the modern-day Assassins can retrieve the body of a Sage and
+              hide it from Abstergo. Despite the Assassins' efforts, by the start of Assassin's Creed Syndicate, Abstergo has collected enough DNA
+              samples from other Sages to move forward with the Phoenix Project. The player character is again contacted by the Assassins and relives the
+              memories of <Link>Jacob and Evie Frye</Link>, twin Assassins from Victorian England, to find a Piece of Eden that Abstergo requires for the
+              next phase of the Phoenix Project. Although the Assassins beat the Templars to it, the latter manages to steal the Piece of Eden and escape
+              with it, whereupon it is revealed that Juno is manipulating various Abstergo employees to further her plans of being resurrected.
+            </p>
+            <p>
+              A new storyline is introduced in Assassin's Creed Origins focusing on Abstergo researcher <Link>Layla Hassan</Link>. While on an assignment
+              to recover an artifact from Egypt, Layla stumbles upon the remains of the <Link>Medjay Bayek</Link> and his wife <Link>Aya</Link>,
+              co-founders of the Hidden Ones, the Assassins' precursor. Against Abstergo's orders, Layla uses her personal Animus to relive Bayek's and
+              Aya's memories, causing the Templars to mark her for death. She is rescued by William Miles, who then invites her to join the Assassins
+              for her own protection. In Assassin's Creed Odyssey, Layla recovers the Spear of Leonidas, an Isu artifact from which she extracts the DNA
+              of Leonidas' grandchildren, <Link>Alexios and Kassandra</Link>. Through their memories, Layla locates the Staff of Hermes Trismegistus,
+              another Piece of Eden, which is guarded by one of the siblings (canonically Kassandra), still alive due to being sustained by the Staff.
+              Kassandra relinquishes the Staff to Layla, who is prophesied to one day restore balance to the world, and passes away.
+            </p>
           </div>
         </div>
         <div>
