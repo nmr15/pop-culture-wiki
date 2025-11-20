@@ -395,7 +395,7 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="4">Release history</h2>
           <div>
-            <h3 className="article-heading-2" id="4.1">Main series</h3>
+            <h3 className="article-heading-3" id="4.1">Main series</h3>
             <div className="row">
               {assassinscreed.map((ac) => (
                 <div className="col-4" key={ac.id}>
@@ -409,31 +409,32 @@ const AssassinsCreed = () =>
                 </div>
               ))}
             </div>
-            <h3 className="article-heading-2" id="4.2">Spin-offs</h3>
-            <h4 className="article-heading-2" id="4.2.1">Assassin's Creed III: Liberation</h4>
-            <h4 className="article-heading-2" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
-            <h4 className="article-heading-2" id="4.2.3">Assassin's Creed Chronicles</h4>
-            <h4 className="article-heading-2" id="4.2.4">Assassin's Creed Nexus VR</h4>
-            <h3 className="article-heading-2" id="4.3">Handheld and mobile games</h3>
-            <h4 className="article-heading-2" id="4.3.1">Assassin's Creed: Altaïr's Chronicles</h4>
-            <h4 className="article-heading-2" id="4.3.2">Assassin's Creed: Bloodlines</h4>
-            <h4 className="article-heading-2" id="4.3.3">Assassin's Creed II: Discovery</h4>
-            <h4 className="article-heading-2" id="4.3.4">Assassin's Creed: Multiplayer Rearmed</h4>
-            <h4 className="article-heading-2" id="4.3.5">Assassin's Creed: Recollection</h4>
-            <h4 className="article-heading-2" id="4.3.6">Assassin's Creed: Pirates</h4>
-            <h4 className="article-heading-2" id="4.3.7">Assassin's Creed: Memories</h4>
-            <h4 className="article-heading-2" id="4.3.8">Assassin's Creed Unity: Arno's Chronicles</h4>
-            <h4 className="article-heading-2" id="4.3.9">Assassin's Creed Rebellion</h4>
-            <h3 className="article-heading-2" id="4.4">Cancelled and defunct games</h3>
-            <h4 className="article-heading-2" id="4.4.1">Assassin's Creed: Project Legacy</h4>
-            <h4 className="article-heading-2" id="4.4.2">Assassin's Creed: Utopia</h4>
-            <h4 className="article-heading-2" id="4.4.3">Assassin's Creed: Initiates</h4>
-            <h4 className="article-heading-2" id="4.4.4">Assassin's Creed Identity</h4>
-            <h4 className="article-heading-2" id="4.4.5">Untitled Civil War game</h4>
-            <h3 className="article-heading-2" id="4.5">Re-release compilations and collections</h3>
-            <h3 className="article-heading-2" id="4.6">Future games</h3>
-            <h4 className="article-heading-2" id="4.6.1">Assassin's Creed Jade</h4>
-            <h4 className="article-heading-2" id="4.6.2">Assassin's Creed: Codename Hexe</h4>
+            <h4 className="article-heading-4"></h4>
+            <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
+            <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
+            <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
+            <h4 className="article-heading-4" id="4.2.3">Assassin's Creed Chronicles</h4>
+            <h4 className="article-heading-4" id="4.2.4">Assassin's Creed Nexus VR</h4>
+            <h3 className="article-heading-3" id="4.3">Handheld and mobile games</h3>
+            <h4 className="article-heading-4" id="4.3.1">Assassin's Creed: Altaïr's Chronicles</h4>
+            <h4 className="article-heading-4" id="4.3.2">Assassin's Creed: Bloodlines</h4>
+            <h4 className="article-heading-4" id="4.3.3">Assassin's Creed II: Discovery</h4>
+            <h4 className="article-heading-4" id="4.3.4">Assassin's Creed: Multiplayer Rearmed</h4>
+            <h4 className="article-heading-4" id="4.3.5">Assassin's Creed: Recollection</h4>
+            <h4 className="article-heading-4" id="4.3.6">Assassin's Creed: Pirates</h4>
+            <h4 className="article-heading-4" id="4.3.7">Assassin's Creed: Memories</h4>
+            <h4 className="article-heading-4" id="4.3.8">Assassin's Creed Unity: Arno's Chronicles</h4>
+            <h4 className="article-heading-4" id="4.3.9">Assassin's Creed Rebellion</h4>
+            <h3 className="article-heading-3" id="4.4">Cancelled and defunct games</h3>
+            <h4 className="article-heading-4" id="4.4.1">Assassin's Creed: Project Legacy</h4>
+            <h4 className="article-heading-4" id="4.4.2">Assassin's Creed: Utopia</h4>
+            <h4 className="article-heading-4" id="4.4.3">Assassin's Creed: Initiates</h4>
+            <h4 className="article-heading-4" id="4.4.4">Assassin's Creed Identity</h4>
+            <h4 className="article-heading-4" id="4.4.5">Untitled Civil War game</h4>
+            <h3 className="article-heading-3" id="4.5">Re-release compilations and collections</h3>
+            <h3 className="article-heading-3" id="4.6">Future games</h3>
+            <h4 className="article-heading-4" id="4.6.1">Assassin's Creed Jade</h4>
+            <h4 className="article-heading-4" id="4.6.2">Assassin's Creed: Codename Hexe</h4>
           </div>
         </div>
         <div>
