@@ -185,7 +185,20 @@ const AdventureTime = () =>
           <h2 className="article-heading-2" id="3">References in other media</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Cameo in Futurama</h3>
+            <p>
+              "<Link>Leela and the Genestalk</Link>" is the twenty-second episode of the <Link>seventh season</Link> of the animated television series
+              <Link to="/futurama"> Futurama</Link>, and the 136th episode of the series overall. It aired in the United States on Comedy Central on
+              August 17, 2013. The episode features a cameo of Finn and Jake, with John DiMaggio (who voices <Link>Bender</Link> in Futurama) reprising
+              his role for the appearance.
+            </p>
             <h3 className="article-heading-3" id="3.2">Parody in The Simpsons</h3>
+            <p>
+              "<Link>Monty Burns' Fleeing Circus</Link>" is the season premier of the <Link>twenty-eighth season</Link> of the animated television series
+              <Link to="/simpsons"> The Simpsons</Link>, and the 597th episode of the series overall. It aired in the United States on Fox on September
+              25, 2016. The couch gag of "Monty Burns' Fleeing Circus" is a parody of Adventure Time, parodying the series' title sequence, complete with
+              Pendleton Ward himself singing a spoof of the Advenutre Time theme song. According to Al Jean, the executive producer of The Simpsons,
+              "[The couch gag] was the brain child of the Mike Anderson, our supervising director ... it's a really beautiful, elaborate crossover".
+            </p>
           </div>
         </div>
         <div>
