@@ -9,7 +9,7 @@ import { spongebobMedia, spongebobS1 } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
-import { gfEpisodes } from '../data/dataGravityFalls';
+import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
 import { asoue } from '../data/dataAsoue';
 import { spidermanFilms } from '../data/dataSpidermanFilms';
 import { justcauseGames } from '../data/dataJustCause';
@@ -418,6 +418,26 @@ const AllArticles = () =>
               <li>
                 <Link to="/gravity_falls/dipper_pines">Dipper Pines</Link>
               </li>
+            </ul>
+          </div>
+          <div>
+            <h4 className="article-heading-4">Season 1</h4>
+            <ul className="allArticles-list">
+            {gravityFallsS1.map((gfS1) => (
+                <li key={gfS1.id}>
+                <Link to={gfS1.route}>{gfS1.title}</Link>
+                </li>
+            ))}
+            </ul>
+          </div>
+          <div>
+            <h4 className="article-heading-4">Season 2</h4>
+            <ul className="allArticles-list">
+            {gravityFallsS2.map((gfS2) => (
+                <li key={gfS2.id}>
+                <Link to={gfS2.route}>{gfS2.title}</Link>
+                </li>
+            ))}
             </ul>
           </div>
         </div>
