@@ -300,44 +300,44 @@ const AssassinsCreed = () =>
         <div>
           <h2 className="article-heading-2" id="3">Storyline</h2>
           <div>
-            <h3 className="article-heading-2" id="2.1">Premise</h3>
+            <h3 className="article-heading-3" id="2.1">Premise</h3>
             <div className="img-right">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Abstergo_2.png" 
                 alt="Abstergo logo" 
               />
-              <p>
-                The Assassin's Creed games primarily revolve around the rivalry and conflict between two ancient secret societies: the Order of Assassins,
-                who represent freedom, and the Knights Templar, who represent order. Versions of these societies have existed for centuries, with the
-                Assassins seeking to stop the Templars from gaining control of the Pieces of Eden, artifacts that can override free will to control
-                people's minds.
-              </p>
-              <p>
-                These artifacts are remnants of an ancient species pre-dating humanity called the Isu, or Precursors, which created humanity to live in
-                peace alongside them. The Isu ensured humans could not rise against them by creating the Pieces of Eden to control them. When the first
-                hybrid Isu-human beings emerged, named <Link>Adam</Link> and <Link>Eve</Link>, they were immune to the effects of the Pieces of Eden.
-                They stole the Pieces of Eden, which led to a great war that ended when a massive solar flare devastated the surface of the Earth. The
-                surviving Isu subsequently died out while humanity thrived. All that remained of the Isu were traces of their memories in the world's
-                mythologies and religions, while the Piece of Eden became lost to time, many of them hidden within underground vaults known as Temples.
-              </p>
-              <p>
-                Before their demise, three Isu, <Link>Minerva</Link>, <Link>Juno</Link>, and <Link>Jupiter</Link>, attempted to prepare humanity for
-                another solar flare they knew would come millennia later. Using a device called the Eye, which allowed them to see into possible futures,
-                Minerva and Jupiter left behind messages to guide humanity to the Grand Temple, which housed the global aurora borealis device that could
-                activate a protective shield around the Earth. However, Juno saw humanity as a threat and attempted to sabotage Minerva and Jupiter's
-                plan. Minerva and Jupiter were forced to destroy Juno and trapped her consiousness within the Grand Temple, unaware that Juno had
-                modified the global aurora borealis device to release her consciousness upon activation.
-              </p>
-              <p>
-                The series itself takes place in the modern era, in which the Templars have established the mega-corporation Abstergo Industries.
-                Abstergo has ddeveloped a device, the Animus, whose users can relive the memories of their ancestors through their genetic material.
-                Abstergo has kidnapped people who are descendants of past Assassins to locate hidden Pieces of Eden via the Animus. A user of the
-                Animus can move about in simulated memories as their ancestor, but performing actions outside the bounds of what their ancestor did can
-                lead to desynchronization of the memory. Extended use of the Animus creates a "bleeding effect" that gives users some of the skills and
-                capabilities they experienced with their ancestor, but also affects their mental well-being, as the user begins to confuse their
-                ancestor's memories with their own.
-              </p>
             </div>
+            <p>
+              The Assassin's Creed games primarily revolve around the rivalry and conflict between two ancient secret societies: the Order of Assassins,
+              who represent freedom, and the Knights Templar, who represent order. Versions of these societies have existed for centuries, with the
+              Assassins seeking to stop the Templars from gaining control of the Pieces of Eden, artifacts that can override free will to control
+              people's minds.
+            </p>
+            <p>
+              These artifacts are remnants of an ancient species pre-dating humanity called the Isu, or Precursors, which created humanity to live in
+              peace alongside them. The Isu ensured humans could not rise against them by creating the Pieces of Eden to control them. When the first
+              hybrid Isu-human beings emerged, named <Link>Adam</Link> and <Link>Eve</Link>, they were immune to the effects of the Pieces of Eden.
+              They stole the Pieces of Eden, which led to a great war that ended when a massive solar flare devastated the surface of the Earth. The
+              surviving Isu subsequently died out while humanity thrived. All that remained of the Isu were traces of their memories in the world's
+              mythologies and religions, while the Piece of Eden became lost to time, many of them hidden within underground vaults known as Temples.
+            </p>
+            <p>
+              Before their demise, three Isu, <Link>Minerva</Link>, <Link>Juno</Link>, and <Link>Jupiter</Link>, attempted to prepare humanity for
+              another solar flare they knew would come millennia later. Using a device called the Eye, which allowed them to see into possible futures,
+              Minerva and Jupiter left behind messages to guide humanity to the Grand Temple, which housed the global aurora borealis device that could
+              activate a protective shield around the Earth. However, Juno saw humanity as a threat and attempted to sabotage Minerva and Jupiter's
+              plan. Minerva and Jupiter were forced to destroy Juno and trapped her consiousness within the Grand Temple, unaware that Juno had
+              modified the global aurora borealis device to release her consciousness upon activation.
+            </p>
+            <p>
+              The series itself takes place in the modern era, in which the Templars have established the mega-corporation Abstergo Industries.
+              Abstergo has ddeveloped a device, the Animus, whose users can relive the memories of their ancestors through their genetic material.
+              Abstergo has kidnapped people who are descendants of past Assassins to locate hidden Pieces of Eden via the Animus. A user of the
+              Animus can move about in simulated memories as their ancestor, but performing actions outside the bounds of what their ancestor did can
+              lead to desynchronization of the memory. Extended use of the Animus creates a "bleeding effect" that gives users some of the skills and
+              capabilities they experienced with their ancestor, but also affects their mental well-being, as the user begins to confuse their
+              ancestor's memories with their own.
+            </p>
             <h3 className="article-heading-2" id="2.2">Story arcs</h3>
             <p>
               The first five main games in the series focus on Desmond Miles, a bartender and former Assassin who learns he is a descendant of several
