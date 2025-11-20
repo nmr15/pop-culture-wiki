@@ -321,7 +321,7 @@ const AssassinsCreed = () =>
                 mythologies and religions, while the Piece of Eden became lost to time, many of them hidden within underground vaults known as Temples.
               </p>
               <p>
-                Before their demise, three Isu, <Lin>Minerva</Lin>, <Link>Juno</Link>, and <Link>Jupiter</Link>, attempted to prepare humanity for
+                Before their demise, three Isu, <Link>Minerva</Link>, <Link>Juno</Link>, and <Link>Jupiter</Link>, attempted to prepare humanity for
                 another solar flare they knew would come millennia later. Using a device called the Eye, which allowed them to see into possible futures,
                 Minerva and Jupiter left behind messages to guide humanity to the Grand Temple, which housed the global aurora borealis device that could
                 activate a protective shield around the Earth. However, Juno saw humanity as a threat and attempted to sabotage Minerva and Jupiter's
