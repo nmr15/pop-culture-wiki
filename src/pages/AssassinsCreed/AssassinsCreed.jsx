@@ -409,7 +409,25 @@ const AssassinsCreed = () =>
                 </div>
               ))}
             </div>
-            <h4 className="article-heading-4"></h4>
+            <h4 className="article-heading-4" id="4.1.1"><Link to="/assassinscreed/assassins_creed_game">Assassin's Creed</Link></h4>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Assassin%E2%80%99s_Creed.svg/400px-Assassin%E2%80%99s_Creed.svg.png" 
+                alt="Assassin's Creed 1 logo" 
+              />
+            </div>
+            <p>
+              The first game in the series was released in November 2007 for the <Link>PlayStation 3</Link> and <Link>Xbox 360</Link>, and in April 2008
+              for Microsoft Windows. It features a historical recreation of the Holy Land (primarily the cities of Masyaf, Jerusalem, Acre, and Damascus)
+              in the late 12th century. Its narrative includes real historical figures and events from that time period. The storyline consists of two
+              portions: one set during the modern-day, which follows Desmon Miles; and one set in 1191, which follows Desmond's ancestor,
+              Altaïr Ibn-LaʼAhad, a member of the Assassin Order during the time of the Third Crusade. Desmond's story begins with his abduction by
+              pharmaceutical company Abstergo Industries, whose lead scientist, <Link>Dr. Warren Vidic</Link>, forces him to explore Altaïr's memories
+              through a machine called the Animus that allows him to connect with his ancestors' DNA. In doing so, Abstergo hopes to find powerful
+              artifacts called Pieces of Eden, which the Assassins and their rivals, the Knights Templar, have fought over for centuries. Altaïr's story
+              begins with his demotion to the rank of Novice Assassin after he botches an attempt by the Assassins to recover a Piece of Eden, the
+              Apple of Eden, from the Templars. To redeem himself, Altaïr is tasked with assassinating nine Templar targets across the Holy Land.
+            </p>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
