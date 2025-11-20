@@ -472,6 +472,25 @@ const AssassinsCreed = () =>
                 alt="Assassin's Creed Brotherhood logo" 
               />
             </div>
+            <p>
+              Assassin's Creed: Brotherhood is the sequel to Assassin's Creed II, and was released in November 2010 for the PlayStation 3 and Xbox 360, in
+              March 2011 for Windows, and in May 2011 for OS X. The game begins immediately after the events of its predecessor, at the end of which
+              Desmond was warned by Minerva, a member of the First Civilization, about a solar flare that will hit the Earth and kill most of humanity in
+              a few months. Desmond and his team travel to Monteriggioni, where they set up a new base and use the Animus to find the Temple of Juno,
+              another First Civilization member, which houses Ezio's own Apple of Eden and the key to stopping the solar flare. The main narrative
+              continues the story of Ezio, who travels to <Link>Rome</Link>, the center of Templar power in Italy, to re-establish the Assassin
+              Brotherhood there and defeat the Borgias, who have attacked Monteriggioni and stolen the Apple of Eden.
+            </p>
+            <p>
+              Brotherhood shares many of the same features as the previous game though it takes place primarily in one city: Rome. Like the Villa
+              Auditore, the player can spend money to buy and upgrade shops and other facilities throughout the city to increase the revenue they can
+              collect from it; however, the player will be required to destroy Borgia towers that control various sections of the city before they can
+              do so. The Brotherhood of Assassins is introduced, by which, after saving citizens from certain events, the player can recruit these
+              citizens as Assassins; they cn then be dispatched to remote locations across Europe to gain experience and money or can be called in to
+              help the player directly in a mission. For the first time in the series, the game features online multiplayer, in which players assume the
+              role of Abstergo employees who, through the use of the Animus, relive the genetic memories of Renaissance Templars in various game modes.
+              It was the last game to feature Assassin's Creed creator Patrice Désilets, as the creative director of the series.
+            </p>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
