@@ -131,7 +131,19 @@ const AdventureTime = () =>
         <div>
           <h2 className="article-heading-2" id="2">Television series</h2>
           <div>
+            <p>
+              Three television series make up the Adventure Time franchise: Adventure Time, Distant Lands, and Fionna and Cake. All series in total
+              amount to 302 episodes across 13 seasons of television.
+            </p>
             <h3 className="article-heading-3" id="2.1">Adventure Time Shorts (2007)</h3>
+            <p>
+              The series can trace its origin back to a seven-minute, stand-alone animated short film of the same name (this short would later be
+              identified as the show's pilot post facto). <Link>Frederator Studios</Link> identified Ward and the short in 2006, and Ward created the
+              short almost entirely by himself (along with <Link>Adam Muto</Link>, the eventual creative director and Ward's college classmate worked as
+              his creative companion on the short and future supervising director Larry Leichliter), and concluded its production in early 2006. It was
+              first broadcast on Nicktoons Network on January 11, 2007, and was re-broadcast as part of Frederator Studios' anthology show Random!
+              Cartoons on December 7, 2008. After its initial release, the video became a viral hit on the Internet.
+            </p>
             <h3 className="article-heading-3" id="2.2">Adventure Time (2010-2018)</h3>
             <h3 className="article-heading-3" id="2.3">Adventure Time: Distant Lands (2020-2021)</h3>
             <h3 className="article-heading-3" id="2.4">Adventure Time: Fionna and Cake (2023-present)</h3>
