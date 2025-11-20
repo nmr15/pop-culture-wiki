@@ -380,6 +380,16 @@ const AssassinsCreed = () =>
               another Piece of Eden, which is guarded by one of the siblings (canonically Kassandra), still alive due to being sustained by the Staff.
               Kassandra relinquishes the Staff to Layla, who is prophesied to one day restore balance to the world, and passes away.
             </p>
+            <p>
+              In Assassin's Creed Valhalla, Earth is facing yet another disaster, as its magnetic field has been continually strengthening since
+              Desomd's activation of the global aurora borealis device eight years prior. Layla exhumes the remains of Elvor Varinsdottir, a 9th-century
+              Viking, and from her memories, she learns of an Isu temple in Norway. Layla travels to the temple and enters the Grey, a virtual world
+              created by the Isu, where she meets both the Reader (implied to be Desmond's preserved consciousness) and Baslm Ibn Ishaq, a Hidden One
+              and the reincarnation of the Isu <Link>Loki</Link>, who was trapped in the Grey by Elvor. Basim helped Layla stop the disaster but then
+              abandons her in the Gray and escapes back to the real world, where he joins the modern-day Assassins. In Assassin's Creed Mirage, the
+              Assassins use a sample of Bsalm's DNA to relive his memories of his time as a Hidden One during the Islamic Golden Age, in order to learn
+              more about his nature as a reborn Isu.
+            </p>
           </div>
         </div>
         <div>
