@@ -339,6 +339,26 @@ const AssassinsCreed = () =>
               </p>
             </div>
             <h3 className="article-heading-2" id="2.2">Story arcs</h3>
+            <p>
+              The first five main games in the series focus on Desmond Miles, a bartender and former Assassin who learns he is a descendant of several
+              important Assassins throughout history, including <Link>Altaïr Ibn-LaʼAhad</Link> from the Middle East during the Third Crusade; Ezio
+              Auditore da Firenze from the Italian Renaissance; and <Link>Ratonhnhaké:ton</Link> (commonly known as Connor), a half-Mohawk, half-British
+              Assassin during the American Revolution. Desmond is used by Abstergo to find Pieces of Eden but is rescued by <Link>Lucy Stillman</Link>, 
+              an undercover agent for the Assassins. With the help of two other Assassins, <Link>Shaun Hastings</Link> and <Link>Rebecca Crane</Link>,
+              and later <Link>William Miles</Link>, Desmond's father and the leader of the modern-day Assassins, the group continue to explore Desmond's
+              genetic memories in the hopes of locating the Pieces of Eden before Abstergo. In the process, they learn about the Isu and come into
+              contact with Juno, who forces Desmond to kill Lucy, revealed to be a double agent for the Templars. The group ultimately finds the Grand
+              Temple, and Desmond activates the global aurora borealis device in time to block the solar flare, at the cost of his own life.
+            </p>
+            <p>
+              Starting with Assassin's Crred IV: Black Flag, Abstergo has refined the Animus technology to allow anyone to experience memories from the
+              genetic material of another person, allowing the Templars to continue their search for Pieces of Eden under the guise of creating
+              entertainment products. In Black Flag, players assume the role of an unnamed Abstergo employee tasked with researching the memories of
+              <Link>Edward Kenway</Link>, a pirate-turned-Assassin and Connor's grandfather. During their work, the player is blackmailed by a fellow
+              employee, John Standish, into acquiring and delivering sensitive information on Abstergo's activities to the Assassins. John is later
+              revealed to be a Sage, a human reincarnation of Juno's husband <Link>Aita</Link>, who is trying to resurrect her, though he is killed by
+              Abstergo before he can succeed.
+            </p>
           </div>
         </div>
         <div>
