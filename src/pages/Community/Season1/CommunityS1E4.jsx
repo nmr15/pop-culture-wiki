@@ -134,6 +134,19 @@ const CommunityS1E4 = () =>
               completely misinterpreted their conversation. They reveal it was actually Vaughn's poem they were ridiculing which Shirley shows off to
               everyone. Britta walks in with Vaughn who notices the poem and tearfully runs out of the room.
             </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/b/bb/1x04-Jeff_Shirley.jpg" 
+                alt="Troy_snaps" 
+              />
+            </div>
+            <p>
+              Afterwards, Shirley and Jeff decide to stop gossiping together but she does reveal Britta had a sex dream about him. In the cafeteria,
+              Abed accepts Annie's apology for what happened. Meanwhile, Britta tells Jeff that Vaughn dumped her and he admits seeing her in a
+              relationship was hard. On the quad, Vaughn's bad experience with the group has left him less carefree. Jeff sees that Shirley is now
+              gossiping with Britta and asks a nearby Pierce to borrow his Ear-Noculars. He says he got rid of them and Jeff suspects the reason was
+              Pierce overheard the rest of the group making fun of him.
+            </p>
           </div>
         </div>
       </main>
