@@ -73,7 +73,28 @@ const GtaLCS = () =>
         <div>
           <h2 className="article-heading-2" id="1">Gameplay</h2>
           <div>
-
+            <div className="img-left">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/c/c1/GTA_LCS_Staunton_Island_screenshot.png" 
+                alt="GTA_LCS_Staunton_Island_screenshot" 
+              />
+            </div>
+            <p>
+              Grand Theft Auto: Liberty City Stories is an action-adventure game set in an open world environment and played from a third-person
+              perspective. <Link>Liberty City</Link>'s layout is largely similar to Grand Theft Auto III, but it also incorporates elements found in
+              Grand Theft Auto III's successors, such as more indoor environments, clothing changes, and motorcycles. Though flyable aeroplanes and
+              helicopters are available in Vice City and San Andreas, flyable aeroplanes cannot be found in Liberty City Stories, while helicopters are
+              only accessible through certain exploits. In keeping with recent Grand Theft Auto games, the player has more flexibility in terms of moving
+              the camera around for viewing surroundings (Grand Theft Auto III is noticeably limited in that respect). In contrast to the previous
+              release in the "3D Universe", <Link to="/gta/grand_theft_auto_san_andreas">San Andreas</Link>, the Liberty City Stories protagonist lacks
+              the ability to climb and the ability to swim, contact with deep bodies of water is instantly fatal. The overall game's open world, as it is
+              based upon the original Liberty City layout, is considerably smaller than that of San Andreas.
+            </p>
+            <p>
+              The PSP version of Liberty City Stories has a multiplayer mode, for up to six players through Wi-Fi ad-hoc mode (same area). The game
+              features seven modes of wireless multiplayer gaming, in which various pedestrian and character models are from the single player mode
+              avatars. These multiplayer modes were removed in the PS2 and mobile versions.
+            </p>
           </div>
         </div>
         <div>
