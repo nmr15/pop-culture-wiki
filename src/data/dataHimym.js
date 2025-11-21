@@ -264,7 +264,7 @@ export const HimymEps = [
     "season": 2,
     "episode": 23,
     "file": "HimymS2E1",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/a/a5/2x01.jpg",
     "route": "/himym/where_were_we",
     "desc": ""
   },
@@ -274,7 +274,7 @@ export const HimymEps = [
     "season": 2,
     "episode": 24,
     "file": "HimymS2E2",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/0/07/2x02.jpg",
     "route": "/himym/the_scorpion_and_the_toad",
     "desc": ""
   },
@@ -284,7 +284,7 @@ export const HimymEps = [
     "season": 2,
     "episode": 25,
     "file": "HimymS2E3",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/1/1f/Brunch_photo.png",
     "route": "/himym/brunch",
     "desc": ""
   },
