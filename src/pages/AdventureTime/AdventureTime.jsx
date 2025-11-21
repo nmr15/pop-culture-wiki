@@ -192,11 +192,31 @@ const AdventureTime = () =>
         <div>
           <h2 className="article-heading-2" id="4">Comic series</h2>
           <div>
+            <p>
+              On November 19, 2011, KaBoom! Studios announced plans for an Adventure Time comic book series written by independent web comic creator Ryan
+              North, who wrote the series Dinosaur Comics. The series launched on February 8, 2012, with art by Shelli Paroline and Braden Lamb. In
+              October 2014, it was revealed that North had left the comic series after three years. His duties were assumed by Christopher Hastings, the
+              creator of The Adventures of Dr. McNinja. This comic book line ended in April 2018 with its seventy-fifth issue, which North returned to
+              co-write.
+            </p>
           </div>
         </div>
         <div>
           <h2 className="article-heading-2" id="5">Video games</h2>
           <div>
+            <p>
+              The series has spawned several major video game releases; various minor video games have also been released. Several, including Legends of
+              Ooo, Fionna Fights, Beemo-Adventure Time, and Ski Safari: Adventure Time, have been released on the iOS App store. A game titled Finn &
+              Jake's Quest was released on April 11, 2014 on Steam. Cartoon Network also released a multiplayer online battle arena (MOBA) game titled
+              Adventure Time: Battle Party on Cartoon Network's official site, on June 23, 2014. In April 2015, two downloadable content packs for
+              LittleBigPlanet 3 on <Link>PlayStation 3</Link> and <Link>PlayStation 4</Link> were released; one contained Adventure Time costumes, while
+              the other contained a level kit with decorations, stickers, music, objects, a background, and a bonus Fionna costume. A virtual reality (VR)
+              game titled Adventure Time: Magic Man's Head Games was also released on Oculus Rift, HTC Vive, and PlayStation VR. A second VR game, titled
+              Adventure Time: I See Ooo, was released on September 29, 2016. In that same month, Adventure Time characters were added to the Lego
+              Dimensions game. Finn and Jake became playable characters in the video game Cartoon Network: Battle Crashers which was released for the
+              Nintendo 3DS, PlayStation 4, and Xbox One on November 8, 2016, and the Nintendo Switch on October 31, 2017. Finn, Jake, and Banana Guard are
+              playable characters in the platform fighter MultiVersus.
+            </p>
             <h3 className="article-heading-3" id="5.1">Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! (2012)</h3>
             <h3 className="article-heading-3" id="5.2">Adventure Time: Explore the Dungeon Because I Don't Know! (2013)</h3>
             <h3 className="article-heading-3" id="5.3">Adventure Time: The Secret of the Nameless Kingdom (2014)</h3>
