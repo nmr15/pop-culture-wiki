@@ -202,6 +202,22 @@ const GravityFalls = () =>
               series was ending until after he read the finale script, claiming that "when I read the finale I though, this feels like, not just the
               season finale. It feels like a series finale."
             </p>
+            <p>
+              Hirsch explained in an interview with The A. V. Club that during the production of season one, a typical episode was conceived in a room
+              reserved for writers, where a simple synopsis was presented, and from then on dramatic structure was defined, and the plot was modified to
+              include a character-driven subplot, which Hirsch expressed as "the hardest thing ... to find a character story that actually uncovers,
+              explores, or pushes tension, on something our characters care about, that is properly explored via the maigc of monster or impossibility of
+              the week."
+            </p>
+            <p>
+              B and A-stories were created and were given to a writer to produce an outline, which was then subsequently checked-off by Hirsch for
+              feedback. The writer produced a draft from these edits, where more notes may have been given. Hirsch stated that he and creative director
+              Mike Rianda may have personally created a draft for themselves before a final script was produced, in which the dialogue from the draft
+              received from the writer was significantly revised; Hirsch stated that the revising process "is not a discredit to our writers, it's just
+              we have a very particular vision. In particular, I usually rewrite almost all of Dipper's dialogue and most of Mabel's dialogue, just
+              because I have them in my head. Me and Mike will stay up for about 24 hours prior to the delivery of every script. We'll take the weekend,
+              we'll work all night, we'll drink Red Bull, we'll sleep on the couch in shifts like maniacs, we'll slap each other in the face."
+            </p>
             <h3 className="article-heading-3" id="4.3">Animation</h3>
           </div>
         </div>
