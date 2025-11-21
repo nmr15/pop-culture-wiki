@@ -114,7 +114,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 8,
     "file": "HimymS1E8",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/4/43/The_Duel.png",
     "route": "/himym/the_duel",
     "desc": "When Lily decides to formally move into Marshall and Ted's apartment, Barney warns a skeptical Ted that the couple will eventually force him out. When Ted discovers that Lily replaced his beloved, but beat-up, coffee pot with a brand new one, he begins to think that Barney is right. Meanwhile, Barney invents a new dating law and tries to convince others to use it."
   },
@@ -124,7 +124,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 9,
     "file": "HimymS1E9",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/e/ec/Belly_Full_of_Turkey.png",
     "route": "/himym/belly_full_of_turkey",
     "desc": "Marshall and Lily visit the former's family in Minnesota for Thanksgiving, but Lily feels out of place with the large, loud, and rambunctious family. Meanwhile, Robin and Ted are surprised to find Barney as the Volunteer of the Year at a local soup kitchen. Ted is even more surprised as he begins to uncover unethical acts taking place behind the scenes of the charity."
   },
