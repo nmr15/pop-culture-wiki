@@ -157,6 +157,20 @@ const GravityFalls = () =>
           <h2 className="article-heading-2" id="4">Production</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Conception</h3>
+            <div className="img-right">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013.jpg" 
+                alt="Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013" 
+              />
+            </div>
+            <p>
+              Before working on the series, series creator Alex Hirsch's primary inspiration growing up was the popular animated sitcom
+              <Link> The Simpsons</Link>, where he observed that "animation could be funnier than live-action. That animation didn't have to just be for
+              kids. That it could be satirical and observational and grounded in a sense of character interaction". Hirsch graduated from the California
+              Institute of the Arts, and was hired to work as writer and storyboard artist for the <Link>Cartoon Network</Link> series The Marvelous
+              Misadventures of Flapjack, where he was paired up with <Link>Pendleton Ward</Link>, the creator of <Link>Adventure Time</Link>. Afterwards,
+              he moved on to co-develop the Disney Channel animated
+            </p>
             <h3 className="article-heading-3" id="4.2">Writing</h3>
             <h3 className="article-heading-3" id="4.3">Animation</h3>
           </div>
