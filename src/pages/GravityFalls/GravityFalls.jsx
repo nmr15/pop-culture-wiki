@@ -219,6 +219,14 @@ const GravityFalls = () =>
               we'll work all night, we'll drink Red Bull, we'll sleep on the couch in shifts like maniacs, we'll slap each other in the face."
             </p>
             <h3 className="article-heading-3" id="4.3">Animation</h3>
+            <p>
+              After a script was delivered, an episode then got translated into a storyboard, where feedback was received from Hirsch to the board
+              artists if a certain element, such as a gag, did not work. Afterwards, a pitch for the episode was given to the network, where they did a
+              read-through, and then the episode was either checked out by the network, or retooled in the small amount of time allocated before an
+              animation studio must receive something to work with. The series was animated by Rough Draft Korea Digital eMation and Yearim Productions.
+              Whenever a sequence was deemed too important for the outside animation studios to realize, it was animated in-house by storyboard artist
+              and supervisor Dana Terrace.
+            </p>
           </div>
         </div>
          <div>
