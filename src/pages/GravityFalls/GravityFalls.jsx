@@ -233,6 +233,19 @@ const GravityFalls = () =>
           <h2 className="article-heading-2" id="5">Broadcast</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Initial broadcast</h3>
+            <p>
+              The first twelve episodes of Gravity Falls aired in a regular weekly slot on Disney Channel starting in mid-2012, but subsequent episodes
+              were broadcast without similar regularity; it took until August 2013 to broadcast the remaining eight episodes of the first season. The
+              second season began airing a year later in August 2014, transitioning over to Disney XD, but again without any regulairty as to when new
+              episodes would be first broadcast. The first nine episodes aired from August to November 2014, the following two in February and March 2015,
+              the next eight from July to November 2015, and the finale aired on February 15, 2016. According to Disney XD, as each episode took about six
+              months of work to complete, they opted against stockpiling episodes to show weekly but instead take advantage of the serial nature of the
+              show, broadcasting each episode as it was completed and making an event out of it. On November 20, 2015, Hirsch announced that the series
+              would conclude with its second season, stating that this was "100% [his] choice" and that "the show isn't being cancelled, it's being
+              finished" and was reaching its intended conclusion. Hirsch has stated that he remians open to continuing the series with additional
+              episodes or specials. On April 2, 2018, reruns of the  show started airing on Disney Channel, although reruns of the show still air on
+              Disney XD.
+            </p>
             <h3 className="article-heading-3" id="5.2">International broadcast</h3>
             <h3 className="article-heading-3" id="5.3">Broadcast edits</h3>
           </div>
