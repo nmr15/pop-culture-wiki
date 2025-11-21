@@ -169,8 +169,24 @@ const GravityFalls = () =>
               kids. That it could be satirical and observational and grounded in a sense of character interaction". Hirsch graduated from the California
               Institute of the Arts, and was hired to work as writer and storyboard artist for the <Link>Cartoon Network</Link> series The Marvelous
               Misadventures of Flapjack, where he was paired up with <Link>Pendleton Ward</Link>, the creator of <Link>Adventure Time</Link>. Afterwards,
-              he moved on to co-develop the Disney Channel animated
+              he moved on to co-develop the Disney Channel animated series Fish Hooks, shortly before he pitched Gravity Falls, which was subsequently
+              green-lit.
             </p>
+            <p>
+              Hirsch said he was at the California Institute of the Arts when he turned down DreamWorks Animation executive Jeffrey Katzenberg out of a
+              desire to work for Disney. He first developed the concept for the show in an 11-minute low-budget student film that he made at the
+              Institute. Hirsch was called in to do a pitch for Disney Channel for a show based on the short pilot. Disney Channel bought the idea and
+              the series premiered on June 15, 2012.
+            </p>
+            The series was inspired by Hirsch's own childhood experiences and his relationship with his own twin sister growing up during their summer
+            vacations, such as roadside attractions including the Mystery Spot and Oregon Vortex, and a road sign for a town named Boring. He inserted
+            many of his real-life experiences in the show, such as living in Piedmont and trick-or-treating with his sister as kids. Dipper is based on
+            Hirsch's memory of how it felt to be a kid. When Hirsch was around Dipper's age, he "would record [him]self and play it backwards and try to
+            learn to speak backwards". Hirsch described himself as "that neurotic kid who would carry 16 disposable cameras everywhere I went". Mabel
+            Pines was inspired by his twin sister, Ariel Hirsch. According to Alex Hirsch, just like Mabel, his sister "really did wear wacky sweaters and
+            have a different ridiculous crush, every week." In the series, Mabel gets a pet pig, just like his sister had always wanted when she was a
+            kid. Grunkle Stan was inspired by Hirsch's grandfather Stan, who according to Hirsch "was a guy that told tall tales and would frequently
+            mess with us to get a rise out of us. So, my family really inspired the character on the show."
             <h3 className="article-heading-3" id="4.2">Writing</h3>
             <h3 className="article-heading-3" id="4.3">Animation</h3>
           </div>
