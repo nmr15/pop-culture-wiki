@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
-import Collapse from '../../components/Collapse'
-import TableMcu from "../../components/TableMcu"
+import Collapse from '../../../components/Collapse'
+import TableMcu from '../../../components/TableMcu'
 
 const AntManAndTheWasp = () =>
 {
@@ -48,15 +48,15 @@ const AntManAndTheWasp = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
-          <li>Ant-Man and the Wasp</li>
+          <li>Ant-Man (film)</li>
         </ul>
         <div>
-          <h1 className="article-heading">Ant-Man and the Wasp</h1>
+          <h1 className="article-heading">Ant-Man (film)</h1>
         </div>
         <div className="img-right img-top">
           <img 
-            src="https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" 
-            alt="Ant-Man and the Wasp poster" 
+            src="https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg" 
+            alt="Ant-Man poster" 
             className="article-heading-img" 
           />
         </div>

@@ -34,7 +34,7 @@ export const routesGta = gta.map(gta => ({
 
 export const routesMcu = mcu.map(mcu => ({
   path: mcu.route,
-  Component: lazy(() => import(`./pages/Mcu/${mcu.file}.jsx`))
+  Component: lazy(() => import(`./pages/Mcu/Films/${mcu.file}.jsx`))
 }));
 
 export const routesMcuMeta = mcuMeta.map(mcumeta => ({
