@@ -218,10 +218,33 @@ const AdventureTime = () =>
               playable characters in the platform fighter MultiVersus.
             </p>
             <h3 className="article-heading-3" id="5.1">Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! (2012)</h3>
+            <p>
+              The first gmae based on the series, Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!, was announced by Pendleton Ward on his
+              Twitter account in March 2012. The game was developed by WayForward Technologies for Nintendo DS and Nintendo 3DS, and was released by D3
+              Publisher on November 20, 2012.
+            </p>
             <h3 className="article-heading-3" id="5.2">Adventure Time: Explore the Dungeon Because I Don't Know! (2013)</h3>
+            <p>
+              The second game based on the series, Adventure Time: Explore the Dungeon Because I Don't Know!, follows Finn and Jake as they strive "to
+              save the Candy Kingdom by exploring the mysterious Secret Royal Dungeon deep below the Land of Ooo", was released in November 2013.
+            </p>
             <h3 className="article-heading-3" id="5.3">Adventure Time: The Secret of the Nameless Kingdom (2014)</h3>
+            <p>
+              On November 18, 2014, Adventure Time: The Secret of the Nameless Kingdom was released for Nintendo 3DS, <Link>Xbox 360</Link>, PlayStation
+              3, PlayStation Vita, and Microsoft Windows.
+            </p>
             <h3 className="article-heading-3" id="5.4">Adventure Time: Finn & Jake Investigations (2015)</h3>
+            <p>
+              In October 2015, the fourth major Adventure Time video game, titled Finn & Jake Investigations, was released for 3DS, Windows, and other
+              consoles. It is the first in the series to feature full 3D graphics.
+            </p>
             <h3 className="article-heading-3" id="5.5">Adventure Time: Pirates of the Enchiridion (2018)</h3>
+            <p>
+              Another game, Adventure Time: Pirates of the Enchiridion, was released for the PlayStation 4, Nintendo Switch, Windows, and Xbox One in July
+              2018. The game was published by Outright Games, developed by Climax Studios, and features the show's original cast. That game won the award
+              for "Performance in a Comedy, Lead" with John DiMaggio at the National Academy of Video Game Trade Reviewers Awards, in which Jeremy Shada
+              was also nominated for the same category.
+            </p>
           </div>
         </div>
         <div>
