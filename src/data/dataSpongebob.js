@@ -425,7 +425,398 @@ export const spongebobEps = [
     "img": "https://static.wikia.nocookie.net/spongebob/images/9/9e/Mermaid_Man_and_Barnacle_Boy_II_title_card.png",
     "route": "/spongebob/mermaid_man_and_barnacle_boy_ii",
     "desc": "In a contest, SpongeBob wins a conch shell that can summon Mermaid Man and Barnacle Boy in emergencies. However, he abuses this privilege, constantly calling the superheroes to help with everyday tasks. Eventually, the two heroes are exhausted, and SpongeBob apologizes, explaining that he just wanted to spend time with them. As a result, they let SpongeBob join them on their daily patrol, but he ends up doing several accidental things, annoying them. At a diner, Mermaid Man and Barnacle Boy decide to \"ditch\" SpongeBob by asking him to search for their theme song on the jukebox while they flee the restaurant. Outside, however, they are attacked and trapped by their arch nemesis, the Dirty Bubble. SpongeBob comes outside to tell them and sees their predicament. He asks the Dirty Bubble for his autograph, saying that he is his favorite supervillain, and \"accidentally\" pops the Dirty Bubble with a pencil tip, saving the day."
+  },
+  {
+    "id": "sponges2e1a",
+    "title": "Your Shoe's Untied",
+    "season": 2,
+    "episode": 42,
+    "file": "SpongeS2E1A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/f/f2/Your_Shoe%27s_Untied_title_card.png",
+    "route": "/spongebob/your_shoes_untied",
+    "desc": "After Patrick purchases shoes, he asks SpongeBob for help tying them. SpongeBob suddenly realizes that he forgot how to tie his shoes. He ends up going crazy because his untied shoes are impacting his daily activities and causing him to become a laughingstock. When SpongeBob returns home, Gary manages to tie his shoes in which his shell opens and reveals a record player that plays a song called \"Loop dee Loop\" that teaches SpongeBob how to tie his shoes again."
+  },
+  {
+    "id": "sponges2e1b",
+    "title": "Squid's Day Off",
+    "season": 2,
+    "episode": 43,
+    "file": "SpongeS2E1B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/5/50/Squid%27s_Day_Off_title_card.png",
+    "route": "/spongebob/squids_day_off",
+    "desc": "While trying to prevent a dime from going down a sink, Mr. Krabs gets injured and goes to the hospital. Before leaving, he puts Squidward in charge of the Krusty Krab while he is away. However, Squidward decides to take the day off and instead puts SpongeBob in charge of the restaurant under the disguise of \"running errands\", giving SpongeBob a second hat. While Squidward relaxes at home, he becomes increasingly worried that SpongeBob will mess up the job, so he repeatedly rushes back and forth between his house and the Krusty Krab only to see that everything is fine. SpongeBob then points out that the \"open\" sign was turned to \"closed\" the whole time and that they could have taken the whole day off."
+  },
+  {
+    "id": "sponges2e2a",
+    "title": "Something Smells",
+    "season": 2,
+    "episode": 44,
+    "file": "SpongeS2E2A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/ef/Something_Smells_title_card.png",
+    "route": "/spongebob/something_smells",
+    "desc": "SpongeBob tries to celebrate his Sunday with a sundae for breakfast; after running out of ice cream, he makes a sundae out of rancid ingredients that give him bad breath. Everyone in Bikini Bottom is disgusted by his horrible breath and they try to avoid him. SpongeBob asks Patrick why he is being avoided, and Patrick says it is because SpongeBob is \"ugly\". SpongeBob goes into a state of shame, but Patrick helps him get over it by telling SpongeBob to say he is \"ugly and proud\". The two go to a movie, where people continue to avoid SpongeBob, upsetting him. Patrick eats some of SpongeBob's sea onion sundae. People avoid him too, and he's convinced he caught \"the ugly\" from SpongeBob. They soon realize that SpongeBob's sundae gave them rancid breath, causing them to run around Bikini Bottom proudly proclaiming \"they stink\"."
+  },
+  {
+    "id": "sponges2e2b",
+    "title": "Bossy Boots",
+    "season": 2,
+    "episode": 45,
+    "file": "SpongeS2E2B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/0/06/Bossy_Boots_title_card.png",
+    "route": "/spongebob/bossy_boots",
+    "desc": "Pearl comes to work at the Krusty Krab during her summer vacation. She decides to change the restaurant's name to the Kuddly Krab and make it a teen-oriented restaurant. However, her ideas cause the restaurant to lose income, and Mr. Krabs tells SpongeBob to fix it without hurting Pearl's feelings. The job is becoming too stressful for Pearl, so SpongeBob pretends to \"fire\" her and allows her to go back to her daily routine. To get Mr. Krabs his money back for all the decorations he spent it on, SpongeBob takes them all to his home in exchange for one year's salary."
+  },
+  {
+    "id": "sponges2e3a",
+    "title": "Big Pink Loser",
+    "season": 2,
+    "episode": 46,
+    "file": "SpongeS2E3A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/d3/Big_Pink_Loser_title_card.png",
+    "route": "/spongebob/big_pink_loser",
+    "desc": "The mail truck comes and gives Patrick an award. However, SpongeBob sees the award that has his name on it and tells Patrick that it belongs to him. This makes Patrick want an award and become envious of SpongeBob's numerous Krusty Krab cooking awards. So Patrick gets employment at the Krusty Krab in an attempt to get his own award, but this proves to be a disaster, and he begins dressing and acting like SpongeBob as a result. He eventually gets an award for \"doing absolutely nothing longer than anyone else\"."
+  },
+  {
+    "id": "sponges2e3b",
+    "title": "Bubble Buddy",
+    "season": 2,
+    "episode": 47,
+    "file": "SpongeS2E3B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8a/Bubble_Buddy_title_card.png",
+    "route": "/spongebob/bubble_buddy",
+    "desc": "After excitedly awakening on the morning of Leif Erikson Day (October 9, though the calendar date was not mentioned during the episode), SpongeBob makes his own bubble friend because he is feeling lonely. Happy because of his new companion, he shows him to everyone around Bikini Bottom, but they refuse to share the same feelings for him."
+  },
+  {
+    "id": "sponges2e4a",
+    "title": "Dying for Pie",
+    "season": 2,
+    "episode": 48,
+    "file": "SpongeS2E4A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/a/a5/Dying_for_Pie_title_card.png",
+    "route": "/spongebob/dying_for_pie",
+    "desc": "On Employee Brotherhood Day, Squidward thinks that he gave SpongeBob an explosive pie to eat and decides to spend time with SpongeBob while he is still alive in attempt to make his last day memorable. He does a bunch of nonsensical activities with SpongeBob only to realize when the day is over that SpongeBob never ate the pie, but reveals to Squidward that he was saving it so they can share it. SpongeBob trips and accidentally drops the pie on Squidward, causing a massive explosion."
+  },
+  {
+    "id": "sponges2e4b",
+    "title": "Imitation Krabs",
+    "season": 2,
+    "episode": 49,
+    "file": "SpongeS2E4B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/7/77/Imitation_Krabs_title_card.png",
+    "route": "/spongebob/imitation_krabs",
+    "desc": "Plankton builds a robot imitating Mr. Krabs to steal the Krabby Patty formula. However, while infiltrating the Krusty Krab, this proves to be easier said than done, with SpongeBob thinking the robot Krabs is the real one. SpongeBob then inserts a penny to the \"self-destruct\" slot of robot-imitated Mr. Krabs, which destroys the robot and ruins Plankton's plan, causing SpongeBob to realize Robot Krabs was actually controlled by Plankton."
+  },
+  {
+    "id": "sponges2e5a",
+    "title": "Wormy",
+    "season": 2,
+    "episode": 50,
+    "file": "SpongeS2E5A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/0/02/Wormy_title_card.png",
+    "route": "/spongebob/wormy",
+    "desc": "SpongeBob and Patrick pet-sit for Sandy and befriend her pet caterpillar, Wormy. Meanwhile, Wormy (now as a monarch butterfly) wanders the town, but is feared by the people who don't know what a butterfly is (calling it a \"monster\"), causing massive chaos. Sandy eventually finds the escaped butterfly in the ruins of the city and catches it into an empty jar, which leads to the rest of the city cheering about Sandy \"catching the monster\"."
+  },
+  {
+    "id": "sponges2e5b",
+    "title": "Patty Hype",
+    "season": 2,
+    "episode": 51,
+    "file": "SpongeS2E5B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/20/Patty_Hype_title_card.png",
+    "route": "/spongebob/patty_hype",
+    "desc": "With the Krusty Krab low on customers, SpongeBob introduces his own idea: colorful \"Pretty Patties\". However, Mr. Krabs and Squidward deny his idea. Angry, SpongeBob leaves the Krusty Krab and sets up a stand selling his patties, which proves to be a business success. With such large attention, Mr. Krabs asks SpongeBob if he could run his business and in exchange let him run the Krusty Krab. He agrees and is delighted to be back at his old job. After the next day, the customers harshly criticize the negative effects of the patties at Mr. Krabs. The episode ends with SpongeBob rubbing pickles while Mr. Krabs gets chased by a mob of angry customers."
+  },
+  {
+    "id": "sponges2e6a",
+    "title": "Grandma's Kisses",
+    "season": 2,
+    "episode": 52,
+    "file": "SpongeS2E6A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/5/57/Grandma%27s_Kisses_title_card.png",
+    "route": "/spongebob/grandmas_kisses",
+    "desc": "SpongeBob enjoys his daily visits to Grandma's house- whom he loves very much- but he is ashamed to go now since Squidward and other people mock him for loving his grandma too much. Patrick suggests to SpongeBob to act more like an adult to avoid being mocked. However, the plan backfires when he goes back to his grandma's house. SpongeBob sees Grandma giving Patrick (acting like a child) more attention, from cookies to stories and everything in between, and gets jealous. Later, as SpongeBob prepares to leave for work, he sobs about wanting to be a baby again. This causes him to have an emotional breakdown, forcing Grandma to calm him down. Grandma reminds SpongeBob that she'll love him the same even as he grows up. SpongeBob and Grandma then embrace each other, well aware but not caring that Squidward and other people are still making fun of SpongeBob."
+  },
+  {
+    "id": "sponges2e6b",
+    "title": "Squidville",
+    "season": 2,
+    "episode": 53,
+    "file": "SpongeS2E6B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/28/Squidville_title_card.png",
+    "route": "/spongebob/squidsville",
+    "desc": "SpongeBob and Patrick, while doing another one of their charades, completely demolish Squidward's house with their reef blowers. Finally done with his crazy neighbors, Squidward moves into a gated community called Tentacle Acres with his own kind to find enjoyment, but he is overwhelmed by the results. He eventually becomes overly bored of doing the same activities over and over again. While Squidward is trying to play with a reef blower, the citizens get angry and try to chase him away. Squidward eventually uses the reef blower manically and flies out of Tentacle Acres. SpongeBob and Patrick, who happened to go into the town, had noticed what was happening but did not realize that it was Squidward."
+  },
+  {
+    "id": "sponges2e7a",
+    "title": "Prehibernation Week",
+    "season": 2,
+    "episode": 54,
+    "file": "SpongeS2E7A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/a/a8/Prehibernation_Week_title_card.png",
+    "route": "/spongebob/prehibernation_week",
+    "desc": "As Sandy prepares for hibernation, SpongeBob happily agrees to play extreme sports with her to have one last fun time with her before her long sleep. He soon regrets it after Sandy plays too riskily, later hiding from Sandy under Patrick's rock. Sandy forces the Bikini Bottom citizens to help her find SpongeBob, but they eventually get tired of her antics and also hide under Patrick's rock. Sandy proceeds to maniacally destroy Bikini Bottom looking for SpongeBob. The people throw SpongeBob out of Patrick's rock to be discovered by Sandy. This forces SpongeBob to rant to Sandy that he can't do extreme sports anymore and asks in desperation if they can still be friends. However, he sees that Sandy has already gone into hibernation and he goes to sleep too. Patrick, having returned from doing errands, finds the Bikini Bottom people under his rock."
+  },
+  {
+    "id": "sponges2e7b",
+    "title": "Life of Crime",
+    "season": 2,
+    "episode": 55,
+    "file": "SpongeS2E7B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/da/Life_of_Crime_title_card.png",
+    "route": "/spongebob/life_of_crime",
+    "desc": "SpongeBob and Patrick learn from Mr. Krabs about borrowing and manage to borrow a balloon, but are forced on the lam when it accidentally pops. They try to pay for the balloon but have no money. They run away from Bikini Bottom, and go to camp in the middle of nowhere. When Patrick eats one of the chocolate bars that he and SpongeBob were gonna have to make them last the rest of their lives, he thinks SpongeBob stole it when it is actually SpongeBob's own. They both race to the Police Station to tell the police, who go along with it and jokingly sentence them to one second in jail. It turns out it was a misunderstanding since it was \"National Free Balloon Day\", prompting both to promise not to take anything without permission again."
+  },
+  {
+    "id": "sponges2e8",
+    "title": "Christmas Who?",
+    "season": 2,
+    "episode": 56,
+    "file": "SpongeS2E8",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/7/76/Christmas_Who%3F_title_card.png",
+    "route": "/spongebob/christmas_who",
+    "desc": "This Christmas special is narrated by Patchy the Pirate, the president of the fictional SpongeBob SquarePants fan club. In the episode, Sandy tells SpongeBob about Christmas traditions, and he then relays the event to everybody in Bikini Bottom."
+  },
+  {
+    "id": "sponges2e9a",
+    "title": "Survival of the Idiots",
+    "season": 2,
+    "episode": 58,
+    "file": "SpongeS2E9A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/4/40/Survival_of_the_Idiots_title_card.png",
+    "route": "/spongebob/survival_of_the_idiots",
+    "desc": "Patrick and SpongeBob go into Sandy's treedome while she hibernates for winter. When overhearing Sandy dreaming about Texas, SpongeBob and Patrick play Cowboys and Bandits. SpongeBob and Patrick's loud commotion wakes Sandy, who has become feral and mistakes the two respectively as Pinhead Larry and Dirty Dan, and proceeds to beat them up. SpongeBob and Patrick try to escape the dome, but as the winter storm becomes more intense and the dome cools down, SpongeBob and Patrick are forced to shear all of Sandy's fur to survive."
+  },
+  {
+    "id": "sponges2e9b",
+    "title": "Dumped",
+    "season": 2,
+    "episode": 59,
+    "file": "SpongeS2E9B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/5/50/Dumped_title_card.png",
+    "route": "/spongebob/dumped",
+    "desc": "SpongeBob's pet snail Gary suddenly becomes attached to Patrick and leaves with him, leaving SpongeBob dumped. Out of jealousy, he attempts to find a new pet to show Gary that he does not need him. However, it's revealed that Gary was trying to eat a cookie in Patrick's pants pocket. After eating the cookie, Gary returns to a delighted SpongeBob."
+  },
+  {
+    "id": "sponges2e10a",
+    "title": "No Free Rides",
+    "season": 2,
+    "episode": 60,
+    "file": "SpongeS2E10A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/e4/No_Free_Rides_title_card.png",
+    "route": "/spongebob/no_free_rides",
+    "desc": "Mrs. Puff finally passes SpongeBob in his driving test, giving him his license just so she doesn't have to deal with him anymore. Soon after SpongeBob leaves, Mrs. Puff believes she has made a mistake, and starts feeling guilty for letting him slip through boating school. Indeed, SpongeBob gets a car from his parents as a gift, leading Mrs. Puff to decide to steal it."
+  },
+  {
+    "id": "sponges2e10b",
+    "title": "I'm Your Biggest Fanatic",
+    "season": 2,
+    "episode": 61,
+    "file": "SpongeS2E10B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/9/96/I%27m_Your_Biggest_Fanatic_title_card.png",
+    "route": "/spongebob/im_your_biggest_fanatic",
+    "desc": "At a convention, SpongeBob meets the Jellyspotters, a highly regarded group of jellyfishing experts. SpongeBob does everything to impress Kevin, the group leader. Kevin asks SpongeBob if he wants to try out for the group, but Kevin's scheme is to actually get SpongeBob hurt and ridicule him. In the end, however, SpongeBob is able to win the group's attention thanks to his heroic acts, and Kevin receives a taste of his own medicine after his negative attitude towards SpongeBob has gone too far."
+  },
+  {
+    "id": "sponges2e11a",
+    "title": "Mermaid Man and Barnacle Boy III",
+    "season": 2,
+    "episode": 62,
+    "file": "SpongeS2E11A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8f/Mermaid_Man_and_Barnacle_Boy_III_title_card.png",
+    "route": "/spongebob/mermaid_man_and_barnacle_boy_iii",
+    "desc": "Mermaid Man and Barnacle Boy are packing for vacation. While they are gone, they have SpongeBob and Patrick, their biggest fans, watch their Merma-Lair, but they immediately want to touch everything in the lair (despite being told not to do so) and accidentally release Man Ray. SpongeBob and Patrick try to teach Man Ray to be good."
+  },
+  {
+    "id": "sponges2e11b",
+    "title": "Squirrel Jokes",
+    "season": 2,
+    "episode": 63,
+    "file": "SpongeS2E11B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/c1/Squirrel_Jokes_title_card.png",
+    "route": "/spongebob/squirrel_jokes",
+    "desc": "The Krusty Krab begins hosting stand-up comedy nights. SpongeBob, being one of the comedy acts, makes humorous but insulting jokes about Sandy that the audience likes, but nearly costs him his friendship with Sandy. Realizing this, he tries everything to make it up to her."
+  },
+  {
+    "id": "sponges2e12a",
+    "title": "Pressure",
+    "season": 2,
+    "episode": 64,
+    "file": "SpongeS2E12A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/c4/Pressure_title_card.png",
+    "route": "/spongebob/pressure",
+    "desc": "Sandy, SpongeBob, Patrick, Squidward, and Mr. Krabs start fighting because the sea creatures think that they are better than land creatures, and Sandy thinks the exact opposite. Sandy forces the others to last one minute on land, which they manage to do until they are attacked by seagulls, and Sandy saves them."
+  },
+  {
+    "id": "sponges2e12b",
+    "title": "The Smoking Peanut",
+    "season": 2,
+    "episode": 65,
+    "file": "SpongeS2E12B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/21/The_Smoking_Peanut_title_card.png",
+    "route": "/spongebob/the_smoking_peanut",
+    "desc": "A trip to the zoo during \"Free Day\" goes wrong when a giant clam gets angry and cries loudly after SpongeBob throws a peanut to wake it up. When the incident ends up all over the news, he tries to deny it being his fault, but it is revealed the clam was crying after Mr. Krabs stole its egg."
+  },
+  {
+    "id": "sponges2e13a",
+    "title": "Shanghaied",
+    "season": 2,
+    "episode": 66,
+    "file": "SpongeS2E13A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/7/7b/Shanghaied_title_card.png",
+    "route": "/spongebob/shanghaied",
+    "desc": "SpongeBob, Squidward, and Patrick climb to the Flying Dutchman's ship after its anchor damages both SpongeBob's and Squidward's houses. Squidward complains about this, and the Dutchman throws him into a chaotic dimension. The Flying Dutchman then has SpongeBob and Patrick help him go around Bikini Bottom to scare people as his new ghostly crew. However, the Flying Dutchman quickly gets annoyed with SpongeBob and Patrick's childish and stupid antics that foil his scares, and he decides to eat them. The two decide to steal the Flying Dutchman's sock, which is the mandatory item before he eats anything. He notices the two and asks to trade for three wishes, which they accept. After they waste the first two wishes, Squidward returns and the trio fight over who gets the last one."
+  },
+  {
+    "id": "sponges2e13b",
+    "title": "Gary Takes a Bath",
+    "season": 2,
+    "episode": 67,
+    "file": "SpongeS2E13B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/cc/Gary_Takes_a_Bath_title_card.png",
+    "route": "/spongebob/gary_takes_a_bath",
+    "desc": "SpongeBob has to give Gary a bath. However, Gary, hating baths, starts a full-scale war against SpongeBob in order to avoid a bath at all costs, creating a mass havoc across SpongeBob's house. Eventually, when scolding Gary from high up a tree, he falls down and becomes dirty. SpongeBob then has to take a bath while Gary smiles about it."
+  },
+  {
+    "id": "sponges2e14a",
+    "title": "Welcome to the Chum Bucket",
+    "season": 2,
+    "episode": 68,
+    "file": "SpongeS2E14A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/ca/Welcome_to_the_Chum_Bucket_title_card.png",
+    "route": "/spongebob/welcome_to_the_chum_bucket",
+    "desc": "Mr. Krabs and Plankton hold a poker game. However, Mr. Krabs bets SpongeBob's employee contract in the stakes and loses. Because of this, SpongeBob is forced to work for Plankton in the Chum Bucket. To get himself back to the Krusty Krab in retaliation, he intentionally acts very rebellious and spoiled towards Plankton."
+  },
+  {
+    "id": "sponges2e14b",
+    "title": "Frankendoodle",
+    "season": 2,
+    "episode": 69,
+    "file": "SpongeS2E14B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/f/f1/Frankendoodle_title_card.png",
+    "route": "/spongebob/frankendoodle",
+    "desc": "SpongeBob and Patrick discover a pencil that fell down from the surface from a human artist at sea. It is no ordinary pencil—whatever artwork or shape they make using it comes to life, and the eraser can permanently destroy it. However, an artwork created by SpongeBob named DoodleBob creates havoc inside SpongeBob's house. They eventually stop DoodleBob from moving by pressing him against a hardcover exercise book, and the page is then pinned on the wall."
+  },
+  {
+    "id": "sponges2e15a",
+    "title": "The Secret Box",
+    "season": 2,
+    "episode": 70,
+    "file": "SpongeS2E15A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8c/The_Secret_Box_title_card.png",
+    "route": "/spongebob/the_secret_box",
+    "desc": "SpongeBob learns that Patrick is distracted by his \"secret box\". SpongeBob goes through great lengths to see what Patrick's box really holds in secret."
+  },
+  {
+    "id": "sponges2e15b",
+    "title": "Band Geeks",
+    "season": 2,
+    "episode": 71,
+    "file": "SpongeS2E15B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/4/40/Band_Geeks_title_card.png",
+    "route": "/spongebob/band_geeks",
+    "desc": "Squidward recruits the citizens of Bikini Bottom to play in a marching band for the Bubble Bowl, in an attempt to impress his rival, Squilliam Fancyson. Even though it was disaster at first, SpongeBob finally convinces the other band members to go through with the performance for Squidward's sake, and he takes command of their training. At the day of the performance, the band arrives to play spectacularly. Squilliam experiences a state of shock and faints, leaving Squidward to celebrate as he leaps into the air."
+  },
+  {
+    "id": "sponges2e16a",
+    "title": "Graveyard Shift",
+    "season": 2,
+    "episode": 72,
+    "file": "SpongeS2E16A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/3/3f/Graveyard_Shift_title_card.png",
+    "route": "/spongebob/graveyard_shift",
+    "desc": "Squidward and SpongeBob are forced to work 24 hours a day by Mr. Krabs, so that he can get more money. Squidward soon gets bored, and tells SpongeBob about the \"hash-slinging slasher\" just to scare him. SpongeBob's repeated scared yelling prompts Squidward to tell him that the story is fictional. However, when Squidward and SpongeBob are alone, the events in Squidward's story begin to occur, but not for long as the ghost of a non-fictional character named \"The Hash Slinging Slasher\" turns out to be someone who wanted to become a fry cook recruit in the Krusty Krab."
+  },
+  {
+    "id": "sponges2e16b",
+    "title": "Krusty Love",
+    "season": 2,
+    "episode": 73,
+    "file": "SpongeS2E16B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/0/02/Krusty_Love_title_card.png",
+    "route": "/spongebob/krusty_love",
+    "desc": "Mr. Krabs meets Mrs. Puff and is instantly smitten by her, going to his limits to prove his love for her. However, Mr. Krabs cannot control spending his money for Mrs. Puff, so he leaves SpongeBob in charge of his wallet. This is, however, easier said than done as Mr. Krabs repeatedly has SpongeBob buy gifts, exhausting SpongeBob. SpongeBob finally has had it, curses at Mr. Krabs and leaves (he told him through rich vocabulary and obscenities that \"the world has not yet heard\" \"this exhausting request to save money, and took it back once he was so uncontrollable\")."
+  },
+  {
+    "id": "sponges2e17a",
+    "title": "Procrastination",
+    "season": 2,
+    "episode": 74,
+    "file": "SpongeS2E17A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/61/Procrastination_title_card.png",
+    "route": "/spongebob/procastination",
+    "desc": "SpongeBob is assigned to compose an 800-word essay on what not to do at a stoplight as a part of his latest driving test. SpongeBob procrastinates throughout the night and has a nightmare. He quickly writes the essay in the morning with five minutes left until it's due, but when he turns it in, Mrs. Puff reveals she had cancelled the assignment."
+  },
+  {
+    "id": "sponges2e17b",
+    "title": "I'm With Stupid",
+    "season": 2,
+    "episode": 75,
+    "file": "SpongeS2E17B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/20/I%27m_with_Stupid_title_card.png",
+    "route": "/spongebob/im_with_stupid",
+    "desc": "Patrick's parents come to visit him on Starfish Day. He gets SpongeBob to act dumb so his parents will think he is smart. His parents fall for the trick, but Patrick forgets about the plan and begins insulting SpongeBob. SpongeBob gets angry and tries to convince Patrick's parents that he is smart after all. Patrick's parents don't believe him, and think that Patrick taught SpongeBob how to speak in a matter of minutes. SpongeBob gives up and runs to his house. Patrick then realizes these parents are not his true parents. Two other starfish come to the door who reveal themselves to be his parents, and the fake ones leave."
+  },
+  {
+    "id": "sponges2e18a",
+    "title": "Sailor Mouth",
+    "season": 2,
+    "episode": 76,
+    "file": "SpongeS2E18A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/c7/Sailor_Mouth_title_card.png",
+    "route": "/spongebob/sailor_mouth",
+    "desc": "SpongeBob and Patrick discover a \"bad word\" on a dumpster behind the Krusty Krab, which Patrick says is a \"sentence enhancer\" used by people to \"talk fancy\". They begin using it more often, but when they yell it in front of the entire Krusty Krab, Mr. Krabs confronts them, says it's \"bad word number 11\" and warns them never to use it again. The next day, SpongeBob and Patrick are playing a game, and after SpongeBob loses, he slips up and says word number 11. Patrick goes to tell on SpongeBob but says the word too, and they tell on each other. Mr. Krabs prepares to punish the two when he trips on a stone and in a fit of pain, says all thirteen \"bad words\". SpongeBob, Patrick, and Mr. Krabs go to tell Mama Krabs on each other, and all three of them end up having to paint her house in punishment. Later on, Mama Krabs goes to reward them with lemonade for their hard work, but she hits her foot on a rock like Mr. Krabs did. When she complains about her injury, SpongeBob, Patrick, and Mr. Krabs are shocked at her apparent bad language, though the noise she made turns out to be Old Man Jenkins honking in his jalopy, much to everyone's amusement."
+  },
+  {
+    "id": "sponges2e18b",
+    "title": "Artist Unknown",
+    "season": 2,
+    "episode": 77,
+    "file": "SpongeS2E18B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/cc/Artist_Unknown_title_card.png",
+    "route": "/spongebob/artist_unknown",
+    "desc": "Squidward becomes an art teacher at the rec center where SpongeBob is his only student, to his dismay. SpongeBob produces impressive works, but Squidward scoffs his masterpieces and refuses to acknowledge his talent, causing SpongeBob to lose his spirits. An art collector named Monty P. Moneybags then arrives and Squidward passes off one of SpongeBob's statues, reminiscent of David, as his own. However, the statue accidentally breaks and Squidward needs SpongeBob back to recreate it. SpongeBob cannot make it again, prompting Squidward to become insane with frustration and destroy everything. He inadvertently creates the same sculpture perfectly, though he storms out in anger without even seeing it, and the building's janitor ends up taking credit for it."
+  },
+  {
+    "id": "sponges2e19a",
+    "title": "Jellyfish Hunter",
+    "season": 2,
+    "episode": 78,
+    "file": "SpongeS2E19A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/9/95/Jellyfish_Hunter_title_card.png",
+    "route": "/spongebob/jellyfish_hunter",
+    "desc": "SpongeBob gives a customer at the Krusty Krab one of his custom-made Jelly Krabby Patties. The customer loves it, so Mr. Krabs gets SpongeBob to catch all the jellyfish to produce more Jelly Patties. A blue jellyfish brings SpongeBob to a factory to see that the jellyfish he caught are being mistreated by Mr. Krabs. SpongeBob frees the jellyfish and they get their revenge on Krabs. The blue jellyfish becomes friends with SpongeBob in the end."
+  },
+  {
+    "id": "sponges2e19b",
+    "title": "The Fry Cook Games",
+    "season": 2,
+    "episode": 79,
+    "file": "SpongeS2E19B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/e5/The_Fry_Cook_Games_title_card.png",
+    "route": "/spongebob/the_fry_cook_games",
+    "desc": "At the Fast Food Coliseum, the Fry Cook Games (a fast food-themed sports competition) commence. The main event is a bitter rivalry between Mr. Krabs and Plankton—fast food competitors and former Fry Cook Games athletes. SpongeBob is going to compete in the games representing the Krusty Krab, but Plankton enters the contest with Patrick representing him. The two become bitter rivals during the games, but during the last event, they become friends again when each is revealed to be wearing the other's respectively colored underpants."
+  },
+  {
+    "id": "sponges2e20a",
+    "title": "Squid on Strike",
+    "season": 2,
+    "episode": 80,
+    "file": "SpongeS2E20A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/1a/Squid_on_Strike_title_card.png",
+    "route": "/spongebob/squid_on_strike",
+    "desc": "Squidward and SpongeBob are fired after they go on labor strike, after Mr. Krabs forces them to pay unfair fees. The strike does not work, mainly because of SpongeBob's misinterpretations of the actions, and actually attracts customers to the Krusty Krab. One night, Mr. Krabs begs Squidward for him and SpongeBob to return to work; Squidward and Krabs have a long negotiation regarding the \"terms\". The next morning, it is revealed that SpongeBob destroyed the Krusty Krab in rebellion. Squidward and SpongeBob regain their jobs, and have to work for Mr. Krabs forever to pay off the damages."
+  },
+  {
+    "id": "sponges2e20b",
+    "title": "Sandy, SpongeBob, and the Worm",
+    "season": 2,
+    "episode": 81,
+    "file": "SpongeS2E20B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/d6/Sandy%2C_SpongeBob%2C_and_the_Worm_title_card.png",
+    "route": "/spongebob/sandy_spongebob_and_the_worm",
+    "desc": "An \"Alaskan bull-worm\" terrorizes Bikini Bottom, and Sandy volunteers to go after it because it ate her tail. SpongeBob keeps trying to stop Sandy from going, but she persists. They find the worm and Sandy successfully ties it in a knot and gets her tail back. SpongeBob reveals that the \"worm\" is actually the tongue of the real worm, and the worm is huge. Sandy and SpongeBob sprint away and it gives chase. They get to safety after the worm charges off a cliff and plummets down the chasm, then they head back home. Unbeknownst to them, Patrick and everybody in Bikini Bottom have moved the city to a new location at the bottom of the cliff so it will be safe from the worm. The worm then lands on top of the city and destroys it, emitting the word \"ouch\"."
   }
 ]
 
 export const spongebobS1 = spongebobEps.filter((s1) => s1.season == 1);
+export const spongebobS2 = spongebobEps.filter((s2) => s2.season == 2);
