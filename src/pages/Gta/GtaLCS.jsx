@@ -101,6 +101,14 @@ const GtaLCS = () =>
           <h2 className="article-heading-2" id="2">Synopsis</h2>
           <div>
             <h3 className="article-heading-3" id="2.1">Setting</h3>
+            <p>
+              Liberty City Stories takes place in early 1998 within the fictional Liberty City (based on the real life New York City), and forms part of
+              the "3D Universe" canon of the Grand Theft Auto series. Set three years before the events of Grand Theft Auto III, the game's setting
+              features several areas that are different from the 2001 version of Liberty City, including locations that are being constructed, or
+              facilities and buildings that are demolished by 2001. For instance, the Callahan Bridge is unfinished in 1998 so a ferry service is the main
+              link between Staunton Island and Portland. Another example is Fort Staunton, initially a "Little Italy" district in the game, until events
+              later in the storyline lead to it being mostly destroyed and becoming a construction site by 2001.
+            </p>
             <h3 className="article-heading-3" id="2.2">Characters</h3>
             <h3 className="article-heading-3" id="2.3">Plot</h3>
           </div>
