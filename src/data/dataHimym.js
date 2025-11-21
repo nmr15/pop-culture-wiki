@@ -134,7 +134,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 10,
     "file": "HimymS1E10",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/7/77/Ted%27s_memories.png",
     "route": "/himym/the_pineapple_incident",
     "desc": ""
   },
@@ -144,7 +144,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 11,
     "file": "HimymS1E11",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/7/7e/The_Limo.png",
     "route": "/himym/the_limo",
     "desc": ""
   },
@@ -154,7 +154,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 12,
     "file": "HimymS1E12",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/c/cc/The_Wedding.png",
     "route": "/himym/the_wedding",
     "desc": ""
   },
@@ -164,7 +164,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 13,
     "file": "HimymS1E13",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/4/48/Drumroll%2C_Please.png",
     "route": "/himym/drumroll_please",
     "desc": ""
   },
@@ -174,7 +174,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 14,
     "file": "HimymS1E14",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/a/a4/Zip%2C_Zip%2C_Zip.png",
     "route": "/himym/zip_zip_zip",
     "desc": ""
   },
@@ -184,7 +184,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 15,
     "file": "HimymS1E15",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/5/59/Game_Night.png",
     "route": "/himym/game_night",
     "desc": ""
   },
@@ -194,7 +194,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 16,
     "file": "HimymS1E16",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/9/90/Cupcake.png",
     "route": "/himym/cupcake",
     "desc": ""
   },
@@ -204,7 +204,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 17,
     "file": "HimymS1E17",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/e/e9/Life_Among_the_Gorillas.png",
     "route": "/himym/life_among_the_gorillas",
     "desc": ""
   },
@@ -214,7 +214,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 18,
     "file": "HimymS1E18",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/c/c0/Nothing_Good_Happens_After_2_A.M.jpg",
     "route": "/himym/nothing_good_happens_after_2am",
     "desc": ""
   },
@@ -224,7 +224,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 19,
     "file": "HimymS1E19",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/3/3a/Mary-The-Paralegal.jpg",
     "route": "/himym/mary_the_paralegal",
     "desc": ""
   },
@@ -234,7 +234,7 @@ export const HimymEps = [
     "season": 1,
     "episode": 20,
     "file": "HimymS1E20",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/b/b8/Best_Prom_Ever.jpg",
     "route": "/himym/best_prom_ever",
     "desc": ""
   },
@@ -244,9 +244,9 @@ export const HimymEps = [
     "season": 1,
     "episode": 21,
     "file": "HimymS1E21",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/himym/images/1/14/Milk.jpg",
     "route": "/himym/milk",
-    "desc": ""
+    "desc": "https://static.wikia.nocookie.net/himym/images/6/6e/Ted_finnaly_gets_some_rain.png"
   },
   {
     "id": "himyms1e22",
