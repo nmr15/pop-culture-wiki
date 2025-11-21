@@ -250,7 +250,25 @@ const AdventureTime = () =>
         <div>
           <h2 className="article-heading-2" id="6">Books</h2>
           <div>
+            <div className="img-right">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:Martin_Olson_at_Forbidden_Planet_(cropped).jpg" 
+                alt="Martin_Olson_at_Forbidden_Planet" 
+              />
+            </div>
+            <p>
+              The Adventure Time Encyclopaedia, published on July 22, 2013, was written by comedian Marin Olson, father of Olivia Olson and the voice of
+              recurring character Hunson Abadeer. This was followed by Adventure Time: The Enchiridion & Marcy's Super Secret Scrapbook!!!, which was
+              released on October 6, 2015. Written by Martin and Olivia Olson, it is presented as a combination of the Enchiridion and Marceline's secret
+              diary. An official Art of ... book, titled The ARt of Ooo was published on Octobe4 14, 2014. It contains interviews with cast and crew
+              members and opens with an introduction by filmmaker Guillermo del Toro. Two volumes with collections of the show's title cards have also
+              been released, as well as a cookbook with recipes inspired by the show.
+            </p>
             <h3 className="article-heading-3" id="6.1">Epic Tales from Adventure Time (2014-2016)</h3>
+            <p>
+              A series of prose novels have been published under the header "Epic Tales from Adventure Time", which includes The Untamed Scoundrel, Queen
+              of Rogues, The Lonesome Outlaw, and The Virtue of Ardor, all of which were written by an author under the pseudonym "T. T. MacDangereuse".
+            </p>
           </div>
         </div>
         <div>
