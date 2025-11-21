@@ -295,6 +295,13 @@ const AdventureTime = () =>
               Taiwan), and December 27 (Russia). In South Korea, the debut was on January 1, 2021.
             </p>
             <h3 className="article-heading-3" id="7.2">Board and card games</h3>
+            <p>
+              A variety of officially licensed merchandise, including action figures, role-playing toys, bedding, dishware, and various othe products,
+              have been released. Since the dramatic increase in popularity of the series, many graphic T-shirts have been officially licensed through
+              popular clothing retailers. Pendlerton Ward hosted T-shirt designing contests on the website of both We Love Finn and Threadless. Other
+              shirts can be purchased directly from Cartoon Network's store. A collectible card game called Card Wars, inspired by the fourt-season
+              episode of the same name, has been released.
+            </p>
             <h3 className="article-heading-3" id="7.3">Lego</h3>
             <h3 className="article-heading-3" id="7.4">Other</h3>
           </div>
