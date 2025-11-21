@@ -110,7 +110,48 @@ const GravityFalls = () =>
         </div>
          <div>
           <h2 className="article-heading-2" id="3">Voice cast</h2>
-          <div></div>
+          <div>
+            <div className="img-right">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jason_Ritter_y_Kristen_Schaal.jpg/500px-Jason_Ritter_y_Kristen_Schaal.jpg" 
+                alt="Jason Ritter and Kristen Schaal" 
+              />
+            </div>
+            <ul className="article-list">
+              <li>
+                <Link>Jason Ritter</Link> as <Link to="/gravityfalls/dipper_pines">Dipper Pines</Link>, the 12-year-old twin brother of Mabel Pines and
+                the straight man to his sister's antics.
+              </li>
+              <li>
+                <Link>Kristen Schaal</Link> as <Link>Mabel Pines</Link>, the 12-year-old hyperactive and fun-loving twin sister of Dipper Pines
+              </li>
+              <li>
+                <Link>Alex Hirsch</Link> as:
+                <ul className="article-sublist">
+                  <li>
+                    <Link>Stanley Pines</Link> (also known as "Grunkle Stan"), the greedy, grumpy, yet loving great-uncle of Dipper and Mabel Pines and
+                    owner and manager of the Mystery Shack.
+                  </li>
+                  <li>
+                    <Link>Jesus "Soos" Ramirez</Link>, the 22-year-old handyman at the Mystery Shack.
+                  </li>
+                  <li>
+                    <Link>Bill Cipher</Link>, an interdimensional demon that can be summoned and released into a person's mind. He resembles a one-eyed
+                    yellow triangle superficially similar to the Eye of Providence and wears a top hat and a bow tie. He serves as the main antagonist
+                    of the series.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <Link>Linda Cardellini</Link> as <Link>Wendy Corduroy</Link>, a tomboyish 15-year-old part-time cashier at the Myster Shack and Dipper's
+                unrequited crush.
+              </li>
+              <li>
+                <Link>J. K. Simmons</Link> (season 2) as Stanford Pines, Stanley's six-fingered long-lost older identical twin brother and the author of
+                the journals.
+              </li>
+            </ul>
+          </div>
         </div>
          <div>
           <h2 className="article-heading-2" id="4">Production</h2>
