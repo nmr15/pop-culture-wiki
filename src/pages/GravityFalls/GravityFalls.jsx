@@ -188,6 +188,20 @@ const GravityFalls = () =>
             kid. Grunkle Stan was inspired by Hirsch's grandfather Stan, who according to Hirsch "was a guy that told tall tales and would frequently
             mess with us to get a rise out of us. So, my family really inspired the character on the show."
             <h3 className="article-heading-3" id="4.2">Writing</h3>
+            <p>
+              In an interview with Oh My Disney, Hirsch claimed he already had the beginning, middle, and end of the story for Gravity Falls planned
+              out when he first pitched the series. He originally thought the series would "be two or three seasons". However, Hirsch had never created
+              a TV series before and after experiencing how "incredibly draining" it was, he initially wanted to end the series after season one and,
+              ultimately, on a cliffhanger. After the series premiered and became a huge commercial success, Hirsch began to rethink his decision. Two
+              people convinced him to return and do a second season: <Link>Jon Stewart</Link>, the former host of The Daily Show (and eventual Gravity
+              Falls guest star), who told Hirsch that his kids loved the show, and Patrick McHale, who created the animated series Over the Garden Wall.
+              McHale had been watching the series and told him: "Look, after that cliffhanger, you've got to finish it." Hirsch decided that he had
+              about ten more episodes left in him, so he went to the network, who said, "We only take seasons in twenties". So he said, "Okay, one more
+              seasons, ... Before we started the [second] season, it said in my contract, before I put pen to paper, that this is my last season." The
+              studio agreed, under the condition that Hirsch could never tell anyone. As a result, Jason Ritter, who voiced Dipper, did not know the
+              series was ending until after he read the finale script, claiming that "when I read the finale I though, this feels like, not just the
+              season finale. It feels like a series finale."
+            </p>
             <h3 className="article-heading-3" id="4.3">Animation</h3>
           </div>
         </div>
