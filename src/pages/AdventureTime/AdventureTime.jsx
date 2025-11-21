@@ -275,6 +275,25 @@ const AdventureTime = () =>
           <h2 className="article-heading-2" id="7">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Home release</h3>
+            <p>
+              On September 27, 2011, Cartoon Network released the region 1 DVD My Two Favorite People, which features a selection of twelve episodes from
+              the series' first two seasons. Following this, several other region 1 compilation DVDs have been released, including: It Came from the
+              Nightosphere (2012), Jake vs. Me-Mow (2012), Fionna and Cake (2013), Jake the Dad (2013), The Suitor (2014), Princess Day (2014), Adventure
+              Time and Friends (2014), Finn the Human (2014), Frost & Fire (2015), The Enchiridion (2015), Stakes (2016), Card Wars (2016), and Islands
+              (2017). All of the seasons have been released on DVD, and the final six have been released domestically on Blu-ray. A box set containing the
+              entire series was released on DVD on April 30, 2019.
+            </p>
+            <p>
+              On March 30, 2013, the first season of Adventure Time was made available on the Netflix Instant Watch service for online streaming; the
+              second season was made available on March 30, 2014. Both seasons were removed from Netflix on March 30, 2015. The series was made available
+              for streaming via Hulu on May 1, 2015.
+            </p>
+            <p>
+              While in the United States, Max becomes the primary platform to watch Adventure Time: Distant Lands, there are debuts of "BMO," the first
+              special of the spin-off series, in different countries and regions in respective Cartoon Network channels worldwide, on different dates
+              mainly in 2020; such as October 24 (Turkey), October 25 (France), November 21 (the United Kingsom), December 12 (Germany, Australia, and
+              Taiwan), and December 27 (Russia). In South Korea, the debut was on January 1, 2021.
+            </p>
             <h3 className="article-heading-3" id="7.2">Board and card games</h3>
             <h3 className="article-heading-3" id="7.3">Lego</h3>
             <h3 className="article-heading-3" id="7.4">Other</h3>
