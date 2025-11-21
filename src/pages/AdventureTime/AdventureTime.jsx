@@ -303,7 +303,24 @@ const AdventureTime = () =>
               episode of the same name, has been released.
             </p>
             <h3 className="article-heading-3" id="7.3">Lego</h3>
+            <p>
+              On March 11, 2016, it was announced by <Link>Lego</Link> via Lego Ideas that an official Adventure Time Lego set from an idea by site user,
+              aBetterMonkey, had met voting qualifications and was approved to be produced in cooperation with Cartoon Network. The set was released in
+              January 2017.
+            </p>
             <h3 className="article-heading-3" id="7.4">Other</h3>
+            <p>
+              On July 21, 2013, Taiwan High Speed Rail and the Taiwan branch of Cartoon Network worked together on a project called "Cartoon Express". The
+              entire train was covered with characters from various Cartoon Network shows (including <Link to="/the_amazing_world_of_gumball">The
+              Amazing World of Gumball</Link>, The Powerpuff Girls, Ben 10, and Regular Show), and the two sides of the train is painted with Finn and
+              Jake respectively. Throughout the project, there were over 1,400 runs of the tain and over 1.3 million passengers were transported. Near
+              the end, the Taiwan High Speed Rail also sold postcard as souvenirs for sale since August 23, 2014, and the project eventually ended on
+              September 9, 2014. In addition, Cartoon Network established a waterpark named Cartoon Network Amazone in Chonburi, Thailand; it opened on
+              October 3, 2014. Promoting the waterpark, Thai Smile painted Finn, Jake, Princess Bubblegum, and Marceling on the planes.
+            </p>
+            <p>
+              Many official or unofficial Adventure Time books such as episode guides have been published.
+            </p>
           </div>
         </div>
       </main>
