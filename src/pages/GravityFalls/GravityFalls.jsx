@@ -262,6 +262,19 @@ const GravityFalls = () =>
               also began airing on Rede Glove on May 10, 2014. In Indonesia, the show premiered on RCTI on August 17, 2014.
             </p>
             <h3 className="article-heading-3" id="5.3">Broadcast edits</h3>
+            <p>
+              The symbol on Grunkle Stan's fez was changed from a crescent shape resembling the Islamic crescent to a fish-like symbol mid-way
+              through the first season's broadcast. The symbol represents his membership in the Royal Order of the Holy Mackerel. When the series was
+              released to Disney+, the crescent-shaped symbol was edited out entirely, leaving a symbol-less fez in the early episodes, later episodes
+              featured the fish-like symbol were unaffected. However, the crescent symbol remains in the thumbnails, and on the zodiac wheel in the
+              title sequence. Hirsch drew attention to the change on Twitter. Disney has not commented on why it was removed. Sometime later, the
+              symbol on the fez was restored.
+            </p>
+            <p>
+              In 2017, Disney Channel redubbed Louis C.K.'s minor role as "The Horrifying Sweaty One-Armed Monstrosity" in the 2015 episode
+              "Weirdmagedon Part 1", as well as its 2016 follow up episode and series finale, "Weirdmageddon 3: Take Back the Falls", following
+              the comedian's admission of sexual misconduct. Series creator Alex Hirsch is now credited as voicing the character.
+            </p>
           </div>
         </div>
         <div>
