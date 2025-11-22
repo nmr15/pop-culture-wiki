@@ -110,6 +110,15 @@ const GtaLCS = () =>
               later in the storyline lead to it being mostly destroyed and becoming a construction site by 2001.
             </p>
             <h3 className="article-heading-3" id="2.2">Characters</h3>
+            <p>
+              Like previous Grand Theft Auto games, Liberty City Stories features an array of notable actors in its cast. Several characters from Grand
+              Theft Auto III make appearances in the game, receiving notable changes in appearance and lifestyles to reflect who they were in 1998.
+              Although Frank Vincent, Guru, and Sondra James return to reprise their roles as <Link>Salvatore Leone</Link>, <Link>8-Ball</Link>, and
+              <Link> Ma Cipriani</Link>, respectively, from Grand Theft Auto III (and, in Vincent's case, also Grand Theft Auto: San Andreas), other
+              returning characters from Grand Theft Auto III were voiced by new actors. For instance, Danny Mastrogiorgio replaced Michael Madsen as
+              Toni Cipriani, Fiona Gallagher replaced Debi Mazar as Maria Latore, Peter Appel replaced Robert Loggia as Ray Machowski, and Will Janowitz
+              replaced Kyle MacLachlan as Donald Love.
+            </p>
             <h3 className="article-heading-3" id="2.3">Plot</h3>
           </div>
         </div>
