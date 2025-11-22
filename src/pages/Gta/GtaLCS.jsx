@@ -134,6 +134,14 @@ const GtaLCS = () =>
               his mother (Sondra James) disapproves of his low rank in the Leone family and attempts to impress her but is disowned when she eventually
               calls a hit on him. Soon, Salvatore begins giving Tony direct assignments, including looking after his trophy wife, Maria (Fiona Gallagher).
             </p>
+            <p>
+              Toni earns Salvatore's trust, becoming a made man within the Leone family, with his mother calling off the hit on him. Vincenzo soon
+              becomes jealous of Toni's newfound position in the Leone family and lures him into an ambush to be killed, but Toni survives and kills
+              Vincenzo. On Salvatore's orders, Toni kills the city's Forelli controlled mayor, and assists business tycoon, Donald Love (Will Janowitz)
+              into getting elected as his replacement. However, Donald goes bankrupt after his ties to the Leone are discovered and loses the election to
+              Miles O'Donovan (John Braden), who soon has Salvatore arrested. Toni remains loyal to Salvatore, working for him from prison, soon killing
+              Don Paulie Sindacco (Jeff Gumer) for his involvement in Salvatore's arrest.
+            </p>
           </div>
         </div>
         <div>
