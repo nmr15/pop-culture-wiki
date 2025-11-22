@@ -120,6 +120,13 @@ const GtaLCS = () =>
               replaced Kyle MacLachlan as Donald Love.
             </p>
             <h3 className="article-heading-3" id="2.3">Plot</h3>
+            <p>
+              In 1998, Leone mobster Antonio "Tony" Cipriani (Danny Mastrogiorgio), returns home to Liberty City,living four years abroad for killing a
+              made man. His boss, Don Salvatore Leone (Frank Vincent), welcomes him back and assigns him to work under another Leone mobster, Vicenzo
+              "Lucky" Cilli (Joe Lo Truglio), who despises Toni. Meanwhile, Toni meets JD O'Toole (Greg Wilson), a member of the rival Sindacco family
+              looking to switch allegiances, and works with him to take down the Sindaccos. Later, Toni is set up by Vincenzo to be arrested during a job,
+              but escapes and cuts ties with Vincenzo.
+            </p>
           </div>
         </div>
         <div>
