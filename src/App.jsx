@@ -1,38 +1,74 @@
-import { Routes, Route } from "react-router-dom"
+import { useLayoutEffect, Suspense, lazy } from "react"
+import { Routes, Route, useLocation } from "react-router-dom"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
+import AllArticles from "./pages/AllArticles"
 import './App.css'
-import AssassinsCreed from "./pages/AssassinsCreed"
-import Beatles from "./pages/Beatles"
-import Community from "./pages/Community/Community"
-import CommunityS1E1 from "./pages/Community/CommunityS1E1"
-import Gta from "./pages/Gta"
-import Himym from "./pages/Himym"
-import MarvelComics from "./pages/MarvelComics"
-import Mcu from "./pages/Mcu"
-import Spiderman from "./pages/Spiderman"
-import Spongebob from "./pages/Spongebob"
-import StarWars from "./pages/StarWars"
+import BadBeginning from "./pages/Asoue/BadBeginning"
+import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
+import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
+import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
+import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
+import Spiderman from "./pages/MarvelComics/Spiderman"
+
+const Wrapper = ({ children }) => {
+  const location = useLocation()
+  useLayoutEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  }, [location.pathname])
+  return children
+}
 
 function App() {
 
   return (
     <>
       <Navbar />
+      <Wrapper>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/mcu' element={<Mcu />} />
-        <Route path='/marvelcomics' element={<MarvelComics />} />
-        <Route path='/marvelcomics/spiderman' element={<Spiderman />} />
-        <Route path='/starwars' element={<StarWars />} />
-        <Route path='/community' element={<Community />} />
+        <Route path='/all' element={<AllArticles />} />
+        {/* Routes for main topics */}
+        {routesTopics.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {/* Routes for MCU */}
+        {routesMcuMeta.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {routesMcu.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        <Route path='/marvelcomics/spider_man' element={<Spiderman />} />
+
+        {routesCommunityChars.map(({ path, Component }, index) => (
+            <Route key={index} path={path} element={<Component />} />
+          ))}
+
         <Route path="/community/pilot" element={<CommunityS1E1 />} />
-        <Route path='/beatles' element={<Beatles />} />
-        <Route path='/spongebob' element={<Spongebob />} />
-        <Route path='/himym' element={<Himym />} />
-        <Route path='/gta' element={<Gta />} />
-        <Route path='/assassinscreed' element={<AssassinsCreed />} />
+        <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
+        <Route path="/community/intoduction_to_film" element={<CommunityS1E3 />} />
+        <Route path="/community/social_psychology" element={<CommunityS1E4 />} />
+
+        {routesGta.map(({ path, Component }, index) => (
+            <Route key={index} path={path} element={<Component />} />
+          ))}
+
+        {routesAssassinsCreed.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {routeGfChars.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        <Route path='/a_series_of_unfortunate_events/the_bad_beginning' element={<BadBeginning />} />
       </Routes>
+      </Wrapper>
     </>
   )
 }

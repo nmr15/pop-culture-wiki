@@ -1,13 +1,95 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 *
 {
-  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  font-weight: 500;
+}
+
+h1
+{
+  font-size: 37px;
+}
+
+h2
+{
+  font-size: 30px;
+}
+
+h3
+{
+  font-size: 27px;
+}
+
+h4
+{
+  font-size: 23px;
+}
+
+h5
+{
+  font-size: 20px;
+}
+
+h6
+{
+  font-size: 16px;
 }
 
 a
 {
-  font-family: 'Roboto';
   text-decoration: none;
+}
+
+p
+{
+  padding: .5rem 0;
+  color: #212529;
+}
+
+.row
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.col-3
+{
+  width: 25%;
+}
+
+.col-4
+{
+  width: 33.33333333%;
+}
+
+.navbar
+{
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  color: #fff;
+  background-color: #212529;
 }
 
 .nav-link
@@ -20,6 +102,11 @@ a
   cursor: pointer;
 }
 
+.collapse
+{
+  padding: 0.5rem 0;
+}
+
 .sidebar
 {
   width: 18.75rem;
@@ -27,11 +114,47 @@ a
   height: 100%;
   overflow: auto;
   color: #fff;
+  background-color: #212529;
+  transition: 0.5s;
 }
 
-.sidebar ul
+.sidebar-toggle
 {
-  list-style: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.sidebar-collapse
+{
+  display: inline;
+  margin-left: .25rem;
+}
+
+.sidebar-collapse-sub
+{
+  margin-left: 2rem;
+}
+
+.sidebar-collapse-sub2
+{
+  margin-left: 2rem;
+}
+
+.sidebar-list
+{
+  padding: 1rem 2rem;
+  font-size: 14px;
+  list-style-type: none;
+}
+
+.sidebar-list-item > ul
+{
+  list-style-type: none;
+}
+
+.sidebar-list-item
+{
+  padding: .5rem 0;
 }
 
 .sidebar a
@@ -42,26 +165,75 @@ a
 .main
 {
   margin-left: 18.75rem;
+  padding: 3rem;
+  transition: .5s;
+}
+
+.breadcrumb
+{
+  padding-bottom: .5rem;
+  list-style: none;
+}
+
+.breadcrumb li
+{
+  display: inline;
+}
+
+.breadcrumb li+li:before
+{
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+.img-top
+{
+  padding-top: 1rem;
 }
 
 .img-right
 {
-  margin-left: 1rem;
+  padding: 1rem 0 1rem 1rem;
   float: right;
   clear: right;
 }
 
 .img-left
 {
-  margin-right: 1rem;
+  padding: 1rem 1rem 1rem 0;
   float: left;
   clear: left;
+}
+
+.img-right img, .img-left img
+{
+  width: 250px;
+}
+
+.div-top
+{
+  padding-top: 1rem;
 }
 
 .article-heading
 {
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #000;
+  font-weight: 500;
+}
+
+.article-heading-2
+{
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #000;
+}
+
+.article-heading-3, .article-heading-4
+{
+  padding-top: 1rem;
+  padding-bottom: .5rem;
 }
 
 .article-heading-2
@@ -73,9 +245,22 @@ a
 
 .article-heading-img
 {
-  width: 20rem;
-  height: 10rem;
-  object-fit: contain;
+  max-width: 20rem;
+}
+
+.article-list
+{
+  margin-left: 1rem;
+}
+
+.article-list li
+{
+  padding: .5rem 0
+}
+
+.article-sublist
+{
+  margin-left: 1.5rem;
 }
 
 .character-card
@@ -110,35 +295,44 @@ a
 
 .article-quote
 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   padding-left: 3rem;
   padding-right: 3rem;
 }
 
 .card
 {
-  width: 20rem;
-  margin: 0 auto;
-  border: none;
+  margin: 1rem 0;
+}
+
+.card-top, .card-body
+{
+  text-align: center;
 }
 
 .card-body
 {
-  text-align: center;
+  padding-top: 1rem;
 }
 
-.card-title
+.card-img
 {
-  color: #0d6efd;
+  max-width: 90%
 }
 
-.card-img-top
+.card-img-vertical
 {
-  width: 20rem;
-  height: 10rem;
-  object-fit: contain;
-  text-align: center;
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.card-img-horizontal
+{
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
 }
 
 table
@@ -151,12 +345,13 @@ td, th
   border: 1px solid #dddddd;
   padding: 8px;
   text-align: center;
+  font-size: 14px;
 }
 
 .table-center
 {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2rem auto;
+  padding: 2rem 0;
 }
 
 .table-list
@@ -168,7 +363,37 @@ td, th
   list-style: none;
 }
 
-.table-list li
+.table-list-link
 {
   padding: 0.5rem;
+}
+
+.table-list-link:hover
+{
+  text-decoration: underline;
+}
+
+.allArticles-section
+{
+  padding: 1.5rem 0;
+}
+
+.allArticles-list
+{
+  gap: 10px;
+  column-count: 2;
+  list-style: none;
+}
+
+@media screen and (max-width: 768px)
+{
+  .sidebar
+  {
+    width: 0;
+  }
+
+  .main
+  {
+    margin-left: 0;
+  }
 }

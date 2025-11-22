@@ -1,0 +1,157 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import TableCommunity from '../../../components/TableCommunity'
+
+const CommunityS1E4 = () =>
+{
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">End tag</a></li>
+          <Collapse 
+            id="3"
+            item="Recurring themes"
+            sub={[
+              {id: "3.1", title: "Continuity", sub2: [
+                {id: "3.1.1", title: "Narrative"},
+                {id: "3.1.2", title: "People"},
+                {id: "3.1.3", title: "Places"},
+                {id: "3.1.4", title: "Things"}
+              ]},
+              {id: "3.2", title: "Running gags"},
+              {id: "3.3", title: "Pop culture references"},
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Trivia"
+            sub={[
+              {id: "4.1", title: "DVD differences", sub2: [
+                {id: "4.1.1", title: "Intro with Chang"},
+                {id: "4.1.2", title: "First Duncan scene"},
+                {id: "4.1.3", title: "Second Duncan scene"},
+              ]},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Quotes</a></li>
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/community">Community</Link></li>
+          <li>Social Psychology</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Social Psychology</h1>
+        </div>
+        <div className="img-right img-top">
+          <img 
+            src="https://static.wikia.nocookie.net/community-sitcom/images/1/1a/Troy_dragging_legs.gif" 
+            alt="Social Psychology" 
+            className="article-heading-img"
+          />
+        </div>
+        <div className="div-top">
+          <p>
+            Social Psychology is the fourth episode of the first season of the American comedy television series <Link to="/community">Community</Link>. It
+            aired in the United States on NBC on October 8, 2009. The episode shows <Link to="/community/jeff_winger">Jeff</Link> bonding with
+            <Link to="/community/shirley_bennett"> Shirley</Link> through mockery of <Link to="/community/britta_perry">Britta</Link>'s new romantic
+            interest, <Link>Vaughn</Link>. <Link to="/community/annie_edison">Annie</Link> gets <Link to="/community/abed_nadir">Abed</Link> to participate
+            in a psychology experiment organized by <Link>Duncan</Link>. It received 4.87 million viewers in the United States and mixed critical reviews.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Plot</h2>
+          <div>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/84/SP_There%27s_the_awkward_pause.png" 
+                alt="the_awkward_pause" 
+              />
+            </div>
+            <p>
+              Jeff avoids walking to his next class with Shirley and accompanies Britta instead. He explains he can only stand Shirley's overly cheerful
+              personality in small doses. Along the way they pass a student named Vaughn who cordially greets Britta. In the <Link>cafeteria</Link>,
+              Annie joins Professor Duncan's psychology lab on the condition she brings him volunteers to participate. Meanwhile, Jeff is annoyed when he
+              sees Vaughn chatting to Britta at the <Link>coffee shop</Link>. He joins the rest of the study group at a table where
+              <Link to="/community/pierce_hawthorne"> Pierce</Link> is showing off his hearing enhancing "<Link>Ear-Noculars</Link>".
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/2/24/SP_The_triangle.png" 
+                alt="The_triangle" 
+              />
+            </div>
+            <p>
+              Annie asks if any of them are interested in test subjects for Duncan's lab experiment. <Link to="/community/troy_barnes">Troy</Link> agrees but
+              Abed says he's going to attend a local screening of the Indiana Jones movies. Annie convinces him to reconsider in the name of friendship. A
+              jealous Jeff then goes to interrupt Britta and Vaughn's conversation. Later at Duncan's lab study, he explains to his students "The Duncan
+              Principle". When a subject has no control in a situation they eventually have an emotional eruption. Duncan plans to intentionally cause this by
+              having the volunters wait for the experiment to start.
+            </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/8a/SP_Houston_we_have_an_idiot.png" 
+                alt="Houston_we_have_an_idiot" 
+              />
+            </div>
+            <p>
+              Duncan sends Annie to tell the volunteers about delay in the experiment which causes an explosive reaction from
+              <Link to="/community/ben_chang">Chang</Link>, who leaves. Meanwhile, Shirley and Jeff are walking together and actually start to bond when
+              they make fun of Pierce and Vaughn. Back at the experiment, only Troy and Abed remain as the rest of the test subjects reached their
+              breaking point. When Annie tells them of yet another delay, Troy finally loses it and leaves. Duncan theorizes that since Abed stayed the
+              longest this will cause the last test subject to have the biggest meltdown. On the campus quad, Jeff and Shirley catch Vaughn and Britta
+              making out.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/1/10/SP_Troy_snaps.png" 
+                alt="Troy_snaps" 
+              />
+            </div>
+            <p>
+              Later, Britta finds a devastated Jeff in the <Link>student lounge</Link>. She didn't tell him about Vaughn because she thought Jeff would mock
+              her him. Jeff promises he would never do that and Britta suggests the three of them all hang out together. The next day, Jeff keeps his word
+              and refuses to say anything bad about Vaughn with Shirley. Back at the lab study, Abed still hasn't had an emotional breakdown after 26 hours
+              which frustrates Duncan. A student named <Link>Garrett</Link> leaves feeling that Abed proved Duncan's theory wrong. The professor himself then
+              has a meltdown and blames Annie for having ruined his experiment by bringing Abed.
+            </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/8e/SP_Jeff_takes_a_photo_of_the_poem.png" 
+                alt="Jeff_takes_a_photo_of_the_poem" 
+              />
+            </div>
+            <p>
+              At the cafeteria, Shirley amuses Jeff by mocking Vaughn behind his back. Afterwards, Britta shows Jeff a poem Vaughn wrote for her which he
+              secretly takes a photo of. He later laughs at the poem alongside Shirley unaware that Pierce is eavesdropping with his Ear-Noculars. In
+              <Link> the study room</Link>, Annie angrily reveals to Troy and Abed the truth about the experiment. Abed explains internally he was
+              furious about the delays and only stayed because Annie said they were friends. Pierce arrives and denounces Jeff and Shirley having
+              completely misinterpreted their conversation. They reveal it was actually Vaughn's poem they were ridiculing which Shirley shows off to
+              everyone. Britta walks in with Vaughn who notices the poem and tearfully runs out of the room.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/b/bb/1x04-Jeff_Shirley.jpg" 
+                alt="Troy_snaps" 
+              />
+            </div>
+            <p>
+              Afterwards, Shirley and Jeff decide to stop gossiping together but she does reveal Britta had a sex dream about him. In the cafeteria,
+              Abed accepts Annie's apology for what happened. Meanwhile, Britta tells Jeff that Vaughn dumped her and he admits seeing her in a
+              relationship was hard. On the quad, Vaughn's bad experience with the group has left him less carefree. Jeff sees that Shirley is now
+              gossiping with Britta and asks a nearby Pierce to borrow his Ear-Noculars. He says he got rid of them and Jeff suspects the reason was
+              Pierce overheard the rest of the group making fun of him.
+            </p>
+          </div>
+        </div>
+      </main>
+    </>
+  )
+}
+
+export default CommunityS1E4;

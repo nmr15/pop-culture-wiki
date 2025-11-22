@@ -1,0 +1,502 @@
+import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import TableCommunity from '../../../components/TableCommunity'
+
+const CommunityS1E3 = () =>
+{
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">End tag</a></li>
+          <Collapse 
+            id="3"
+            item="Recurring themes"
+            sub={[
+              {id: "3.1", title: "Continuity", sub2: [
+                {id: "3.1.1", title: "Narrative"},
+                {id: "3.1.2", title: "People"},
+                {id: "3.1.3", title: "Places"},
+                {id: "3.1.4", title: "Things"}
+              ]},
+              {id: "3.2", title: "Running gags"},
+              {id: "3.3", title: "Pop culture references"},
+              {id: "3.4", title: "Meta references"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Trivia"
+            sub={[
+              {id: "4.1", title: "Translation error"},
+              {id: "4.2", title: "The Bicentennial Man"},
+              {id: "4.3", title: "Dead Poets Society"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Quotes</a></li>
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/community">Community</Link></li>
+          <li>Introduction to Film</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Introduction to Film</h1>
+        </div>
+        <div className="img-right img-top">
+          <img 
+            src="https://static.wikia.nocookie.net/community-sitcom/images/6/6c/ITF.png" 
+            alt="Introduction to Film" 
+            className="article-heading-img"
+          />
+        </div>
+        <div className="div-top">
+          <p>
+            Introduction to Film is the third episode of the first season of the American comedy television series <Link to="/community">Community</Link>.
+            It aired in the United States on NBC on October 1, 2009. The episode sees <Link to="/community/jeff_winger">Jeff</Link> attempt to "seize
+            the day" to pass a class, while Britta pays for Abed to take a filmmaking class, to his dad's annoyance. It received generally positive
+            reviews and garnered 5.86 million viewers upon its premiere.
+          </p>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="1">Plot</h2>
+          <div>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/f/fc/Seize_the_day%21.png" 
+                alt="Seize the day" 
+              />
+            </div>
+            <p>
+              Jeff attends an accounting class taught by <Link>Professor Whitman</Link> which is less about learning and more about the philosophy
+              of "seizing the day". Over in <Link>the study room</Link>, the <Link>group</Link> is irritated at
+              <Link to="/community/pierce_hawthorne"> Pierce</Link> who cannot operate his cell phone. Jeff then arrives excited about the blow off
+              class he just found and suggests the group sign up too. <Link to="/community/abed_nadir">Abed</Link> declines, explaining that his dad
+              forbids him taking any class that won't help him run the family falafel business. <Link to="/community/britta_perry">Britta</Link>
+              decides to give Abed the money to pay for a film class he actually wants to take. He suggests that they all get back to studying but is
+              subsequently distracted by <Link to="/community/troy_barnes">Troy</Link>'s funny sneeze.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/7/7f/ITF_Living_in_the_moment_by_standing_on_desks.png" 
+                alt="Living_in_the_moment_by_standing_on_desks" 
+              />
+            </div>
+            <p>
+              The study group, minus Britta and Abed, join Jeff for Professor Whitman's accounting course the following day. After
+              <Link to="/community/shirley_bennett"> Shirley</Link> introduces herself to the class, Whitman encourages her to have an emotional
+              breakthrough regarding her husband. He then commands Annie along with the rest of the students to stand on their desks. After one of the
+              students gets injured when her desk collapses, Whitman gives out their homework assignments and dismisses them. He asks that Jeff stay behind
+              and hells him he believes his motivations for taking the class are insincere. If by the end of the week he doesn't try to genuinely "live in
+              the moment" and "seize the day", Whitman will fail him. Later, Jeff is complaining to Britta about Whitman's ultimatum.
+            </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/d/de/ITF_it_was_difficult_talking_to_him_before_now_wehave_this_between_us.png" 
+                alt="it_was_difficult_talking_to_him_before_now_wehave_this_between_us" 
+              />
+            </div>
+            <p>
+              She asks him how his class is going, and he mentions that he is working on a documentary. It is then that <Link>Abed's father</Link> shows
+              up and confronts Britta. He tells her that he is responsible for Abed and doesn't need her help raising him. The two begin to argue, and
+              when it becomes physical, Jeff steps in to separate them. Jeff tells Mr. Nadir that Abed is an adult now and can make his own decisions.
+              Fed up with the situation, Abed's father respons that Abed is their responsibility now and leaves the campus. The next day in the
+              <Link> cafeteria</Link>, Britta runs into Jeff who is dressed in a ridicoulous outfit and waiting for Whitman to arrive for his morning
+              coffee.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/a/a3/ITF_Shazbot.png" 
+                alt="Shazbot" 
+              />
+            </div>
+            <p>
+              Britta has accepted the role of Abed's provider and is trying to calculate his expenses for the semester. Abed arrives with an expensive
+              new camera bought with Britta's money. He continues to film his documentary, casting Jeff and Britta in the roles of his parents. Distracted
+              by Abed's wasteful spending. Jeff fails to notice Whitman's arrival. The professor disapproves of Jeff's outfit before ordering a birthday
+              cake from the <Link>Hot & Brown</Link> coffee shop. Meanwhile, in the <Link>student lounge</Link>, Pierce offers to teach Troy how to sneeze
+              strongly and with intent. Elsewhere, Jeff concots a more elaborate scheme to impress Whitman.
+            </p>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/a/ac/ITF_Whitman%27s_verdict.png" 
+                alt="Whitman's_verdict" 
+              />
+            </div>
+            <p>
+              Jeff lies in wait for Whitman to appear in the campus courtyard and launches his plan. Whitman witnesses the entire charade and gives it a
+              disapproving thumbs down. He tells Jeff to sincerely try to seize the day, or he will not only fail the class but life as well. Overhearing
+              their conversation as she approaches, Britta arrives and gets a flower from Whitman before he leaves. She asks Jeff to talk to Abed about
+              his behavior as she just learned he hasn't been attending the film class she paid for. She pleads with Jeff to talk to Abed since he
+              refuses to talk to her. It is then that they both notice Abed filming them for his documentary.
+            </p>
+            <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/f/f7/IF_Filming_Mom_and_Dad.png" 
+                alt="Filming_Mom_and_Dad" 
+              />
+            </div>
+           <p>
+              Later in the study room, Abed is treating the group to pizza using Britta's money. Britta again urgest Jeff to talk to him about his
+              recent be havior. When Jeff confronts Abed about cutting class, he replies that working on his movie project is much more important. When a
+              delivery man arrives with lattes, paid for by Britta's money, she immediately loses her cool. She starts to get hysterical and demands that
+              Abed explain himself. Abed refuses to give her any answers and instead suggests to her that this is the scene where she leaves. After Britta
+              leaves upset, Abed turns to Jeff for his reaction. He calls Abed weird before leaving as well.
+            </p>
+             <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/8/87/IF_Abeds_film.png" 
+                alt="Abed's_film" 
+              />
+            </div>
+            <p>
+              The following day, Jeff tricks both Britta and Abed's father to come to the study room. Abed is there as well, editing his movie on the computer.
+              Jeff gathered them all for a meeting to hopefully resolve the situation. However, Jeff's efforts are futile as things become heated again
+              between Britta and Abed's dad. Abed cuts through all the arguing with an announcment that his project is finished. He gets the other three to
+              sit down and watch his film "<Link>Six Candles</Link>". Britta and Jeff are unsure what they are watching and are surprised to see the movie
+              upsets Abed's father, who is crying. He tells Abed that he never blamed him for what happened to his marriage.
+            </p>
+             <div className="img-left">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/d/d9/IF_JB_First_kiss.png" 
+                alt="JB_First_kiss" 
+              />
+            </div>
+            <p>
+              Abed's father turns to Britta and Jeff and says that if filmmaking is a way for Abed to express himself and be understood, then he will pay for
+              the classes. After he leaves, Britta realizes that Abed planned this all along and tells him it was a poor way to treat his friend but Abed is
+              unapologetic. Meanwhile, Pierce and Troy are walking behind Shirley, and Troy tests his new sneeze, leaving Shirley impressed. Later, outside the
+              <Link> library</Link>, Britta is bothered by the fact that she's now in Jeff's debt. She asks Jeff to kiss her, and he eagerly complies. When the
+              kiss ends, Professor Whitman shouts out his approval of Jeff seizing the day. Britta tells Jeff that they are now even and walks off. Whitman
+              further congratulates Jeff and tells him that the kiss just earned him a passing grade in his class.
+            </p>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="2">End tag</h2>
+          <div>
+            <p>
+              Troy and Abed try to krump before being joined by Jeff who tries to show them how it's done.
+            </p>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Themes</h2>
+          <div>
+            <h3 className="article-heading-3" id="3.1">Continuity</h3>
+            <h4 className="article-heading-4" id="3.1.1">Narrative</h4>
+            <ul className="article-list">
+              <li>
+                <b>Discontinuity</b>: The photo of Abed's mom appears to be that of a middle-eastern woman, but it is stated several times on the show
+                that his mother is Polish. It's possible that she is of Asian ethnicity but grew up in Poland.
+              </li>
+              <li>
+                <b>Express tuition</b>: All Whitman teaches his students is to "seize the day". His class is supposed to be accounting.
+              </li>
+              <li>
+                <b>Googly eyes</b>: Jeff and Britta share their first kiss in this episode although Britta explains it was only for Professor Whitman's
+                benefit and to make things even between them for him helping her out with Abed.
+              </li>
+              <li>
+                <b>History lesson</b>:
+                <ul className="aritcle-sublist">
+                  <li>
+                    Shirley fills in more details about why she's at Greendale when she reveals she was left by <Link>her husband</Link> who cheated on
+                    her and now wants to get what's hers.
+                  </li>
+                  <li>
+                    Abed's desire to get into filmmaking is revealed. He would eventually move to Hollywood and become a personal assistant on a TV show
+                    in "<Link to="/community/emotional_consequences_of_broadcast_television">Emotional Consequences of Broadcast Television</Link>".
+                  </li>
+                  <li>
+                    Through Abed and Gubi's relationship, Britta's own strained relationship with her father is hinted at.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <b>Middle Eastern Magic 8 Ball</b>: <Link to="/community/annie_edison">Annie</Link> is inspired by Professor Whitman's philosophy of
+                living in the moment and makes a few significant decisions in the <Link>Season 1</Link> finale
+                "<Link to="/community/pascals_triangle_revisited"> Pascal's Triangle Revisited</Link>" based on the idea.
+              </li>
+            </ul>
+            <h4 className="article-heading-4" id="3.1.2">People</h4>
+              <ul className="article-list">
+                <li>
+                  <b>First appearance</b>:
+                  <ul className="article-sublist">
+                    <li>
+                      Professor <Link>Eustice Whitman</Link> debuts. He is the Accounting professor who is heavily inspired by the film Dead Poets
+                      Society. He next appears in the episode "<Link to="/community/debate_109">Debate 109</Link>".
+                    </li>
+                    <li>
+                      <Link>Gobi Nadir</Link> debuts. He is the father of Abed who runs a falafel restaurant. He next appears in the episode
+                      "<Link to="/community/basic_genealogy">Basic Genealogy</Link>".
+                    </li>
+                    <li>
+                      <Link>Stoner friend</Link> debuts. He is a coffee delivery guy who is also a buddy of <Link>Vaughn Miller</Link>. He next appears
+                      in the episode "<Link to="/community/social_psychology">Social Psychology</Link>".
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            <h4 className="article-heading-4" id="3.1.3">Places</h4>
+              <ul className="article-list">
+                <li>
+                  <b>This must be the place</b>:
+                  <ul className="article-sublist">
+                    <li>
+                      <Link>Group Study Room F</Link>
+                    </li>
+                    <li>
+                      <Link>Library</Link>
+                    </li>
+                    <li>
+                      <Link>Cafeteria</Link>
+                    </li>
+                    <li>
+                      <Link>Hot & Brown</Link>
+                    </li>
+                    <li>
+                      <Link>Student lounge</Link>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            <h4 className="article-heading-4" id="3.1.4">Things</h4>
+            <ul className="article-list">
+              <li>
+                <b>School supplies</b>: The <Link>Foosball table</Link> debuts.
+              </li>
+              <li>
+                <b>School uniform</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Troy is still wearing his <Link>letterman jacket</Link>, and Pierce tells him to lose it because it makes him look like a high school
+                    bitch.
+                  </li>
+                  <li>
+                    Annie wears <Link>a light blue cardigan</Link> and later, a yellow one.
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <h3 className="article-heading-3" id="3.2">Running gags</h3>
+            <ul className="article-list">
+              <li>
+                <b>Awww!</b>: Annie and Shirley coo when they see that the check Britta made out to Abed for his class is signed out with "For dreams".
+              </li>
+              <li>
+                <b>Double entendre</b>: Troy gets upset that Jeff says he sneezes like a girl, and he replies, "How about I pound you like a boy?" before
+                quickly realizing how that could be misinterpreted.
+              </li>
+              <li>
+                <b>You're a huge nerd</b>: Jeff joins Troy and Abed when they try to krump.
+              </li>
+            </ul>
+            <h3 className="article-heading-3" id="3.3">Pop culture references</h3>
+            <ul className="article-list">
+              <li>
+                <b>IMDb</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Dead Poets Society is mentioned by Jeff as having heavily influenced Professor Whitman.
+                  </li>
+                  <li>
+                    Aladdin is mentioned by Troy who considers Jafar a badass.
+                  </li>
+                  <li>
+                    Jeff describes Abed's short film as not exactly Citizen Kane.
+                  </li>
+                  <li>
+                    Britta is disappointed that Jeff lied to her about having Ravi Shankar tickets.
+                  </li>
+                  <li>
+                    Abed's film, "Six Candles", is a reference to John Hughes' Sixteen Candles.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <b>Shout out</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Actor/comedian Robin Williams is mentioned and referenced. Abed dislikes how in every movie, an authority figure will criticize
+                    Williams for making people laugh.
+                  </li>
+                  <li>
+                    Gobi Nadir asks Jeff where the band Weezer is.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <b>Use your allusions</b>:
+                <ul className="article-sublist">
+                  <li>
+                    Many references to the movie Dead Poets Society are alluded to in this episode. The last name Whitman itself is a reference to the
+                    poet Walt Whitman that the teacher in the film, John Keating, was a fan of.
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <h3 className="article-heading-3" id="3.4">Meta references</h3>
+            <ul className="article-list">
+              <li>
+                <b>IRL</b>: Gobi Nadir tells Jeff to go host the popular TV talent show American Idol, alluding to Ryan Seacrest who <Link>Joel
+                McHale</Link> has a real life friendly rivalry with.
+              </li>
+              <li>
+                <b>Parody</b>: A key scene in Dead Poets Society is re-enacted when Professor Whitman asks his studnets to stand on their desks which is
+                what John Keating requested his students do as well in the film. Unfortunately, it has less than desirable results.
+              </li>
+              <li>
+                <b>Résumé</b>: Jeff wears rainbow suspenders and says in a drawn out manner "Good morning, Professor Whitman" to prove to Whitman that
+                he's living in the moment. He then says "Shazbot!" when his attempt fails. These are all references to the actor/comedian Robin Williams's
+                past roles as Mork from the 1970s sitcom Mork and Mindy and the deejay from Good Morning, Vietnam. Williams also portrayed the teacher
+                John Keating in the film Dead Poets Society.
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Trivia</h2>
+          <div>
+            <h3 className="article-heading-3" id="4.1">Translation error</h3>
+            <div className="img-right">
+              <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/6/68/Translation_error.jpeg" 
+                alt="Translation_error" 
+              />
+            </div>
+            <p>
+                During the scene in the study room where Abed presents his short film to his father, Jeff, and Britta, there is an error when a
+                particular Arabic word is used. The word is "ليسار (alyasar)" which is a direct translation of "left" which literally means "the left",
+                as in the direction, not as in someone having just left a room. The closest translation of an Arabic word in this context would be
+                "أعتقد أن الشخص الخاطئ رحل ('aetaqid 'ana alshakhs alkhati' rahal)".
+              </p>
+            <h3 className="article-heading-3" id="4.2">The Bicentennial Man</h3>
+            <div className="img-right">
+               <img 
+                src="https://static.wikia.nocookie.net/community-sitcom/images/4/40/The_Bicentennial_Man.jpg" 
+                alt="The Bicentennial Man" 
+              />
+            </div>
+            <p>
+              This episode has a Robin Williaams theme with various references to film and television roles he has played. Actor John Michael Higgins
+              portrays the character Professor Eustice Whitman who is inspired by Williams's role of John Keating from the 1989 film Dead Poets Society.
+              Higgins co-starred with the comedian in the 1999 film The Bicentennial Man. He portrayed the character Bill Feingold, the lawyer of
+              Williams's robot character Andrew.
+            </p>
+            <h3 className="article-heading-3" id="4.3">Dead Poets Society</h3>
+            <div className="img-right">
+              <img
+                src="https://static.wikia.nocookie.net/community-sitcom/images/0/04/Dead_Poets_Society.jpg"
+                alt="Dead Poets Society"
+              />
+            </div>
+            <p>
+              Many aspects of Professor Whitman's class are direct references to the film Dead Poets Society. This includes his learning to walk and
+              standing on desks exercises, and his motto, Carpe Diem, latin for seize the day. Ironically, while Whitman's class is set in the sub-par
+              educational institute that is Greendale, Dead PoetsSociety features a prestigious New England boarding school.
+            </p>
+            <h3 className="article-heading-3" id="4.4">Karate Kid Club</h3>
+            <ul className="article-list">
+              <li>
+                "Karate Kid Club" has a sign-up booth in the quad. The Karate Kid becomes a major plot point in
+                "<Link to="/community/queer_studies_and_advanced_waxing">Queer Studies & Advanced Waxing</Link>".
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Quotes</h2>
+          <div>
+            <div className="article-quote">
+              <p>
+                <i>
+                  "Isn't Abed's dad a hardcore Muslim? They're not as understanding as Christians. You could get your head cut off with a salami sword."
+                </i>
+                - <b>Shirley</b>
+              </p>
+              <p>
+                <i>
+                  "Shirley! That's the most racist thing I've ever heard!"
+                </i>
+                - <b>Annie</b>
+              </p>
+              <p>
+                <i>
+                  "Pierce will beat that in 1 minute."
+                </i>
+                - <b>Jeff</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>
+                  "I have to plan, in advance, how to prove that I live in the moment."
+                </i>
+                - <b>Jeff</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>
+                  "I'm interested in making movies. But my dad says all media's Western propaganda that negatively stereotypes Arabs."
+                </i>
+                - <b>Abed</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>"Raising him means letting him follow his dreams."</i>
+                - <b>Britta</b>
+              </p>
+              <p>
+                <i>"Dreams are for sleeping."</i>
+                - <b>Abed's Father</b>
+              </p>
+              <p>
+                <i>"Our first assignment is a documentary. They're like real movies but with ugly people."</i>
+                - <b>Abed</b>
+              </p>
+              <p>
+                <i>"You don't know that!"</i>
+                - <b>Britta</b>
+              </p>
+              <p>
+                <i>"It's clinically proven!"</i>
+                - <b>Abed's Father</b>
+              </p>
+              <p>
+                <i>"So's polio!"</i>
+                - <b>Britta</b>
+              </p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>"Jeff, I think you should play the role of my father."</i>
+                - <b>Abed</b>
+              </p>
+              <p>
+                <i>"I don't want to be your father."</i>
+                - <b>Jeff</b>
+              </p>
+              <p>
+                <i>"Perfect, you already know your lines."</i>
+                - <b>Abed</b>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div>
+          <TableCommunity />
+        </div>
+      </main>
+    </>
+  )
+}
+
+export default CommunityS1E3;
