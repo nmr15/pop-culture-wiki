@@ -299,6 +299,15 @@ const GravityFalls = () =>
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Critical reception</h3>
+            <p>
+              Gravity Falls received critical acclaim, with praise directed at its writing, characters, voice actors, animation, humor,
+              and multi-generational appeal. Both seasons of Gravity Falls hold a 100% approval rating on Rotten Tomatoes. On Rotten
+              Tomatoes, season one has an average critic score of 7.40 out of 10 based on 12 reviews. Season two has average critic
+              scoreof 8.80 out of 10 based on 8 reviews. The website's critical consensus for season one reads: "Gravity Falls' warm
+              humor and bright performances elevates this children's cartoon to a show for all ages", while the website's critical
+              consensus for season two reads: "Gravity Falls continues to blend old fashioned storytelling with a modern sense of
+              humor to create a uniquely enjoyable viewing experience."
+            </p>
             <h3 className="article-heading-3" id="7.2">Ratings</h3>
             <h3 className="article-heading-3" id="7.3">Influence, legacy, and industry impact</h3>
             <h3 className="article-heading-3" id="7.4">Awards and nominations</h3>
