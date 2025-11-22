@@ -3,52 +3,52 @@ import Collapse from '../../components/Collapse'
 
 const GravityFalls = () =>
 {
-  return(
+  return (
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-            <li className="sidebar-list-item"><a href="#top">Top</a></li>
-            <li className="sidebar-list-item"><a href="#1">Premise</a></li>
-            <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
-            <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
-            <Collapse 
-              id="4"
-              item="Production"
-              sub={[
-                {id: "4.1", title: "Conception"},
-                {id: "4.2", title: "Writing"},
-                {id: "4.3", title: "Animation"}
-              ]}
-            />
-            <Collapse 
-              id="5"
-              item="Broadcast"
-              sub={[
-                {id: "5.1", title: "Initial broadcast"},
-                {id: "5.2", title: "International broadcast"},
-                {id: "5.3", title: "Broadcast edits"}
-              ]}
-            />
-            <Collapse 
-              id="6"
-              item="Merchandise"
-              sub={[
-                {id: "6.1", title: "Home media"},
-                {id: "6.2", title: "Books"},
-                {id: "6.3", title: "Video game"}
-              ]}
-            />
-            <Collapse 
-              id="7"
-              item="Reception"
-              sub={[
-                {id: "7.1", title: "Critical reception"},
-                {id: "7.2", title: "Ratings"},
-                {id: "7.3", title: "Influence, legacy, and industry impact"},
-                {id: "7.4", title: "Awards and nominations"},
-              ]}
-            />
-            <li className="sidebar-list-item"><a href="#8">Future</a></li>
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+          <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
+          <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
+          <Collapse
+            id="4"
+            item="Production"
+            sub={[
+              { id: "4.1", title: "Conception" },
+              { id: "4.2", title: "Writing" },
+              { id: "4.3", title: "Animation" }
+            ]}
+          />
+          <Collapse
+            id="5"
+            item="Broadcast"
+            sub={[
+              { id: "5.1", title: "Initial broadcast" },
+              { id: "5.2", title: "International broadcast" },
+              { id: "5.3", title: "Broadcast edits" }
+            ]}
+          />
+          <Collapse
+            id="6"
+            item="Merchandise"
+            sub={[
+              { id: "6.1", title: "Home media" },
+              { id: "6.2", title: "Books" },
+              { id: "6.3", title: "Video game" }
+            ]}
+          />
+          <Collapse
+            id="7"
+            item="Reception"
+            sub={[
+              { id: "7.1", title: "Critical reception" },
+              { id: "7.2", title: "Ratings" },
+              { id: "7.3", title: "Influence, legacy, and industry impact" },
+              { id: "7.4", title: "Awards and nominations" },
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Future</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -60,9 +60,9 @@ const GravityFalls = () =>
           <h1 className="article-heading">Gravity Falls</h1>
         </div>
         <div className="img-right img-top">
-          <img 
-            src="https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png" 
-            alt="Gravity Falls logo" 
+          <img
+            src="https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png"
+            alt="Gravity Falls logo"
             className="article-heading-img"
           />
         </div>
@@ -81,7 +81,7 @@ const GravityFalls = () =>
             "<Link to="/gravity_falls/weirdmageddon_3_take_back_the_falls">Weirdmageddon 3: Take Back the Falls</Link>". Hirsch later stated that he
             remains open to continuing the series with additional episodes or specials, with the story continued in written form with the 2016 replica of
             <Link>Journal 3</Link>, a 2018 graphic novel <Link>Gravity Falls: Lost Legends</Link> and the 2024 teen-oriented novel <Link>The Book
-            of Bill</Link>.
+              of Bill</Link>.
           </p>
           <p>
             Gravity Falls received critical acclaim for its writing, characters, voice acting, animation, and humor. Additionally, the series won two
@@ -104,17 +104,17 @@ const GravityFalls = () =>
             </p>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="2">Episodes</h2>
           <div></div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="3">Voice cast</h2>
           <div>
             <div className="img-right">
-              <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jason_Ritter_y_Kristen_Schaal.jpg/500px-Jason_Ritter_y_Kristen_Schaal.jpg" 
-                alt="Jason Ritter and Kristen Schaal" 
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jason_Ritter_y_Kristen_Schaal.jpg/500px-Jason_Ritter_y_Kristen_Schaal.jpg"
+                alt="Jason Ritter and Kristen Schaal"
               />
             </div>
             <ul className="article-list">
@@ -153,14 +153,14 @@ const GravityFalls = () =>
             </ul>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="4">Production</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Conception</h3>
             <div className="img-right">
-              <img 
-                src="https://en.wikipedia.org/wiki/File:Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013.jpg" 
-                alt="Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013" 
+              <img
+                src="https://en.wikipedia.org/wiki/File:Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013.jpg"
+                alt="Alex_Hirsch_and_Grunkle_Stan_puppet_at_San_Diego_Comic-Con_International_2013"
               />
             </div>
             <p>
@@ -229,7 +229,7 @@ const GravityFalls = () =>
             </p>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="5">Broadcast</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Initial broadcast</h3>
@@ -247,10 +247,24 @@ const GravityFalls = () =>
               Disney XD.
             </p>
             <h3 className="article-heading-3" id="5.2">International broadcast</h3>
+            <p>
+              The series began airing on Disney Channel Canda on September 1, 2015, following Corus Entertainment's acquisition of Disney Channel rights
+              in Canada. In C, the show began airing on Disney XD starting on December 1, 2015, following the launch of Disney XD. The show started
+              broadcasting in the United Kingdom and Ireland on July 20, 2012 as a preview and officially premiered on September 7, 2012. In Australia
+              and New Zealand, it previewed on August 17, 2012, and premiered on September 24, 2012. It also premiered in Southeast Asia on October
+              27, 2012. In India, it premiered on Septembe 16, 2013.
+            </p>
+            <p>
+              The series preview debuted in Canada on June 15, 2012, and premired on July 6, 2012, on Family Channel, until January 2016 when it moved
+              to the local Disney XD channel following Corus Entertainment's acquisition of Disney Channel rights in Canada from Family's owner DHX
+              Media. In Australia, the show airs on Disney XD and 7mate while in Chile, the show was broadcast on Canal 13 on November 24, 2013,
+              under its programming block CuBox. In the Philippines, the show was shown on TV5 beginning on May 4, 2014, while in Brazil, the show
+              also began airing on Rede Glove on May 10, 2014. In Indonesia, the show premiered on RCTI on August 17, 2014.
+            </p>
             <h3 className="article-heading-3" id="5.3">Broadcast edits</h3>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="6">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Home media</h3>
@@ -258,7 +272,7 @@ const GravityFalls = () =>
             <h3 className="article-heading-3" id="6.3">Video game</h3>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Critical reception</h3>
@@ -267,7 +281,7 @@ const GravityFalls = () =>
             <h3 className="article-heading-3" id="7.4">Awards and nominations</h3>
           </div>
         </div>
-         <div>
+        <div>
           <h2 className="article-heading-2" id="8">Future</h2>
           <div></div>
         </div>
