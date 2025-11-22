@@ -281,8 +281,18 @@ const GravityFalls = () =>
           <h2 className="article-heading-2" id="6">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Home media</h3>
+            <p>
+              On March 27, 2018, Shoutl Factory announced that it would release the complete series as a box set on July 24, 2018, on DVD and
+              Blu-ray Disc. The box set is available in a "Collector's Edition", which includes an exclusive bonus features disc. The complete
+              series has only been released in the United States and Canada. The box set is now out of print.
+            </p>
             <h3 className="article-heading-3" id="6.2">Books</h3>
             <h3 className="article-heading-3" id="6.3">Video game</h3>
+            <p>
+              A video game was created for the series, titled Gravity Falls: Legend of the Gnome Gemulets. The game was released excusively
+              on Nintendo 3DS on October 20, 2015. It was developed and published by Ubisoft and produced by Disney Interactive Studios.
+              The game is a platformer and uses the same graphics as the series.
+            </p>
           </div>
         </div>
         <div>
