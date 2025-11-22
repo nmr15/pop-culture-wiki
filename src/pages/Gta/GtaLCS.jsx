@@ -127,6 +127,13 @@ const GtaLCS = () =>
               looking to switch allegiances, and works with him to take down the Sindaccos. Later, Toni is set up by Vincenzo to be arrested during a job,
               but escapes and cuts ties with Vincenzo.
             </p>
+            <p>
+              During these jobs, Toni discovers that Sicillian Mafia underboss Massimo Torini is orchestrating plans for other gangs to take territory
+              from the Leones', as well as the Sindacco and Forelli families after their tributes dried up. After Toni helps him take over a Sindacco club,
+              JD is invited to join the Leones as a made man. However, Salvatore has JD killed, believing he would betray them as well. Toni also learns
+              his mother (Sondra James) disapproves of his low rank in the Leone family and attempts to impress her but is disowned when she eventually
+              calls a hit on him. Soon, Salvatore begins giving Tony direct assignments, including looking after his trophy wife, Maria (Fiona Gallagher).
+            </p>
           </div>
         </div>
         <div>
