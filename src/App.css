@@ -64,6 +64,13 @@ a
   border-bottom: 1px solid #000;
 }
 
+.article-heading-2
+{
+  padding-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #000;
+}
+
 .article-heading-img
 {
   width: 20rem;

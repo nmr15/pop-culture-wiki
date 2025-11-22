@@ -15,17 +15,61 @@ const Community = () =>
           <li className="py-1">
             <a href="#2">Cast and characters</a>
           </li>
-          <div className="accordion"></div>
+          <div className="py-1">
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3"></span>
+            <li className="d-inline ms-2">
+              <a href="#3">Production</a>
+              <ul className="collapse" id="collapse3">
+                <li className="py-1">
+                  <a href="#3.1">Casting</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.2">Development</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.3">Writing</a>
+                </li>
+                <li className="py-1">
+                  <a href="#3.4">Filming</a>
+                </li>
+              </ul>
+            </li>
+          </div>
+          <div className="py-1">
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4"></span>
+            <li className="d-inline ms-2">
+              <a href="#4">Episodes</a>
+              <ul className="collapse" id="collapse4">
+                <li className="py-1"><a href="#4.1">First season</a></li>
+                <li className="py-1"><a href="#4.2">Second season</a></li>
+                <li className="py-1"><a href="#4.3">Third season</a></li>
+                <li className="py-1"><a href="#4.4">Fourth season</a></li>
+                <li className="py-1"><a href="#4.5">Fifth season</a></li>
+                <li className="py-1"><a href="#4.6">Sixth season</a></li>
+                <li className="py-1"><a href="#4.7">Webisodes</a></li>
+              </ul>
+            </li>
+          </div>
+          <li className="py-1"><a href="#5">Film</a></li>
+          <div className="py-1">
+            <span className="dropdown-toggle d-inline ptr" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6"></span>
+            <li className="d-inline ms-2">
+              <a href="#6">Reception</a>
+              <ul className="collapse" id="collapse6">
+                <li className="py-1"><a href="#6.1">Critical reception</a></li>
+              </ul>
+            </li>
+          </div>
         </ul>
       </nav>
-      <main className="main px-5 py-4">
+      <main className="main px-5 py-4" id="top">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="#">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">Community</li>
           </ol>
         </nav>
-        <div id="top">
+        <div>
           <h1 className="article-heading">Community</h1>
         </div>
         <div className="img-right pt-2">
@@ -65,7 +109,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="1">Premise</h2>
+          <h2 className="article-heading-2" id="1">Premise</h2>
           <p>
             <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
             that he lied about having a bachelor's degree from Columbia University. To earn a legitimate
@@ -99,7 +143,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="2">Cast and characters</h2>
+          <h2 className="article-heading-2" id="2">Cast and characters</h2>
           <p>
             The show features an ensemble cast of characters, focusing on the members of a study group and a
             recurring group of faculty of Greendale Community College, including the school's dean.
@@ -189,7 +233,7 @@ const Community = () =>
           </ul>
         </div>
         <div>
-          <h2 className="article-heading" id="3">Production</h2>
+          <h2 className="article-heading-2" id="3">Production</h2>
           <h3 className="pt-2" id="3.1">Casting</h3>
           <p>
             <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
@@ -248,7 +292,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="4">Episodes</h2>
+          <h2 className="article-heading-2" id="4">Episodes</h2>
           <p>
             Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
             and "Cooperative Calligraphy".
@@ -421,7 +465,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="5">Film</h2>
+          <h2 className="article-heading-2" id="5">Film</h2>
           <p>
             Soon after Community was picked up for a sixth season in 2014, Zack Van Amburg of Sony Pictures Television confirmed that a Community film was in the early
             stages of development. After the series wrapped, Harmon revealed that Yahoo! had initially wanted to make a movie immediately after the end of the sixth
@@ -462,7 +506,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading" id="6">Reception</h2>
+          <h2 className="article-heading-2" id="6">Reception</h2>
           <h3 className="pt-2" id="6.1">Critical reception</h3>
           <p>
             Community has appeared on a number of lists determining the greatest television shows off all time. In TV (The Book): Two Experts Pick the Greatest American Shows
