@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routesGta, routesMcu, routesMcuMeta } from "./articles"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesMcu, routesMcuMeta } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
@@ -62,7 +62,13 @@ function App() {
           <Route key={index} path={path} element={<Component />} />
         ))}
 
+        {/* Gravity Falls */}
+
         {routeGfChars.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {routeGfS1.map(({ path, Component }, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
 

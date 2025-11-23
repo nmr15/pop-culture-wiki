@@ -64,13 +64,23 @@ const Community = () =>
         <div>
           <h1 className="article-heading">Community</h1>
         </div>
-        <div className="img-right img-top">
-          <img
-            src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
-            alt="Community"
-            className="article-heading-img"
-          />
-        </div>
+        {/* <div className="img-right img-top">
+          <table>
+            <tr>
+              <th colspan="2">Community</th>
+            </tr>
+            <tr>
+              <td>
+                <img
+                  src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
+                  alt="Community"
+                  className="article-heading-img"
+                />
+              </td>
+            </tr>
+          </table>
+         
+        </div> */}
         <div className="div-top">
           <p>
             <b>Community</b> is an American television sitcom created by <a href="#">Dan Harmon</a>. The series ran
@@ -137,8 +147,8 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Cast and characters</h2>
-          <div className="collapse show" id="collapseTwo">
+          <h2 className="article-heading-2" id="2">Cast and characters</h2>
+          <div>
             <p>
               The show features an ensemble cast of characters, focusing on the members of a study group and a
               recurring group of faculty of Greendale Community College, including the school's dean.
@@ -229,9 +239,16 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseThree" id="3">Production</h2>
-          <div className="collapse show" id="collapseThree">
+          <h2 className="article-heading-2" id="3">Production</h2>
+          <div>
             <h3 className="article-heading-3" id="3.1">Casting</h3>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Community_cast_at_SDCC_2012_2.jpg/500px-Community_cast_at_SDCC_2012_2.jpg"
+                alt="Community_cast_at_SDCC_2012"
+              />
+              <p>Danny Pudi, Gillian Jacobs, Yvette Nicole Brown, Alison Brie, and Joel McHale at San Diego Comic-Con 2012</p>
+            </div>
             <p>
               <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
               percent of putting the show together," he said in an interview. He had worked with several of the cast members previously. Actor
@@ -249,6 +266,13 @@ const Community = () =>
               a Latina or Asian Tracy Flick, but they cast Alison Brie, known for her role as Trudy Campbell on Mad Men.
             </p>
             <h3 className="article-heading-3" id="3.2">Development</h3>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dan_Harmon_%2814790686643%29.jpg/500px-Dan_Harmon_%2814790686643%29.jpg" 
+                alt="Dan Harmon" 
+              />
+              <p>Series creator Dan Harmon</p>
+            </div>
             <p>
               Harmon based the premise of Community on his own experiences. In an attempt to save his relationship with his then-girlfriend, he
               enrolled in Glendale Community College northeast of Los Angeles, where they would take Spanish together. Harmon got involved in a
@@ -519,6 +543,13 @@ const Community = () =>
               25 best television series of 2010, Community ranked second, stating that the best episodes were "Modern Warfare", "Cooperative Calligraphy", and "Abed's Uncontrollable
               Christmas". IGN named Community the best comedy series in both 2010 and 2011.
             </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Danny_Pudi_by_Gage_Skidmore_2.jpg/500px-Danny_Pudi_by_Gage_Skidmore_2.jpg" 
+                alt="Danny Pudi" 
+              />
+              <p>Danny Pudi has received critical acclaim for his performance.</p>
+            </div>
             <p>
               Acclaim for the show continued in the third season, scoring 82 out of 100 based on 4 critics on Metacritic. It also topped the Metacritic User Poll in the category 'Best
               Television Show of 2011', receiving 3,478 points. Rotten Tomatoes gave season 3 a 91% with a critical consensus that reads: "The Greendale study group take some of their
