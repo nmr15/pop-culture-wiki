@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableGta from '../../components/TableGta'
 import { gta } from '../../data/dataGta'
 
@@ -73,6 +74,40 @@ const Gta = () =>
             className="article-heading-img"
           />
         </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Grand Theft Auto</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://1000logos.net/wp-content/uploads/2018/03/GTA-Logo.png" alt="Grand Theft Auto logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data">
+                <Link>Rockstar North</Link> <br /> 
+                Digital Exlipse <br /> 
+                <Link>Rockstar Leeds</Link> <br />
+                Rockstar Canada <br />
+                <Link>Rockstar Games</Link>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">Rockstar Games</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Games</th>
+              <td className="infobox-data"><a href="#1.4">List of Community character</a></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             <b>Grand Theft Auto</b> is an action-adventure video game series created by David Jones and Mike Dailly. Later titles were developed under the oversight
@@ -108,7 +143,7 @@ const Gta = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Series history</h2>
+          <Heading2 id={1} title={"Series history"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Main series</h3>
             <p>
@@ -207,7 +242,7 @@ const Gta = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Related media</h2>
+          <Heading2 id={2} title={"Related media"} />
           <div>
              <p>
               The series has been expanded into various other formats. Jacked: The Outlaw Story of Grand Theft Auto, a book written by David Kushner
@@ -235,7 +270,7 @@ const Gta = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Common elements</h2>
+          <Heading2 id={3} title={"Common elements"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Gameplay</h3>
             <p>
@@ -288,6 +323,13 @@ const Gta = () =>
               a few exceptions), but are otherwise considered to be separate continuities.
             </p>
             <h4 className="article-heading-4" id="3.2.1">Liberty City</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg" 
+                alt="View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City" 
+              />
+              <p>New York City, which serves as the basis for Liberty City.</p>
+            </div>
             <p>
               Liberty City, based on New York City, is one of the three original cities introduced in Grand Theft Auto. It is the first setting available
               to the player. The city encompasses two landmasses (a large one in the southeast and a smaller one in the northeast) and a Manhattan-like
@@ -318,6 +360,23 @@ const Gta = () =>
               by road bridges, underground tunnels, and a subway system; none of which lead out of the city.
             </p>
             <h4 className="article-heading-4" id="3.2.2">San Andreas</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/San_Francisco_from_the_Marin_Headlands_in_August_2022_%28cropped2%29.jpg/500px-San_Francisco_from_the_Marin_Headlands_in_August_2022_%28cropped2%29.jpg" 
+                alt="San Francisco from the Marin Headlans in August 2022" 
+              />
+              <p>San Francisco, initially the basis for San Andreas and later San Fierro.</p>
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Las_Vegas_Skyline_at_night_North_%287314937576%29.jpg/500px-Las_Vegas_Skyline_at_night_North_%287314937576%29.jpg" 
+                alt="Las_Vegas_Skyline_at_night_North" 
+              />
+               <p>Las Vegas, the basis for Las Venturas.</p>
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/500px-Los_Angeles_with_Mount_Baldy.jpg" 
+                alt="Los_Angeles_with_Mount_Baldy" 
+              />
+              <p>Los Angeles, the basis for Los Santos.</p>
+            </div>
             <p>
               San Andreas, based on San Francisco, is one of the three original cities introduced in Grand Theft Auto. It is the second setting
               available to the player. The locale encompasses two landmasses: a large northern portion, which is divided into fifteen districts and
@@ -410,7 +469,7 @@ const Gta = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Controversies</h2>
+          <Heading2 id={4} title={"Controversies"} />
           <div>
             <p>
               According to The Guinness World Records 2008 and 2009 Gamer's Edition, it is the most controversial video game series in history,
@@ -584,7 +643,7 @@ const Gta = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Reception</h2>
+          <Heading2 id={5} title={"Reception"} />
           <div>
             <p>
               Ever since the release of Grand Theft Auto III in 2001, the Grand Theft Auto series has been a major success, both critically and
@@ -613,7 +672,7 @@ const Gta = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Similar games</h2>
+          <Heading2 id={6} title={"Similar games"} />
           <div>
             <p>
               The release of Grand Theft Auto III is treated as a major event in the history of video games, considered a revolutionary title in the
