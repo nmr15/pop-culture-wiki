@@ -123,7 +123,7 @@ const Community = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapseOne">Premise</h2>
+          <Heading2 id={1} title={"Premise"} />
           <div className="collapse show" id="collapseOne">
             <p>
               <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
@@ -159,7 +159,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast and characters</h2>
+          <Heading2 id={2} title={"Cast and characters"} />
           <div>
             <p>
               The show features an ensemble cast of characters, focusing on the members of a study group and a
@@ -251,7 +251,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
+          <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Casting</h3>
             <div className="img-right img-card">
@@ -326,7 +326,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseFour" id="4">Episodes</h2>
+          <Heading2 id={4} title={"Episodes"} />
           <div className="collapse show" id="collapseFour">
             <p>
               Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
@@ -483,7 +483,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" data-bs-toggle="collapse" data-bs-target="#collapseFive" id="5">Film</h2>
+          <Heading2 id={5} title={"Film"} />
           <div className="collapse show" id="collapseFive">
             <p>
               Soon after Community was picked up for a sixth season in 2014, Zack Van Amburg of Sony Pictures Television confirmed that a Community film was in the early
