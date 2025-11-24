@@ -298,7 +298,7 @@ p
 {
   padding-top: 2rem;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid #000;
+  /* border-bottom: 1px solid #000; */
 }
 
 .article-heading-3, .article-heading-4

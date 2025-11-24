@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
+import Heading2 from "../../../components/Heading2"
 import TableCommunity from '../../../components/TableCommunity'
 
 const CommunityS1E3 = () =>
@@ -47,6 +48,34 @@ const CommunityS1E3 = () =>
         <div>
           <h1 className="article-heading">Introduction to Film</h1>
         </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Introduction to Film</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://static.wikia.nocookie.net/community-sitcom/images/6/6c/ITF.png" alt="Community logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episode no.</th>
+              <td className="infobox-data">Season 1 <br /> Episode 3</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous episode</th>
+              <td className="infobox-data"><Link to="/community/spanish_101">Spanish 101</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next episode</th>
+              <td className="infobox-data"><Link to="/community/social_psychology">Social Psychology</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Introduction to Film is the third episode of the first season of the American comedy television series <Link to="/community">Community</Link>.
@@ -56,7 +85,7 @@ const CommunityS1E3 = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Plot</h2>
+          <Heading2 id={1} title={"Plot"} />
           <div>
             <div className="img-flex">
               <p>
@@ -162,38 +191,41 @@ const CommunityS1E3 = () =>
                 leaves upset, Abed turns to Jeff for his reaction. He calls Abed weird before leaving as well.
               </p>
             </div>
-            
-             <div className="img-right">
-              <img 
-                src="https://static.wikia.nocookie.net/community-sitcom/images/8/87/IF_Abeds_film.png" 
-                alt="Abed's_film" 
-              />
+            <div className="img-flex">
+              <p>
+                The following day, Jeff tricks both Britta and Abed's father to come to the study room. Abed is there as well, editing his movie on the computer.
+                Jeff gathered them all for a meeting to hopefully resolve the situation. However, Jeff's efforts are futile as things become heated again
+                between Britta and Abed's dad. Abed cuts through all the arguing with an announcment that his project is finished. He gets the other three to
+                sit down and watch his film "<Link>Six Candles</Link>". Britta and Jeff are unsure what they are watching and are surprised to see the movie
+                upsets Abed's father, who is crying. He tells Abed that he never blamed him for what happened to his marriage.
+              </p>
+              <div className="img-right">
+                <img
+                  src="https://static.wikia.nocookie.net/community-sitcom/images/8/87/IF_Abeds_film.png"
+                  alt="Abed's_film"
+                />
+              </div>
             </div>
-            <p>
-              The following day, Jeff tricks both Britta and Abed's father to come to the study room. Abed is there as well, editing his movie on the computer.
-              Jeff gathered them all for a meeting to hopefully resolve the situation. However, Jeff's efforts are futile as things become heated again
-              between Britta and Abed's dad. Abed cuts through all the arguing with an announcment that his project is finished. He gets the other three to
-              sit down and watch his film "<Link>Six Candles</Link>". Britta and Jeff are unsure what they are watching and are surprised to see the movie
-              upsets Abed's father, who is crying. He tells Abed that he never blamed him for what happened to his marriage.
-            </p>
-             <div className="img-left">
-              <img 
-                src="https://static.wikia.nocookie.net/community-sitcom/images/d/d9/IF_JB_First_kiss.png" 
-                alt="JB_First_kiss" 
-              />
+            <div className="img-glex">
+              <div className="img-left">
+                <img
+                  src="https://static.wikia.nocookie.net/community-sitcom/images/d/d9/IF_JB_First_kiss.png"
+                  alt="JB_First_kiss"
+                />
+              </div>
+              <p>
+                Abed's father turns to Britta and Jeff and says that if filmmaking is a way for Abed to express himself and be understood, then he will pay for
+                the classes. After he leaves, Britta realizes that Abed planned this all along and tells him it was a poor way to treat his friend but Abed is
+                unapologetic. Meanwhile, Pierce and Troy are walking behind Shirley, and Troy tests his new sneeze, leaving Shirley impressed. Later, outside the
+                <Link> library</Link>, Britta is bothered by the fact that she's now in Jeff's debt. She asks Jeff to kiss her, and he eagerly complies. When the
+                kiss ends, Professor Whitman shouts out his approval of Jeff seizing the day. Britta tells Jeff that they are now even and walks off. Whitman
+                further congratulates Jeff and tells him that the kiss just earned him a passing grade in his class.
+              </p>
             </div>
-            <p>
-              Abed's father turns to Britta and Jeff and says that if filmmaking is a way for Abed to express himself and be understood, then he will pay for
-              the classes. After he leaves, Britta realizes that Abed planned this all along and tells him it was a poor way to treat his friend but Abed is
-              unapologetic. Meanwhile, Pierce and Troy are walking behind Shirley, and Troy tests his new sneeze, leaving Shirley impressed. Later, outside the
-              <Link> library</Link>, Britta is bothered by the fact that she's now in Jeff's debt. She asks Jeff to kiss her, and he eagerly complies. When the
-              kiss ends, Professor Whitman shouts out his approval of Jeff seizing the day. Britta tells Jeff that they are now even and walks off. Whitman
-              further congratulates Jeff and tells him that the kiss just earned him a passing grade in his class.
-            </p>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">End tag</h2>
+          <Heading2 id={2} title={"End tag"} />
           <div>
             <p>
               Troy and Abed try to krump before being joined by Jeff who tries to show them how it's done.
@@ -201,7 +233,7 @@ const CommunityS1E3 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Themes</h2>
+          <Heading2 id={3} title={"Recurring themes"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Continuity</h3>
             <h4 className="article-heading-4" id="3.1.1">Narrative</h4>
@@ -377,7 +409,7 @@ const CommunityS1E3 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Trivia</h2>
+          <Heading2 id={4} title={"Trivia"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Translation error</h3>
             <div className="img-right">
@@ -427,7 +459,7 @@ const CommunityS1E3 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Quotes</h2>
+          <Heading2 id={5} title={"Quotes"} />
           <div>
             <div className="article-quote">
               <p>
