@@ -76,7 +76,7 @@ const Spongebob = () =>
           Products, having generated over $13 billion in merchandising revenue.
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Development</h2>
+          <Heading2 id={1} title={"Development"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
             <div className="img-left">
@@ -189,7 +189,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Television series</h2>
+          <Heading2 id={2} title={"Television series"} />
           <div>
             <h3 className="article-heading-3" id="2.1"><Link>SpongeBob SquarePants</Link> (1999-present)</h3>
             <p>
@@ -223,7 +223,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Films</h2>
+          <Heading2 id={3} title={"Films"} />
           <div>
             <h3 className="article-heading-3" id="3.1"><Link>The SpongeBob SquarePants Movie</Link> (2004)</h3>
             <p>
@@ -285,7 +285,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Video games</h2>
+          <Heading2 id={4} title={"Video games"} />
           <div>
             <p>
               Numerous video games based on the series have been produced. Some of the early games include: Legend of the Lost Spatula (2001), and
@@ -302,7 +302,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Comic books</h2>
+          <Heading2 id={5} title={"Comic books"} />
           <div>
             <p>
               The 32-page bimonthly comic book series, SpongeBob Comics, was announced in November 2010 and debuted the following February. Before this,
@@ -327,7 +327,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Music</h2>
+          <Heading2 id={6} title={"Music"} />
           <div>
             <p>
               Collections of original music featured in the series have been released on the album SpongeBob SquarePants: Original Theme Highlights (2001),
@@ -349,7 +349,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Theater</h2>
+          <Heading2 id={7} title={"Theater"} />
           <div>
             SpongeBob SquarePants was adapted as a stage musical in 2016 by director Tina Landau. SpongeBob SquarePants, The Broadway Musical premiered
             in Chicago in 2016 and opened on Broadway at the Palace Theatre on December 4, 2017. The musical opened to critical acclaim, and tied for
@@ -357,7 +357,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Theme park rides</h2>
+          <Heading2 id={8} title={"Theme park rides"} />
           <div>
             <div className="img-right">
               <img 
@@ -391,6 +391,7 @@ const Spongebob = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={9} title={"Merchandise"} />
           <h2 className="article-heading-2" id="9">Merchandise</h2>
           <div>
             <p>
