@@ -97,7 +97,7 @@ const Gta = () =>
             </tr>
             <tr>
               <th className="infobox-data">Games</th>
-              <td className="infobox-data"><a href="#1.4">List of Community character</a></td>
+              <td className="infobox-data"><a href="#1.4">List of GTA games</a></td>
             </tr>
           </tbody>
         </table>
