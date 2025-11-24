@@ -63,13 +63,42 @@ const Spongebob = () =>
         <div>
           <h1 className="article-heading">Spongebob Squarepants (franchise)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png" 
-            alt="Spongebob Squarepants logo"
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>SpongeBob Squarepants</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/500px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" alt="SpongeBob logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Stephen Hillenburg</Link></td>
+            </tr>
+             <tr>
+              <th className="infobox-data">Animated series</th>
+              <td className="infobox-data"><Link>SpongeBob SquarePants (1999 to present)</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of SpongeBob SquarePants episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of SpongeBob SquarePants character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Film</th>
+              <td className="infobox-data"><Link>The SpongeBob SquarePants Movie (2004)</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           Spongebob Squarepants is an American animated comedy media franchise created by marine science eduactor and animator
           <Link> Stephen Hillenburg</Link> and owned by <Link>Nickelodeon</Link>. It begain with the <Link>series</Link>, which premiered in 1999, and
@@ -80,12 +109,16 @@ const Spongebob = () =>
           <Heading2 id={1} title={"Development"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early inspirations</h3>
-            <div className="img-left">
+            <div className="img-left img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ocean_Institute%2C_aerial_shot%2C_cropped.png/500px-Ocean_Institute%2C_aerial_shot%2C_cropped.png" 
                 alt="Ocean_Institute,_aerial_shot"
                 style={{width: "250px"}}
               />
+              <p>
+                Before creating SpongeBob SquarePants, Stephen Hillenburg taught marine biology to visitors of the Ocean Institute (located in Dana
+                Point, California).
+              </p>
             </div>
             <p>
               Series' creator Stephen Hillenburg first became fascinated with the ocean as a child and began developing his artistic abilities at a young
@@ -360,12 +393,15 @@ const Spongebob = () =>
         <div>
           <Heading2 id={8} title={"Theme park rides"} />
           <div>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EF-Mall_of_America.jpg/500px-EF-Mall_of_America.jpg" 
                 alt="SpongeBob SquarePants 4D film"
                 style={{width: "250px"}}
               />
+              <p>
+                Entrance and lift hill of SpongeBob SquarePants Rock Bottom Plunge ride at the Mall of America.
+              </p>
             </div>
             <p>
               The SpongeBob SquarePants 4-D film and ride opened at several locations including Six Flags Over Texas, Flamingo Land Resort, and the
