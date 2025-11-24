@@ -526,7 +526,7 @@ const Community = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Reception</h2>
+          <Heading2 id={6} title={"Reception"} />
           <div className="collapse show" id="collapseSix">
             <h3 className="article-heading-3" id="6.1">Critical reception</h3>
             <p>
@@ -654,7 +654,7 @@ const Community = () =>
             </p>
           </div>
           <div>
-            <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Syndication</h2>
+            <Heading2 id={7} title={"Syndication"} />
             <div className="collapse show" id="collapseSeven">
               <p>
                 On March 14, 2012, Comedy Central announced that it had purchased the rights to Community for syndication that began airing in September 2013 at the same time as
@@ -674,7 +674,7 @@ const Community = () =>
             </div>
           </div>
           <div>
-            <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Streaming</h2>
+            <Heading2 id={8} title={"Streaming"} />
             <div className="collapse show" id="collapseEight">
               <p>
                 In the United States, the complete series is available on Peacock. The first three seasons are available on Netflix throughout Latin America with Spanish or
@@ -697,7 +697,7 @@ const Community = () =>
             </div>
           </div>
           <div>
-            <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Soundtrack</h2>
+            <Heading2 id={9} title={"Soundtrack"} />
             <div className="collapse show" id="collapseNine">
               <p>
                 A soundtrack for the first season, titled Community (Music from the Original Television Series), was released on September 21, 2010 by Madison Gate Records.
