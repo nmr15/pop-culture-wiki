@@ -67,13 +67,6 @@ const Gta = () =>
         <div>
           <h1 className="article-heading">Grand Theft Auto</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://1000logos.net/wp-content/uploads/2018/03/GTA-Logo.png" 
-            alt="Grand Theft Auto logo" 
-            className="article-heading-img"
-          />
-        </div>
         <table className="infobox">
           <tbody>
             <tr>
