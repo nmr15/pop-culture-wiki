@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableCommunity from '../../components/TableCommunity'
 
 const Community = () => 
