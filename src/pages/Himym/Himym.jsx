@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableHimym from '../../components/TableHimym'
 
 const Himym = () => 
@@ -72,13 +73,34 @@ const Himym = () =>
         <div>
           <h1 className="article-heading">How I Met Your Mother</h1>
         </div>
-        <div className="img-right img-top">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HowIMetYourMother.svg/440px-HowIMetYourMother.svg.png"
-            alt="How I Met Your Mother"
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>How I Met Your Mother</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HowIMetYourMother.svg/440px-HowIMetYourMother.svg.png" alt="How I Met Your Mother logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Carter Bays</Link> <br /> <Link>Craig Thomas</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of How I Met Your Mother episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of How I Met Your Mother character</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005,
@@ -98,7 +120,7 @@ const Himym = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Premise</h2>
+          <Heading2 id={1} title={"Premise"} />
           <div>
             <p>
               The series follows the adventures of <Link>Ted Mosby</Link> (played by <Link>Josh Radnor</Link>) and his love life as a single man. His
@@ -130,7 +152,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Production</h2>
+          <Heading2 id={2} title={"Production"} />
           <div>
             <p>
               How I Met Your Mother was inspired by Carter Bays and Craig Thomas' idea to "write about our friends and the stupid stuff we did
@@ -245,7 +267,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Syndication</h2>
+          <Heading2 id={3} title={"Syndication"} />
           <div>
             <p>
               How I Met Your Mother aired on Nick at Nite from September 8, 2014 to December 27, 2015, and TV Land from June 29, 2015 to 2018. It also
@@ -254,7 +276,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Cast and characters</h2>
+          <Heading2 id={4} title={"Cast and characters"} />
           <div>
             <ul className="article-list">
               <li>
@@ -309,7 +331,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Season synopses</h2>
+          <Heading2 id={5} title={"Season synopses"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Season 1</h3>
             <p>
@@ -358,11 +380,11 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Critical reception</h2>
+          <Heading2 id={6} title={"Critical reception"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Subplots</h2>
+          <Heading2 id={7} title={"Subplots"} />
           <div>
             <h3 className="article-heading-3" id="7.1">The Slap Bet</h3>
             <h3 className="article-heading-3" id="7.2">The Pineapple Incident</h3>
@@ -373,7 +395,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Tie-ins</h2>
+          <Heading2 id={8} title={"Tie-ins"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Books</h3>
             <ul className="article-list">
@@ -393,7 +415,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="9">Nielsen ratings</h2>
+          <Heading2 id={9} title={"Nielsen ratings"} />
           <div>
             <p>
               The show's highest viewed episode was the series finale, "<Link to="/himym/last_forever">Last Forever</Link>", watched by 13.13 million
@@ -409,7 +431,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="10">Awards and nominations</h2>
+          <Heading2 id={10} title={"Awards and nominations"} />
           <div>
             <p>
               The show has been nominated for 72 awards, winning 18. The show has been nominated for 28 Emmy Awards, including a nomination for
@@ -420,7 +442,7 @@ const Himym = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="11">Home media</h2>
+          <Heading2 id={11} title={"Home media"} />
           <div>
             <p>
               Seasons 1 through 9 were available to stream on Netflix in Austria, Canada, Finland, France, Germany, Ireland, Italy, Latin America,
