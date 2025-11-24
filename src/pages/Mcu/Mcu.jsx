@@ -98,13 +98,45 @@ const Mcu = () =>
         <div>
           <h1 className="article-heading">Marvel Cinematic Universe</h1>
         </div>
-        <div className="img-right img-top">
+        {/* <div className="img-right img-top">
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/250px-Marvel_Cinematic_Universe_logo.png" 
             alt="Marvel Cinematic Universe" 
             className="article-heading-img"
           />
-        </div>
+        </div> */}
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2" className="infobox-heading">
+                <span>Marvel Cinematic Universe</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/250px-Marvel_Cinematic_Universe_logo.png" alt="" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Marvel Studios</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films</th>
+              <td className="infobox-data"><a href="#2">Marvel Cinematic Universe films</a></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Television series</th>
+              <td className="infobox-data"><a href="#3">Marvel Cinematic Universe television series</a></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link to="/mcu/characters">Marvel Cinematic Universe character</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             The <b>Marvel Cinematic Universe</b> is an American media franchise and shared universe centered on <a href="#">a series</a> of superhero films

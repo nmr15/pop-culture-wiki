@@ -187,6 +187,38 @@ p
   content: "/\00a0";
 }
 
+.infobox
+{
+  width: 300px;
+  margin: 1rem;
+  border: 1px solid #dddddd;
+  float: right;
+  clear: right;
+}
+
+.infobox td, .infobox th
+{
+  border: none;
+}
+
+.infobox img
+{
+  width: 100%;
+}
+
+.infobox-heading
+{
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.infobox-data
+{
+  text-align: left;
+}
+
+.infobox
+
 .img-flex
 {
   display: flex;

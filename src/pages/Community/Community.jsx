@@ -64,23 +64,34 @@ const Community = () =>
         <div>
           <h1 className="article-heading">Community</h1>
         </div>
-        {/* <div className="img-right img-top">
-          <table>
+        <table className="infobox">
+          <tbody>
             <tr>
-              <th colspan="2">Community</th>
+              <th colspan="2">
+                <span>Community</span>
+              </th>
             </tr>
             <tr>
-              <td>
-                <img
-                  src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg"
-                  alt="Community"
-                  className="article-heading-img"
-                />
+              <td colspan="2">
+                <span>
+                  <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg" alt="Community logo" />
+                </span>
               </td>
             </tr>
-          </table>
-         
-        </div> */}
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Dan Harmon</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of Community episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Community character</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             <b>Community</b> is an American television sitcom created by <a href="#">Dan Harmon</a>. The series ran
