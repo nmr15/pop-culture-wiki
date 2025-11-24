@@ -399,6 +399,13 @@ const Gta = () =>
               Los Santos than in the real city on which it was modelled."
             </p>
             <h4 className="article-heading-4" id="3.2.3">Vice City</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Downtown_Miami_Panorama_from_the_Rusty_Pelican_photo_D_Ramey_Logan.jpg/500px-Downtown_Miami_Panorama_from_the_Rusty_Pelican_photo_D_Ramey_Logan.jpg" 
+                alt="Downtown_Miami_Panorama_from_the_Rusty_Pelican_photo_D_Ramey_Logan" 
+              />
+              <p>Miami, which serves as the basis for Vice City.</p>
+            </div>
             <p>
               Vice City, based on Miami, is one of the three original cities introduced in Grand Theft Auto. It is the third setting available to the
               player. The city encopasses one large landmass divided into eight districts which form the city's core, and a smaller island, Vice Beach,
