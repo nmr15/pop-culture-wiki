@@ -284,11 +284,12 @@ const AssassinsCreed = () =>
         <div>
           <Heading2 id={2} title={"Gameplay"} />
           <div>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/en/8/86/Assassins_Creed_3_Gameplay_segment.gif" 
                 alt="Assassins_Creed_3_Gameplay_segment" 
               />
+              <p>An Assassin's Creed III demo showing the parkour gameplay</p>
             </div>
             <p>
               The Assassin's Creed games are centered around one or more fictional members of the Order of the Assassins. Their memories are experienced by
@@ -324,11 +325,14 @@ const AssassinsCreed = () =>
           <Heading2 id={3} title={"Storyline"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Premise</h3>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Abstergo_2.png" 
                 alt="Abstergo logo" 
               />
+              <p>
+                The logo of the fictional Abstergo Industries, whose slogan is "We change the world. Every day, in a hundred different ways."
+              </p>
             </div>
             <p>
               The Assassin's Creed games primarily revolve around the rivalry and conflict between two ancient secret societies: the Order of Assassins,
@@ -433,11 +437,12 @@ const AssassinsCreed = () =>
               ))}
             </div>
             <h4 className="article-heading-4" id="4.1.1"><Link to="/assassinscreed/assassins_creed_game">Assassin's Creed</Link></h4>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Assassin%E2%80%99s_Creed.svg/400px-Assassin%E2%80%99s_Creed.svg.png" 
                 alt="Assassin's Creed 1 logo" 
               />
+              <p>Assassin's Creed logo</p>
             </div>
             <p>
               The first game in the series was released in November 2007 for the <Link>PlayStation 3</Link> and <Link>Xbox 360</Link>, and in April 2008
@@ -460,11 +465,12 @@ const AssassinsCreed = () =>
               prerequisite was one of the most criticized aspects of the game, so it was abandoned in future games.
             </p>
             <h4 className="article-heading-4" id="4.1.2"><Link to="/assassinscreed/assassins_creed_ii">Assassin's Creed II</Link></h4>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Assassin%E2%80%99s_Creed_II_v1_logo.svg/500px-Assassin%E2%80%99s_Creed_II_v1_logo.svg.png" 
                 alt="Assassin's Creed 2 logo" 
               />
+              <p>Assassin's Creed II logo</p>
             </div>
             <p>
               Assassin's Creed II is a direct sequel to the first game and was released in November 2009 for the PlayStation 3 and Xbox 360, in March 2010
@@ -489,11 +495,12 @@ const AssassinsCreed = () =>
               the villa; in turn, the villa will generate wealth for the player at a rate influenced by the upgrades and acquisition of these items.
             </p>
             <h4 className="article-heading-4" id="4.1.3"><Link to="/assassinscreed/assassins_creed_brotherhood">Assassin's Creed: Brotherhood</Link></h4>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Assassin%27s_Creed_Brotherhood_logo.svg/500px-Assassin%27s_Creed_Brotherhood_logo.svg.png" 
                 alt="Assassin's Creed Brotherhood logo" 
               />
+              <p>Assassin's Creed: Brotherhood logo</p>
             </div>
             <p>
               Assassin's Creed: Brotherhood is the sequel to Assassin's Creed II, and was released in November 2010 for the PlayStation 3 and Xbox 360, in
@@ -516,11 +523,12 @@ const AssassinsCreed = () =>
             </p>
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
-            <div className="img-right">
+            <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Textlogo_Assassin%E2%80%99s_Creed_III_Liberation.svg/500px-Textlogo_Assassin%E2%80%99s_Creed_III_Liberation.svg.png" 
-                alt="" 
+                alt="Assassin's Creed III Liberation logo" 
               />
+              <p>Assassin's Creed: Liberation logo</p>
             </div>
             <p>
               Assassin's Creed III: Liberation is a spin-off to Assassin's Creed III, originally released for the <Link>PlayStation Vita</Link> in
