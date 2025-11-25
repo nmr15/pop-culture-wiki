@@ -98,3 +98,97 @@ export const assassinscreed = [
     "route": "/assassinscreed/assassins_creed_shadows"
   }
 ]
+
+export const assassinsCreedChars = [
+  {
+    "id": "acChar1",
+    "title": "Desmond Miles",
+    "file": "DesmondMiles",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/6/6a/ACB_Desmond_Render.png",
+    "route": "/assassinscreed/desmond_miles"
+  },
+  {
+    "id": "acChar2",
+    "title": "Altair Ibn-La'Ahad",
+    "file": "Altair",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/9/93/ACR_Altair_Render2.png",
+    "route": "/assassinscreed/altair_ibn-la'ahad"
+  },
+  {
+    "id": "acChar3",
+    "title": "Ezio Auditore da Firenze",
+    "file": "EzioAuditore",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/6/66/ACI-Ezio.png",
+    "route": "/assassinscreed/ezio_auditore_da_firenze"
+  },
+  {
+    "id": "acChar4",
+    "title": "Ratonhnhake:ton",
+    "file": "Ratonhnhake:ton",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/d/d6/ACI-Connor.png",
+    "route": "/assassinscreed/Ratonhnhake:ton"
+  },
+  {
+    "id": "acChar5",
+    "title": "Edward Kenway",
+    "file": "EdwardKenway",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/a/a5/Edward_Render.png",
+    "route": "/assassinscreed/edward_kenway"
+  },
+  {
+    "id": "acChar6",
+    "title": "Arno Dorian",
+    "file": "ArnoDorian",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/f/fb/ACU_Arno_Dorian_render.png",
+    "route": "/assassinscreed/arno_dorian"
+  },
+  {
+    "id": "acChar7",
+    "title": "Jacob Frye",
+    "file": "JacobFrye",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/d/d3/ACS_Jacob_Frye_Render.png",
+    "route": "/assassinscreed/jacob_frye"
+  },
+  {
+    "id": "acChar8",
+    "title": "Evie Frye",
+    "file": "EvieFrye",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/7/70/ACS_Evie_Frye_Render.png",
+    "route": "/assassinscreed/evie_frye"
+  },
+  {
+    "id": "acChar9",
+    "title": "Layla Hassan",
+    "file": "LaylaHassan",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/d/de/ACV_Layla_Hassan.png",
+    "route": "/assassinscreed/layla_hassan"
+  },
+  {
+    "id": "acChar10",
+    "title": "Bayek",
+    "file": "Bayek",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/4/4c/ACO_THO_Hidden_One_Bayek.png",
+    "route": "/assassinscreed/bayek"
+  },
+  {
+    "id": "acChar11",
+    "title": "Aya",
+    "file": "Aya",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/c/cf/ACO_Aya_render.png",
+    "route": "/assassinscreed/aya"
+  },
+  {
+    "id": "acChar12",
+    "title": "Alexios",
+    "file": "Alexios",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/8/85/ACOD_Deimos_render.png",
+    "route": "/assassinscreed/alexios"
+  },
+  {
+    "id": "acChar13",
+    "title": "Kassandra",
+    "file": "Kassandra",
+    "img": "https://static.wikia.nocookie.net/assassinscreed/images/7/7d/ACOD_Kassandra_Render_%28no_helmet%29.png",
+    "route": "/assassinscreed/kassandra"
+  }
+]
