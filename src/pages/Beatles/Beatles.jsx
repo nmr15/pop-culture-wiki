@@ -77,13 +77,35 @@ const Beatles = () =>
         <div>
           <h1 className="article-heading">The Beatles</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png" 
-            alt="The Beatles" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>The Beatles</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png" alt="The Beatles logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Past members</th>
+              <td className="infobox-data">
+                <Link>John Lennon</Link> <br />
+                <Link>Paul McCartney</Link> <br />
+                <Link>George Harrison</Link> <br />
+                <Link>Ringo Starr</Link> <br />
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Albums</th>
+              <td className="infobox-data"><Link>List of Beatles albums</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             The Beatles were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
@@ -115,7 +137,9 @@ const Beatles = () =>
             and Harrison died of lung cancer in 2001; McCartney and Starr remain musically active.
           </p>
           <p>
-            The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide.
+            The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide. They are the most successful act
+            in the history of the US Billboard charts, with the most number 1 hits on the U.S. Billboard Hot 100 chart (20), and they hold the record for
+            most number 1 albums on the UK Albums Chart (15) and most singles sold in the UK (21.9 million). The band received many accolades
           </p>
         </div>
         <div>
