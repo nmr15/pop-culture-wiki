@@ -176,18 +176,53 @@ const GtaLCS = () =>
               Miles O'Donovan (John Braden), who soon has Salvatore arrested. Toni remains loyal to Salvatore, working for him from prison, soon killing
               Don Paulie Sindacco (Jeff Gumer) for his involvement in Salvatore's arrest.
             </p>
+            <p>
+              Larer, Donald enlists Toni's help in rebuilding his fortune; having Toni kill his former mentor <Link>Avery Carrington</Link>, steal his
+              city development plans, and destroy the Forelli-controlled district of Fort Staunton with explosives. Afterwards, Donald's company would
+              receive funding to re-develop it. Meanwhile, Toni is manipulated into committing crimes to further the career of news reporter Ned Burns,
+              whom Tony kills to prevent his and Donald's crimes from being exposed. Toni also works for Toshiko Kasen, the neglected wife of Yakuza
+              leader Kazuki Kasen, to sabotage her husband's operations. After Toni kills Kazuki, a guilt-ridden Toshiko commits suicide.
+            </p>
+            <p>
+              As the Leone mob family comes out on top over the Sindaccos and Forellis, Salvatore is targeted by the Sicillian Mafia, forcing Toni to
+              protect him before his trial. Released on bail, Salvatore and Toni learn Torini orchestrated the mob war, rigged the mayoral elections, and
+              Salvatore's arrest. Torini soon kidnaps O'Donovan to prevent him from dropping Salvatore's charges. Toni and Salvatore rescue O'Donovan,
+              confronting and killing Torini at a lighthouse. Salvatore coerces O'Donovan into working under the Leones', before he and Toni confront his
+              uncle, Don of the Sicillian Mafia and Torini's boss. Uncle Leone feigns ignorance of Torini's action but returns to Sicily, swearing off
+              the Sicillians' invasion. The Leones' controlling Liberty City, Salvatore has Toni promoted to caporegime as repayment for his assistance.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={3} title={"Development"} />
           <div>
-
+            <p>
+              As stated in an IGN preview, "Rockstar dropped Renderware in favor of a brand new in-house engine to best utilize the resolution, texture
+              density, and particle effects of the PSP". Until the release of Liberty City Stories, RenderWare had been the game engine behind every 3D
+              game in the Grand Theft Auto III era. Liberty City Stories used Image Metrics for the game's facial animation.
+            </p>
+            <p>
+              In April 2013, the game was released on <Link>PlayStation 3</Link> via the PlayStation Network using the <Link>PlayStation 2</Link>
+              backward compatibility.
+            </p>
+            <p>
+              An enhanced port of the game, with touchscreen controls, real-time lighting, high-defintion textures and draw distance, was released in
+              December 2015 for iOS, February 2016 for Android, and March 2016 for Fire OS.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Soundtrack"} />
           <div>
-
+            <p>
+              Liberty City Stories features ten radio stations, which consist of a mix of both licensed music and tracks created specifically for the game,
+              and talk radio stations. A feature for the PSP version of the game is the ability to listen to custom soundtracks.
+            </p>
+            <p>
+              To implement the custom soundtrack feature, Rockstar placed the application called "Rockstar Custom Track v1.0" on the official site under
+              the "Downloads" section. This then gave people the chance to use the custom soundtrack feature. The application is based on Exact Audio
+              Copy.
+            </p>
           </div>
         </div>
         <div>
