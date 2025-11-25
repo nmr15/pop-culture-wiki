@@ -1,725 +1,224 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
-import TableCommunity from '../../components/TableCommunity'
+import TableBeatles from "../../components/TableBeatles"
 
-const Community = () => 
+const Beatles = () => 
 {
   return (
     <>
-      <nav className="sidebar">
-        <ul className='sidebar-list'>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
-          <li className="sidebar-list-item"><a href="#2">Cast and characters</a></li>
           <Collapse 
-            id="3"
-            item="Production"
+            id="1"
+            item="History"
             sub={[
-              {id: "3.1", title: "Casting"},
-              {id: "3.2", title: "Development"},
-              {id: "3.3", title: "Writing"},
-              {id: "3.4", title: "Filming"}
+              {id: "1.1", title: "1956-1963: Formation", sub2: [
+                {id: "1.1.1", title: "The Quarrymen and name change"},
+                {id: "1.1.2", title: "Early residencies and UK popularity"},
+                {id: "1.1.3", title: "First EMI recordings"}
+              ]},
+              {id: "1.2", title: "1963-1966: Beatlemania and touring years", sub2: [
+                {id: "1.2.1", title: "Please Plase Me and With the Beatles"},
+                {id: "1.2.2", title: "First visit to the United States and the British Invasion"},
+                {id: "1.2.3", title: "A Hard Day's Night"},
+                {id: "1.2.4", title: "1964 world tour, meeting Bob Dylan and stand on civil rights"},
+                {id: "1.2.5", title: "Beatles for Sale, Help!, and Rubber Soul"},
+                {id: "1.2.6", title: "Controversies, Revolver, and final tour"}
+              ]},
+              {id: "1.3", title: "1966-1970: Studio years", sub2: [
+                {id: "1.3.1", title: "Sgt. Pepper's Lonely Hearts Club Band"},
+                {id: "1.3.2", title: "Magical Mystery Tour and Yellow Submarine"},
+                {id: "1.3.3", title: "India retreat, Apple Corps, and the White Album"},
+                {id: "1.3.4", title: "Abbey Road, Let it Be, and separation"}
+              ]},
+              {id: "1.4", title: "After the breakup", sub2: [
+                {id: "1.4.1", title: "1970s"},
+                {id: "1.4.2", title: "1980s"},
+                {id: "1.4.3", title: "1990s"},
+                {id: "1.4.4", title: "2000s"},
+                {id: "1.4.5", title: "2010s"},
+                {id: "1.4.6", title: "2020s"}
+              ]}
             ]}
           />
           <Collapse 
-            id="4"
-            item="Episodes"
+            id="2"
+            item="Artistry"
             sub={[
-              {id: "4.1", title: "First season"},
-              {id: "4.2", title: "Second season"},
-              {id: "4.3", title: "Third season"},
-              {id: "4.4", title: "Fourth season"},
-              {id: "4.5", title: "Fifth season"},
-              {id: "4.6", title: "Sixth season"},
-              {id: "4.7", title: "Webisodes"},
+              {id: "2.1", title: "Development"},
+              {id: "2.2", title: "Influences"},
+              {id: "2.3", title: "Genres"},
+              {id: "2.4", title: "Contribution of George Martin"},
+              {id: "2.5", title: "In the studio"},
             ]}
           />
-          <li className="sidebar-list-item"><a href="#5">Film</a></li>
+          <li className="sidebar-list-item"><a href="#3">Legacy</a></li>
+          <li className="sidebar-list-item"><a href="#4">Awards and achievements</a></li>
           <Collapse 
-            id="6"
-            item="Reception"
+            id="5"
+            item="Band members"
             sub={[
-              {id: "6.1", title: "Critical reception"},
-              {id: "6.2", title: "Awards and nominations"},
-              {id: "6.3", title: "Semiotics and Community"},
-              {id: "6.4", title: "Ratings"}
+              {id: "5.1", title: "Timeline"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#7">Syndication</a></li>
-          <li className="sidebar-list-item"><a href="#8">Streaming</a></li>
-          <Collapse 
-            id="9"
-            item="Soundtrack"
-            sub={[
-              {id: "9.1", title: "Other tracks"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#6">Discography</a></li>
+          <li className="sidebar-list-item"><a href="#7">Song catalogue</a></li>
+          <li className="sidebar-list-item"><a href="#8">Selected filmography</a></li>
+          <li className="sidebar-list-item"><a href="#9">Concert tours</a></li>
         </ul>
-      </nav>
+      </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>Community</li>
+          <li>The Beatles</li>
         </ul>
         <div>
-          <h1 className="article-heading">Community</h1>
+          <h1 className="article-heading">The Beatles</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Community</span>
+                <span>The Beatles</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg" alt="Community logo" />
+                  <img src="https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png" alt="The Beatles logo" />
                 </span>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Created by</th>
-              <td className="infobox-data"><Link>Dan Harmon</Link></td>
+              <th className="infobox-data">Past members</th>
+              <td className="infobox-data">
+                <Link>John Lennon</Link> <br />
+                <Link>Paul McCartney</Link> <br />
+                <Link>George Harrison</Link> <br />
+                <Link>Ringo Starr</Link> <br />
+              </td>
             </tr>
             <tr>
-              <th className="infobox-data">Episodes</th>
-              <td className="infobox-data"><Link>List of Community episodes</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link>List of Community character</Link></td>
+              <th className="infobox-data">Albums</th>
+              <td className="infobox-data"><Link>List of Beatles albums</Link></td>
             </tr>
           </tbody>
         </table>
         <div className="div-top">
           <p>
-            <b>Community</b> is an American television sitcom created by <a href="#">Dan Harmon</a>. The series ran
-            for <a href="#">110 episodes</a> over six seasons, with its first five seasons airing on <a href="#">NBC</a> from
-            September 17, 2009, to April 17, 2014, and its final season airing on <a href="#">Yahoo! Screen</a>
-            from March 17 to June 2, 2015. Set at a community college in the fictional Colorado
-            town of Greendale, the series stars an ensemble cast including <a href="#">Joel McHale</a>, <a href="#">Gillian Jacobs</a>,
-            <a href="#">Danny Pudi</a>, <a href="#">Yvette Nicole Brown</a>, <a href="#">Alison Brie</a>, <a href="#">Donald Glover</a>, <a href="#">Ken Jeong</a>,
-            <a href="#">Chevy Chase</a>, and <a href="#">Jim Rash</a>. It makes use of meta-humor and pop culture references,
-            paying homage to film and television clichés and tropes.
+            The Beatles were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised <a href="#">John Lennon</a>, <a href="#">Paul McCartney</a>,
+            <a href="#">George Harrison</a>, and <a href="#">Ringo Starr</a>. They are widely regarded as the most influential band in Western popular music and were integral to the
+            development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated elements of
+            classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in
+            recording, songwriting, and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and
+            sociocultural movements.
           </p>
           <p>
-            Harmon based Community on his experiences attending Glendale Community College.
-            Each episode was written in accordance with Harmon's "story circle" template, a
-            method designed to create effective and structured storytelling. Harmon was the
-            showrunner for the first three seasons byt was fired before the fourth and replaced by
-            David Guarascio and Moses Port. After weaker reviews, Harmon was rehired for the
-            fifth season, after which NBC canceled the series. Yahoo! Screen revived the show for
-            Community's sixth and final season.
+            Led by primary songwriters <Link>Lennon and McCartney</Link>, the Beatles evolved from Lennon's previous group, <Link>the Quarrymen</Link>, and built
+            their reputation by playing clubs in Liverpool and Hamburg, Germany, starting in 1960. The core trio of Lennon, Mccartney, and Harrison, together
+            since 1958, went through a succession of drummers before inviting Starr to join them in 1962. Manager Brian Epstein moulded them into a professional
+            act, and producer George Martin developed their recordings, greatly expanding their domestic success after they signed with EMI and achieved their
+            first hit, "<Link>Love Me Do</Link>", in late 1962. As their popularity grew into the intense fan frenzy dubbed "<Link>Beatlemania</Link>", the band
+            acquired the nickname "the Fab Four".
           </p>
           <p>
-            Despite sturggling in the ratings, Community developed a cult following and received
-            acclaim for its acting, direction, writing, and meta-humor. It won a Primetime Emmy
-            Award from four nominations and received the Critics' Choice Television Award for Best
-            Comedy Series in 2012, among other accolades. In September 2022, after several
-            years of speculation and development, a featre-length Community film was announced
-            for NBCUniversal's streaming service <a href="#">Peacock</a>
+            By early 1964, the Beatles were international stars and had achieved unprecedented levels of critical and commercial success. They became a leading
+            force in Britain's cultural resurgence, ushering in the British invasion of the United States pop market. They soon made their film debut with
+            <Link>A Hard Day's Night</Link> (1964). A growing desire to refine their studio efforts, coupled with the challenging nature of their concert
+            tours, led to the band's retirement from live performances in 1966. During this time, they produced albums of great sophistication, including
+            <Link>Rubber Soul</Link> (1965), <Link>Revolver</Link> (1966), and <Link>Sgt. Pepper's Lonely Hearts Club Band</Link> (1967). They enjoyed further
+            commercial success with <Link>The Beatles</Link> (also known as "the White Album", 1968) and <Link>Abbey Road</Link> (1969). The success of these
+            records heralded the <Link>album era</Link>, increased public interest in psychedelic drugs and Eastern spirituality, and furthered advancements
+            in electronic music, album art, and music videos. In 1968, they founded Apple Corps, a multi-armed multimedia company that continues to oversee
+            projects related to the band's legacy. After <Link>the group's break-up</Link> in 1970, all principal former members enjoyed success as solo
+            artists. While some partial reunions occurred over the next decades, the four members never reunited. <Link>Lennon was murdered</Link> in 1980
+            and Harrison died of lung cancer in 2001; McCartney and Starr remain musically active.
+          </p>
+          <p>
+            The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide.
           </p>
         </div>
         <div>
-          <Heading2 id={1} title={"Premise"} />
-          <div className="collapse show" id="collapseOne">
+          <h2 className="article-heading-2" id="1">History</h2>
+          <div>
+            <h3 className="article-heading-3" id="1.1">1956-1963: Formation</h3>
+            <h4 className="article-heading-4" id="1.1.1">The Quarrymen and name change</h4>
             <p>
-              <a href="#">Jeff Winger</a> is disbarred and suspended from his law firm when it is discovered he lied
-              that he lied about having a bachelor's degree from Columbia University. To earn a legitimate
-              degree, he enrolls in Greendale Community College in Colorado. He quickly becomes attracted
-              to his classmate, social activist <a href="#">Britta Perry</a>, and pretends to run a study group
-              in order to spend time with her. Britta invites classmate <a href="#">Abed Nadir</a>,
-              a socially awkward and pop culture obsessed student, who in turn brings other classmates along;
-              religious single mother <a href="#">Shirley Bennett</a>; naive over-achiever
-              <a href="#">Annie Edison</a>; former high school football star <a href="#">Troy Barnes</a>;
-              and bigoted, elderly millionair <a href="#">Pierce Hawthorne</a>. Despite their differences, 
-              the group's members soon become close friends. They are often roped into helping the college's
-              flamboyant dean, <a href="@">Craig Pelton</a>, in his schemes to make the school seem more
-              respectable, as well as having to deal with the antics of their mentally unstable teacher
-              (and eventual classmate and friend) <a href="#">Ben Chang</a>.
+              In November 1956, sixteen-year-old John Lennon formed a skiffle group with several friends from Quarry Bank High School in Liverpool. They
+              were called <Link>the Quarrymen</Link>, a reference to their school song "Quarry men old before our birth". Fifteen-year-old Paul
+              McCartney met Lennon on July 6, 1957 and joined as a rhythm guitarist shorly after. In February 1958, McCartney invited his friend George
+              Harrison, then aged fifteen, to watch the band. Harrison auditioned for Lennon, impressing him with his playing, but Lennon initially
+              thought Harrison was too young. After a month's persistence, during a second meeting (arranged by McCartney), Harrison performed the lead
+              guitar part of the instrumental song "Raunchy" on the upper deck of a Liverpool bus, and they enlisted him as lead guitarist.
             </p>
-            <p>
-              Season 1 follows Jeff's creation of the study group and its subsequent misadventures. Season 2
-              sees Chang forced to enroll as a student and attempt to join the study group despite secretly
-              planning revenge against it, while Pelton is forced to fight for Greendale's sense of pride against
-              the dean of a rival school, City College, eventually culminating in a desperate paintball battle.
-              Season 3 focuses on Chang's villanous plot to take over the school, as well as Troy's struggle
-              with whether or not to attend the cult-like air conditioning repair school. Season 4 shows the
-              study group in its senior year, with all the characters (especially Abed) struggling with what
-              may be their final moments together, and Chang recovering from "Changnesia" (a fake amnesia
-              which Chang uses as a coverup). Season 5 sees Pierce's death and Troy leaving in the middle of
-              the season, while the other characters return to Greendale after graduation to save the school,
-              leading Jeff to take a job there as a teacher. Season ends the series with the characters reflecting
-              on the last six years while new staff member Frankie Dart arrives at the dysfunctional school
-              to make it more respectable, forcing the group to question how much Greendale can be cleaned up while
-              still remianing Greendale.
-            </p>
+            <h4 className="article-heading-4" id="1.1.2">Early residencies and UK popularity</h4>
+            <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
+            <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
+            <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
+            <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
+            <h4 className="article-heading-4" id="1.2.1">A Hard Day's Night</h4>
+            <h4 className="article-heading-4" id="1.2.1">1964 world tour, meeting Bob Dylan and stand on civil rights</h4>
+            <h4 className="article-heading-4" id="1.2.1">Beatles for Sale, Help!, and Rubber Soul</h4>
+            <h4 className="article-heading-4" id="1.2.1">Controversies, Revolver, and final tour</h4>
+            <h3 className="article-heading-3" id="1.3">1966-1970: Studio years</h3>
+            <h4 className="article-heading-4" id="1.3.1">Sgt. Pepper's Lonely Hearts Club Band</h4>
+            <h4 className="article-heading-4" id="1.3.2">Magical Mystery Tour and Yellow Submarine</h4>
+            <h4 className="article-heading-4" id="1.3.3">India retreat, Apple Corps, and the White Album</h4>
+            <h4 className="article-heading-4" id="1.3.4">Abbey Road, Let it Be, and separation"</h4>
+            <h3 className="article-heading-3" id="1.4">After the breakup</h3>
+            <h4 className="article-heading-4" id="1.4.1">1970s</h4>
+            <h4 className="article-heading-4" id="1.4.2">1980s</h4>
+            <h4 className="article-heading-4" id="1.4.3">1990s</h4>
+            <h4 className="article-heading-4" id="1.4.4">2000s</h4>
+            <h4 className="article-heading-4" id="1.4.5">2010s</h4>
+            <h4 className="article-heading-4" id="1.4.6">2020s</h4>
           </div>
         </div>
         <div>
-          <Heading2 id={2} title={"Cast and characters"} />
+          <h2 className="article-heading-2" id="2">Artistry</h2>
+          <h3 className="article-heading-3" id="2.1">Development</h3>
+          <h3 className="article-heading-3" id="2.2">Influences</h3>
+          <h3 className="article-heading-3" id="2.3">Genres</h3>
+          <h3 className="article-heading-3" id="2.4">Contribution of George Martin</h3>
+          <h3 className="article-heading-3" id="2.5">In the studio</h3>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="3">Legacy</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="4">Awards and achievements</h2>
+          <div></div>
+        </div>
+        <div>
+          <h2 className="article-heading-2" id="5">Band members</h2>
           <div>
-            <p>
-              The show features an ensemble cast of characters, focusing on the members of a study group and a
-              recurring group of faculty of Greendale Community College, including the school's dean.
-            </p>
-            <ul>
-              <li>
-                <a href="#">Joel McHale</a> as <a href="#">Jeff Winger</a>, a former lawyer who enrolls at Greendale after
-                being suspended by the state bar for falsely claiming to have a bachelor's degreen from Columbia University.
-                Jeff is a sarcastic, outspoken, overconfident lothario who often manipulates people to get what he wants.
-                He first created the study group in an attempt to get with Britta, a girl in his Spanish class, through
-                the ruse of being a Spanish tutor who could help Britta pass the course. As he becomes closer to his
-                new study group, his old habits and views change. Most of the group (except Britta, who see through his
-                facade) tends to idolize Jeff for his charisma (particularly in the first season), and often seek advice
-                from him. Although he initially fits his role as the group's straight man, appearing indifference to their
-                concerns before grudgingly helping them, Jeff becomes more willing to make personal sacrifices for his
-                friends over time and slowly reveals that he has a great deal of care and reverence for his study group.
-              </li>
-              <li>
-                <a href="#">Gillian Jacobs</a> as <a href="#">Britta Perry</a>, an anarchist, athiest, and activist who traveled
-                around the world after dropping out of high school. Britta tries to be productive, intelligent, and mature, but
-                often comes off as pretentious and hypocritical. She has a tendency to lack direction and make things go wrong.
-                Despite not being as wordly or well-informed an activist as she thinks, Britta has a genuine desire to help
-                others, and she cares deeply for her friends.
-              </li>
-              <li>
-                <a href="#">Danny Pudi</a> as <a href="#">Abed Nadir</a>, a film student of Palestinian and Polish descent,
-                with an encyclopedic knowledge of TV shows and movies. Abed struggles to interact with others via conventional
-                means due to his autism, so he often chooses to interpret the group's everyday activities by comparing them to film
-                and TV cliches. Despite being out of touch with reality at times, Abed is a keen observer of human behavior and
-                often the wisest member of the group. These eccentricities allow him to pick up on flaws the other characters
-                have and tend to bluntly point them out, eventually resulting in the characters learning from his insights.
-                Harmon based the character on Abed Gheith, whome he met through Channel 101.
-              </li>
-              <li>
-                <a href="#">Yvette Nicole Brown</a> as <a href="#">Shirley Bennett</a> (seasons 1-5; guest season 6), a divorced
-                mother and vocal Christian going to school to start a brownie business. Shirley is a kind-hearted person with strong
-                morals, but can be overbearing and often resorts to using guilt to get what she wants or to control her friends'
-                behavior. Though usually soft-spoken, Shirley has a quick temper, a characteristic that manifests when she is
-                advocating for herself or her friends. It is often implied that Shirley's Christian beliefs, which she tends to
-                impose on most non-Christians around her, are a means of coping with her anger issues and repressing the stress she
-                deals with in raising her family while also in school.
-              </li>
-              <li>
-                <a href="#">Alison Brie</a> as <a href="#">Annie Edison</a>, the youngest of the group, a compulsive overachiever,
-                relentlessly organized and comparatively innocent. Annie was extremely unpopular in high school and formerly addicted
-                to Adderall, which has caused her to be very anxious and desperate to prove herself to others. Though normally kind-hearted,
-                she can quickly turn obsessive or lose her temper when she fails to achieve her goals or is denied something she
-                strongly cares about. Her friendship with the study group, as well as her living situation with Troy and Abed, slowly
-                allows her to become more laid-back and genial.
-              </li>
-              <li>
-                <a href="#">Donald Glover</a> as <a href="#">Troy Barnes</a> (seasons 1-5), a former high school star quarterback who
-                lost his scholarh=ship to a top-tier university when he dislocated both shoulders doing a keg flip, which he did on purpose
-                in order to escape pressures of his stardom and popularity. Troy begins the series trying to appear cool, acting like
-                a stereotypical football player, but he eventually feels comfortable in embracing his nerdy and carefree side, particularly
-                thanks to his becoming best friends with Abed. Troy struggles with the idea of growing up, often looking to Jeff and Pierce
-                for guidance. Still, he often shows signs of being capable of leadership and bringing the group together.
-              </li>
-              <li>
-                <a href="#">Chevy Chase</a> as <a href="#">Pierce Hawthorne</a> (seasons 1-4; guest season 5), a millionaire and CEO of the
-                Hawthorne Wipes moist towelette company who enrolled in Greendale a decade prior to the start of the series for the sake of
-                keeping his mind active. More than anyone else within the study group, Pierce is often at odds with the rest of the group
-                because of his arrogance, lack of empathy, and casual ignorance of politically correct behavior, all of which largely stern
-                from his old age and his emotionally abusive father. This includes believing Britta is a closeted lesbian, lusting over Shirley,
-                and casual racism. He also tends to envy the other group members, particularly Jeff's relative youthful attractiveness and
-                Abed's close friendship with Troy. Despite his often unsociable and selfish nature, Pierce desperately wants to fit in with
-                the group and occasionally offers great insight and advice, showing that he does care greatly for each of the group members.
-              </li>
-              <li>
-                <a href="#">Ken Jeong</a> as <a href="#">Ben Chang</a>, an unstable Spanish teacher at Greendale. Chang often takes extreme
-                action against his students, often yelling at them for the slightest infraction or using his superior status to taunt them.
-                He has alternately been a friend and foe of the study group, his ultimate desire being to fit in with them and become a part
-                of the study group, though his behavior makes them desperate not to include him. After Annie gets him fired at the end of
-                season 1, Chang alternates between a variety of roles, becoming a student in season 2, a security guard in season 3, as Kevin
-                who is suffering from "Changnesia" (a fake disease similar to amnesia) during season 4, a math teacher under work release
-                in season 5, and a member of the Save Greendale Committee in season 6.
-              </li>
-              <li>
-                <a href="#">Jim Rash</a> as <a href="#">Craig Pelton</a> (seasons 3-6; recurring seasons 1-2), the dean of Greendale, who
-                desperately wants his school to be more like a real university and goes to extreme lengths to try to make it fun, wacky, and
-                politically correct, while making various questionable business decisions regarding his school. A man of unclear sexual
-                orientation, he frequently attempts to flirt with Jeff and is an increasingly avid cross-dresser. In season 6, he identifies
-                himself as gay, though he views it as an insufficient label. The study group is by far the Dean's favorite group of students,
-                and he is constantly making up excuses to come talk to them, often by walking into their study room unannounced while wearing
-                a costume, to tell them about events going on in the school.
-              </li>
-            </ul>
+            <h3 className="article-heading-3" id="5.1">Timeline</h3>
           </div>
         </div>
         <div>
-          <Heading2 id={3} title={"Production"} />
-          <div>
-            <h3 className="article-heading-3" id="3.1">Casting</h3>
-            <div className="img-right img-card">
-              <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Community_cast_at_SDCC_2012_2.jpg/500px-Community_cast_at_SDCC_2012_2.jpg"
-                alt="Community_cast_at_SDCC_2012"
-              />
-              <p>Danny Pudi, Gillian Jacobs, Yvette Nicole Brown, Alison Brie, and Joel McHale at San Diego Comic-Con 2012</p>
-            </div>
-            <p>
-              <a href="#">Dan Harmon</a> emphasized the importance of the cast to making the premise of the comedy work. "Casting was 95
-              percent of putting the show together," he said in an interview. He had worked with several of the cast members previously. Actor
-              Chevy Chase had long been a favorite of Harmon. Though initially not partial to sitcoms, Chase was persuaded by the quality of
-              the show's writing to take the job. Harmon saw similarities between Chase and the character he plays on the show. Though Chase
-              has often been ridiculed for his career choices, Harmon believed this role could be redeeming: "What makes Chevy and Pierce
-              heroic is this refusal to stop." Harmon had to warn Chase against playing "a wise ass" the way he often does in his roles, since
-              the character of Pierce is a rather pathetic figure who is normally the butt of the joke himself. 
-            </p>
-            <p>
-              McHale, known from the E! comedy talk show The Soup, was also impressed by Harmon's writing. He commented, "Dan's script was so
-              head and shoulders above everything else that I was reading." McHale appealed to Harmon because of his likability, which allowed
-              the character to possess certain unsympathetic traits without turning the viewers against him. To play Annie,  Harmon wanted
-              someone resembling Tracy Flick, Reese Witherspoon's character in the 1999 movie Election. Originally the producers were looking for
-              a Latina or Asian Tracy Flick, but they cast Alison Brie, known for her role as Trudy Campbell on Mad Men.
-            </p>
-            <h3 className="article-heading-3" id="3.2">Development</h3>
-            <div className="img-left img-card">
-              <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dan_Harmon_%2814790686643%29.jpg/500px-Dan_Harmon_%2814790686643%29.jpg" 
-                alt="Dan Harmon" 
-              />
-              <p>Series creator Dan Harmon</p>
-            </div>
-            <p>
-              Harmon based the premise of Community on his own experiences. In an attempt to save his relationship with his then-girlfriend, he
-              enrolled in Glendale Community College northeast of Los Angeles, where they would take Spanish together. Harmon got involved in a
-              study group and, somewhat against his own instincts, became close firneds with the members, with whom he had very little in common.
-              "I was in this group with these knuckleheads and I started really liking them," he explained, "even though they had nothing to do
-              with the film industry and I had nothing to gain from them and nothing to offer them." With this background, Harmon wrote the show
-              with a main character largely based on himself. He had, like Jeff, been arrogant and emotionally distant to the extreme
-              before he realized the value of understanding other people.
-            </p>
-            <p>
-              About the creative process behing the writing, Harmon said that he had to write the show as if it were a movie, not a sitcom.
-              Essentially, the process was no different from the earlier works he had done, except for the length and the target demographic.
-            </p>
-            <h3 className="article-heading-3" id="3.3">Writing</h3>
-            <p>
-              Each episode of Community is written in accordance with Dan Harmon's template of "story circles" that he developed while at Channel
-              101. Harmon rewrote every episode (except while not working on the show during its fourth season), which helps lend the show his
-              particular voice. Members of the Community writing staff have included Liz Cackowski, Dino Stamatopoulos, Chris McKenna, Megan Ganz,
-              Andy Bobrow, Alex Rubens, Tim Saccardo and Matt Warburton. Cast member Jim Rash, who won an Academy Award in 2011 for co-writing the
-              film The Descendants, also wrote a season four episode.
-            </p>
-            <p>
-              The show is known for its frequent use of thematic episodes every season, which use cliches and television tropes as single-episode
-              concepts that play with suspension of disbelief while maintaining plot continuity. One notable thematic episode is Season 3's
-              "<a href="">Remedial Chaos Theory</a>", in which the cast explore seven different parallel realities of the same night, with one key
-              variation being a roll of a single six-sided die in a game of Yahtzee that Jeff uses to dismiss a member of the group to get a pizza
-              (the seventh variant is that the die was not rolled at all). Frequent episode themes are school-year holidays (Halloween and Christmas
-              being the most frequent), paintball, and various forms of animation.
-            </p>
-            <h3 className="article-heading-3" id="3.4">Filming</h3>
-            <p>
-              Filming the show involved a lot of improvisation, particularly from Chase. Of Chase, Harmon said that he "tends to come up with lines
-              that you can actually end scens with sometimes". He had also called McHale and Glover adept improvisers. Apart from a few exterior
-              scenes shot at Los Angeles City College, the show was filmed at the Paramount Studios lot in Hollywood, California, during
-              seasons one through five. For season six, the series moved to the CBS Studio Center, and featured exterior scenes from Los Angeles City
-              College for the first time since season two. The series used the single-camera technique, where each shot is filmed individually,
-              using the same camera.
-            </p>
-          </div>
+          <h2 className="article-heading-2" id="6">Discography</h2>
+          <div></div>
         </div>
         <div>
-          <Heading2 id={4} title={"Episodes"} />
-          <div className="collapse show" id="collapseFour">
-            <p>
-              Most episodes feature titles designed to sound like the names of college courses such as "Intoduction to Film", "Anthropology 101"
-              and "Cooperative Calligraphy".
-            </p>
-            <p>
-              The complete series was released on DVD in region 1 on November 15, 2016. Special features include all the features from the first six
-              seasons. One June 6, 2018, it was announced that Community: The Complete Series would be released by Mill Creek Entertainment on
-              high-definition Blu-ray on October 23, 2018.
-            </p>
-            <h3 className="article-heading-3" id="4.1">First season</h3>
-            <p>
-              The first season of Community premiered on September 17, 2009, in the 9:30 pm ET Thursday time slot, and ended on May 20, 2010. After
-              three episodes, the show was moved to 8:00 pm ET.
-            </p>
-            <p>
-              NBC initially ordered 13 episodes, but in October 2009, it was announced that the show had been picked up for a full 22-episode season.
-              In January 2010, NBC ordered an additional three episodes for the first season, extending it to 25. The first seasons was released in
-              region 1 on September 21, 2010, in a four-disc set. The set included all 25 episodes plus bonus features, including commentary on every
-              episode by cast and crew members; extended versions of the "Pilot" and "Communication Studies" episodes; outtakes; "Season One Cast
-              Evaluations" featurette; "Season One Highlight Reel" featurette; "Creative Compromises" featurette; "Advanced Criminal Law" alternative
-              scenes; and three mini episodes.
-            </p>
-            <h3 className="article-heading-3" id="4.2">Second season</h3>
-            <p>
-              On March 5, 2010, NBC renewed Community for a 22-episode second season. It would premier on September 23, 2010, and would conclude on
-              May 12, 2011. NBC ordered 2 additional episodes for the second season on November 3, 2010, bringing it to a total of 24 episodes.
-              The second season was released in region 1 on September 6, 2011. It features commentary on every episode by cast and crew members;
-              outtakes; animatics for "Abed's Uncontrollable Christmas" and making-of featurettes covering that episode as well as "A Fistful of
-              Paintballs" and "For a Few Paintballs More".
-            </p>
-            <h3 className="article-heading-3" id="4.3">Third season</h3>
-            <p>
-              The series was renewed for a third season on March 17, 2011. Filming for the season began on July 25, 2011. Jim Rash, who portrays
-              Dean Pelton, was promoted to a series regular after having a recurring role throughout the first two seasons. Michael K. Williams
-              was cast as the study group's new biology professor, who is described as a deeply intense character. John Goodman appears as a recurring
-              character throughout the season as Vice Dean Laybourne, the head of Greendale's air conditioning repair school, and is a foe for Dean
-              Pelton.
-            </p>
-            <p>
-              Community premiered its third season on September 22, 2011. On November 14, 2011, NBC announced that they removing Community from 
-              their mid-season schedule, replacing it with the returning series <a href="#">30 Rock</a>. Fans of the series began a campaign
-              to get the show back on the air using Twitter, Tumblr, and Facebook, making hashtags such as #SaveCommunity, #SixSeasonsAndAMovie,
-              and #OccupyNBC trending topics. NBC responded to the backlash by announcing that the network was still planning to film and air
-              the remainder of the 22 planned episodes after the undetermined hiatus, and that the fate of the series would be determined after
-              the planned episodes air.
-            </p>
-            <p>
-              On December 7, 2011, CollegeHumor released a video titled "Save Greendale (with the cast of Community)" using the cast of
-              Community in-character to promote the series and the school in a PSA-style video. On December 22, 2011, fans of the series
-              created a flash mob outside of NBC's Rockefeller Center headquarters in New York City to Occupy NBC. The flash mob dressed in
-              Christmas gear, wearing "darkest timeline" goatees, and singing "O' Christmas Troy" from the first season's episode "Comparative
-              Religion" and chanting "Go Greendale, go Greendale go". On January 6, 2012, NBC entertainment chairman Robert Greenblatt announced
-              that Community was not canceled, though he did not mention a return date. On February 21, 2012, creator Dan Harmon announced via
-              Twitter that the third season would resume on March 15, 2012, in the regular timeslot of Thursdays at 8:00 pm.
-            </p>
-            <p>
-              The third season was released in region 1 on August 14, 2012. It features commentary on every episode by cast and crew members;
-              gag reels; deleted scenes; "This is War: Pillows vs. Blankets mockumentary" featurette; and "A Glee-ful Community Christmas"
-              featurette.
-            </p>
-            <h3 className="article-heading-3" id="4.4">Fourth season</h3>
-            <p>
-              On May 10, 2012, Community was renewed for a fourth season consisting of 13 episodes. Series creator and executive producer Dan
-              Harmon was replaced as showrunner for the series in the fourth season, as writers David Guarascio and Moses Port (co-creator of
-              the short-lived Aliens in America) took over as showrunners and executive producers. Sony Pictures Television, which produced the
-              series with Universal Television, initially said that Harmon would serve as a consulting producer, but Harmon asserted that he
-              was not informed of the deal and would not return in a position without any executive prerogatives. The end of the third season
-              also marked several other departures including executive producers Neil Goldman and Garrett Donovan, writer/producer Chris McKenna
-              and actor/writer Dino Stamatopoulos. Frequent episode directors and executive producers <a href="#">Anthony and Joe Russo</a> also
-              left the show in order to direct <a href="#">Captain America: The Winter Soldier</a>.
-            </p>
-            <p>
-              In early October 2012, NBC delayed the premier of the fourth season, which had been scheduled for October 19, 2012, without announcing
-              a new date. On October 30, 2012, NBC announced that the fourth season would premiere February 7, 2013, returning to its original
-              time slot of Thursdays at 8:00 pm.
-            </p>
-            <p>
-              On November 21, 2012, after allegedly using a racial slur on set, it was announced that Chevy Chase left the show by mutual agreement
-              between the actor and network. As a result of timing and the agreement made, Chase's character Pierce is absent for two episodes--he
-              did not appear in the tenth episode (produced the ninth), "Intro to Knots", and the twelfth episode, "Heroic Origins". He also
-              appeared in a voice-only role in the episode "Intro to Felt Surrogacy", which was the final episode produced for the season, and as
-              part of his agreement to leave the show, Chase was required to record all audio for the scenes where his character, alongside the other
-              characters, appeared as a puppet. The season finale, which was filmed out-of-sequence, as it was the eleventh episode produced, marked
-              Chase's final on-screen appearance as a regular cast member. He appeared in a cameo in the season 5 premiere.
-            </p>
-            <p>
-              The fourth season was released in region 1 on August 6, 2013. It features commentary on every episode by cast and crew members; gag reel;
-              deleted scenes; "Inspector Spacetime: Inspection" featurette, and Adventure in Advanced Puppery featurette.
-            </p>
-            <h3 className="article-heading-3" id="4.5">Fifth season</h3>
-            <p>
-              On May 10, 2013, the series was renewed for a fifth season. On June 1, 2013, Harmon announced he would return as showrunner for season five,
-              replacing season four showrunners Moses Port and David Guarascio, with former writer Chris McKenna returning as executive producer. On June 10,
-              Sony Television confirmed the return of Harmon and McKenna for the fifth season. Dino Stamatopoulos, Rob Schrab, and the Russo brothers also
-              returned.
-            </p>
-            <p>
-              Glover decided to not return as a full-time cast member for the fifth season, appearing only in the first five of the 13 episodes. To make up
-              for his absence and Chase's, Jonathan Banks was cast in the fifth season in August 2013 and appeared in 11 of the season's 13 episodes, portraying
-              Buzz Hickey, a criminology professor. Additionally, John Oliver, who played Professor Duncan in the first two seasons, reprises his role in
-              season 5 for multiple episodes.
-            </p>
-            <p>
-              On May 9, 2014, NBC announed that it had cancelled Community. For several years before its cancellation, fans adopted the slogan "six seasons and
-              a movie", a line from the second season episode "Paradigms of Human Memory" regarding Abed's hopeful legacy of short-lived NBC series The Cape.
-              Bids to continue the series were turned down by popular streaming providers like Netflix and Hulu.
-            </p>
-            <p>
-              The fifth season was released in region 1 on August 5, 2014. It features commentary on every episode by cast and crew members; gag reel; and two
-              featurettes, "Re-Animating the '80s" and "Advanced Television Production: 5 Days, 2 Scripts, No Sleep".
-            </p>
-            <h3 className="article-heading-3" id="4.6">Sixth season</h3>
-            <p>
-              On June 30, 2014, the day the cast's contracts were due to expire, Yahoo! announced it had ordered a 13-episode sixth season to stream on Yahoo!
-              Screen, including the main cast along with executive producers Dan Harmon, Chris McKenna, Russ Krasnoff, and Gary Foster. Harmon said, "I am very
-              pleased that Community will be returning for its predestined sixth season on Yahoo ... I look forward to bringing our beloved NBC sitcom to a larger
-              audience by moving it online." However, Yvette Nicole Brown dropped out to care for her ailing father, although she made guest appearances in "Ladders"
-              and "Emotional Consequences of Broadcast Television". Paget Brewster was cast as consultant Francesca "Frankie" Dart and Keith David was cast as inventor
-              Elroy Patashnik. Filming began for season six on November 17, 2014, and on December 8, 2014, the series celebrated the milestone of 100 episodes.
-              Filming ended on March 27, 2015.
-            </p>
-            <p>
-              In a June 3, 2015 interview with TV Insider, Dan Harmon explained why season six would likely be the last of the series:
-              <blockquote>
-                We've exploded into these successful shrapnel. Dr. Ken is now Dr. Ken. Alison has probably got her eye on movies. Gillian is working on a Netflix show.
-                If there was some magical way of guaranteeing that everyone could come back all at once, let's fo it. But it would be a lot easier to put together a
-                movie project and get them all on board than to say, "Let's give it one more season!"
-              </blockquote>
-            </p>
-            <p>
-              Despite the show's "six seasons and a movie" mantra, Yahoo never formally marketed season six as its final season. On July 30, 2015, Joel McHale stated
-              that Yahoo! "wanted to [make more seasons of Community], but all of [the actors'] contracts were up after six years." McHale later clarified his statement
-              via Twitter, saying "Community is not canceled." Yahoo released a statement: "We've seen tremendous value in our partnership with Sony and are continuing
-              to discuss future opportunities for Community." Harmon said he "could have said yes immediately" to season seven, but "given the actors' velocity and
-              trajectory" decided in favor of "getting [the cast] back together for an awesome movie." On January 4, 2016, Yahoo announced it had shut down its Yahoo
-              Screen service, after a $42 million write-down, with its original prorgramming being moved to Yahoo TV for continoued public viewing.
-            </p>
-            <p>
-              The sixth season was released on DVD in region 1 on March 8, 2016. Special features include deleted scenes, a behind-the-scenes featurette on the making of
-              the finale, trivia with the cast and crew, and a gag reel.
-            </p>
-            <h3 className="article-heading-3" id="4.7">Webisodes</h3>
-            <p>
-              In addition to the regular episodes, NBC produced a series of webisodes. Some focus on the daily life of Dean Pelton and others include a Spanish project,
-              study breaks, and Abed copying his friends' lives and turning them into student films. These webisodes were featured on the front page of the Greendale
-              Community College website on the AV Department page.
-            </p>
-            <p>
-              On March 2, 2012, it was announced that three animated webisodes would air exclusively on Hulu in lead up to the return of the series on March 15, 2012.
-              Titled Abed's Master Key, the shorts were written by Dave Seger and Tom Kauffman of Channel 101 and animated by Animax Entertainment. In the webisodes,
-              Abed becomes Dean Pelton's assistant and is given a master key to Greendale.
-            </p>
-          </div>
+          <h2 className="article-heading-2" id="7">Song catalogue</h2>
+          <div></div>
         </div>
         <div>
-          <Heading2 id={5} title={"Film"} />
-          <div className="collapse show" id="collapseFive">
-            <p>
-              Soon after Community was picked up for a sixth season in 2014, Zack Van Amburg of Sony Pictures Television confirmed that a Community film was in the early
-              stages of development. After the series wrapped, Harmon revealed that Yahoo! had initially wanted to make a movie immediately after the end of the sixth
-              season, but at the time was not ready to produce it.
-            </p>
-            <p>
-              For the next several years, Harmon continued to express interest in creating a Community film and stated his efforts in making it happen. During this period,
-              cast members Danny Pudi, Joel McHale, Alison Brie, Gillian Jacobs and Donald Glover would wach express their own interest in the film as well. Joe Russon was
-              asked if he and his brother Anthony would come back to do the movie. He stated, "We'd certainly be willing to do it. We love our Community family. That cast,
-              we're all still very close to all of them. It'd be schedule-depending for us. But I believe there will be a Community movie, especially now that it's doing well
-              on streaming. Someone like Netflix could step up and make the movie."
-            </p>
-            <p>
-              Harmon confirmed in 2021 that he had begun work on the script, and that any logistical issues with creating a Community movie were mostly solved. He described
-              the challenging part of the movie was more "philosophical", namely whether the movie would be approachable to a viewer unfamiliar with the television show. Harmon
-              said in August 2022 that a moview was "definitely going to happen" and could be expected in "between one and eight years". He said that the movie had an outline
-              and that: "There's a product put together and pitched out in the world".
-            </p>
-            <p>
-              The Peacock streaming service announced that it had ordered the film in September 2022, after a bidding war among distributors for the rights. Harmon and Andrew
-              Guest were announced as writers, with McHale, Pudi, Brie, Jacobs, Jim Rash, and Ken Jeong set to reprise their roles. Harmon later stated that Yvette
-              Nicole Brown would also return. Glover confirmed his involvement in the film several months later. On April 2, 2024, McHale confirmed Chevy Chase would not
-              participate.
-            </p>
-            <p>
-              During an interview on Jimmy Kimmel! Live in January 2023, McHale revealed that filming would begin in June of that year. However, filming was delayed amid the
-              2023 Hollywood labor disputes. In June 2023, McHale stated that filming would set to begin in summer 2024. In February 2024, Glover confirmed the script was
-              complete. During a February 2024 interview with The Hollywood Reporter, Glover was asked about his role in the movie and said: "Yeah, [Harmon] told me what he
-              wanted, and I was like. 'This sounds great' ... It's a college reunion, but Abed is like the big director now, and basically this is magnum opus. I'm like, 'This
-              sounds fucking tight.'" In April 2024, Brie revealed that the script was completed, and that she had read it.
-            </p>
-            <p>
-              In March 2024, McHale indicated that shooting was "basically working around Donald's schedule", would begin production "this year" and he would be shocked if it
-              did not. However in May 2024, Glover noted to Deadline that he received backlash from fans over speculation regarding his schedule preventing the production,
-              clarifying that "maybe [it] was last year -- maybe -- but not this time". McHale would later clarify in an interview in July 2024 with GQ that it was not in fact
-              Glover's schedule that was delaying production, but his own, stating: "That was definitely not true. It was not Donald's schedule. We love Donald. You can fully
-              blame my schedule." He also added a tentative shotting period for 2025.
-            </p>
-          </div>
+          <h2 className="article-heading-2" id="8">Selected filmography</h2>
+          <div></div>
         </div>
         <div>
-          <Heading2 id={6} title={"Reception"} />
-          <div className="collapse show" id="collapseSix">
-            <h3 className="article-heading-3" id="6.1">Critical reception</h3>
-            <p>
-              Community has appeared on a number of lists determining the greatest television shows off all time. In TV (The Book): Two Experts Pick the Greatest American Shows
-              of All Time, critics Alan Sepinwall and Matt Zoller Seltz ranked Community 54th in their combined top 100 list, placing them in the section titled "Groundbreaking
-              and Workhorses". In 2012, Entertainment Weekly listed the show at #15 in the "25 Best Cult TV Shows from the Past 25 Years," with high praise; "The series' affinity
-              for ambitious, high-concept story lines (e.g. few shows are willing to turn over and entire episode to stop-motion animation), meta humor, and constant pop culture
-              allusions has helped it earn the kind of fervent fan following some of its highest-rated comedic competitors must envy." In 2017, IGN place it 51st in its top 100
-              ranking of TV shows, with writer Jonathan Dombush describing it "as a meta love letter to the films and shows that inspired it and its creator, Dan Harmon." In 2021,
-              the BBC placed Community at 44th of 100 in its ranking of the greatest TV series of the 21st century. In 2023, Variety ranked Community #100 on its list of the
-              100 greatest TV shows of all time.
-            </p>
-            <p>
-              The show has overall scores of 88% on Rotten Tomatoes, and 74 on Metacritic.
-            </p>
-            <p>
-              The show's first season received mostly positive reviews, scoring 69 out of 100 based on 23 critics on Metacritic. Season 1 scored 90% on review aggregator website
-              Rotten Tomatoes, with the site's critical consensus reading: "Snarky and fast-paced with a surprising tender undercurrent and an engaging cast, Comunity is one of the
-              best new comedies of the season". David Bushman (Curator, Televison) of the Paley Center for Media called Community the best new show of the fall season. Jonah Krakow
-              of IGN gave the first season an 8.5 saying that "Community eventually ramped up and delivered some amazing stories in the second half of the season."
-            </p>
-            <p>
-              The second season received high critical acclaim, scoring 86 out of 199 based on 4 critics on Metacritic. Rotten Tomatoes gave the season a 100%, with a critical consensus
-              that reads; "Community unfurls into a marvel of meta-madness in its sophomore season, artfully deconstructing sitcom tropes while repeatedly knocking its own emotional
-              beats out of the park". Emily Nussbaum of New York Magazine and Heather Havrilesky of Salon.com rated Community as the best show of 2010. In The A.V. Club's list of the
-              25 best television series of 2010, Community ranked second, stating that the best episodes were "Modern Warfare", "Cooperative Calligraphy", and "Abed's Uncontrollable
-              Christmas". IGN named Community the best comedy series in both 2010 and 2011.
-            </p>
-            <div className="img-left img-card">
-              <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Danny_Pudi_by_Gage_Skidmore_2.jpg/500px-Danny_Pudi_by_Gage_Skidmore_2.jpg" 
-                alt="Danny Pudi" 
-              />
-              <p>Danny Pudi has received critical acclaim for his performance.</p>
-            </div>
-            <p>
-              Acclaim for the show continued in the third season, scoring 82 out of 100 based on 4 critics on Metacritic. It also topped the Metacritic User Poll in the category 'Best
-              Television Show of 2011', receiving 3,478 points. Rotten Tomatoes gave season 3 a 91% with a critical consensus that reads: "The Greendale study group take some of their
-              boldest swings--though not all connect--in this freewheeling third season that nevertheless continues Community's streak as the gold standard for fiendishly clever television".
-              Community placed on several critics top television lists; including tanked second by Paste, fifth by both HitFix and The Huffington Post, first by Hulu, and third on TV.com's
-              Top 100 Everything of 2011.
-            </p>
-            <p>
-              Reviews for the fourth season were generally positive, but less enthusiastic than the reception of the first three seasons. It scored 69 out of 100 based on 18 critics on
-              Metacritic. The season 4 rating on Rotten Tomatoes is 65%, and the critical consensus reads: "Despite some behind-the-scenes drama, the fourth season of Community manages to
-              retain the playful energy, potent humor, and kooky stories the show is famous for". Verne Gay of Newsday stated the show was "still defiantly Community, still good and still
-              uninterested in adding new viewers." On the other hand, Hitfix's Alan Sepinwall wrote, "It feels like [Moses] Port, [David] Guarascio and the other writers decided to
-              reverse-engineer the [Dan] Harmon version of Community, but couldn't quite manage without the missing ingredient of Harmon himself." Mike Hale of The New York Times has
-              stated that the series "has been dumbed down, its humor broadened past recognition, and the two episodes provided for review...have fewer laughs between them than a single
-              good scene from the old Community."
-            </p>
-            <p>
-              The fifth season received critical acclaim, scoring an 80 out of 100 based on 15 reviews on Metacritic. Rotten Tomatoes gave the season a 93%, with the critical consensus
-              reading: "With Dan Harmon back as the showrunner, Community returns with a familiar new energy and more fun, exciting adventures for the Greendale gang". Many critics cited
-              the return of series creator Dan Harmon as a strength. Verne Gay from Newsday said of the season that it was "about as good a Community restart as anyone could have possibly
-              hoped for."
-            </p>
-            <p>
-              The sixth season continued to receive positive reviews, scoring a 78 out of 100 based on 12 reviews on Metacritic, and scoring an 89%  approval rating on Rotten Tomatoes, with
-              the consensus being, "Despite cast and broadcast changes, Community manages to remain at the top of its quirky class." Amy Amatangelo of The Hollywood Reporter wrote, 
-              "Everything fans loved about Community remains [...] the show has seamlessly transferred to an online venue." The Los Angeles Times' Robert Lloyd considered "something special"
-              about the season, commenting that it "lives in consciousness of its own construction in a kind of existential but also dramatically meaningful way." The New York Times' Mike
-              Hale felt Harmon responsible "for turning countercultural whimsicality into affecting, fast-paced comedy" in the season. Time's James Poniewozik felt it the same show in humor
-              and quality, though he noted an absent "sense of mission regarding the characters. [...] Maybe it's enough for Community, free of the ratings pressure of NBC, to live its
-              second life free to be weird and playful and experimental."
-            </p>
-            <h3 className="article-heading-3" id="6.2">Awards and nominations</h3>
-            <p>
-              In 2009, the series received a nomination for Favorite New TV Comedy at the 36th People's Choice Awards.
-            </p>
-            <p>
-              In 2010, at the 41st NAACP Image Awards, Justin Lin received a nomination for Outstanding Directing in a Comedy Series for "Introduction to Statistics". At the 2010 Teen
-              Choice Awards, the series received a nomination for Breakout Show and Ken Jeong was nominated for Breakout Star Male. For Entertainment Weekly's 3rd Ewwy Awards, it was
-              nominated for Best Comedy Series, Joel McHale was nominated for Best Lead Actor in a Comedy and Danny Pudi was nominated for Best Supporting Actor in a Comedy.
-            </p>
-            <p>
-              In 2011, Betty White received a nomination for Favorite TV Guest Star at the 37th People's Choice Awards. Yvette Nicole Brown won the 2011 Gracie Allen Award for Outstanding
-              Supporting Actress in a Comedy Series. The series received a nomination for Best Directing for a Comedy Series at The Comedy Awards. For the 1st Critics' Choice Television
-              Awards, it was nominated for Best Comedy Series, while Joel McHale and Danny Pudi were nominated for Best Actor and Best Supporting Actor in Comedy Series, respectively.
-              The episode "<a href="#">Abed's Uncontrollable Christmas</a>" won a 2011 Creative Arts Emmy Award for Individual Achievement in Animation. At the 42nd NAACP Image Awards,
-              Justin Lin was nominated for Outstanding Directing in a Comedy Series for the episode "Modern Warfre". At the 27th TCA Awards, Community was nominated for Outstanding
-              Achievement in Comedy and Danny Pudi was nominated for Individual Achievement in Comedy. The series received four nominations for the 2011 Satellite Awards, for Best
-              Comedy or Musical Series, Joel McHale for Best Actor in a Musical or Comedy Series, and Donald Glover for Best Supporting Actor in a Series, Miniseries, or TV Movie;
-              while it won Best Television Release for the season two DVD set.
-            </p>
-            <p>
-              In 2012, Community was nominated for a Primetime Emmy Award for Outstanding Writing for a Comedy Series for the episode "<a href="#">Remedial Chaos Theory</a>", written
-              by Chris McKenna. Also that year, the show won the award for Favorite Comedy and Favorite Ensemble in the 2012 TV Guide Magazine Fan Favorites Awards. "Remedial Chaos
-              Theory" was nominated for a Hugo Award in 2012 for Best Dramatic Presentation, Short Form. Community also won the Hulu "Best in Show" award for 2012, beating
-              <a href="#">30 Rock</a>, Parks and Recreation, New Girl, and Modern Family in the first four rounds, and The Walking Dead in the final round by 11,000 votes. It won Hulu's
-              "Best in Show" award again in 2013, beating out Game of Thrones in the final round with 60% of the votes.
-            </p>
-            <p>
-              At the 2nd Critics' Choice Awards, Community received the most nominations and won Best Comedy Series. Joel McHale was nominated for Best Actor in a Comedy Series, Jim
-              Rash and Danny Pudi were nominated for Best Supporting Actor in a Comedy Series, and Alison Brie and Gillian Jacobs were nominated Best Supporting Actress in a Comedy
-              Series. Community was also nominated for TCA Awaward for Outstanding Achievement in Comedy ath the 2012 TCA Awards.
-            </p>
-            <h3 className="article-heading-3" id="6.3">Semiotics and Community</h3>
-            <p>
-              While sitcoms are often underrepresented in the academic study of television, Community is an exception. More specifically, television critics and scholars often
-              reference Community when discussing semiotics, the study of signs, due to its frequent use of self-reference in highlighting common film and television tropes as they
-              appear within the series.
-            </p>
-            <p>
-              Some critics have even claimed that the show itself is about semiotics. Mordicai Knode of Tor.com suggests the show is "about the tropes of every single genre, it is
-              about the cinematic language and the shared culture we all bring piecemeal to the table when we sit down as audiences."
-            </p>
-            <p>
-              Dan Harmon fills each episode with signs and references in order for the audience to deconstruct and construct their own meaning, even going so far as to break the
-              fourth wall to give viewers a wink and a nod to the show's complexity. Fans of Community require a "certain level of rhetorical and interpretive skills" to pick up on
-              these semiotic layers of the series:
-            </p>
-            <blockquote>
-              "The most important knowledge a viewer brings to the viewing of Community is the subconscious recognition of indicators for other formal systems (meaning other genres
-              or specific texts) with help from subconscious hupotheses and charts that are built on previous experiences with similar works."
-            </blockquote>
-            <h3 className="article-heading-3" id="6.3">Ratings</h3>
-            <p>
-              Premiering in the 9:30 pm ET spot on September 17, 2009, the pilot episode had a viewership of 7.680 million In the 18-49 audience, it had a rating of 3.7. As such, it
-              held 93% of this audience from The Office, which had been in the previous time slot. The show was called the "bright spot for the night" for NBC, seeing how The Office
-              was down 18% from the previous year's premier, while Parks and Recreation, in the preceding time slot, was down 30%. However, the show, like many other NBC comedies at
-              the time (including The Office, Parks and Recreation, and <a href="#">30 Rock</a>), would later struggle in the ratings despite critical acclaim, though the show did
-              tend to improve after factoring in DVR ratings. Some commentators noted that the show's uniqueness and ambition prevented it from achieving the broad appeal of other
-              sitcoms.
-            </p>
-          </div>
-          <div>
-            <Heading2 id={7} title={"Syndication"} />
-            <div className="collapse show" id="collapseSeven">
-              <p>
-                On March 14, 2012, Comedy Central announced that it had purchased the rights to Community for syndication that began airing in September 2013 at the same time as
-                weeknight syndication on local stations. On November 28, 2020, the show made its debut on IFC.
-              </p>
-              <p>
-                Community premiered in syndication in Canada on The Comedy Network on September 4, 2012. In January 2014, the show moved to Canadian sister channel MuchMusic. The
-                series made its Canadian over-the-air broadcast debut in 2018, whtn the series moved to CHCH.
-              </p>
-              <p>
-                In the United Kingdom, Community aired on subscription cable network Universal TV from 2011 to 2016, with season one also airing on MTV's free-to-air Viva channel
-                and Channel 4 Television Corporation's 4Music.
-              </p>
-              <p>
-                In India, Community premiered on Star World in 2010. It began airing on Comedy Central from 2016.
-              </p>
-            </div>
-          </div>
-          <div>
-            <Heading2 id={8} title={"Streaming"} />
-            <div className="collapse show" id="collapseEight">
-              <p>
-                In the United States, the complete series is available on Peacock. The first three seasons are available on Netflix throughout Latin America with Spanish or
-                Brazillian Portugese subtitles. All six seasons are available via the iTunes Store. The series was available exclusively on Amazon Prime Video UK until February
-                1, 2015, when seasons one though five also became available on Netflix in the UK and Ireland until 2017. In Australia, the entire series is available on Stan
-                and Amazon Prime Video. In 2018, all six seasons were made available on All 4, the streaming service of Channel 4, in the United Kingdom.
-              </p>
-              <p>
-                On April 1, 2020, the series became available to stream on Netflix worldwide. The show reached a wider audience on the platform, as shown by its entrance into
-                Netflix's list of top 10 most popular shows in April 2020. From January to June 2023, the first period for which data was released, Netflix figures show that
-                Community was watched for a cumulative 91.5 million hours on its platform. It left the platform on March 31, 2024, and moved to Peacock on April 1.
-              </p>
-              <p>
-                On June 26, 2020, Netflix and Hulu removed the season 2 episode "Advanced Dungeons & Dragons" from their platforms due to controversial scenes with Chang
-                playing a dark elf by wearing black make-up and a white wig, which was perceived as blackface. Several other live action comedies had episodes featuring blackface
-                removed as well. At the time, Harmon did not comment on the episode's removal. In a 2021 interview with The New York Times, Harmon remarked that "justifiably
-                they're stripping it from the streaming archives because it's got a joke about blackface", but added that it "is probably the best episode of Community".
-                The episode later returned to streaming following the series' move to Peacock.
-              </p>
-            </div>
-          </div>
-          <div>
-            <Heading2 id={9} title={"Soundtrack"} />
-            <div className="collapse show" id="collapseNine">
-              <p>
-                A soundtrack for the first season, titled Community (Music from the Original Television Series), was released on September 21, 2010 by Madison Gate Records.
-                The track list included the main title theme, "At Least It Was Here" by the 88; original songs and incidental music composed for the show (by series
-                composer Ludwig Göransson); and several songs were performed by the characters (a mix of orifinal compositions and covers).
-              </p>
-              <h3 className="article-heading-3" id="9.1">Other tracks</h3>
-              <p>
-                Songs featured on the show that were not released on the soundtrack are available on composer Ludwig Göransson's official website.
-              </p>
-              <p>
-                Throughout the series, Michael Haggins' song "Daybreak" can be heard. On several occasions the characters are humming the tune and sometimes it can be heard
-                on the radio in the background.
-              </p>
-            </div>
-          </div>
+          <h2 className="article-heading-2" id="9">Concert tours</h2>
+          <div></div>
         </div>
-        <TableCommunity />
+      <TableBeatles />
       </main>
     </>
   )
 }
 
-
-export default Community
+export default Beatles
