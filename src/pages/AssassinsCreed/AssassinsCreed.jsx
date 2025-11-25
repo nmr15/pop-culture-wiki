@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import { assassinscreed } from '../../data/dataAssassinsCreed'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
 const AssassinsCreed = () => 
@@ -90,13 +91,34 @@ const AssassinsCreed = () =>
         <div>
           <h1 className="article-heading">Assassin's Creed</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://1000logos.net/wp-content/uploads/2017/08/Assassins-Creed-Logo-1536x966.png" 
-            alt="Assassin's Creed" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Assassin's Creed</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://1000logos.net/wp-content/uploads/2017/08/Assassins-Creed-Logo-1536x966.png" alt="Assassin's Creed logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data"><Link>Ubisoft Montreal</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">Ubisoft</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Games</th>
+              <td className="infobox-data"><a href="#4">List of Assassin's Creed games</a></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             <b>Assassin's Creed</b> is a historical action-adventure video game series and media franchise published by <a href="#">Ubisoft</a> and developed mainly
@@ -140,6 +162,7 @@ const AssassinsCreed = () =>
           </p>
         </div>
         <div>
+          <Heading2 id={1} title={"Development history"} />
           <h2 className="article-heading-2" id="1">Development history</h2>
           <div>
             <p>
@@ -155,7 +178,7 @@ const AssassinsCreed = () =>
               second perios of development to make engrossing single-player games similar to the original titles but with features to allow players to
               share achievements and content with others through a new Animus Hub system that will be integrated with all future and some earlier games.
             </p>
-            <h3 className="article-heading-2" id="1.1">Period one</h3>
+            <h3 className="article-heading-3" id="1.1">Period one</h3>
             <p>
               The first Assassin's Creed game originated out of ideas for a sequel for Ubisoft's video game Prince of Persia: The Sands of Time, aiming
               for the <Link>seventh generation of video game consoles</Link>. The Ubisoft Montreal team decided to take the gameplay from The Sands of
@@ -211,7 +234,7 @@ const AssassinsCreed = () =>
               graphical and gameplay overhaul. The setting chosen for the game was Paris during the early years of the French Revolution, with players
               taking control of a new Assassin named <Link>Arno Dorian</Link>. After Unity, Ubisoft released Assassin's Creed Syndicate in 2015.
             </p>
-            <h3 className="article-heading-2" id="1.2">Period two</h3>
+            <h3 className="article-heading-3" id="1.2">Period two</h3>
             <p>
               Following Syndicate's release, Ubisoft decided that the series needed a major reinvention across both gameplay and narrative. It was decided
               to make the next game, Assassin's Creed Origins, closer to a role-playing video game than a stealth-action game, which would also bring a
@@ -236,7 +259,7 @@ const AssassinsCreed = () =>
               Valhalla before being turned into a standalone release, and was set in 9th century Baghdad during the Islamic Golden Age, a decade before
               the events of Valhalla, to which it served as a prequel.
             </p>
-            <h3 className="article-heading-2" id="1.3">Period three</h3>
+            <h3 className="article-heading-3" id="1.3">Period three</h3>
             <p>
               In 2022, Ubisoft announced several additional games for the series, including Assassin's Creed Shadows, set in Japan during the Sengoku
               period, and Assassin's Creed: Codename Hexe, rumored to be set in Central Europe during the 16th century.
@@ -259,7 +282,7 @@ const AssassinsCreed = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Gameplay</h2>
+          <Heading2 id={2} title={"Gameplay"} />
           <div>
             <div className="img-right">
               <img 
@@ -298,7 +321,7 @@ const AssassinsCreed = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Storyline</h2>
+          <Heading2 id={3} title={"Storyline"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Premise</h3>
             <div className="img-right">
@@ -338,7 +361,7 @@ const AssassinsCreed = () =>
               capabilities they experienced with their ancestor, but also affects their mental well-being, as the user begins to confuse their
               ancestor's memories with their own.
             </p>
-            <h3 className="article-heading-2" id="2.2">Story arcs</h3>
+            <h3 className="article-heading-3" id="2.2">Story arcs</h3>
             <p>
               The first five main games in the series focus on Desmond Miles, a bartender and former Assassin who learns he is a descendant of several
               important Assassins throughout history, including <Link>Altaïr Ibn-LaʼAhad</Link> from the Middle East during the Third Crusade; Ezio
@@ -393,7 +416,7 @@ const AssassinsCreed = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Release history</h2>
+          <Heading2 id={4} title={"Release history"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Main series</h3>
             <div className="row">
@@ -545,24 +568,24 @@ const AssassinsCreed = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Animus Hub</h2>
+          <Heading2 id={5} title={"Animus Hub"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Other media</h2>
+          <Heading2 id={6} title={"Other media"} />
           <div>
-            <h3 className="article-heading-2" id="6.1">Television</h3>
-            <h3 className="article-heading-2" id="6.2">Film</h3>
-            <h3 className="article-heading-2" id="6.3">Print publications</h3>
-            <h3 className="article-heading-2" id="6.4">Audio drama</h3>
-            <h3 className="article-heading-2" id="6.5">Board games</h3>
-            <h3 className="article-heading-2" id="6.6">Concert</h3>
+            <h3 className="article-heading-3" id="6.1">Television</h3>
+            <h3 className="article-heading-3" id="6.2">Film</h3>
+            <h3 className="article-heading-3" id="6.3">Print publications</h3>
+            <h3 className="article-heading-3" id="6.4">Audio drama</h3>
+            <h3 className="article-heading-3" id="6.5">Board games</h3>
+            <h3 className="article-heading-3" id="6.6">Concert</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Reception</h2>
+          <Heading2 id={7} title={"Reception"} />
           <div>
             <p>
               The Assassin's Creed series has received mainly positive reviews from critics, with Blast Magazine calling it "the standout series on [the
@@ -578,7 +601,7 @@ const AssassinsCreed = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Cultural impact</h2>
+          <Heading2 id={8} title={"Cultural impact"} />
           <div>
 
           </div>
