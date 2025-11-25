@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableGta from '../../components/TableGta'
 
 const GtaLCS = () =>
@@ -39,13 +40,42 @@ const GtaLCS = () =>
         <div>
           <h1 className="article-heading">Grand Theft Auto: Liberty City Stories</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Grand_Theft_Auto_Liberty_City_Stories_box.jpg/250px-Grand_Theft_Auto_Liberty_City_Stories_box.jpg" 
-            alt="Grand Theft Auto: Liberty City Stories logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Grand Theft Auto</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Grand_Theft_Auto_Liberty_City_Stories_box.jpg/250px-Grand_Theft_Auto_Liberty_City_Stories_box.jpg" 
+                    alt="Grand Theft Auto: Liberty City Stories boxart" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data">
+                <Link>Rockstar Leeds</Link> <br />
+                <Link>Rockstar North</Link>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link>Rockstar Games</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous game</th>
+              <td className="infobox-data"><Link to="/gta/grand_theft_auto_san_andreas">Grand Theft Auto: San Andreas</Link></td>
+            </tr>
+             <tr>
+              <th className="infobox-data">Next game</th>
+              <td className="infobox-data"><Link to="/gta/grand_theft_auto_vice_city_stories">Grand Theft Auto: Vice City Stories</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Grand Theft Auto: Liberty City Stories is a 2005 action-adventure game developed in a collaboration between <Link>Rockstar Leeds</Link> and
@@ -71,13 +101,17 @@ const GtaLCS = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <Heading2 id={1} title={"Gameplay"} />
           <div>
-            <div className="img-left">
+            <div className="img-left img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/en/c/c1/GTA_LCS_Staunton_Island_screenshot.png" 
                 alt="GTA_LCS_Staunton_Island_screenshot" 
               />
+              <p>
+                Toni on Staunton Island riding a <Link>PCJ-600</Link> motorcycle with a sub-machine gun equipped and with a two-star
+                <Link> wanted level</Link>.
+              </p>
             </div>
             <p>
               Grand Theft Auto: Liberty City Stories is an action-adventure game set in an open world environment and played from a third-person
@@ -98,7 +132,7 @@ const GtaLCS = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <Heading2 id={2} title={"Synopsis"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Setting</h3>
             <p>
@@ -145,19 +179,19 @@ const GtaLCS = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Development</h2>
+          <Heading2 id={3} title={"Development"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Soundtrack</h2>
+          <Heading2 id={4} title={"Soundtrack"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Reception</h2>
+          <Heading2 id={5} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Sales</h3>
           </div>
