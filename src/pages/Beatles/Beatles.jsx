@@ -139,11 +139,15 @@ const Beatles = () =>
           <p>
             The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide. They are the most successful act
             in the history of the US Billboard charts, with the most number 1 hits on the U.S. Billboard Hot 100 chart (20), and they hold the record for
-            most number 1 albums on the UK Albums Chart (15) and most singles sold in the UK (21.9 million). The band received many accolades
+            most number 1 albums on the UK Albums Chart (15) and most singles sold in the UK (21.9 million). The band received many accolades, including
+            eight Grammy Awards, four Brit Awards, an Academy Award (for Best Original Song Score for the 1970 documentary Let It Be) and fifteen Ivor
+            Novello Awards. They were inducted into the Rock and Roll Hall of Fame in their first year of eligibility, 1988, and each principal member
+            was individually inducted between 1994 and 2015. In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history.
+            Time magazine named them among the 20th century's 100 most important people.
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">History</h2>
+          <Heading2 id={1} title={"History"} />
           <div>
             <h3 className="article-heading-3" id="1.1">1956-1963: Formation</h3>
             <h4 className="article-heading-4" id="1.1.1">The Quarrymen and name change</h4>
@@ -155,7 +159,40 @@ const Beatles = () =>
               thought Harrison was too young. After a month's persistence, during a second meeting (arranged by McCartney), Harrison performed the lead
               guitar part of the instrumental song "Raunchy" on the upper deck of a Liverpool bus, and they enlisted him as lead guitarist.
             </p>
+            <p>
+              By January 1959, Lennon's Quarry Bank friends had left the group and he began his studies at the Liverpool College of Art. The three
+              guitarists, billing themselves as Johnny and the Moondogs, were playing rock and roll whenever they could find a drummer. They also
+              performed as the Rainbows. Paul McCartney later told New Musical Express that they called themselves that "because we all had different
+              coloured shirts and we couldn't afford any other!"
+            </p>
+            <p>
+              Lennon's art school friend Stuart Sutcliffe, who had just sold one of his paintings and was persuaded to purchase a bass guitar with the
+              proceeds, joined in January 1960. He suggested changing the band's name to Beatals, as a tribute to Buddy Holly and the Crickets. They
+              used this name until May, when they became the Silver Beetles, before undertaking a brief tour of Scotland as the backing group for pop
+              siner and fellow Liverpudlian Johhny Gentle. By early July, they had refashioned themselves as the Silver Beetles and by the middle of
+              August simply the Beatles.
+            </p>
             <h4 className="article-heading-4" id="1.1.2">Early residencies and UK popularity</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Beatles_in_Hamburg.webp/408px-The_Beatles_in_Hamburg.webp.png" 
+                alt="The_Beatles_in_Hamburg" 
+              />
+              <p>
+                Left to right: Pete Best, George Harrison, John Lennon, Paul McCartney, and Stuart Sutcliffe at Hamburg Funfair in 1960, photographed by
+                Astrid Kirchherr. Sutcliffe left the Beatles in 1961 and Ringo Starr replaced Best in 1962.
+              </p>
+            </div>
+            <p>
+              Allan Williams, the Beatles' unofficial manager, arranged a residency for them in Hamburg. They auditioned and hired drummer Pete Best in
+              mid-August 1960. The band, now a five-piece, departed Liverpool for Hamburg four days later, contracted to club owner Bruno Koschmider for
+              what would be a 3 1/2-month residency. Beatles historian Mark Lewisohn writes: "They pulled into Hamburg at dusk on August 17, the time
+              when the red-light area comes to life ... flashing neon lights screamed out the various entertainment on offer, while scantily clad women
+              sat unabashed in shop windows waiting for business opportunities."
+            </p>
+            <p>
+              Koschmider had converted a couple of strip clubs in 
+            </p>
             <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
             <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
@@ -179,7 +216,7 @@ const Beatles = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Artistry</h2>
+          <Heading2 id={2} title={"Artistry"} />
           <h3 className="article-heading-3" id="2.1">Development</h3>
           <h3 className="article-heading-3" id="2.2">Influences</h3>
           <h3 className="article-heading-3" id="2.3">Genres</h3>
@@ -188,33 +225,33 @@ const Beatles = () =>
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Legacy</h2>
+          <Heading2 id={3} title={"Legacy"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Awards and achievements</h2>
+          <Heading2 id={4} title={"Awards and achievements"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Band members</h2>
+          <Heading2 id={5} title={"Band members"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Timeline</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Discography</h2>
+          <Heading2 id={6} title={"Discography"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Song catalogue</h2>
+          <Heading2 id={7} title={"Song catalogue"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Selected filmography</h2>
+          <Heading2 id={8} title={"Selected filmography"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="9">Concert tours</h2>
+          <Heading2 id={9} title={"Concert tours"} />
           <div></div>
         </div>
       <TableBeatles />
