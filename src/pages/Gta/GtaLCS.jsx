@@ -228,7 +228,24 @@ const GtaLCS = () =>
         <div>
           <Heading2 id={5} title={"Reception"} />
           <div>
+            <p>
+              Grand Theft Auto: Liberty City Stories received "generally favorable reviews" on both platforms from critics, according to review
+              aggregator website Metacritic.
+            </p>
+            <p>
+              During the 9th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated Liberty City Stories for
+              "Handheld Game of the Year", which was ultimately awarded to Nintendogs.
+            </p>
             <h3 className="article-heading-3" id="5.1">Sales</h3>
+            <p>
+              In the United States, the PlayStation 2 version of Liberty City Stories had sold 1 million copies by February 2007. In the United States
+              alone, Liberty City Stories' PSP release sold 980,000 copies and earned $48 million by August 2006. During the period between January 2000
+              and August 2006, it was the 16th highest-selling handheld game across all platforms in that country. As of March 26, 2008, Liberty City
+              Stories sold 8 million copies according to Take-Two Interactive, The PlayStaion Portable version of Liberty City Stories received a
+              "Double Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least
+              600,000 copies in the United Kingdom. ELSPA gave the game's PlayStation 2 version a "Platinum" certification, for sales of at least
+              300,000 copies in the region.
+            </p>
           </div>
         </div>
         <div>
