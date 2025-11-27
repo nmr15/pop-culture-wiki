@@ -44,7 +44,7 @@ const GtaLCS = () =>
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Grand Theft Auto</span>
+                <span>Grand Theft Auto: Liberty City Stories</span>
               </th>
             </tr>
             <tr>
