@@ -115,7 +115,6 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={1} title={"Premise"} />
-          <h2 className="article-heading-2" id="1">Premise</h2>
           <div>
             <p>
               For their summer vacation, 12-year-old twin siblings Dipper and Mabel Pines are dropped off from their home in Piedmont, California to the
@@ -129,12 +128,10 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={2} title={"Episodes"} />
-          <h2 className="article-heading-2" id="2">Episodes</h2>
           <div></div>
         </div>
         <div>
           <Heading2 id={3} title={"Voice cast"} />
-          <h2 className="article-heading-2" id="3">Voice cast</h2>
           <div>
             <div className="img-right">
               <img
@@ -180,7 +177,6 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={4} title={"Production"} />
-          <h2 className="article-heading-2" id="4">Production</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Conception</h3>
             <div className="img-right">
@@ -257,7 +253,6 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={5} title={"Broadcast"} />
-          <h2 className="article-heading-2" id="5">Broadcast</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Initial broadcast</h3>
             <p>
@@ -306,7 +301,6 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={6} title={"Merchandise"} />
-          <h2 className="article-heading-2" id="6">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Home media</h3>
             <p>
@@ -325,7 +319,6 @@ const GravityFalls = () =>
         </div>
         <div>
           <Heading2 id={7} title={"Reception"} />
-          <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Critical reception</h3>
             <p>
@@ -385,14 +378,106 @@ const GravityFalls = () =>
               The A. V. Club placed Gravity Falls at number 48 on their list of The 100 Best TV Shows of the 2010s.
             </p>
             <h3 className="article-heading-3" id="7.2">Ratings</h3>
+            <p>
+              A special preview of the series following the Disney Channel Original Movie Let It Shine was watched by 3.4 million viewers. The series garnered high
+              viewership on its fifth episode, which aired on July 13, 2013, and attracted 3.6 million viewers. On March 15, 2013, the episode "The Deep End" was
+              watched by 4.5 million viewers after the premiere of Wizards of Waverly Place's The Wizards Return: Alex vs. Alex, becoming the highest-rated episode of
+              the series.
+            </p>
+            <p>
+              Later moving on to Disney XD, the episode "<Link to="/gravityfalls/a_tale_of_two_stans">A Tale of Two Stans</Link>" became the highest-rated telecast
+              ever on Disney XD, with 1.91 million viewers. In addition to total viewers, "A Tale of Two Stans" also set a network record in kids ages 2-11 (1.036
+              million) boys age 2-11 (686,000), boys ages 6-11 (574,000), kids ages 6-14 (1.279 million) and boys ages 6-14 (856,000). In 2015, Gravity Falls
+              accounted for Disney CD's top seven regular animated series telecasts of all time among kids ages 6-11. During the week of July 12-18, 2015, Gravity
+              Falls was the top-rated program in its 8:30 p.m. timeslot across kids and boys ages 2-11, 6-11, and 6-14. That same week, it was also cable TV's
+              number 1 scripted telecast in total viewers, according to estimates from Nielsen Ratings.
+            </p>
+            <p>
+              Gravity Falls ranked as Disney XD's number 1 series of 2015 across all target demographics with an average of 1.8 million viewers per episode.
+              Additionally, Gravity Falls ranked as 2015's third animated cable TV series in boys ages 9-14. In kids ages 6-11, the series averaged 654,000 viewers
+              and 790,000 in kids ages 2-11. Among boys ages 6-14, it pulled in 680,000 views. It was strong viewership in Disney XD's core demographic, but it also
+              made it clear that older teens and young adults made up more than half of the show's audience, according to Variety.
+            </p>
+            <p>
+              In February 2016, Gravity Falls was the number 1 regular series telecasted on record across kids ages 6-11 (1.0 million/4.4 rating), boys ages 6-11
+              (642,000/5.3 rating), kids ages 2-11 (1.3 million/3.4 rating) and boys ages 2-11 (797,000/4.0 rating). The series finale "Weirdmageddon 3: Take Back
+              The Falls" beat the ratings record previosuly held by "A Tale of Two Stans" becoming Disney XD's most-watched telecast ever, with 2.47 million viewers
+              in the United States. "Weirdmageddon 3: Take Back The Falls" also established new all-time network highs in kids ages 6-14 (1.5 million/4.1 rating) and
+              boys ages 6-14 (909,000/5.0 rating). The all-day Gravity Falls marathon that preceded the premiere of "Weirdmageddon 3: Take Back The Falls" generated
+              10.7 million unique total viewers of which 5.4 million were kids ages 2-14.
+            </p>
+            <p>
+              Marketing for <Link>The Book of Bill</Link> in January 2024 revealed that Gravity Falls was one of the top 50 shows with the most hours watched on
+              Disney+ of all time and that more than half of the viewers were families with kids over the age of thirteen.
+            </p>
             <h3 className="article-heading-3" id="7.3">Influence, legacy, and industry impact</h3>
+            <p>
+              Gravity Falls has been considered to be an influence for many animated shows that followed it, including Steven Universe, Star vs. The Forces of Evil,
+              The Owl House, Amphibia, and Rick and Morty, the latter three of which with it features numerous Easter egg crossovers. Other examples of the show's
+              influence include LGBTQ representation and series-long story arcs as opposed to isolated single-episode stories. The show also maintains a loyal and
+              passionate fandom, even years after the series finale. Hirsch hid a variety of codes, cryptograms, backwards messages, and other secret clues for fans
+              to find in every episode, which often contributed to the show's mysteries and lore. Some have compared Gravity Falls to more adult-oriented mystery
+              shows such as Lost, Twin Peaks, and The X-Files. While it was on the air, the show was Disney XD's highest-rated series, with an average of 1.8 million
+              viewers per episode.
+            </p>
+            <p>
+              In the summer of 2016, Hirsch threw an international treasure hunt known as the "Cipher Hunt", the goal of which was to find the real-life Bill Cipher
+              statue briefly glimpsed in the series finale. It ran from July 20 to August 3, 2016, and involved retrieving and decoding riddles and codes hidden in
+              various locations worldwide. One clue involved a 2,000-piece jigsaw puzzle that took several days to complete with someone almost always working on it.
+              On August 3, 2016, the statue was found in a forest in Reedsport, Oregon. While the first ones to the statue received various prizes, Hirsch made it
+              clear that the hunt itself was the real treasure. On August 3, the statue was removed by authorities due to a property dispute and was temporarily held
+              at the Reedsport police department while Hirsch arranged for it to be moved somewhere else. By August 5, the statue temporarily ended up in
+              Bicentennial Park in Reedsport, before being permanently relocated to Confusion Hill in Piercy, California a few weeks later.
+            </p>
+            <p>
+              In celebration of the release of <Link>Journal 3</Link> and the end of the Gravity Falls series. Oh My Disney and Cyclops Print Works teamed up with
+              Gallery Nucleus in Alhmbra, California to hold an official Gravity Falls art show, titled Farewell to the Falls: A Gravity Falls Art Show, on August
+              6-21, 2016. Creator Alex Hirsch along with other production staff and professional illustrators contributed new and original artwork to this
+              exhibition. Some fans camped out overnight to see the show and some works of art sold for over $1,000.
+            </p>
+            <p>
+              On August 8, 2020, Disney Channel aired a Gravity Falls-inspired episode of the show Amphibia titled "Wax Musuem". The episode served as a tribute to
+              Gravity Falls and features Alex Hirsch in a voice role.
+            </p>
+            <p>
+              On September 11, 2020, a short was released on the Disney Channel YouTube channel called "Gravity Falls x Line Rider". The short is based on the
+              Internet game Line Rider. It is the first of a new series of shorts for Disney. Disney partnered with Line Rider artist Mark Robbins, Ben Harvey, and
+              David Lu for the series.
+            </p>
+            <p>
+              On September 25, 2020, a Gravity Falls short was released on the Disney Channel YouTube channel called "Call Me Maybe Parody". In the short, Mabel sings
+              "Call Me Mabel", a parody of Carly Rae Jepsen's "Call Me Maybe". The short was released as a part of a seris called "Broken Karaoke" where various
+              Disney characters sing parodies of pop songs.
+            </p>
+            <p>
+              On October 3, 2021, the television show <Link to="/simpsons">The Simpsons</Link> aired the episode "Bart's in Jail!" which featured a brief cameo of
+              Bill Cipher as one of Loki's many incarnations, voiced by Alex Hirsch in a guest role.
+            </p>
+            <p>
+              Several former storyboard artists and production crew members who worked on Gravity Falls have gone on to create their own series and movies, including
+              Matt Braly (a former director and storyboard artist who went on to create Amphibia), Dana Terrace (a former storyboard artist who went on to direct on
+              the first season of DuckTales and create The Owl House), Tim McKeon (a former writer who went on to create the educational live action show Odd Squad
+              and Helpsters), Aury Wallington (a former writer who went on to create Spirit Riding Free and co-write the film Spirit Untamed), Chris Houghton (a
+              former storyboard artist who went on to create Big City Greens with his brother Shane), Mike Rianda (a former creative director, and writer who went on
+              to direct and co-write the film The Mitchells vs. the Machines), Shion Takeuchi (a former writer who went on to create Inside Job), and Jeff Rowe (a
+              writer on the show who went on to co-write The Mitchells vs. the Machines and write and direct Teenage Mutant Ninja Turtles: Mutant Mayhem).
+            </p>
             <h3 className="article-heading-3" id="7.4">Awards and nominations</h3>
           </div>
         </div>
         <div>
           <Heading2 id={8} title={"Future"} />
-          <h2 className="article-heading-2" id="8">Future</h2>
-          <div></div>
+          <div>
+            <p>
+              On July 14, 2017, Hirsch revealed that he and Disney had discussed making a Gravity Falls film. Disney ultimately passed on the project, as the studio
+              felt the show "wasn't big enough to warrant [a film]"; Hirsch stated that he was still intersted in the idea. In February 2018, on the second
+              anniversary of the series finale, Hirsch used a cipher to announce Gravity Falls: Lost Legends, a continuation of the Gravity Falls story in a new
+              graphic novel that was later relased on July 24, 2018. In an interview with Inverse in March 2021, Hirsch expressed interest in continuing the story of
+              Gravity Falls in the form of a video game that "is really, really in-depth to the lore of the series and includes new canon that has been in the
+              periphery of the series." In June 2024, Disney Television Vice President Meredith Roberts revealed that they were having discussions with Hirsch about
+              the show, adding, "never say never".
+            </p>
+          </div>
         </div>
       </main>
     </>
