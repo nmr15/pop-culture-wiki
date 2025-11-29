@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 
 const GravityFalls = () =>
 {
@@ -59,13 +60,34 @@ const GravityFalls = () =>
         <div>
           <h1 className="article-heading">Gravity Falls</h1>
         </div>
-        <div className="img-right img-top">
-          <img
-            src="https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png"
-            alt="Gravity Falls logo"
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Gravity Falls</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png" alt="Gravity Falls logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Alex Hirsch</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of Gravity Falls episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Gravity Falls character</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Gravity Falls is an American animated mystery comedy television series created by <Link>Alex Hirsch</Link> for <Link>Disney Channel</Link>
@@ -92,6 +114,7 @@ const GravityFalls = () =>
           </p>
         </div>
         <div>
+          <Heading2 id={1} title={"Premise"} />
           <h2 className="article-heading-2" id="1">Premise</h2>
           <div>
             <p>
@@ -105,10 +128,12 @@ const GravityFalls = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={2} title={"Episodes"} />
           <h2 className="article-heading-2" id="2">Episodes</h2>
           <div></div>
         </div>
         <div>
+          <Heading2 id={3} title={"Voice cast"} />
           <h2 className="article-heading-2" id="3">Voice cast</h2>
           <div>
             <div className="img-right">
@@ -154,6 +179,7 @@ const GravityFalls = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={4} title={"Production"} />
           <h2 className="article-heading-2" id="4">Production</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Conception</h3>
@@ -230,6 +256,7 @@ const GravityFalls = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={5} title={"Broadcast"} />
           <h2 className="article-heading-2" id="5">Broadcast</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Initial broadcast</h3>
@@ -278,6 +305,7 @@ const GravityFalls = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={6} title={"Merchandise"} />
           <h2 className="article-heading-2" id="6">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="6.1">Home media</h3>
@@ -296,6 +324,7 @@ const GravityFalls = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={7} title={"Reception"} />
           <h2 className="article-heading-2" id="7">Reception</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Critical reception</h3>
@@ -308,12 +337,60 @@ const GravityFalls = () =>
               consensus for season two reads: "Gravity Falls continues to blend old fashioned storytelling with a modern sense of
               humor to create a uniquely enjoyable viewing experience."
             </p>
+            <p>
+              Brian Lowry of Variety stated: "The show hasa breezy quality that should play to kids, and tickle some twinges of
+              nostalgia among their parents." Robert Lloyd of the Los Angeles Times referred to the program as ".../gently twisted,
+              with some Disneyfied action and heart-warming folded in". In his review, David Hinckley of New York Daily News called
+              Gravity Falls "quirky and endearing", and offered praise for the character of Mabel Pines. Matt Blum, writing for Wired,
+              favorably compared the show to <Link>Cartoon Network</Link>'s Regular Show and Disney Channel's
+              <Link to="/phinease_and_ferb"> Phineas and Ferb</Link>, hailing Gravity Falls as "clever, strange, and somewhat poignant".
+              Erik Kain of Forbes called Gravity Falls "the best thing on TV at the moment", saying "I don't care how old you are, if
+              you're not watching Gravity Falls you're missing out on some of the cleverest, most enjoyable television you can find".
+              Kayle Cobb at Decider called Gravity Falls "one of the most structurally smart shows ever created". Matt Fowley from IGN
+              called Gravity Falls "a quirky and gently twisted heart-warmer for all ages. Smart, satirical, and sweet. Gravity Falls
+              was a one-of-a-kind gem."
+            </p>
+            <p>
+              Michelle Jaworski writing for The Daily Dot described Gravity Falls as "[A] classic summer story woven into a smart and
+              addictive show tackling the paranormal, the supernatural, and the pains of growing up." IndieWire's Michawl Schneider
+              said "Gravity Falls is a kids' show so dense with mythology, pop culture jokes, Easeter eggs, and mystery that grown=ups
+              were often more invested." Joey Keogh from Den of Geek wrote "Gravity Falls, is a spooky-cute must-watch for adults who
+              never grew out of Halloween." Donna Dickens from Uproxx said "Not only does Gravity Falls deal with the inexplicable
+              supernatural occurences in the town, the whole thing is just one big puzzle of secets waiting for fans to uncover and
+              solve." Myles McNutt from The A. V. Club said "With a complex mythology and a deep lexicon of cultur references, there's
+              sophistication to the show's  epic storytelling that immediately draw the attention of a wider audience." Liz Baessler
+              writing for Film School Rejects said "Gravity Falls is an exceptional kids' show, brilliant, hilatious, and carefully
+              crafted." Kevin Tash from Collider called Gravity Falls "one of the greatest things that Disney has ever produced in general".
+            </p>
+            <p>
+              Brian Tallerico from RogerEbert.com said "Gravity Falls deserves to be in the conversation with Bob's Burgers,
+              <Link to="/rick_and_morty"> Rick and Morty</Link>, and <Link to="/bojack_horseman">Bojack Horseman</Link> when people discuss the best animated
+              programming of the '10s. It is a beatiful blend of old-fashioned storytelling with a modern sense of humor that never feels like it's taling down to
+              kids. It works for all ages. It sounds cheesy, but the best fiction for kids doesn't hammer them with a message but incorporates it into the characters
+              and story. It's a deliriously strange, faschinating show, with sources of humor and heart that always find a way to surprise. It also helps that the
+              voice work is uniformly fantastic." Collider's Joel Pesantez said "Gravity Falls exemplifies Disney's abilitiy to appeal to all ages with captivating
+              mysteries and a diverse relatable cast. The show cleverly blends comedy and horror to keep viewers hooked, pushing boundaries without crossing them."
+              Abigail Stevens of Screen Rant said "There is so much to learn about Gravity Falls' two seasons, which pack in plenty of laugh-out-loud and tear-jerking
+              moments." Stevens further added, "Gravity Falls also created something of a cult of mystery, encouraging viewers to find hidden codes in each episode
+              and giving rise to a fandom that was able to predict the show's biggest twist. However, at its core, Gravity Falls is about family and letting go of
+              childhood." Lilian McDonough from CBR called Gravity Falls "The undeniable peak of Disney Channel cartoon history" and said "by utilizing an overarching
+              narrative to an extent that no prior Disney cartoon had and funneling that into an intricately crafted and endlessly interesting location overflowing
+              with lovable and hilarious characters, Gravity Falls broke every barrier imaginable and made what, for good reason, became one of the most beloved
+              shows of that era."
+            </p>
+            <p>
+              In 2015, Uproxx ranked Gravity Falls as the third Current Kids Cartoon That Adults Need to be Watching. In 2018, IndieWire ranked Gravity Falls at
+              number 12 on their list of The 50 Best Animated Series of All Time. In 2019, Yardbarker ranked Gravity Falls number 21 on their list of The 25
+              Greatest Animated Shows of All Time. Also in 2019, IGN placed Gravity Falls at Number 19 on their list titled The 25 Best Adult Cartoon TV Series and
+              The A. V. Club placed Gravity Falls at number 48 on their list of The 100 Best TV Shows of the 2010s.
+            </p>
             <h3 className="article-heading-3" id="7.2">Ratings</h3>
             <h3 className="article-heading-3" id="7.3">Influence, legacy, and industry impact</h3>
             <h3 className="article-heading-3" id="7.4">Awards and nominations</h3>
           </div>
         </div>
         <div>
+          <Heading2 id={8} title={"Future"} />
           <h2 className="article-heading-2" id="8">Future</h2>
           <div></div>
         </div>
