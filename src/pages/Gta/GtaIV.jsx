@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableGta from '../../components/TableGta'
 
 const GtaIV = () =>
@@ -66,16 +67,42 @@ const GtaIV = () =>
         <div>
           <h1 className="article-heading">Grand Theft Auto IV</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Grand_Theft_Auto_IV_cover.jpg/250px-Grand_Theft_Auto_IV_cover.jpg" 
-            alt="Grand Theft Auto IV logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Grand Theft Auto IV</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Grand_Theft_Auto_IV_cover.jpg/250px-Grand_Theft_Auto_IV_cover.jpg"
+                    alt="Grand Theft Auto IV boxart" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developer</th>
+              <td className="infobox-data"><Link>Rockstar North</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link>Rockstar Games</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous game</th>
+              <td className="infobox-data"><Link to="/gta/grand_theft_auto_vice_city_stories">Grand Theft Auto: Vice City Stories</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next game</th>
+              <td className="infobox-data"><Link to="/gta/grand_theft_auto_v">Grand Theft Auto V</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
-            Grand Theft Auto IV is a 2008 action-adventure game developed by <Link>Rockstar North</Link> and published by <Link>Rockstar
+            <b>Grand Theft Auto IV</b> is a 2008 action-adventure game developed by <Link>Rockstar North</Link> and published by <Link>Rockstar
             Games</Link>. It is the sixth main entry in the <Link to='/gta'>Grand Theft Auto series</Link>, following 2004's
             <Link to="/gta/grand_theft_auto_san_andreas">Grand Theft Auto: San Andreas</Link>, and the eleventh entry overall. Set in the
             fictional <Link>Liberty City</Link>, based on New York City, the single-player story follows Eastern European war veteran
@@ -112,7 +139,7 @@ const GtaIV = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Gameplay</h2>
+          <Heading2 id={1} title={"Gameplay"} />
            <div>
             <p>
               Grand Theft Auto IV is an action-adventure game played from a third-person perspective. Players complete missions, linear
@@ -122,17 +149,39 @@ const GtaIV = () =>
               area than most earlier Grand Theft Auto series entries. At the beginning of the game, players can only explore a limited area,
               Bohan, Broker, and Dukes, with all other islands unlocking as the story progresses.
             </p>
+            <p>
+              Players use melee attacks, firearms, and explosives to fight enemies, and may run, jump, swim or use vehicles to navigate the game's world. There is a
+              first-person perspective option when using vehicles. In combat, auto-aim and a cover system can be used as assistance against enemies. Should players
+              take damage, their health meter can regenerate by consuming food or drinks, using medical kits, or calling for paramedics. If players commit crimes,
+              law enforcement may respond as indicated by a "<Link>wanted</Link>" meter in the heads-up display (HUD). On the meter, a count of stars indicates the
+              current wanted level. Gaining more stars will cause law enforcement to incapacitate players more aggressively and extends the wanted vicinity area, and
+              is capped at six stars. The player can evade police by traveling outside the wanted vicinity area, after this the wanted meter enters a cool-down mode,
+              law enforcement hunt for the player, and eventually recedes when they are hidden from the officers' line of sight.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/3/32/Grand_Theft_Auto_IV_gameplay.jpg" 
+                alt="Grand Theft Auto IV gameplay" 
+              />
+              <p>Combat in Grand Theft Auto IV was reworked to include a cover system.</p>
+            </div>
+            <p>
+              The game's cover system allows the players to move between obstacles, to fire blindly, aim freely, and target a specific enemy. Individual body parts
+              can also be targeted. Melee attacks include additional moves, such as dodging, blocking, disarming an opponent and counter-attacking. <Link>Body
+              armor</Link> can be used to absorb gunshots and explosive damages, but is used up in the process. When health is entirely depleted, gameplay stops,
+              and players respawn at the nearest hospital.
+            </p>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <Heading2 id={2} title={"Synopsis"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Setting</h3>
             <h3 className="article-heading-3" id="2.2">Plot</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Development</h2>
+          <Heading2 id={3} title={"Development"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Research and open world design</h3>
             <h3 className="article-heading-3" id="3.2">Story and character development</h3>
@@ -142,13 +191,13 @@ const GtaIV = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Release</h2>
+          <Heading2 id={4} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Promotion</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Reception</h2>
+          <Heading2 id={5} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Critical response</h3>
             <h4 className="article-heading-4" id="5.1.1">Windows version</h4>
@@ -156,12 +205,13 @@ const GtaIV = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Sales</h2>
+          <Heading2 id={6} title={"Sales"} />
           <div>
 
           </div>
         </div>
         <div>
+          <Heading2 id={7} title={"Controversies"} />
           <h2 className="article-heading-2" id="7">Controversies</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Pre-release</h3>

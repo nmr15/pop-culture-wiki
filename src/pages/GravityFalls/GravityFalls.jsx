@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
+import TableGravityFalls from '../../components/TableGravityFalls'
 
 const GravityFalls = () =>
 {
@@ -478,6 +479,9 @@ const GravityFalls = () =>
               the show, adding, "never say never".
             </p>
           </div>
+        </div>
+        <div>
+          <TableGravityFalls />
         </div>
       </main>
     </>
