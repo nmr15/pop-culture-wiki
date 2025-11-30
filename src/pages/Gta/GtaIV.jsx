@@ -1,3 +1,4 @@
+import { useEffect } from "react"
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
@@ -5,6 +6,11 @@ import TableGta from '../../components/TableGta'
 
 const GtaIV = () =>
 {
+  useEffect(() =>
+  {
+    document.title = 'Grand Theft Auto IV - Pop Culture Wiki';
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -171,18 +177,82 @@ const GtaIV = () =>
               armor</Link> can be used to absorb gunshots and explosive damages, but is used up in the process. When health is entirely depleted, gameplay stops,
               and players respawn at the nearest hospital.
             </p>
+            <p>
+              The single-player mode lets players control an Eastern European war veteran, <Link>Niko Bellic</Link>. During the story, Niko meets and befriends
+              various new characters. Whhile free roaming the game world, players may engage in conext-specific activities such as bowling or darts, either alone or
+              with friends. Other available activities include a vigilante mini-game, an in-game television programming. Hanging out, answering calls, or completing
+              missions of friends will increase that friend's respect. If their respect is high enough, the player can unlock favors; for example, Niko's cousin
+              <Link>Roman</Link> owns a taxi service, and can send one of his cabs to take Niko to any destination without a fee. Cabs are always available during
+              gameplay for quick travel to destinations. Throughout the course of the game, players are also faced with morality choices, which alter the storyline
+              appropriately depending on the player's choice. Niko has a cell phone for contacting friends and hanging out with them through activities. The cell
+              phone is also used to access the game's online multiplayer mode, and to enter cheat codes. To access the in-game Internet, which allows Niko to send
+              and receive emails and set up prospecive dates with potential girlfriends, Niko can use Internet cafes located around the city. The game also features
+              a subway system, allowing players to quickly traverse through the game's world.
+            </p>
+            <p>
+              The online multiplayer mode for Grand Theft Auto IV allows up to 32 players to freely roam across the map. Players decide which game mode they wish to
+              play, including deathmatches and street races. Both cooperative and competitive game modes are available, split into ranked and unranked matches. For
+              players to level up through ranks, in-game money has to be earned. The game also features a Free Mode, in which players have the entire map open to
+              explore, with no end goal or mission to complete. Hosts of the game can control many variables, such as police presence, traffic, and weapons. The
+              multiplayer mode was discontinued on Windows in 2020.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Synopsis"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Setting</h3>
+            <p>
+              Grand Theft Auto IV takes place within an alternate version of Liberty City seen in Grand Theft Auto III. The design of the city focuses on a
+              recreation of four of the boroughs of New York City: <Link>Broker</Link> (based on Brooklyn), <Link>Dukes</Link> (Queens), 
+              <Link> Bohan</Link> (The Bronx), and <Link>Algonquin</Link> (Manhattan). The setting also includes the neighboring state of
+              <Link> Alderney</Link> (based on New Jersey). In the story, it is explained that bridges are locked down due to a terrorist threat, and police constantly
+              pursue players if the bridges are crossed. These barricades are lifed as the player progresses the story, allowing them to traverse uninterrupted between
+              islands.
+            </p>
+            <p>
+              Grand Theft Auto IV is set in the fictional "<Link>HD Universe</Link>", which mirrors and parodies the real world. The previous games formed fictional
+              universes of their own, which despite having many similariries with the HD Universe, are considered to be different continuities. Hence, the Liberty City
+              depicted in Grand Theft Auto IV is different from its previous rendition, and the game itself serves as a reboot for the series. The new timeline
+              established by Grand Theft Auto IV continues with two expansion packs, The Lost and Damned and The Ballad of Gay Tony, and a sequel, Grand Theft Auto V,
+              as well as its online component, Grand Theft Auto: Online. The handheld game Grand Theft Auto: Chinatown Wars is also considered part of the HD
+              Universe because it features the same map as Grand Theft Auto IV, except for Alderney.
+            </p>
             <h3 className="article-heading-3" id="2.2">Plot</h3>
+            <p>
+              Niko Bellic, an Eastern European ex-soldier, arrives in Liberty City aboard the cargo ship <Link>Platypus</Link> to escape his criminal past, pursue the
+              American Dream, and search for a man who betrayed his unit to an ambush ten years prior. Reuniting with his cousin Roman, he discovers that the stories
+              of riches and success he was told of were embellished. Instead of living a life of luxury with nice cars and pretty women, Roman lives in a small, dirty
+              apartment, owns an unprofitable taxi company, has gambling debts, and often disputes with loan sharks. Niko begins assisting Roman with his problems and
+              makes criminal contacts in the city. He befriends <Link>Yardies</Link> second-in-command Little Jacob and is forced to work for <Link>Vlad Giebov</Link>,
+              Roman's Russian loan shark. Niko eventually kills Vlad upon learning he had slept with Roman's girlfriend, <Link>Mallorie</Link>.
+            </p>
+            <p>
+              In retaliation, Niko and Roman are kidnapped by <Link>Russian mobsters</Link> on orders of their boss <Link>Mikhail Faustin</Link> and his lieutenant,
+              <Link> Dimitri Rascalov</Link>. Indifferent to Vlad's murder, Faustin releases them and employs Niko as a hitman, ordering him to kill the son of
+              Russian crime lord Kenny Petrović. When Petrović threatens retaliation, Dimitri persuades Niko to assassinate Faustin and satisfy Petrović. However,
+              Dimitri betrays him after the killing and brings Niko to his former employer, <Link>Ray Bulgarin</Link>, who accuses him of stealing from him during a
+              failed human trafficking job years earlier. Niko denies the allegation and a firefight ensues, allowing Dimitri and Bulgarin to escape.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={3} title={"Development"} />
           <div>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Former_Rockstar_North_building%2C_shot_from_hill.jpg/960px-Former_Rockstar_North_building%2C_shot_from_hill.jpg" 
+                alt="Rockstar North building" 
+              />
+              <p></p>
+            </div>
+            <p>
+              Preliminary work on Grand Theft Auto IV began in November 2004, a month after the release of Grand Theft Auto: San Andreas. Rockstar president
+              <Link> Sam Houser</Link> felt that following up San Andreas was "a nightmare". <Link>Rockstar North</Link>, the core 220-person team behind the game,
+              co-lpted studios owned by parent company Rockstar Games to facilitate development between a full team of over 1,000, including 50 employees at
+              Rockstar NYC, 40 at Rockstar Lincoln, 10 at Rockstar San Diego, and around 600-700 working part-time internally and externally. Some key members of
+              the development team worked 12-hour days during production, often without holidays.
+            </p>
             <h3 className="article-heading-3" id="3.1">Research and open world design</h3>
             <h3 className="article-heading-3" id="3.2">Story and character development</h3>
             <h3 className="article-heading-3" id="3.3">Art design</h3>
