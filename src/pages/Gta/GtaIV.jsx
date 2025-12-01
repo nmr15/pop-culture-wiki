@@ -318,7 +318,30 @@ const GtaIV = () =>
               who is driven by the people around him. Dan Houser felt that the missions in San Andreas had become too linear, and wanted to present choices to the
               player in Grand Theft Auto IV.
             </p>
+            <p>
+              The writers found that Niko neede a motivation to come to America, so they created his cousin, Roman. Dan Houser felt that the two could
+              not be brothers as there would be a deeper level of familiarity than necessary. He described the two as a double act, with Roman's fantasist
+              charm playing off Niko's tough cynicism. The team gave other non-playable characters (NPCs) more definable behavior and dialogue to make
+              them feel more alive. The writers initially considered having a smaller group of characters, but found that the story became boring and that
+              players were less likely to explore the world. The stranger characters found in the game world were based on the "crazy people" that
+              populate New York, according to Dan Houser, which in previous games were only able to be captured through radio stations or mild pedestrian
+              behavior. The team based the ethnicity, clothing, and behavior of the NPCs on the photographs and videos that they captured around New York,
+              divided into different areas; they created mood boards for each location. The NPCs also converse in different languages.
+            </p>
             <h3 className="article-heading-3" id="3.3">Art design</h3>
+            <p>
+              Grand Theft Auto IV sees a shift in the series to a more realistic and detailed style and tone, partly resulted of the transition to
+              consoles which offered high-definition graphics and the new and improved capabilities of such consols. The development team worked to
+              represent the upgrade in quality across all design aspects while maintaining the coherence of the previous games. The team ook the game's
+              development as an opportunity to "strip things back and start again", refining the art style without losing the style of the series; they
+              distanced the game from the "cartoon-like style" of its predecessors while creating a new style that was consistent across all aspects of
+              the game. Garbut found the increased demand of detail brought on by the advanced technology daunting. A technique used to make the visuals
+              look real was to avoid harsh edges, instead blending surfaces together to make the world look dirty and lived-in. The props department
+              created multiple variations of different objects to make the world more interesting and unique. Grand Theft Auto IV was the first
+              contemporary game in the series since 2001's Grand Theft Auto III; the team felt that enough time had passed to avoid feeling repetitive.
+              The types of in-game vehicles were decided upon early in development, after which the vehicles department begin creating the design. The
+              vehicles are not based on specific real-life counterparts, but take elements from several, with some original ideas by the developers.
+            </p>
             <h3 className="article-heading-3" id="3.4">Technical and gameplay design</h3>
             <h3 className="article-heading-3" id="3.5">Music production</h3>
           </div>
