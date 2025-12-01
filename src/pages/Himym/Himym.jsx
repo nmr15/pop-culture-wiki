@@ -370,6 +370,27 @@ const Himym = () =>
               pretends not to like them to make Lily happy.
             </p>
             <h3 className="article-heading-3" id="5.2">Season 2</h3>
+            <p>
+              Ted and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring numerous emotional
+              breakdowns, Marshall's friends step in, and Barney, using sly catchphrases and pick-up lines, tries to get Marshall back in the dating game.
+              Marshall becomes Barney's new 'wingman' as Ted is now in a relationship with Robin. Barney mentors Marshall in the art of flirting with women.
+              Marshall fails at impressing women, but he finally obtains a barista's number. Later, Lily, after finally realizing she is not meant to be an
+              artist, returns to New York. They remain separated as Marshall begins to date another girl, the barista whose number he earned, described by
+              the gang as having 'crazy eyes'. The date with the girl does not end well and eventually leads to Lily and Marshall becoming reunited, and
+              their engagement eventually resumes. When Robin refuses to go to the mall or explain why, Marshall suspects she is married, and Barney suspects
+              she has performed in adult films. They make a slap bet on it, appointing Lily as "Slap Bet Commissioner." Lily oversees the search for the
+              truth, as they discover that Robin was a teenage pop star named "Robin Sparkles", and Marshall eventually earns the right to slap Barney five
+              times whenever he wishes. He uses one slap immediately and another later in the season. It is revealed that Barney has a gay African American
+              half-brother named <Lin>James</Lin> (<Link>Wayne Brady</Link>) and, unaware that his mother lied to him, believes that Bob Barker is his
+              father. As a result of this he takes a trip to California to be a contestant on The Price Is Right to meet his "father". While on the show,
+              Barney wins all the prizes andgives them to Lily and Marshall as a 'happy early wedding' present.
+            </p>
+            <p>
+              In the season finale, Ted reveals to Barney that he and Robin have been broken up for some time due to their conflicting views on marriage and
+              children. They did not tell anyone, in order to avoid taking attention away from Lily and Marshall's wedding. The season ends with Barney's
+              excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are "this is going to be legen- wait for
+              it...".
+            </p>
             <h3 className="article-heading-3" id="5.3">Season 3</h3>
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
