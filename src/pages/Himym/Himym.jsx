@@ -371,27 +371,32 @@ const Himym = () =>
             </p>
             <h3 className="article-heading-3" id="5.2">Season 2</h3>
             <p>
-              Ted and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring numerous emotional
-              breakdowns, Marshall's friends step in, and Barney, using sly catchphrases and pick-up lines, tries to get Marshall back in the dating game.
-              Marshall becomes Barney's new 'wingman' as Ted is now in a relationship with Robin. Barney mentors Marshall in the art of flirting with women.
-              Marshall fails at impressing women, but he finally obtains a barista's number. Later, Lily, after finally realizing she is not meant to be an
-              artist, returns to New York. They remain separated as Marshall begins to date another girl, the barista whose number he earned, described by
-              the gang as having 'crazy eyes'. The date with the girl does not end well and eventually leads to Lily and Marshall becoming reunited, and
-              their engagement eventually resumes. When Robin refuses to go to the mall or explain why, Marshall suspects she is married, and Barney suspects
-              she has performed in adult films. They make a slap bet on it, appointing Lily as "Slap Bet Commissioner." Lily oversees the search for the
-              truth, as they discover that Robin was a teenage pop star named "Robin Sparkles", and Marshall eventually earns the right to slap Barney five
-              times whenever he wishes. He uses one slap immediately and another later in the season. It is revealed that Barney has a gay African American
-              half-brother named <Lin>James</Lin> (<Link>Wayne Brady</Link>) and, unaware that his mother lied to him, believes that Bob Barker is his
-              father. As a result of this he takes a trip to California to be a contestant on The Price Is Right to meet his "father". While on the show,
-              Barney wins all the prizes andgives them to Lily and Marshall as a 'happy early wedding' present.
+              Ted and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring numerous
+              emotional breakdowns, Marshall's friends step in, and Barney, using sly catchphrases and pick-up lines, tries to get Marshall back in the
+              dating game. Marshall becomes Barney's new 'wingman' as Ted is now in a relationship with Robin. Barney mentors Marshall in the art of
+              flirting with women. Marshall fails at impressing women, but he finally obains a barista's number. Later, Lily, after finally realizing
+              she is not meant to be an artist, returns to New York. They remain separated as Marshall begins to date another girl, the barista whose
+              number he earned, described by the gang as having 'creazy eyes'. The date with the girl does not end well and eventually leads to Lily and
+              Marshall becoming reunited, and their engagement eventually resumes. When Robin refuses to go to the mall or explain why, Marshall suspects
+              she is married, and Barney suspects she has performed in adult films. They make a slap bet on it, appointing Lily as "Slap Bet
+              Commissioner." Lily oversees the search for the truth, as they discover that Robin was a teenage pop star named "Robin Sparkles", and
+              Marshall eventually earns the right to slap Barney five times whenever he wishes. He uses one slap immediately and another later in the
+              season. It is revealed that Barney has a gay African American half-brother named <Link>James</Link> (<Link>Wayne Brady</Link>) and,
+              unaware that his mother lied to him, believes that Bob Barker is his father. As a result of this he takes a trip to California to be a
+              contestant on The Price is Right to meet his "father". While on the show, Barney wins all the prizes and gives them to Lily and Marshall
+              as a 'happy early wedding' present.
             </p>
             <p>
-              In the season finale, Ted reveals to Barney that he and Robin have been broken up for some time due to their conflicting views on marriage and
-              children. They did not tell anyone, in order to avoid taking attention away from Lily and Marshall's wedding. The season ends with Barney's
-              excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are "this is going to be legen- wait for
-              it...".
+              In the season finale, Ted reveals to Barney that he and Robin have been broken up for some time due to their conflicting views on
+              marriage and children. They did not tell anyone, in order to avoid taking attention away from Lily and Marshall's wedding. The season ends
+              with Barney's excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are "this is going to be
+              legen- wait for it...".
             </p>
             <h3 className="article-heading-3" id="5.3">Season 3</h3>
+            <p>
+              Barney begins the season with the word, "-dary!" Robin returns from a trip to Argentina with her new boyfriend <Link>Gael</Link>
+              (Enrique Iglesias), and Ted must adjust to life as just her friend, while watching Robin and Gael fawning over each other.
+            </p>
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
@@ -402,7 +407,69 @@ const Himym = () =>
         </div>
         <div>
           <Heading2 id={6} title={"Critical reception"} />
-          <div></div>
+          <div>
+            <p>
+              The first season was met with generally favorable reviews from critics, although some compared the series unfavorably to Friends. On
+              Metacritic, a review aggregation site that collected 25 reviews from the series, it scored a 69 out of 100. Michael Abernethy of
+              PopMatters gave the season a negative review, writing that "The comedy that does occur in How I Met Your Mother isn't enough to compensate
+              for its inconsistencies." Tom Shales of The Washington Post gave the season a lukewarm review, saying it's "a little better than most
+              other sitcoms, past and present, especially those featuring wacky urban friends in their twenties experiencing the bittersweet mysteries of
+              life." Melanie MacFarlane of the Seattle Post-Intelligencer gave the season a positive review, saying the show "may not break any comedic
+              ground, but it's the sort of comfortable, reliable hitter CBS needs on Monday nights."
+            </p>
+            <p>
+              The second season received critical acclaim. Staci Krauss of <Link>IGN</Link> gave the series a positive review, calling it "great".
+            </p>
+            <p>
+              The third season was met with mostly positive reviews. Michelle Zoromski of IGN gave the season a positive review, saying that "the season
+              was fun and clever, a good, consisten flow from the first two seasons".
+            </p>
+            <p>
+              The fourth season received critical acclaim. Michelle Zoromski of IGN gave season 4 an overall rating of 8.5 out of 10, stating that "This
+              fourth season seemed to settle down the chase for the titular mother. While Ted was busy dating Stella, the gang settled into many stand
+              alone episodes which were every bit as entertaining as episodes devoted to Ted's love life". Zoromski went on to say: "A stellar
+              Robin-Marshall episode, titled '<Link to="/himym/little_minnesota">Little Minnesota</Link>, makes it clear that these two do not get
+              enough screen time together. With Robin homesick and unemployed (and at risk of being deported), this pairing brought out the best
+              Robin Sparkles reference of the season, when Marshall leads a rousing karaoke version of '<Link>Let's Go to the Mall!'</Link>"
+            </p>
+            <p>
+              The fifth season received mixed reviews. Cindy McLennan of Television Without Pity gave the season a mixed review, and at the end of the
+              season wrote: "I'm okay with any given season not being primarily focused on mother-meeting, but this season, the characters seemed to
+              regress, particularly Barney and Ted. Usually, when a season ends, I have to deal with a week or two weeks' worth of letdown. Right now, all
+              I'm feeling is relief."
+            </p>
+            <p>
+              The sicth season received generally positive reviews. Justin Fowler of Late Reviews gave the season a positive review, saying that the
+              season was "a pretty good season of television" and batter than the "poor" fifth season. He also said that "Seventeen out of the 24
+              episodes are what I would consider good".
+            </p>
+            <p>
+              The seventh season received mixed reviews. Alan Sepinwall gave the season a mixed review and criticized the flash-forwards throughout the
+              season, saying that "the show is just much, much stronger when its stories dwell on matters of the present or the past, and where the
+              writers don't have to act like magicians trying to keep the audience from figuring out how the trick works. And the finale affirmed that
+              belief for me. The parts that had little or nothing to do with things to come were quite good; the parts that were all about the future
+              made me roll my eyes and ask, for the umpteenth time, 'Really? This is where you're going with this?'"
+            </p>
+            <p>
+              The eigth season received mixed reviews and is often considered the worst season of the series. Rotten Tomatoes reported that 54% of critics
+              gave the show a positive review. The consensus reads: "How I Met Your Mother wears out its welcome this season, with an anticlimactic reveal
+              and rote, less-than-fruiful humor."
+            </p>
+            <p>
+              The ninth season received mixed-to-positive reviews from critics, though fans found it worse than prior seasons. Rotten Tomatoes reported
+              that 80% of critics gave the show a positive review, with an average rating of 7.3 out of 10. Gareth Mitchell at "House of Geekery"
+              responded negatively, mostly criticizing the structure of the season, stating that they are "sturggling to come up with stories that last
+              out the 22 minutes".
+            </p>
+            <p>
+              The finale of the show received largely negative reaction from critics and fans. Some complained that the last few seasons (particularly
+              the final season before the finale which took place over one weekend) had built towards an end game that was discarded within the
+              hour-long episode, while others defended it as true to both the initial concept of the show and to life itself. In the years succeeding
+              its airing, it continued to be singled out as one of the worst television series finales, e.g., topping USA Today's list of "Worst Series
+              Finaels of All Time". The finale of the show was so poorly received, that studios have reduced production of sitcoms like How I Met Your
+              Mother.
+            </p>
+          </div>
         </div>
         <div>
           <Heading2 id={7} title={"Subplots"} />
