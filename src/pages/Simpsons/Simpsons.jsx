@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 
 const Simpsons = () =>
 {
@@ -88,13 +89,42 @@ const Simpsons = () =>
         <div>
           <h1 className="article-heading">The Simpsons (franchise)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/220px-The_Simpsons_yellow_logo.svg.png" 
-            alt="The Simpsons logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>The Simpsons</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/220px-The_Simpsons_yellow_logo.svg.png" alt="The Simpsons logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Matt Groening</Link></td>
+            </tr>
+             <tr>
+              <th className="infobox-data">Animated series</th>
+              <td className="infobox-data"><Link>The Simpsons (1989 to present)</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of The Simpsons episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of The Simpsons character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Film</th>
+              <td className="infobox-data"><Link>The The Simpsons Movie (2007)</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             The Simpsons is an American animated comedy franchise whose eponymous family consists of <Link>Homer</Link>, <Link>Marge</Link>,
@@ -118,7 +148,7 @@ const Simpsons = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Background</h2>
+          <Heading2 id={1} title={"Background"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
             <h3 className="article-heading-3" id="1.2">Themes</h3>
@@ -126,7 +156,7 @@ const Simpsons = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Television</h2>
+          <Heading2 id={2} title={"Television"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Shorts on the Tracey Ullman Show</h3>
             <h3 className="article-heading-3" id="2.2">The Simpsons</h3>
@@ -135,7 +165,7 @@ const Simpsons = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Films</h2>
+          <Heading2 id={3} title={"Films"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Feature films</h3>
             <h4 className="article-heading-4" id="3.1.1">The Simpsons Movie</h4>
@@ -147,7 +177,7 @@ const Simpsons = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Print publication</h2>
+          <Heading2 id={4} title={"Print publication"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Books</h3>
             <h4 className="article-heading-4" id="4.1.1">Episode guides</h4>
@@ -156,20 +186,20 @@ const Simpsons = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Video games</h2>
+          <Heading2 id={5} title={"Video games"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Theme park attractions</h2>
+          <Heading2 id={6} title={"Theme park attractions"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Universal Studios</h3>
             <h3 className="article-heading-3" id="6.2">Broadway at the Beach</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Merchandise</h2>
+          <Heading2 id={7} title={"Merchandise"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Home releases</h3>
             <h3 className="article-heading-3" id="7.2">Music</h3>
