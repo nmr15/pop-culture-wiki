@@ -244,17 +244,80 @@ const GtaIV = () =>
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Former_Rockstar_North_building%2C_shot_from_hill.jpg/960px-Former_Rockstar_North_building%2C_shot_from_hill.jpg" 
                 alt="Rockstar North building" 
               />
-              <p></p>
+              <p>Rockstar North's former studo in Edinburgh, Scotland, where Grand Theft Auto IV's development was overseen.</p>
             </div>
             <p>
               Preliminary work on Grand Theft Auto IV began in November 2004, a month after the release of Grand Theft Auto: San Andreas. Rockstar president
               <Link> Sam Houser</Link> felt that following up San Andreas was "a nightmare". <Link>Rockstar North</Link>, the core 220-person team behind the game,
               co-lpted studios owned by parent company Rockstar Games to facilitate development between a full team of over 1,000, including 50 employees at
               Rockstar NYC, 40 at Rockstar Lincoln, 10 at Rockstar San Diego, and around 600-700 working part-time internally and externally. Some key members of
-              the development team worked 12-hour days during production, often without holidays.
+              the development team worked 12-hour days during production, often without holidays. The team deided to continue the numbering scheme absent from the
+              previous two games to represent the same leap in production as Grand Theft Auo 2 (1999) o Grand Theft Auto III (2001). Development of Grand Theft Auto
+              IV ceased by April 21, 2008 when the game was submitted for manufacturing. Producer Leslie Benzies estimated that the budget of the development efforts
+              exceeded $100 million, making Grand Theft Auto IV one of the most expensive video games ever made.
             </p>
             <h3 className="article-heading-3" id="3.1">Research and open world design</h3>
+            <p>
+              The game's setting, Liberty City, is based on New York City. The team did not look at the previous renditions of Liberty City as inspiration, wanting it
+              to retain the "generation feel" but nothing else. The map is roughly three times the size of Grand Theft Auto III's. The developers originally considered
+              using the entire state of New York, before restricting it to Manhattan, and then expanding it out again. They considered including more suburbs with
+              woods, and would regularly vote on which areas to include. Art director Aaron Garbut said that the team chose the setting because of the detail and
+              variety it provided, describing New York as "an amazing diverse, vibrant, cinematic city". Writer Dan Houser added that the team "wanted to be somewhere
+              where we had a foothold" due to the amount of research required for the world; Rockstar Game's main headquarters are located in New York. The team
+              consciously avoided a precise recreation of New York City to allow for more enjoyable game design, selecting the areas that they felt "characterized it
+              the best". Garbut wanted to cature a caricature of the city as he felt that most people were familiar with "the highlights" from film or literature but
+              did not need to know the areas precisely. The city was not built with specific missions in mind; the area was created first, and missions implemented
+              later.
+            </p>
+            <p>
+              To achieve a realistic environment, 60-70 employees from Rockstar North travelled to New York for research: first at the beginning of the project in
+              March or April 2005 for a week and a half, and a smaller trip in 2007. Police officers who previously worked the beat drove the team around Washington
+              Heights. A full-time research team based in New York handled further requests for information, such as the ethnic minority of a neighborhood or videos of
+              traffic patterns. Videos shot in New York were played on televisions at the Rockstar North offices "so while they worked they could look up and there was
+              New York". Benzies claimed that the team took over 100,000 photographs on location in New York, though Garbut estimates that they took around 250,000.
+              They also studied architectural plans for apartments, used satellite images to determine city block layout, researched sales figures for models of cars,
+              and read books that detailed the city's infrastructure, including its subway, sewers, and garbage disposal. Hove Beach is based on Brighton Beach, which
+              Sam Houser found "pretty incredible" and unusual; the name is based on the English city Brighton and Hove, made up of the former neighboring towns
+              Brighton and Hove. Houser appreciated that Brighton Beach was home to several Eastern Europeans due to the nature of the game's character.
+            </p>
+            <p>
+              Dan Houser described Liberty City as "the biggest character" of the game. The Grand Theft Auto IV rendition of Liberty City is more detailed and larger
+              in size than most earlier entries in the series; although smaller than San Andreas, the setting of the previous main game, the developers considered it
+              comparable in scope due to the city's verticality, number of buildings, and level of detail. The team wanted less dead spots and irrelevant spaces, such
+              as the wide open deserts in San Andreas. They wanted the game to be "a more focused experience" than San Andreas, and Dan Houser felt that the limited
+              activities of New York allowed this. The team felt that the addition of Niko's mobile phone added to the immersion of the world and represented society's
+              shifted focus on phones. The in-game brands and products are designed over several years; the billboards were implemented in the game around six months
+              prior to release.
+            </p>
             <h3 className="article-heading-3" id="3.2">Story and character development</h3>
+            <p>
+              The game's script, written by Dan Houser and Rupert Humphries, is about 1,000 pages. Approximately 680 actors provided voices for the game and 80,000
+              lines of dialogue. After conceiving the character and setting, Dan House spoke with his brother Sam Houser and Leslie Benzies to bounce story ideas
+              before writing a rough synopsis, a six-pae, detailed document. Once the synopsis was reworked, the designers broke it into missions, represented by a
+              large flow document demonstrating each section. The writers then work on the inroductions to the missions; the gameplay dialogue comes much later.
+              Unlike previous Grand Theft Auto games, Grand Theft Auto IV does not have cinematic influences. "We were consciously trying to go, well, if video games
+              are going to develop into the next stage, then the thing isn't to try and do a loving tibute or reference other stuff," said Dan Houser. He said that the
+              writers wanted something "fresh and new and not something that was obiously derived from [a] movie". Dan Houser felt that the quality of the writing had
+              to improve alongside the advancements in graphics and technology. He noted that the improvmenets in facial animation allowed for slower-paced cutscenss.
+              The unique dialogue that plays when a mission is retried was to ensure that the gameplay felt "less canned and less like Groundhog Day".
+            </p>
+            <p>
+              Dan Houser described Niko Bellic as "a more rounded character" than those in previous games. He felt that his dual persoanlity, often saving innocent
+              people, while also being a "cold-hearted killer", made him more relatable. He also felt that Niko's unfamiliarity with Liberty City allowed for the player
+              to relate to him more, only driven by his vague past and relationship with Roman. When deciding on Niko's background, the writers felt that being an
+              immigrant could lead to more dangerous situations, and therefore more enjoyable missions; after discussions with criminal experts, Dan Houser found that
+              "the real scary characters are not born in America anymore". He felt that Niko's outside view of American culture was "fun". The team wanted Niko to be
+              "more of an antihero than a hero, capable of making positive actions within his criminal world". They wanted his demeanor to reflect the weight of his
+              past and choices.
+            </p>
+            <p>
+              Niko's design underwent a few changes, but was finalized early in development. His outfit underwent several changes based on Eastern Europeans,
+              particularly photographs of men fighting in winter wars in Yugoslavia and Chechnya. The primary motivation for the design was a face to convey the
+              appropriate emotions and a body that could move nicely with the new animations. The in-game purchasable outfits were also designed to fit with the
+              character. The team ensured that the gameplay choices presented to the player were not too extensive, as they still had to make sense to the character,
+              who is driven by the people around him. Dan Houser felt that the missions in San Andreas had become too linear, and wanted to present choices to the
+              player in Grand Theft Auto IV.
+            </p>
             <h3 className="article-heading-3" id="3.3">Art design</h3>
             <h3 className="article-heading-3" id="3.4">Technical and gameplay design</h3>
             <h3 className="article-heading-3" id="3.5">Music production</h3>
