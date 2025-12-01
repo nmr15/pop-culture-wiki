@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { mcu, marveltv } from '../../data/dataMcu'
 import Card from '../../components/Card'
@@ -11,6 +12,11 @@ const mcutv = mcu.filter((mcu) => mcu.media == "series" || mcu.media == "special
 
 const Mcu = () => 
 {
+  useEffect(() =>
+    {
+      document.title = "Marvel Cinematic Universe - Pop Culture Wiki";
+    }, []);
+
   return (
     <>
       <aside className="sidebar">
