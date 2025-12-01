@@ -230,7 +230,35 @@ const Simpsons = () =>
           <Heading2 id={2} title={"Television"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Shorts on the Tracey Ullman Show</h3>
+            <p>
+              The Simpsons shorts debuted on The Tracey Ullman Show on April 19, 1987, were featured on the first three seasons of the show. By the fourth
+              and last season of The Tracey Ullman Show, the first season of the half-hour show was on the air. In the two first seasons, the shorts were
+              divided into three or four parts, but in the third season they were played as a single story. The stories for the shorts were written and
+              storyboarded by Matt Groening. The family was crudely drawn because Groening had submitted basic sketches to the animators, assuming they
+              would clean them up; instead they just traced over his drawings. The animation was produced domestically at <Link>Klasky Csup</Link>, with
+              Wesley Archer, David Silverman, and Bill Kopp being animators for the first season. After season one it was animated by Arcer and Silverman.
+              "Georgie" Gyorgyi Korvacs Peluce (Kovács Györgyike) was the colorist and the person who decided to make the characters yellow.
+            </p>
+            <p>
+              The actors who voiced the characters would later reprise their roles in The Simpsons. Dan Castellaneta performed the voices of Homer
+              Simpson, <Link>Abraham Simpson</Link>, and <Link>Krusty the Clown</Link>. Homer's voice sounds different in the shorts compared to most
+              episodes of the half-hour show. In the shorts, his voice is a loose impression of Walter Matthau, whereas it is more robust and humorous on
+              the half-hour show, allowing Homer to cover a fuller range of emotions. Voices were needed for the shorts, so the producers decided to ask
+              Castellaneta as well as Julie Kavner to voice Homer and Marge, rather than hire more actors; Castellaneta and Kavner were already members of
+              the main Tracey Ullman Show cast. Nancy Cartwright and Yeardley Smith performed the voices of Bart and Lisa Simpson respectively.
+            </p>
             <h3 className="article-heading-3" id="2.2">The Simpsons</h3>
+            <p>
+              In 1989, a team of production companies adapted The Simpsons into a half-hour series for the Fox Broadcasting Company. The team included
+              what is not the Klasky Csupo animation house. The half-hour series premiered on December 17, 1989, with "<Link>Simpsons Roasting on
+              an Open Fire</Link>", a Christmas special. "<Link>Some Enchanted Evening</Link>" was the first full-length episode produced, but it did
+              not broadcast until May 1990 because of animation problems. The Simpsons takes place in the fictional American town of Springfield, without
+              any geographical coordinates or references to U.S. states that might identify which part of the country it represents. For The Simpsons,
+              Harry Shearer and Hank Azaria were added as cast members. In addition to the main cast, Pamela Hayden, Tress MacNeille, Marcia Wallace,
+              Maggie Roswell, and Russi Taylor voice supporting characters. From 1999 to 2002, Maggie Roswell's characters were voiced by Marcia Mitzman
+              Gaven. Karl Wiedergott has appeared in minor roles, but does not voice any recurring characters. Repeat "special guest" cast members
+              include <Link>Albert Brooks</Link>, <Link>Phil Hartman</Link>, <Link>Jon Lovitz</Link>, Joe Mantegna, and <Link>Kelsey Grammer</Link>.
+            </p>
             <h4 className="article-heading-4" id="2.2.1">Crossovers</h4>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
           </div>
