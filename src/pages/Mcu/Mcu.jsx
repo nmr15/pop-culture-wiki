@@ -1,7 +1,9 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { mcu, marveltv } from '../../data/dataMcu'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableMcu from "../../components/TableMcu"
 
 const infinity = mcu.filter((mcu) => mcu.phase == 1 || mcu.phase == 2 || mcu.phase == 3);
@@ -10,6 +12,11 @@ const mcutv = mcu.filter((mcu) => mcu.media == "series" || mcu.media == "special
 
 const Mcu = () => 
 {
+  useEffect(() =>
+    {
+      document.title = "Marvel Cinematic Universe - Pop Culture Wiki";
+    }, []);
+
   return (
     <>
       <aside className="sidebar">
@@ -172,8 +179,8 @@ const Mcu = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1" data-bs-toggle="collapse" data-bs-target="#collapseOne">Development</h2>
-          <div className="collapse show" id="collapseOne">
+          <Heading2 id={1} title={"Development"} />
+          <div>
             <h3 className="article-heading-3" id="1.1">Marvel Studios films and series</h3>
             <h4 className="article-heading-4" id="1.1.1">The Infinity Saga films</h4>
             <p>
@@ -415,8 +422,8 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Feature films</h2>
-          <div className="collapse show" id="collapseTwo">
+          <Heading2 id={2} title={"Feature films"} />
+          <div>
             <h3 className="article-heading-3" id="2.1">The Infinity Saga</h3>
             <div className="row">
               {infinity.map((inf) => (
@@ -448,8 +455,8 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3" data-bs-toggle="collapse" data-bs-target="#collapseThree">Television series and specials</h2>
-          <div className="collapse show" id="collapseThree">
+          <Heading2 id={3} title={"Television series and specials"} />
+          <div>
             <h3 className="article-heading-3" id="3.1">Marvel Television series</h3>
             <div className="row">
               {marveltv.map((tv) => (
@@ -481,15 +488,15 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4" data-bs-toggle="collapse" data-bs-target="#collapseFour">Short films</h2>
-          <div className="collapse show" id="collapseFour">
+          <Heading2 id={4} title={"Short films"} />
+          <div>
             <h3 className="article-heading-3" id="4.1">Marvel One-Shot</h3>
             <h3 className="article-heading-3" id="4.2">I Am Groot</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5" data-bs-toggle="collapse" data-bs-target="#collapseFive">Other media</h2>
-          <div className="collapse show" id="collapseFive">
+          <Heading2 id={5} title={"Other media"} />
+          <div>
             <h3 className="article-heading-3" id="5.1">Digital series</h3>
             <h3 className="article-heading-3" id="5.2">Comic books</h3>
             <h3 className="article-heading-3" id="5.3">Books</h3>
@@ -497,8 +504,8 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6" data-bs-toggle="collapse" data-bs-target="#collapseSix">Fictional universe</h2>
-          <div className="collapse show" id="collapseSix">
+          <Heading2 id={6} title={"Fictional universe"} />
+          <div>
             <h3 className="article-heading-3" id="6.1">Timeline</h3>
             <p>
               The fictional timeline of the MCU includes the feature films, television series, television specials, short films, and the I Am Groot
@@ -555,14 +562,14 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7" data-bs-toggle="collapse" data-bs-target="#collapseSeven">Recurring cast and characters</h2>
-          <div className="collapse show" id="collapseSeven">
+          <Heading2 id={7} title={"Recurring cast and characters"} />
+          <div>
             <Link to="/mcu/characters">List of Marvel Cinematic Universe characters</Link>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8" data-bs-toggle="collapse" data-bs-target="#collapseEight">Reception</h2>
-          <div className="collapse show" id="collapseEight">
+          <Heading2 id={8} title={"Reception"} />
+          <div>
             <p>
               Early on, the shared universe element of the Marvel Cinematic Universe was criticized by some journalists. Around the release of
               The Avengers in 2012, Jim Vorel of Herald & Review called the Marvel Cinematic Universe "complicated" and "impressive", but
@@ -605,8 +612,8 @@ const Mcu = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="9" data-bs-toggle="collapse" data-bs-target="#collapseNine">Cultural impact</h2>
-          <div className="collapse show" id="collapseNine">
+          <Heading2 id={9} title={"Cultural impact"} />
+          <div>
             <h3 className="article-heading-3" id="9.1">Other studios</h3>
             <h4 className="article-heading-4" id="9.1.1">DC Entertainment and Warner Bros. Pictures</h4>
             <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
