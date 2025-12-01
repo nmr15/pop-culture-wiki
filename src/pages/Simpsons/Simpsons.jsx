@@ -151,8 +151,79 @@ const Simpsons = () =>
           <Heading2 id={1} title={"Background"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <p>
+              <Link>Matt Groening</Link> conceived of the idea for the Simpsons in the lobby of <Link>James L. Brooks</Link>'s office. Brooks, the
+              producer of the sketch comedy program The Tracey Ullman Show, wanted to use the series of animated cartoons as bumpers between sketches.
+              Groening had been called in to pitch a series of animated shorts, and had intended to present his Life in Hell series. When he realized
+              that animating Life in Hell would require him to rescind publication rights for his life's work, Groening decided to go in another
+              direction. He hurriedly sketched out his version of a dysfunctional family, and named the characters after his own family.
+            </p>
             <h3 className="article-heading-3" id="1.2">Themes</h3>
+            <p>
+              The Simpsons takes place in the fictional American town of <Link>Springfield</Link>, without any geographical coordinates or references to
+              U.S. states that might identify which part of the country it represents. The Simpsons uses the standard setup of a situational comedy or
+              "sitcom" as its premise. The series centers on a family and their life in a typical American town. However, because of its animated nature,
+              The Simpsons' scope is larger than that of a regular sitcom. The town of Springfield acts as a complete universe in which characters can
+              explore the issues faced by modern society. By having Homer work in a nuclear power plant, the show can comment on the state of the
+              environment. Through Bart and Lisa's day at <Link>Springfield Elementary School</Link>, the show's writers illustrate pressing or
+              controversial issues in the field of education. The town, features a vast array of media channels, from kids' television programming to
+              local news, which enables the producers to make jokes about themselves and the entertainment industry. Some commentators say the show is
+              political in nature and susceptible to a left-wing bias. The writer and producer <Link>Al Jean</Link> admitted in an interview that "We
+              [the show] are of liberal bent." The writers often evince an appreciation for liberal ideals, but the show makes jokes across the
+              political spectrum. Religion and fiugres as a recurring theme. In times of crisis, the family often turns to God, and the show has dealth
+              with most of the major religions.
+            </p>
             <h3 className="article-heading-3" id="1.3">Main characters</h3>
+            <p>
+              The main characters of the show are the Simpsons family. The Simpsons are a family who live at <Link>742 Evergreen Terrace</Link> in
+              Springfield. Although the family is dysfunctional, many episodes examine their relationsips and bonds with each other and they are often
+              shown to care about one another.
+            </p>
+            <ul className="article-list">
+              <li>
+                <Link>Homer Simpson</Link>, voiced by <Link>Dan Castellaneta</Link>, is the father of the Simpsons family. He embodies several American
+                working class stereotypes: he is crude, overweight, incompetent, clumsy, thoughtless, and a bonafide alcoholic. His voice started out as
+                an impression of Walter Matthau but eventually evolved into a more robust voice during the second and third season of the half-hour show,
+                allowing Homer to cover a fuller range of emotions. Homer has since become one of the most influential fictional characters. He has
+                inspired an entire line of merchandise and his catchphrase, the annoyed grunt "<Link>D'oh!</Link>", has been included in the Oxford
+                English Dictionary.
+              </li>
+              <li>
+                <Link>Marge Simpson</Link>, voiced by Julie Kavner, is the well-meaning and extremely patient wife of Homer and mother of Bart, Lisa, and
+                Maggie. Her most notable physical feature is her distinct beehive hairstyle which was inspired by Bride of Frankensten and the style that
+                Matt Groening's mother wore during the 1960s, although her hair was never blue.
+              </li>
+              <li>
+                <Link>Bart Simpson</Link>, voiced by Nancy Cartwright, is the oldest child in the family, at age 10. Bart's most prominent character
+                traits are his mischievousness, rebelliousness, disrespect for authority, and sharp wit. During the first two seasons of The Simpsons,
+                Bart was the show's main character. The name "Bart" is an anagram of the word "brat". In 1998, Time magazine selected Bart as 46th of the
+                most influential people of the 20th century, and the only fictional character to make the list. He had previously appeared on the cover
+                of the December 31, 1990 edition. During the early episodes, Bart was revellious and frequently escaped without punishment, which led some
+                parents' group and conservative spokepeople to believe he provided a poor role model for children. This prompted George H. W. Bush to
+                rally, "We're going to keep trying to strengthen the American family. To make them more like the Waltons and less like the Simpsons."
+              </li>
+              <li>
+                <Link>Lisa Simpson</Link>, voiced by Yeardley Smith, is the middle child of the family, at age 8. She is an extremely intelligent
+                eight-year-old girl, one of the most intelligent characters on the show. Lisa's political convictions are generally socially liberal. In
+                the Tracey Ullman Show shorts, Lisa was more of a "female Bart" and was equally mischievous. As the series progressed, Lisa began to
+                develop into a more intelligent and more emotional character. In 2001, Lisa received a special "Board of Directors Ongoing Commitment
+                Award" at the Environmental Media Awards. "<Link>Lisa the Vegetarian</Link>", an episode from the <Link>seventh season</Link>, won both
+                an Environmental Media Award for "Best Television Episodic Comedy" and a Genesis Award for "Best Television Comedy Series, Ongoing
+                Commitment".
+              </li>
+              <li>
+                <Link>Maggie Simpson</Link>, is the youngest child of the five main family members, at age 1, is almost always seen as a baby. She was
+                quite prominent in the Tracey Ullman Show shorts, often being featured alongside Bart and Lisa but has since become the least seen and
+                heard of the five main Simpsons. Maggie rarely speaks, but has been voiced by several actors including Elizabeth Taylor, <Link>James
+                Earl Jones</Link>, <Link>Harry Shearer</Link>, who used <Link>Kang</Link>'s voice, Jodie Foster, Yeardley Smith, and Nancy Cartwright.
+              </li>
+            </ul>
+            <p>
+              The five family members were given simple designs so that their facial emotions could easily be changed with little effort and so that they
+              would be recognizeable in silhouette. They made their debuts on April 19, 1987, in The Tracey Ullman Show short "Good Night". In 1989, the
+              shorts were adapted into The Simpsons, a half-four series airing on the Fox Broadcasting Company. The Simpsons family remained the main
+              characters on this new show.
+            </p>
           </div>
         </div>
         <div>
