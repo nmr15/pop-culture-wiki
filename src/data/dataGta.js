@@ -70,3 +70,14 @@ export const gta = [
     "route": "/gta/grand_theft_auto_vi"
   }
 ]
+
+export const gtaLocations = [
+  {
+    "id": "gtalocation1",
+    "title": "Liberty City",
+    "file": "LibertyCity3D",
+    "universe": "3D",
+    "img": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/LibertyCity-GTAIII-Montage.png",
+    "route": "/gta/liberty_city_3d_universe"
+  }
+]
