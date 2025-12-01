@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { mcu, marveltv } from '../../data/dataMcu'
 import Card from '../../components/Card'
@@ -12,11 +11,6 @@ const mcutv = mcu.filter((mcu) => mcu.media == "series" || mcu.media == "special
 
 const Mcu = () => 
 {
-  useEffect(() =>
-    {
-      document.title = "Marvel Cinematic Universe - Pop Culture Wiki";
-    }, []);
-
   return (
     <>
       <aside className="sidebar">
@@ -615,6 +609,18 @@ const Mcu = () =>
           <Heading2 id={9} title={"Cultural impact"} />
           <div>
             <h3 className="article-heading-3" id="9.1">Other studios</h3>
+            <p>
+              After the release of The Avengers in May 2012, Tom Russo of Boston.com noted that aside from the occasional "novelty" such as Alien vs.
+              Predator (2004), the idea of a shared universe was virtually unheard of in Hollywood. Since that time, the shared universe model created
+              by Marvel Studios has begun to be replicated by other film studios that held rights to other comic book characters. In April 2014, Tuna
+              Amobi, a media analyst for Standard & Poor's Equity Research Services, stated that over the previous three to five years, Hollywood studios
+              had begun planning "megafranchises" for years to come, rather than working on one blockbuster at a time. Amobi added, "A lot of these
+              superhero characters were just being left there to gather dust. Disney has proven that this [approach and genre] can be a gold mine." With
+              more studios now "playing the megafranchise game", Doug Creutz, media analyst for Cowen and Company, feels the allure will eventually die
+              for audiences: "If Marvel's going to make two or three films a year, and Warner Brothers is going to do at least a film every year, and
+              Sony's going to do a film every year, and Fox [is] going to do a film every year, can everyone do well in that scenario? I'm not sure they
+              can."
+            </p>
             <h4 className="article-heading-4" id="9.1.1">DC Entertainment and Warner Bros. Pictures</h4>
             <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
             <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
