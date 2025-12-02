@@ -1,9 +1,16 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 import TableMcu from '../../../components/TableMcu'
 
 const TheIncredibuleHulkFilm = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "The Incredible Hulk (film) - Pop Culture Wiki";
+  }, []);
+  
   return(
     <>
       <aside className="sidebar">
@@ -61,13 +68,42 @@ const TheIncredibuleHulkFilm = () =>
         <div>
           <h1 className="article-heading">The Incredible Hulk (film)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg" 
-            alt="The Incredible Hulk" 
-            className="article-heading-img" 
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>The Incredible Hulk</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg" alt="The Incredible Hulk poster" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Louis Leterrier</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/iron_man_film">Iron Man</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/iron_man_2">Iron Man 2</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
            <p>
             The Incredible Hulk is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character the
@@ -97,7 +133,7 @@ const TheIncredibuleHulkFilm = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Plot</h2>
+          <Heading2 id={1} title={"Plot"} />
           <div>
             <p>
               At Culver University in Virginia, U.S. military general <Link>Thaddeus Ross</Link> meets with Dr. Bruce Banner, the colleague and boyfriend
@@ -141,7 +177,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast</h2>
+          <Heading2 id={2} title={"Cast"} />
           <div>
             <ul className="article-list">
               <li>
@@ -239,7 +275,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
+          <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
             <p>
@@ -396,7 +432,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Music</h2>
+          <Heading2 id={4} title={"Music"} />
           <div>
             <p>
               The score for the film was composed by Craig Armstrong, who was the arrange for Massive Attack, a band Letterier was fond of and had
@@ -408,7 +444,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <Heading2 id={5} title={"Marketing"} />
           <div>
             <p>
               Effort was made to promote the story as having a romance and a physical antagonist, and the title was used for promotional puns (such as
@@ -427,7 +463,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Release</h2>
+          <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
             <p>
@@ -450,7 +486,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Reception</h2>
+          <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
             <p>
@@ -508,7 +544,7 @@ const TheIncredibuleHulkFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Future</h2>
+          <Heading2 id={8} title={"Future"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Future MCU appearances</h3>
             <p>
