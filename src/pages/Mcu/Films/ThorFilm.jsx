@@ -161,6 +161,9 @@ const ThorFilm = () =>
             <h3 className="article-heading-3" id="8.1">Thor: Love and Thunder</h3>
           </div>
         </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
