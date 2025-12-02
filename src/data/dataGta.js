@@ -71,6 +71,112 @@ export const gta = [
   }
 ]
 
+export const gtaCharacters = [
+  {
+    "id": "gtaChar1",
+    "title": "Claude",
+    "file": "Claude",
+    "appearance": [
+      "III",
+      "San Andreas"
+    ],
+    "img": "",
+    "route": "/gta/claude"
+  },
+  {
+    "id": "gtaChar2",
+    "title": "Tommy Vercetti",
+    "file": "TommyVercetti",
+    "appearance": "Vice City",
+    "img": "",
+    "route": "/gta/tommy_vercetti"
+  },
+  {
+    "id": "gtaChar3",
+    "title": "Carl Johnson",
+    "file": "CarlJohnson",
+    "appearance": "San Andreas",
+    "img": "",
+    "route": "/gta/carl_johnson"
+  },
+  {
+    "id": "gtaChar4",
+    "title": "Toni Cipriani",
+    "file": "ToniCipriani",
+    "appearance": [
+      "III",
+      "Liberty City Stories"
+    ],
+    "img": "",
+    "route": "/gta/toni_cipriani"
+  },
+  {
+    "id": "gtaChar5",
+    "title": "Victor Vance",
+    "file": "VictorVance",
+    "appearance": [
+      "Vice City",
+      "Vice City Stories"
+    ],
+    "img": "",
+    "route": "/gta/victor_vance"
+  },
+  {
+    "id": "gtaChar6",
+    "title": "Niko Bellic",
+    "file": "Nik Bellic",
+    "appearance": "IV",
+    "img": "",
+    "route": "/gta/niko_bellic"
+  },
+  {
+    "id": "gtaChar7",
+    "title": "Johnny Klebitz",
+    "file": "JohnnyKlebitz",
+    "appearance": [
+      "IV",
+      "The Lost and Damned"
+    ],
+    "img": "",
+    "route": "/gta/johnny_klebitz"
+  },
+  {
+    "id": "gtaChar8",
+    "title": "Luis Lopez",
+    "file": "LuisLopez",
+    "appearance": [
+      "IV",
+      "The Ballad of Gay Tony"
+    ],
+    "img": "",
+    "route": "/gta/luis_lopez"
+  },
+  {
+    "id": "gtaChar9",
+    "title": "Michael De Santa",
+    "file": "MichaelDe Santa",
+    "appearance": "V",
+    "img": "",
+    "route": "/gta/michael_de_santa"
+  },
+  {
+    "id": "gtaChar10",
+    "title": "Franklin Clinton",
+    "file": "FranklinClinton",
+    "appearance": "V",
+    "img": "",
+    "route": "/gta/franklin_clinton"
+  },
+  {
+    "id": "gtaChar11",
+    "title": "Trevor Philips",
+    "file": "TrevorPhilips",
+    "appearance": "V",
+    "img": "",
+    "route": "/gta/trevor_philips"
+  }
+]
+
 export const gtaLocations = [
   {
     "id": "gtalocation1",
