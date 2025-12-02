@@ -99,7 +99,11 @@ const ThorFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-
+          <p>
+            <b>Thor</b> is a 2011 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/thor">of the same name</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Paramount Pictures. It is
+            the fourth film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). It was directed by <Link>Kenneth Branagh</Link>
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
