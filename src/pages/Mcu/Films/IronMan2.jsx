@@ -324,7 +324,11 @@ const IronMan2 = () =>
         </div>
         <div>
           <Heading2 id={8} title={"Sequel"} />
+          <div>
+
+          </div>
         </div>
+        <TableMcu />
       </main>
     </>
   )
