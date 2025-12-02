@@ -8,9 +8,97 @@ const ThorFilm = () =>
 {
   return(
     <>
-      <div>
-        <h1>ThorFilm</h1>
-      </div>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Filming"},
+              {id: "3.4", title: "Post-production"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office"},
+              {id: "7.2", title: "Critical response"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Sequels"
+            sub={[
+              {id: "8.1", title: "Thor: The Dark World"},
+              {id: "8.2", title: "Thor: Ragnarok"},
+              {id: "8.1", title: "Thor: Love and Thunder"}
+            ]}
+          />
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
+          <li>Thor (film)</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Thor (film)</h1>
+        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Thor</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg" alt="Thor poster" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Kenneth Branagh</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link to="/mcu/characters">List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/iron_man_2">Iron Man 2</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/captain_america_the_first_avenger">Captain America: The First Avenger</Link></td>
+            </tr>
+          </tbody>
+        </table>
+      </main>
     </>
   )
 }
