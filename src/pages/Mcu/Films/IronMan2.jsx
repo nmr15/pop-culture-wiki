@@ -1,9 +1,16 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 import TableMcu from '../../../components/TableMcu'
 
 const IronMan2 = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Iron Man 2 - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -52,13 +59,42 @@ const IronMan2 = () =>
         <div>
           <h1 className="article-heading">Iron Man 2</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" 
-            alt="Iron Man 2" 
-            className="article-heading-img" 
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Iron Man 2</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" alt="Iron Man 2 poster" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Jon Favreau</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/the_incredible_hulk_film">The Incredible Hulk</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/thor_film">Thor</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Iron Man 2 is a 2010 American superhero film basded on the <Link to="/marvelcomics">Marvel Comics</Link> character
@@ -87,7 +123,7 @@ const IronMan2 = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Plot</h2>
+          <Heading2 id={1} title={"Plot"} />
           <div>
             <p>
               In Russia, the media covers Tony Stark's disclosure of his identity as Iron Man. Ivan Vanko, mourning the death of his father
@@ -135,7 +171,7 @@ const IronMan2 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast</h2>
+          <Heading2 id={2} title={"Cast"} />
           <div>
             <ul className="article-list">
               <li>
@@ -225,7 +261,7 @@ const IronMan2 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
+          <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
             <p>
@@ -252,27 +288,34 @@ const IronMan2 = () =>
               <Link to="/mcu/antman_and_the_wasp"> Ant-Man and the Wasp</Link> (2018).
             </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              After the commercial success of Iron Man in May 2008, Marvel Studios began developing a sequel, with an intended release date of April 30,
+              2010. That July, Favreau officially signed on to direct following several months of negotiating, while Justin Theroux signed to write the
+              script, which would be based on a story written by Favreau and Downey. Theroux co-wrote <Link>Tropic Thunder</Link> (2008), which Downey
+              had starred in, and Downey recommended him to Marvel. Genndy Tartakovsky storyboarded the film, and Adi Granov returned to supervise the
+              design for <Link>Iron Man's armor</Link>.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Music</h2>
+          <Heading2 id={4} title={"Music"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <Heading2 id={5} title={"Marketing"} />
           <div></div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Release</h2>
+          <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Reception</h2>
+          <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
@@ -280,7 +323,7 @@ const IronMan2 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Sequel</h2>
+          <Heading2 id={8} title={"Sequel"} />
         </div>
       </main>
     </>
