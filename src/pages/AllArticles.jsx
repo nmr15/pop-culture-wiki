@@ -7,7 +7,7 @@ import { communitychars, communityS1, communitys2, communitys3, communitys4, com
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { spongebobMedia, spongebobS1 } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
-import { gta } from '../data/dataGta';
+import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
 import { asoue } from '../data/dataAsoue';
@@ -386,6 +386,16 @@ const AllArticles = () =>
               {gta.map((gta) => (
                   <li key={gta.id}>
                   <Link to={gta.route}>{gta.title}</Link>
+                  </li>
+              ))}
+              </ul>
+            </div>
+            <div>
+              <h4 className="article-heading-4">Characters</h4>
+              <ul className="allArticles-list">
+              {gtaCharacters.map((gtaChar) => (
+                  <li key={gtaChar.id}>
+                  <Link to={gtaChar.route}>{gtaChar.title}</Link>
                   </li>
               ))}
               </ul>

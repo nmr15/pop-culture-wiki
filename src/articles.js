@@ -4,7 +4,7 @@ import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
-import { gta } from "./data/dataGta";
+import { gta, gtaCharacters } from "./data/dataGta";
 import { mcu, mcuMeta } from "./data/dataMcu";
 
 export const routesTopics = topics.map(topic => ({
@@ -32,6 +32,7 @@ export const routeGfS1 = gravityFallsS1.map(gfs1 => ({
   Component: lazy(() => import(`./pages/GravityFalls/Season1/${gfs1.file}.jsx`)) 
 }));
 
+// GRAND THEFT AUTO
 export const routesGta = gta.map(gta => ({
   path: gta.route,
   Component: lazy(() => import(`./pages/Gta/${gta.file}.jsx`))
