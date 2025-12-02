@@ -59,13 +59,38 @@ const IronManFilm = () =>
         <div>
           <h1 className="article-heading">Iron Man (film)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" 
-            alt="Iron Man" 
-            className="article-heading-img" 
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Iron Man</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" alt="Iron Man poster" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Jon Favreau</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/the_incredible_hulk_film">The Incredible Hulk</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Iron Man is a 2008 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character <Link>of the same name</Link>.
@@ -93,7 +118,7 @@ const IronManFilm = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Plot</h2>
+          <Heading2 id={1} title={"Plot"} />
           <div>
             {/* <div className="img-left" style={{width: "250px"}}>
               <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Terrence-Howard_RDJ_Iron-Man-1-.jpg" alt="" />
@@ -206,7 +231,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast</h2>
+          <Heading2 id={2} title={"Cast"} />
           <div>
             <ul className="article-list">
               <li>
@@ -264,7 +289,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
+          <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
             <p>
@@ -442,7 +467,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Music</h2>
+          <Heading2 id={4} title={"Music"} />
           <div>
             <p>
               Composer Ramin Djawadi had been a fan of the character Iron Man as a child, saying that he always like superheroes "that actually don't have
@@ -457,7 +482,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <Heading2 id={5} title={"Marketing"} />
           <div>
             <p>
               In July 2006, with the film still in pre-production, Favreau and Arad attended <Link>San Diego Comic-Con</Link> to promote the film, where the
@@ -484,7 +509,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Release</h2>
+          <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
             <p>
@@ -509,7 +534,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Reception</h2>
+          <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
             <p>
@@ -569,7 +594,7 @@ const IronManFilm = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Sequels</h2>
+          <Heading2 id={8} title={"Sequels"} />
           <div>
             <p>
               Main articles: <Link to="/mcu/iron_man_2">Iron Man 2</Link> and <Link to="/mcu/iron_man_3">Iron Man 3</Link>
