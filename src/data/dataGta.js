@@ -124,7 +124,7 @@ export const gtaCharacters = [
   {
     "id": "gtaChar6",
     "title": "Niko Bellic",
-    "file": "Nik Bellic",
+    "file": "NikoBellic",
     "appearance": "IV",
     "img": "",
     "route": "/gta/niko_bellic"
@@ -154,7 +154,7 @@ export const gtaCharacters = [
   {
     "id": "gtaChar9",
     "title": "Michael De Santa",
-    "file": "MichaelDe Santa",
+    "file": "MichaelDeSanta",
     "appearance": "V",
     "img": "",
     "route": "/gta/michael_de_santa"
