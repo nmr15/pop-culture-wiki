@@ -356,6 +356,38 @@ const IronMan2 = () =>
               they faithfully adapted the storyline.
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <p>
+              In January 2010, IMAX Corporation, Marvel, and Paramount announced that the film would receive a limited release on digital IMAX screens.
+              It was not shot with IMAX cameras, so it was converted into the format using the IMAX DMR technology. The film underwent reshoots in
+              February. Olivia Munn's original role was cut, but she was given a new role during the reshoots. 
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/b/b0/Iron_Man_and_War_Machine_suits_VFX_in_Iron_Man_2.jpg" 
+                alt="Iron Man and War Machine suits VFX in Iron Man 2" 
+              />
+              <p>Robert Downy Jr. and Don Cheadle in their suits, before and after ILM's CGI enhancements</p>
+            </div>
+            <p>
+              Janek Sirrs was the film's viusal effects supervisor, and <Link>Industrial Light & Magic</Link> did the majority of the effects, as it did
+              on the first film. ILM's visual effects supervisor on the film, Ben Snow, said their work on the film was "harder" than their work on the
+              first, stating that Favreau asked more of them this time around. Snow described the process of digitally creating the suits:
+            </p>
+            <div className="article-quote">
+              <p>
+                On the first Iron Man, we tried to use the Legacy [Studios, Stan Winston's effects company] and Stan Winston suits as much as we could. For
+                the second one, Jon [Favreau] was confident we could create the CG suits, and the action dictated using them. So, Legacy created what we
+                called the "football suits" from the torso up with a chest plate and helmet. We'd usually put in some arm pieces, but not the whole arm.
+                In the house fight sequence, where Robert Downey Jr. staggers around tipsy, we used some of the practical suit and extended it digitally.
+                Same thing in the Randy's Donuts scene. But in the rest of the film, we used the CG suit entirely. And Double Negative did an all-digital
+                suit for the Monaco chase.
+              </p>
+            </div>
+            <p>
+              ILM created 527 shots for the film, using programs such as Maya. Perception worked on over 125 shots for the film. They crafted gadgets,
+              such as Tony Stark's transparent LG smarthone, and created the backdrops for the Stark Expo as well as the computer screen interface on the
+              touch-screen coffee table and the holographic lab environment. In total, 11 visual effect studios worked on the film.
+            </p>
           </div>
         </div>
         <div>
