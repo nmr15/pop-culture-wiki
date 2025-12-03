@@ -739,6 +739,13 @@ const Mcu = () =>
               have saved Sony "a boatload of money", and potentially reversed the film's relative financial failure.
             </p>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
+            <p>
+              In September 2014, the University of Baltimore announced a course beginning in the 2015 spring semester revolving around the Marvel
+              Cinematic Universe, to be taught by Arnold T. Blumberg. "Media Genres: Media Marvels" examined "how Marvel's series of interconnected
+              films and television shows, plus related media and comic book sources and Joseph Campbell's monomyth of the 'hero's journey', offer
+              important insights into modern culture" as well as Marvel's efforts "to establish a viable universe of plotlines, characters, and
+              backstories."
+            </p>
           </div>
         </div>
         <div>
