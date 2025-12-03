@@ -326,6 +326,35 @@ const IronMan2 = () =>
               joined the cast.
             </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <p>
+              Principal photography began April 6, 2009, at the Pasadena Masonic Temple, with the working title Rasputin. The bulk of the production took
+              place at the Raleigh Studios, though other locations were also used. Scenes were filmed at Edwards Air Force Base from May 11 through May
+              13. The location had also been used for Iron Man, and Favreau stated that he felt the "real military assets make the movie more authentic
+              and the topography and the beauty of the desert and flightline open the movie up". The Historical Grand Prix of Monaco action sequence was
+              shot in the parking lot of Downey Studios, with sets constructed in May and filming lasting through June. Permission to film in Monaco
+              prior to the 2009 Monaco Grand Prix had initially been awarded, but was later retracted by Bernie Ecclestone. The filmmakers shipped one
+              Rolls-Royce Phantom there and filmed a track sequence in which race cars were later digitally added. Tanner Foust took on the role of
+              driving Stark's racing car. Also in June, it was reported that John Slattery had joined the film's cast as Howard Stark. Olivia Munn was
+              also cast, in an unspecified role.
+            </p>
+            <p>
+              A massive green screen was constructed at the Sepulveda Dam to film a portion of the Stark Expo exterior, with the rest either shot at an
+              area high school or added digitally. To construct the green screen, hundreds of shipping containers were stackd, covered in plywood and
+              plaster, and then painted green. For the conclusion of that climactic scene, wich the crew dubbed the "Japanese Garden" scene, a set was
+              built inside Sony Studios in Los Angeles. Filming lasted 71 days, and the film's production officially wrapped on July 18, 2009. A
+              post-credits scene depicting the discovery of a large hammer was filmed on the set of <Link to="/mcu/thor_film">Thor</Link> (2011), and
+              some of it was reused in the film. Jon Favreau revealed that the scene was filmed with anamorphic lenses to match Thor, and was directed
+              by <Link>Kenneth Branagh</Link>, the director of Thor.
+            </p>
+            <p>
+              A large amount of improvisation was done on set during filming, notably from Downey, which necessitated Theroux to do "writing gymnastics"
+              to create a cohesive narrative around the various ad-libs; this process caused Theroux's back to give out and become bedridden because of
+              the stress and toll it took on him. The film's story eventually strayed from the intended adaptation of the "Demon in the Bottle"
+              storyline. Speaking to the "Demon in the Bottle" elements in the film, Theroux noted how Stark is shown drinking and out of control,
+              becoming a "self-destructive ticking clock", stating that his palladium illness serves as a substitute metaphor for "a man who's running out
+              of steam and needs his friends to step up". Additionally, the creatives did not want the film to become like Leaving Las Vegas (1995) had
+              they faithfully adapted the storyline.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
