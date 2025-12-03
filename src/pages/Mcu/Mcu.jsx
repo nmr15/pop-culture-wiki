@@ -650,6 +650,35 @@ const Mcu = () =>
               the best story, to do the best world. Everyone has a vision and you really want to let the visions shine through ... it's just a different
               approach [from Marvel]."
             </p>
+            <p>
+              Discussing the apparent failure of the cinematic universe's first team-up film, <Link>Batman v Superman: Dawn of Justice</Link> (2016),
+              to establish a successful equivalent to the MCU, Emily St. James noted that where the MCU has a television-like "showrunner" in Feige,
+              "the visionary behind Marvel's entire slate", the DCEU has director Zack Snyder, whose DC films "seemingly start from the assumption that
+              people have come not to see an individual story but a long series of teasers for other ones. It's like he knows what he needs to do but
+              can't focus on the task at hand. TV certainly isn't immune to that problem, but shows that get caught up in high-concept premises and
+              big-picture thinking before doing the necssary legwork to establish characters and their relationships tend to be canceled." Subsequently,
+              in May 2016, Warner Bros. gave oversigh of the DCEU to Johns and executive Joe Berg in an attempt to "unify the disparate elements of the
+              DC movies" and emulate Marvel's success. The two were made producers on the Justice League film, on top of Johns' involvement in several
+              "solo" films, such as the post-production process of <Link>Suicide Squad</Link> (2016) or the writing process of a standalone Batman film.
+              After the successful release of <Link>Wonder Woman</Link> in June 2017, DC decided to begin deemphasizing the shared nature of their films,
+              with DC Entertainment president Diane Nelson stating, "Our intention, certainly, moving forward is using the continuity to help make sure
+              nothing is diverging in a way that doesn't make sense, but there's no insistence upon an overall storyline or interconnectivity in the
+              universe... Moving forward, you'll see the DC movie universe being a universe, but one that comes from the heart of the filmmakers who's
+              creating them." Additionally, DC began focusing on films "completely separate from everything else, set entirely outsid" the DCEU as part
+              of a new label, with <Link>the first film</Link> centered on the <Link>Joker</Link>. Following the commercial failure of
+              <Link> Justice League</Link> (2017), which ended the DCEU approach spearheaded by Snyder, Warner Bros. executives reported reached out to
+              Feige to have him lead the development of DC films but the talks "fizzled".
+            </p>
+            <p>
+              In August 2022, Warner Bros. Discovery CEO David Zaslav announced a 10-year plan for the DC Extended Universe similar to the one that Horn
+              and Iger employed with Feige for the MCU, with James Gunn and Peter Safran appointed in October 2022 to serve as the co-chairmen and co-CEO
+              of the newly formed DC Studios to develop a new shared universe, the DC Universe, the first content for which was announced in January 2023.
+              By July 2024, both Feige and Gunn had expressed interest in one day creating a crossover between the two franchises, though both noted it
+              was not something actively being discussed or considered. Gunn revelaed following the second season finale of Peacemaker in October 2025,
+              that he had wanted to show <Link>Wade Wilson / Deadpool</Link> behind one of the alternate universe doors in the Quantum Unfolding Chamber
+              and had reached out to Deadpool actor <Link>Ryan Reynolds</Link> about it, who was interested in appearing. However, Gunn noted there would
+              have been "some pretty, pretty big [legal] hoops" to go through to accomplish this, and ultimtely moved on from the idea.
+            </p>
             <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
             <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
