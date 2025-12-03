@@ -295,6 +295,36 @@ const IronMan2 = () =>
               had starred in, and Downey recommended him to Marvel. Genndy Tartakovsky storyboarded the film, and Adi Granov returned to supervise the
               design for <Link>Iron Man's armor</Link>.
             </p>
+            <p>
+              In October 2008, Marvel Studios came to an agreement to film Iron Man 2, as well as their next three films, at Raleigh Studios in
+              Manhattan Beach, California. A few days later, Don Cheadle was hired to replace Terrence Howard. On being replaced, Howard stated, "There
+              was no explanation, apparently the contracts that we write and sign aren't worth the paper that they're printed on sometims. Promises aren't
+              kept, and good-faith negotiations aren't always held up." Entertainment Weekly stated Favreau did not even enjoy working with Howard, often
+              re-shooting and cutting his scenes; Howard's publicist said he had a good experience playing the part, while Marvel chose not to comment.
+              As Favreau and Theroux chose to reduce the role, Marvel came to Howard to discuss lowering his salary, Howard was the first actor hired in
+              Iron Man and was paid the largest salary. The publication stated they were unsure whether Howard's representatives left the project first
+              or if Marvel chose to stop negotiating. Theroux denied the part of the report which claimed the size of the role has fluctuated. In
+              November 2013, Howard stated that, going into the film, the studio offered him far less than was in his three-picture contract, claiming
+              they told him the second will be successful, "with or without you," and, without mentioning him by name, said Downey "took the money that
+              was supposed to go to me and pushed me out."
+            </p>
+            <p>
+              In January 2009, Rourke and Rockwell entered negotiations to play a pair of villains. A few days later, Rockwell confirmed he would take
+              the role, and that his character would be Justin Hammer. Paul Bettany confirmed that he would be returning to voice J.A.R.V.I.S. Marvel
+              entered into early talks with <Link>Emily Blunt</Link> to play the Black Widows, though she was unable to take the role due to a previous
+              commitment to star in Gulliver's Travels (2010). Samuel L. Jackson confirmed that he had been in discussions to reprise the role of Nick
+              Fury from the first film's post-credits scene, but that contract disputes were making a deal difficult. Jackson stated, "There was a huge
+              kind of negotiation that broke down. I don't know. Maybe I won't be Nick Fury."
+            </p>
+            <p>
+              In February, Jackson and Marvel came to terms, and he was signed to play the character in up to nine films. Downey and Rourke discussed his
+              part during a roundtable discussion with David Ansen a the 2009 Golden Globes, and Rourke met with Favreau and Theroux to discuss the role.
+              Rourke almost dropped out because of Marvel's initial salary offer of $250,000, but the studio raised the offer, and in March, Rourke signed
+              on. Later that same day, Scarlett Johansson signed on to play the Black Widow. Her deal included options for multiple films, including
+              potentially <Link to="mcu/the_avengers_film">The Avengers</Link>. Prior to her casting, Johansson had also researched other Marvel
+              characters she could play, including the Blonde Phantom and the <Link>Wasp</Link>. In April, Garry Shandling, Clark Gregg, and Kate Mara
+              joined the cast.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
