@@ -627,7 +627,29 @@ const Mcu = () =>
               Sony's going to do a film every year, and Fox [is] going to do a film every year, can everyone do well in that scenario? I'm not sure they
               can."
             </p>
+            <p>
+              In March 2018, Patrick Shanley of The Hollywood Reporter opined that "the key differences between a regular franchise, such as The Fast and
+              the Furious or Pitch Perfect films, and a shared universe is the amount of planning and interweaving that goes into each individual film.
+              It's all too easy to make a film that exists solely for the purpose of setting up future installments and expanding a world, rather than a
+              film that stands on its own merits while deftly hinting or winking at its place in the larger mythos. In that, the MCU has flourished." He
+              felt that Iron Man "itself was aimed at being an enjoyable stand-alone experience, not as an overall advertisement for 17 subsequent movies.
+              That mentality has persisted through most of the MCU films over the past decade, which is all the more impressive as its roster of heroes
+              now exceeds the two-dozen mark."
+            </p>
             <h4 className="article-heading-4" id="9.1.1">DC Entertainment and Warner Bros. Pictures</h4>
+            <p>
+              In October 2012, following its legal victory over Joe Shuster's estate for the rights to <Link>Superman</Link>, <Link>Warner Bros.
+              Pictures</Link> announced that it planned to move ahead with its long-awaited <Link>Justice League film</Link>, uniting such
+              <Link to="/dccomics">DC Comics</Link> superheroes as <Link>Batman</Link>, Superman, and <Link>Wonder Woman</Link>. The company was
+              expected to take the opposite approach to Marvel, releasing individual films for the characters after they have appeared in a team-up film.
+              The release of <Link>Man of Steel</Link> in 2013 was intended to be the start of a new shared universe for DC, "laying the groundwork for
+              the future slate of films based on DC Comics". In 2014, Warner Bros. announced that slate of films, similarly to Disney and Marvel
+              claiming dates for films years in advance. That year, DC chief creative officer Geoff Johns stated that the television series Arrow and The
+              Flash were set in a separate universe from the new film one, later clarifying that "We look at it as the multiverse. We have our TV universe
+              and our film universe, but they all co-exist. For us, creatively, it's about allowing everyone to make the best possible product, to tell
+              the best story, to do the best world. Everyone has a vision and you really want to let the visions shine through ... it's just a different
+              approach [from Marvel]."
+            </p>
             <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
             <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
