@@ -716,7 +716,27 @@ const Mcu = () =>
               new film co-produced by Feige and Pascal being released in July 2017, and the character being integrated into the MCU. Sony Pictures would
               continue to finance, distribute, own, and have final creative control of the Spider-Man films. With this announcement, sequels to
               <Link to="/spiderman_films/the_amazing_spider_man_2">The Amazing Spider-Man 2</Link> (2014) were canceled, and by November 2015, the Venom
-              and Sinister Six films, as well as spin-offs based on female characters in the Spider-Man universe, were no longer moving forward.
+              and Sinister Six films, as well as spin-offs based on female characters in the Spider-Man universe, were no longer moving forward. By March
+              2016, the Venom film had itself been retooled, to start its own franchise unrelated to the MCU Spider-Man. A year later, Sony officially
+              announced the Venom film to be in development, for an October 5, 2018 release, along with a film centered on the characters
+              <Link> Silver Sable</Link> and <Link>Black Cat</Link> known as Silver & Black. Both projects were not intended to be part of the MCU nor
+              spin-offs to Spider-Man: Homecoming, but rather part of an intended separate shared universe known as the <Link>Sony's Spider-Man
+              Universe</Link> (SSU). The mid-credits scene of <Link to="/spiderman_films/venom_let_there_be_carnage">Venom: Let There Be Carnage</Link>
+              (2021) hinted at <Link>Eddie Brock / Venom</Link> joining the MCU, which was confirmed with the release of
+              <Link to="/mcu/spiderman_no_way_home"> Spider-Man: No Way Home</Link> (2021) through an uncredited cameo appearance in the mid-credits
+              scene. Spider-Man: No Way Home also featured the Spider-Man iterations from <Link>Sam Raimi</Link> and Webb's Spider-Man films,
+              respectively reprised by <Link>Tobey Maguire</Link> and <Link>Andrew Garfield</Link>.
+            </p>
+            <p>
+              After Sony canceled its shared universe plans and begain sharing the Spider-Man character with Marvel Studios, multiple critics discussed
+              its failure to replicate the MCU. Scott Meslow of The Week noted the perceived flaws of the first Amazing Spider-Man film, outside of its
+              lead performances, and how the sequel "doubled down on all the missteps of the original while adding a few of its own. ...We now have a
+              textbook example of how not to reboot a superhero franchise, and if Sony and Marvel are wise, they'll take virtually all those lessons to
+              heart as they chart Spider-Man's next course." Scott Mendelson noted that The Amazing Spider-Man 2 "was sold as less a sequel to The Amazing
+              Spider-Man than a backdoor pilot for Spider-Man vs. the Sinister Six ...Had Sony stuck with the original plan of a scaled-down superhero
+              franchise, one that really was rooted in romantic drama, they would have at least stuck out in a crowded field of superhero franchises.
+              When every superhero film is now going bigger, Amazing Spider-Man could have distinguished itself by going small and intimate." This would
+              have saved Sony "a boatload of money", and potentially reversed the film's relative financial failure.
             </p>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
           </div>
