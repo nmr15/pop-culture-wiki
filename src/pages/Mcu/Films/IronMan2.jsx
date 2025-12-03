@@ -392,11 +392,54 @@ const IronMan2 = () =>
         </div>
         <div>
           <Heading2 id={4} title={"Music"} />
-          <div></div>
+          <div>
+            <p>
+              A soundtrack album featuring AC/DC was released by Columbia Recors on April 19, 2010, in at least three different versions: basic, special,
+              and deluxe. The basic edition includes the CD; the special edition contains a 15-track CD, a 32-page booklet and a DVD featuring interviews,
+              behind-the-scenes footage, and music vidoes; and the deluxe includes a reproduction of one of Iron Man's first comic book appearance. Only
+              2 songs on the soundtrack actually appear in the movie. Although not included on the soundtrack album, the film includes songs by The Average
+              White Band, The Clash, Queen, Daft Punk, 2Pac and Beastie Boys.
+            </p>
+            <p>
+              The film score was released commercially as Iron Man 2: Original Motion Picture Score on June 20, 2010, featuring 25 tracks. John Debney
+              composed the score with Tom Morello, with composer Richard M. Sherman of the Sherman Brothers contributing the Stark Expo theme song, "Make
+              Way for Tomorrow Today".
+            </p>
+          </div>
         </div>
         <div>
           <Heading2 id={5} title={"Marketing"} />
-          <div></div>
+          <div>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/1/12/Iron_man_2_cast_comic_con.jpg" 
+                alt="Iron Man 2 cast Comic-on" 
+              />
+              <p>The cast of Iron Man 2 at the 2009 San Diego Comic-Con.</p>
+            </div>
+            <p>
+              At the 2009 San Diego Comic-Con, a five-minute trailer for the movie was sown. Actors portraying Stark Industries recruiters handed out
+              business cards with an invitation to apply. A website for Stark Industries went online, with an attached graphic of a "napkin memo" from
+              Stark to Potts announcing that Stark Industries no longer made weapons. Another section featured an online application. It was confirmed
+              that the first theatrical trailer would premiere in front of Sherlock Holmes (another Robert Downey Jr. film). This trailer was released
+              online on December 16, 2009. A new trailer was shown by Robert Downey Jr. on <Link>Jimmy Kimmel Live!</Link> on March 7 after the Academy
+              Awards. Promotional partners included Symantec, Dr. Pepper, Burger King, 7 Eleven, Audi, LG Electronics, and Hershey.
+            </p>
+            <p>
+              Author Alexander C. Irvine adapted the script into a novel, also titled Iron Man 2, that was released in April 2010. Prior to the film's
+              release, Marvel Comics released a four-issue miniseries comic book titled Iron Man vs. Whiplash, which introduced the film's version of
+              Whiplash into the <Link>Marvel Universe</Link>. A three-issue prequel miniseries titled Iron Man 2: Public Identity was released in April.
+            </p>
+            <p>
+              An <Link>Iron Man 2 video game</Link> was released by <Link>Sega</Link> on May 4, 2010, in North America, written by <Link>The
+              Invincible Iron Man</Link> scribe Matt Fraction. The Wii version was developed by High Voltage Software and all console versions were
+              published by Sega, while <Link>Gameloft</Link> published the mobile game. The game's Comic-Con trailer showed that the <Link>Crimson
+              Dynamo</Link> was set to appear as a villain. Cheadle and Jackson voice their respective characters in the games. The trailer revealed
+              that <Link>A.I.M,</Link>, <Link>Roxxon Energy Corporation</Link>, and <Link>Ultimo</Link> (depicted as man named Kearson DeWitt in a
+              large armor suit) are enemies in the game as well as revealing that the wearer of the Crimson Dynamo armor is General Valentin Shatalov.
+              The game received "generally unfavorable" revies, with a Metacritic score of 41% for both the PS3 and Xbox 36 versions.
+            </p>
+          </div>
         </div>
         <div>
           <Heading2 id={6} title={"Release"} />
