@@ -680,6 +680,30 @@ const Mcu = () =>
               have been "some pretty, pretty big [legal] hoops" to go through to accomplish this, and ultimtely moved on from the idea.
             </p>
             <h4 className="article-heading-4" id="9.1.2">20th Century Fox</h4>
+            <p>
+              In November 2012, 20th Century Fox announced plans to create its own shared universe of Marvel properties it held the rights to, including
+              the Fantastic Four and X-Men, with the hiring of Mark Millar as supervising producer. Millar said, "Fox are thinking, 'We're sitting on some
+              really awesome things here. There is another side of the Marvel Universe. Let's try and get some cohesiveness going.' So they brought me in
+              to oversee that really. To meet with the writers and directors to suggest new ways we could take this stuff and new properties that could
+              spin out of it." <Link to="/xmen_films/x_men_days_of_future_past">X-Men: Days of Future Past</Link>, released in 2014, was Fox's first step
+              towards expanding their stable of Marvel properties and creating this universe, ahead of the release of a Fantastic Four reboot film the
+              next year. In May 2014, Days of Future Past and Fantastic Four screenwriter Simon Kinberg stated that the latter film would not take place
+              in the same universe as the X-Men films, explaining that "none of the X-Men movies have acknowledged the notion of a sort of superhero team,
+              the Fantastic Four. And the Fantastic Four acquire powers, so for them to live in a world where mutants are prevalent is kind of
+              complicated, because you're like, 'Oh, you're just a mutant.' Like, 'What's so fantastic about you?' ... they live in discrete universes."
+              In July 2015, X-Men director <Link>Bryan Singer</Link> said that there was still potential for a crosover between the X-Men and Fantastic
+              Four franchises, if reactions to Fantastic Four and <Link to="/xmen_films/x_men_apocalypse">X-Men: Apocalyse</Link> (2016) warranted it.
+            </p>
+            <p>
+              Feeling that Singer's efforts in Apocalyse to establish a larger world, similar to the MCU, did not meet the standards established by
+              Marvel, St. James notedthat unlike Feige's ability to serve as "pseudo-showrunner", Singer is instead "steeped in film and the way movie
+              stories have always been told", so "when it comes time to have Apocalypse dovetail with story threads from the eariler
+              <Link to="/xmen_films/x_men_first_class"> X-Men: First Class</Link>", which was directed by <Link>Matthew Vaughn</Link>, "both Singer's
+              direction and Simon Kinberg's script rely on hackneyed devices and clumsy storytelling", indicating a lack of "the kind of big-picture
+              thinking this sort of mega franchise required". In his review of <Link>Dark Phoenix</Link>, Joe Morgenstern of The Wall Street Journal
+              charactrized the entire X-Men film series as being a "notorously erratic franchise". In March 2019, the film rights of Deadpool, the X-Men
+              characters, and the Fantastic Four characters returned to Marvel Studios following the acquisition of 21st Century Fox by Disney.
+            </p>
             <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
           </div>
