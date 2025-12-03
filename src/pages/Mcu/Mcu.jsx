@@ -705,6 +705,19 @@ const Mcu = () =>
               characters, and the Fantastic Four characters returned to Marvel Studios following the acquisition of 21st Century Fox by Disney.
             </p>
             <h4 className="article-heading-4" id="9.1.3">Sony Pictures</h4>
+            <p>
+              In Novembe 2013, Sony Pictures Entertainment co-chairman Amy Pascal announced that the studio intended to expand their universe created
+              within director <Link>Marc Webb</Link>'s The Amazing Spider-Man films (2012-14), with spin-off adventures for supporting characters, in an
+              attempt to replicate Marvel and Disney's model. The next month, Sony announced <Link>Venom</Link> and <Link>Sinister Six</Link> films, both
+              set in the Amazing Spider-Man universe. With this announcement, IGN stated that the spin-offs are "the latest example of what we can refer
+              to as "the Avengers effect" in Hollywood, as studios work to build interlocking movie universes." Sony chose not to replicate the Marvel
+              Studios model of introducing characters first before bringing them together in a team-up film. Instead making the Spider-Man adventures the
+              stars of future films. In February 2015, Sony Pictures and Marvel Studios announced that the Spider-Man franchise would be rebooted, with a
+              new film co-produced by Feige and Pascal being released in July 2017, and the character being integrated into the MCU. Sony Pictures would
+              continue to finance, distribute, own, and have final creative control of the Spider-Man films. With this announcement, sequels to
+              <Link to="/spiderman_films/the_amazing_spider_man_2">The Amazing Spider-Man 2</Link> (2014) were canceled, and by November 2015, the Venom
+              and Sinister Six films, as well as spin-offs based on female characters in the Spider-Man universe, were no longer moving forward.
+            </p>
             <h3 className="article-heading-3" id="9.2">Academia</h3>
           </div>
         </div>
