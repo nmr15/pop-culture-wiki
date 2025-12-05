@@ -468,6 +468,22 @@ const IronMan2 = () =>
               $623.9 million. Since the film was included in a predetermined legacy distribution deal that was signed before The Walt Disney Company
               purchased Marvel, Paramount Pictures distributed the film and collected 8% of the box office, while the remaining portion went to Disney.
             </p>
+            <p>
+              Iron Man 2 earned $51 million on its opening day in the United States and Canada (including $7.5 million from Thursday previews),
+               for a total weekend gross of $128 million, which was the fifth-highest opening weekend ever, at the time, behind 
+               <Link>The Dark Knight</Link>, <Link to="/spiderman_films/spider_man_3">Spider-Man 3</Link>, The Twilight Saga: New Moon, and Pirates of the
+               Caribbean: Dead Man's Chest. It also had the highest opening for a 2010 movie and Paramount's highest opening weekend. The film yielded an 
+               average of $29,252 per theater. IMAX contributed $9.8 million, which was the highest opening weekend for a 2D IMAX film, surpassing Star
+               Trek's previous record of $8.5 million. Iron Man 2 is the third-highest-grossing film of 2010 in the United States and Canada, behind
+               <Link to="/toy_story/toy_story_3"> Toy Story 3</Link> and Alice in Wonderland.
+            </p>
+            <p>
+              Iron Man 2 launched in six European markets with number-one openings on Wednesday, April 28, 2010, for a total of $2.2 million. It earned
+              $100.2 million its first five days from 53 foreign markets, for a strong average of $14,814 per site. IMAX Corporation reported grosses of
+              $2.25 million, surpassing the previous record-holder for an IMAX 2D release, 2009's Transformers: Revenge of the Fallen ($2.1 million). It
+              was the seventh-highest-grossing film of 2010 internationally, behind Toy Story 3, Alice in Wonderland, 
+              <Link>Harry Potter and the Deathly Hallows – Part 1</Link>, Inception, <Link>Shrek Forever</Link> After, and The Twilight Saga: Eclipse.
+            </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
