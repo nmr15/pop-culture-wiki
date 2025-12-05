@@ -445,6 +445,12 @@ const IronMan2 = () =>
           <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <p>
+              Iron Man 2 premiered at the El Capitan Theatre in Hollywood, Los Angeles, on April 26, 2010, and was released in 6,764 theaters (48 IMAX)
+              across 54 countries between April 28 and May 7, before going into general release in the United States on May 7, 2010. In the United
+              States, it opened at 4,380 theaters, 181 of which were IMAX. The international release date of the film was moved forward to increase
+              interest ahead of the 2010 FIFA World Cup association football tournament. Iron Man 2 is part of Phase One of the MCU.
+            </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
