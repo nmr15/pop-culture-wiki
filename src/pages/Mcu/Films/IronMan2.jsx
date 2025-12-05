@@ -452,12 +452,22 @@ const IronMan2 = () =>
               interest ahead of the 2010 FIFA World Cup association football tournament. Iron Man 2 is part of Phase One of the MCU.
             </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              On September 28, 2010, the film was released by Paramount Home Entertainment on DVD and Blu-ray. The film was also collected in a 10-disc
+              box set titled "Marvel Cinematic Universe: Phase One – Avengers Assembled", which includes all of the Phase One films in the Marvel
+              Cinematic Universe. It was released by Walt Disney Studios Home Entertainment on April 2, 2013.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              Iron Man 2 earned $312.4 million in the United States and Canada, as well as $311.5 million in other territories, for a worldwide total of
+              $623.9 million. Since the film was included in a predetermined legacy distribution deal that was signed before The Walt Disney Company
+              purchased Marvel, Paramount Pictures distributed the film and collected 8% of the box office, while the remaining portion went to Disney.
+            </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
