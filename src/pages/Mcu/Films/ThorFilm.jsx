@@ -102,7 +102,13 @@ const ThorFilm = () =>
           <p>
             <b>Thor</b> is a 2011 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
             <Link to="/marvelcomics/thor">of the same name</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Paramount Pictures. It is
-            the fourth film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). It was directed by <Link>Kenneth Branagh</Link>
+            the fourth film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). It was directed by <Link>Kenneth Branagh</Link>, written by the
+            writing team of Ashley Edward Miller and Zack Stentz along with Don Payne, and stars <Link>Chris Hemsworth</Link> as the title character
+            alongside <Link>Natalie Portman</Link>, <Link>Tom Hiddleston</Link>, <Link>Stellan Skarsgård</Link>, <Link>Kat Dennings</Link>,
+            <Link> Clark Gregg</Link>, <Link>Colm Feore</Link>, <Link>Ray Stevenson</Link>, <Link>Idris Elba</Link>, <Link>Jaimie Alexander</Link>,
+            <Link> Rene Russo</Link>, and <Link>Anthony Hopkins</Link>. After reigniting a dormant war, Thor is banished from Asgard to Earth, stripped
+            of his powers and his hammer <Link>Mjölnir</Link>. As his brother <Link>Loki</Link> (Hiddleston) plots to take the Asgardian throne, Thor must
+            prove himself worthy.
           </p>
         </div>
         <div>
