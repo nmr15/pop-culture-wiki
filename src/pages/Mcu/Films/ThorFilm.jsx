@@ -128,7 +128,19 @@ const ThorFilm = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <p>
+              In 985 AD, <Link>Odin</Link>, king of <Link>Asgard</Link>, wages war against the <Link>Frost Giants</Link> of <Link>Jotunheim</Link> and
+              their leader <Link>Laufey</Link>, to prevent them from conquering the <Link>Nine Realms</Link>, starting with <Link>Earth</Link>. The
+              Asgardians defeat the Frost Giants and seize the source of their power, the <Link>Casket of Ancient Winters</Link>.
+            </p>
+            <p>
+              In the present, Odin's son Thor prepares to ascent to the throne of Asgard but is interrupted when Frost Giants, secretly allowed in by
+              his brother, <Link>Loki</Link>, attempt to retrieve the Casket. Against Odin's orders, Thor travels to Jotunheim to confront Laufey,
+              accompanies by Loki, childhood friend <Link>Sif</Link>, and the <Link>Warriors Three</Link>: <Link>Volstagg</Link>, <Link>Fandral</Link>,
+              and <Link>Hogun</Link>. A battle ensuses until Odin intervenes to save the Asgardians, destroying the fragile truce between the two races.
+              As punishment for Thor's arrogance, Odin deems his son unworthy and strips his powers before exiling him to Earth as a mortal, accompanied
+              by his hammer Mjölnir, now protected by an enchantment that allows only the worthy to wield it.
+            </p>
           </div>
         </div>
         <div>
