@@ -141,6 +141,24 @@ const ThorFilm = () =>
               As punishment for Thor's arrogance, Odin deems his son unworthy and strips his powers before exiling him to Earth as a mortal, accompanied
               by his hammer Mjölnir, now protected by an enchantment that allows only the worthy to wield it.
             </p>
+            <p>
+              Thor lands in <Link>New Mexico</Link>, where astrophysicist <Link>Dr. Jane Foster</Link>, her assistant <Link>Darcy Lewis</Link>, and
+              mentor <Link>Dr. Erik Selvig</Link> find him. The local population discover Mjölnir which <Link>S.H.I.E.L.D.</Link> agent
+              <Link to="/mcu/phil_coulson"> Phil Coulson</Link> soon commandeers before forcibly acquring Foster's data about the wormhole that delivered
+              Thor to Earth. Having learned about Mjölnir's nearby location, Thor seeks to retrieve it from the facility that S.H.I.E.L.D. has constructed
+              and tries to lift it, but is unable to do so and is captured. With Selvig's help, he is freed and resigns himself to exile on Earth as he
+              develops a romance with Foster.
+            </p>
+            <p>
+              Loki discovers that he is Laufey's biological son, adopted by Odin after the war ended. Loki confronts Odin, who wearily falls into the deep
+              "Odinsleep" to recover his strength. Loki takes the throne in Odin's stead and offers Laufey the chance to kill Odin and retrieve the
+              Casket. Sif and the Warriors Three, unhappy with Loki's rule, attempt to return Thor from exile, convincing <Link>Heimdall</Link>,
+              gatekeeper of the Bifröst, the means of traveling between worlds, to allow them passage to Earth. Aware and suspicious of their plan, Loki
+              sends the <Link>Destroyer</Link>, a seemingly indestructible automaton, to pursue them and kill Thor. The warriors find Thor, but the
+              Destroyer attacks and overpowers them, prompting Thor to offer himself instead. Struck by the Destroyer and near death, Thor proves
+              himself worthy to wield Mjölnir. The hammer returns to him, restoring his powers and enabling him to defeat the Destroyer. Thor and Jane
+              kiss each other goodbye before he leaves with his fellow Asgardians to confront Loki.
+            </p>
           </div>
         </div>
         <div>
