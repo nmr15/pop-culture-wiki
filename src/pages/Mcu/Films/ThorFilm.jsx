@@ -159,6 +159,18 @@ const ThorFilm = () =>
               himself worthy to wield Mjölnir. The hammer returns to him, restoring his powers and enabling him to defeat the Destroyer. Thor and Jane
               kiss each other goodbye before he leaves with his fellow Asgardians to confront Loki.
             </p>
+            <p>
+              In Asgard, Loki betrays and kills Laufey. Thor arrives, and Loki reveals his plan to destroy Jotunheim with the Bifröst Bridge. Thor fights
+              Loki before destorying the Bifröst Bridge to stop Loki's plan. Odin awakens and prevents the brothers from falling into the abyss created
+              in the wake of the bridge's destruction; when Odin rejects Loki's pleas for approval, Loki allows himself to fall into the abyss. Thor
+              makes amends with Odin, admitting he is not ready to be king and longs to see Jane. Meanwhile, on Earth, Foster and her team search for a
+              way to open a portal to Asgard.
+            </p>
+            <p>
+              In a post-credits scene, Selvig is taken to a S.H.I.E.L.D. facility, where <Link to="/mcu/nick_fury">Nick Fury</Link> opens a briefcase and
+              asks him to study a mysterious cube-shaped object, which Fury says may hold untold power. An invisible Loki, who survived his fall and
+              arrived on Earth, secretly prompts Selvig to agree.
+            </p>
           </div>
         </div>
         <div>
