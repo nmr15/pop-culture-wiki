@@ -199,6 +199,20 @@ const ThorFilm = () =>
                 ground. We talked about boxers, you know, Mike Tyson, very low to the ground and big open chest and big shoulser swings and very sort of
                 brutal but graceful at the same time, and then as we shot stuff things became easier." Dakota Goyo portrays a young Thor.
               </li>
+              <li>
+                <Link>Natalie Portman</Link> as <Link>Jane Foster</Link>: <br />
+                A scientist and Thor's love interest. Marvel Studios stated in an announcement that the character was updated from the comics' initial
+                portrayal for the feature adaptation. When asked why she took the role, Portman replied, "I just thought it sounded like a weird idea
+                because Kenneth Branagh's directing it, so I was just like, 'Kenneth Branagh doing Thor is super-weird, I've gotta do it.'" Portman
+                stated that she really wanted to do a big effects film that emphasized character, and getting to do it with Branagh was a new way of
+                approaching it, relative to <Link to="/starwars">Star Wars</Link>. Regarding her preparation for the role, Portman remarked, "I signed on
+                to do it before there was a script. And Ken, who's amazing, who is so incredible, was like, 'You can really help create this character'.
+                I got to read all of these biographies of female scientists like Rosalind Franklin who actually discovered the DNA double helix but didn't
+                get the credit for it. The struglles they had and the way that they thought, I was like, 'What a great opportunity, in a very big movie
+                that is going to be seen by a lot of people, to have a woman as a scientist'. She's a very serious scientist. Because in the comic she's
+                a nurse and now they made her an astrophysicist. Really, I know it sounds silly, but it is those little things that makes girls think it's
+                possible. It doesn't give them a [role] model of 'Oh, I just have to dress cute in movies'".
+              </li>
             </ul>
           </div>
         </div>
