@@ -485,6 +485,22 @@ const IronMan2 = () =>
               <Link>Harry Potter and the Deathly Hallows – Part 1</Link>, Inception, <Link>Shrek Forever</Link> After, and The Twilight Saga: Eclipse.
             </p>
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 72%, with an average score of 6.5/10, based on 305 reviews. The website's
+              critical consensus reads, "It isn't quite the breath of fresh air that Iron Man was, but this sequel comes close with solid performances and an
+              action-packed plot." Metacritic gave the film a weighted average rating of 57 out of 100, based on 40 critics, indicating "mixed or average"
+              reviews. Audiences polled by CinemaScore gave the film an average grade of "A" on a scale of A+ to F, the same score as its predecessor.
+            </p>
+            <p>
+              Brian Lowry of Variety stated, "Iron Man 2 isn't as much fun as its predecessor, but by the time the smoke clears, it'll do". Anthony Lane of The New
+              Yorker said, "To find a comic-book hero who doesn't agonize over his supergifts, and would defend his constitutional right to get a kick out of them,
+              is frankly a relief". David Edelstein of New York Magazine wrote, "It doesn't come close to the emotional heft of those two rare 2s that outclassed
+              their ones: Superman II and <Link to="/spiderman_films/spider_man_2">Spider-Man 2</Link>. But Iron Man 2 hums along quite nicely". Roger Ebert gave
+              it 3 stars out of 4, stating, "Iron Man 2 is a polished, high-octane sequel, not as good as the original but building once again on a quirky
+              performance by Robert Downey Jr". Frank Lovece of Film Journal International, a one-time Marvel Comics writer, said, "In a refreshing and unexpected
+              turn, the sequel to Iron Man doesn't find a changed man. Inside the metal, imperfect humanity grows even more so, as thought-provoking questions of
+              identity meet techno-fantasy made flesh."
+            </p>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
         </div>
