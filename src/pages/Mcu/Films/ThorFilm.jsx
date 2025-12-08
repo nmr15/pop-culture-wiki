@@ -176,7 +176,30 @@ const ThorFilm = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ChrisHemsworthApr2011.jpg/500px-ChrisHemsworthApr2011.jpg" 
+                alt="Chris Hemsworth April 2011"
+              />
+              <p>Hemsworth promoting the film in London in April 2011.</p>
+            </div>
+            <ul className="article-list">
+              <li>
+                <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />
+                The crown prince of Asgard, based on the Norse mythological deity of the same name. Director Kenneth Branagh and Marvel Studios chief
+                <Link> Kevin Feige</Link> chose Hemsworth after a back-and-forth process in which the 25-year-old actor was initially dropped from
+                consideration and then given a second chance to read for the part. Hemsworth stated that he gained 20 pounds (9 kg) for the role by
+                eating non-stop and revealed that "It wasn't until Thor that I started lifting wrights, it was all pretty new to me." After taking an
+                initial costume fitting, Hemsworth returned three weeks later to find it did not fit because of the mass he had cultivated in that time
+                span. At that point, he shifted away from eating a lot of calories and training to a kettlebell workout that would maintain his muscle
+                mass rather than continuing to add to it. Regarding his take on the character, Hemsworth said, "We just kept trying to humanize it all,
+                and keep it very real. Look into all the research about the comic books that we could, but also bring it back to "Who is this guy as a
+                person, and what's his relationship with people in the individual scenes?" About approaching Thor's fighting style, he remarked, "First,
+                we looked at the comic books and the posturing, the way [Thor] moves and fights, and a lot of his power seems to be drawn up through the
+                ground. We talked about boxers, you know, Mike Tyson, very low to the ground and big open chest and big shoulser swings and very sort of
+                brutal but graceful at the same time, and then as we shot stuff things became easier." Dakota Goyo portrays a young Thor.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
