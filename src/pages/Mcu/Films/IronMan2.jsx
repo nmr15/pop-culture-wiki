@@ -43,8 +43,7 @@ const IronMan2 = () =>
             item="Reception"
             sub={[
               {id: "7.1", title: "Box office"},
-              {id: "7.2", title: "Critical reception"},
-              {id: "7.3", title: "Accolades"}
+              {id: "7.2", title: "Critical reception"}
             ]}
           />
           <li className="sidebar-list-item"><a href="#8">Sequel</a></li>
@@ -501,13 +500,19 @@ const IronMan2 = () =>
               turn, the sequel to Iron Man doesn't find a changed man. Inside the metal, imperfect humanity grows even more so, as thought-provoking questions of
               identity meet techno-fantasy made flesh."
             </p>
-            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+            <p>
+              Conversely, Kirk Honeycutt of The Hollywood Reporter stated, "Everything fun and terrific about Iron Man, a mere two years ago, has vanished with its
+              sequel. In its place, Iron Man 2 has substituted noise, confusion, multiple villains, irrelevant stunts and misguided story lines."
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={8} title={"Sequel"} />
           <div>
-
+            After the release of Iron Man 2, Walt Disney Studios agreed to pay Paramount at least $115 million for the worldwide distribution rights to Iron Man 3
+            and The Avengers. Iron Man 3 was released on May 3, 2013. <Link>Shane Black</Link> directed the film, from a screenplay by Drew Pearce. Downey,
+            Paltrow, Cheadle, and Favreau reprised their roles, while <Link>Ben Kingsley</Link> played <Link>Trevor Slattery</Link>, <Link>Guy Pearce </Link>
+            played <Link>Aldrich Killian</Link>, and <Link>Rebecca Hall</Link> played <Link>Maya Hansen</Link>.
           </div>
         </div>
         <TableMcu />
