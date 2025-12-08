@@ -110,6 +110,20 @@ const ThorFilm = () =>
             of his powers and his hammer <Link>Mjölnir</Link>. As his brother <Link>Loki</Link> (Hiddleston) plots to take the Asgardian throne, Thor must
             prove himself worthy.
           </p>
+          <p>
+            <Link>Sam Raimi</Link> first developed the concept of a film adaptation based on Thor in 1991, but soon abandoned the project, leaving it in
+            "developmen hell" for several years. During this time, the rights were picked up by various film stdios until Marvel signed Mark Protosevich
+            to develop the project in 2006, and planned to finance and release it through Paramount. <Link>Matthew Vaughn</Link> was assigned to direct
+            the film for a tentative 2010 release. However, after Vaughnwas released from his holding deal in 2008, Branagh was approached and the film's
+            release was rescheduled to 2011. The main characters were cast in 2009, and princial photography took place in California and New Mexico
+            from January to May 2010. The film was converted to 3D in post-production.
+          </p>
+          <p>
+            Thor premiered in Sydney on April 17, 2011, and was released in the United States on May 6, as part of <Link>Phase One</Link> of the MCU. It
+            received generally positive reviews from critics and was a financial success, earning $449.3 million worldwide. Three sequels have been
+            released: <Link to="/mcu/thor_the_dark_world">Thor: The Dark World</Link> (2013), <Link to="/mcu/thor_ragnarok">Thor: Ragnarok</Link> (2017),
+            and <Link to="/mcu/thor_love_and_thunder"> Thor: Love and Thunder</Link> (2022).
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
