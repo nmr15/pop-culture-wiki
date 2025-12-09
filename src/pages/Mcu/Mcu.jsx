@@ -13,9 +13,9 @@ const mcutv = mcu.filter((mcu) => mcu.media == "series" || mcu.media == "special
 const Mcu = () => 
 {
   useEffect(() =>
-    {
-      document.title = "Marvel Cinematic Universe - Pop Culture Wiki";
-    }, []);
+  {
+    document.title = "Marvel Cinematic Universe - Pop Culture Wiki";
+  }, []);
 
   return (
     <>
