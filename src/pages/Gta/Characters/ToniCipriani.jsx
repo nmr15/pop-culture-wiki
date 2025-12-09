@@ -98,6 +98,18 @@ const ToniCipriani = () =>
             <Heading2 id={1} title={"History"} />
             <div>
               <h3 className="article-heading-3" id="1.1">Background</h3>
+              <p>
+                Toni is a member of the <Link>Leone Crime Family</Link> in <Link>Liberty City</Link>, who was forced to live abroad for four years
+                following his murder of a <Link>made man</Link> from a rival Mafia family under the orders of his boss, <Link>Salvatore Leone</Link>.
+                Upon his return in 1998, he resumes work for the family, helping it increase its influence and eliminate its rivals, primarily the
+                <Link> Sindacco</Link> and the <Link>Forelli Crime Families</Link>. As a result, the Leone Crime Family becomes the dominant Mafia
+                organization in the city, and Toni earns Salvatore's trust and respect, becoming a Capo within the family.
+              </p>
+              <p>
+                Two of Toni's defining attributes are his underlying loyalty to Salvatore and his complicated relationship with his mother,
+                <Link> Mrs. Cipriani</Link>. The latter is often heard berating Toni due to her discontent with him and what she perceives as his failure
+                to live up to his <Link>late father</Link>'s legacy, though at times she has also been shown to praise her son and be kind to him.
+              </p>
               <h3 className="article-heading-3" id="1.2">Events of Grand Theft Auto: Liberty City Stories</h3>
               <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
             </div>
