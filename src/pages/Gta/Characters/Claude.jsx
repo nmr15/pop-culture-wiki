@@ -83,8 +83,8 @@ const Claude = () =>
             <tr>
               <th className="infobox-data">Appears in</th>
               <td className="infobox-data">
-                <Link>Grand Theft Auto III</Link> <br />
-                <Link>Grand Theft Auto: San Andreas</Link> <br />
+                <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> <br />
+                <Link to="/gta/grand_theft_auto_san_andreas">Grand Theft Auto: San Andreas</Link> <br />
                 Grand Theft Auto Online (Parent character model)
               </td>
             </tr>
