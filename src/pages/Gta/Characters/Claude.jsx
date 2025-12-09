@@ -66,6 +66,37 @@ const Claude = () =>
         <div>
           <h1 className="article-heading">Claude</h1>
         </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2" className="infobox-heading">
+                <span>Claude</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://static.wikia.nocookie.net/gtawiki/images/3/34/Claude-GTA3.png/revision/latest?cb=20230412193939" alt="Claude GTA III" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appears in</th>
+              <td className="infobox-data">
+                <Link>Grand Theft Auto III</Link> <br />
+                <Link>Grand Theft Auto: San Andreas</Link> <br />
+                Grand Theft Auto Online (Parent character model)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data">
+                None (officially) <br />
+                Hunter Platin (grunts)
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </main>
     </>
   )
