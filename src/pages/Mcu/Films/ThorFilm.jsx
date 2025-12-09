@@ -242,6 +242,14 @@ const ThorFilm = () =>
                 I did the same thing over and over again I would be bored by now. I try to pick different films, I go and do those big ones and having
                 done that I can usually afford to go and do some really small obscure films and experment a little".
               </li>
+              <li>
+                <Link>Kat Dennings</Link> as <Link>Darcy Lewis</Link>: <br />
+                A political science major who is Jane Foster's intern. Dennings described her character as Foster's "little helper gnome". Dennings
+                stated that her role was expanded during the rehearsal process. Dennings explained, "She's kind of like a cute clueless, little puppy or
+                maybe a hamster. There wasn't much on the page for the Darcy role to begin with and I didn't even see a script before I took the job so I
+                didn't really know who Darcy was at first. But she really evolved, she's so much fun now even. She's very Scooby-Doo if that makes sense.
+                She's always three steps behind and reacting to what's happening with these great expressions ... She gets things wrong and doesn't care."
+              </li>
             </ul>
           </div>
         </div>
