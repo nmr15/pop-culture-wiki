@@ -250,6 +250,22 @@ const ThorFilm = () =>
                 didn't really know who Darcy was at first. But she really evolved, she's so much fun now even. She's very Scooby-Doo if that makes sense.
                 She's always three steps behind and reacting to what's happening with these great expressions ... She gets things wrong and doesn't care."
               </li>
+              <li>
+                <Link>Clark Gregg</Link> as <Link to="/mcu/phil_coulson">Phil Coulson</Link>: A S.H.I.E.L.D. agent. Gregg reprises his role from the Iron
+                Man films.
+              </li>
+              <li>
+                <Link>Colm Feore</Link> as <Link>Laufey</Link>: <br />
+                King of the Frost Giants and Loki's biological father, based on the mythological being of the same name, who in myth was actually Loki's
+                mother. Feore stated it took five hours for his makeup to be applied. About his character, Feore remarked "I am the King of the Frost
+                Giants. And if you've seen any of the Frost Giants, you know that I am, of course, the Napoleon of Frost Giants. We've got some
+                massive, fabulous guys who dward me and come in at around eight-and-a-half feet, nine feet. But, no. Can't you tell by the commanding
+                presence? I am the boss". He said the Shakespearean training he shared with Hopkins and director Branagh helped keep production moving
+                briskly, saying that "during the breaks, Tony, myself, and Ken would be talking in Shakespearaean shorthand about what the characters
+                were doing, what we thought they may be like, and how we could focus our attention more intelligently. These were discusssions that took
+                no more than a few minutes between takes, but they allowed Ken, Tony and [me] to understand each other instantly without Ken taking an
+                hour away to explain to the actors exactly what was going on. So that was enormously helpful."
+              </li>
             </ul>
           </div>
         </div>
