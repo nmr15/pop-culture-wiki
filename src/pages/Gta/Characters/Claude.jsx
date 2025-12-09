@@ -34,10 +34,38 @@ const Claude = () =>
               {id: "1.5", title: "After Grand Theft Auto III"}
             ]}
           />
+          <Collapse 
+            id="2"
+            item="Character"
+            sub={[
+              {id: "2.1", title: "Personality"},
+              {id: "2.2", title: "Appearance"},
+              {id: "2.3", title: "Characters murdered by Claude", sub2:[
+                {id: "2.3.1", title: "Optional murders"},
+                {id: "2.3.2", title: "Possible murders"}
+              ]}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Mission appearances"
+            sub={[
+              {id: "3.1", title: "Grand Theft Auto III"},
+              {id: "3.2", title: "Grand Theft Auto: San Andreas"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Trivia</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
-        <h1>Claude</h1>
+        <ul className="breadcrumb">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/gta">Grand Theft Auto (franchise)</Link></li>
+          <li>Claude</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Claude</h1>
+        </div>
       </main>
     </>
   )
