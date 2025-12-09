@@ -6,6 +6,11 @@ import TableGta from '../../../components/TableGta'
 
 const ToniCipriani = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Toni Cipriani - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -38,7 +43,7 @@ const ToniCipriani = () =>
               {id: "3.2", title: "Grand Theft Auto: Liberty City Stories"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#4">Trivia</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -60,7 +65,7 @@ const ToniCipriani = () =>
               <tr>
                 <td colspan="2">
                   <span>
-                    <img src="https://static.wikia.nocookie.net/gtawiki/images/7/7c/ToniCipriani-GTALCS.png/revision/latest?cb=20230308121254" alt="Toni Cipriani GTA Liberty City Stories" />
+                    <img src="https://static.wikia.nocookie.net/gtawiki/images/7/7c/ToniCipriani-GTALCS.png" alt="Toni Cipriani GTA Liberty City Stories" />
                   </span>
                 </td>
               </tr>
@@ -88,6 +93,30 @@ const ToniCipriani = () =>
             <p>
               He is voiced by the late Michael Madsen in GTA III and Danny Mastrogiorgo in GTA Liberty City Stories.
             </p>
+          </div>
+          <div>
+            <Heading2 id={1} title={"History"} />
+            <div>
+
+            </div>
+          </div>
+          <div>
+            <Heading2 id={2} title={"Character"} />
+            <div>
+
+            </div>
+          </div>
+          <div>
+            <Heading2 id={3} title={"Prominent appearances in gameplay"} />
+            <div>
+              
+            </div>
+          </div>
+          <div>
+            <Heading2 id={4} title={"Trivia"} />
+            <div>
+              
+            </div>
           </div>
       </main>
     </>
