@@ -233,6 +233,15 @@ const ThorFilm = () =>
                 emotional volatility. It's a different acting style, it's not quite the same thing, bu it's fascinating to go back and watch an actor as
                 great as O'Toole head for those great high hills". Ted Allpress portrays a young Loki.
               </li>
+              <li>
+                <Link>Stellan Skarsgård</Link> as <Link>Erik Selvig</Link>: <br />
+                A scientist doing research in New Mexico who encounters Thor. Skarsgård stated that he was not initially familiar with the comic book
+                version of Thor. As to why he took the part, Skarsgård remarked, I "chose Thor because of [director] Kenneth Branagh. The script was nice
+                and we got to rehearse and talk to the writers and do some collaborating in the process to make it fit us. So I had a very happy time on
+                it. What I always try to do is immediately do something I just haven't done so I get variation in my life. I've made about 90 films and if
+                I did the same thing over and over again I would be bored by now. I try to pick different films, I go and do those big ones and having
+                done that I can usually afford to go and do some really small obscure films and experment a little".
+              </li>
             </ul>
           </div>
         </div>
