@@ -36,7 +36,12 @@ export const routeGfS1 = gravityFallsS1.map(gfs1 => ({
 export const routesGta = gta.map(gta => ({
   path: gta.route,
   Component: lazy(() => import(`./pages/Gta/${gta.file}.jsx`))
-}))
+}));
+
+export const routesGtaChars = gtaCharacters.map(gtaChar => ({
+  path: gtaChar.route,
+  Component: lazy(() => import(`./pages/Gta/Characters/${gtaChar.file}.jsx`))
+}));
 
 export const routesMcu = mcu.map(mcu => ({
   path: mcu.route,
