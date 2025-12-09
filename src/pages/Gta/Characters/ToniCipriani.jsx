@@ -79,6 +79,15 @@ const ToniCipriani = () =>
             </tr>
           </tbody>
         </table>
+        <div className="div-top">
+          <p>
+            <b>Antonio "Toni" Cipriani</b> is a main character in <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> and the protagonist of
+            <Link to="/gta/grand_theft_auto_liberty_city_stories"> Grand Theft Auto: Liberty City Stories</Link>.
+          </p>
+          <p>
+            He is voiced by the late Michael Madsen in GTA III and Danny Mastrogiorgo in GTA Liberty City Stories.
+          </p>
+        </div>
     </main>
   </>
 }
