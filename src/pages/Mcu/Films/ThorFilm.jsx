@@ -176,14 +176,14 @@ const ThorFilm = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            <div className="img-right img-card">
-              <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ChrisHemsworthApr2011.jpg/500px-ChrisHemsworthApr2011.jpg" 
-                alt="Chris Hemsworth April 2011"
-              />
-              <p>Hemsworth promoting the film in London in April 2011.</p>
-            </div>
             <ul className="article-list">
+              <div className="img-right img-card">
+                <img 
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ChrisHemsworthApr2011.jpg/500px-ChrisHemsworthApr2011.jpg" 
+                  alt="Chris Hemsworth April 2011"
+                />
+                <p>Hemsworth promoting the film in London in April 2011.</p>
+              </div>
               <li>
                 <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />
                 The crown prince of Asgard, based on the Norse mythological deity of the same name. Director Kenneth Branagh and Marvel Studios chief
@@ -212,6 +212,26 @@ const ThorFilm = () =>
                 that is going to be seen by a lot of people, to have a woman as a scientist'. She's a very serious scientist. Because in the comic she's
                 a nurse and now they made her an astrophysicist. Really, I know it sounds silly, but it is those little things that makes girls think it's
                 possible. It doesn't give them a [role] model of 'Oh, I just have to dress cute in movies'".
+              </li>
+              <div className="img-right img-card">
+                <img 
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TomHiddlestonApr2011.jpg/500px-TomHiddlestonApr2011.jpg" 
+                  alt="Tom Hiddleston April 2011"
+                />
+                <p>Hiddleston promoting the film in London in April 2011.</p>
+              </div>
+              <li>
+                <Link>Tom Hiddleson</Link> as <Link>Loki</Link>: <br />
+                Thor's adoptive brother and nemesis, based on the deity of the same name. Hiddleston was chosen after previously working with Branagh on
+                Ivanov and Wallander. Initially, Hiddleston auditioned to play Thor but Branagh decided his talent would be better harnessed playing Loki.
+                Hiddleston stated that the character was "a comic book version of Edmund in King Lear, but nastier." Hiddleston had to keep a strict diet
+                before the start of filming because Branagh wanted "Logi to have a lean and hungry look, like Cassius in Julius Caesar. Physically, he
+                can't be posing as Thor". Hiddleston looked at Peter O'Toole as inspiration for Loki as well, explaining, "Interestingly enough, [Kenneth
+                Branagh] said to look at Peter O'Toole in two specific films. The Lion in Winter and Lawrence of Arabia. What's intresting about ... his
+                performance [as King Henry] is you see how damaged he is. There's a rawness [to his performance]; it's almost as if he's living with a
+                layer of skin peeled away. He's grandiose and teary and, in a moment, bu turns hilarious and then terrifying. What we wanted was that
+                emotional volatility. It's a different acting style, it's not quite the same thing, bu it's fascinating to go back and watch an actor as
+                great as O'Toole head for those great high hills". Ted Allpress portrays a young Loki.
               </li>
             </ul>
           </div>
