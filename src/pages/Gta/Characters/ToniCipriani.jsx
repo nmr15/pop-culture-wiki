@@ -97,19 +97,25 @@ const ToniCipriani = () =>
           <div>
             <Heading2 id={1} title={"History"} />
             <div>
-
+              <h3 className="article-heading-3" id="1.1">Background</h3>
+              <h3 className="article-heading-3" id="1.2">Events of Grand Theft Auto: Liberty City Stories</h3>
+              <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
             </div>
           </div>
           <div>
             <Heading2 id={2} title={"Character"} />
             <div>
-
+              <h3 className="article-heading-3" id="2.1">Personality</h3>
+              <h3 className="article-heading-3" id="2.2">Appearance</h3>
+              <h3 className="article-heading-3" id="2.3">Influence</h3>
+              <h3 className="article-heading-3" id="2.4">Murders commited by Toni Cipriani</h3>
             </div>
           </div>
           <div>
             <Heading2 id={3} title={"Prominent appearances in gameplay"} />
             <div>
-              
+              <h3 className="article-heading-3" id="3.1">Grand Theft Auto III</h3>
+              <h3 className="article-heading-3" id="3.2">Grand Theft Auto: Liberty City Stories</h3>
             </div>
           </div>
           <div>
