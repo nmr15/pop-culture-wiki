@@ -131,6 +131,23 @@ const ToniCipriani = () =>
               the Don, in order to secure a leadership position in the family. Toni and Vincenzo immediately dislike each other, which ends up in Toni
               <Link> killing Vincenzo</Link> after his <Link>earlier betrayal</Link>.
             </p>
+            <p>
+              Later on, Toni finds himself looking after Salvatore's wife <Link>Maria Latore</Link>, who develops unrequited feelings for Toni and has
+              him do her bidding. However, after learning Toni "has no money", she cuts ties with Toni, reminding him that she is
+              <Link>Salvatore's girl and not to hit on her</Link>. Much of Toni's efforts in achieving his goal of reclaiming his place in the Leone
+              hierarchy include battling two rival Mafia families, the Forellis and the Sindaccos via several means, allowing him to be "made" halfway
+              through the storyline after <Link>killing the Liberty City mayor</Link>, <Link>Roger C. Hole</Link>, on Salvatore's orders. This is enough
+              to impress his Ma, who calls off <Link>a hit she put on her son earlier</Link> and speaks kindly to him for the first time in the game,
+              though she would eventually return to berating Toni by the time of Grand Theft Auto III.
+            </p>
+            <p>
+              Following this, Toni works for media mogul and mayoral candidae <Link>Donald Love</Link> on Salvaore's behalf, protecting him from the
+              Forellis' attempts to sabotage his campaign. Despire Toni's efforts, however. Love <Link>loses the race due to his connections to
+              organized crime</Link>, and the Forellis' puppet <Link>Miles O'Donovan</Link>, is installed mayor. O'Donovan promptly has Salvatore
+              arresed on several crime charges, but Toni remains loyal to his boss and continues to accept jobs from him in prison, where he poses as
+              Salvatore's lawyer. One of these jobs involves <Link>killing</Link> the Don of the Sindacco Crime Family, <Link>Paulie Sindacco</Link>,
+              ending the war with the Sindaccos, who are severly weakened and forced to leave Liberty City for good.
+            </p>
             <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
           </div>
         </div>
