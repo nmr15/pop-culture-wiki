@@ -294,6 +294,25 @@ const ThorFilm = () =>
                 the guys" and that, "She's a very talented, skilled warrior and can stand on her own against any villain in the film". About her
                 relationship with Thor she stated, "She is very loyal to Thor and cares a lot about protecting him and protecting Asgard".
               </li>
+              <li>
+                <Link>Rene Russo</Link> as <Link>Frigga</Link>: <br />
+                The wife of Odin, queen of Asgard, mother of Thor, and adoptive mother of Loki, based on the mythological deity of the same name. Russo
+                stated in a March 2011 interview that she has signed on for possible sequels, although she stated that "who knows how many I'll do".
+              </li>
+              <li>
+                <Link>Anthony Hopkins</Link> as <Link>Odin</Link>: <br />
+                The ruler of Asgard, father of Thor, and adoptive father of Loki, based on the mythological deity of the same name. In an interview,
+                Hopkins stated he knew nothing of the comic. About the film he said, "It's a superhero movie, but with a bit of Shakespeare thrown in".
+                Hopkins stated, "I'm very interested in that relationship between father and sons", and that, "My father's relationship with me was cold.
+                He was a hot-blood character but to me, cold. When I was young, he expressed his disappointment because I was bad in school and all of
+                that. He didn't mean any harm, but I felt I could never meet up to his expecations." Hopkins expressed that he found a personal resonance 
+                in the Odin role, saying, "He's a stern man. He's a man with purpose. I play the god of who banished his son from the kingdom of Asgard
+                because he screwed up. He's a hot-headed, temperamemntal young man... probably a chip off of the old block but I decide he's not really
+                ready to rule the future kingdom, so I banish him. I'm harsh and my wife complains and I say, 'That is why I'm king.' He's ruthless,
+                take-it-or-lieave-it. Women are much more forgiving; men are not so forgiving. I know in my life, my karma is, 'If you don't like it,
+                tough, move on.' And I move on. I'm a little like Odin myself". In May 2016, Mel Gibson stated he was approached about the role but
+                "didn't do it".
+              </li>
             </ul>
           </div>
         </div>
