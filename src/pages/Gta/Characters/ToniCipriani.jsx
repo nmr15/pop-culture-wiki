@@ -48,101 +48,117 @@ const ToniCipriani = () =>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/gta">Grand Theft Auto (franchise)</Link></li>
-            <li>Toni Cipriani</li>
-          </ul>
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/gta">Grand Theft Auto (franchise)</Link></li>
+          <li>Toni Cipriani</li>
+        </ul>
+        <div>
+          <h1 className="article-heading">Toni Cipriani</h1>
+        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2" className="infobox-heading">
+                <span>Toni Cipriani</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://static.wikia.nocookie.net/gtawiki/images/7/7c/ToniCipriani-GTALCS.png" alt="Toni Cipriani GTA Liberty City Stories" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appears in</th>
+              <td className="infobox-data">
+                <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> <br />
+                <Link to="/gta/grand_theft_auto_liberty_city_stories">Grand Theft Auto: Liberty City Stories</Link>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data">
+                Michael Madsen (GTA III) <br />
+                Danny Mastrogiorgo (GTA Liberty City Stories)
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div className="div-top">
+          <p>
+            <b>Antonio "Toni" Cipriani</b> is a main character in <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> and the protagonist of
+            <Link to="/gta/grand_theft_auto_liberty_city_stories"> Grand Theft Auto: Liberty City Stories</Link>.
+          </p>
+          <p>
+            He is voiced by the late Michael Madsen in GTA III and Danny Mastrogiorgo in GTA Liberty City Stories.
+          </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"History"} />
           <div>
-            <h1 className="article-heading">Toni Cipriani</h1>
-          </div>
-          <table className="infobox">
-            <tbody>
-              <tr>
-                <th colspan="2" className="infobox-heading">
-                  <span>Toni Cipriani</span>
-                </th>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <span>
-                    <img src="https://static.wikia.nocookie.net/gtawiki/images/7/7c/ToniCipriani-GTALCS.png" alt="Toni Cipriani GTA Liberty City Stories" />
-                  </span>
-                </td>
-              </tr>
-              <tr>
-                <th className="infobox-data">Appears in</th>
-                <td className="infobox-data">
-                  <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> <br />
-                  <Link to="/gta/grand_theft_auto_liberty_city_stories">Grand Theft Auto: Liberty City Stories</Link>
-                </td>
-              </tr>
-              <tr>
-                <th className="infobox-data">Voiced by</th>
-                <td className="infobox-data">
-                  Michael Madsen (GTA III) <br />
-                  Danny Mastrogiorgo (GTA Liberty City Stories)
-                </td>
-              </tr>
-            </tbody>
-          </table>
-          <div className="div-top">
+            <h3 className="article-heading-3" id="1.1">Background</h3>
             <p>
-              <b>Antonio "Toni" Cipriani</b> is a main character in <Link to="/gta/grand_theft_auto_iii">Grand Theft Auto III</Link> and the protagonist of
-              <Link to="/gta/grand_theft_auto_liberty_city_stories"> Grand Theft Auto: Liberty City Stories</Link>.
+              Toni is a member of the <Link>Leone Crime Family</Link> in <Link>Liberty City</Link>, who was forced to live abroad for four years
+              following his murder of a <Link>made man</Link> from a rival Mafia family under the orders of his boss, <Link>Salvatore Leone</Link>.
+              Upon his return in 1998, he resumes work for the family, helping it increase its influence and eliminate its rivals, primarily the
+              <Link> Sindacco</Link> and the <Link>Forelli Crime Families</Link>. As a result, the Leone Crime Family becomes the dominant Mafia
+              organization in the city, and Toni earns Salvatore's trust and respect, becoming a Capo within the family.
             </p>
             <p>
-              He is voiced by the late Michael Madsen in GTA III and Danny Mastrogiorgo in GTA Liberty City Stories.
+              Two of Toni's defining attributes are his underlying loyalty to Salvatore and his complicated relationship with his mother,
+              <Link> Mrs. Cipriani</Link>. The latter is often heard berating Toni due to her discontent with him and what she perceives as his failure
+              to live up to his <Link>late father</Link>'s legacy, though at times she has also been shown to praise her son and be kind to him.
             </p>
+            <p>
+              Toni Cipriani was born to Mrs. Cipriani and an unnamed father, who was a member of one of the city's mafia families. He lived with his Ma
+              in their <Link>restaurant</Link> in <Link>Saint Mark's</Link>. At some point, Toni's father died, and since that day (or possibly even
+              earlier) his Ma has been putting a lot of pressure on Toni, berating him and arguing with him over the smallest things, because she
+              believes he would never live up to his father's legacy. Tonu later became involved in Liberty City's criminal underworld, joining the
+              Leone Crime Family to follow in his late father's footsteps and prove his Ma wrong.
+            </p>
+            <h3 className="article-heading-3" id="1.2">Events of Grand Theft Auto: Liberty City Stories</h3>
+            <p>
+              In Grand Theft Auto: Liberty City Stories, Toni Cipriani assumes the role of the playable character and main protagonist of the game. The
+              game explores Toni's history and exploits three years prior to the events in Grand Theft Auto III.
+            </p>
+            <p>
+              Toni left Liberty City and decided to lay low abroad after killing a rival made man (presumeably a member of the Forelli or Sindacco family)
+              under orders from Salvatore Leone. He finally returns to the city years later, in 1998, ready to continue his life of organized crime. A
+              grateful Salvatore Leone gives Toni jobs, but because he was out of town for so many years, other members of the Leone Crime Family have had
+              the time to move up in the hierarchy. Salvatore was forced to strip Toni out of his ranks and give the position to
+              <Link> Vincenzo Cilli</Link> during his leave of absence. Toni now finds himself a low-ranking goon that has to once again gain favor with
+              the Don, in order to secure a leadership position in the family. Toni and Vincenzo immediately dislike each other, which ends up in Toni
+              <Link> killing Vincenzo</Link> after his <Link>earlier betrayal</Link>.
+            </p>
+            <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
           </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Character"} />
           <div>
-            <Heading2 id={1} title={"History"} />
-            <div>
-              <h3 className="article-heading-3" id="1.1">Background</h3>
-              <p>
-                Toni is a member of the <Link>Leone Crime Family</Link> in <Link>Liberty City</Link>, who was forced to live abroad for four years
-                following his murder of a <Link>made man</Link> from a rival Mafia family under the orders of his boss, <Link>Salvatore Leone</Link>.
-                Upon his return in 1998, he resumes work for the family, helping it increase its influence and eliminate its rivals, primarily the
-                <Link> Sindacco</Link> and the <Link>Forelli Crime Families</Link>. As a result, the Leone Crime Family becomes the dominant Mafia
-                organization in the city, and Toni earns Salvatore's trust and respect, becoming a Capo within the family.
-              </p>
-              <p>
-                Two of Toni's defining attributes are his underlying loyalty to Salvatore and his complicated relationship with his mother,
-                <Link> Mrs. Cipriani</Link>. The latter is often heard berating Toni due to her discontent with him and what she perceives as his failure
-                to live up to his <Link>late father</Link>'s legacy, though at times she has also been shown to praise her son and be kind to him.
-              </p>
-              <p>
-                Toni Cipriani was born to Mrs. Cipriani and an unnamed father, who was a member of one of the city's mafia families. He lived with his Ma
-                in their <Link>restaurant</Link> in <Link>Saint Mark's</Link>. At some point, Toni's father died, and since that day (or possibly even
-                earlier) his Ma has been putting a lot of pressure on Toni, berating him and arguing with him over the smallest things, because she
-                believes he would never live up to his father's legacy. Tonu later became involved in Liberty City's criminal underworld, joining the
-                Leone Crime Family to follow in his late father's footsteps and prove his Ma wrong.
-              </p>
-              <h3 className="article-heading-3" id="1.2">Events of Grand Theft Auto: Liberty City Stories</h3>
-              <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
-            </div>
+            <h3 className="article-heading-3" id="2.1">Personality</h3>
+            <h3 className="article-heading-3" id="2.2">Appearance</h3>
+            <h3 className="article-heading-3" id="2.3">Influence</h3>
+            <h3 className="article-heading-3" id="2.4">Murders commited by Toni Cipriani</h3>
           </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Prominent appearances in gameplay"} />
           <div>
-            <Heading2 id={2} title={"Character"} />
-            <div>
-              <h3 className="article-heading-3" id="2.1">Personality</h3>
-              <h3 className="article-heading-3" id="2.2">Appearance</h3>
-              <h3 className="article-heading-3" id="2.3">Influence</h3>
-              <h3 className="article-heading-3" id="2.4">Murders commited by Toni Cipriani</h3>
-            </div>
+            <h3 className="article-heading-3" id="3.1">Grand Theft Auto III</h3>
+            <h3 className="article-heading-3" id="3.2">Grand Theft Auto: Liberty City Stories</h3>
           </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Trivia"} />
           <div>
-            <Heading2 id={3} title={"Prominent appearances in gameplay"} />
-            <div>
-              <h3 className="article-heading-3" id="3.1">Grand Theft Auto III</h3>
-              <h3 className="article-heading-3" id="3.2">Grand Theft Auto: Liberty City Stories</h3>
-            </div>
+            
           </div>
-          <div>
-            <Heading2 id={4} title={"Trivia"} />
-            <div>
-              
-            </div>
-          </div>
+        </div>
+        <div>
+          <TableGta />
+        </div>
       </main>
     </>
   )
