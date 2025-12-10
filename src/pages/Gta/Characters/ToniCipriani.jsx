@@ -148,6 +148,27 @@ const ToniCipriani = () =>
               Salvatore's lawyer. One of these jobs involves <Link>killing</Link> the Don of the Sindacco Crime Family, <Link>Paulie Sindacco</Link>,
               ending the war with the Sindaccos, who are severly weakened and forced to leave Liberty City for good.
             </p>
+            <p>
+              Not long after, Donald Love, who went bankrupt after his ties to the Leone Crime Family were discovered, comes up with a plan to regain his
+              fortune and hires Toni to help him act on it. The two <Link>murder</Link> real estate businessman and Love's former mentor,
+              <Link>Avery Carrington</Link>, and steal his re-development plans for <Link>Fort Staunton</Link>, Toni <Link>subsequently destroys
+              Fort Staunton</Link> with explosives supplied by <Link>8-Ball</Link>, allowing Love's company to receive city funding to rebuild it, and
+              also dealing a major blow to the Forelli Crime Family in the process, as the neighborhood was controlled by them. Later, when Donald finds
+              himself targeted by the <Link>Colombian Cartel</Link>, he <Link>enlists Toni's help</Link> to flee the city with the corpses of Avery
+              Carrington and <Link>Ned Burner</Link>. During this time, Toni also finds himself taking jobs from <Link>Toshiko Kasen</Link>, the
+              neglected wife of <Link>Yakuza</Link> leader <Link>Kazuki</Link>, who wants to sabotage the Yakuza's operations to punish her husband,
+              culminating in Toni <Link>killing Kazuki in a duel</Link> and a guilt-ridden Toshiko committing suicide not long after.
+            </p>
+            <p>
+              Salvatore is eventually released from jail, after being <Link>escorted to the courthouse by Toni</Link>, due to the <Link>Sicilian
+              Mafia</Link> wanting Salvatore dead. Following his release, Salvatore realizes that the Sicilian Mafia is to blame for most of his recent
+              problems, and enlists Toni's help to rescue Mayor O'Donovan, who was kidnapped by Sicilian underboss <Link>Massimo Torini</Link> to prevent
+              him from dropping the charges against Salvatore. Toni and Salvatore <Link>kill Torini and rescue the Mayor</Link> from <Link>Portland
+              Rock</Link>, whereupon Salvatore tells O'Donovan that he is now in the Leone Crime Family's debt and to ensure its protection. Afterwards,
+              Salvatore reveals that Torini was working for <Link>his uncle</Link>, who wanted to weaken his nephew's control over Liberty City as revenge
+              for not paying him tribute. After meeting with Uncle Leone to secure peace between the Leone Crime Family and the Sicilian Mafia, Toni has
+              finally earned Salvatore's trust and respect.
+            </p>
             <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
           </div>
         </div>
