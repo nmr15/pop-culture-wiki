@@ -396,6 +396,18 @@ const ThorFilm = () =>
               hoped to begin filming in January 2010. In June 2009, Feige confirmed that both Hemsworth and Hiddleston had signed on. Feige mentioned that
               the film would take place on both modern day Earth and Asgard but Thor's human host, Dr. Donald Blake, would not be included.
             </p>
+            <p>
+              In July 2009, Marvel announced that Natalie Portman would portray Jane Foster. Branagh was drawn to the intelligence Portman brought to the
+              role, while Stenz felt that "pretty much every notable Hollywood actress between the ages of twenty-five and thirty" were seen for the part.
+              Jaimie Alexander and Colm Feore were reported to have joined the cast in September, with Alexander portraying Sif and Feore's role
+              unrevealed, though it was thought to be a villain. In an interview with Swedish news site Ystads Allehanda, Stellan Skarsgård stated that
+              he had joined the cast, though he did not specify his role. By late October, Anthony Hopkins had been cast as Odin in the film. The
+              following month, Marvel announced that they had cast the Warriors Three: Fandral was to be played by Stuart Townsend, Hogun was to be
+              played by Tadanobu Asano, and Volstagg was to be played by Ray Stevenson. Idris Elba was announced to have joined the cast, portraying
+              Heimdall. Natalie Portman revealed that Kat Dennings would be involved in the project, portraying Darcy, a coworker of Portman's Jane
+              Foster. Feige was inspired by The Godfather (1972) since like Thor, that film is about "father and sons, and it's about the actions that a
+              father takes that his sons will have to answer for".
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
