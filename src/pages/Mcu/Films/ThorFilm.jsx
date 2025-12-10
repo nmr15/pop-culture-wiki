@@ -43,8 +43,7 @@ const ThorFilm = () =>
             item="Reception"
             sub={[
               {id: "7.1", title: "Box office"},
-              {id: "7.2", title: "Critical response"},
-              {id: "7.3", title: "Accolades"}
+              {id: "7.2", title: "Critical response"}
             ]}
           />
           <Collapse 
@@ -435,7 +434,30 @@ const ThorFilm = () =>
           <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <p>
+              Thor held its world premiere at the Event Cinemas theatre in George Street, Sydney on April 17, 2011, with the film opening on April 21,
+              2011, in Australia. The following weekend it opened in 56 markets, while the premiere at the El Capitan Theatre in Los Angeles, California
+              took place on May 2, 2011. Thor opened on May 6, 2011, in the United States, in 3,955 theaters (of which 214 were IMAX 3D and 2,737 in 3D,
+              a record amount). The film is part of <Link>Phase One</Link> of the MCU.
+            </p>
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              In July 2011, Marvel Studios and Paramount Pictures announced the release of Thor on Blu-ray 3D, Blu-ray Disc and DVD. The discs were
+              released by Paramount Home Media Distribution on September 13, 2011, in three editions: a single-disc DVD, a 2-disc Blu-ray-DVD combo pack,
+              and a 3-disc Blu-ray/DVD/3D combo pack. All sets come with deleted scenes and a "Road to The Avengers" featurette. The 2-disc and 3-disc
+              packs includes a digital copy, the first in a series of Marvel One-Shots, <Link>The Consultant</Link>, and 7 behind-the-scenes featurettes.
+            </p>
+            <p>
+              Branagh said that the DVD includes at least 20 minutes of deleted scenes. Branagh stated the footage contains "things like the Asgardian
+              parents, Odin and Frigga, played by the beautiful Rene Russo, there's some beautiful scenes in there that I think people will enjoy. And
+              certainly Thor and Loki interacting in different ways that just fill in a little bit of a back story, that was part of our rehearsal and
+              research." In its first week of release, Thor took the number one spot on Blu-ray/DVD sales chart and topped Home Media Magazine's rental
+              chart for the week.
+            </p>
+            <p>
+              The film was also collected in a 10-disc box set titled "Marvel Cinematic Universe: Phase One – Avengers Assembled" which includes all of
+              the Phase One films in the Marvel Cinematic Universe. It was released by Walt Disney Studios Home Entertainment on April 2, 2013.
+            </p>
           </div>
         </div>
         <div>
@@ -443,7 +465,6 @@ const ThorFilm = () =>
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
-            <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
         </div>
         <div>
