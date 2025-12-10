@@ -408,6 +408,13 @@ const ThorFilm = () =>
               Foster. Feige was inspired by The Godfather (1972) since like Thor, that film is about "father and sons, and it's about the actions that a
               father takes that his sons will have to answer for".
             </p>
+            <p>
+              In December 2009, Rene Russo was cast as Frigga, Thor's mother and Odin's wife. Later that month, actor Joseph Gatt, Troy Brenna, and Josh
+              Coxx had been cast in the film, thouh none of their roles were revealed. In January 2010, Adriana Barraza had joined the film's cast, in a
+              supporting capacity. Only days before filming began, Stuart Townsend was replaced by Joshua Dallas as Fanfral, citing "creative
+              differences". When Spider-Man 4's production stalled, Paramount and Marvel Entertainment pushed up the release of Thor by two weeks to
+              May 6, 2011.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
