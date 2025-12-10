@@ -314,6 +314,24 @@ const ThorFilm = () =>
                 "didn't do it".
               </li>
             </ul>
+            <p>
+              Additionally, Tadanobu Asano portrayed <Link>Hogun</Link>, a member of the Warriors Three primarily identified by his grim demeanor and as
+              the only member who is not an Æsir. Ray Stevenson said of Asano's character, "He doesn't speak much buy when he does, everybody shuts up.
+              But also in the healing room where everyone licks their wounds, he's the guy who just goes about his business". Josh Dallas portrays
+              <Link> Fandral</Link>, an impressible swashbuckler and romantic member of the Warriors Three. Stuart Townsend was initially cast after
+              Zachary Levi was forcd to vacate the role due to a scheduling conflict. However, days before filming began, Townsend was replaced by Dallas
+              citing "creative differences". Dallas said he believed that Fandral "would like to think of himself a philander. He would like to think of
+              himself, I was saying, as the R. Kelly of Asgard. He's a lover, not a fighter". Dallas mentioned that Errol Flynn was an inspiration for the
+              character stting, "He was a big inspiration for the character and for me. I watched a lot of his movies and kind of got that into my bones.
+              I tried to bring out that little bit of Flynn-ness in it. Flynn had a lot of that boyish charm that Fandral's got...."
+            </p>
+            <p>
+              Maximiliano Hernandez appears as S.H.I.E.L.D. agent <Link>Jasper Sitwell</Link>, Adriana Barraza plays diner owner Isabella Alvarez, and
+              Isaac Kappy plays a pet store clerk. Joseph Gatt, Josh Coxx, and Douglas Tait portray Frost Giants. <Link>Stan Lee</Link> and J. Michael
+              Straczynski have cameo appearances as pick-up truck drivers, Walter Simonson has a camero appearance as one of the guards at a large
+              Asgardian banquet, and <Link>Samuel L. Jackson</Link> and <Link>Jeremy Renner</Link> have uncredited cameos as Nick Fury and
+              <Link to="/mcu/clint_barton">Clint Barton / Hawkeye</Link>, respectively.
+            </p>
           </div>
         </div>
         <div>
