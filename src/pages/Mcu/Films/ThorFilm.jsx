@@ -266,6 +266,20 @@ const ThorFilm = () =>
                 no more than a few minutes between takes, but they allowed Ken, Tony and [me] to understand each other instantly without Ken taking an
                 hour away to explain to the actors exactly what was going on. So that was enormously helpful."
               </li>
+              <li>
+                <Link>Ray Stevenson</Link> as <Link>Volstagg</Link>: <br />
+                A member of the Warriors Three, a group of three Asgardians adventurers who are among Thor's closest comrades, known for both is heartly
+                appetite and wide girth. Stevenson previously worked with Kenneth Branagh in the 1998 film The Theory of Flight, and with Marvel Studios
+                as the titular character in Punisher: War Zone. Stevenson wore a fat suit for the role, stating "I've tried the suit on, and what they've
+                done is kind of sex him up: he's sort of slimmer but rounder." Stevenson said, "He's got every bit of that Falstaffian verve and vigor,
+                and a bit of a beer gut to suggest that enormous appetite, but he's not the sort of Weeble-shaped figure he is in the comics. He's
+                Falstaff with muscles. I've got this amazing foam-injected undersuit that flexes with me."
+              </li>
+              <li>
+                <Link>Idris Elba</Link> as <Link>Heimdall</Link>: <br />
+                The all-seeing, all-hearing Asgardian sentry of the bifröst bridge, based on the mythological deity of the same name. Elba said Branagh's
+                involvement was a major incentive to take the role: "[Branagh] called me up personally and said, 'I know this isn't a big role, but I"
+              </li>
             </ul>
           </div>
         </div>
