@@ -6,6 +6,11 @@ import TableMcu from '../../../components/TableMcu'
 
 const ThorFilm = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Thor (film) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -360,6 +365,37 @@ const ThorFilm = () =>
               <Link to="/mcu/iron_man_2"> Iron Man 2</Link> being used to intoduce the character of Thor.
             </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              Vaughn was released when his holding deal expire in May 2008, at which point Marvel set Protosevich to work on a new draft and began
+              searching for a new director. Marvel Studios also approached J. Michael Straczynski to work on an outline. Guillermo del Toro entered
+              talks to direct the film. Del Toro was a fan of Jack Kirby's work on the comics, and said that he loved the character of Loki, but wished
+              to incorporate more of the original Norse mythology into the film, including a "really dingy Valhalla, [with] Vikings and mud". However,
+              del Toro ultimately turned down Thor to direct The Hobbit. By September 200, D. J. Caruso had been discussing taking on the project,
+              though he did not read the script. Later that month, Kenneth Branagh entered into negotiations to direct, while Daniel Craig was offered
+              the leading role, but ultimately turned it down, citing his commitment to the James Bond franchise.
+            </p>
+            <p>
+              By December 2008, Branagh confirmed that he had been hired. He described it as "a human story right in the center of a big epic scenario".
+              In February 2009, Samuel L. Jackson, who had briefly portrayed Nick Fury at the end of the film Iron Man, signed on to reprise the role in
+              Thor as part of an unprecedented nine-picture deal with Marvel Studios. In the same month, a casting call went out looking for actors with
+              certain physical attributes to audition for the role of Thor. Casting director Sara Halley Finn said that casting Thor was "daunting" as
+              the film demanded a lead actor could play "both an Asgardian god and a relatable Earth figure". Marvel Studios set back the release date of
+              the film in March 2009 from its scheduled July 16, 2010 date to June 17, 2011. They later moved the release date to May 20, 2011, to
+              distance the film's release from that of <Link to="/mcu/captain_america_the_first_avenger">Captain America: The First Avenger</Link>,
+              another Marvel Studios film that was scheduled to be released on July 22, 2011. Marvel Studios then approached television writing team
+              Ashley Edward Miller and Zack Stentz to work on the script; they were chosen because Marvel was looking for to get the script done quickly,
+              understanding that television writers were usually able to get work done fast.
+            </p>
+            <p>
+              In May 2009, Christ Hemsworth was in negotiations to portray the titular role after a back-and-forth process in which the 25-year-old actor
+              was refused early on, then given a second chance to read for the part. Hemsworth's brother, Liam, also auditioned for the role but was
+              passed on by Marvel Studios head Kevin Feige. <Link>Josh Hartnett</Link>, Kevin McKidd, and Triple H were also considered for the role,
+              while Charlie Hunnam, Alexander Skarsgård, and Joel Kinnaman were tested. Alan Ritchson auditioned, but lost the part after he failed to
+              take the casting process seriously. <Link>Channing Tatum</Link> also auditioned. The next day, Marvel announced that Tom Hiddleston, who
+              had worked with Branagh before and had initially been considered to portray the lead role, had been cast as Loki. Branagh stated that he
+              hoped to begin filming in January 2010. In June 2009, Feige confirmed that both Hemsworth and Hiddleston had signed on. Feige mentioned that
+              the film would take place on both modern day Earth and Asgard but Thor's human host, Dr. Donald Blake, would not be included.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
