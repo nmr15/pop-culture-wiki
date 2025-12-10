@@ -338,6 +338,27 @@ const ThorFilm = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              Sam Raimi originally envisioned the idea of Thor after making Darkman (1990); he met Thor co-creator Stan Lee and pitched the concept to
+              20th Century Fox, but they did not understand it. Thor was abandoned until April 1997, when Marvel Studios was beginning to expand rapidly.
+              The film gained momentum after the success of <Link to="/xmen_films/x_men">X-Men</Link> (2000). The plan was for Thor to be made for
+              television. UPN was in talks for airing it; excited by the prospect, they pushed for a script and approached Tyler Mane to play Thor. In
+              May 2000, Marvel Studios brought Artisan Entertainment to help fiance it as a film, but by June 2004 the project still had yet to be
+              patronized by a studio. Sony Pictures Entertainment finally purchased the film rights, and in December 2004, David S. Goyer was in
+              negotiations to write and direct. By 2005, though there were talks between Goyer and Marvel, Goyer was no longer interested, though at this
+              point the film was still set to be distributed through Sony Pictres.
+            </p>
+            <p>
+              Mark Protosevich, a fan of the Thor comic book, agreed to write the script in April 2006, and the project moved to Paramount Pictures,
+              after it acquired the rights from Sony. That year the film was announced to be a Marvel Studios production. In December 2007, Protosvich
+              described his plans for it "to be like a superhero origin story, but not one about a human gaining superpowers, but of a god realizing his
+              true potential. It's the story of an Old Testament god who becomes a New Testament god". Protosevich's script saw Odin banishing Thor to
+              Earth in the Middle Ages, where he becomes enslaved by Norsemen before being resuced by Lady Sif and the Warriors Three. In August 2007,
+              Marvel Studios signed Matthew Vaughn to direct the film. Vaughn then rewrote Protosevich's script in order to bring down the budget to
+              $150 million, as Protosevich's first draft would have cost $300 million to produce. After the success of
+              <Link to="/mcu/iron_man_film"> Iron Man</Link>, Marvel Studios announed that they intended to release Thor on June 4, 2010, with
+              <Link to="/mcu/iron_man_2"> Iron Man 2</Link> being used to intoduce the character of Thor.
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
