@@ -170,6 +170,21 @@ const ToniCipriani = () =>
               finally earned Salvatore's trust and respect.
             </p>
             <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
+            <p>
+              By 2001, Toni has become one of the highest-ranking members of the Leone Crime Family. The <Link>police</Link> has attempted to connect
+              Toni and Salvatore throughout 2001; however, they fail to link them beyond his Ma's restaurant. Salvatore's son, <Link>Joey</Link>,
+              <Link> introduces</Link> the game's protagonist, <Link to="/gta/claude">Claude</Link>, to Toni, whereupon the latter hires Claude to perform
+              several attacks on the <Link>Triads</Link>, who the Leones are currently engaged in a war with. The jobs Claude perform for Toni include
+              <Link> collecting protection money</Link> from <Link>Mr. Wong's Laundromatte</Link>, <Link>killing three Triad warlords</Link>, and
+              <Link> destroying the Triad-owned fish factory</Link> in <Link>Callahan Point</Link>. Toni also <Link>introduces</Link> Claude to Salvatore
+              Leone.
+            </p>
+            <p>
+              In 2001, Toni is still living with his Ma and is frequently seen in his family-run restaurant, from where he provides Claude with jobs. The
+              constant insulting from his Ma about him not being able to be like his father and failing to meet up to her expectations had forced him to
+              call the local chat radio station, <Link>Chatterbox FM</Link>, and complain about his Ma's constant berating. His standing in the Leone
+              Crime Family following Salvatore Leone's <Link>assassination</Link> is unkown.
+            </p>
           </div>
         </div>
         <div>
