@@ -278,7 +278,21 @@ const ThorFilm = () =>
               <li>
                 <Link>Idris Elba</Link> as <Link>Heimdall</Link>: <br />
                 The all-seeing, all-hearing Asgardian sentry of the bifröst bridge, based on the mythological deity of the same name. Elba said Branagh's
-                involvement was a major incentive to take the role: "[Branagh] called me up personally and said, 'I know this isn't a big role, but I"
+                involvement was a major incentive to take the role: "[Branagh] called me up personally and said, 'I know this isn't a big role, but I
+                would really love to see you play it.' It's Kenneth Branagh. I was like, 'Definitely'". About the role, Elba remarked, "I did green screen
+                for the first time! I wouldn't like to do a whole movie of green screen, though. You kind of forget the plot a little, like being in a
+                Broadway play and doing it over and over and forgetting your line halfway through". Elba stated he has made a four-picture commitment with
+                Marvel Studios. Elba's casting prompted a proposed boycott by the Council of Conservative Citizens and a debate amongst comic book fans,
+                some insisting it was wrong for a black man to play a Nordic god. In response Elba called the debate "ridiculous".
+              </li>
+              <li>
+                <Link>Jaimie Alexander</Link> as <Link>Sif</Link>: <br />
+                A warrior and Thor's childhood friend, based on the mythological deity of the same name. Alexander was best known for her portrayal of
+                Jessi XX on the ABC Family series Kyle XY. Alexander said that she was familiar with Marvel Comics before having taken the part, having
+                grown up with four brothers. Alexander said the part required hours a day in the gym, though training is not unfamiliar to her,
+                explaining she was one of few girls on her Colleyville, Texas, high-school wrestling team. Alexander described her character as "one of
+                the guys" and that, "She's a very talented, skilled warrior and can stand on her own against any villain in the film". About her
+                relationship with Thor she stated, "She is very loyal to Thor and cares a lot about protecting him and protecting Asgard".
               </li>
             </ul>
           </div>
