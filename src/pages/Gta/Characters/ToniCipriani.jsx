@@ -110,6 +110,13 @@ const ToniCipriani = () =>
                 <Link> Mrs. Cipriani</Link>. The latter is often heard berating Toni due to her discontent with him and what she perceives as his failure
                 to live up to his <Link>late father</Link>'s legacy, though at times she has also been shown to praise her son and be kind to him.
               </p>
+              <p>
+                Toni Cipriani was born to Mrs. Cipriani and an unnamed father, who was a member of one of the city's mafia families. He lived with his Ma
+                in their <Link>restaurant</Link> in <Link>Saint Mark's</Link>. At some point, Toni's father died, and since that day (or possibly even
+                earlier) his Ma has been putting a lot of pressure on Toni, berating him and arguing with him over the smallest things, because she
+                believes he would never live up to his father's legacy. Tonu later became involved in Liberty City's criminal underworld, joining the
+                Leone Crime Family to follow in his late father's footsteps and prove his Ma wrong.
+              </p>
               <h3 className="article-heading-3" id="1.2">Events of Grand Theft Auto: Liberty City Stories</h3>
               <h3 className="article-heading-3" id="1.3">Events of Grand Theft Auto III</h3>
             </div>
