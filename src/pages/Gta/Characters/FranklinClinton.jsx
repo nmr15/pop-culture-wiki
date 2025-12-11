@@ -6,16 +6,23 @@ import TableGta from '../../../components/TableGta'
 
 const FranklinClinton = () =>
 {
-  <>
-    <aside className="sidebar">
-      <ul className="sidebar-list">
+  useEffect(() =>
+  {
+    document.title = "Franklin Clinton - Pop Culture Wiki";
+  }, []);
 
-      </ul>
-    </aside>
-    <main className="main" id="top">
-      <h1>Franklin Clinton</h1>
-    </main>
-  </>
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <h1>Franklin Clinton</h1>
+      </main>
+    </>
+  )
 }
 
 export default FranklinClinton;

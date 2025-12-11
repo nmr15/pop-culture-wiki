@@ -6,16 +6,23 @@ import TableGta from '../../../components/TableGta'
 
 const JohnnyKlebitz = () =>
 {
-  <>
-    <aside className="sidebar">
-      <ul className="sidebar-list">
+  useEffect(() =>
+  {
+    document.title = "Johnny Klebitz - Pop Culture Wiki";
+  }, []);
 
-      </ul>
-    </aside>
-    <main className="main" id="top">
-      <h1>Johnny Klebitz</h1>
-    </main>
-  </>
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <h1>Johnny Klebitz</h1>
+      </main>
+    </>
+  )
 }
 
 export default JohnnyKlebitz;
