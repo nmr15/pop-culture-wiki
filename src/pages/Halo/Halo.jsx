@@ -119,7 +119,11 @@ const Halo = () =>
         <div>
           <Heading2 id={2} title={"Game series"} />
           <div>
-            
+            <h3 className="article-heading-3" id="2.1">2001-2010: Bungie games</h3>
+            <h3 className="article-heading-3" id="2.2">2011-2021: 343 Industries games</h3>
+            <h3 className="article-heading-3" id="2.3">2024-present: Halo Studios games</h3>
+            <h3 className="article-heading-3" id="2.4">Spin-offs</h3>
+            <h3 className="article-heading-3" id="2.5">Defunct projects</h3>
           </div>
         </div>
         <div>
@@ -143,7 +147,14 @@ const Halo = () =>
         <div>
           <Heading2 id={6} title={"Other media"} />
           <div>
-            
+            <h3 className="article-heading-3" id="6.1">Books</h3>
+            <h3 className="article-heading-3" id="6.2">Comics</h3>
+            <h3 className="article-heading-3" id="6.3">Live-action</h3>
+            <h4 className="article-heading-4" id="6.3.1">Unproduced feature</h4>
+            <h4 className="article-heading-4" id="6.3.2">Halo 4: Forward Unto Dawn</h4>
+            <h4 className="article-heading-4" id="6.3.3">Halo: Nightfall</h4>
+            <h4 className="article-heading-4" id="6.3.4">Paramount+ television series </h4>
+            <h3 className="article-heading-3" id="6.4">Animation</h3>
           </div>
         </div>
         <div>
