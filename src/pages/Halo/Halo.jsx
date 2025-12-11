@@ -110,6 +110,48 @@ const Halo = () =>
             graphic novels, comic books, short films, animated films, feature films, fan-made short machinima animations and other licensed products.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Story"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Game series"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Cultural influences and themes"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Esports"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Other media"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Legacy"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
