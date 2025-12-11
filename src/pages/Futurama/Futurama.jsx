@@ -5,6 +5,11 @@ import Heading2 from '../../components/Heading2'
 
 const Futurama = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Futurama - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
