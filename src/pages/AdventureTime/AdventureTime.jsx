@@ -5,6 +5,11 @@ import Heading2 from '../../components/Heading2'
 
 const AdventureTime = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Adventure Time (franchise) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">

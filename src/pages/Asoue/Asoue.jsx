@@ -87,13 +87,6 @@ const Asoue = () =>
         <div>
           <h1 className="article-heading">A Series of Unfortunate Events</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg" 
-            alt="A Series of Unfortunate Events logo" 
-            className="article-heading-img"
-          />
-        </div>
         <table className="infobox">
           <tbody>
             <tr>
