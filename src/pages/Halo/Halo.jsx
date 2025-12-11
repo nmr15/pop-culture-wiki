@@ -113,7 +113,17 @@ const Halo = () =>
         <div>
           <Heading2 id={1} title={"Story"} />
           <div>
-
+            <p>
+              Millions of years ago, a powerful interstellar species known as the <Link>Precursors</Link> seeded the galaxy with life. One of their
+              created races, known as the <Link>Forerunners</Link>, attacked their former masters and drove the Precursors into near extinction. A few
+              Precursors turned into a dust, intending to regenerate themselves in the future. This dust became defective, infecting and contorting
+              organisms into a new parasitic species, connected by a hivemind: the <Link>Flood</Link>. Spacefaring ancient humanity, fighting the Flood,
+              also came into conflict with the Forerunners. After defeating humanity, the Forerunners reduced humanity's technology and species to a
+              primitive level, while they concentrated on the threat of the Flood. The Forerunners conceived the Halo Array, ring-shaped megastructures
+              and weapons of last resort that would destroy all sentient life in the galaxy to stop the Flood's spread. The array could be activated
+              from the <Link>Ark</Link>, a repository of sentient life outside the range of the Halos. Exhausting all other options, the Array was
+              activated, ending the Flood outbreak. The surviving Forerunners reseeded life and left the Milky Way galaxy.
+            </p>
           </div>
         </div>
         <div>
