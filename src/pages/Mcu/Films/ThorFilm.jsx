@@ -450,7 +450,12 @@ const ThorFilm = () =>
               By April, the prospect for filming parts of Thor in Del Mar, California had fallen through. Paramount Pictures sent a letter informing the
               city that it has instead chosen an undisclosed Northern California location to film a beachfront scene for the film. The letter cied cost
               concerns with moving production too far away from its headquarters. In April 2010, Jackson stated he would not be appearing in Thor,
-              despite the claims he would with his
+              despite the claims he would with his nine-picture deal; however, later in the month he said he would be filming a scene for Thor to serve
+              as "connective tissue" for The Avengers. During filming, Marvel Studios enlisted the help of the writers it had in its in-house writers
+              program, including Christopher Yost and Nicole Perlman, for uncredited on-set rewrites. Perlman worked on enhancing Jane Foster's role in
+              the film in addition to some material with Odin and Thor in the New Mexico town, while Yost, along with The Avengers writer and director
+              <Link> Joss Whedon</Link>, wrote material for Jeremy Renner's cameo as Clint Barton / Hawkeye, the character's first appearance in the MCU.
+              Renner's cameo was filmed in a parking lot behind a grocery store. Filming wrapped on May 6, 2010.
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
