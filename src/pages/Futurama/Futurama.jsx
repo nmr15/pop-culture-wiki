@@ -81,13 +81,34 @@ const Futurama = () =>
         <div>
           <h1 className="article-heading">Futurama</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/440px-Futurama_1999_logo.svg.png" 
-            alt="Futurama logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Futurama</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/440px-Futurama_1999_logo.svg.png" alt="Futurama logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Matt Groening</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episodes</th>
+              <td className="infobox-data"><Link>List of Futurama episodes</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Futurama character</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Futurama is an American animated science fiction sitcom created by <Link>Matt Groening</Link> for the Fox Broadcasting Company and later
@@ -102,6 +123,66 @@ const Futurama = () =>
             entered into an agreement with 20th Century Fox Television to syndicate the existing episodes and air the films as 16 new, half-hour episodes,
             constituting a fifth production season, or the sixth to be broadcast (in 2008 and 2009).
           </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Premise"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Characters</h3>
+            <h3 className="article-heading-3" id="1.2">Setting</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Episodes"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Writing</h3>
+            <h3 className="article-heading-3" id="3.3">Voice actors</h3>
+            <h3 className="article-heading-3" id="3.4">Animation</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Hallmarks"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Opening sequence</h3>
+            <h3 className="article-heading-3" id="4.2">Languages</h3>
+            <h3 className="article-heading-3" id="4.3">30th Century Fox</h3>
+            <h3 className="article-heading-3" id="4.4">Humor</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Cancellations, syndications, and revivals"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Fox cancellation</h3>
+            <h3 className="article-heading-3" id="5.2">Adult Swim reruns</h3>
+            <h3 className="article-heading-3" id="5.3">Comedy Central revival</h3>
+            <h3 className="article-heading-3" id="5.4">Comedy Central cancellation</h3>
+            <h3 className="article-heading-3" id="5.5">Simpsorama</h3>
+            <h3 className="article-heading-3" id="5.6">Syndication</h3>
+            <h3 className="article-heading-3" id="5.7">Hulu revival</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">Critical response</h3>
+            <h3 className="article-heading-3" id="6.2">Ratings</h3>
+            <h3 className="article-heading-3" id="6.3">Accolades</h3>
+            <h3 className="article-heading-3" id="6.4">Other honors</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Other media"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Comic books</h3>
+            <h3 className="article-heading-3" id="7.2">Films</h3>
+            <h3 className="article-heading-3" id="7.3">Video games</h3>
+          </div>
         </div>
       </main>
     </>
