@@ -130,6 +130,7 @@ const AdventureTime = () =>
           </p>
         </div>
         <div>
+          <Heading2 id={1} title={"Main characters"} />
           <h2 className="article-heading-2" id="1">Main characters</h2>
           <div>
             <p>
@@ -149,6 +150,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={2} title={"Television series"} />
           <h2 className="article-heading-2" id="2">Television series</h2>
           <div>
             <p>
@@ -202,6 +204,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={3} title={"References in other media"} />
           <h2 className="article-heading-2" id="3">References in other media</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Cameo in Futurama</h3>
@@ -222,6 +225,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={4} title={"Comic series"} />
           <h2 className="article-heading-2" id="4">Comic series</h2>
           <div>
             <p>
@@ -234,6 +238,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={5} title={"Video games"} />
           <h2 className="article-heading-2" id="5">Video games</h2>
           <div>
             <p>
@@ -280,6 +285,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={6} title={"Books"} />
           <h2 className="article-heading-2" id="6">Books</h2>
           <div>
             <div className="img-right">
@@ -304,6 +310,7 @@ const AdventureTime = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={7} title={"Merchandise"} />
           <h2 className="article-heading-2" id="7">Merchandise</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Home release</h3>
