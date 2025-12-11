@@ -94,7 +94,38 @@ const Asoue = () =>
             className="article-heading-img"
           />
         </div>
-        
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2" className="infobox-heading">
+                <span>A Series of Unfortunate Events</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg" alt="A Series of Unfortunate Events logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Author</th>
+              <td className="infobox-data"><Link>Lemony Snicket</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Illustrator</th>
+              <td className="infobox-data">Brett Helquist</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">HarperCollins</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Published</th>
+              <td className="infobox-data">September 30, 1999 – October 13, 2006</td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             A Series of Unfortunate Events is a series of thirteen children's novels written by American author <Link>Daniel Handler</Link> under the pen
@@ -116,12 +147,12 @@ const Asoue = () =>
             critical acclaim, and commercial success worldwide, spawning a <Link>film</Link>, a <Link>video game</Link>, assorted merchandise, and a
             <Link> television series</Link>. The main thirteen books in the series have collectively sold more than 60 million copies and have been
             translated into 41 languages. Several companion books and set in the same universe of the series have also been released, including
-            <Link>Lemony Snicket: The Unauthorized Autobiography</Link>, <Link>The Beatrice Letters</Link>, and the noir prequel tetralogy
-            <Link>All the Wrong Questions</Link>, which chronicled Snicket's childhood.
+            <Link> Lemony Snicket: The Unauthorized Autobiography</Link>, <Link>The Beatrice Letters</Link>, and the noir prequel tetralogy
+            <Link> All the Wrong Questions</Link>, which chronicled Snicket's childhood.
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Background</h2>
+          <Heading2 id={1} title={"Background"} />
           <div>
             <p>
               Prior to the publication of A Series of Unfortunate Events, Handler had never written for children. According to an interview with Handler,
@@ -136,6 +167,7 @@ const Asoue = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={2} title={"Series overview"} />
           <h2 className="article-heading-2" id="2">Series overview</h2>
           <div>
             <h3 className="article-heading-2" id="2.1">Plot</h3>
@@ -158,6 +190,7 @@ const Asoue = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={3} title={"Literary analysis and themes"} />
           <h2 className="article-heading-2" id="3">Literary analysis and themes</h2>
           <div>
             <h3 className="article-heading-3" id="3.1">Allusions</h3>
@@ -317,6 +350,7 @@ const Asoue = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={4} title={"Distribution"} />
           <h2 className="article-heading-2" id="4">Distribution</h2>
           <div>
             <h3 className="article-heading-3" id="4.1">Books</h3>
@@ -362,6 +396,7 @@ const Asoue = () =>
           </div>
         </div>
         <div>
+          <Heading2 id={5} title={"In other media"} />
           <h2 className="article-heading-2" id="5">In other media</h2>
           <div>
             <h3 className="article-heading-3" id="5.1">Television</h3>
@@ -459,7 +494,7 @@ const Asoue = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Reception</h2>
+          <Heading2 id={6} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Reviews</h3>
             <p>
