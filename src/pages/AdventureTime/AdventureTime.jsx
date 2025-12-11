@@ -75,16 +75,41 @@ const AdventureTime = () =>
         <div>
           <h1 className="article-heading">Adventure Time (franchise)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://1000logos.net/wp-content/uploads/2020/09/Adventure-Time-Logo-1280x800.png" 
-            alt="Adventure Time logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2" className="infobox-heading">
+                <span>Adventure Time</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://1000logos.net/wp-content/uploads/2020/09/Adventure-Time-Logo-1280x800.png" alt="Adventure Time logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>Pendleton Ward</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Owners</th>
+              <td className="infobox-data"><Link>Cartoon Network</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Animated series</th>
+              <td className="infobox-data">
+                <Link>Adventure Time</Link> (2010–2018) <br />
+                <Link>Adventure Time: Distant Lands</Link> (2020–2021) <br />
+                <Link>Adventure Time: Fionna and Cake</Link> (2023-present)
+              </td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
-            Adventure Time is an American animated fantasy franchise created by <Link>Pendleton Ward</Link>, set in the post-apocalyptic <Link>Land
+            <b>Adventure Time</b> is an American animated fantasy franchise created by <Link>Pendleton Ward</Link>, set in the post-apocalyptic <Link>Land
             of Ooo</Link>. The franchise originated from a 2007 short produced by <Link>Fred Seibert</Link>'s animation incubator series Random!
             Cartoons at Nickelodeon Animation and aired on Nicktoons Network. After the short became a viral hit on the Internet, Nickelodeon's executives
             passed on its option before <Link>Cartoon Network</Link> commissioned a full-length series from Seibert and Ward, which premiered on
