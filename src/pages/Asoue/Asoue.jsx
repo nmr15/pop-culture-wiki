@@ -1,11 +1,18 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableAsoue from '../../components/TableAsoue'
 import { asoue } from '../../data/dataAsoue'
 
 const Asoue = () =>
 {
+  useEffect(() =>
+    {
+      document.title = "A Series of Unfortunate Events - Pop Culture Wiki";
+    }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -87,6 +94,7 @@ const Asoue = () =>
             className="article-heading-img"
           />
         </div>
+        
         <div className="div-top">
           <p>
             A Series of Unfortunate Events is a series of thirteen children's novels written by American author <Link>Daniel Handler</Link> under the pen
