@@ -438,6 +438,20 @@ const ThorFilm = () =>
               its gradual slope of sand down to the waterline creates excellent reflective opportunities on film. On March 15, 2010, production of Thor
               moved to Gallsteo, New Mexico where Cerro Pelon Ranch, an old-fashioned Western film town was extensively modified for the shoot.
             </p>
+            <p>
+              Branagh, a fan of the comic book since childhood, commented on the challenge of bridging Asgard and the modern world: "Inspired by the
+              comic book world both pictorially and compositionally at once, we've tried to find a way to make a virtue and a celebration of the
+              distinction between the worlds that exist in the film but absoultely make them live in the same world. It's about finding the framing
+              style, the color palette, finding the texture and the amount of camera movement thta helps celebrate and express the differences and the
+              distinctions in those worlds. If it succeeds, it will mark this film as different... The combination of the primitive and the sophisticated,
+              the ancient and the modern, I think that potentially is the exciting fusion, the exciting tension in the film".
+            </p>
+            <p>
+              By April, the prospect for filming parts of Thor in Del Mar, California had fallen through. Paramount Pictures sent a letter informing the
+              city that it has instead chosen an undisclosed Northern California location to film a beachfront scene for the film. The letter cied cost
+              concerns with moving production too far away from its headquarters. In April 2010, Jackson stated he would not be appearing in Thor,
+              despite the claims he would with his
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
