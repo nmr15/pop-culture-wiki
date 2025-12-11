@@ -5,6 +5,11 @@ import Heading2 from '../../components/Heading2'
 
 const Halo = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Halo (franchise) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -51,13 +56,37 @@ const Halo = () =>
         <div>
           <h1 className="article-heading">Halo (franchise)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halo_%28series%29_logo.svg/580px-Halo_%28series%29_logo.svg.png" 
-            alt="Halo logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Halo</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halo_%28series%29_logo.svg/580px-Halo_%28series%29_logo.svg.png" alt="Halo logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data">
+                <Link>Bungie</Link> (2001–2010) <br />
+                <Link>Halo Studios</Link> (2011–present)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">Xbox Game Studios</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Games</th>
+              <td className="infobox-data"><Link>List of Halo games</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Halo is a military science fiction video game series and media franchise, originally developed by <Link>Bungie</Link> and currently managed
