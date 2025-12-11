@@ -6,16 +6,23 @@ import TableGta from '../../../components/TableGta'
 
 const MichaelDeSanta = () =>
 {
-  <>
-    <aside className="sidebar">
-      <ul className="sidebar-list">
+  useEffect(() =>
+  {
+    document.title = "Michael De Santa - Pop Culture Wiki";
+  }, []);
 
-      </ul>
-    </aside>
-    <main className="main" id="top">
-      <h1>Michael De Santa</h1>
-    </main>
-  </>
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <h1>Michael De Santa</h1>
+      </main>
+    </>
+  )
 }
 
 export default MichaelDeSanta;

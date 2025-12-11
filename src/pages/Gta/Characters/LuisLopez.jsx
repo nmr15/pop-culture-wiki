@@ -6,16 +6,23 @@ import TableGta from '../../../components/TableGta'
 
 const LuisLopez = () =>
 {
-  <>
-    <aside className="sidebar">
-      <ul className="sidebar-list">
+  useEffect(() =>
+  {
+    document.title = "Luis Lopez - Pop Culture Wiki";
+  }, []);
 
-      </ul>
-    </aside>
-    <main className="main" id="top">
-      <h1>Luis Lopez</h1>
-    </main>
-  </>
+  return(
+    <>
+      <aside className="sidebar">
+        <ul className="sidebar-list">
+
+        </ul>
+      </aside>
+      <main className="main" id="top">
+        <h1>Luis Lopez</h1>
+      </main>
+    </>
+  )
 }
 
 export default LuisLopez;
