@@ -421,6 +421,23 @@ const ThorFilm = () =>
               nurse to particle physicist, and the technology (Einstein-Rosen bridge) to describe the Bifröst Bridge.
             </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KennethBranaghApr2011.jpg/500px-KennethBranaghApr2011.jpg" 
+                alt="Kenneth Branagh April 2011" 
+              />
+              <p>Director Kenneth Branagh prmoting the film in London in April 2011.</p>
+            </div>
+            <p>
+              In October 2008, Marvel Studios signed a long-term lease agreement with Raleigh Studios to photograph their next four films, Iron Man 2,
+              Thor, Captain America: The First Avenger and <Link to="mcu/the_avengers_film">The Avengers</Link>, at Raleigh's Manhattan Beach, California
+              facility. Filming on Thor was scheduled to begin in Los Angeles mid-January 2010, then move to Santa Fe, New Mexico from Marchuntil late
+              April. Principal photography began on January 22, 2010. A few days after filming began, Clark Gregg signed on to reprise his role from
+              Iron Man and Iron Man 2 as Agent Coulson. In February, Paramount Pictures entered negotiations with Del Mar, California to use a 300-yard
+              stretch of beach to film a scene for Thor involving six horses running down the terrain. Paramount said this coastline was ideal because
+              its gradual slope of sand down to the waterline creates excellent reflective opportunities on film. On March 15, 2010, production of Thor
+              moved to Gallsteo, New Mexico where Cerro Pelon Ranch, an old-fashioned Western film town was extensively modified for the shoot.
+            </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
