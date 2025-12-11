@@ -414,6 +414,12 @@ const ThorFilm = () =>
               differences". When Spider-Man 4's production stalled, Paramount and Marvel Entertainment pushed up the release of Thor by two weeks to
               May 6, 2011.
             </p>
+            <p>
+              The Science & Entertainment Exchange introduced Marvel Entertainment, Kenneth Branagh, "the screenwriter, and a few people on the design
+              and production side of things" to three physicists (Sean Carroll, Kevin Hand, and Jim Hartle), as well as physics student Kevin Hickerson,
+              to provide a realistic science background for the Thor universe. The consultation resulted in a change in Jane Foster's profession, from
+              nurse to particle physicist, and the technology (Einstein-Rosen bridge) to describe the Bifröst Bridge.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
