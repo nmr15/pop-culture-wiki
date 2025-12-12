@@ -91,13 +91,46 @@ const StarWars = () =>
         <div>
           <h1 className="article-heading">Star Wars (franchise)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png" 
-            alt="Star Wars logo"
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Star Wars</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png" alt="Star Wars logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data"><Link>George Lucas</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Owner</th>
+              <td className="infobox-data">Lucasfilm</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films</th>
+              <td className="infobox-data"><Link>List of Star Wars films</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Series</th>
+              <td className="infobox-data"><Link>List of Star Wars series</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Character</th>
+              <td className="infobox-data"><Link>List of Star Wars character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Video games</th>
+              <td className="infobox-data"><Link>List of Star Wars video games</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             <b>Star Wars</b> is an American epic space opera media franchise created by <a href="#">George Lucas</a>,
@@ -127,13 +160,13 @@ const StarWars = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Premise</h2>
+          <Heading2 id={1} title={"Premise"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Films</h2>
+          <Heading2 id={2} title={"Films"} />
           <div>
             <h3 className="article-heading-3" id="2.1">The Skywalker Saga</h3>
             <h4 className="article-heading-4" id="2.1.1">Original trilogy</h4>
@@ -145,7 +178,7 @@ const StarWars = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Television</h2>
+          <Heading2 id={3} title={"Television"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Animated series</h3>
             <h3 className="article-heading-3" id="3.2">Live-action series</h3>
@@ -153,13 +186,13 @@ const StarWars = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Fictional universe</h2>
+          <Heading2 id={4} title={"Fictional universe"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Other media</h2>
+          <Heading2 id={5} title={"Other media"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Print media</h3>
             <h4 className="article-heading-4" id="5.1.1">Novels</h4>
@@ -178,13 +211,13 @@ const StarWars = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Themes</h2>
+          <Heading2 id={6} title={"Themes"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Historical influences</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Cultural impact</h2>
+          <Heading2 id={7} title={"Cultural impact"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Indistry</h3>
             <h4 className="article-heading-4" id="7.1.1">Fan workds</h4>
