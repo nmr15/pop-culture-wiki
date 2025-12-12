@@ -276,6 +276,18 @@ const Simpsons = () =>
               Horror</Link> episodes, which have themselves inspired an offshoot of merchandise; its use of cultural references; sight gags; and the use
               of catchphrases, such as Homer's annoyed grunt "D'oh!".
             </p>
+            <p>
+              The Simpsons has won dozens of awards since it debuted as a series, including 24 Primetime Emmy Awards, 26 Annie Awards, and a Peabody
+              Award. In a 1998 issue celebrating the 20th century's greatest achievements in arts and entertainment, Time magazine named The Simpsons the
+              century's best television series. On January 14, 2000, the Simpsons was awarded a star on the Hollywood Walk of Fame.
+            </p>
+            <p>
+              In September 1994, 20th Television began syndicating reruns of The Simpsons to local stations throughout the United States. As of 2003,
+              syndication reruns of The Simpsons have generated an estimated one billion dollars in revenue for Fox. In 2008, advertisers spent $314.8
+              million to advertise during the primetime show and subsequent reruns, down 16.8% from 2007. Since August 2014, every episode of the show
+              has aired on FXX. From 2014 until 2019, all episodes were available on-demand via the Simpsons World website. All of the episodes have since
+              been moved to <Link>Disney+</Link> streaming service since November 12, 2019.
+            </p>
             <h4 className="article-heading-4" id="2.2.1">Crossovers</h4>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
           </div>
