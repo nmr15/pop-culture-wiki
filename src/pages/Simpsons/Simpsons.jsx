@@ -312,6 +312,12 @@ const Simpsons = () =>
               the place of Cincinnati's Joe Burow).
             </p>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
+            <p>
+              Following the addition of The Simpsons to the Disney+ streaming service,co-creator and executive producer James L. Brooks suggested the
+              creation of a series of short films in which the Simpsons would "invade the rest of Disney+" as a way to promote The Simpsons and reach
+              viewers who may not have been familiar with the series. So far, nine shorts have been released, the most recent being The Most Wonderful
+              Time of the Year on October 11, 2024.
+            </p>
           </div>
         </div>
         <div>
@@ -319,6 +325,17 @@ const Simpsons = () =>
           <div>
             <h3 className="article-heading-3" id="3.1">Feature films</h3>
             <h4 className="article-heading-4" id="3.1.1">The Simpsons Movie</h4>
+            <p>
+              20h Century Fox, Gracie Films, and Film Roman produced an animated Simpsons film, titled The Simpsons Movie, that was released on July
+              27, 2007. The film was directed by long-time Simpsons producer David Silverman and written by a team of Simpsons writers comprising Matt
+              Groening, James L. Brooks, Al Jean, George Meyer, Mike Reiss, John Swartzwelder, Jon Vitti, David Mirkin, Mike Scully, Matt Selman, and
+              Ian Maxtone-Graham. Production of the film occurred alongside continued writing of the series despite long-time claims by those involved in
+              the show that a film would enter procution only after the series had concluded. There had been talk of a possible feature-length Simpsons
+              film ever since the early seasons of the series. James L. Brooks originally thought that the story of the episode "<Link>Kamp Krusty</Link>"
+              was suitable for a film, but he encountered difficulty in trying to expand the script to feature-length. For a long time, difficulties
+              such as lack of a suitable story and an already fully engaged crew of writers delayed the project. After winning a Fox and USA Today
+              competition, Springfield, Vermont hosted the film's world premiere.
+            </p>
             <h4 className="article-heading-4" id="3.1.2">Upcoming film</h4>
             <h3 className="article-heading-3" id="3.2">Theatrical short films</h3>
             <h4 className="article-heading-4" id="3.2.1">The Longest Daycare</h4>
