@@ -289,6 +289,18 @@ const Simpsons = () =>
               been moved to <Link>Disney+</Link> streaming service since November 12, 2019.
             </p>
             <h4 className="article-heading-4" id="2.2.1">Crossovers</h4>
+            <p>
+              Throughout its run, The Simpsons has featured characters from different series. The first such instance was in the <Link>season six</Link>
+              episode "<Link>A Star is Burns</Link>", which featured characters from The Critic; due to it being produced by staff who had worked on The
+              Simpsons, including former writer Al Jean, Mike Reiss, and producer James L. Brooks. Matt Groening publicly criticized the episode and
+              Brooks, going on to remove his name from the opening credits.
+            </p>
+            <p>
+              Further episodes with crossovers include <Link>season 8</Link> episode "<Link>The Springfield Files</Link>" with The X-Files, and
+              <Link> season 26</Link> episode "<Link>Simpsorama</Link>", which is a full-length crossover with <Link to="/futurama">Futurama</Link>,
+              another show created by Matt Groening. Also in season 26, the episode "<Link>Mathlete's Feat</Link>" featured a crossover couch gag with
+              Adult Swim series <Link to="/rick_and_morty">Rick and Morty</Link>.
+            </p>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
           </div>
         </div>
