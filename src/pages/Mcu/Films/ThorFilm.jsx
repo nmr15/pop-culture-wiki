@@ -483,7 +483,20 @@ const ThorFilm = () =>
               process initially made him cringe but said "We came to feel that in our case 3D could be very good friend of story and character for a
               different kind of experience". Although the film was shot in 2D, Feige stated that the "special effects for the film were conceived and
               executed from the beginning in 3D". The post-credits scene that sees Nick Fury approach Erik Selvig to ask him to study the
-              <Link>Tesseract</Link>, was directed by The Avenger's director, Joss Whedon.
+              <Link> Tesseract</Link>, was directed by The Avenger's director, Joss Whedon.
+            </p>
+            <p>
+              BUF Companie served as the lead visual effects vendor working on the film, with Digital Domain also providing work on the film, some of the
+              software used for the visual effects were Autodesk Softimage. Branagh stated that BUF, who developed the effects for the race through space,
+              were inspired by Hubble photography and other images of deep space. Branagh stated he sent paintings from classic studies by J.M.W. Turner
+              to Digital Domain when creating Jotunheim. Peter Butterworth, VFX supervisor and co-founder of Fuel VFX, said the most challenging task was
+              interpreting what the Bifröst would look like, "You can't Google what these things look like, they are totally imagined and within the
+              heads of the stakeholders. So to extract that and interpret it for the big screen was an interesting challenge creatively. Technically,
+              probably creating fluid simulations that could be art-directed and used for both the Bifröst and Odin's chamber shots. Part of the
+              difficulty with solving these is that we had to ensure they would work in stereo. In the film, Odin enters what is known as the
+              "Odinsleep" in his chamber to regenerate. Butterworth stated, "For Odin's Chamber, we developed a dome and curtain of light rays that hover
+              over Odin's bed. This dome of light suggests harnessed power and energy that revitalizes him as he sleeps. We took a lot of reference from
+              the natural world such as the corona of the sun and gave the sleep effect plenty of volume and space".
             </p>
           </div>
         </div>
