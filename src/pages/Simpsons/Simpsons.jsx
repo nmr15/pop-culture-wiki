@@ -301,6 +301,16 @@ const Simpsons = () =>
               another show created by Matt Groening. Also in season 26, the episode "<Link>Mathlete's Feat</Link>" featured a crossover couch gag with
               Adult Swim series <Link to="/rick_and_morty">Rick and Morty</Link>.
             </p>
+            <p>
+              Fellow Animation Domination series Family Guy would have a crossover with The Simpsons titled "The Simpsons Guy", which is part of Family
+              Guy season 13.
+            </p>
+            <p>
+              An alternate telecast of the Monday Night Football game between the Cincinnati Bengals and Dallas Cowboys on December 2024, centered around
+              The Simpsons, with Homer playing quarterback for the Cowboys against Bart and the Bengals. Airing on Disney+, play had been slighly delayed
+              from the primary broadcast on ABC and ESPN, allowing animators to replace players with characters from the show (Bart, for example, took
+              the place of Cincinnati's Joe Burow).
+            </p>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
           </div>
         </div>
