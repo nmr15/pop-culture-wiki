@@ -128,6 +128,15 @@ const Futurama = () =>
             entered into an agreement with 20th Century Fox Television to syndicate the existing episodes and air the films as 16 new, half-hour episodes,
             constituting a fifth production season, or the sixth to be broadcast (in 2008 and 2009).
           </p>
+          <p>
+            In June 2009, Comedy Central picked up the series for 26 new half-hour episodes, which aired in 2010 and 2011, constituting the sixth
+            production season, or the seventh (in 2010) and eighth (in 2011) to be broadcast. The show was renewed for a <Link>seventh
+            (production) season</Link>, with the first half airing in 2012, (as the ninth broadcast season) and the second half airing in 2013, as the
+            tenth broadcast season. An audio-only episode featuring the cast members was released in 2017 as an episode of The Nerdist Podcast. On
+            February 9, 2022, Hulu revived the series with a 20-episode order, which premiered on July 24, 2023. In November 2023, the series was
+            renewed by Hulu for two more broadcast seasons, which will air through 2026. The series returned to television on September 15, 2025, when
+            the tenth season premiered on FXX.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Premise"} />
