@@ -336,6 +336,14 @@ const Simpsons = () =>
               such as lack of a suitable story and an already fully engaged crew of writers delayed the project. After winning a Fox and USA Today
               competition, Springfield, Vermont hosted the film's world premiere.
             </p>
+            <p>
+              The Simpsons Movie grossed a combined total of $74 million in is opening weekend in the United States, taking it to the top of the box
+              office, and set the record for highest grossing opening weekend for a film based on a television series, surpassing Mission Impossible 2.
+              It opened at the top of the international box office, taking $96 million from seventy-one overseas territories, including $27.8 million in
+              the United Kingdom, making it Fox's second highest opening ever in that country. In Australia, it grossed A$13.2 million, the biggest
+              opening for an animated film and third largest opening weekend in the country. The film closed on December 20, 2007, with a worldwide
+              gross of $527,068,706, making it the eighth highest grossing film of 2007.
+            </p>
             <h4 className="article-heading-4" id="3.1.2">Upcoming film</h4>
             <h3 className="article-heading-3" id="3.2">Theatrical short films</h3>
             <h4 className="article-heading-4" id="3.2.1">The Longest Daycare</h4>
