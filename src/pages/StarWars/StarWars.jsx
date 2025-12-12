@@ -183,6 +183,10 @@ const StarWars = () =>
               through non-attachment and arbitration, and the <Link>Sith</Link>, who use the dark side by manipulating anger, fear, and aggression. While
               Jedi Knights can be numerous, the Dark Lords of the Sith (or 'Sith Lords') are intended to be limited to two: a master and their apprentice.
             </p>
+            <p>
+              The franchise is set against a backdrop of galactic conflict involving republics and empires, such as the evil <Link>Galactic Empire</Link>.
+              The Jedi and Sith prefer the use of a weapon called the <Link>lightsaber</Link>, a retractable blade of plasma 
+            </p>
           </div>
         </div>
         <div>
