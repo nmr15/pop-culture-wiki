@@ -265,6 +265,17 @@ const Simpsons = () =>
               Gaven. Karl Wiedergott has appeared in minor roles, but does not voice any recurring characters. Repeat "special guest" cast members
               include <Link>Albert Brooks</Link>, <Link>Phil Hartman</Link>, <Link>Jon Lovitz</Link>, Joe Mantegna, and <Link>Kelsey Grammer</Link>.
             </p>
+            <p>
+              The Simpsons was the Fox network's first TV series to rank among a season's top 30 highest-rated shows. While later seasons would focus on
+              Homer, Bart was the lead character in most of the first three seasons. In 1990, Bart quickly became one of the most popular characters on
+              television in what was termed "Bartmania". On February 9, 1997, The Simpsons surpassed The Flintstones with the episode
+              "<Link>The Itchy and Scratchy & Poochie Show</Link>" as the longest-running prime-time animated series in the United States. In 2004, The
+              Simpsons replaced The Adventures of Ozzie and Harriet (1952 to 1966) as the longest-running sitcom (animated or live action) in the United
+              States. In May 2007, The Simpsons reached their 400th episode at the end of the eighteenth season. Hallmarks of the show include the
+              <Link>opening sequence</Link>; its <Link>theme song</Link>, composed by <Link>Danny Elfman</Link> in 1989; <Link>Treehouse of
+              Horror</Link> episodes, which have themselves inspired an offshoot of merchandise; its use of cultural references; sight gags; and the use
+              of catchphrases, such as Homer's annoyed grunt "D'oh!".
+            </p>
             <h4 className="article-heading-4" id="2.2.1">Crossovers</h4>
             <h4 className="article-heading-4" id="2.2.2">Disney+ shorts</h4>
           </div>
