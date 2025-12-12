@@ -185,7 +185,14 @@ const StarWars = () =>
             </p>
             <p>
               The franchise is set against a backdrop of galactic conflict involving republics and empires, such as the evil <Link>Galactic Empire</Link>.
-              The Jedi and Sith prefer the use of a weapon called the <Link>lightsaber</Link>, a retractable blade of plasma 
+              The Jedi and Sith prefer the use of a weapon called the <Link>lightsaber</Link>, a retractable blade of plasma that can cut through
+              virtually any surface and deflect bolts. The rest of the population, as well as renegades and soldiers, use plasma-powered
+              <Link> blaster firearms</Link>. In the outer reaches of the galaxy, crime syndicates such as the <Link>Hutt</Link> cartel are dominant.
+              <Link> Bounty hunters</Link> are often by both gangsters and governments, while illicit activities include smuggling and slavery.
+            </p>
+            <p>
+              While the franchise is best-known as an archetypal space opera, the combination of science fiction and fantasy elements makes Star Wars
+              very universal, capable of telling stories of various genres.
             </p>
           </div>
         </div>
