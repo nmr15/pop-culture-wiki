@@ -631,8 +631,32 @@ const ThorFilm = () =>
           <Heading2 id={8} title={"Sequels"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Thor: The Dark World</h3>
+            <p>
+              A sequel, Thor: The Dark World, directed by Alan Taylor, was released on November 8, 2013. Hemsworth, Hiddleston, and Portman reprised their
+              roles, along with others from the first film. Zachary Levi replaced Dallas as Fandral, while <Link>Christopher Eccleston</Link> joined the
+              cast as the <Link>Dark Elf Malekith</Link>.
+            </p>
             <h3 className="article-heading-3" id="8.1">Thor: Ragnarok</h3>
+            <p>
+              Thor: Ragnarok was released on November 3, 2017, directed by <Link>Taika Waititi</Link>. Eric Pearson and Craig Kyle & Christopher Yost
+              wrote the screenplay, with Kevin Feige again producing. Hemsworth, Hiddleston, Hopkins, Elba, Asano, Levi, and Stevenson reprised their
+              roles as Thor, Odin, Heimdall, Hogun, Fandral, and Volstagg, respectively, while <Link>Mark Ruffalo</Link> and <Link>Benedict
+              Cumberbatch</Link> appeared as <Link to="/mcu/bruce_banner">Bruce Banner / Hulk</Link> and <Link to="/mcu/stephen_strange">Stephen
+              Strange</Link> respectively, reprising their roles from previous MCU films. <Link>Cate Blanchett</Link>, <Link>Tessa Thompson</Link>,
+              <Link> Jeff Goldblum</Link>, and <Link>Karl Urban</Link> joined the cast as <Link>Hela</Link>, <Link>Valkyrie</Link>,
+              <Link> Grandmaster</Link>, and <Link>Skurge</Link>, respectively.
+            </p>
             <h3 className="article-heading-3" id="8.1">Thor: Love and Thunder</h3>
+            <p>
+              A fourth film titled Thor: Love and Thunder was released on July 8, 2022. Hemsworth, Thompson, and Elba reprised their roles, while
+              Portman, Alexander, Dennings, and Skarsgård returned after not appearing in Ragnarok. Portman portrayed her character taking on the mantle
+              of Thor, similar to the comics. Additionally, <Link>Chris Pratt</Link>, <Link>Pom Kiementieff</Link>, <Link>Dave Bautista</Link>,
+              <Link> Karen Gillian</Link>, <Link>Vin Diesel</Link>, <Link>Bradley Cooper</Link>, and <Link>Sean Gunn</Link> reprise their roles as
+              <Link> Guardians of the Galaxy</Link> members <Link to="/mcu/peter_quill">Peter Quill / Star-Lord</Link>,
+              <Link to="/mcu/mantis">Mantis</Link>, <Link to="/mcu/drax">Drax the Destroyer</Link>, <Link to="/mcu/nebula">Nebula</Link>,
+              <Link to="/mcu/groot"> Groot</Link>, <Link to="/mcu/rocket">Rocket</Link>, and <Link>Kraglin Obfonteri</Link>. <Link>Christian Bale</Link>
+              joined the cast as the villain <Link>Gorr the God Butcherer</Link>.
+            </p>
           </div>
         </div>
         <div>
