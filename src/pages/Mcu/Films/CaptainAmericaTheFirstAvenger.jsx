@@ -6,6 +6,11 @@ import TableMcu from '../../../components/TableMcu'
 
 const CaptainAmericaTheFirstAvenger = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Captain America: The First Avenger - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">

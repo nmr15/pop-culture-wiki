@@ -25,7 +25,7 @@ const TheAvengersFilm = () =>
           />
           <li className="sidebar-list-item"><a href="#4">Music</a></li>
           <Collapse 
-            id="4"
+            id="5"
             item="Marketing"
             sub={[
               {id: "4.1", title: "Trailers"},
@@ -34,6 +34,28 @@ const TheAvengersFilm = () =>
               {id: "4.4", title: "Video game"}
             ]}
           />
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office", sub2: [
+                {id: "7.1.1", title: "United States and Canada"},
+                {id: "7.1.2", title: "Records"},
+                {id: "7.1.3", title: "Other territories"},
+              ]},
+              {id: "7.2", title: "Critical response"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Sequels</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
