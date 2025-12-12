@@ -503,7 +503,21 @@ const ThorFilm = () =>
         <div>
           <Heading2 id={4} title={"Music"} />
           <div>
-            
+            <p>
+              The film's score was written by composer Patrick Doyle, a frequent collaborator of Branagh. Doyle described Thor as "the most commercially
+              high profile film I have done since Frankenstein", adding that the composing process had the challenge of trying to find a tone that fit the
+              duality of Asgard and Earth. Thus Doyle and Branagh had frequent discussions on the musical direction, with the director suggesting a
+              contemporary feel and having a balance between the music and "grand images [that] were not in any way hyperbolized", and the composer in
+              turn implementing "a strong sense of melody, which he responds to in my work". As Doyle declared that his own Celtic background made him
+              familiar with Norse mythology, an old Celtic folk song also provided the inspiration for Thor's leitmotif. A soundtrack album was released
+              by Buena Vista Records in April 2011.
+            </p>
+            <p>
+              The film also features a song by the Foo Fighters, "Walk", in both a scene where a powerless Thor shares some boilermakers with Selvig in a
+              roadhouse, and the film's closing credits. Marvel president Kevin Feige stated that "Walk" was a last minute addition, that the crew felt
+              had "these eerie appropriate lyrics and themes" upon hearing it. Branagh in particular thought that "these lyrics about learning to walk
+              again" were appropriate "of [a] movie about redemption, learning to be a hero."
+            </p>
           </div>
         </div>
         <div>
