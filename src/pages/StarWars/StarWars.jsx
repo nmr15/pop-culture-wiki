@@ -162,7 +162,7 @@ const StarWars = () =>
         <div>
           <Heading2 id={1} title={"Premise"} />
           <div>
-
+            The Star Wars franchise depicts the adventures of characters "a long time ago in a <Link>galaxy</Link> far, far away" across
           </div>
         </div>
         <div>
