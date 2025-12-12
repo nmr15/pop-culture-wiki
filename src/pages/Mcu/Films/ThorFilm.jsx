@@ -458,6 +458,33 @@ const ThorFilm = () =>
               Renner's cameo was filmed in a parking lot behind a grocery store. Filming wrapped on May 6, 2010.
             </p>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/4/43/Bifrost_sequence_in_Thor_%28film%29.jpg" 
+                alt="Bifröst bridge" 
+              />
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/HubblePAO.jpg/500px-HubblePAO.jpg" 
+                alt="Hubble telescope" 
+              />
+              <p>The film's Bifröst travel sequences (top) were inspired by Hubble photography.</p>
+            </div>
+            <p>
+              In October 2010, casting calls revealed the film would be undergoing an undisclosed number of reshoots. In March 2011, scenes involving
+              Adriana Barraza were removed from the theatrical cut of the film during the editing process. Branagh sent a letter of apology explaining
+              the reason for the cut and desire to work with Barraza again in the future. In response Barraza stated, "It saddens me because the movie is
+              great and because I was acting alongside some tremendous actors that I admire very much, but I understand the nature of films, and it's not
+              the first or last time that scenes will be cut". Barraza appears in only one scene in the film's theatrical cut. In that same month,
+              Douglas Tait revealed that he performed for motion capture of the Frost Giants. On his hiring, Tait said "I am 6'5" and have a lean,
+              athletic build, and they hired guys who were 6,7" and taller, and weighed over 250 pounds (110 kg). When the film was being edited, they
+              wanted to make them even bigger and move faster. They auditioned people again and Kennth Branagh chose me to perform the motion capture
+              movements of the Frost Giants". In April 2011, the IMAX Corporation, Paramount Pictures and Marvel Entertainment announced that they have
+              finalized an agreement to release the film in IMAX 3D, continuing the partnership which began on Iron Man 2. Branagh stated that the 3D
+              process initially made him cringe but said "We came to feel that in our case 3D could be very good friend of story and character for a
+              different kind of experience". Although the film was shot in 2D, Feige stated that the "special effects for the film were conceived and
+              executed from the beginning in 3D". The post-credits scene that sees Nick Fury approach Erik Selvig to ask him to study the
+              <Link>Tesseract</Link>, was directed by The Avenger's director, Joss Whedon.
+            </p>
           </div>
         </div>
         <div>
