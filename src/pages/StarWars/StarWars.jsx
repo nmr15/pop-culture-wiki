@@ -163,6 +163,14 @@ const StarWars = () =>
           <Heading2 id={1} title={"Premise"} />
           <div>
             The Star Wars franchise depicts the adventures of characters "a long time ago in a <Link>galaxy</Link> far, far away" across
+            <Link> multiple fictional eras</Link>, in which humans and many species of <Link>aliens</Link> (often humanoid) co-exist with
+            <Link> droids</Link>, which may be programmed for personal assistance or battle. Space travel between planets is common due to lightspeed
+            hyperspace technology. The planets range from wealthy, planet-wide cities to deserts scracely populated by primitive tribes. Virtually any
+            Earth biome, along with many fictional ones, has its counterpart as a Star Wars planet which, in most cases, teem with sentient and
+            non-sentient alien life. The franchise also makes use of other astrological objects such as asteroid fields and nebulae. Spacecraft range
+            from small <Link>starfighters</Link> to large <Link>capital ships</Link>, such as <Link>Star Destroyers</Link>, as well as space stations
+            such as the moon-sized <Link>Death Stars</Link>. Telecommunication includes two-way audio and audiovisual screens, holographic projections,
+            and hyperspace transmission.
           </div>
         </div>
         <div>
