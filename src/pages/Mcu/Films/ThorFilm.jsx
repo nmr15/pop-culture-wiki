@@ -589,7 +589,42 @@ const ThorFilm = () =>
           <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              Thor grossed $181 million in the United States and Canada, and $268.3 million in other territories, for a worldwide total of $449.3
+              million. It was the 15th highest-grossing film of 2011.
+            </p>
+            <p>
+              Thor earned $25.5 million on its opening day in the United States and Canada, including $3.3 million from Thursday previews, for a total
+              weekend gross of $65.7 million. $6.2 million of the gross came from IMAX 3D, while 60% of the gross was from 3D screenings. It became the
+              tenth highest-grossing film of 2011 in the United States and Canada, and the highest-grossing comic-book film from May–August 2011.
+            </p>
+            <p>
+              Thor's opening in Australia generated $5.8 million and placing second behind Universal Pictures' Fast Five. The film's box office was just
+              1% more than Iron Man opening in Australia in 2008, Marvel's most popular release at the time. The following week, Thor opened in 56
+              markets and took in $89.2 million through the weekend. The film's highest grossing markets were the United Kingdom ($22.5 million),
+              Australia ($20.1 million) and Mexico ($19.5 million).
+            </p>
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 77%, with an average score of 6.7/10, based on 296 reviews. The
+              website's consensus reads, "A dazzling blockbuster that tempers its sweeping scope with wit, humor, and human drama, Thor is mighty Marvel
+              entertainment." Metacritic assigned a weighted average score of 57 out of 100, based on 40 critics, indicating "mixed or average" 
+              reviews. Audiences polled by CinemaScore gave the film an average grade of "B+" on an A+ to F scale.
+            </p>
+            <p>
+              Richard Kuipers of Variety stated, "Thor delivers the goods so long as butt is being kicked and family conflict is playing out in celestial 
+              dimensions, but is less thrilling during the Norse warrior god's rather brief banishment on Earth". Megan Lehmann of The Hollywood Reporter
+              wrote, "The hammer-hurling god of thunder kicks off this superhero summer with a bang". In the Chicago Sun-Times, Richard Roeper liked the
+              film "Thanks in large part to a charming, funny and winning performance from Australian actor Chris Hemsworth in the title role, Thor is
+              the most entertaining superhero debut since the original <Link to="/spiderman_films/spider_man">Spider-Man</Link>".
+            </p>
+            <p>
+              Roger Ebert of the Chicago Sun-Times gave it a negative review stating, "Thor is a failure as a movie, but a success as marketing, an
+              illustration of the ancient carnival tactic of telling the rubes anything to get them into the tent". A.O. Scott of The New York Times
+              disliked the film, calling it "an example of the programmed triumph of commercial calculation over imagination". Kenneth Turan of the Los
+              Angeles Times had mixed feelings, describing the film as "an aesthetic stand-off between predictable elements and unexpected ones". Turan
+              praised the performances of Hemsworth, Hopkins, and Elba, but found the special effects inconsistent and the Earth storyline derivative.
+            </p>
           </div>
         </div>
         <div>
