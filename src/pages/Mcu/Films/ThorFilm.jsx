@@ -523,7 +523,36 @@ const ThorFilm = () =>
         <div>
           <Heading2 id={5} title={"Marketing"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thor_Comic-Con_Panel.jpg/500px-Thor_Comic-Con_Panel.jpg" 
+                alt="Thor Comic-con panel"
+              />
+              <p>Hemsworth, Portman, Dennings, and Hiddleston at the 2010 San Diego Comic-Con.</p>
+            </div>
+            <p>
+              In July 2010, Marvel Studios held a Thor panel at the 2010 San Diego Comic-Con during which Kenneth Branagh, Christ Hemsworth, Natalie
+              Portman, Kat Dennings, Tom Hiddleston, and Clark Gregg discussed the film and showed some clips from it. A few days later, this footage
+              was leaked on the internet. The first television advertisment was broadcast during Super Bowl XLV on the Fox network in the United States.
+              The rate for advertising during the game was approximately $3 million per 30-second spot. Marvel Studios and Acura launched a joint viral
+              marketing promotion at the 2011 Chicago Comic & Entertainment Expo. Other official promotional partners included Burger King, Dr. Pepper,
+              7 Eleven, and Visa. In May 2011, Marvel Entertainment's President of Print Animation and Digital, Dan Buckley, and Marvel Comics
+              Editor-in-Chief, Axel Alonso, rang the NYSE closing bell in celebration of the theatrical release of Thor.
+            </p>
+            <p>
+              A post-credits scene in the film Iron Man 2 showed Coulson reporting the discovery of a large hammer in the desert. Rick Marshall of MTV
+              News believed it to be the weapon Mjölnir belonging to Thor, writing, "It continues the grand tradition of connecting the film to another
+              property in development around the Marvel movie universe." In the commentary track of Iron Man 2's home media, Iron Man 2's director,
+              <Link> Jon Favreau</Link>, stated that "this is a scene from [the set of] Thor".
+            </p>
+            <p>
+              Marvel Animation announced a 26-episode animated series in November 2008, to air in late 2010 before the release of Marvel Studios' film.
+              The company released an animated direct-to-video film, Thor: Tales of Asgard, to coincide with the live-action film.
+            </p>
+            <p>
+              A video game titled Thor: God of Thunder based on the film was developed by Sega using the voices and likenesses of actors Chris Hemsworth,
+              Tom Hiddleston, and Jaimie Alexander, and was released on May 3, 2011.
+            </p>
           </div>
         </div>
         <div>
