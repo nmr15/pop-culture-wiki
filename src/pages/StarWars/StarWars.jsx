@@ -162,15 +162,27 @@ const StarWars = () =>
         <div>
           <Heading2 id={1} title={"Premise"} />
           <div>
-            The Star Wars franchise depicts the adventures of characters "a long time ago in a <Link>galaxy</Link> far, far away" across
-            <Link> multiple fictional eras</Link>, in which humans and many species of <Link>aliens</Link> (often humanoid) co-exist with
-            <Link> droids</Link>, which may be programmed for personal assistance or battle. Space travel between planets is common due to lightspeed
-            hyperspace technology. The planets range from wealthy, planet-wide cities to deserts scracely populated by primitive tribes. Virtually any
-            Earth biome, along with many fictional ones, has its counterpart as a Star Wars planet which, in most cases, teem with sentient and
-            non-sentient alien life. The franchise also makes use of other astrological objects such as asteroid fields and nebulae. Spacecraft range
-            from small <Link>starfighters</Link> to large <Link>capital ships</Link>, such as <Link>Star Destroyers</Link>, as well as space stations
-            such as the moon-sized <Link>Death Stars</Link>. Telecommunication includes two-way audio and audiovisual screens, holographic projections,
-            and hyperspace transmission.
+            <p>
+              The Star Wars franchise depicts the adventures of characters "a long time ago in a <Link>galaxy</Link> far, far away" across
+              <Link> multiple fictional eras</Link>, in which humans and many species of <Link>aliens</Link> (often humanoid) co-exist with
+              <Link> droids</Link>, which may be programmed for personal assistance or battle. Space travel between planets is common due to lightspeed
+              hyperspace technology. The planets range from wealthy, planet-wide cities to deserts scracely populated by primitive tribes. Virtually any
+              Earth biome, along with many fictional ones, has its counterpart as a Star Wars planet which, in most cases, teem with sentient and
+              non-sentient alien life. The franchise also makes use of other astrological objects such as asteroid fields and nebulae. Spacecraft range
+              from small <Link>starfighters</Link> to large <Link>capital ships</Link>, such as <Link>Star Destroyers</Link>, as well as space stations
+              such as the moon-sized <Link>Death Stars</Link>. Telecommunication includes two-way audio and audiovisual screens, holographic projections,
+              and hyperspace transmission.
+            </p>
+            <p>
+              The universe of Star Wars is generally similar to the real universe but its laws of physics are less strict allowing for more imaginative
+              stories. One result of that is a mystical power known as <Link>the Force</Link> which is described in the original film as "an energy field
+              created by all living things ... [that] bins the galaxy together". The field is depicted as a kind of pantheistic god. Through training and
+              meditation, those whom "the Force is strong with" exhibit various superpowers (such as telekinesis, precognition, telepathy, and manipulation
+              of physical energy); it is believed nothing is impossible for the Force. These superpowers are wielded by two major knightly orders at
+              conflict with each other: the <Link>Jedi</Link>, peacekeepers of the <Link>Galactic Republic</Link> who act on the light side of the Force
+              through non-attachment and arbitration, and the <Link>Sith</Link>, who use the dark side by manipulating anger, fear, and aggression. While
+              Jedi Knights can be numerous, the Dark Lords of the Sith (or 'Sith Lords') are intended to be limited to two: a master and their apprentice.
+            </p>
           </div>
         </div>
         <div>
