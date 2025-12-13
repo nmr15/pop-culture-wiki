@@ -106,7 +106,27 @@ const CaptainAmericaTheFirstAvenger = () =>
           </tbody>
         </table>
         <div className="div-top">
-
+          <p>
+            <b>Captain America: The First Avenger</b> is a 2011 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/captain_america"> Captain America</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Paramount Pictures, it is the fifth film in the
+            <Link to="/mcu"> Marvel Cinematic Universe</Link> (MCU). The film was directed by <Link>Joe Johnston</Link>, written by Christopher Markus and Stephen McFeely, and stars <Link>Chris Evans</Link>
+            as Steve Rogers / Captain America alongside <Link>Tommy Lee Jones</Link>, <Link>Hugo Weaving</Link>, <Link>Hayley Atwell</Link>, <Link>Sebastian Stan</Link>, <Link>Dominic Cooper</Link>,
+            <Link> Toby Jones</Link>, <Link>Neal McDonough</Link>, <Link>Derek Luke</Link>, and <Link>Stanley Tucci</Link>. During World War II, Rogers, a frail man, is transformed into the super-soldier
+            Captain America and must stop the <Link>Red Skull</Link> from using the <Link>Tesseract</Link> as an energy source for world domination.
+          </p>
+          <p>
+            The film began as a concept in 1997 and was scheduled for distribution by Artisan Entertainment. However, a lawsuit disrupted the project and was not settled until September 2003. In 2005,
+            Marvel Studios received a loan from Merrill Lynch, and planned to finance and release the film through Paramount Pictures. Director Jon Favreau and Louis Leterrier were interested in
+            directing the project before Johnston was approached in 2008. The principal characters were cast between March and June 2010. Production began in June, and filming took place in London,
+            Manchester, Caerwent, Liverpool, and Los Angeles. Several different techniques were used by the visual effects company Lola to create the physical appearance of the character before he
+            becomes Captain America.
+          </p>
+          <p>
+            Captain America: The First Avenger premiered at the El Capitan Theatre in Los Angeles on July 19, 2011, and was released in the United States on July 22, as part of <Link>Phase One</Link>
+            of the MCU. The film was commercially successful, grossing over $340 million. worldwide, and received positive reviews from critics, who praised Evans' performance, the film's depiction of
+            the 1940s time period, and Johnston's direction. Two direct sequels have been released: <Link to="/mcu/captain_america_the_winter_soldier">Captain America: The Winter Soldier</Link> (2014)
+            and <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016).
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
