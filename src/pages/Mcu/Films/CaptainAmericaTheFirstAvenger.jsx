@@ -172,7 +172,27 @@ const CaptainAmericaTheFirstAvenger = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Captain_America-_The_First_Avenger_Comic-Con_Panel_2.jpg/500px-Captain_America-_The_First_Avenger_Comic-Con_Panel_2.jpg" 
+                alt="Captain_America-_The_First_Avenger_Comic-Con_Panel"
+              />
+              <p>Kevin Feige, Joe Johnston, Chris Evans, and Hugo Weaving at the 2010 San Diego Comic-Con.</p>
+            </div>
+            <ul className="article-list">
+              <li>
+                <Link>Chris Evans</Link> as <Link to="/marvelcomics/captain_america">Steve Rogers / Captain America </Link>: <br />
+                A frail young man who is enhanced to the peak of human ability by an experimental serum in order to aid the United States war effor. Evans, who previously worked with Marvel as the
+                <Link> Human Torch</Link> in the <Link>Fantastic Four film series</Link> (2005-2007), said he declined the part three times before signing a six-picture deal with Marvel, explaining
+                that, "At the time, I remember telling a buddy of mine, "If the movie bombs, I'm f---ed. If the movie hits, I'm f---ed, I was just scared. I realized my whole decision making
+                process was fear-based, and you never want to make a decision out of fear. I can't believe I was almost too chicken to play Captain America." Evans ultimately agreed to the role,
+                saying, "I think Marvel is doing a lot of good things right now, and it's a fun character. ... I think the story of Steve Rogers is great. He's a great guy. Even if it [were] just
+                a script about anybody. I would probably want to do it. So it wasn't necessarily about the comic itself." Regarding the extent of the character's abilities Evans remarked, "He would
+                crush the Olympics. Any Olympic sport he's gonna dominate. He can jump higher, run faster, lift stronger weight, but he can be injured. He could roll an ankle and be out for the
+                season. He's not perfect, he's not untouchable. So a lot of the effects, if I'm going to punch someone they're not going to put them on a cable and fly them back 50 feet, but he's
+                going to go down, probably not getting back up, which I think humanizes it."
+              </li>
+            </ul>
           </div>
         </div>
         <div>
