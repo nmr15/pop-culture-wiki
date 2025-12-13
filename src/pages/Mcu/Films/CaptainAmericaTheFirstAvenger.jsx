@@ -143,6 +143,30 @@ const CaptainAmericaTheFirstAvenger = () =>
               right person for the procedure until Rogers selflessly jumps on a grenade as part of a test. Erskine reveals to Rogers that he was a scientist under Schmidt, until the latter took a
               prototype version of the super-soldier formula that gave him superhuman strength but painfully changed his appearance.
             </p>
+            <p>
+              Schmidt and Dr. <Link>Arnim Zola</Link> harness the energies of the Tesseract to fuel Zola's inventions and Hydra's planned worldwide offensive. Schmidt discovers Erskine's location and
+              sends an assassin, <Link>Heinz Kruger</Link>, to kill him. Erskine and Stark put Rogers through the super-soldier treatment, injecting him with the formula and dosing him with
+              "vita-rays". After Rogers emerges from the experiment taller and more muscular, Kruger kills Erskine and flees with the last vial of the formula. Rogers pursues and captures Kruger, but
+              the assassin avoids interrogation by killing himself with a cyanide capsule. The vial is destroyed during the chase. With Erskine dead and his formula lost, U.S. Senator Brandt has
+              Rogers tour the nation as the mascot "Captain America" to promote war bonds while scientists study his blood and attempt to reverse-engineer the formula. In 1943, while on tour in
+              Italy performing for active servicemen, Rogers learns that Barnes's unit is MIA following a battle against Schmidt's forces. Rogers has Carter and Stark fly him behind enemy lines to
+              mount a rescue. Rogers infiltrates Schmidt's fortress, frees Barnes and the other prisoners, and confronts Schmidt. The latter escapes, but first he removes a mask to reveal his red,
+              skull-like visage that has earned him the sobriquet "Red Skull".
+            </p>
+            <p>
+              Rogers recruits Barnes and other freed prisoners to form the <Link>Howling Commandos</Link>. Stark outfits Rogers with an upgraded uniform and a circular shield made of a rare, nearly
+              indestructible metal called <Link>Vibranium</Link>. Rogers and his team sabotage various Hydra operations while he and Carter begin to fall in love. In 1945, the team assaults a train
+              carrying Zola. They capture him, but Barnes falls from the train to his apparent death. Using information extracted from Zola, the final Hydra stronghold is located, and Rogers leads
+              an attack to stop Schmidt from using weapons of mass destruction on major American cities. Rogers climbs aboard Schmidt's super-bomber as it takes off. During the subsequent fight,
+              the Tesseract is freed from its container, and Schmidt picks it up, operning a portal into space through which he is pulled. The Tesseract burns through the plane and falls into the
+              ocean. Seeing no way to land the plane without risking its weapons detonating. Rogers radios Carter to say goodbye before crashing in the Arctic. After the war ends, Stark recovers
+              the Tesseract from the ocean floor but is unable to locate the aircraft, and Rogers is presumed dead.
+            </p>
+            <p>
+              Rogers awakens in a 1940s-style hospital room. Hearing a radio broadcast of a baseball game that he attended in 1941, Rogers grows suspicious and escapes from the room. He finds
+              himself in contemporary Times Square, where <Link>S.H.I.E.L.D.</Link> director <Link>Nick Fury</Link> informs him that he has been asleep for almost 70 years. In a post-credits scene,
+              Fury approaches Rogers and proposes a mission with worldwide ramifications.
+            </p>
           </div>
         </div>
         <div>
