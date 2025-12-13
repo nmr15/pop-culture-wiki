@@ -131,7 +131,18 @@ const CaptainAmericaTheFirstAvenger = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <p>
+            In the present day, scientists in the Arctic uncover an old aircraft with someone frozen inside and a <Link>circular shield</Link>. In March 1942, during World War II, Nazi lieutenant
+            general and <Link>Hydra</Link> leader Johann Schmidt steals a mysterious relic called the Tesseract in German-occupied Norway.
+            </p>
+            <p>
+              In New York City, Steve Rogers is rejected for U.S. Army recruitment due to his small stature and poor health. While attending the Stark Expo, an event held by famous engineer
+              <Link> Howard Stark</Link>, Rogers attempts to enlist again. Overhearing Rogers tell his best friend, <Link to="/mcu/bucky_barnes">James "Bucky" Barnes</Link>, that he wants to fight for
+              his country, Dr. <Link>Abraham Erskine</Link> allows Roger to enlist. He is recruited into the <Link>Strategic Scientific Reserve</Link> as part of a "<Link>super-soldier</Link>"
+              experiment under Erskine, Stark, Colonel <Link>Chester Philips</Link>, and British MI6 agent <Link>Peggy Carter</Link>. Philip is not convinced by Erskine's claims that Rogers is the
+              right person for the procedure until Rogers selflessly jumps on a grenade as part of a test. Erskine reveals to Rogers that he was a scientist under Schmidt, until the latter took a
+              prototype version of the super-soldier formula that gave him superhuman strength but painfully changed his appearance.
+            </p>
           </div>
         </div>
         <div>
