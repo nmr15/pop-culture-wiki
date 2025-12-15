@@ -277,6 +277,42 @@ const TonyStarkMCU = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Biography"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Personality"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Powers and abilities"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Equipment"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Design"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Facilities"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
