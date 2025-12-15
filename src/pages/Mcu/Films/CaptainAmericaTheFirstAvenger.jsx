@@ -196,6 +196,16 @@ const CaptainAmericaTheFirstAvenger = () =>
               </li>
               <li>
                 <Link>Tommy Lee Jones</Link> as <Link>Chester Philips</Link>: <br />
+                A colonel in the United States Army and member of the Strategic Scientific Reserve who heads the project to create super soldiers. The character was updated from the comics, where
+                Philips was the one to recruit Rogers to join Project Rebirth that made him Captain America. Jones described the character as "the one you've seen in a thousand movies: the gruff,
+                skeptical officer overseeing a team of talented, slighlty sarcastic, speacially talented soldiers".
+              </li>
+              <li>
+                <Link>Hugo Weaving</Link> as <Link>Johann Schmidt / Red Skull</Link>: <br />
+                Adolf Hitler's head of advanced weaponry and commander of the terrorist organization Hydra whose own plan for world domination involves harnessing the power of the magical object known
+                as the Tesseract. Weaving stated that he patterned Red Skull's accent on those of Werner Herzog and Klaus Maria Brandauer. About the character, Weaving remarked,"I think the major
+                difference between Skull and Cap, they've both had the serum, and the serum seems to augment certain qualities that each of them have. Cap is much more in tune with other people I think.
+                Schmidt is in tune with himself, and his own needs, and his own ego, so I suppose it augments that. From that point of view, they're quite opposite."
               </li>
             </ul>
           </div>
