@@ -207,6 +207,19 @@ const CaptainAmericaTheFirstAvenger = () =>
                 difference between Skull and Cap, they've both had the serum, and the serum seems to augment certain qualities that each of them have. Cap is much more in tune with other people I think.
                 Schmidt is in tune with himself, and his own needs, and his own ego, so I suppose it augments that. From that point of view, they're quite opposite."
               </li>
+              <li>
+                <Link>Hayley Atwell</Link> as <Link>Margaret "Peggy" Carter</Link>: <br />
+                An officer with the Strategic Scientific Reserve who works with Philips on the super soldier project. Regarding her preparation for the role, she said, "I'm training at the moment six days
+                a week to make her a bit more military and make it convincing that I could kick butt." About the character, Atwell stated, "I likened her character to that famous Ginger Rogers quote. She
+                can do everything Captain America can do, but backwards and in high heels. She's an English soldier through and through, although she always looks fabulous. She might stand there with a
+                machine-gun shooting Nazis, but she's obviously gone to the loo beforehand and applied a bit of lipstick. She doesn't need to be rescued. That's exciting to me, her strength." She added,
+                "I think she's quite stubborn, a slightly frustrated woman who struggles with being a woman in that time. But more importantly she's a modern woman and she sees something in Captain America
+                that she relates to, and becomes kindred spirits. He treats her very differently to how she's been treated by lots of men, in this kind of dominated world she lives in. So she's very much a
+                fighter."
+              </li>
+              <li>
+                
+              </li>
             </ul>
           </div>
         </div>
