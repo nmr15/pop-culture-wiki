@@ -201,6 +201,34 @@ const TonyStarkMCU = () =>
               ]}
             ]}
           />
+          <li className="sidebar-list-item"><a href="#2">Personality</a></li>
+          <Collapse 
+            id="3"
+            item="Powers and abilities"
+            sub={[
+              {id: "3.1", title: "Powers"},
+              {id: "3.2", title: "Former powers"},
+              {id: "3.3", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Equipment"
+            sub={[
+              {id: "4.1", title: "Iron Man armors"},
+              {id: "4.2", title: "Weapons"},
+              {id: "4.3", title: "Other equipment"},
+              {id: "4.4", title: "Vehicles"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Design</a></li>
+          <Collapse 
+            id="6"
+            item="Facilities"
+            sub={[
+              {id: "6.1", title: "Prisons"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -227,8 +255,22 @@ const TonyStarkMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Roberty Downey Jr.</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/iron_man_film">Iron Man</Link> <br />
+                <Link to="/mcu/iron_man_2">Iron Man 2</Link> <br />
+                <Link to="mcu/the_avengers_film">The Avengers</Link> <br />
+                <Link to="/mcu/iron_man_3">Iron Man 3</Link> <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/spiderman_homecoming">Spider-Man: Homecoming</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>
+              </td>
             </tr>
           </tbody>
         </table>
