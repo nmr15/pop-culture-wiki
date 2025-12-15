@@ -190,7 +190,12 @@ const CaptainAmericaTheFirstAvenger = () =>
                 a script about anybody. I would probably want to do it. So it wasn't necessarily about the comic itself." Regarding the extent of the character's abilities Evans remarked, "He would
                 crush the Olympics. Any Olympic sport he's gonna dominate. He can jump higher, run faster, lift stronger weight, but he can be injured. He could roll an ankle and be out for the
                 season. He's not perfect, he's not untouchable. So a lot of the effects, if I'm going to punch someone they're not going to put them on a cable and fly them back 50 feet, but he's
-                going to go down, probably not getting back up, which I think humanizes it."
+                going to go down, probably not getting back up, which I think humanizes it. It makes it something that, again, I think everyone can relate to a little bit more, which I really like."
+                Evans did daily high-weight training and stuck to a high-calorie diet to get in shape for the part. Theater actor Leander Deeny was Evans' body double in some shots for Steven Rogers'
+                pre-transformation pyhsique, and also appears as a bartender.
+              </li>
+              <li>
+                <Link>Tommy Lee Jones</Link> as <Link>Chester Philips</Link>: <br />
               </li>
             </ul>
           </div>
