@@ -22,14 +22,57 @@ const TonyStarkMCU = () =>
             sub={[
               {id: "1.1", title: "replace"},
               {id: "1.2", title: "replace"},
-              {id: "1.3", title: "replace"},
-              {id: "1.4", title: "replace"},
-              {id: "1.5", title: "replace"},
-              {id: "1.6", title: "replace"},
-              {id: "1.7", title: "replace"},
-              {id: "1.8", title: "replace"},
-              {id: "1.9", title: "replace"},
-              {id: "1.10", title: "replace"},
+              {id: "1.3", title: "Becoming Iron Man"},
+              {id: "1.4", title: "Armored adventures", sub2: [
+                {id: "1.4.1", title: "Testing his armor"},
+                {id: "1.4.2", title: "Aerial assault training"},
+                {id: "1.4.3", title: "Smartbomb"},
+                {id: "1.4.4", title: "Dealing with a public identity"},
+                {id: "1.4.5", title: "Dating Lina"},
+                {id: "1.4.6", title: "Liberating an island"},
+                {id: "1.4.7", title: "Partnership with Gorani Insurance"},
+                {id: "1.4.8", title: "Person of the Year"},
+              ]},
+              {id: "1.5", title: "Facing health problems", sub2: [
+                {id: "1.5.1", title: "Palladium poisoning"},
+                {id: "1.5.2", title: "Starting the Stark Expo"},
+                {id: "1.5.3", title: "Meeting with Senator Stern"},
+                {id: "1.5.4", title: "Making Pepper Potts CEO"},
+                {id: "1.5.5", title: "Monacco Grand Prix"},
+                {id: "1.5.6", title: "Dual of Monacco"},
+                {id: "1.5.7", title: "Meeting with Ivan Vanko"},
+                {id: "1.5.8", title: "Ivan Vanko's attack aftermath"},
+                {id: "1.5.9", title: "40th birthday party"}
+              ]},
+              {id: "1.6", title: "Rediscovering the element", sub2: [
+                {id: "1.6.1", title: "Nick Fury's help"},
+                {id: "1.6.2", title: "Researching his family"},
+                {id: "1.6.3", title: "A new element"},
+                {id: "1.6.4", title: "Battle at Stark Expo"},
+                {id: "1.6.5", title: "Showdown with Ivan Vanko"}
+              ]},
+              {id: "1.7", title: "Making the new War Machine armor"},
+              {id: "1.8", title: "Not a suitable candidate", sub2: [
+                {id: "1.8.1", title: "Consultant for S.H.I.E.L.D."},
+                {id: "1.8.2", title: "Public superhero"}
+              ]},
+              {id: "1.9", title: "Chitauri invasion", sub2: [
+                {id: "1.9.1", title: "Avengers Initiative"},
+                {id: "1.9.2", title: "Capturign Loki"},
+                {id: "1.9.3", title: "Meeting the Avengers"},
+                {id: "1.9.4", title: "Team tension"},
+                {id: "1.9.5", title: "Defending the Helicarrier"},
+                {id: "1.9.6", title: "Something to avenge"},
+                {id: "1.9.7", title: "Confronting Loki"},
+                {id: "1.9.8", title: "Battle of New York"},
+                {id: "1.9.9", title: "Stopping the nuke"},
+                {id: "1.9.10", title: "Battle aftermath"}
+              ]},
+              {id: "1.10", title: "After New York", sub2: [
+                {id: "1.10.1", title: "Damage Control"},
+                {id: "1.10.2", title: "Stealing B.A.R.F."},
+                {id: "1.10.3", title: "The Iron Legion"}
+              ]},
               {id: "1.11", title: "Mandarin threat", sub2: [
                 {id: "1.11.1", title: "Armor obsession"},
                 {id: "1.11.2", title: "Mental struggle"},
@@ -47,7 +90,7 @@ const TonyStarkMCU = () =>
                 {id: "1.11.14", title: "Saving the Air Force One crew"},
                 {id: "1.11.15", title: "Battle on the Norco"},
                 {id: "1.11.16", title: "Showdown with Aldrich Killian"},
-                {id: "1.11.17", title: "Clean Slate Protocol"},
+                {id: "1.11.17", title: "Clean Slate Protocol"}
               ]},
               {id: "1.12", title: "Temporary Retirement", sub2: [
                 {id: "1.12.1", title: "A step further"},
