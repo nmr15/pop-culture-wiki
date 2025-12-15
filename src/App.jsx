@@ -11,6 +11,7 @@ import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
 import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
 import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
 import Spiderman from "./pages/MarvelComics/Spiderman"
+import TonyStarkMCU from "./pages/Mcu/Characters/TonyStarkMCU"
 
 const Wrapper = ({ children }) => {
   const location = useLocation()
@@ -42,6 +43,8 @@ function App() {
         {routesMcu.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
+
+        <Route path="/mcu/tony_stark" element={<TonyStarkMCU />} />
 
         <Route path='/marvelcomics/spider_man' element={<Spiderman />} />
 
