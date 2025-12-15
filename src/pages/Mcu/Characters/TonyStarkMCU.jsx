@@ -20,9 +20,33 @@ const TonyStarkMCU = () =>
             id="1"
             item="Biography"
             sub={[
-              {id: "1.1", title: "replace"},
-              {id: "1.2", title: "replace"},
-              {id: "1.3", title: "Becoming Iron Man"},
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Troubled childhood"},
+                {id: "1.1.2", title: "Losing his parents"}
+              ]},
+              {id: "1.2", title: "CEO of Stark Industries", sub2: [
+                {id: "1.2.1", title: "Rebuilding the company"},
+                {id: "1.2.2", title: "Creating demons"},
+                {id: "1.2.3", title: "Testing weapons in Arizona"},
+                {id: "1.2.4", title: "Apogee award"},
+                {id: "1.2.5", title: "Interview with Christine Everhart"},
+                {id: "1.2.6", title: "Final hours of freedom"},
+                {id: "1.2.7", title: "Presenting the Jericho"}
+              ]},
+              {id: "1.3", title: "Becoming Iron Man", sub2: [
+                {id: "1.3.1", title: "Kidnapped by the Ten Rings"},
+                {id: "1.3.2", title: "Building the first armor"},
+                {id: "1.3.3", title: "Escaping the Ten Rings"},
+                {id: "1.3.4", title: "No more weapons"},
+                {id: "1.3.5", title: "Suit upgrades"},
+                {id: "1.3.6", title: "Outdoor test flight"},
+                {id: "1.3.7", title: "Obadiah Stane's betrayal"},
+                {id: "1.3.8", title: "Battle of Guimira"},
+                {id: "1.3.9", title: "Next mission"},
+                {id: "1.3.10", title: "Duel of Los Angeles"},
+                {id: "1.3.11", title: "I am Iron Man"},
+                {id: "1.3.12", title: "Meeting Nick Fury"}
+              ]},
               {id: "1.4", title: "Armored adventures", sub2: [
                 {id: "1.4.1", title: "Testing his armor"},
                 {id: "1.4.2", title: "Aerial assault training"},
