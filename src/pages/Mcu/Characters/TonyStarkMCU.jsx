@@ -293,6 +293,14 @@ const TonyStarkMCU = () =>
             <Link> Chitauri</Link> and <Link>Loki</Link>. Due to the battle, he suffered from post-traumatic stress disorder, leading him to create the
             <Link>Iron Legion</Link> to safeguard the world and help him retire.
           </p>
+          <p>
+            The 2013 "<Link>Mandarin</Link>" terrorist attacks forced Stark to come out of retirement to protect his country, inadvertently putting his
+            loved ones at risk and leaving him defenseless when his home was destroyed. Stark continues his mission, finding <Link>Aldrich Killian</Link>
+            as the mastermind of the attacks. Eventually, Stark defeated Killian, and was prompted to destroy all of his armors with the <Link>Clean
+            Slate Protocol</Link> after almost losing Potts. However, when the Avengers were officially demobilized due to the War on Hydra, Stark built
+            more armors and resumed his role as Iron Man, aiding them in the capture of <Link>Baron Strucker</Link> and acquiring Loki's
+            <Link> Scepter</Link>.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
