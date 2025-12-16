@@ -285,6 +285,14 @@ const TonyStarkMCU = () =>
             against terrorists, as well as <Link>Obadiah Stane</Link> who turned against Stark. Following his fight against Stane, Stark publicly
             reveals himself as Iron Man.
           </p>
+          <p>
+            Fresh off from defeating enemies all over the world. Stark found himself dying due to his own <Link>Arc Reactor</Link> poisoning his body,
+            all while he was challenged by <Link>Ivan Vanko</Link> who attempted to destroy his legacy. After the Stark Expo incident, Stark reluctantly
+            agreed to serve as a consultant for <Link>S.H.I.E.L.D.</Link> where he used his position to upgrade their technology while he began a
+            relationship with <Link>Pepper Potts</Link>. With the world yet again being threatened, Stark joined the Avengers and helped defeat the
+            <Link> Chitauri</Link> and <Link>Loki</Link>. Due to the battle, he suffered from post-traumatic stress disorder, leading him to create the
+            <Link>Iron Legion</Link> to safeguard the world and help him retire.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
