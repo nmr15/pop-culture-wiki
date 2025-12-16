@@ -306,7 +306,16 @@ const TonyStarkMCU = () =>
           <Heading2 id={1} title={"Biography"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early life</h3>
+            <h4 className="article-heading-4" id="1.1.1">Troubled childhood</h4>
+            <h4 className="article-heading-4" id="1.1.2">Losing his parents</h4>
             <h3 className="article-heading-3" id="1.2">CEO of Stark Industries</h3>
+            <h4 className="article-heading-4" id="1.2.1">replace</h4>
+            <h4 className="article-heading-4" id="1.2.2">replace</h4>
+            <h4 className="article-heading-4" id="1.2.3">replace</h4>
+            <h4 className="article-heading-4" id="1.2.4">replace</h4>
+            <h4 className="article-heading-4" id="1.2.5">replace</h4>
+            <h4 className="article-heading-4" id="1.2.6">replace</h4>
+            <h4 className="article-heading-4" id="1.2.7">replace</h4>
             <h3 className="article-heading-3" id="1.3">Becoming Iron Man</h3>
             <h3 className="article-heading-3" id="1.4">Armored adventures</h3>
             <h3 className="article-heading-3" id="1.5">Facing health problems</h3>
