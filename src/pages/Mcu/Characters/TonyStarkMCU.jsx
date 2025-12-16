@@ -275,7 +275,16 @@ const TonyStarkMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Antony Edward "Tony" Stark</b> was the son of <Link>Howard</Link> and <Link>Maria Stark</Link>, a billionaire industrialist, the former CEO
+            of <Link>Stark Industries</Link>, and a founding member of the <Link>Avengers</Link>. A brash but brilliant inventor, Stark was self-described
+            as a genius, billionaire, playboy, and philanthropist. With his great wealth and exceptional technical knowledge, Stark was one of the world's
+            most powerful men following the deaths of his parents and enjoyed the playboy lifestyle for many years until he was kidnapped by the
+            <Link>Ten Rings</Link> in Afghanistan, while demonstrating a fleet of <Link>Jericho</Link> missiles. With his life on the line, Stark
+            created an <Link>armored suit</Link> which he used to escape his captors. Upon returning home, he utilized several more armors to use
+            against terrorists, as well as <Link>Obadiah Stane</Link> who turned against Stark. Following his fight against Stane, Stark publicly
+            reveals himself as Iron Man.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
