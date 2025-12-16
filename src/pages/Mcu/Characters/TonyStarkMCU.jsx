@@ -305,7 +305,30 @@ const TonyStarkMCU = () =>
         <div>
           <Heading2 id={1} title={"Biography"} />
           <div>
-
+            <h3 className="article-heading-3" id="1.1">Early life</h3>
+            <h3 className="article-heading-3" id="1.2">CEO of Stark Industries</h3>
+            <h3 className="article-heading-3" id="1.3">Becoming Iron Man</h3>
+            <h3 className="article-heading-3" id="1.4">Armored adventures</h3>
+            <h3 className="article-heading-3" id="1.5">Facing health problems</h3>
+            <h3 className="article-heading-3" id="1.6">Rediscovering the element</h3>
+            <h3 className="article-heading-3" id="1.7">Making the new War Machine armor</h3>
+            <h3 className="article-heading-3" id="1.8">Not a suitable candidate</h3>
+            <h3 className="article-heading-3" id="1.9">Chitauri invasion</h3>
+            <h3 className="article-heading-3" id="1.10">After New York</h3>
+            <h3 className="article-heading-3" id="1.11">Mandarin threat</h3>
+            <h3 className="article-heading-3" id="1.12">Temporary Retirement</h3>
+            <h3 className="article-heading-3" id="1.13">War on Hydra</h3>
+            <h3 className="article-heading-3" id="1.14">Avengers Reassembled</h3>
+            <h3 className="article-heading-3" id="1.15">Ultron offensive</h3>
+            <h3 className="article-heading-3" id="1.16">Leaving the Avengers</h3>
+            <h3 className="article-heading-3" id="1.17">Avengers Civil War</h3>
+            <h3 className="article-heading-3" id="1.18">Launching a satellite</h3>
+            <h3 className="article-heading-3" id="1.19">Advising Spider-Man</h3>
+            <h3 className="article-heading-3" id="1.20">Return to Stark Industries</h3>
+            <h3 className="article-heading-3" id="1.21">Infinity War</h3>
+            <h3 className="article-heading-3" id="1.22">A normal life</h3>
+            <h3 className="article-heading-3" id="1.23">Time Heist</h3>
+            <h3 className="article-heading-3" id="1.24">Legacy</h3>
           </div>
         </div>
         <div>
@@ -317,13 +340,18 @@ const TonyStarkMCU = () =>
         <div>
           <Heading2 id={3} title={"Powers and abilities"} />
           <div>
-            
+            <h3 className="article-heading-3" id="3.1">Powers</h3>
+            <h3 className="article-heading-3" id="3.2">Former powers</h3>
+            <h3 className="article-heading-3" id="3.3">Abilities</h3>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Equipment"} />
           <div>
-            
+            <h3 className="article-heading-3" id="4.1">Iron Man armors</h3>
+            <h3 className="article-heading-3" id="4.2">Weapons</h3>
+            <h3 className="article-heading-3" id="4.3">Other equipment</h3>
+            <h3 className="article-heading-3" id="4.4">Vehicles</h3>
           </div>
         </div>
         <div>
@@ -335,7 +363,7 @@ const TonyStarkMCU = () =>
         <div>
           <Heading2 id={6} title={"Facilities"} />
           <div>
-            
+            <h3 className="article-heading-3" id="6.1">Prisons</h3>
           </div>
         </div>
       </main>
