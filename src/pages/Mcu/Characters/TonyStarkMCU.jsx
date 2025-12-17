@@ -309,16 +309,45 @@ const TonyStarkMCU = () =>
             <h4 className="article-heading-4" id="1.1.1">Troubled childhood</h4>
             <h4 className="article-heading-4" id="1.1.2">Losing his parents</h4>
             <h3 className="article-heading-3" id="1.2">CEO of Stark Industries</h3>
-            <h4 className="article-heading-4" id="1.2.1">replace</h4>
-            <h4 className="article-heading-4" id="1.2.2">replace</h4>
-            <h4 className="article-heading-4" id="1.2.3">replace</h4>
-            <h4 className="article-heading-4" id="1.2.4">replace</h4>
-            <h4 className="article-heading-4" id="1.2.5">replace</h4>
-            <h4 className="article-heading-4" id="1.2.6">replace</h4>
-            <h4 className="article-heading-4" id="1.2.7">replace</h4>
+            <h4 className="article-heading-4" id="1.2.1">Rebuilding the company</h4>
+            <h4 className="article-heading-4" id="1.2.2">Creating demons</h4>
+            <h4 className="article-heading-4" id="1.2.3">Testing weapons in Arizona</h4>
+            <h4 className="article-heading-4" id="1.2.4">Apogee award</h4>
+            <h4 className="article-heading-4" id="1.2.5">Interview with Christine Everhart</h4>
+            <h4 className="article-heading-4" id="1.2.6">Final hours of freedom</h4>
+            <h4 className="article-heading-4" id="1.2.7">Presenting the Jericho</h4>
             <h3 className="article-heading-3" id="1.3">Becoming Iron Man</h3>
+            <h4 className="article-heading-4" id="1.3.1">Kidnapped by the Ten Rings</h4>
+            <h4 className="article-heading-4" id="1.3.2">Building the first armor</h4>
+            <h4 className="article-heading-4" id="1.3.3">Escaping the Ten Rings</h4>
+            <h4 className="article-heading-4" id="1.3.4">No more weapons</h4>
+            <h4 className="article-heading-4" id="1.3.5">Suit upgrades</h4>
+            <h4 className="article-heading-4" id="1.3.6">Outdoor test flight</h4>
+            <h4 className="article-heading-4" id="1.3.7">Obadiah Stane's betrayal</h4>
+            <h4 className="article-heading-4" id="1.3.8">Battle of Guimira</h4>
+            <h4 className="article-heading-4" id="1.3.9">Next mission</h4>
+            <h4 className="article-heading-4" id="1.3.10">Duel of Los Angeles</h4>
+            <h4 className="article-heading-4" id="1.3.11">I am Iron Man</h4>
+            <h4 className="article-heading-4" id="1.3.12">Meeting Nick Fury</h4>
             <h3 className="article-heading-3" id="1.4">Armored adventures</h3>
+            <h4 className="article-heading-4" id="1.4.1">replace</h4>
+            <h4 className="article-heading-4" id="1.4.2">replace</h4>
+            <h4 className="article-heading-4" id="1.4.3">replace</h4>
+            <h4 className="article-heading-4" id="1.4.4">replace</h4>
+            <h4 className="article-heading-4" id="1.4.5">replace</h4>
+            <h4 className="article-heading-4" id="1.4.6">replace</h4>
+            <h4 className="article-heading-4" id="1.4.7">replace</h4>
+            <h4 className="article-heading-4" id="1.4.8">replace</h4>
             <h3 className="article-heading-3" id="1.5">Facing health problems</h3>
+            <h4 className="article-heading-4" id="1.5.1">replace</h4>
+            <h4 className="article-heading-4" id="1.5.2">replace</h4>
+            <h4 className="article-heading-4" id="1.5.3">replace</h4>
+            <h4 className="article-heading-4" id="1.5.4">replace</h4>
+            <h4 className="article-heading-4" id="1.5.5">replace</h4>
+            <h4 className="article-heading-4" id="1.5.6">replace</h4>
+            <h4 className="article-heading-4" id="1.5.7">replace</h4>
+            <h4 className="article-heading-4" id="1.5.8">replace</h4>
+            <h4 className="article-heading-4" id="1.5.9">replace</h4>
             <h3 className="article-heading-3" id="1.6">Rediscovering the element</h3>
             <h3 className="article-heading-3" id="1.7">Making the new War Machine armor</h3>
             <h3 className="article-heading-3" id="1.8">Not a suitable candidate</h3>
