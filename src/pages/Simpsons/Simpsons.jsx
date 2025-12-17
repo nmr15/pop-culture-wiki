@@ -437,12 +437,32 @@ const Simpsons = () =>
               milestone faster than any other attraction in the resort.
             </p>
             <h3 className="article-heading-3" id="6.2">Broadway at the Beach</h3>
+            <p>
+              In August 2018, The Simpsons in 4D opened at Broadway at the Beach in Myrtle Beach, South Carolina, housed in a replica of The Aztec theater
+              from the series. Next door, a gift shop modeled after the <Link>Kwik-E-Mart</Link> sells in-series merchandise such as
+              <Link> Buzz Cola</Link>, <Link>Krusty burgers</Link>, <Link>Lard Lad</Link> doughnuts, and <Link>Squishees</Link>.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={7} title={"Merchandise"} />
           <div>
+            <p>
+              The popularity of The Simpsons has made it a billion-dollar merchandising industry. The Simpsons merchandise sold well and generated $2
+              billion in revenue during the first 14 months of sales. In 2008, $750 million worth of The Simpsons merchandis was purchased worldiwdde.
+              In 2003, about 500 companies around the world were licensed to use Simpsons characters in their advertising. In 2003, Peter Byrne, Fox
+              executive vice president of licensing and merchandising, called The Simpsons "without doubt the biggest licensing entity that Fox has had,
+              full stop, I would say from either TV or film."
+            </p>
             <h3 className="article-heading-3" id="7.1">Home releases</h3>
+            <p>
+              Many episodes of the show have been released on DVD and VHS over the years. When the first season DVD was released in 2001, it quickly
+              became the best-selling television DVD in history, although it was later overtaken by the first season of Chappelle's Show. In particular,
+              season one through seventeen and twenty have been released on DVD in the U.S. (Region 1), Europe (Region 2), and
+              Australia/New Zealand/Latin America (Region 4). In 2015 it was announced that Fox would discontinue home video releases of The Simpsons.
+              Two years later, however, on July 22, 2017, it was announced that Season 18 would be released on December 5, 2017, on DVD. Another two
+              years later, on July 20, 2019, it was announced that Season 19 would be released on December 3, 2019, on DVD.
+            </p>
             <h3 className="article-heading-3" id="7.2">Music</h3>
             <h3 className="article-heading-3" id="7.3">T-shirts</h3>
             <h3 className="article-heading-3" id="7.4">Action figures</h3>
