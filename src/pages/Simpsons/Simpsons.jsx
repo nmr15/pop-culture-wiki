@@ -423,6 +423,19 @@ const Simpsons = () =>
           <Heading2 id={6} title={"Theme park attractions"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Universal Studios</h3>
+            <p>
+              In July 2007, shortly before the release of The Simpsons Movie, it was officially announced that The Simpsons Ride, a simulation ride, would
+              be implemented into the Universal Studios Orlando and Uninversal Studios Hollywood. It officially opened May, 15, 2008 in Florida and May 19,
+              2008, in Hollywood. In the ride, patrons are intoduced to a cartoon theme park called Krustyland built by <Link>Krusty the Clown</Link>.
+              However, <Link>Sideshow Bob</Link> is loose from prisodn to get revenge on Krusty and the Simpsons family. It features more than 24 regular
+              characters from The Simpsons and features the voices of the regular cast members, as well as Pamela Hayden, Russi Taylor, and Kelsey Grammer.
+              Harry Shearer decided not to participate in the ride, so none of his characters have vocal parts. James L. Brooks, Matt Groening, and Al
+              Jean, collaborated with the Universal Studios creative team, Universal Creative, to help develop the ride. The six-minute ride uses 80-foot
+              IMAX screens and Sony Projectors. There are 24 ride cars, each seating eight people, and approximately 2000 people can ride it per hour.
+              The animation in the ride uses computer generated 3D animation rendered by Blur Studio and Reel FX, rather than the traditional 2D animation
+              seen on The Simpsons. The Universal Studios Florida version of the ride hosted its one millionth rider on July 14, 2008, reaching the
+              milestone faster than any other attraction in the resort.
+            </p>
             <h3 className="article-heading-3" id="6.2">Broadway at the Beach</h3>
           </div>
         </div>
