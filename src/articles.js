@@ -5,22 +5,28 @@ import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
-import { mcu, mcuMeta } from "./data/dataMcu";
+import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
 
 export const routesTopics = topics.map(topic => ({
     path: topic.route,
     Component: lazy(() => import(`./pages/${topic.folder}/${topic.file}.jsx`))
 }));
 
+// ASSASSIN'S CREED
+
 export const routesAssassinsCreed = assassinscreed.map(ac => ({
     path: ac.route,
     Component: lazy(() => import(`./pages/AssassinsCreed/${ac.file}.jsx`))
 }));
 
+// COMMUNITY
+
 export const routesCommunityChars = communitychars.map(char => ({
   path: char.route,
   Component: lazy(() => import(`./pages/Community/Characters/${char.file}.jsx`))
 }));
+
+// GRAVITY FALLS
 
 export const routeGfChars = gfCharacters.map(char => ({
   path: char.route,
@@ -43,9 +49,16 @@ export const routesGtaChars = gtaCharacters.map(gtaChar => ({
   Component: lazy(() => import(`./pages/Gta/Characters/${gtaChar.file}.jsx`))
 }));
 
+// MARVEL CINEMATIC UNIVERSE
+
 export const routesMcu = mcu.map(mcu => ({
   path: mcu.route,
   Component: lazy(() => import(`./pages/Mcu/Films/${mcu.file}.jsx`))
+}));
+
+export const routesMcuChars = mcuChar.map(mcuChar => ({
+  path: mcuChar.route,
+  Component: lazy(() => import(`./pages/Mcu/Characters/${mcuChar.file}.jsx`))
 }));
 
 export const routesMcuMeta = mcuMeta.map(mcumeta => ({
