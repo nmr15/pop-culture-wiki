@@ -410,7 +410,13 @@ const Simpsons = () =>
         <div>
           <Heading2 id={5} title={"Video games"} />
           <div>
-            
+            <p>
+              The video game industry was very quick to adapt the characters and world of Springfield into games. Some of the early games include
+              Konami's arcade game The Simpsons (1991), and Acclaim Entertainment's The Simpsons: Bart vs. the Space Mutants (1991). More modern game
+              include The Simpsons: Road Rage (2001), <Link>The Simpsons: Hit & Run</Link> (2003), and <Link>The Simpsons Game</Link> (2007). Two Simpsons
+              pinball machines have been produced; one that was available briefly after the first season, and another that is still available for purchase.
+              Since 2005, <Link>Electronic Arts</Link> have global exclusive rights to develop and publish any games based on the franchise.
+            </p>
           </div>
         </div>
         <div>
