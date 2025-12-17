@@ -375,9 +375,36 @@ const Simpsons = () =>
           <Heading2 id={4} title={"Print publication"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Books</h3>
+            <p>
+              Dozens of books featuring or about the Simpsons have been released by Fox. The Simpsons Library of Wisdom series each relate to a
+              character from the show amd two per year are released.
+            </p>
             <h4 className="article-heading-4" id="4.1.1">Episode guides</h4>
+            <p>
+              A series of episode guides have been published, starting with The Simpsons: A Complete Guide to Our Favorite Family. The guides feature
+              quotes, trivia, and cultural references for each episode.
+            </p>
             <h3 className="article-heading-3" id="4.2">Comic books</h3>
+            <p>
+              The final issue of Simpsons Illustrated was a one-shot comic edition titled Simpsons Comics and Stories. The overwheleming success of this
+              seemingly one-shot book led to the creation of Bongo Comics Group, which has gone on to publish numerous Simpsons-related comic books since
+              1993.
+            </p>
+            <p>
+              Numerous Simpsons-related comic books have been released over the years. So far, nine comic book series have been published by Bongo Comics
+              since 1993. The first comic strips based on The Simpsons appeared in 1991 in the magazine Simpsons Illustrated, which was a companion
+              magazine to the show. The comic strips were popular and a one-shot comic book entitled Simpsons Comics and Stories, containing four
+              different stories, was released in 1993 for the fans. The book was a success and due to this, the creator of The Simpsons, Matt Groening,
+              and his companions Bill Morrison, Mike Rote, Steve Vance, and Cindy Vance created the publishing company Bongo Comics. Issues of Simpsons
+              Comics, Bart Simpson's Treehouse of Horror and Bart Simpson have been collected and reprinted in trade paperback in the United States by
+              HarperCollins.
+            </p>
             <h4 className="article-heading-4" id="4.2.1">Simpsons Illustrated</h4>
+            <p>
+              Simpsons Illustrated was a companion magazine to The Simpsons. It was produced by Matt Groening, Bill Morrison, Cindy and Steve Vance, and
+              Katy Dobbs was editorial director. It ran for 10 issues from 1991 to 1993. Welsh Publishing Company issued it four times a year. The
+              magazine had a circulation of 1 million. Features include in-depth articles and interviews with the cast and crew, comics, and fanart.
+            </p>
           </div>
         </div>
         <div>
