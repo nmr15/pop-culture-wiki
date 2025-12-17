@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const ANewHope = () =>
+const ReturnOfTheJedi = () =>
 {
   useEffect(() =>
   {
-    document.title = "Episode IV: A New Hope - Pop Culture Wiki";
+    document.title = "Episode VI: Return of the Jedi - Pop Culture Wiki";
   }, []);
 
   return(
@@ -18,22 +18,22 @@ const ANewHope = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>Episode IV: A New Hope</li>
+          <li>Episode VI: Return of the Jedi</li>
         </ul>
         <div>
-          <h1 className="article-heading">Star Wars Episode IV: A New Hope</h1>
+          <h1 className="article-heading">Star Wars Episode VI: Return of the Jedi</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Episode IV: A New Hope</span>
+                <span>Episode VI: Return of the Jedi</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg" alt="Episode IV: A New Hope" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg" alt="Episode VI: Return of the Jedi" />
                 </span>
               </td>
             </tr>
@@ -51,4 +51,4 @@ const ANewHope = () =>
   )
 }
 
-export default ANewHope;
+export default ReturnOfTheJedi;
