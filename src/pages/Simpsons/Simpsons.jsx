@@ -345,10 +345,30 @@ const Simpsons = () =>
               gross of $527,068,706, making it the eighth highest grossing film of 2007.
             </p>
             <h4 className="article-heading-4" id="3.1.2">Upcoming film</h4>
+            <p>
+              In September 2025, a second feature film was officially announced to be in production, set for theatrical release on July 23, 2027. A
+              picture saying "Homer's coming back for seconds." and the release date as a small teaser was released.
+            </p>
             <h3 className="article-heading-3" id="3.2">Theatrical short films</h3>
             <h4 className="article-heading-4" id="3.2.1">The Longest Daycare</h4>
+            <p>
+              A 3D short film entitled The Longest Daycare, focusing on Maggie, was shown in theaters before the 2012 film Ice Age: Continental Drift.
+              It received an Academy Award nomination in the category of best animated short film.
+            </p>
             <h4 className="article-heading-4" id="3.2.2">Playdate with Destiny</h4>
+            <p>
+              On February 27, 2020, it was announced that a new short film titled Playdate with Destiny would be screened in theaters with
+              <Link to="/pixar"> Pixar</Link>'s <Link to="/pixar/onward">Onward</Link>. The short film starred Maggie Simpson. Onward was released on
+              March 6, 2020, with a release on Disney+ on April 10, 2020.
+            </p>
             <h3 className="article-heading-3" id="3.3">In other media</h3>
+            <p>
+              <Link> Milhouse</Link> makes a cameo appearance in the 2014 film The Lego Movie as a Master Builder in Cloud Cuckoo Land.
+            </p>
+            <p>
+              Bootleg versions of Homer and Bart, as well as background characters based on the series' animation style, have cameo appearances in the
+              2022 film Chip 'n Dale: Rescue Rangers.
+            </p>
           </div>
         </div>
         <div>
