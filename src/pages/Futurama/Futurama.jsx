@@ -154,6 +154,28 @@ const Futurama = () =>
           <Heading2 id={1} title={"Premise"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Characters</h3>
+            <p>
+              Futurama is essentially a workplace sitcom, the plot of which revolves around the Planet Express interplanetary delivery company and its
+              employees, a small group that largely fails to conform to future society. Episodes usually feature the central trio of Fry, Leela, and
+              Bender, though occasional storylines center on the other main characters.
+            </p>
+            <ul className="article-list">
+              <li>
+                <Link to="/futurama/philip_j_fry">Philip J. Fry</Link> (voiced by <Link to="/billy_west">Billy West</Link>): Fry is a slovenly, gullible, yet good-hearted
+                and sensitive pizza delivery boy who falls into a cryogenic pod, causing it to activate and freeze him just after midnight on January 1,
+                2000. He reawakens on New Year's Eve of 2999 and gets a job as a cargo delivery boy at Planet Express, a company owned by his only living
+                relative, <Link>Professor Hubert J. Farnsworth</Link>. Fry's love for Leela is a recurring theme throughout the series.
+              </li>
+              <li>
+                <Link to="/futurama/turunga_leela">Turunga Leela</Link> (voiced by <Link to="/katey_segal">Katey Segal</Link>): Leela is the competent,
+                one-eyed captain of the Planet Express Ship. Abandoned as a baby, she grows up in the
+                <Link to="/futurama/cookieville_minimum_security_orphanarium">C ookieville Minimum Security Orphanarium</Link> believing herself to be an
+                alien from another planet, but learns that she is actually a mutant from the sewers in the episode
+                "<Link to="/futurama/leela's_homeworld">Leela's Homeworld</Link>". Prior to becoming the ship's captain, Leela works as a career assignment
+                officer at the cryogenics lab where she first meets Fry. She is Fry's primary love interest and eventually becomes his wife. Her name is
+                a reference to the Turangalîla-Symphonie by Olivier Messiaen.
+              </li>
+            </ul>
             <h3 className="article-heading-3" id="1.2">Setting</h3>
           </div>
         </div>
