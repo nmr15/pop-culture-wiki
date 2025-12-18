@@ -33,7 +33,7 @@ const ReturnOfTheJedi = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg" alt="Episode VI: Return of the Jedi" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg" alt="Episode VI: Return of the Jedi poster" />
                 </span>
               </td>
             </tr>

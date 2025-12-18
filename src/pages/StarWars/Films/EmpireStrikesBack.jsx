@@ -33,7 +33,7 @@ const EmpireStrikesBack = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg" alt="Episode V: The Empire Strikes Back" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg" alt="Episode V: The Empire Strikes Back poster" />
                 </span>
               </td>
             </tr>

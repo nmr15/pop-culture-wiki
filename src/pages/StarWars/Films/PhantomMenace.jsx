@@ -33,7 +33,7 @@ const PhantomMenace = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg" alt="Episode I: The Phantom Menace" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg" alt="Episode I: The Phantom Menace poster" />
                 </span>
               </td>
             </tr>
