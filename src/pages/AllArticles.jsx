@@ -6,12 +6,13 @@ import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { spongebobMedia, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
-import { hpbooks } from '../data/dataHarryPotter';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
+import { hpbooks } from '../data/dataHarryPotter';
 import { asoue } from '../data/dataAsoue';
+import { battlefield } from '../data/dataBattlefield';
 import { spidermanFilms } from '../data/dataSpidermanFilms';
 import { justcauseGames } from '../data/dataJustCause';
 
@@ -484,6 +485,20 @@ const AllArticles = () =>
             {hpbooks.map((hpbooks) => (
               <li key={hpbooks.id}>
                 <Link to={hpbooks.route}>{hpbooks.title}</Link>
+              </li>
+            ))}
+          </div>
+        </div>
+
+        {/* BATTLEFIELD */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Asoue">Battlefield</h3>
+          <p><Link to="/battlefield">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Games</h4>
+            {battlefield.map((battlefield) => (
+              <li key={battlefield.id}>
+                <Link to={battlefield.route}>{battlefield.title}</Link>
               </li>
             ))}
           </div>
