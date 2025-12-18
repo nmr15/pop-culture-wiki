@@ -815,8 +815,379 @@ export const spongebobEps = [
     "img": "https://static.wikia.nocookie.net/spongebob/images/d/d6/Sandy%2C_SpongeBob%2C_and_the_Worm_title_card.png",
     "route": "/spongebob/sandy_spongebob_and_the_worm",
     "desc": "An \"Alaskan bull-worm\" terrorizes Bikini Bottom, and Sandy volunteers to go after it because it ate her tail. SpongeBob keeps trying to stop Sandy from going, but she persists. They find the worm and Sandy successfully ties it in a knot and gets her tail back. SpongeBob reveals that the \"worm\" is actually the tongue of the real worm, and the worm is huge. Sandy and SpongeBob sprint away and it gives chase. They get to safety after the worm charges off a cliff and plummets down the chasm, then they head back home. Unbeknownst to them, Patrick and everybody in Bikini Bottom have moved the city to a new location at the bottom of the cliff so it will be safe from the worm. The worm then lands on top of the city and destroys it, emitting the word \"ouch\"."
+  },
+  {
+    "id": "sponges3e1a",
+    "title": "The Algae's Always Greener",
+    "season": 3,
+    "episode": 82,
+    "file": "SpongeS3E1A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/cd/The_Algae%27s_Always_Greener_title_card.png",
+    "route": "/spongebob/the_algae's_always_greener",
+    "desc": "Plankton is still yearning for the Krabby Patty secret formula, so as a wish of him disliking his normal and dull life, he changes lives with Krabs. When he finds himself at the Krusty Krab as \"Mr. Plankton\", he has to constantly fulfill his tasks as the manager of the restaurant. Plankton soon discovers that Krabs's life has many disadvantages, including trying to run the Krusty Krab."
+  },
+  {
+    "id": "sponges3e1b",
+    "title": "SpongeGuard on Duty",
+    "season": 3,
+    "episode": 83,
+    "file": "SpongeS3E1B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/3/36/SpongeGuard_on_Duty_title_card.png",
+    "route": "/spongebob/spongeguard_on_duty",
+    "desc": "While at Goo Lagoon, SpongeBob wishes he was a lifeguard after seeing lifeguard Larry the Lobster adored by the beachgoers. Larry then offers to make SpongeBob a lifeguard, and SpongeBob becomes very popular in the beach. When Larry asks SpongeBob to take over for the day and leaves him, SpongeBob finds the hardships of being a lifeguard, especially since he can't swim."
+  },
+  {
+    "id": "sponges3e2a",
+    "title": "Club SpongeBob",
+    "season": 3,
+    "episode": 84,
+    "file": "SpongeS3E2A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/dd/Club_SpongeBob_title_card.png",
+    "route": "/spongebob/club_spongebob",
+    "desc": "SpongeBob and Patrick build a small treehouse, and an irritated Squidward wants to join after getting enraged by the two. When they all try to squeeze inside, the house gets launched deep into the Kelp Forest. Spongebob and Patrick try to use a novelty toy, the \"Magic Conch Shell\" (voiced by Sirena Irwin), to find their way home. Squidward does not believe that the toy has special powers and tries to find a way out on his own. While Squidward fails every time, SpongeBob and Patrick are rewarded with a full buffet that falls out of a descending airplane. Squidward wants the food, but this fails every time when the conch refuses to allow Squidward to have the food. A park ranger comes and the gang believes they're saved, but Squidward is shocked when the ranger praises the same novelty toy. Squidward eventually gives in and praises the toy and waits for its advice to occur."
+  },
+  {
+    "id": "sponges3e2b",
+    "title": "My Pretty Seahorse",
+    "season": 3,
+    "episode": 85,
+    "file": "SpongeS3E2B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/4/43/My_Pretty_Seahorse_title_card.png",
+    "route": "/spongebob/my_pretty_seahorse",
+    "desc": "While planting flowers on the first day of spring, SpongeBob finds and adopts a seahorse, and names her Mystery. They become close friends, and when Mystery follows him to work at the Krusty Krab, Mr. Krabs orders SpongeBob to get rid of his pet after causing trouble for the customers. Instead of sending her away, SpongeBob hides Mystery in a cupboard in the kitchen. Mystery still unintentionally causes trouble and after he tells them a story of his early life with a dollar, Mr. Krabs advises SpongeBob to release Mystery back into the wild. So with a sad, heavy heart, SpongeBob does just that. Squidward then shows SpongeBob and Mr. Krabs that Mystery ate out of the Krusty Krab's safe, causing the latter two to chase after her."
+  },
+  {
+    "id": "sponges3e3a",
+    "title": "Just One Bite",
+    "season": 3,
+    "episode": 86,
+    "file": "SpongeS3E3A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/c8/Just_One_Bite_title_card.png",
+    "route": "/spongebob/just_one_bite",
+    "desc": "When SpongeBob learns that Squidward has never tasted a Krabby Patty, it becomes his obsession to get his co-worker to take even just one little bite, believing that it is the reason why he is \"always so miserable\". After several attempts of making him taste the sandwich, Squidward finally gives in and tries the patty. He pretends to hate it at first, but actually likes it. Squidward gets obsessed and desperate for more (despite SpongeBob's protests that Squidward should not eat too many Krabby Patties at one time), and as a result blows up after eating thousands of Krabby Patty sandwiches in a vault full of them."
+  },
+  {
+    "id": "sponges3e3b",
+    "title": "The Bully",
+    "season": 3,
+    "episode": 87,
+    "file": "SpongeS3E3B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/69/The_Bully_title_card.png",
+    "route": "/spongebob/the_bully",
+    "desc": "SpongeBob gets terrified when a new student named Flats the Flounder, who attends Mrs. Puff's Boating School, threatens to kick his butt. SpongeBob desperately seeks for help, but Flats eventually corners SpongeBob and beats him up. However, SpongeBob's resilient body absorbs the blows, and yet he remains unharmed. Flats continues to hit SpongeBob, until he finally faints from exhaustion before Mrs. Puff begins to beat SpongeBob up, having mistaken him for punching Flats though he only had his fist raised."
+  },
+  {
+    "id": "sponges3e4a",
+    "title": "Nasty Patty",
+    "season": 3,
+    "episode": 88,
+    "file": "SpongeS3E4A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8e/Nasty_Patty_title_card.png",
+    "route": "/spongebob/nasty_patty",
+    "desc": "A health inspector comes to the Krusty Krab unannounced. Mr. Krabs and SpongeBob have to give one of everything on the menu to the inspector so they can pass the inspection. After hearing a news report of a stranger passing himself off as a health inspector to obtain free food, Mr. Krabs believes that the inspector at the restaurant is the impostor. Mr. Krabs and SpongeBob formulate a \"nasty patty\" for the inspector and serve it to him. As SpongeBob and Mr. Krabs watch him suffer from the kitchen, another report comes and reveals that he is not the impostor. They believe that the patty killed him, and begin to panic. Mr. Krabs and SpongeBob decide to take the body and bury it, as two police officers investigate."
+  },
+  {
+    "id": "sponges3e4b",
+    "title": "Idiot Box",
+    "season": 3,
+    "episode": 89,
+    "file": "SpongeS3E4B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/3/34/Idiot_Box_title_card.png",
+    "route": "/spongebob/idiot_box",
+    "desc": "SpongeBob and Patrick order a giant television just to play in its box. Squidward gets to have the television, and while he is watching it he hears noises and looks outside. Patrick and SpongeBob are found in the box playing with their imaginations. Squidward hears more noises and suspects they have something in the box that creates the noises. Squidward finally sneaks out at night and finds the true powers of his imagination."
+  },
+  {
+    "id": "sponges3e5a",
+    "title": "Mermaid Man and Barnacle Boy IV",
+    "season": 3,
+    "episode": 90,
+    "file": "SpongeS3E5A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/a/ac/Mermaid_Man_and_Barnacle_Boy_IV_title_card.png",
+    "route": "/spongebob/mermaid_man_and_barnacle_boy_iv",
+    "desc": "Mermaid Man accidentally leaves his utility belt at the Krusty Krab. SpongeBob tries to return it to him, but they run off before he can. SpongeBob keeps the belt and gets into all kinds of mischief with it, accidentally shrinking all of Bikini Bottom starting with Squidward."
+  },
+  {
+    "id": "sponges3e5b",
+    "title": "Doing Time",
+    "season": 3,
+    "episode": 91,
+    "file": "SpongeS3E5B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/e0/Doing_Time_title_card.png",
+    "route": "/spongebob/doing_time",
+    "desc": "During a routine boating exam, SpongeBob gets into an accident at the Shady Shoals Rest Home. Mrs. Puff, being the driving instructor, is responsible for the accident and is taken into custody. In prison, Mrs. Puff starts to value her time at the Bikini Bottom Jail, being away from everyday complications in her life, including teaching at Mrs. Puff's Boating School, but gets afraid when a guilt-ridden SpongeBob, with the help of Patrick, tries to help her escape. Mrs. Puff, after being at the Bikini Bottom Jail for a short time, goes through repeated cycles of the accident and realizes all the events of this episode are possibly her imagination."
+  },
+  {
+    "id": "sponges3e6a",
+    "title": "Snowball Effect",
+    "season": 3,
+    "episode": 92,
+    "file": "SpongeS3E6A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/e2/Snowball_Effect_title_card.png",
+    "route": "/spongebob/snowball_effect",
+    "desc": "A snowstorm hits Bikini Bottom after a glacier settles above the city. For SpongeBob and Patrick, it means snowball fights. They go out in the snow and play, while Squidward complains about the racket. When SpongeBob and Patrick decide to have a snowball war, Squidward is dismayed when they call a truce, so he tries to restart the war. When demonstrating, he accidentally declares war on SpongeBob and Patrick, and takes it too far when building his fort."
+  },
+  {
+    "id": "sponges3e6b",
+    "title": "One Krabs Trash",
+    "season": 3,
+    "episode": 93,
+    "file": "SpongeS3E6B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/0/0a/One_Krabs_Trash_title_card.png",
+    "route": "/spongebob/one_krabs_trash",
+    "desc": "Mr. Krabs has a yard sale, and sells SpongeBob a drink hat for $10, only to then learn that it is a potentially priceless collector's item. Mr. Krabs tries to get the hat back from SpongeBob so he can get the fortune, but when he does, he then learns that it is actually worthless."
+  },
+  {
+    "id": "sponges3e7a",
+    "title": "As Seen on TV",
+    "season": 3,
+    "episode": 94,
+    "file": "SpongeS3E7A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/ed/As_Seen_on_TV_title_card.png",
+    "route": "/spongebob/as_seen_on_tv",
+    "desc": "SpongeBob makes a very short cameo in the first Krusty Krab's commercial in which he is barely visible. SpongeBob lets his supposed fame go to his head when an elderly man recognizes him (mistaking him as a cereal box from another commercial). SpongeBob irritates the customers when he tries to entertain them, thinking he is now a celebrity."
+  },
+  {
+    "id": "sponges3e7b",
+    "title": "Can You Spare a Dime?",
+    "season": 3,
+    "episode": 95,
+    "file": "SpongeS3E7B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/2b/Can_You_Spare_a_Dime%3F_title_card.png",
+    "route": "/spongebob/can_you_spare_a_dime",
+    "desc": "Mr. Krabs loses his first dime earned and accuses Squidward of stealing it on the barest evidence. Squidward gets fed up with his employer's cheapness and insults, so he quits his job thinking he will find another one easily. He falls upon hardships and spends all his savings. He is forced to turn to SpongeBob, who he takes great advantage of. SpongeBob gets tired of doing everything for Squidward and must get him his job back at the Krusty Krab. After eventually finding the dime (which turns out to be huge), Mr. Krabs rehires Squidward but then accuses him of misplacing his dime, again on the barest evidence. Having started another argument, SpongeBob puts on his maid uniform Squidward ordered him to wear before, anticipating the inevitable."
+  },
+  {
+    "id": "sponges3e8a",
+    "title": "No Weenies Allowed",
+    "season": 3,
+    "episode": 96,
+    "file": "SpongeS3E8A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/f/f3/No_Weenies_Allowed_title_card.png",
+    "route": "/spongebob/no_weenies_allowed",
+    "desc": "SpongeBob and Sandy come across the Salty Spitoon, the toughest club in the city, after a karate duel at the beach. Sandy makes it through the bouncer, but SpongeBob does not. He has to prove to the bouncer that he is tough enough. After several attempts, with help from Patrick, he gets inside, but injures himself after slipping on an ice cube."
+  },
+  {
+    "id": "sponges3e8b",
+    "title": "Squilliam Returns",
+    "season": 3,
+    "episode": 97,
+    "file": "SpongeS3E8B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/cc/Squilliam_Returns_title_card.png",
+    "route": "/spongebob/squilliam_returns",
+    "desc": "Squidward's rival, Squilliam Fancyson, has returned to torment Squidward on his failures since high school. Squidward lies and tells Squilliam that he actually owns a fine dining restaurant, which Squilliam asks to visit that night. Squidward frantically turns the Krusty Krab into a five-star restaurant after convincing Mr. Krabs to let him run it. However, things do not go well as Squidward planned. Squidward tells Spongebob to \"empty his mind\" of everything but fine dining. Spongebob delights Squilliam and his guests with superb service, but the plan goes awry when Squilliam asks SpongeBob his name, which he had cleared from his mind, and in panic ruins the restaurant."
+  },
+  {
+    "id": "sponges3e9a",
+    "title": "Krab Borg",
+    "season": 3,
+    "episode": 98,
+    "file": "SpongeS3E9A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/5/50/Krab_Borg_title_card.png",
+    "route": "/spongebob/krab_borg",
+    "desc": "SpongeBob stays up late one night to watch a horror film, where robots take over the world. He becomes paranoid after the film and, at work, he thinks Mr. Krabs is actually a robot. He convinces Squidward to help him, and they soon think that robots really have taken over the world. SpongeBob and Squidward interrogate Mr. Krabs by tying him up, asking him questions, and destroying his appliances."
+  },
+  {
+    "id": "sponges3e9b",
+    "title": "Rock-a-Bye Bivalve",
+    "season": 3,
+    "episode": 99,
+    "file": "SpongeS3E9B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8e/Rock-a-Bye_Bivalve_title_card.png",
+    "route": "/spongebob/rock_a_bye_bivalve",
+    "desc": "Patrick and SpongeBob find an abandoned baby scallop, and they decide to adopt and pamper it. SpongeBob takes the role of a mother and Patrick as the father who goes to \"work\" all day. The two friends soon find that parenting is not easy."
+  },
+  {
+    "id": "sponges3e10a",
+    "title": "Wet Painters",
+    "season": 3,
+    "episode": 100,
+    "file": "SpongeS3E10A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/d2/Wet_Painters_title_card.png",
+    "route": "/spongebob/wet_painters",
+    "desc": "SpongeBob and Patrick are making a mess of things at the Krusty Krab, so Mr. Krabs decides to give them a task. He tells them to paint the living room of his house, but warns them the paint is permanent. After successfully painting the room, they accidentally get paint all over Mr. Krabs' first earned dollar and must hide up the evidence before Mr. Krabs returns home, otherwise he will turn them into effigies for delights in the fireplace. When Mr. Krabs comes back, he licks the dollar that SpongeBob and Patrick got paint all over, revealing that the paint actually comes off with saliva, and he only said it was permanent to mess with them. Mr. Krabs laughs out loud in the end, spraying his spit everywhere and melting the paint job that SpongeBob and Patrick did."
+  },
+  {
+    "id": "sponges3e10b",
+    "title": "Krusty Krab Training Video",
+    "season": 3,
+    "episode": 101,
+    "file": "SpongeS3E10B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/dc/Krusty_Krab_Training_Video_title_card.png",
+    "route": "/spongebob/krusty_krab_training_video",
+    "desc": "A \"training video\" of the Krusty Krab, demonstrating what an aspiring employee must do at work at the Krusty Krab. The episode teases the Krabby Patty formula throughout, but cuts off at the end before the secret is revealed."
+  },
+  {
+    "id": "sponges3e11",
+    "title": "Party Pooper Pants",
+    "season": 3,
+    "episode": 102,
+    "file": "SpongeS3E11",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/20/Party_Pooper_Pants_title_card.png",
+    "route": "/spongebob/party_pooper_pants",
+    "desc": "In Encino, California, Patchy the Pirate hosts a house party, where Potty keeps interfering with his plans and tries to get a band of fellow marionettes called the Bird Brains to perform. In the episode proper, SpongeBob gets a \"plan-your-own-party\" kit while grocery shopping. He decides to throw a party and invite everyone he knows in Bikini Bottom. Unfortunately for his guests, SpongeBob plans everything to a tight schedule, taking all the fun from his party. When he gets accidentally locked outside, the real party begins, but SpongeBob freaks out thinking that his plan is not being followed. He then gets arrested for not inviting the police officers to his party. In the morning, Patrick tells him the party was a success. Back in Encino, Potty tricks Patchy into playing a \"flute\", which turns out to be stick of dynamite that explodes, reducing Patchy to just a head while the Bird Brains perform."
+  },
+  {
+    "id": "sponges3e12a",
+    "title": "Chocolate with Nuts",
+    "season": 3,
+    "episode": 103,
+    "file": "SpongeS3E12A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/4/47/Chocolate_with_Nuts_title_card.png",
+    "route": "/spongebob/chocolate_with_nuts",
+    "desc": "After accidentally getting Squidward's Fancy Living Digest magazine in the mail, SpongeBob and Patrick want to live \"fancy\" as well. They decide to sell chocolate bars door-to-door to everyone in Bikini Bottom. Their chocolate bars become a success after they start \"stretching the truth\" about the chocolate's effects to sell more bars."
+  },
+  {
+    "id": "sponges3e12b",
+    "title": "Mermaid Man and Barnacle Boy V",
+    "season": 3,
+    "episode": 104,
+    "file": "SpongeS3E12B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/18/Mermaid_Man_and_Barnacle_Boy_V_title_card.png",
+    "route": "/spongebob/mermaid_man_and_barnacle_boy_v",
+    "desc": "While at the Krusty Krab, the two superheroes of Bikini Bottom, Mermaid Man and Barnacle Boy, argue because Barnacle Boy feels he should not be considered a child sidekick anymore and, therefore, wants to eat an adult-sized Krabby Patty rather than a kid's meal. He wants to be called \"Barnacle Man\" and everyone (except SpongeBob) laughs at his protests, so he decides to go evil and teams up with Man Ray and the Dirty Bubble. They cause chaos all over Bikini Bottom, and Mermaid Man recruits SpongeBob, Patrick, Squidward and Sandy to dress in the superpower-granting costumes of four of his former superhero teammates to stop the villain trio. Although SpongeBob and friends accidentally defeat themselves in the ensuing battle, Mermaid Man reaches an armistice with Barnacle Boy, who returns to the good side."
+  },
+  {
+    "id": "sponges3e13a",
+    "title": "New Student Starfish",
+    "season": 3,
+    "episode": 105,
+    "file": "SpongeS3E13A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/7/73/New_Student_Starfish_title_card.png",
+    "route": "/spongebob/new_student_starfish",
+    "desc": "Patrick accompanies SpongeBob to boating school. During class, however, Patrick accidentally frames SpongeBob for drawing a mean doodle of Mrs. Puff, causing SpongeBob to be moved to the back of the classroom and costing him one of his \"good noodle\" stars. SpongeBob blames Patrick for doing it on purpose, and they get in a fight in the halls and get after school detention. The two eventually bring their friendship back by saving the class science project, Roger (an egg) before Mrs. Puff congratulates them for the act."
+  },
+  {
+    "id": "sponges3e13b",
+    "title": "ClamsEpisode",
+    "season": 3,
+    "episode": 106,
+    "file": "SpongeS3E13B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/11/Clams_title_card.png",
+    "route": "/spongebob/clams",
+    "desc": "Mr. Krabs earns his millionth dollar, and rewards SpongeBob and Squidward by taking them clam fishing for the weekend. Mr. Krabs loses his dollar after an overeager SpongeBob accidentally hooks it with his fishing line and throws it out into the water. A giant clam eats it and Mr. Krabs will not rest until he gets it returned, leaving his two employees stranded. Squidward tries to fool Krabs by giving him a regular dollar, but Krabs is insulted and uses him and SpongeBob as \"bait\" for the clam."
+  },
+  {
+    "id": "sponges3e14a",
+    "title": "Ugh/SpongeBob BC",
+    "season": 3,
+    "episode": 107,
+    "file": "SpongeS3E14A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/66/Ugh_title_card.png",
+    "route": "/spongebob/ugh_spongebob_bc",
+    "desc": "In prehistoric Encino, Patchy the Pirate presents an episode starring the cave-dwelling ancestors of SpongeBob, Patrick and Squidward—SpongeGar, Patar, and Squog (respectively)—discover fire after a lightning bolt strikes a piece of wood and sets it ablaze. They learn fire can be used to cook all sorts of food. After gorging themselves, a battle for who should control and keep the fire ensues. Another rainstorm causes the fire to be put out, but when lightning strikes Squog, SpongeGar and Patar discover he is hot enough for them to roast marshmallows."
+  },
+  {
+    "id": "sponges3e15a",
+    "title": "The Great Snail Race",
+    "season": 3,
+    "episode": 108,
+    "file": "SpongeS3E15A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/5/57/The_Great_Snail_Race_title_card.png",
+    "route": "/spongebob/the_great_snail_race",
+    "desc": "SpongeBob and Patrick discover that Squidward has ordered a female purebred racing snail named Snellie, whom he plans to enter in a snail race. After getting insulted by Squidward, SpongeBob becomes competitive and enters his own pet snail, Gary, coaching him to the point of exhaustion. At the race, Gary collapses, and Snellie comes to his aid. The two fall in love, while the race is won by Patrick's rock \"pet\", Rocky."
+  },
+  {
+    "id": "sponges3e15b",
+    "title": "Mid-Life Crustacean",
+    "season": 3,
+    "episode": 109,
+    "file": "SpongeS3E15B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/3/37/Mid-Life_Crustacean_title_card.png",
+    "route": "/spongebob/mid_life_crustacean",
+    "desc": "Mr. Krabs realizes that he is becoming old and has a midlife crisis. He overhears SpongeBob and Patrick hyping up a night out that they are planning, and figures that it would be a good way to feel hip and youthful again. Mr. Krabs gets to tag along with SpongeBob and Patrick. Note: It is no longer rerunning on Nickelodeon as of 2018, and is also not available to watch on Paramount+. It is still available on home media releases and the full episode on YouTube with the panty raid scene, and pieces of the episode can be still seen ongoing on the Nickelodeon and SpongeBob SquarePants official YouTube channels."
+  },
+  {
+    "id": "sponges3e16a",
+    "title": "Born Again Krabs",
+    "season": 3,
+    "episode": 110,
+    "file": "SpongeS3E16A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/62/Born_Again_Krabs_title_card.png",
+    "route": "/spongebob/born_again_krabs",
+    "desc": "Mr. Krabs keeps a rotten Krabby Patty to save little money. To prove it is still good, Mr. Krabs tries it and ends up hospitalized for food poisoning. The Flying Dutchman visits Mr. Krabs in hospital and threatens to take his soul unless he changes his greedy ways. Things at first go well for Mr. Krabs as his employees and customers thank him for being more generous, but he takes spending to extremes and goes bankrupt, believing the entire experience to be a dream until SpongeBob informs him otherwise. Enraged, Mr. Krabs reverts to his old habits, but instead of taking his soul, the Dutchman gives him a choice between SpongeBob and 62 cents. Mr. Krabs takes the money and is overcome with regret when Squidward calls him out for it. Finally, the Dutchman, annoyed by SpongeBob's rambling, returns him unharmed to Mr. Krabs."
+  },
+  {
+    "id": "sponges3e16b",
+    "title": "I Had an Accident",
+    "season": 3,
+    "episode": 111,
+    "file": "SpongeS3E16B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/87/I_Had_an_Accident_title_card.png",
+    "route": "/spongebob/i_had_an_accident",
+    "desc": "SpongeBob shatters his buttocks in a sandboarding injury. He soon becomes paranoid of everything in Bikini Bottom and confines himself to his house with inanimate objects for friends. Sandy and Patrick repeatedly try to get him back outside, but find that they must resort to trickery to succeed. Patrick dresses as a gorilla, but someone who looks like him arrives and unmasks himself as a real gorilla that puts Patrick and Sandy in a bag, forcing SpongeBob to face his fears and rescue his friends. The gorilla rips him in half, and while he apologizes to Patrick and Sandy, he wonders what a gorilla is doing underwater, which causes the gorilla to panic and ride off into the sunset on a horse. A live-action family watching the episode turns off the television in confusion."
+  },
+  {
+    "id": "sponges3e17a",
+    "title": "Krabby Land",
+    "season": 3,
+    "episode": 112,
+    "file": "SpongeS3E17A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/f/f7/Krabby_Land_title_card.png",
+    "route": "/spongebob/krabby_land",
+    "desc": "Summer has arrived in Bikini Bottom, and Mr. Krabs attempts to attract children so he can earn their parents' money by building a child-friendly amusement park behind the Krusty Krab. The crustacean promises grand and exciting spectacles, along with a planned visit from the non-existent Krabby the Clown, but Mr. Krabs' greediness and lack of genuine effort stops anything of the sort from occurring."
+  },
+  {
+    "id": "sponges3e17b",
+    "title": "The Camping Episode",
+    "season": 3,
+    "episode": 113,
+    "file": "SpongeS3E17B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/e6/The_Camping_Episode_title_card.png",
+    "route": "/spongebob/the_camping_episode",
+    "desc": "SpongeBob and Patrick go camping in their yards. Annoyed, Squidward tells them to be quiet, but gets challenged and sets up camp with them. They stay up late at night, and Squidward continuously hits unlucky streaks, eventually being attacked by a sea bear."
+  },
+  {
+    "id": "sponges3e18a",
+    "title": "Missing Identity",
+    "season": 3,
+    "episode": 114,
+    "file": "SpongeS3E18A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/15/Missing_Identity_title_card.png",
+    "route": "/spongebob/missing_identity",
+    "desc": "On a rainy day in a diner, SpongeBob recounts a recent tale in which he lost his identity. It is revealed that SpongeBob wore his shirt backwards while his work nametag was on the frontside."
+  },
+  {
+    "id": "sponges3e18b",
+    "title": "Plankton's Army",
+    "season": 3,
+    "episode": 115,
+    "file": "SpongeS3E18B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/d/d5/Plankton%27s_Army_title_card.png",
+    "route": "/spongebob/plankton_army",
+    "desc": "At the 25th anniversary of Plankton's first attempt to steal the Krabby Patty secret formula, the entire Krusty Krab crew becomes alert. Plankton decides to enlist the help of all of his plankton relatives, whom he misremembers as evil geniuses like him but are actually rednecks. Plankton successfully steals the formula with his family's help, but is frightened after discovering the key ingredient: plankton themselves. This revelation causes Plankton and his family to flee in terror. However, Mr. Krabs admits the formula was a fake to trick Plankton and that the real formula is in a safe location, which Squidward correctly guesses is under Mr. Krabs' bedroom mattress at home."
+  },
+  {
+    "id": "sponges3e19a",
+    "title": "The Sponge Who Could Fly",
+    "season": 3,
+    "episode": 116,
+    "file": "SpongeS3E19A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/8/8e/The_Sponge_Who_Could_Fly_title_card.png",
+    "route": "/spongebob/the_sponge_who_could_fly",
+    "desc": "Patchy the Pirate searches Encino for the lost episode of the series and, discovering the VCR tape buried \"above the surface\" at a playground, takes it home to watch it. While at the Jellyfish Fields, SpongeBob realizes that he wants to fly among with the jellyfish. He proceeds to come up with numerous ways to fly. While at home, his hair dryer inflates his trousers, giving him the ability to fly. He goes around helping people, earning their admiration and becoming a superhero of sorts. SpongeBob grows tired of helping people with their trivial needs and attempts to fly with the jellyfish, but the townspeople chase after him. The chase ends when Old Man Jenkins (who's had a string of bad luck because of SpongeBob's flying adventures during the whole episode) launches from a cannon and hits SpongeBob, tearing up his pants. However, SpongeBob is flown home by the jellyfish, realizing that flying should be left to them. At home, he witnesses Patrick flying away naturally as a superhero would."
+  },
+  {
+    "id": "sponges3e20a",
+    "title": "SpongeBob Meets the Strangler",
+    "season": 3,
+    "episode": 117,
+    "file": "SpongeS3E20A",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/a/ad/SpongeBob_Meets_the_Strangler_title_card.png",
+    "route": "/spongebob/spongebob_meets_the_strangler",
+    "desc": "SpongeBob catches a stranger littering and turns him in to the police, who explain he is the \"Tattle-tale Strangler\", a criminal who promises to strangle anyone who reports on him and his crimes. The Strangler escapes custody, so SpongeBob finds a bodyguard to protect him. The Strangler disguises himself as SpongeBob's bodyguard, all along seeking for a moment to strangle him."
+  },
+  {
+    "id": "sponges3e20b",
+    "title": "Pranks a Lot",
+    "season": 3,
+    "episode": 118,
+    "file": "SpongeS3E20B",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/c2/Pranks_a_Lot_title_card.png",
+    "route": "/spongebob/pranks_a_lot",
+    "desc": "SpongeBob takes Patrick to his favorite prank store where they purchase the latest prank item, the \"Invisible Spray\". Using the spray, the two become invisible and go on a major pranking spree across Bikini Bottom, scaring everyone in town as ghosts. At the Krusty Krab, Mr. Krabs catches the duo out after they were about to burn Mr. Krabs' dollar, and the prank is on them."
   }
 ]
 
 export const spongebobS1 = spongebobEps.filter((s1) => s1.season == 1);
 export const spongebobS2 = spongebobEps.filter((s2) => s2.season == 2);
+export const spongebobS3 = spongebobEps.filter((s3) => s3.season == 3);
