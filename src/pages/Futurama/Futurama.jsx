@@ -199,6 +199,24 @@ const Futurama = () =>
                 Hermes has a wife, <Link to="/futurama/labarbara_conrad">LaBarbara</Link>, and a 12-year-old son,
                 <Link to="/futurama/dwight_conrad"> Dwight</Link>.
               </li>
+              <li>
+                <Link to="/futurama/zoidberg">Dr. John A. Zoidberg</Link> (voiced by Billy West): Zoidberg is a <Link to="/futurama/decapodian">Decapodian</Link>,
+                a squid/lobster-hybrid alien from his home planet <Link to="/futurama/decapod_10">Decapod 10</Link>, and the neurotic staff physician of
+                Planet Express. Although he claims to be an expert on humans, his knowledge of human anatomy and physiciology is woefully inaccurate (at
+                one point, he states that his doctorate degree is actually in art history). Zoidberg's expertise seems to be with extra-terrestrial
+                creatures. Homeless and penniless, he lives in the dumpster behind Planet Express. Although Zoidberg is depicted as being Professor
+                Farnsworth's long-time friend, he is held in contempt by everyone on the crew.
+              </li>
+              <li>
+                <Link to="/futurama/amy_wong">Amy Wong</Link> (voiced by <Link to="/lauren_tom">Lauren Tom</Link>): Amy is an increidbly rich, blunt,
+                ditzy, and accident-prone yet sweet-hearted long-term intern at Planet Express. She is an astrophysics student at
+                <Link to="/futurama/mars_university">Mars University</Link> and heiress to the western hemisphere of <Link to="/futurama/mars">Mars</Link>.
+                In the second episode of season one, the Professor states that he likes having Amy around because she has the same bloodtype as him. Born
+                on Mars, she is ethnically Chinese and is prone to cursing in Cantonese and using 31st-century slang. Her parents are the wealthy ranchers
+                <Link to="/futurama/leo_wong">Leo</Link> and <Link to="/futurama/inez_wong">Inez</Link> Wong. She is promiscuous in the beginning of the
+                series, but eventually enters a monogamous relationship with <Link to="/futurama/kif_kroker">Kif Kroker</Link>. In the show's sixth season,
+                she acquires her doctorate, and in the eighth season, she and Kif become parents.
+              </li>
             </ul>
             <h3 className="article-heading-3" id="1.2">Setting</h3>
           </div>
