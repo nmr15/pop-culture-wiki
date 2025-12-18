@@ -6,6 +6,7 @@ import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { spongebobMedia, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
+import { hpbooks } from '../data/dataHarryPotter';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
@@ -471,6 +472,20 @@ const AllArticles = () =>
                 </li>
             ))}
             </ul>
+          </div>
+        </div>
+
+        {/* HARRY POTTER */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Asoue">Harry Potter</h3>
+          <p><Link to="/hpbooks">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Books</h4>
+            {hpbooks.map((hpbooks) => (
+              <li key={hpbooks.id}>
+                <Link to={hpbooks.route}>{hpbooks.title}</Link>
+              </li>
+            ))}
           </div>
         </div>
 
