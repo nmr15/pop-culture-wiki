@@ -494,7 +494,34 @@ const Simpsons = () =>
               In 2015 a Simpsons level and fun pack were released under the Lego Dimensions line.
             </p>
             <h3 className="article-heading-3" id="7.5">Board and card games</h3>
+            <p>
+              The Simpsons has inspired special editions of well-known board games, including Clue, Scrabble, Monopoly (both for The Simpsons and for
+              Treehouse of Horrow), Operation, Chess, Checkers, Pictionary, Battle of the Sexes, Jeopardy, The Game of Life, Don't Panic, Magic 8-Ball,
+              Othello, SORRY!, Poker, Darts, and Wheel of Fortune are all examples of games that have released Simpsons-related content, as well as the
+              trivia game What Would Homer Do? and Simpsons Jeopardy!. Several card games such as Top Trumps cards and The Simpsons Trading Card Game
+              have also been released. There have also been a few card games and board games unique to The Simpsons. Some examples are: The Simpsons
+              Loser Takes All!, the Don't Have a Cow dice game, The Simpsons Mystery of Life, The Simpsons Lost and Found, and The Simpsons Guessing
+              Game (similar to Guess Who?).
+            </p>
             <h3 className="article-heading-3" id="7.6">Other</h3>
+            <p>
+              As a promotion for The Simpsons Movie, the convenience store chain 7-Eleven transformed 11 of its stores in the U.S. and one in Canada
+              into Kwik-E-Marts, at the cost of approximately $10 million. 7-Eleven also sold Simpsons-themed merchandise in many of its stores. This
+              included "Squishees", "Buzz Cola", "Krusty-O's" Cereal, and "Pink Movie Donuts". This promotion resulted in a 30% increase in profits for
+              the altered 7-Eleven stores.
+            </p>
+            <p>
+              On April 9, 2009, the United States Postal Service unveiled a series of five 44 cent stamps featuring Homer, Marge, Bart, Lisa, and Maggie,
+              to commemorate the show's twentieth anniversary. "The Simpsons" is the first television series to receive this recognition while the show
+              is still in production. The stamps, designed by Matt Groening, were made available for purchase on May 7, 2009. Approximately one billion
+              will be printed.
+            </p>
+            <p>
+              Microsoft produced a limited edition The Simpsons Movie <Link>Xbox 360</Link>. Samsung released The Simpsons Movie phones, however the
+              quality of build on the phones left it prone to screen damage, although the company denied this and claimed any screen damage were
+              'user related' and deined warranty claims in Australia. Ben & Jerry's creaed a Simpsons-themed beer and donut-flavored ice cream, entitled
+              "Duff & D'oh! Nuts".
+            </p>
           </div>
         </div>
       </main>
