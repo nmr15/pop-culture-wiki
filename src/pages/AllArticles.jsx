@@ -10,6 +10,7 @@ import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS
 import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
+import { pixarFilms } from '../data/dataPixar'
 import { hpbooks } from '../data/dataHarryPotter';
 import { asoue } from '../data/dataAsoue';
 import { battlefield } from '../data/dataBattlefield';
@@ -476,9 +477,23 @@ const AllArticles = () =>
           </div>
         </div>
 
+        {/* PIXAR */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Pixar">Pixar</h3>
+          <p><Link to="/pixar">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Books</h4>
+            {pixarFilms.map((pixarFilms) => (
+              <li key={pixarFilms.id}>
+                <Link to={pixarFilms.route}>{pixarFilms.title}</Link>
+              </li>
+            ))}
+          </div>
+        </div>
+
         {/* HARRY POTTER */}
         <div className="allArticles-section">
-          <h3 className="article-heading-3" id="Asoue">Harry Potter</h3>
+          <h3 className="article-heading-3" id="HarryPotter">Harry Potter</h3>
           <p><Link to="/hpbooks">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Books</h4>
@@ -492,7 +507,7 @@ const AllArticles = () =>
 
         {/* BATTLEFIELD */}
         <div className="allArticles-section">
-          <h3 className="article-heading-3" id="Asoue">Battlefield</h3>
+          <h3 className="article-heading-3" id="Battlefield">Battlefield</h3>
           <p><Link to="/battlefield">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Games</h4>
