@@ -191,6 +191,14 @@ const Futurama = () =>
                 produce a successor, <Link to="/futurama/cubert_farnsowrth">Cubert Farnsworth</Link> (voicedby <Link to="/kath_soucie">Kath Soucie</Link>),
                 whome he treats like a son.
               </li>
+              <li>
+                <Link to="/futurama/hermes_conrad">Hermes Conrad</Link> (voiced by <Link to="/phil_lamarr">Phil LaMarr</Link>): Hermes is the Jamaican
+                accountant of Planet Express. A 36th-level bureaucrat (demoted to level 37 during the series) and proud of it, he is a stickler for
+                regulation and enamored of the tedium of paperwork and bureaucracy. Hermes is also a former champion in Olympic Limbo, a sport derived
+                from the popular party activity. He gave up limbo after the 2980 Olympics when a young fan, imitating him, broke his back and died.
+                Hermes has a wife, <Link to="/futurama/labarbara_conrad">LaBarbara</Link>, and a 12-year-old son,
+                <Link to="/futurama/dwight_conrad"> Dwight</Link>.
+              </li>
             </ul>
             <h3 className="article-heading-3" id="1.2">Setting</h3>
           </div>
