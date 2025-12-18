@@ -133,21 +133,22 @@ const Simpsons = () =>
         </table>
         <div className="div-top">
           <p>
-            The Simpsons is an American animated comedy franchise whose eponymous family consists of <Link>Homer</Link>, <Link>Marge</Link>,
-            <Link> Bart</Link>, <Link>Lisa</Link>, and <Link>Maggie</Link>. The Simpsons were created by cartoonist <Link>Matt Groening</Link> for
-            a series of <Link>animated shorts</Link> that debuted on The Tracey Ullman Show on <Link>Fox</Link> on April 19, 1987. After a three-season
-            run, the sketch was developed into <Link>The Simpsons</Link>, a half-hour prime time show that was an early hit for Fox, becoming the first
-            Fox series to land in the Top 30 ratings in a season (1989-1990). The popularity of The Simpsons had made it a billion-dollar merchandising
-            and media franchise. Alongside the television series, the characters of the show have been featured in a variety of media, including books,
-            comic books, a magazine, musical releases, and video games.
+            The Simpsons is an American animated comedy franchise whose eponymous family consists of <Link to="/simpsons/homer_simpson">Homer</Link>,
+            <Link to="/simpsons/marge_simpson"> Marge</Link>, <Link to="/simpsons/bart_simpson">Bart</Link>, <Link to="/simpsons/lisa_simpson">Lisa</Link>,
+            and <Link to="/simpsons/maggie_simpson">Maggie</Link>. The Simpsons were created by cartoonist <Link to="matt_groening">Matt Groening</Link>
+            for a series of animated shorts that debuted on The Tracey Ullman Show on <Link>Fox</Link> on April 19, 1987. After a three-season
+            run, the sketch was developed into <Link to="/simpsons/the_simpsons_series">The Simpsons</Link>, a half-hour prime time show that was an early
+            hit for Fox, becoming the first Fox series to land in the Top 30 ratings in a season (1989-1990). The popularity of The Simpsons had made it a
+            billion-dollar merchandisingand media franchise. Alongside the television series, the characters of the show have been featured in a variety
+            of media, including books, comic books, a magazine, musical releases, and video games.
           </p>
           <p>
-            <Link>The Simpsons Movie</Link>, a feature-length film, was released in 2007 and was the eighth highest-grossing film of that year. A variety
-            of merchandise, including T-shirts, DVDs, board games, and action figures have been released. The Simpsons merchandise has sold well,
-            generating $2 billion in revenue during the first 14 months of sales. In 2003, about 500 companies around the world were licensed to use The
-            Simpsons characters in their advertising. In 2008, $750 million worth of The Simpsons merchandise were purchased worldwide. Peter Byrnes, Fox
-            executive vice-president of licensing and merchandising, called The Simpsons "without doubt the biggest licensing entity that Fox has had,
-            full stop, I would say from either TV or film."
+            <Link to="/simpsons/the_simpsons_movi">The Simpsons Movie</Link>, a feature-length film, was released in 2007 and was the eighth
+            highest-grossing film of that year. A varietyof merchandise, including T-shirts, DVDs, board games, and action figures have been released. The
+            Simpsons merchandise has sold well, generating $2 billion in revenue during the first 14 months of sales. In 2003, about 500 companies around
+            the world were licensed to use The Simpsons characters in their advertising. In 2008, $750 million worth of The Simpsons merchandise were
+            purchased worldwide. Peter Byrnes, Fox executive vice-president of licensing and merchandising, called The Simpsons "without doubt the
+            biggest licensing entity that Fox has had, full stop, I would say from either TV or film."
           </p>
           <p>
             In 2002, the property was valued at $5 billion to $6 billion according to Fox.
@@ -158,7 +159,7 @@ const Simpsons = () =>
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
             <p>
-              <Link>Matt Groening</Link> conceived of the idea for the Simpsons in the lobby of <Link>James L. Brooks</Link>'s office. Brooks, the
+              Matt Groening conceived of the idea for the Simpsons in the lobby of <Link>James L. Brooks</Link>'s office. Brooks, the
               producer of the sketch comedy program The Tracey Ullman Show, wanted to use the series of animated cartoons as bumpers between sketches.
               Groening had been called in to pitch a series of animated shorts, and had intended to present his Life in Hell series. When he realized
               that animating Life in Hell would require him to rescind publication rights for his life's work, Groening decided to go in another
