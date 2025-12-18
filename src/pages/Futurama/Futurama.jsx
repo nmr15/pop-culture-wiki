@@ -116,17 +116,19 @@ const Futurama = () =>
         </table>
         <div className="div-top">
           <p>
-            Futurama is an American animated science fiction sitcom created by <Link>Matt Groening</Link> for the Fox Broadcasting Company and later
-            revived by Comedy Central, and then Hulu. The series follows <Link>Philip J. Fry</Link>, a young man who is cryogenically preserved for 1,000
-            years and revived on December 31, 2999. Fry finds work at the interplanetary delivery company <Link>Planet Express</Link>, working alongside
-            the one-eyed mutant <Link>Leela</Link> and the robot <Link>Bender</Link>. The series was envisioned by Groening in the mid-1990s while
-            working on The Simpsons; he brought David X. Cohen aboard to develop storylines and characters to pitch the show on Fox.
+            Futurama is an American animated science fiction sitcom created by <Link to="/matt_groening">Matt Groening</Link> for the Fox Broadcasting
+            Company and later revived by Comedy Central, and then Hulu. The series follows <Link to="/futurama/philip_j_fry">Philip J. Fry</Link>, a young
+            man who is cryogenically preserved for 1,000 years and revived on December 31, 2999. Fry finds work at the interplanetary delivery company
+            <Link to="/futurama/planet_express"> Planet Express</Link>, working alongside the one-eyed mutant
+            <Link to="/futurama/turunga_leela"> Leela</Link> and the robot <Link to="/futurama/bender_rodriguez">Bender</Link>. The series was envisioned
+            by Groening in the mid-1990s while working on <Link to="/simpsons/the_simpsons_series">The Simpsons</Link>; he brought David X. Cohen aboard
+            to develop storylines and characters to pitch the show on Fox.
           </p>
           <p>
-            Following its initial cancellation by Fox, Futurama began airing reruns on <Link>Cartoon Network</Link>'s Adult Swim programming block, which
-            lasted from 2003 to 2007. It was revived in 2007 as four direct-to-video films, the last of which was released in early 2009. Comedy Central
-            entered into an agreement with 20th Century Fox Television to syndicate the existing episodes and air the films as 16 new, half-hour episodes,
-            constituting a fifth production season, or the sixth to be broadcast (in 2008 and 2009).
+            Following its initial cancellation by Fox, Futurama began airing reruns on <Link to="/cartoon_network">Cartoon Network</Link>'s Adult Swim
+            programming block, which lasted from 2003 to 2007. It was revived in 2007 as four direct-to-video films, the last of which was released in
+            early 2009. Comedy Central entered into an agreement with 20th Century Fox Television to syndicate the existing episodes and air the films as
+            16 new, half-hour episodes,constituting a fifth production season, or the sixth to be broadcast (in 2008 and 2009).
           </p>
           <p>
             In June 2009, Comedy Central picked up the series for 26 new half-hour episodes, which aired in 2010 and 2011, constituting the sixth
@@ -136,6 +138,16 @@ const Futurama = () =>
             February 9, 2022, Hulu revived the series with a 20-episode order, which premiered on July 24, 2023. In November 2023, the series was
             renewed by Hulu for two more broadcast seasons, which will air through 2026. The series returned to television on September 15, 2025, when
             the tenth season premiered on FXX.
+          </p>
+          <p>
+            Futurama has received critical acclaim throughout its run and was nominated for 17 Annie Awards, winning nine of them, and 12 Emmy Awards,
+            winning six. It was nominated four times for a Writers Guild of America Award, winning for the episodes 
+            "<Link to="/futurama/godfellas">Godfellas</Link>" and "<Link to="/futurama/the_prisoner_of_benda">The Prisoner of Benda</Link>". It was
+            nominated for a Nebula Award and received Environmental Medical Awards for the episode
+            "<Link to="/futurama/the_problem_with_poppies">The Problem with Poppies</Link>" and
+            "<Link to="/futurama/the_futurama_holiday_spectacular">The Futurama Holiday Spectacular</Link>". Merchandising includes a tie-in comic book
+            series, video games, calendars, clothes, and action figures. In 2013, TV Guide ranked Futurama on its list of the "60 Greatest TV Cartoons of
+            All Time".
           </p>
         </div>
         <div>
