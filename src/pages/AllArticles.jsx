@@ -482,12 +482,14 @@ const AllArticles = () =>
           <h3 className="article-heading-3" id="Pixar">Pixar</h3>
           <p><Link to="/pixar">Main article</Link></p>
           <div>
-            <h4 className="article-heading-4">Books</h4>
-            {pixarFilms.map((pixarFilms) => (
-              <li key={pixarFilms.id}>
-                <Link to={pixarFilms.route}>{pixarFilms.title}</Link>
-              </li>
-            ))}
+            <h4 className="article-heading-4">Films</h4>
+            <ul className="allArticles-list">
+              {pixarFilms.map((pixarFilms) => (
+                <li key={pixarFilms.id}>
+                  <Link to={pixarFilms.route}>{pixarFilms.title}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 
@@ -497,11 +499,13 @@ const AllArticles = () =>
           <p><Link to="/hpbooks">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Books</h4>
-            {hpbooks.map((hpbooks) => (
-              <li key={hpbooks.id}>
-                <Link to={hpbooks.route}>{hpbooks.title}</Link>
-              </li>
-            ))}
+            <ul className="allArticles-list">
+              {hpbooks.map((hpbooks) => (
+                <li key={hpbooks.id}>
+                  <Link to={hpbooks.route}>{hpbooks.title}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 
@@ -511,11 +515,13 @@ const AllArticles = () =>
           <p><Link to="/battlefield">Main article</Link></p>
           <div>
             <h4 className="article-heading-4">Games</h4>
-            {battlefield.map((battlefield) => (
-              <li key={battlefield.id}>
-                <Link to={battlefield.route}>{battlefield.title}</Link>
-              </li>
-            ))}
+            <ul className="allArticles-list">
+              {battlefield.map((battlefield) => (
+                <li key={battlefield.id}>
+                  <Link to={battlefield.route}>{battlefield.title}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 
