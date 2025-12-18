@@ -219,6 +219,36 @@ const Futurama = () =>
               </li>
             </ul>
             <h3 className="article-heading-3" id="1.2">Setting</h3>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Futurama_flag_of_Earth.svg/500px-Futurama_flag_of_Earth.svg.png" 
+                alt="Futurama flag of Earth" 
+              />
+              <p>The flag of the government of Earth</p>
+            </div>
+            <p>
+              Futurama is set in <Link to="/futurama/new_new_york">New New York</Link> at the turn of the 31st century, in a time filled with
+              technological wonders. The city of New New York has been built over the ruins of present-day New York City, which has become a catacomb-like
+              space that acts as New New York's sewer, referred to as "Old New York". Parts of the sewers are inhabited by
+              <Link to="/futurama/mutants"> mutants</Link>. Various devices and architecture are similar to the Populuxe style. Global warming,
+              capitalism, inflexible bureaucreacy, and substance abuse are a few of the subjects given a 31st-century exaggeration in a world where the
+              problems have become both more extreme and more common. Just as New York has become a more extreme version of itself in the future, other
+              Earth locations are given the same treatment; Los Angeles, for example, is depicted as a smog-filled apocalyptic wasteland.
+            </p>
+            <p>
+              Numerous technological advances have been made between the present day and the 31st century. The
+              <Link to="/futurama/head_museum">Head Musuem</Link>, which keeps a collection of heads alive in jars thanks to technology invented by Ron
+              Popeil (who has a guest cameo in "<Link to="/futurama/a_big_piece_of_garbage">A Big Piece of Garbage</Link>"), has resulted in many
+              historical figures and current celebrities being present, including Groening himself; this became the writers; device to feature and poke
+              fun at contemporary celebrities in the show. Several of the preserved heads shown are those of people who were already dead well before the
+              advent of this technology; one of the most prominent examples of this anomaly is former U.S. president
+              <Link to="/futurama/richard_nixon">Richard Nixon</Link>, who died in 1994 and appears in numberous episodes. The Internet, while being
+              fully immersive and encompassing all senses, even featuring its own digital world (similar to Tron or The Matrix), is slow and largely
+              consists of pornography, pop-up ads, and "filthy" (or Filthy Filthy) chat rooms. Some of it is edited to include educational material
+              ostensibly for youth. Television is still a primary of entertainment. Self-aware robots are a common sight, and are the main cause of global
+              warming due to the exhaust from their alcohol-powered systems. The wheel is obsolete (no one but Fry even seems to recognize the design),
+              having been forgotten and replaced by hover cars and a network of large, clear pneumatic transportation tubes.
+            </p>
           </div>
         </div>
         <div>
