@@ -464,9 +464,35 @@ const Simpsons = () =>
               years later, on July 20, 2019, it was announced that Season 19 would be released on December 3, 2019, on DVD.
             </p>
             <h3 className="article-heading-3" id="7.2">Music</h3>
+            <p>
+              Collections of original music featured in the series have been released on the albums Songs in the Key of Springfield, Go Simpsonic with
+              The Simpsons, and The Simpsons: Testify. Several songs have been recorded with the purpose of a single or album release and have not been
+              featured on the show. The Album The Simpsons Sing the Blues was released in September 1990 and was a success, peaking at #3 on the Billboard
+              200 and becoming certified 2x platinum by the Recording Industry Association of America. The first single from te album was the pop rang
+              song "Do the Bartman", performed by Nancy Cartwright and released on November 2, 1990. The song was written by Michael Jackson, although he
+              did not receive and credit. While the song was never officially released as a single in the United States, it was successful in the United
+              Kingsom. In 1991, it was the number one song in the UK for three weeks from February 16 to March 9 and was the seventh best-selling song
+              of the year. It sold half a million copies an was certified gold by the British Phonographic Industry on February 1, 1991.
+            </p>
             <h3 className="article-heading-3" id="7.3">T-shirts</h3>
+            <p>
+              In the early 1990s, millions of T-shirts featuring Bart were sold; as many as one million were sold on some days. Believing Bart to be a
+              bad role model, several American publish schools banned T-shirts featuring Bart next to captions such as "I'm Bart Simpsons. Who the hell
+              are you?" and "Underachiever ('And proud of it, man!)".
+            </p>
             <h3 className="article-heading-3" id="7.4">Action figures</h3>
+            <p>
+              McFarlane Toys released a line of action figures based on the film.
+            </p>
             <h4 className="article-heading-4" id="7.4.1">Lego</h4>
+            <p>
+              According to Bricklink, The Lego Group released a total of 2 Lego sets as part of Lego The Simpsons theme. The product line was eventually
+              discontinued by the end of 2015.
+            </p>
+            <p>
+              In 2014 and 2015, Lego sets based on The Simpsons were produced, including The Simpsons House and a set of Collectible Lego Minifigures.
+              In 2015 a Simpsons level and fun pack were released under the Lego Dimensions line.
+            </p>
             <h3 className="article-heading-3" id="7.5">Board and card games</h3>
             <h3 className="article-heading-3" id="7.6">Other</h3>
           </div>
