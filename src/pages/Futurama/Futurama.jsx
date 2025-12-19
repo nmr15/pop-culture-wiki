@@ -309,7 +309,25 @@ const Futurama = () =>
               business.'" The episode "<Link to="/futurama/i_roomate">I, Roomate</Link>" was produced to address Fox's concerns, with the script written
               to their specifications. Fox strongly disliked the episode, but after negotiations, Groening received the same independence with Futurama.
             </p>
+            <p>
+              The name Futurama comes from a pavilion at the 1939 New York World's Fair (as later mentioned as an opening caption of the episode
+              "<Link to="/futurama/the_inhuman_torch">The Inhuman Torch</Link>"). Designed by Norman Bel Gedes, the Futurama pavilion depicted how he
+              imagined the world would look in 1959. Many other tiles were considered for the series, including Aloha, Mars! and Doomsville, which
+              Groening notes were "resoundly rejected, by everyone concerned with it". It takes approximately six to nine months to produce an episode
+              of Futurama. The long production time results in several episodes being worked on simultaneously.
+            </p>
             <h3 className="article-heading-3" id="3.2">Writing</h3>
+            <p>
+              The planning for each episode began with a table meeting of writers, who discussed the plot ideas as a group. The writers are given index
+              cards with plot points that they are required to use as the center of activity in each episode. A single staff writer wrote an outline and
+              then produced a script. Once the first draft of a script was finished, the writers and executive producers called in the actors for a table
+              read. After this script reading, the writers collaborate to rewrite the script as a group before sending it to the animation team. At this
+              point the voice recording was also started and the script was out of the writers' hands.
+            </p>
+            <p>
+              The Futurama writing staff held three Ph.D.s, seven master's degrees, and cumulatively had more than 50 years at Harvard University. Series
+              writer Patric M. Verrone stated, "we were easily the most overeducated cartoon writers in history".
+            </p>
             <h3 className="article-heading-3" id="3.3">Voice actors</h3>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
           </div>
