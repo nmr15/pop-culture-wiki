@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const TheMandalorian = () =>
+const ObiWanKenobiSeries = () =>
 {
   useEffect(() =>
   {
-    document.title = "The Mandalorian - Pop Culture Wiki";
+    document.title = "Obi-Wan Kenobi (series) - Pop Culture Wiki";
   }, []);
 
   return(
@@ -18,22 +18,22 @@ const TheMandalorian = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>The Mandalorian</li>
+          <li>Obi-Wan Kenobi (series)</li>
         </ul>
         <div>
-          <h1 className="article-heading">The Mandalorian</h1>
+          <h1 className="article-heading">Obi-Wan Kenobi (series)</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>The Mandalorian</span>
+                <span>Obi-Wan Kenobi</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Mandalorian.svg/500px-The_Mandalorian.svg.png" alt="The Mandalorian poster" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Obi_Wan_Kenobi_series_logo_simplified.svg/640px-Obi_Wan_Kenobi_series_logo_simplified.svg.png" alt="Obi-Wan Kenobi poster" />
                 </span>
               </td>
             </tr>
@@ -51,4 +51,4 @@ const TheMandalorian = () =>
   )
 }
 
-export default TheMandalorian;
+export default ObiWanKenobiSeries;
