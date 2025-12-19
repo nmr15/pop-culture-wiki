@@ -226,6 +226,28 @@ const CaptainAmericaTheFirstAvenger = () =>
                 wanted to look out for how their relationship changes once Steve Rogers becomes Captain America. There's always a competition and they're
                 always one-upping each other. I paid attention to how Bucky is affected by Steve's change and suddenly Steve is this leader".
               </li>
+              <li>
+                <Link to="/dominic_cooper">Dominic Cooper</Link> as <Link to="/mcu/howard_stark">Howard Stark</Link>: <br />
+                The father of <Link to="/mcu/tony_stark">Tony Starj</Link> who worked on various government projects dating back to the World War II era.
+                About the role, Cooper stated, "It's an opportunity where you can see his future because I know the guy who becomes my son and I see
+                myself as an older version in <Link to="/mcu/iron_man_2">Iron Man 2</Link> which is great for an actor to have those tools. All I know of
+                him is that he's a fantastic engineer and inventor and a very slick Howard Hughes type that's into aviation and women!"
+              </li>
+              <li>
+                <Link to="/toby_jones">Toby Jones</Link> as <Link to="/mcu/arnim_zola">Arnim Zola</Link>: A biochemist for the Nazi party.
+              </li>
+              <li>
+                <Link to="/neal_mcdonough">Neal MDonough</Link> as <Link to="/mcu/timoth_dum_dum_dugan">Timothy "Dum Dum" Dugan</Link>: <br />
+                A member of Rogers' squad of commandos. McDonough wore the characer's signature bowler hat and said he grew Dugan's trademark mustache.
+                About his role in the film he remarked, "Oh, I'm going to see a lot of action. [I'm] the go-to guy, so I'm very happy with that."
+                McDonough was signed on to appear in multiple projects for Marvel, not limited to films.
+              </li>
+              <li>
+                Derek Luke as <Link to="/mcu/gabe_jnoes">Gabe Jones</Link>: <br />
+                A member of Rogers' squad of commandos. Luke said he was cast without a script or much of a description of the character. As to why he
+                took the part. "I just believed that Marvel was doing some really great work, great messages in films. The good versus evil and I was
+                just like, 'How can I be down?'"
+              </li>
             </ul>
           </div>
         </div>
