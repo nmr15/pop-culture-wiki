@@ -6,6 +6,7 @@ import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
+import { starwarsFilms, starwarsSeries } from "./data/dataStarWars";
 
 export const routesTopics = topics.map(topic => ({
     path: topic.route,
@@ -64,4 +65,16 @@ export const routesMcuChars = mcuChar.map(mcuChar => ({
 export const routesMcuMeta = mcuMeta.map(mcumeta => ({
   path: mcumeta.route,
   Component: lazy(() => import(`./pages/Mcu/${mcumeta.file}.jsx`))
+}));
+
+// STAR WARS
+
+export const routesSWFilms = starwarsFilms.map(swFilm => ({
+  path: swFilm.route,
+  Component: lazy(() => import(`./pages/StarWars/Films/${swFilm.film}.jsx`))
+}));
+
+export const routesSWSeries = starwarsSeries.map(swSeries => ({
+  path: swSeries.route,
+  Component: lazy(() => import(`./pages/StarWars/Series/${swSeries.film}.jsx`))
 }));
