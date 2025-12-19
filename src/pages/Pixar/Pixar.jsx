@@ -16,6 +16,16 @@ const Pixar = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="History"
+            sub={[
+              {id: "1.1", title: "Early history"},
+              {id: "1.2", title: "Independent company (1986-1999)"},
+              {id: "1.3", title: "Collaboration with Disney (1999-2006)"},
+              {id: "1.4", title: "Walt Disney Studios subsidiary (2006-present)"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
