@@ -254,7 +254,20 @@ const CaptainAmericaTheFirstAvenger = () =>
                 which was something he always wanted to try.
               </li>
               <p>
-                <Link to="/samuel_l_jackson">Samuel L. Jackson</Link> reprises his role as Nick Fury, the director of the super-spy agency, 
+                <Link to="/samuel_l_jackson">Samuel L. Jackson</Link> reprises his role as Nick Fury, the director of the super-spy agency,
+                <Link>S.H.I.E.L.D.</Link>. Kenneth Choi appears as <Link>Jim Morita</Link>, a Japanese-American member of Rogers' squad of commandos. Choi
+                said he was the last actor to audition for the part and that he read sides from Saving Private Ryan. About his preparation for the role,
+                Choi said, "[I] did a lot of WWII research especially in regards to the 'Nisel' soldiers, or Japanese-American soldiers. I wanted to get
+                as much true, real-life information for a guy like Jim Morita fighting in WWII. I felt that if I had built a factual basis for him, I
+                could then let go and permit the character to exist in the Marvel Universe, which allows for a lot of imaginative circumstances." Bruno
+                Ricci stars as <Link>Jacques Dernier</Link>, a French member of Rogers' squad of commandos. Ricci auditined for and got the part while
+                filming the French series The Hawk. JJ Felid appears as <Link>James Montgomery Falsworth</Link>, a Brisih member of Rogers' squad of
+                commandos. Felid called his part in the film "a very physical job. I play one of the Captain's sidekicks so I've been running around
+                shooting things and blowing things up and trying to look cool for about a year." Additionally, Richard Armitage portrays
+                <Link> Heinz Kruger</Link>, the Red Skull's top assassin, Lex Shrapnel portrays <Link>Gilmore Hodge</Link>, a candidate for the super
+                soldier program, Michael Brandon portrays <Link>Brandt</Link>, a United States Senator who recognizes the PR potential of Captain
+                America. <Link>Jeff Goldblum</Link> had originally been approached to play the part; he later played <Link>Grandmaster</Link> in
+                
               </p>
             </ul>
           </div>
