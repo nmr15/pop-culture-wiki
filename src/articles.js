@@ -71,10 +71,10 @@ export const routesMcuMeta = mcuMeta.map(mcumeta => ({
 
 export const routesSWFilms = starwarsFilms.map(swFilm => ({
   path: swFilm.route,
-  Component: lazy(() => import(`./pages/StarWars/Films/${swFilm.film}.jsx`))
+  Component: lazy(() => import(`./pages/StarWars/Films/${swFilm.file}.jsx`))
 }));
 
 export const routesSWSeries = starwarsSeries.map(swSeries => ({
   path: swSeries.route,
-  Component: lazy(() => import(`./pages/StarWars/Series/${swSeries.film}.jsx`))
+  Component: lazy(() => import(`./pages/StarWars/Series/${swSeries.file}.jsx`))
 }));
