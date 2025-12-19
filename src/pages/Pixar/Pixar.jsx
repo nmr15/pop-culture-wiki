@@ -23,9 +23,28 @@ const Pixar = () =>
               {id: "1.1", title: "Early history"},
               {id: "1.2", title: "Independent company (1986-1999)"},
               {id: "1.3", title: "Collaboration with Disney (1999-2006)"},
-              {id: "1.4", title: "Walt Disney Studios subsidiary (2006-present)"}
+              {id: "1.4", title: "Walt Disney Studios subsidiary (2006-present)", sub2: [
+                {id: "1.4.1", title: "Expansion and John Lasseter's exit (2010-2018)"},
+                {id: "1.4.2", title: "Sequels and financial success (2018-2019)"},
+                {id: "1.4.3", title: "COVID-19, Disney+ releases, and some financial struggles (2020-present)"}
+              ]}
             ]}
           />
+          <li className="sidebar-list-item"><a href="#2">Campus</a></li>
+          <Collapse 
+            id="3"
+            item="Filmography"
+            sub={[
+              {id: "3.1", title: "Traditions"},
+              {id: "3.2", title: "Sequels and prequels"},
+              {id: "3.3", title: "Adaptation to television"},
+              {id: "3.4", title: "2D animation and live-action"},
+              {id: "3.5", title: "Upcoming films"},
+              {id: "3.6", title: "Franchises"},
+              {id: "3.7", title: "Highest-grossing films"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Co-op Program</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -57,7 +76,11 @@ const Pixar = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Pixar</b>, doing business as <b>Pixar Animation Studios</b>, is an American animation studio based in Emeryville, California, known for
+            its critically and commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of
+            Disney Entertainment segment of the Walt Disney Company.
+          </p>
         </div>
       </main>
     </>
