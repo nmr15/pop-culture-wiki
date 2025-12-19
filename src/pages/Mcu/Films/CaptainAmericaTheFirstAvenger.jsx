@@ -248,6 +248,14 @@ const CaptainAmericaTheFirstAvenger = () =>
                 took the part. "I just believed that Marvel was doing some really great work, great messages in films. The good versus evil and I was
                 just like, 'How can I be down?'"
               </li>
+              <li>
+                <Link to="/stanley_tucci">Stanley Tucci</Link> as <Link to="/mcu/abraham_erskine">Abraham Erskine</Link>: <br />
+                The scientist who created the Super Soldier Serum. Tucci said that what drew him to the role was the opportunity to do a German accent,
+                which was something he always wanted to try.
+              </li>
+              <p>
+                <Link to="/samuel_l_jackson">Samuel L. Jackson</Link> reprises his role as Nick Fury, the director of the super-spy agency, 
+              </p>
             </ul>
           </div>
         </div>
