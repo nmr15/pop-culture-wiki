@@ -285,6 +285,30 @@ const Futurama = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/David_X._Cohen_%26_Matt_Groening_by_Gage_Skidmore.jpg/500px-David_X._Cohen_%26_Matt_Groening_by_Gage_Skidmore.jpg" 
+                alt="David X. Cohen & Matt Groening Comic-Con 2009" 
+              />
+              <p>David X. Cohen and Matt Groening at the Futurama panel at Comic-Con 2009</p>
+            </div>
+            <p>
+              The television network Fox expressed a strong desire in the mid-1990s for Matt Groening to create a new series after the success of his
+              previous series, The Simpsons; Groening began conceiving Futurama during this period. In 1995, he enlisted David X. Cohen, then a writer
+              and producer for The Simpsons, to assist in developing the show. The two spent time researching science fiction books, television shows,
+              and films. When they pitched the series to Fox in April 1998, Groenig and Cohen had composed many characters and storylines; Groening
+              claimed they had gone "overboard" in their discussions. Groening described trying to get the show on the air as "by far the worst
+              experience of my grown-up life".
+            </p>
+            <p>
+              Fox ordered thirteen episodes. Immediately after, however, Fox feared the themes of the show were not suitable for the network and Groening
+              and Fox executives argued over whether the network would have any creative input into the show. With The Simpsons, the network has no input.
+              Fox was particularly disturbed by the concept of <Link to="/futurama/suicide_booth">suicide booths</Link>, Doctor Zoidberg, and Bender's
+              anti-social behavior. Groening explains, "When they tried to give me notes on Futurama, I just said: 'No, we're going to do this just the
+              way we did Simpsons.' And they said, 'Well, we don't do business that way anymore.' And I said, 'Oh, well, that's the only way I do
+              business.'" The episode "<Link to="/futurama/i_roomate">I, Roomate</Link>" was produced to address Fox's concerns, with the script written
+              to their specifications. Fox strongly disliked the episode, but after negotiations, Groening received the same independence with Futurama.
+            </p>
             <h3 className="article-heading-3" id="3.2">Writing</h3>
             <h3 className="article-heading-3" id="3.3">Voice actors</h3>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
