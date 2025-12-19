@@ -82,6 +82,42 @@ const Pixar = () =>
             Disney Entertainment segment of the Walt Disney Company.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"History"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Early history</h3>
+            <h3 className="article-heading-3" id="1.2">Independent company (1986-1999)</h3>
+            <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
+            <h3 className="article-heading-3" id="1.4">Walt Disney Studios subsidiary (2006-present)</h3>
+            <h4 className="article-heading-4" id="1.4.1">Expansion and John Lasseter's exit (2010-2018)</h4>
+            <h4 className="article-heading-4" id="1.4.2">Sequels and financial success (2018-2019)</h4>
+            <h4 className="article-heading-4" id="1.4.3">COVID-19, Disney+ releases, and some financial struggles (2020-present)</h4>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={2} title={"Campus"} />
+          <div>
+            
+          </div>
+        </div>
+         <div>
+          <Heading2 id={3} title={"Filmography"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Traditions</h3>
+            <h3 className="article-heading-3" id="3.2">Sequels and prequels</h3>
+            <h3 className="article-heading-3" id="3.3">Adaptation to television</h3>
+            <h3 className="article-heading-3" id="3.4">2D animation and live-action</h3>
+            <h3 className="article-heading-3" id="3.5">Upcoming films</h3>
+            <h3 className="article-heading-3" id="3.6">Franchises</h3>
+            <h3 className="article-heading-3" id="3.7">Highest-grossing films</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={4} title={"Co-op Program"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
