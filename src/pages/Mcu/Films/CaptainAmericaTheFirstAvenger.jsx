@@ -218,7 +218,13 @@ const CaptainAmericaTheFirstAvenger = () =>
                 fighter."
               </li>
               <li>
-                
+                <Link to="/sebastian_stan">Sebastian Stan</Link> as <Link to="/mcu/bucky_barnes">James Buchanan "Bucky" Barnes</Link>: <br />
+                A sergeant in the United States Army, Rogers' best friend, and member of his squad of commandos. Stan signed on for "five or six
+                pixtures". He revealed that he did not know anything about the comic books, but watched a lot of documentaries and films aboout World
+                War II in preparation for the role, calling Band of Brothers "very helpful". About the role, Stan stated, "Steve Rogers and Bucky are both
+                orphans and kind of like brothers. They kind of grow up together and look after each other. It's a very human, relatable thing... I also
+                wanted to look out for how their relationship changes once Steve Rogers becomes Captain America. There's always a competition and they're
+                always one-upping each other. I paid attention to how Bucky is affected by Steve's change and suddenly Steve is this leader".
               </li>
             </ul>
           </div>
