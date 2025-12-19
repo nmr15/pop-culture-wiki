@@ -253,34 +253,51 @@ const CaptainAmericaTheFirstAvenger = () =>
                 The scientist who created the Super Soldier Serum. Tucci said that what drew him to the role was the opportunity to do a German accent,
                 which was something he always wanted to try.
               </li>
-              <p>
-                <Link to="/samuel_l_jackson">Samuel L. Jackson</Link> reprises his role as Nick Fury, the director of the super-spy agency,
-                <Link>S.H.I.E.L.D.</Link>. Kenneth Choi appears as <Link>Jim Morita</Link>, a Japanese-American member of Rogers' squad of commandos. Choi
-                said he was the last actor to audition for the part and that he read sides from Saving Private Ryan. About his preparation for the role,
-                Choi said, "[I] did a lot of WWII research especially in regards to the 'Nisel' soldiers, or Japanese-American soldiers. I wanted to get
-                as much true, real-life information for a guy like Jim Morita fighting in WWII. I felt that if I had built a factual basis for him, I
-                could then let go and permit the character to exist in the Marvel Universe, which allows for a lot of imaginative circumstances." Bruno
-                Ricci stars as <Link>Jacques Dernier</Link>, a French member of Rogers' squad of commandos. Ricci auditined for and got the part while
-                filming the French series The Hawk. JJ Felid appears as <Link>James Montgomery Falsworth</Link>, a Brisih member of Rogers' squad of
-                commandos. Felid called his part in the film "a very physical job. I play one of the Captain's sidekicks so I've been running around
-                shooting things and blowing things up and trying to look cool for about a year." Additionally, Richard Armitage portrays
-                <Link> Heinz Kruger</Link>, the Red Skull's top assassin, Lex Shrapnel portrays <Link>Gilmore Hodge</Link>, a candidate for the super
-                soldier program, Michael Brandon portrays <Link>Brandt</Link>, a United States Senator who recognizes the PR potential of Captain
-                America. <Link>Jeff Goldblum</Link> had originally been approached to play the part; he later played <Link>Grandmaster</Link> in
-                <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link> (2017). <Link>David Bradley</Link> appears as the church keeper where the Tesseract
-                is held. Natalie Dormer portrays Lorraine, a private who attempts to seduce Rogers, and <Link>Jenna Coleman</Link> appears as Connie,
-                Bucky's date at the World Expo. Laura Haddock, who would go on to portray <Link>Meredith Quill</Link> in
-                <Link to="/mcu/guardians_of_the_galaxy_film" >Guardians of the Galaxy</Link> (2014), hasa brief appearance as an autograph seeker.
-                Guardians of the Galaxy writer/director <Link>James Gunn</Link> jokingly claimed that this was
-                <Link to="/mcu/peter_quill"> Peter Quill</Link>'s grandmaster. <Link>Stan Lee</Link> has a cameo appearance as a general.
-              </p>
             </ul>
+            <p>
+              <Link to="/samuel_l_jackson">Samuel L. Jackson</Link> reprises his role as Nick Fury, the director of the super-spy agency,
+              <Link>S.H.I.E.L.D.</Link>. Kenneth Choi appears as <Link>Jim Morita</Link>, a Japanese-American member of Rogers' squad of commandos. Choi
+              said he was the last actor to audition for the part and that he read sides from Saving Private Ryan. About his preparation for the role,
+              Choi said, "[I] did a lot of WWII research especially in regards to the 'Nisel' soldiers, or Japanese-American soldiers. I wanted to get
+              as much true, real-life information for a guy like Jim Morita fighting in WWII. I felt that if I had built a factual basis for him, I
+              could then let go and permit the character to exist in the Marvel Universe, which allows for a lot of imaginative circumstances." Bruno
+              Ricci stars as <Link>Jacques Dernier</Link>, a French member of Rogers' squad of commandos. Ricci auditined for and got the part while
+              filming the French series The Hawk. JJ Felid appears as <Link>James Montgomery Falsworth</Link>, a Brisih member of Rogers' squad of
+              commandos. Felid called his part in the film "a very physical job. I play one of the Captain's sidekicks so I've been running around
+              shooting things and blowing things up and trying to look cool for about a year." Additionally, Richard Armitage portrays
+              <Link> Heinz Kruger</Link>, the Red Skull's top assassin, Lex Shrapnel portrays <Link>Gilmore Hodge</Link>, a candidate for the super
+              soldier program, Michael Brandon portrays <Link>Brandt</Link>, a United States Senator who recognizes the PR potential of Captain
+              America. <Link>Jeff Goldblum</Link> had originally been approached to play the part; he later played <Link>Grandmaster</Link> in
+              <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link> (2017). <Link>David Bradley</Link> appears as the church keeper where the Tesseract
+              is held. Natalie Dormer portrays Lorraine, a private who attempts to seduce Rogers, and <Link>Jenna Coleman</Link> appears as Connie,
+              Bucky's date at the World Expo. Laura Haddock, who would go on to portray <Link>Meredith Quill</Link> in
+              <Link to="/mcu/guardians_of_the_galaxy_film" >Guardians of the Galaxy</Link> (2014), hasa brief appearance as an autograph seeker.
+              Guardians of the Galaxy writer/director <Link>James Gunn</Link> jokingly claimed that this was
+              <Link to="/mcu/peter_quill"> Peter Quill</Link>'s grandmaster. <Link>Stan Lee</Link> has a cameo appearance as a general.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              In April 1997, Marvel Studios was in negotiations with Mark Gordon and Gary Levinson to produce Captain America, and Larry Wilson and
+              Leslie Boham were set to write a script. In May 2000, Marvel teamed with Artisan Entertainment to help finance the film. However, a lawsuit
+              arose between <Link to="/marvelcomics">Marvel Comics</Link> and <Link>Joe Simon</Link> over the ownership of Captain America copyrights,
+              disrupting the development process of the film. The lawsuit was eventually settled in September 2003. Following the settlement, Marvel was
+              preparing to license the film rights to <Link>Warner Bros.</Link> until producer David Maisel suggested that the company produce the film
+              themselves. In 2005, Marvel received a $525 million investment from Merrill Lynch, allowing them to independently produce ten films,
+              including Captain America. Paramount Pictures agrred to distribute the film. Originally, the film would stand alone; producer <Link>Kevin
+              Feige</Link> said "about half" the movie would be set during World War II before moving into the modern day. Producer Avi Arad said, "The
+              biggest opportunity with Captain America is as a man 'out of time', coming back today, looking at our world through the eyes of someone who
+              thought the perfect world was small-town United States. Sixty years go by, and who are we today? Are we better?" He cited the Back to the
+              Future trilogy as an influence, and claimed he had "someone in mind to be the star, and definitely someone in mind to be the director". In
+              February 2006, Arad hoped to have a summer of 2008 theatrical release date. <Link>Jon Favreau</Link> approached Arad to direct the film as
+              a comedy, but he chose to make <Link to="/mcu/iron_man_film">Iron Man</Link> (2008) instead. In April 2006, David Seif was hired to write
+              the script. He explained that Captain America was his favorite superhero as a child because "my dad told me I could one day be Captain
+              America". Joe Johnston met with Marvel to dicsuss directing the film.
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
