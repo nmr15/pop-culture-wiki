@@ -249,6 +249,30 @@ const Futurama = () =>
               warming due to the exhaust from their alcohol-powered systems. The wheel is obsolete (no one but Fry even seems to recognize the design),
               having been forgotten and replaced by hover cars and a network of large, clear pneumatic transportation tubes.
             </p>
+            <p>
+              Environmentally, common animals still remain, alongside mutated, cross-bred (sometimes with humans) and extraterrestrial animals.
+              Ironically, spotted owls are often shown to have replaced rats as common household pests. Although rats still exist, sometimes rats act
+              like pigeons, though pigeons still exist, as well. Anchovies have been extinct for 800 years because of the Decapodian. Earth still suffers
+              the effects of greenhouse gases, although in <Link to="/futurama/xmas_story">one episode</Link> Leela states that its effects have been
+              counteracted by nuclear winter. In another episode, the effects of global warming have been somewhat mitigated by the dropping of a giant
+              ice cube into the ocean, and later by pushing Earth farther away from the Sun, which also extends the year by one week.
+            </p>
+            <p>
+              Religion is a prominent part of society, although the dominant relgions have evolved. A merging of the major religious groups of the 20th
+              century has resulted in the First Amalgamated Church, while Voodoo is now mainstream. New religions include Oprahism, Robotology, and the
+              banned religion of Star Trek fandom. Religious figures include Father Changstein-El-Gamal, the
+              <Link to="/futurama/robot_devil">Robot Devil</Link>, <Link to="/futurama/lionel_preaherbot">Reverend Lionel Preacherbot</Link>, and passing
+              references to the Space Pope, who appears to be a large crocodile-like creature. Several major holidays have robots associated with them,
+              inluding the murderous Robot Santa, Kwanzaa-bot and (in a couple of appearances) Hanukah Zombie. While very few episodes focus exclusively
+              on religion within the Futurama universe, they do cover a wide variety of subjects including predestination, prayer, the nature of salvation,
+              and relgious conversion.
+            </p>
+            <p>
+              Futuram's seting is a backdrop, and the writers are not above committing continuity errors if they serve to further the gags. For example,
+              while the <Link to="/futurama/space_pilot_3000">the pilot episode</Link> implies that the previous Planet Express crew was killed by a
+              space wasp, the later episode "<Link to="/futurama/the_sting">The Sting</Link> is based on the crew having been killed by space bees
+              instead. The "world of tomorrow" setting is used to highlight and lampoon issues of today and to parody the science-fiction genre.
+            </p>
           </div>
         </div>
         <div>
