@@ -267,7 +267,12 @@ const CaptainAmericaTheFirstAvenger = () =>
                 <Link> Heinz Kruger</Link>, the Red Skull's top assassin, Lex Shrapnel portrays <Link>Gilmore Hodge</Link>, a candidate for the super
                 soldier program, Michael Brandon portrays <Link>Brandt</Link>, a United States Senator who recognizes the PR potential of Captain
                 America. <Link>Jeff Goldblum</Link> had originally been approached to play the part; he later played <Link>Grandmaster</Link> in
-                
+                <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link> (2017). <Link>David Bradley</Link> appears as the church keeper where the Tesseract
+                is held. Natalie Dormer portrays Lorraine, a private who attempts to seduce Rogers, and <Link>Jenna Coleman</Link> appears as Connie,
+                Bucky's date at the World Expo. Laura Haddock, who would go on to portray <Link>Meredith Quill</Link> in
+                <Link to="/mcu/guardians_of_the_galaxy_film" >Guardians of the Galaxy</Link> (2014), hasa brief appearance as an autograph seeker.
+                Guardians of the Galaxy writer/director <Link>James Gunn</Link> jokingly claimed that this was
+                <Link to="/mcu/peter_quill"> Peter Quill</Link>'s grandmaster. <Link>Stan Lee</Link> has a cameo appearance as a general.
               </p>
             </ul>
           </div>
