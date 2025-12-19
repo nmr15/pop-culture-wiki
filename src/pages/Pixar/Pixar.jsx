@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { pixarFilms } from '../../data/dataPixar'
 import Card from '../../components/Card';
 import Collapse from '../../components/Collapse';
 import Heading2 from '../../components/Heading2';
@@ -103,6 +104,19 @@ const Pixar = () =>
          <div>
           <Heading2 id={3} title={"Filmography"} />
           <div>
+            <div className="row">
+              {pixarFilms.map((pxrFilm) => (
+                <div className="col-3" key={pxrFilm.id}>
+                  <Card 
+                    route={pxrFilm.route}
+                    img={pxrFilm.img}
+                    alt={pxrFilm.title}
+                    title={pxrFilm.title}
+                    imgStyle="card-img-vertical"
+                  />
+                </div>
+              ))}
+            </div>
             <h3 className="article-heading-3" id="3.1">Traditions</h3>
             <h3 className="article-heading-3" id="3.2">Sequels and prequels</h3>
             <h3 className="article-heading-3" id="3.3">Adaptation to television</h3>
