@@ -329,6 +329,16 @@ const Futurama = () =>
               writer Patric M. Verrone stated, "we were easily the most overeducated cartoon writers in history".
             </p>
             <h3 className="article-heading-3" id="3.3">Voice actors</h3>
+            <p>
+              Futurama had eight main cast members. Billy West performed the voices of Philip J. Fry, Professor Farnsworth, Doctor Zoidberg, Zapp Brannigan, and many
+              other incidental characters. West auditioned for "just about every part", landing the roles of the Professor and Doctor Zoidberg. Although West read for
+              Fry, his friend Charlie Schlatter was initially given the role. Due to a casting change, West was called back to audition again and was given the role.
+              West claims that the voice of Fry is deliberately modeled on his own, so as to make it difficult for another person to replicate the voice. Doctor
+              Zoidberg's voice was based on Lou Jacobi and George Jessei. The character Zapp Brannigan was originally created for and intended to be performed by
+              <Link>Phil Hartman</Link>. Hartman insisted on auditioning for the role, and "just nailed it" according to Groening. Due to Hartman's death, West was
+              given the role. West states that his version of Zapp Brannigan was an imitation of Hartman and also "modeled after a couple of big dum announcers I
+              knew".
+            </p>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
           </div>
         </div>
