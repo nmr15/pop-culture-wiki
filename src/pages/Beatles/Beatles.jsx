@@ -191,7 +191,11 @@ const Beatles = () =>
               sat unabashed in shop windows waiting for business opportunities."
             </p>
             <p>
-              Koschmider had converted a couple of strip clubs in 
+              Koschmider had converted a couple of strip clubs in the red light Reeperbahn district of St. Paull into music venues and initially placed
+              the Beatles at the Indra Club. After closing Indra due to noise complaints, he moved them to the Kaiserkeller in October. When he learned
+              they had been performing at the rival Top Ten Club in breach of their contract, he gave them one month's termination notice, and reported
+              the underage Harrison, who had obtained permission to stay in Hamburg by lying to the German authorities about his age. The authorities
+              arranged for Harrison's deportation in late November. One week later, 
             </p>
             <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
