@@ -298,6 +298,35 @@ const CaptainAmericaTheFirstAvenger = () =>
               the script. He explained that Captain America was his favorite superhero as a child because "my dad told me I could one day be Captain
               America". Joe Johnston met with Marvel to dicsuss directing the film.
             </p>
+            <p>
+              Captain America was put on hold during the 2007-2008 Wrtiers Guild of America strike. However, in January 2008, Marvel Entertainment
+              reached an interim comprehensive agreement with the Writers Guild of America that would put writers immediately back to work on various
+              projects that were under the company's development. On May 5, 2008 (after the success of Iron Man), Marvel announced the film The First
+              Avenger: Captain America (the working title) for release on May 6, 2011 (before being pushed back to July 22). Louis Leterrier, director of
+              <Link to="/mcu/the_incredible_hulk_film"> The Incredible Hulk</Link> (2008), viewed some of the concept art being created for the film and
+              was impressed enough to offer his services, but Marvel turned him down. Johnston finally signed on in November 2008, and he hired
+              <Link> Christopher Markus & Stephen McFely</Link> to rewrite. Feige cited Johnston's directorial work on October Sky (1999) and The
+              Rocketeer (1992) and his special effects work on the <Link>original Star Wars trilohy</Link> (1977-1983) to explain why he was an
+              appropriate choice. <Link>Raiders of the Lost Ark</Link> (1981), in which Johnston worked for the special effects, was an influence on the
+              film, because they hoped the film would not feel like a period piece.
+            </p>
+            <p>
+              When asked whether anti-US sentiments would affect the film's box office, Feige said, "Marvel is perceived pretty well around the world
+              right now, and I think putting another uber-Marvel hero into the worldwide box office would be a good thing. ... We have to deal with much
+              the same way that Captain America, when thawed from the Artctic Ice, entered a world that he didn't recognize," similar to the way Stan Lee
+              and Jack Kirby reintroduced the character in the 1960s. Likewise, Arad noted, "Captain America stands for freedom for all democracies, for
+              hope all around the world. He was created to stop tyranny and the idea of stopping tyranny is important today as it was then. So I think
+              that we will have some interesting challenges but at the end of the day if the movie is terrific and the movie talks to the world, it's
+              not about one place, it's about the world and I think [on] that basis it will be very successful". Later, after the election of US President
+              Barack Obama, Feige commented, "The idea of change and hope has permeated the country, regardless of politics, and that includes Hollywood.
+              Discussions in all out development meetings include the zeitgeist and how it's changed in the last two weeks. Things are being adjusted".
+              The creative team opted to not push the title character to fight any members of the Nazi Party like in a usual World War II movie, as their
+              goal was to depict the conflict through the Marvel Universe's "prism". Although they didn't have problems to feature Nazis in the film, with
+              Feige loving an iconic Captaim America cover where the character punches Adolf Hitler out, the team felt that using <Link>Hydra</Link> as
+              the main antagonists would make them be "true" to the comic book's many aspects. It was because of this that Markus and McFeely found
+              sense in using the <Link>Cosmic Cube</Link>, already set up in <Link to="/mcu/thor_film">Thor</Link> (2011), as the film's MacGuffin, while
+              using a younger Howard Stark as a key ally for the protagonist would bring, according to Markus, "that Tony Starkness".
+            </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
