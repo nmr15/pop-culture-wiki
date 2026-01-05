@@ -1,8 +1,15 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 
 const PhineasandFerb = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Phineas and Ferb - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -62,13 +69,26 @@ const PhineasandFerb = () =>
         <div>
           <h1 className="article-heading">Phineas and Ferb</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/500px-Phineas_and_Ferb_logo.svg.png" 
-            alt="Phineas and Ferb logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Phineas and Ferb</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/500px-Phineas_and_Ferb_logo.svg.png" alt="Phineas and Ferb logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Template</th>
+              <td className="infobox-data">Template</td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Phineas and Ferb is an American animated musical-comedy television series created by <Link>Dan Povenmire</Link> and <Link>Jeff "Swampy"
