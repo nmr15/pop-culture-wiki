@@ -328,6 +328,26 @@ const CaptainAmericaTheFirstAvenger = () =>
               using a younger Howard Stark as a key ally for the protagonist would bring, according to Markus, "that Tony Starkness".
             </p>
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Joe_Johnston.jpg/500px-Joe_Johnston.jpg" 
+                alt="Joe_Johnston" 
+              />
+              <p>Johnston at the 2010 San Diego Comic-Con</p>
+            </div>
+            <p>
+              In December 2009, director Joe Johnston indicated that he planned to start filming in April 2010. In a separate interview that month, he
+              described the film's pre-production: "Rick Heinrichs is production-designing and we're set up down in Manhattan Beach, California. ... We
+              have eight or ten really talented artists, and we all just sit around all day and draw pictures and say, 'Hey, wouldn't it be cool if we
+              could do this?' It's that phase of the production where money doesn't matter: 'Let's put all the greatest stuff up on the wall and [then
+              later] see what we can afford.'" The film, he said, will begin "in 1942, 1943" during World War II. "The stuff in the '60s and '70s [comic
+              books] we're sort of avoiding. We're going back to the '40s, and then forward to what they're doing with Captain America now". In February
+              2010, Johnston stated that the <Link>Invaders</Link> will appear in "the entire second half" of the film, leading fans to speculate this
+              was the World War II-era Marvel superhero team of that name, and in November, Johnston refuted speculation that the
+              <Link> Sub-Mariner</Link>, an Invaders team member in the comics, would be included. Johnston later explained that "the Invaders" had been
+              discussed simply as a possible name for the squad of commandos Captain America leads in the film. Christopher Markus, one of the
+              screenwriters, said the unnamed group was "called the <Link>Howling Commandos</Link> in the script, but no one says that out loud".
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
