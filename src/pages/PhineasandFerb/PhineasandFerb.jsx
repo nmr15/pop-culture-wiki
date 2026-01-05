@@ -109,6 +109,14 @@ const PhineasandFerb = () =>
             concluded on June 12, 2015, before two new seasons were ordered in January 2023, with the <Link>fifth season</Link> premiering on Disney
             Channel on June 5, 2025, and on <Link>Disney+</Link> the following day.
           </p>
+          <p>
+            Phineas and Ferb is one of Disney Channel's most successful animated franchises. It received high viewership in the United States on cable
+            television and influenced the development of merchandise, a live tour, spin-offs, and movies. A made-for-television film,
+            <Link> Phineas and Ferb the Movie: Across the 2nd Dimension</Link>, aired in 2011, while a follow-up titled <Link>Phineas and
+            Ferb the Movie: Candace Against the Universe</Link> was released on Disney+ in 2020. Critics praised the writing and humor of the show, citing
+            its appeal to a wide range of ages. Others criticize its perceived lack of originality and formulaic approach. The series won a Daytime Emmu
+            Award in 2010 for Outstanding Writing in Animation and several Primetime Emmy Awards for Outstanding Individual Achievement in Animation.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Premise"} />
