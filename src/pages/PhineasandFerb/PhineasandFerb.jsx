@@ -111,25 +111,25 @@ const PhineasandFerb = () =>
           </p>
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Premise</h2>
+          <Heading2 id={1} title={"Premise"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Episodes</h2>
+          <Heading2 id={2} title={"Episodes"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Characters</h2>
+          <Heading2 id={3} title={"Characters"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Development</h2>
+          <Heading2 id={4} title={"Development"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Early inspirations</h3>
             <h3 className="article-heading-3" id="4.2">Conception</h3>
@@ -137,7 +137,7 @@ const PhineasandFerb = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Production</h2>
+          <Heading2 id={5} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Writing style</h3>
             <h3 className="article-heading-3" id="5.2">Visual aspects and animation</h3>
@@ -147,7 +147,7 @@ const PhineasandFerb = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Reception</h2>
+          <Heading2 id={6} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Critical response</h3>
             <h3 className="article-heading-3" id="6.1">Ratings</h3>
@@ -155,7 +155,7 @@ const PhineasandFerb = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Other media</h2>
+          <Heading2 id={7} title={"Other media"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Films</h3>
             <h3 className="article-heading-3" id="7.2">Crossovers and short series</h3>
