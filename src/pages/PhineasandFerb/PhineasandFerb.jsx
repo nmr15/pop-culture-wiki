@@ -121,7 +121,20 @@ const PhineasandFerb = () =>
         <div>
           <Heading2 id={1} title={"Premise"} />
           <div>
-
+            <p>
+              The series follows the adventures of stepbrothers <Link>Phineas Flynn</Link> and <Link>Ferb Fletcher</Link>. They live in the fictional
+              city of <Link>Danville</Link> in an unspecified <Link>tri-state area</Link>, as they seek ways to occupy their time during their "104 days
+              of summer vacation". Often these adventures involve elaborate, life-sized, and ostensibly dangerous construction projects, which are
+              usually unrealistic in scale given the protagonists' ages (and sometimes physically impossible). The stepbrothers primarily share their
+              adventures with their friends <Link>Isabella Garcia-Shapiro</Link>, their neighbor from across the street who has a crush on Phineas, and
+              <Link> Baljeet Tjinder</Link> and <Link>Buford Van Stomm</Link>, a nerd and bully duo of frenemies. Phineas's older sister
+              <Link> Candace</Link> has two obsessions: unveiling Phineas and Ferb's schemes and ideas to her mother, and winning the attention of a boy
+              named <Link>Jeremy</Link>.
+            </p>
+            <p>
+              The subplot almost always features Phineas and Ferb's pet platypus <Link>Perry</Link>, who works as a secret agent for an all-animal
+              government organization named <Link>O.W.C.A.</Link>
+            </p>
           </div>
         </div>
         <div>
