@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { marvel } from '../data/dataMarvel';
-import { starwarsFilms, starwarsSeries } from '../data/dataStarWars';
+import { starwarsFilms, starwarsSeries, starwarsChars } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
 import { spongebobMedia, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
@@ -114,6 +114,16 @@ const AllArticles = () =>
                     </li>
                 ))}
                 </ul>
+            </div>
+            <div>
+              <h4 className="article-heading-4">Star Wars characters</h4>
+              <ul className="allArticles-list">
+              {starwarsChars.map((swChar) => (
+                <li key={swChar.id}>
+                  <Link to={swChar.route}>{swChar.title}</Link>
+                </li>
+              ))}
+              </ul>
             </div>
         </div>
 
