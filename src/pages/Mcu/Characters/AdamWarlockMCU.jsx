@@ -80,7 +80,15 @@ const AdamWarlockMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Adam Warlock</b> is a <Link>Sovereign</Link> created by his mother <Link>Ayesha</Link> as a living weapon designed to kill the
+            <Link> Guardians of the Galaxy</Link>. He was prematurely awaked by <Link>High Evolutionary</Link>, who tasked him with capturing
+            <Link to="/mcu/rocket"> Rocket</Link>, only for Adam's efforts to be thwarted by the Guardians. Adam joined his mother Ayesha on a trip to
+            <Link>Counter-Earth</Link> to retrieve Rocket under threat of Sovereign extinction, although High Evolutionary <Link>destroyed</Link> the
+            planet, killing Ayesha in the process. Adam eventually tried to attack High Evolutionary's <Link>ship</Link> but failed yet again and was
+            rescued by <Link to="/mcu/groot">Groot</Link>. In redemption, Adam later saved <Link to="/mcu/peter_quill">Star-Lord</Link> from dying in
+            space and joined the new Guardians roster under Rocket's leadership.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
@@ -127,6 +135,9 @@ const AdamWarlockMCU = () =>
           <div>
             
           </div>
+        </div>
+        <div>
+          <TableMcu />
         </div>
       </main>
     </>
