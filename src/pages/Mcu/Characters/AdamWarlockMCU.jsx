@@ -155,6 +155,17 @@ const AdamWarlockMCU = () =>
               He spotted Rocket by the window and then proceeded to crash into him. Adam tackled Rocket and crashed him through several rooms until he
               and Rocket crashed outside of Star-Lord's window.
             </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/97/Nebula_meets_Adam_Warlock.png" 
+                alt="Nebula_meets_Adam_Warlock" 
+              />
+              <p>Adam is ordered to surrender by <Link to="/mcu/nebula">Nebula</Link>.</p>
+            </div>
+            <p>
+              Outside, Adam held Rocket in his hands, but Rocket managed to escape after scrambling out of his grasp. Adam called out to him before
+              being confronted by <Link to="/mcu/nebula">Nebula</Link>, now wearing a jetpack and heavily upgraded cybernetic arm cannon.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
             <h4 className="article-heading-4" id="1.2.3">Arriving at the Orgoscope</h4>
