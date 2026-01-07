@@ -83,7 +83,50 @@ const AdamWarlockMCU = () =>
           
         </div>
         <div>
-          
+          <Heading2 id={1} title={"Biography"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <h3 className="article-heading-3" id="1.2">The Warlock</h3>
+            <h3 className="article-heading-3" id="1.3">The Next Guardians</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Personality"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Powers and abilities"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Powers</h3>
+            <h3 className="article-heading-3" id="3.2">Abilities</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Equipment"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Vehicles</h3>
+            <h3 className="article-heading-3" id="4.2">Other equipment</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Facilities"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Trivia"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Behind the scenes"} />
+          <div>
+            
+          </div>
         </div>
       </main>
     </>
