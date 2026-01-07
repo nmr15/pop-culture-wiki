@@ -105,7 +105,31 @@ const AdamWarlockMCU = () =>
           <Heading2 id={1} title={"Biography"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
+
             <h4 className="article-heading-4" id="1.1.1">Ayesha's Revenge</h4>
+            <div className="article-quote">
+              <p>
+                <i>"That, my child, is the next step in our evolution. More powerful. More beautiful. More capable of destroying the Guardians
+                of the Galaxy."</i><br />
+                - Ayesha to <Link>Sovereign Chambermaid</Link>
+              </p>
+            </div>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/GotGV2_Adam_3.jpg" 
+                alt="GotGV2_Adam" 
+              />
+              <p>Adam gestating in a pod</p>
+            </div>
+            <p>
+              Following the Battle on Ego's Planet, Ayesha feared the Sovereign council would seek to punish her for her humiliating defeat at the hands
+              of the Guardians of the Galaxy, which resulted in the destruction of an entire fleet of <Link>Omnicrafts</Link>.
+            </p>
+            <p>
+              However, Ayesha remained confident in still being able to exact vengeance against the Guardians. Using an advanced <Link>birth pod</Link>,
+              Ayesha began creating a being capable of defeating the Guardians. While showing the Birth Pod to her chambermaid, Ayesha decided to name
+              her creation Adam.
+            </p>
             <h3 className="article-heading-3" id="1.2">The Warlock</h3>
             <h4 className="article-heading-4" id="1.2.1">Battle with the Guardians</h4>
             <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
