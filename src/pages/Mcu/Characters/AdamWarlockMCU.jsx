@@ -130,8 +130,32 @@ const AdamWarlockMCU = () =>
               Ayesha began creating a being capable of defeating the Guardians. While showing the Birth Pod to her chambermaid, Ayesha decided to name
               her creation Adam.
             </p>
+
             <h3 className="article-heading-3" id="1.2">The Warlock</h3>
             <h4 className="article-heading-4" id="1.2.1">Battle with the Guardians</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a1/Adam_flying_in_space.png" 
+                alt="Adam_flying_in_space" 
+              />
+              <p>Adam flies through space to <Link>Knowhere</Link></p>
+            </div>
+            <div className="article-quote">
+              <p>
+                <i>"And this one was meant to be the Warlock, the apagee of your people."</i>
+              </p>
+              <p>
+                <i>"You removed him from his <Link>cocoon</Link> early, my liege."</i>
+              </p><br />
+              - High Evolutionary to Ayesha
+            </div>
+            <p>
+              Adam was soon awoken from his cocoon slightly early by High Evolutionary, who wanted him to find subject 89P13. Adam, taking on the title
+              of the Warlock, flew across space toward <Link>Knowhere</Link>, where Rocket and the Guardians of the Galaxy were supposed to be located.
+              He spotted Rocket by the window and then proceeded to crash into him. Adam tackled Rocket and crashed him through several rooms until he
+              and Rocket crashed outside of Star-Lord's window.
+            </p>
+
             <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
             <h4 className="article-heading-4" id="1.2.3">Arriving at the Orgoscope</h4>
             <h4 className="article-heading-4" id="1.2.4">Battle of Counter-Earth</h4>
