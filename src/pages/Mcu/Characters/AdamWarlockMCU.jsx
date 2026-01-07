@@ -20,9 +20,20 @@ const AdamWarlockMCU = () =>
             id="1"
             item="Biography"
             sub={[
-              {id: "1.1", title: "Creation"},
-              {id: "1.2", title: "The Warlock"},
-              {id: "1.3", title: "The Next Guardians"}
+              {id: "1.1", title: "Creation", sub2: [
+                {id: "1.1.1", title: "Ayesha's Revenge"}
+              ]},
+              {id: "1.2", title: "The Warlock", sub2: [
+                {id: "1.2.1", title: "Battle with the Guardians"},
+                {id: "1.2.2", title: "Recovering and torture"},
+                {id: "1.2.3", title: "Arriving at the Orgoscope"},
+                {id: "1.2.4", title: "Battle of Counter-Earth"},
+                {id: "1.2.5", title: "Attack on Arête Laboratories"},
+                {id: "1.2.6", title: "Second chance"}
+              ]},
+              {id: "1.3", title: "The Next Guardians", sub2: [
+                {id: "1.3.1", title: "Battle of Krylor"}
+              ]}
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Personality</a></li>
