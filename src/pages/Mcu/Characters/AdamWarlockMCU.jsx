@@ -105,8 +105,16 @@ const AdamWarlockMCU = () =>
           <Heading2 id={1} title={"Biography"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <h4 className="article-heading-4" id="1.1.1">Ayesha's Revenge</h4>
             <h3 className="article-heading-3" id="1.2">The Warlock</h3>
+            <h4 className="article-heading-4" id="1.2.1">Battle with the Guardians</h4>
+            <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
+            <h4 className="article-heading-4" id="1.2.3">Arriving at the Orgoscope</h4>
+            <h4 className="article-heading-4" id="1.2.4">Battle of Counter-Earth</h4>
+            <h4 className="article-heading-4" id="1.2.5">Attack on Arête Laboratories</h4>
+            <h4 className="article-heading-4" id="1.2.6">Second chance</h4>
             <h3 className="article-heading-3" id="1.3">The Next Guardians</h3>
+            <h4 className="article-heading-4" id="1.3.1">Battle of Krylor</h4>
           </div>
         </div>
         <div>
