@@ -70,12 +70,19 @@ const AdamWarlockMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Will Poulter</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data"><Link>Guardians of the Galaxy Vol. 3</Link></td>
             </tr>
           </tbody>
         </table>
         <div className="div-top">
+          
+        </div>
+        <div>
           
         </div>
       </main>
