@@ -435,6 +435,18 @@ const Futurama = () =>
               "<Link>Viva Mars Vegas</Link>" features a unique handmade variant of the opening, using cardboard, plastic, and model ships guided by
               string and rods.
             </p>
+            <p>
+              Series director Scott Vanzo has remarked on the difficulty of animating the sequence. It took four to five weeks to fully animate the
+              sequence, and it consists of over 80 levels of 3D animation composited together. It takes approximately one hour to render a single frame,
+              and each second of the sequence consists of around 30 frames.
+            </p>
+            <p>
+              The Futurama theme was created by Christopher Tyng. The theme is played on the titular bells but is occasionally remixed for use in
+              specific episodes, includign a version by the Beastie Boys used for the episode "<Link>Hell is Other Robots</Link>", in which they guest
+              starred as their own heads for both a concert and as part of the Robot Devil's song. The original version of the theme also samples a drum
+              break originating from "Amen, Brother" by American sould group The Winstons. The theme has been noted for its similarities to Pierre Henry's
+              1967 Psyché Rock.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Languages</h3>
 
