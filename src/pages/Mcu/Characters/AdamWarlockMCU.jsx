@@ -229,7 +229,11 @@ const AdamWarlockMCU = () =>
               <p>Adam being pinned by High Evolutionary.</p>
             </div>
             <p>
-              Adam continued
+              Adam continued yelling at High Evolutionary; however, the High Evolutionary started to hurdle him against the wall, using his gravity
+              powers. The High Evolutionary reprimanded Ayesha for not only failing to retrieve 89P13, but also failing to notify him of his existence
+              without conforming his status. Ayesha pleaded with the High Evolutionary for a second chance to make it up to him. The High Evolutionary
+              agreed and dropped Adam, freeing him from his torture before he warned her if she would fail again, he would destroy the entire Sovereign
+              civilization because it was his right as their creator.
             </p>
 
             <h4 className="article-heading-4" id="1.2.3">Arriving at the Orgoscope</h4>
