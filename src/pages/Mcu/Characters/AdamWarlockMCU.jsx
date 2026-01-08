@@ -148,7 +148,60 @@ const AdamWarlockMCU = () =>
             </div>
             <p>
               Outside, Adam held Rocket in his hands, but Rocket managed to escape after scrambling out of his grasp. Adam called out to him before
-              being confronted by <Link to="/mcu/nebula">Nebula</Link>, now wearing a jetpack and heavily upgraded cybernetic arm cannon.
+              being confronted by <Link to="/mcu/nebula">Nebula</Link>, now wearing a jetpack and heavily upgraded cybernetic arm cannon. She demands
+              him to stand down, but Adam attacks her before she blasted him to an apartment. However, Adam was unfazed by the blast and clashed with
+              Nebula, forcing her to crash in the middle of <Link>Eitar</Link>. He pinned Nebula down on the ground and mercilessly punched her
+              repeatedly, heavily damaging and tossing her away into a shop nearby.
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/16/Groot_vs._Adam.png" 
+                alt="Groot vs. Adam" 
+              />
+              <p>Adam being strangled by Groot.</p>
+            </div>
+            <p>
+              Next, Groot jumped down and toppled Adam. He tried to fight back, but Groot had his roots wrapped around him tightly, forcing Adam to boost
+              himself and Groot up in the air around the Knowhere buildings. He blasted some of the roots off him and then proceeded to rip Groot to
+              shreds by dragging him across the buildings before he came down with only Groot's head remaining. As Groot fled, Adam walked around to find
+              Rocket, only to be ambushed by a <Link>Yaka Arrow</Link>. However, the arrow weakly deflects off of Adam's cheek, annoying him. Adam spoke
+              out for whoever threw the arrow at him. When there was no answer, he merely uttered that the attacker was a baby.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/The_Warlock_cometh.png" 
+                alt="Adam fatally blasts Rocket" 
+              />
+              <p>Adam fatally blasts Rocket.</p>
+            </div>
+            <p>
+              He finally managed to locat Rocket at the armory, and before Rocket could attack. Adam blasted him with his rays, severely wounding the
+              Halfworlder. Mantis found Adam and attacked, but he grabbed her arm and easily broke it in half before thorwing her aside. Next came
+              Star-Lord, who blasted Adam with his <Link>Quad Blaster</Link>, but this was no use once again.
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Adam_punching_Drax.png" 
+                alt="Adam punching Drax" 
+              />
+              <p>Adam repeatedly hits Drax.</p>
+            </div>
+            <p>
+              Despire doing no harm, Star-Lord distracts Adam long enough for Drax to sneak up behind him and pick him up. Drax punched Adam across the
+              shops and then threw him over to another shop. Despite that, Adam remained unfazed and then attacked Drax with a headbutt and multiple
+              punches before using his rays to blast him. However, Drax survived as Adam approached him and beat the latter senselessly.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/Exitar_Knowhere.png" 
+                alt="Exitar Knowhere" 
+              />
+              <p>Adam escapes after being wounded.</p>
+            </div>
+            <p>
+              Adam focused on Drax, allowing a healed Nebula to come up behind him and stab Adam through the chest. A shocked Adam remarked at how that
+              hurt before collapsing to the ground. Adam soon mustered the strength to get up as everyone checked on the injured Rocket. He used this
+              commotion to make his getaway, struggling to fly off back to <Link>Arête Laboratories</Link> on Counter-Earth.
             </p>
 
             <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
