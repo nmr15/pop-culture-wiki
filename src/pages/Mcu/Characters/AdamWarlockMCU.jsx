@@ -205,11 +205,153 @@ const AdamWarlockMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.2">Recovering and torture</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ed/Adam_Warlock_with_his_mommy.png" 
+                alt="Adam and Ayesha" 
+              />
+              <p>An inured Adam is held by Ayesha.</p>
+            </div>
+            <p>
+              Adam returned to the Arête Laboratories, the main headquarters of High Evolutionary on Counter-Earth. Ayesha, devastated over Adam's sorry
+              state, used one of the <Link>Med-Paks</Link> to heal the stab injury. She cradles him in her arms, and he commented that it still hurts
+              before the High Evolutionary and his close advisors came in to the hangar to confront them. He admonished Ayesha for his failure, while
+              Ayesha rebuked him for failing to underestimate the powers of the Guardians of the Galaxy. Nonetheless, he mocked Adam for being a
+              so-called false higher being of the Sovereign people, to which Ayesha defended by telling him he opened his pod too early. The High
+              Evolutionary did not care, to which Adam became vigialnt over. The High Evolutionary told her that there was still something wrong with
+              him, despite being let out early. Adam spoke up, saying that there was, in fact, something wrong with him as there was a hole in his chest.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/96/Adam_in_Pain.png" 
+                alt="Adam in pain" 
+              />
+              <p>Adam being pinned by High Evolutionary.</p>
+            </div>
+            <p>
+              Adam continued
+            </p>
+
             <h4 className="article-heading-4" id="1.2.3">Arriving at the Orgoscope</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/Curious_Adam.png" 
+                alt="Adam looking around the Orgoscope" 
+              />
+              <p>Adam looking around the Orgoscope.</p>
+            </div>
+            <p>
+              The Sovereign
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/ff/Adam_Kills_Fitz-Gibbonok.png" 
+                alt="Adam obliterates Fitz-Gibbons" 
+              />
+              <p>Adam obliterates <Link>Fitz-Gibbons</Link>.</p>
+            </div>
+            <p>
+              Adam looked
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/33/Regretful_Warlock.png" 
+                alt="Adam speaks of his regret about killing" 
+              />
+              <p>Adam speaks of his regret about killing.</p>
+            </div>
+            <p>
+              Master <Link>Karja</Link>
+            </p>
+
             <h4 className="article-heading-4" id="1.2.4">Battle of Counter-Earth</h4>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/54/Adam_Warlock_and_Blurp.png" 
+                alt="Adam arrives with Blurp to tackle War Pig" 
+              />
+              <p>Adam arrives with <Link>Blurp</Link> to tackle <Link>War Pig</Link>.</p>
+            </div>
+            <p>
+              They followed
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/15/War_Pig_Death.png" 
+                alt="Adam kills War Pig to capture Rocket" 
+              />
+              <p>Adam kills War Pig to capture Rocket.</p>
+            </div>
+            <p>
+              Adam then noticed
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e8/Adam_Warlock_in_flight.png" 
+                alt="Adam flies toward Ayesha to save her" 
+              />
+              <p>Adam flies toward Ayesha to save her.</p>
+            </div>
+            <p>
+              He was apalled
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/36/Adam_Tired_Counter-Earth.png" 
+                alt="Adam passes out from exhaustion" 
+              />
+              <p>Adam passes out from exhaustion.</p>
+            </div>
+            <p>
+              Adam manged to survive
+            </p>
+
             <h4 className="article-heading-4" id="1.2.5">Attack on Arête Laboratories</h4>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/eb/Adam_Awakes.png" 
+                alt="Adam wakes up aboard the Bowie" 
+              />
+              <p>Adam wakes up aboard the <Link>Bowie</Link>.</p>
+            </div>
+            <p>
+              Adam regained
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/18/Adam_Blurp_Attack.png" 
+                alt="Adam flies toward Star-Lord and Gamora" 
+              />
+              <p>Adam flies toward Star-Lord and Gamora.</p>
+            </div>
+            <p>
+              Taking Blurp with him.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4a/Adam_in_Burning_Ship.png" 
+                alt="Adam inside the burning ship" 
+              />
+              <p>Adam inside the burning ship.</p>
+            </div>
+            <p>
+              Meanwhile, Star-Lord
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5e/Adam_Final_Battle.png/revision/latest?cb=20230815173025" 
+                alt="A tired Adam attempts to use his powers" 
+              />
+              <p>A tired Adam attempts to use his powers.</p>
+            </div>
+            <p>
+              While the Guardians
+            </p>
+
             <h4 className="article-heading-4" id="1.2.6">Second chance</h4>
+
             <h3 className="article-heading-3" id="1.3">The Next Guardians</h3>
+
             <h4 className="article-heading-4" id="1.3.1">Battle of Krylor</h4>
           </div>
         </div>
