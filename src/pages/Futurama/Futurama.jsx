@@ -316,6 +316,7 @@ const Futurama = () =>
               Groening notes were "resoundly rejected, by everyone concerned with it". It takes approximately six to nine months to produce an episode
               of Futurama. The long production time results in several episodes being worked on simultaneously.
             </p>
+            
             <h3 className="article-heading-3" id="3.2">Writing</h3>
             <p>
               The planning for each episode began with a table meeting of writers, who discussed the plot ideas as a group. The writers are given index
@@ -328,6 +329,7 @@ const Futurama = () =>
               The Futurama writing staff held three Ph.D.s, seven master's degrees, and cumulatively had more than 50 years at Harvard University. Series
               writer Patric M. Verrone stated, "we were easily the most overeducated cartoon writers in history".
             </p>
+            
             <h3 className="article-heading-3" id="3.3">Voice actors</h3>
             <p>
               Futurama had eight main cast members. Billy West performed the voices of Philip J. Fry, Professor Farnsworth, Doctor Zoidberg, Zapp Brannigan, and many
@@ -372,7 +374,28 @@ const Futurama = () =>
               Coolio's death in 2022, David X. Cohen has revealed on TMZ that he recorded new dialogue for <Link>Kwanzaabot</Link> before his death in
               an upcoming episode, schedule to be released in 2023.
             </p>
+            
             <h3 className="article-heading-3" id="3.4">Animation</h3>
+            <div className="img-right img-card">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:FuturamaExplosionCGI.jpg" 
+                alt="Futurama Explosion CGI" 
+              />
+              <p>Computer-generated explosion from the episode "<Link>The Sting</Link>" (season 4)</p>
+            </div>
+            <p>
+              Futurama is animated by Rough Draft Studios in Glendale, California and South Korea. The American studio would receive the completed script
+              of an episode and create a storyboard consisting of more than 100 drawings. It would then produce a pencil-drawn animatic with 1,000 frames.
+              Rough Draft's sister studio in Korea would render the 30,000 frame finished episode.
+            </p>
+            <p>
+              In addition to traditional cartoon drawing, Rough Draft Studios often used CGI for fast or complex shots, such as the movement of
+              spaceships, explosions, nebulae, large crowds, and snow scenes. The opening sequence was entirely rendered in CGI. The CGI was rendered
+              at 24 frames per second (as opposed to hand-drawn often done at 12 frames per second) and the lack of artifacts made the animation appear
+              very smooth and fluid. CGI characters looked slightly different due to spatially "cheating" hand-drawn characters by drawing slightly out
+              of proportion or off-perspective features to emphasize traits of the face or body, improving legibility of an expression. PowerAnimator and
+              Maya were used to draw the comic-like CGI while Toonz was used for digital ink and paint and compositing.
+            </p>
           </div>
         </div>
         <div>
