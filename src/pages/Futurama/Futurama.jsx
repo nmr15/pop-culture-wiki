@@ -396,6 +396,18 @@ const Futurama = () =>
               of proportion or off-perspective features to emphasize traits of the face or body, improving legibility of an expression. PowerAnimator and
               Maya were used to draw the comic-like CGI while Toonz was used for digital ink and paint and compositing.
             </p>
+            <p>
+              The series began high-definition production in season 5, with <Link>Bender's Big Score</Link>. The opening sequence was re-rendered and
+              scaled to adapt to the show's transition to 16:9 widescreen format.
+            </p>
+            <p>
+              For the final episode of season 6, Futurama was completely reanimated in three different styles: the firstt segment of the episode features
+              black-and-white Fleishcher- and Walter Lantz-style animation, the second was drawin in the style of a low-resolution video game, and the
+              final segment was in the style of Japanese anime.
+            </p>
+            <p>
+              Beginning with season 8, Digital eMation also handles the overseas animation along with Rough Draft Korea.
+            </p>
           </div>
         </div>
         <div>
