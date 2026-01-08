@@ -447,6 +447,27 @@ const Futurama = () =>
               break originating from "Amen, Brother" by American sould group The Winstons. The theme has been noted for its similarities to Pierre Henry's
               1967 Psyché Rock.
             </p>
+            <p>
+              It was originally intended for the Futurama theme to be remixed in every episode. This was first trialled in the opening sequence for
+              "<Link>Mars University</Link>", however it was realize upon broadcast that the sound did not transmit well through most television sets
+              and the idea was subsequently abandoned. Despite this, beatbox renditions of the theme performd by Billy West and John DiMaggio are used
+              for the episodes "<Link>Bender Should Not Be Allowed on TV</Link>" and "<Link>Spanish Fry</Link>".
+            </p>
+            <p>
+              As the series began high-definition production in 2007 with the four direct-to-DVD movies and season 6 on Comedy Central, the opening
+              sequenc was updated to match, and a slightly slower and revamped remix of the theme song, which replaced the Amen break with a
+              higher-fidelity drum recording and was previously used in the Futurama video game, replaced the original theme. Bender's Big Score has an
+              extended opening sequence, introducing each of the main characters. In <Link>The Beast with a Billion Backs</Link> and
+              <Link> Bender's Game</Link> the ship passes through the screen's glass and temporarily becomes part of the environment depicted therein, a
+              pastiche of Disney's Steamboat Willie and Yellow Submarine respectively, before crashing through the screen glass on the way out. In
+              <Link> Into the Wild Green Yonder</Link>, a completely different opening sequence invloves a trip through a futuristic version of Las
+              Vegas located on Mars. The theme tune is sung by Family Guy and American Dad creator <Link>Seth MacFarlane</Link> and is different from
+              the standard theme tune. The end of the film incorporates a unique variation of the opening sequence; as the Planet Express Ship enters a
+              wormhole, it converts into a pattern of lights similar to the lights that appear in the opening sequence. All four movies' end credits
+              utilize an edited version from the full-length remix of the theme instead of the original end credits theme, and an even shorter edit was
+              introduced in season 6. Another update of the opening sequence in season 8 for Hulu added more visual gags, and the end credits theme was
+              replaced again with an edit of the 2012 digital download release version, which added an extra layer of beats.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Languages</h3>
 
