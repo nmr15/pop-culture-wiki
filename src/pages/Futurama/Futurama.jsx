@@ -414,8 +414,32 @@ const Futurama = () =>
           <Heading2 id={4} title={"Hallmarks"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Opening sequence</h3>
+            <p>
+              Much like the opening sequence of The Simpsons with its chalkboard gags, Lisa's sax solo, and couch gags, Futurama has a distinctive
+              opening sequence featuring minor gags. As the show begins, blue lights fill the screen and the Planet Express Ship flies across the screen
+              with the title of the show being spelled out in its wake. Underneath the title is a joke caption such as "Painstakingly drawn before a live
+              audience" or "When you see the robot: DRINK!". After flying through downtown New New York and past various recurring characters, the
+              Planet Express ship crashes through a large screen showing a short clip from a classic cartoon. These have included clips from Quasi at
+              the Quackadero, Looney Tunes and Merrie Melodies shorts, cartoons produced by Fleisher Studios and Famous Studios, a short of The Simpsons
+              from a Tracey Ullman episode, the show's own opening sequence in "<Link>The Devil's Hands are Idle Playthings</Link>" or a scene from the
+              episode. Most episodes in season 6 and season 7 use an abridged opening sequence, omitting the brief clip of a classic cartoon.
+              "<Link>Rebirth</Link>", "<Link>That Darn Katz!</Link>", "<Link>Benderama</Link>", "<Link>Yo Leela Leela</Link>", "<Link>Decision
+              3012</Link>", "<Link>Forty Percent Leadbelly</Link>", "<Link>T.: The Terrestrial</Link>", "<Link>Leela and the Genestalk</Link>", and
+              "<Link>Stench and Stenchability</Link>" have been the only episodes since "<Link>Spanish Fry</Link>" to feature a classic cartoon clip.
+              Several episodes begin with a cold opening before the opening sequence, although these scenes do not always correspond with the episode's
+              plot. The opening sequence has lampooned several times within the show, in episodes including "<Link>That's Lobstertainment!</Link>",
+              "<Link>The Problem with Popplers</Link>", as "Future-roma" in "<Link>The Duh-Vinci Code</Link>" and as "Futurella" in "Lrrreconcilable
+              Ndnfifferences". "Decision 3012" and "The Problem with Popplers" are the only episodes that directly tie into the opening, with Bender
+              delibaretly crashing the ship after seeing an advertisemtn for free beer in "Decision 3012", while in "The Problem with Popplers", Leela
+              crashes through it during an ad for Popplers, with Fry saying "That's the second billboard you've crashed through this week!",
+              "<Link>Viva Mars Vegas</Link>" features a unique handmade variant of the opening, using cardboard, plastic, and model ships guided by
+              string and rods.
+            </p>
+
             <h3 className="article-heading-3" id="4.2">Languages</h3>
+
             <h3 className="article-heading-3" id="4.3">30th Century Fox</h3>
+
             <h3 className="article-heading-3" id="4.4">Humor</h3>
           </div>
         </div>
