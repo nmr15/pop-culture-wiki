@@ -358,6 +358,20 @@ const Futurama = () =>
               seasons 1-4, LaMarche is billed as supporting cast and Tom, LaMarr and Herman billed as guest stars, despite appearing in most episodes.
               LaMarche was promoted to main cast and Tom, LaMarr, and Herman to supporting cast in season 5, and promoted again to main cast in season 6.
             </p>
+            <p>
+              In addition to the main cast, Frank Welker voiced Nibbler and Kath Soucie voiced Cubert and several supporting and minor characters. Like
+              The Simpsons, many episodes of Futurama feature guest voices from a wide range of professions, including actors, entertainers, bands,
+              musicians, and scientists. Many guest stars voiced supporting characters, although many voiced themselves, usually as their own head
+              preserved in a jar. Recurring guest stars included <Link>Tom Kenny</Link>, <Link>Dan Castellanea</Link> (as <Link>the Robot Devil</Link>),
+              Dawnn Lewis, Nicole St. John, Al Gore, Phil Hendrie, Coolio, and George Takei, among others. Bumper Robinson used to be a cast member of
+              the series (who played Hermes' son Dwight), but left the series after season 4 which cause Phil LaMarr to take over the role afterwards.
+              <Link> John Goodman</Link> was meant to reprise the role of <Link>Robot Santa</Link> after "<Link>Xmas Story</Link>" in future episodes
+              but was unable to reprise the role due to scheduling problems. As a result, John DiMaggio took over that role starting with
+              "<Link>A Tale of Two Santas</Link>". In the same episode, Dan Castellaneta was unable to reprise the Robot Devil due to his work on The
+              Simpsons. Maurice LaMarche took over that role for that episode only as Castellaneta did reprise the role in future episodes. Following
+              Coolio's death in 2022, David X. Cohen has revealed on TMZ that he recorded new dialogue for <Link>Kwanzaabot</Link> before his death in
+              an upcoming episode, schedule to be released in 2023.
+            </p>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
           </div>
         </div>
