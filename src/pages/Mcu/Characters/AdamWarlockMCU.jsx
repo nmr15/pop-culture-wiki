@@ -107,13 +107,6 @@ const AdamWarlockMCU = () =>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
 
             <h4 className="article-heading-4" id="1.1.1">Ayesha's Revenge</h4>
-            <div className="article-quote">
-              <p>
-                <i>"That, my child, is the next step in our evolution. More powerful. More beautiful. More capable of destroying the Guardians
-                of the Galaxy."</i><br />
-                - Ayesha to <Link>Sovereign Chambermaid</Link>
-              </p>
-            </div>
             <div className="img-left img-card">
               <img 
                 src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/GotGV2_Adam_3.jpg" 
@@ -139,15 +132,6 @@ const AdamWarlockMCU = () =>
                 alt="Adam_flying_in_space" 
               />
               <p>Adam flies through space to <Link>Knowhere</Link></p>
-            </div>
-            <div className="article-quote">
-              <p>
-                <i>"And this one was meant to be the Warlock, the apagee of your people."</i>
-              </p>
-              <p>
-                <i>"You removed him from his <Link>cocoon</Link> early, my liege."</i>
-              </p><br />
-              - High Evolutionary to Ayesha
             </div>
             <p>
               Adam was soon awoken from his cocoon slightly early by High Evolutionary, who wanted him to find subject 89P13. Adam, taking on the title
