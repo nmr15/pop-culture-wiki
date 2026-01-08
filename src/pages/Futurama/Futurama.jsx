@@ -480,11 +480,17 @@ const Futurama = () =>
           <Heading2 id={5} title={"Cancellations, syndications, and revivals"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Fox cancellation</h3>
+
             <h3 className="article-heading-3" id="5.2">Adult Swim reruns</h3>
+
             <h3 className="article-heading-3" id="5.3">Comedy Central revival</h3>
+
             <h3 className="article-heading-3" id="5.4">Comedy Central cancellation</h3>
+
             <h3 className="article-heading-3" id="5.5">Simpsorama</h3>
+
             <h3 className="article-heading-3" id="5.6">Syndication</h3>
+
             <h3 className="article-heading-3" id="5.7">Hulu revival</h3>
           </div>
         </div>
@@ -492,8 +498,11 @@ const Futurama = () =>
           <Heading2 id={6} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Critical response</h3>
+
             <h3 className="article-heading-3" id="6.2">Ratings</h3>
+
             <h3 className="article-heading-3" id="6.3">Accolades</h3>
+
             <h3 className="article-heading-3" id="6.4">Other honors</h3>
           </div>
         </div>
@@ -501,7 +510,9 @@ const Futurama = () =>
           <Heading2 id={7} title={"Other media"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Comic books</h3>
+
             <h3 className="article-heading-3" id="7.2">Films</h3>
+            
             <h3 className="article-heading-3" id="7.3">Video games</h3>
           </div>
         </div>
