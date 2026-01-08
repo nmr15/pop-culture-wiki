@@ -378,7 +378,7 @@ const Futurama = () =>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
             <div className="img-right img-card">
               <img 
-                src="https://en.wikipedia.org/wiki/File:FuturamaExplosionCGI.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/en/8/8b/FuturamaExplosionCGI.jpg" 
                 alt="Futurama Explosion CGI" 
               />
               <p>Computer-generated explosion from the episode "<Link>The Sting</Link>" (season 4)</p>
@@ -512,7 +512,7 @@ const Futurama = () =>
             <h3 className="article-heading-3" id="7.1">Comic books</h3>
 
             <h3 className="article-heading-3" id="7.2">Films</h3>
-            
+
             <h3 className="article-heading-3" id="7.3">Video games</h3>
           </div>
         </div>
