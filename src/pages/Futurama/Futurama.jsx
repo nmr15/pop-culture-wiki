@@ -339,6 +339,25 @@ const Futurama = () =>
               given the role. West states that his version of Zapp Brannigan was an imitation of Hartman and also "modeled after a couple of big dum announcers I
               knew".
             </p>
+            <p>
+              Katy Ssgal voiced Leela, and is the only member of the main cast to voice only one character. The role of Leela was originally assigned to
+              Nicole Sullivan. In an interview in June 2010, Sagal remarked that she did not know that another person was to originally voice Leela until
+              many years after the show first began.
+            </p>
+            <p>
+              John DiMaggio performed the voice of the robot Bender Bending Rodriguez and other, more minor, characters. Bender was the most difficult
+              character to cast, as the show's creators had not decided what a robot should sound like. DiMaggio originally auditioned for the role of
+              Professor Farnsworth, using the voice he uses to perform Bender, and also auditioned for Bender using a different voice. DiMaggio described
+              Bender's voice as a comination of a sloppy drunk, Slim Pickens and a character his college friend created named "Charlie the sausage-lover".
+            </p>
+            <p>
+              Phil LaMarr voices Hermes Conrad, his son Dwight, Ethan Bubblegum Tate, and Reverend Preacherbot. Lauren Tom voices Amy Wong, and Tress
+              MacNeille voices <Link>Mom</Link> and various other characters. Maurice LaMarche voices Kif Kroker and several supporting characters.
+              LaMarche won the Emmy Award for Outstanding Voice-Over Performance in 2011 for his performance as <Link>Lrrr</Link> and Orson Welles in
+              the episode "<Link>Lrrreconcile Ndndifferences</Link>". David Herman voiced <Link>Scruffy</Link> and various supporting characters. During
+              seasons 1-4, LaMarche is billed as supporting cast and Tom, LaMarr and Herman billed as guest stars, despite appearing in most episodes.
+              LaMarche was promoted to main cast and Tom, LaMarr, and Herman to supporting cast in season 5, and promoted again to main cast in season 6.
+            </p>
             <h3 className="article-heading-3" id="3.4">Animation</h3>
           </div>
         </div>
