@@ -387,23 +387,45 @@ const TonyStarkMCU = () =>
             <h4 className="article-heading-4" id="1.5.9">40th birthday party</h4>
 
             <h3 className="article-heading-3" id="1.6">Rediscovering the element</h3>
+            <h4 className="article-heading-4" id="1.6.1">replace</h4>
+
             <h3 className="article-heading-3" id="1.7">Making the new War Machine armor</h3>
+            <h4 className="article-heading-4" id="1.7.1">replace</h4>
+
             <h3 className="article-heading-3" id="1.8">Not a suitable candidate</h3>
+            <h4 className="article-heading-4" id="1.8.1">replace</h4>
+
             <h3 className="article-heading-3" id="1.9">Chitauri invasion</h3>
+            <h4 className="article-heading-4" id="1.9.1">replace</h4>
+
             <h3 className="article-heading-3" id="1.10">After New York</h3>
+
             <h3 className="article-heading-3" id="1.11">Mandarin threat</h3>
+
             <h3 className="article-heading-3" id="1.12">Temporary Retirement</h3>
+
             <h3 className="article-heading-3" id="1.13">War on Hydra</h3>
+
             <h3 className="article-heading-3" id="1.14">Avengers Reassembled</h3>
+
             <h3 className="article-heading-3" id="1.15">Ultron offensive</h3>
+
             <h3 className="article-heading-3" id="1.16">Leaving the Avengers</h3>
+
             <h3 className="article-heading-3" id="1.17">Avengers Civil War</h3>
+
             <h3 className="article-heading-3" id="1.18">Launching a satellite</h3>
+
             <h3 className="article-heading-3" id="1.19">Advising Spider-Man</h3>
+
             <h3 className="article-heading-3" id="1.20">Return to Stark Industries</h3>
+
             <h3 className="article-heading-3" id="1.21">Infinity War</h3>
+
             <h3 className="article-heading-3" id="1.22">A normal life</h3>
+
             <h3 className="article-heading-3" id="1.23">Time Heist</h3>
+
             <h3 className="article-heading-3" id="1.24">Legacy</h3>
           </div>
         </div>
