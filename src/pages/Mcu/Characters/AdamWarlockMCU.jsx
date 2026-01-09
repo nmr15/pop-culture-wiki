@@ -174,7 +174,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam fatally blasts Rocket.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               He finally managed to locat Rocket at the armory, and before Rocket could attack. Adam blasted him with his rays, severely wounding the
               Halfworlder. Mantis found Adam and attacked, but he grabbed her arm and easily broke it in half before thorwing her aside. Next came
               Star-Lord, who blasted Adam with his <Link>Quad Blaster</Link>, but this was no use once again.
@@ -186,7 +186,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam repeatedly hits Drax.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Despire doing no harm, Star-Lord distracts Adam long enough for Drax to sneak up behind him and pick him up. Drax punched Adam across the
               shops and then threw him over to another shop. Despite that, Adam remained unfazed and then attacked Drax with a headbutt and multiple
               punches before using his rays to blast him. However, Drax survived as Adam approached him and beat the latter senselessly.
@@ -198,7 +198,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam escapes after being wounded.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Adam focused on Drax, allowing a healed Nebula to come up behind him and stab Adam through the chest. A shocked Adam remarked at how that
               hurt before collapsing to the ground. Adam soon mustered the strength to get up as everyone checked on the injured Rocket. He used this
               commotion to make his getaway, struggling to fly off back to <Link>Arête Laboratories</Link> on Counter-Earth.
@@ -212,7 +212,7 @@ const AdamWarlockMCU = () =>
               />
               <p>An inured Adam is held by Ayesha.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Adam returned to the Arête Laboratories, the main headquarters of High Evolutionary on Counter-Earth. Ayesha, devastated over Adam's sorry
               state, used one of the <Link>Med-Paks</Link> to heal the stab injury. She cradles him in her arms, and he commented that it still hurts
               before the High Evolutionary and his close advisors came in to the hangar to confront them. He admonished Ayesha for his failure, while
@@ -228,7 +228,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam being pinned by High Evolutionary.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Adam continued yelling at High Evolutionary; however, the High Evolutionary started to hurdle him against the wall, using his gravity
               powers. The High Evolutionary reprimanded Ayesha for not only failing to retrieve 89P13, but also failing to notify him of his existence
               without conforming his status. Ayesha pleaded with the High Evolutionary for a second chance to make it up to him. The High Evolutionary
@@ -244,18 +244,26 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam looking around the Orgoscope.</p>
             </div>
-            <p>
-              The Sovereign
+            <p className="p-bottom-margin">
+              The Sovereign had a chance to make it up the High Evolutionary when the Guardians were reported to inflitrate the Orgonscope. Adam and
+              Ayesha arrive at the Orgonscope, but find a <Link>ravager</Link> outside of the premises. They bring him in for interrogation. As a curious
+              Adam admires and examines the room, while Ayesha does her work on <Link>Fitz-Gibbonok</Link> and his pet <Link>Blurp</Link>. When
+              Fitz-Gibbonok refuses to answer, Ayesha tells Adam to show him they mean business. An immature Adam takes this as a sign to kill him, so he
+              obliterates Fitz-Gibbonok.
             </p>
             <div className="img-left img-card">
               <img 
                 src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/ff/Adam_Kills_Fitz-Gibbonok.png" 
-                alt="Adam obliterates Fitz-Gibbons" 
+                alt="Adam obliterates Fitz-Gibbonok" 
               />
-              <p>Adam obliterates <Link>Fitz-Gibbons</Link>.</p>
+              <p>Adam obliterates <Link>Fitz-Gibbonok</Link>.</p>
             </div>
-            <p>
-              Adam looked
+            <p className="p-bottom-margin">
+              Adam looks at his mother, proud of himself for following orders. However, Ayesha only snaps at Adam for being a clumsy fool. Adam tries to
+              defend his actions, but his mother scolds him even further now that Fitz-Gibbonok is dead, and they could no longer get any information
+              from the Guardians. Adam suggests they interrogate his little companion friend, Blurp, but Ayesha responds that Blurp is an animal, and
+              that he could not even speak up. Adam looks at the sad Blurp and starts to have doubts about their actions, saying that he does not like
+              how it makes him feel.
             </p>
             <div className="img-right img-card">
               <img 
@@ -264,8 +272,12 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam speaks of his regret about killing.</p>
             </div>
-            <p>
-              Master <Link>Karja</Link>
+            <p className="p-bottom-margin">
+              Master <Link>Karja</Link> makes fun of Adam, telling Ayesha that he has a moron just like Adam. Just then, Famora contacts Fitz-Gibbonok
+              through his communicator, to which Ayesha responds by interpreting her as a <Lin>United Ravagers</Lin> crew member. Gamora tells her to
+              send a crew to come pick her up as she would send her the coordinates to find the Guardians' ship, the Bowie. Before they leave, Adam
+              notices Blurp and, feeling sorry for killing his owner, decides to take him with them to Counter-Earth and promises to train him, much to
+              Ayesha's annoyance.
             </p>
 
             <h4 className="article-heading-4" id="1.2.4">Battle of Counter-Earth</h4>
