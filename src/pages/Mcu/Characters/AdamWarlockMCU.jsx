@@ -314,8 +314,11 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam flies toward Ayesha to save her.</p>
             </div>
-            <p>
-              He was apalled
+            <p className="p-bottom-margin">
+              He is appalled at the senseless genocide, but soon realizes Ayesha has no idea. He drops Blurp down and then flies around, frantically
+              searching for Ayesha and her <Link>ship</Link>. Eventually, he finds her still inside of their ship, but with so many explosions going off
+              around him, Adam screams out to his mother right before Ayesha is killed by the explosions that destroy her ship. The explosion knocked
+              Adam back into more explosions as Counter-Earth is being destroyed.
             </p>
             <div className="img-right img-card">
               <img 
@@ -324,8 +327,10 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam passes out from exhaustion.</p>
             </div>
-            <p>
-              Adam manged to survive
+            <p className="p-bottom-margin">
+              Adam manges to survive the explosions, but is left exhausted and wounded. Devastated, Adam rturns to the Bowie so he could get Rocket back
+              to the High Evolutionary. As he is on the entrance of the ship, Adam is confronted by Gamora. He tries to figt, but is too exhausted and
+              injured, causing him to merely collapse on the floor.
             </p>
 
             <h4 className="article-heading-4" id="1.2.5">Attack on Arête Laboratories</h4>
@@ -336,8 +341,9 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam wakes up aboard the <Link>Bowie</Link>.</p>
             </div>
-            <p>
-              Adam regained
+            <p className="p-bottom-margin">
+              Adam regains consciousness in the Bowie to find himself strapped to a bed with metal bars confiding his body. He looks up and sees Blurp
+              sitting on him. Using his immense strength, Adam breaks free from his restrains so he can confront the Guardians once again.
             </p>
             <div className="img-right img-card">
               <img 
