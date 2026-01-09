@@ -288,8 +288,11 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam arrives with <Link>Blurp</Link> to tackle <Link>War Pig</Link>.</p>
             </div>
-            <p>
-              They followed
+            <p className="p-bottom-margin">
+              They follow the Guardians to Counter-Earth, where Adam and Blurp fly out to find them. He intercepts War Pig on the Bowie and stops her
+              from killing Gamora. War Pig reminds him they are working for the same boss, the High Evolutionary, and Adam agrees, but he needs to be
+              credited with Rocket's capture so he could save his civilization, soe tells her to stand down and let him handle it. War Pig refuses and
+              tries to retaliate back, but Adam simply grabs her head and snaps it, decapitating the <Link>Hell Spawn</Link>.
             </p>
             <div className="img-right img-card">
               <img 
@@ -298,8 +301,11 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam kills War Pig to capture Rocket.</p>
             </div>
-            <p>
-              Adam then noticed
+            <p className="p-bottom-margin">
+              Adam then notices that Gamora is gone, along with Roccket. He comes out to the opening of the ship, only to notice that the
+              <Link> Humanimals</Link> are looking over at Arête Laboratories. He looks over there and realizes that the lab is starting to lift upwards.
+              He senses something is wrong and looks down at the inhabitants. He is shocked when the High Evolutionary begins to blow up Counter-Earth
+              in an attempt to start over upon realizing it failed at being the perfect society.
             </p>
             <div className="img-left img-card">
               <img 
