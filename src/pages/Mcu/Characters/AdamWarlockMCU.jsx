@@ -114,11 +114,11 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam gestating in a pod</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Following the Battle on Ego's Planet, Ayesha feared the Sovereign council would seek to punish her for her humiliating defeat at the hands
               of the Guardians of the Galaxy, which resulted in the destruction of an entire fleet of <Link>Omnicrafts</Link>.
             </p>
-            <p>
+            <p className="p-bottom-margin">
               However, Ayesha remained confident in still being able to exact vengeance against the Guardians. Using an advanced <Link>birth pod</Link>,
               Ayesha began creating a being capable of defeating the Guardians. While showing the Birth Pod to her chambermaid, Ayesha decided to name
               her creation Adam.
@@ -133,7 +133,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam flies through space to <Link>Knowhere</Link></p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Adam was soon awoken from his cocoon slightly early by High Evolutionary, who wanted him to find subject 89P13. Adam, taking on the title
               of the Warlock, flew across space toward <Link>Knowhere</Link>, where Rocket and the Guardians of the Galaxy were supposed to be located.
               He spotted Rocket by the window and then proceeded to crash into him. Adam tackled Rocket and crashed him through several rooms until he
@@ -146,7 +146,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam is ordered to surrender by <Link to="/mcu/nebula">Nebula</Link>.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Outside, Adam held Rocket in his hands, but Rocket managed to escape after scrambling out of his grasp. Adam called out to him before
               being confronted by <Link to="/mcu/nebula">Nebula</Link>, now wearing a jetpack and heavily upgraded cybernetic arm cannon. She demands
               him to stand down, but Adam attacks her before she blasted him to an apartment. However, Adam was unfazed by the blast and clashed with
@@ -160,7 +160,7 @@ const AdamWarlockMCU = () =>
               />
               <p>Adam being strangled by Groot.</p>
             </div>
-            <p>
+            <p className="p-bottom-margin">
               Next, Groot jumped down and toppled Adam. He tried to fight back, but Groot had his roots wrapped around him tightly, forcing Adam to boost
               himself and Groot up in the air around the Knowhere buildings. He blasted some of the roots off him and then proceeded to rip Groot to
               shreds by dragging him across the buildings before he came down with only Groot's head remaining. As Groot fled, Adam walked around to find
