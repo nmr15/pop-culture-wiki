@@ -305,11 +305,13 @@ const TonyStarkMCU = () =>
         <div>
           <Heading2 id={1} title={"Biography"} />
           <div>
+            {/* 1.1 */}
             <h3 className="article-heading-3" id="1.1">Early life</h3>
             <h4 className="article-heading-4" id="1.1.1">Troubled childhood</h4>
 
             <h4 className="article-heading-4" id="1.1.2">Losing his parents</h4>
 
+            {/* 1.2 */}
             <h3 className="article-heading-3" id="1.2">CEO of Stark Industries</h3>
             <h4 className="article-heading-4" id="1.2.1">Rebuilding the company</h4>
 
@@ -325,6 +327,7 @@ const TonyStarkMCU = () =>
 
             <h4 className="article-heading-4" id="1.2.7">Presenting the Jericho</h4>
 
+            {/* 1.3 */}
             <h3 className="article-heading-3" id="1.3">Becoming Iron Man</h3>
             <h4 className="article-heading-4" id="1.3.1">Kidnapped by the Ten Rings</h4>
 
@@ -350,6 +353,7 @@ const TonyStarkMCU = () =>
 
             <h4 className="article-heading-4" id="1.3.12">Meeting Nick Fury</h4>
 
+            {/* 1.4 */}
             <h3 className="article-heading-3" id="1.4">Armored adventures</h3>
             <h4 className="article-heading-4" id="1.4.1">Testing his armor</h4>
 
@@ -367,6 +371,7 @@ const TonyStarkMCU = () =>
 
             <h4 className="article-heading-4" id="1.4.8">Person of the Year</h4>
 
+            {/* 1.5 */}
             <h3 className="article-heading-3" id="1.5">Facing health problems</h3>
             <h4 className="article-heading-4" id="1.5.1">Palladium poisoning</h4>
 
@@ -386,9 +391,19 @@ const TonyStarkMCU = () =>
 
             <h4 className="article-heading-4" id="1.5.9">40th birthday party</h4>
 
+            {/* 1.6 */}
             <h3 className="article-heading-3" id="1.6">Rediscovering the element</h3>
-            <h4 className="article-heading-4" id="1.6.1">replace</h4>
+            <h4 className="article-heading-4" id="1.6.1">Nick Fury's help</h4>
 
+            <h4 className="article-heading-4" id="1.6.2">Researching his family</h4>
+
+            <h4 className="article-heading-4" id="1.6.3">A new element</h4>
+
+            <h4 className="article-heading-4" id="1.6.4">Battle at Stark Expo</h4>
+
+            <h4 className="article-heading-4" id="1.6.5">Showdown with Ivan Vanko</h4>
+
+            {/* 1.7 */}
             <h3 className="article-heading-3" id="1.7">Making the new War Machine armor</h3>
             <h4 className="article-heading-4" id="1.7.1">replace</h4>
 
@@ -399,34 +414,49 @@ const TonyStarkMCU = () =>
             <h4 className="article-heading-4" id="1.9.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.10">After New York</h3>
+            <h4 className="article-heading-4" id="1.10.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.11">Mandarin threat</h3>
+            <h4 className="article-heading-4" id="1.11.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.12">Temporary Retirement</h3>
+            <h4 className="article-heading-4" id="1.12.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.13">War on Hydra</h3>
+            <h4 className="article-heading-4" id="1.13.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.14">Avengers Reassembled</h3>
+            <h4 className="article-heading-4" id="1.14.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.15">Ultron offensive</h3>
+            <h4 className="article-heading-4" id="1.15.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.16">Leaving the Avengers</h3>
+            <h4 className="article-heading-4" id="1.16.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.17">Avengers Civil War</h3>
+            <h4 className="article-heading-4" id="1.17.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.18">Launching a satellite</h3>
+            <h4 className="article-heading-4" id="1.18.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.19">Advising Spider-Man</h3>
+            <h4 className="article-heading-4" id="1.19.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.20">Return to Stark Industries</h3>
+            <h4 className="article-heading-4" id="1.20.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.21">Infinity War</h3>
+            <h4 className="article-heading-4" id="1.21.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.22">A normal life</h3>
+            <h4 className="article-heading-4" id="1.22.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.23">Time Heist</h3>
+            <h4 className="article-heading-4" id="1.23.1">replace</h4>
 
             <h3 className="article-heading-3" id="1.24">Legacy</h3>
+            <h4 className="article-heading-4" id="1.24.1">replace</h4>
           </div>
         </div>
         <div>
