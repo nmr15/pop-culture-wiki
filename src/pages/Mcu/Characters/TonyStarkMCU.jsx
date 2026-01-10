@@ -405,14 +405,35 @@ const TonyStarkMCU = () =>
 
             {/* 1.7 */}
             <h3 className="article-heading-3" id="1.7">Making the new War Machine armor</h3>
-            <h4 className="article-heading-4" id="1.7.1">replace</h4>
 
+            {/* 1.8 */}
             <h3 className="article-heading-3" id="1.8">Not a suitable candidate</h3>
-            <h4 className="article-heading-4" id="1.8.1">replace</h4>
+            <h4 className="article-heading-4" id="1.8.1">Consultant for S.H.I.E.L.D.</h4>
+            <h4 className="article-heading-4" id="1.8.2">Public superhero</h4>
 
+            {/* 1.9 */}
             <h3 className="article-heading-3" id="1.9">Chitauri invasion</h3>
-            <h4 className="article-heading-4" id="1.9.1">replace</h4>
+            <h4 className="article-heading-4" id="1.9.1">Avengers Initiative</h4>
 
+            <h4 className="article-heading-4" id="1.9.2">Capturign Loki</h4>
+
+            <h4 className="article-heading-4" id="1.9.3">Meeting the Avengers</h4>
+
+            <h4 className="article-heading-4" id="1.9.4">Team tension</h4>
+
+            <h4 className="article-heading-4" id="1.9.5">Defending the Helicarrier</h4>
+
+            <h4 className="article-heading-4" id="1.9.61">Something to avenge</h4>
+
+            <h4 className="article-heading-4" id="1.9.7">Confronting Loki</h4>
+
+            <h4 className="article-heading-4" id="1.9.8">Battle of New York</h4>
+
+            <h4 className="article-heading-4" id="1.9.9">Stopping the nuke</h4>
+
+            <h4 className="article-heading-4" id="1.9.10">Battle aftermath</h4>
+
+            {/* 1.10 */}
             <h3 className="article-heading-3" id="1.10">After New York</h3>
             <h4 className="article-heading-4" id="1.10.1">replace</h4>
 
