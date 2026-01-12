@@ -307,6 +307,20 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.2">Standalone films</h3>
+            <p>
+              Several Star Wars films have been produced separately from the Skywalker Saga. In 2008, Lucasfilm released the animated film
+              <Link to="/starwars/the_clone_wars_film">The Clone Wars</Link>, which is set during the prequel trilogy and serves as the theatrical
+              pilot of the television series <Link to="/starwars/the_clone_wars_series">The Clone Wars</Link>. Following Disney's acquisition of
+              Lucasfilm in 2012, an "anthology" film series set between the main episodes of the Skywalker Saga entered development in parallel with the
+              production of the sequel trilogy, described by Disney chief financial officer Jay Rasulo as origin stories.
+            </p>
+            <p>
+              The first film released was 2016's <Link to="/starwars/rogue_one">Rogue One</Link>, which tells the story of the <Link>rebels</Link> who
+              steal the plans for the Death Star, the Galactic Empire's superweapon, just before the events of the original Star Wars film. A second film,
+              2018's <Link to="/starwars/solo">Solo</Link>, tells Han Solo's backstory, set 10 years prior to A New Hope. The series
+              <Link to="/starwars/obiwan_kenobi_series"> Obi-Wan Kenobi</Link> was originally planned as a film, but changed to a miniseries due to Solo
+              underperforming at the box office.
+            </p>
 
             <h3 className="article-heading-3" id="2.3">Upcoming films</h3>
 
