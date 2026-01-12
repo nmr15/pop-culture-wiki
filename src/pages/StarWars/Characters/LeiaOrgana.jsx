@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const LukeSkywalker = () =>
+const LeiaOrgana = () =>
 {
   useEffect(() =>
   {
-    document.title = "Luke Skywalker - Pop Culture Wiki";
+    document.title = "Leia Organa - Pop Culture Wiki";
   }, []);
 
   return(
@@ -19,22 +19,22 @@ const LukeSkywalker = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/starwars">Star Wars</Link></li>
-          <li>Luke Skywalker</li>
+          <li>Leia Organa</li>
         </ul>
         <div>
-          <h1 className="article-heading">Luke Skywalker</h1>
+          <h1 className="article-heading">Leia Organa</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Luke Skywalker</span>
+                <span>Leia Organa</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/starwars/images/6/6c/LukeSkywalker-RotJAVA.png" alt="Luke Skywalker" />
+                  <img src="https://static.wikia.nocookie.net/starwars/images/9/9b/Princessleiaheadwithgun.jpg" alt="Leia Organa" />
                 </span>
               </td>
             </tr>
