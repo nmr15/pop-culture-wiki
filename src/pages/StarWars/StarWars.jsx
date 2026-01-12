@@ -345,6 +345,62 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="2.3.1">Other potential projects</h4>
+            <p>
+              Lucasfilm has a number of Star Wars films in various stages of development, including:
+            </p>
+            <ul className="article-list">
+              <li>
+                <b>Untitled Rian Johnson trilogy</b>: In November 2017, a trilogy of movies written by The Last Jedi writer/director Rian Johnson was
+                announced to be in development. In April 2023, Kennedy stated that the trilogy of films is still in open development at the studio, with
+                the writer/director working on the story, although it is not currently a priority.
+              </li>
+              <li>
+                <b>Untitled David Benioff and D. B. Weiss trilogy</b>: In February 2018, it was announced that David Benioff and D. B. Weiss would serve
+                as writers and producers on a trilogy of new Star Wars movies. The plot would take place chronologically before the prequel trilogy, and
+                center around the origin of the Jedi. By May 2019, the duo were also slated to serve as co-directors of the first installment in their
+                three films. In October of the same year however, the filmmaking duo exited development of the projects due to scheduling conflicts with
+                projects they are developing for Netflix. Kennedy stated that the studio is open to working with the duo, and developing their films once
+                their schedule allows it. In January 2024, the filmmaking duo announced that the working title was The First Jedi and would have
+                followed the titular ancient protagonist. The pair cast doubt on returning to their planned trilogy, commenting on its apparent influence
+                on James Mangold's similarly premised Dawn of the Jedi movie.
+              </li>
+              <li>
+                <b>Unitled Taika Waititi film</b>: In May 2020, <Link>Taika Waititi</Link> signed onto the project which was stated to be the first
+                priority for the studio, with the filmmaker Waititi serving as director from a script he is co-writing with Krysty Wilson-Cairns. In May
+                2022, the movie was named as the next Star Wars film to begin production ahead of Rogue Squadron, with Kennedy stating that the studio
+                was tentatively looking towards late 2023 for a debut, but had not yet officially set a release date. By April 2023, she stated that the
+                project is still in development, with Waititi continuing to work on the script. In April 2025, it was announced that Tony McNamara was
+                hired to contribute to the script.
+              </li>
+              <li>
+                <b>Rogue Squadron</b>: A standalone film following the events of Rogue One will be directed by Patty Jenkins with a script written by
+                Matthew Robinson. In April 2023, Kennedy stated that the script is still in development, with the studio considering changing the project
+                into a television series. In March 2024, Jenkins announced that she had once again commenced working on the script; confirming that
+                development for the project are ongoing.
+              </li>
+              <li>
+                <b>Untitled J.D. Dillard film</b>: In February 2020, a film was announced to be in development from director J. D. Dillard and writer
+                Matt Owens; although, Dillard announced he was no longer to direct that film in November 2022.
+              </li>
+              <li>
+                <b>Star Wars: A Droid Story</b>: In December 2020, an animated film centered around the adventures of R2-D2 and C-3PO was announced as
+                being in development; the story will introduce a new heroic character to the franchise, alongside the two returning droids. The project
+                will be a joint-venture production between Lucasfilm Animation, and Industrial Light & Magic. The film is being developed to debut via
+                streaming, exclusively through Disney+.
+              </li>
+              <li>
+                <b>Lando</b>: In December 2020, a spin-off series to Solo: A Star Wars Story was announced as being in development. The miniseries
+                which was being developed exclusively for Disney+ was revealed to be centered around
+                <Link to="/starwars/lando_calrissian"> Landonis "Lando" Calrissian III</Link>, titled Lando. <Link>Donald Glover</Link> was confirmed at
+                that time to be reprising the lead role, while Justin Simien was named as the series creator and showrunner. By July 2020 however,
+                Donald and Stephen Glover were hired to replace Simien, write and redevelo the show. In September 2023, the show was repurposed to be
+                released as a theatrical film instead.
+              </li>
+              <li>
+                <b>Untitled Simon Kinberg trilogy</b>: In November 2024, Simon Kinberg was hired to write and produce the new trilogy of Star Wars movies.
+                The series of movies was reported to be Episode X-XII, though this was also disputed by other sources.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
