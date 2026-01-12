@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const LeiaOrgana = () =>
+const ObiWanKenobi = () =>
 {
   useEffect(() =>
   {
-    document.title = "Leia Organa - Pop Culture Wiki";
+    document.title = "Obi-Wan Kenobi - Pop Culture Wiki";
   }, []);
 
   return(
@@ -19,22 +19,22 @@ const LeiaOrgana = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/starwars">Star Wars</Link></li>
-          <li>Leia Organa</li>
+          <li>Obi-Wan Kenobi</li>
         </ul>
         <div>
-          <h1 className="article-heading">Leia Organa</h1>
+          <h1 className="article-heading">Obi-Wan Kenobi</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Leia Organa</span>
+                <span>Obi-Wan Kenobi</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/starwars/images/9/9b/Princessleiaheadwithgun.jpg" alt="Leia Organa" />
+                  <img src="https://static.wikia.nocookie.net/starwars/images/c/c5/ObiSWC.png" alt="Obi-Wan Kenobi" />
                 </span>
               </td>
             </tr>
@@ -52,4 +52,4 @@ const LeiaOrgana = () =>
   )
 }
 
-export default LeiaOrgana;
+export default ObiWanKenobi;
