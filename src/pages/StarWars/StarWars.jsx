@@ -407,7 +407,25 @@ const StarWars = () =>
           <Heading2 id={3} title={"Television"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Animated series</h3>
+            <p>
+              The first two animated series, Droids and Ewoks, were produced in the 198s. They were followed by the Clone Wars animated micro-series in
+              2003 and the 2008 The Clone Wars. Following Disney's acquisition of Lucasfilm, all animated series released prior to 2014, apart from the
+              2008 series, were discarded from the franchise's canon. Subsequent animated series included
+              <Link to="/starwars/rebels_series"> Revels</Link>, released in 2014; Resistance, released in 2018; and
+              <Link to="/starwars/the_bad_batch">The Bad Batch</Link>, released in 2021.
+            </p>
+            <p>
+              Several micro-series and shorts have also been released by Lucasfilm since Disney's acquisition, with the earlier animated series falling
+              under Disney's "Vintage" collection of Star Wars content.
+            </p>
+            <p>
+              At Star Wars Celebration Japan in April 2025, a new animated series titled Star Wars: Maul - Shadow Lord was announced with a premiere
+              expected in 2026. The series will cover the period following the Clone Wars where Maul tries to rebuild his defunct Shadow Collective
+              criminal syndicate into what will eventually become Crimson Dawn on a planet unknown to the Empire. Sam Witwer will return to voice Maul.
+            </p>
+
             <h3 className="article-heading-3" id="3.2">Live-action series</h3>
+
             <h3 className="article-heading-3" id="3.3">Films and specials</h3>
           </div>
         </div>
