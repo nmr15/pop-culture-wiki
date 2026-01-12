@@ -323,6 +323,26 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.3">Upcoming films</h3>
+            <p>
+              In April 2023, three new untitled Star Wars films were announced, each taking place in different eras of the franchise's fictional universe.
+              James Mangold will write an direct a film set during the early years of the Jedi, while Dave Filoni will direct a film set between the
+              original and sequel trilogies during the <Link>New Republic</Link> era, which will serve as the climax of the various live-action
+              television series that began with <Link to="/starwars/the_mandalorian">The Mandalorian</Link> in 2019. Sharmeen Obaid-Chinoy will direct
+              a third film about a new Jedi Order, set fifteen years after the sequel trilogy. In January 2025, George Nolfi was hired to write the
+              script for the Obaldi-Chinoy film.
+            </p>
+            <p>
+              In January 2024, it was announced that <Link>Jon Favreau</Link> would direct a new Star Wars film, titled The Mandalorian & Grogu. In
+              February of the same year, Bob Iger announced that the film would be the first release of the new slate of Star Wars movies. The
+              Mandalorian & Grogu is scheduled for release on May 22, 2026.
+            </p>
+            <p>
+              In November 2022, Shawn Levy entered talks to direct a Star Wars film, following his work on
+              <Link to="/mcu/deadpool_&_wolverine">Deadpool & Wolverine</Link> (2024) and the fifth and final season of Stranger Things. In September
+              2023, Levy said that development on his Star Wars film began, but would not continue until after the conclusion of the 2023 Writers Guild
+              of America strike. In April 2025, <Link>Ryan Gosling</Link> was cast in the film, the title was offically revealed as Star Wars:
+              Starfighter, and the film received the release date of May 26, 2027. In June 2025, Mia Goth joined the cast.
+            </p>
 
             <h4 className="article-heading-4" id="2.3.1">Other potential projects</h4>
           </div>
