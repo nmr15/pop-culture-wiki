@@ -503,20 +503,54 @@ const StarWars = () =>
         <div>
           <Heading2 id={5} title={"Other media"} />
           <div>
+            <p>
+              From 1976 to 2014, the term Expanded Universe (EU) was an umbrella term for all officially licensed Star Wars storytelling material set
+              outside the events depicted within the theatrical films, including novels, comics, and video games. Lucasfilm maintained internal continuity
+              between the films and television content and the EU material until April 25, 2014, when the company announcd all of the EU works would
+              cease production. Existing works would no longer be considered canon to the franchise and subsequent reprints would be rebranded under the
+              Star Wars Legends label, with downloadable content for the massively multiplayer online game The Old Republic the only Legends material to
+              still be produced. The Star Wars canon was subsequently restructured to only include the existing six feature films, the animated film The
+              Clone Wars (2008), and its companion animated series. All future projects and creative developments across all types of media would be
+              overseen and coordinated by the story group, announced as a division of Lucasfilm created to maintain continuity and a cohesive vision on
+              the storytelling of the franchise. Multiple comics series from <Link>Marvel</Link> and novels published by Del Rey were produced after the
+              announcement. Since the new canon has been introduced, there has been a multitude of pieces of Expanded Universe continuity that have
+              become a part of the canon.
+            </p>
+
             <h3 className="article-heading-3" id="5.1">Print media</h3>
+            <p>
+              Star Wars in print predates the release of the first film, with the November 1976 novelization of Star Wars, initially subtitled "From the
+              Adventures of Luke Skywalker". Credited to Lucas, it was ghostwritten by Alan Dean Foster. The first "Expanded Universe" story appeared in
+              <Link to="/marvelcomics">Marvel Comics</Link>' Star Wars #7 in January 1978 (the first six issues being an adatation of the film), followed
+              by Foster's sequel novel Splinter of the Mind's Eye the following month.
+            </p>
+
             <h4 className="article-heading-4" id="5.1.1">Novels</h4>
+
             <h4 className="article-heading-4" id="5.1.2">Comics</h4>
+
             <h3 className="article-heading-3" id="5.2">Audio</h3>
+
             <h4 className="article-heading-4" id="5.2.1">Soundtracks and singles</h4>
+
             <h4 className="article-heading-4" id="5.2.2">Audio novels</h4>
+
             <h4 className="article-heading-4" id="5.2.3">Radio</h4>
+
             <h3 className="article-heading-3" id="5.3">Video games</h3>
+
             <h4 className="article-heading-4" id="5.3.1">Early licensed games (1979-1993)</h4>
+
             <h4 className="article-heading-4" id="5.3.2">LucasArts and modern self-published games (1993-2014)</h4>
+
             <h4 className="article-heading-4" id="5.3.3">EA Star Wars (2014-present)</h4>
+
             <h3 className="article-heading-3" id="5.4">Theme park attractions</h3>
+
             <h3 className="article-heading-3" id="5.5">Multimedia projects</h3>
+
             <h3 className="article-heading-3" id="5.6">Merchandising</h3>
+
           </div>
         </div>
         <div>
