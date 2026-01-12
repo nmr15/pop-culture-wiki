@@ -425,6 +425,23 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.2">Live-action series</h3>
+            <p>
+              The Star Wars franchise includes several live-action series. The first series, The Mandalorian, was released in 2019 for the streaming
+              service Disney+ and is set between the original and sequel trilogies of the Skywalker Saga. Due to its success, the series spawned multiple
+              live-action spin-offs set during the same fictional era, including <Link to="/starwars/the_book_of_boba_fett">The Book of Boba Fett</Link>,
+              released in 2021; <Link to="/starwars/ahsoka_series">Ahsoka</Link>, released in 2023; and Skeleton Crew, released in 2024. These series
+              follow the plight of the New Republic and its allies against the remnants of the fallen Galactic Empire.
+            </p>
+            <p>
+              A story focused on <Link to="/starwars/obi_wan_kenobi">Obi-Wan Kenobi</Link> was planned as a film before becoming a live-action series
+              after the box office failure of Solo in 2018. The series was released on Disney+ in 2022 and is set between the prequel and original trilogy
+              films. It was followd the live-action series <Link to="/starwars/andor_series">Andor</Link> in the same year; both series follow their
+              titular characters during the reighn of the Empire.
+            </p>
+            <p>
+              The Acolyte is a series created by Leslye Headland set at the end of the High Republic era before the events of the Skywalker Saga, and
+              follows an investigation into a series of murders of Jedi Masters.
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Films and specials</h3>
           </div>
