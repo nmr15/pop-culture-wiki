@@ -37,7 +37,6 @@ const StarWars = () =>
             sub={[
               {id: "3.1", title: "Animated series"},
               {id: "3.2", title: "Live-action series"},
-              {id: "3.3", title: "Films and specials"},
             ]}
           />
           <li className="sidebar-list-item"><a href="#4">Fictional universe</a></li>
@@ -443,13 +442,62 @@ const StarWars = () =>
               follows an investigation into a series of murders of Jedi Masters.
             </p>
 
-            <h3 className="article-heading-3" id="3.3">Films and specials</h3>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Fictional universe"} />
           <div>
-            
+            <p>
+              The Star Wars canon fictional universe spans multiple eras, of which three are focused around each of the film trilogies. The following
+              eras were defined in January 2021, and further refined and expanded in April 2023:
+            </p>
+            <ul className="artlcle-list">
+              <li>
+                Dawn of the Jedi: The first Jedi wields the Force, which will be depicted in an upcoming untitled film.
+              </li>
+              <li>
+                The Old Republic: The Galactic Republic is founded and the Jedi Order emerges to protect it. A schism within the Jedi leads to the
+                creation of the Sith.
+              </li>
+              <li>
+                The High Republic: Under the protection of the Jedi, the Republic grows into a golden age. This era includes the live-action series
+                The Acolyte, the animated series Young Jedi Adventures, and The High Republic literary works.
+              </li>
+              <li>
+                Fall of the Jedi: The Republic's Supreme Chancellor, Palpatine (secretly the Sith lord Darth Sidious), orchestrates the
+                <Link> Clone Wars</Link>, overthrows the Republic, exterminates the Jedi Order and corrupts Anakin Skywalker. This era includes the
+                prequel trlogy films, the beginning of the episodic Skywalker Saga, the animated series The Clone Wars and Tales of the Jedi, and the
+                upcoming video game Zero Company.
+              </li>
+              <li>
+                Reign of the Empire: Palpatine's Galactic Empire rules the galaxy and the remaining Jedi are hunted down. This era includes the
+                standalone films Folo and Rogue One, the live-action series Obi-Wan kenobi and Andor, the anmated series The Bad Batch and Rebels, the
+                upcoming anmated series Maul - Shadow Lord, and the video games <Link>Jedi: Fallen Order</Link>, <Link>Jedi: Survivor</Link>, and
+                Vader Immortal.
+              </li>
+              <li>
+                Age of Rebellion: The Rebellion against the Empire spreads across the galaxy, while the Jedi return with the emergence of Luke Skywalker.
+                This era includes the original trilogy films and the video games <Link>Battlefront II</Link>, Squadrons, and Outlaws.
+              </li>
+              <li>
+                The New Republic: Following the Empire's defeat, the emergent New Republic attempts to reunite the galaxy, while threatened by the
+                remnants of the Empire. This era includes the live-action series The Mandalorian (and its film sequel The Mandalorian and Grogu), The
+                Book of Boba Fett, Ahsoka, and Skeleton Crew.
+              </li>
+              <li>
+                Rise of the First Order: The remanants of the Empire transform into the <Link>First Order</Link> but are fought by the Resistance,
+                climaxing with the defeat of Palpatine and the Sith by the Jedi Rey. This era includes the sequel trilogy films, the animated series
+                Resistance and the video game Tales from The Galaxy's Edge.
+              </li>
+              <li>
+                New Jedi Order: Rey builds a new Jedi Order, which will be depicted in an upcoming untitled film, along with the unrelated upcoming film
+                Starfighter.
+              </li>
+            </ul>
+            <p>
+              The Expanded Universe of spin-off media depicts different levels of continuity, which were deemed non-canonical and rebranded as Legends
+              on April 25, 2014, to make most subsequent works align to the episodic films, The Clone Wars film, and television series.
+            </p>
           </div>
         </div>
         <div>
