@@ -200,11 +200,30 @@ const StarWars = () =>
           <Heading2 id={2} title={"Films"} />
           <div>
             <h3 className="article-heading-3" id="2.1">The Skywalker Saga</h3>
+            <p>
+              The Star Wars film series centers on three sets of trilogies, the nine films of which are collectively referred to as the "Skywalker Saga".
+              The saga was produced non-chronologically, beginning with the original trilogy between 1977 and 1983. This was followed by the prequel
+              trilogy, released between 1999 and 2005, and the sequel trilogy, released between 2015 and 2019.
+            </p>
+            <p>
+              Each trilogy focuses on a generation of the Force-sensitive Skywalker family and their struggles against the <Link>Sith</Link> lord
+              <Link to="/starwars/sheev_palpatine"> Palpatine</Link> (also known as Darth Sidious). The original trilogy depicts the development of 
+              <Link to="/starwars/luke_skywalker"> Luke Skywalker</Link> as a Jedi and his fight against Palpatine's <Link>Galactic Empire</Link>
+              alongside his sister, <Link to="/starwars/leia_organa">Leia</Link>. The prequels tell the backstory of their father,
+              <Link to="/starwars/anakin_skywalker">Anakin</Link>, who is seduced to the dark side by Palpatine and bcomes Darth Vader. The sequels
+              follow the conflict between Leia's son, <Link>Ben Solo</Link>, and Luke and Leia's protegé, <Link>Rey</Link>, and their eventual alliance
+              against Palpatine after the fall of the Empire.
+            </p>
             <h4 className="article-heading-4" id="2.1.1">Original trilogy</h4>
+
             <h4 className="article-heading-4" id="2.1.2">Prequel trilogy</h4>
+
             <h4 className="article-heading-4" id="2.1.3">Sequel trilogy</h4>
+
             <h3 className="article-heading-3" id="2.2">Standalone films</h3>
+
             <h3 className="article-heading-3" id="2.3">Upcoming films</h3>
+
             <h4 className="article-heading-4" id="2.3.1">Other potential projects</h4>
           </div>
         </div>
