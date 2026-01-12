@@ -272,6 +272,39 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="2.1.3">Sequel trilogy</h4>
+            <div className="img-right img-card">
+              <div className="img-flex">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg/250px-Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg" alt="Adam Driver" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daisy_Ridley_by_Gage_Skidmore.jpg/250px-Daisy_Ridley_by_Gage_Skidmore.jpg" alt="Daisy Ridley" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/John_Boyega_by_Gage_Skidmore.jpg/250px-John_Boyega_by_Gage_Skidmore.jpg" alt="John Boyega" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Oscar_Isaac_by_Gage_Skidmore.jpg/250px-Oscar_Isaac_by_Gage_Skidmore.jpg" alt="Oscar Isaac" />
+              </div>
+              <p>
+                The cast of the sequel trilogy includes, from left to right, <Link>Adam Driver</Link>, <Link>Daisy Ridley</Link>,
+                <Link> John Boyega</Link>, and <Link>Oscar Isaac</Link>
+              </p>
+            </div>
+            <p>
+              Prior to releasing the original 1977 film, and made possible by its success, Lucas planned "three trilogies of nine films". However, he
+              announced to Time in 1978 that he planned "10 sequels". He confirmed that he had outlined the prequels and sequels in 1981. At various
+              stages of development, the sequel trilogy was to focus on the rebuilding of the <Link>Republic</Link>, the return of Luke as a Jedi Master
+              (a role similar to that of Obi-Wan Kenobi in the original trilogy), Luke's sister (not yet determined to be Leia), Han, Leia,
+              <Link to="/starwars/r2d2"> R2-D2</Link>, and <Link to="/starwars/c3po">C-3PO</Link>. However, after beginning work on the prequel trilogy,
+              Lucas insisted that Star Wars was meant to be a six-part series and that there would be no sequel trilogy.
+            </p>
+            <p>
+              Lucas decided  to leave the franchise in the hands of other filmmakers, announcing in January 2012 that he would make no more Star Wars
+              films. That October, the Walt Disney Company agreed to buy Lucasfilm and announced that Episode VII would be released in 2015. The
+              co-chairman of Lucasfilm, Kathleen Kennedy, became president and servd as executive producer of new Star Wars feature films. Lucas provided
+              Kennedy his story treatments for the sequels during the 2012 sale, but in 2015 it was revealed Lucas's sequel outline had been discarded.
+              The sequel trilogy also meant the end of the <Link>Star Wars Expanded Universe</Link> stories, which were discarded from canon to give
+              "maxiumum creative freedom to the filmmakers and also preserve an element of surprise and discovery for the audience."
+            </p>
+            <p>
+              Episode VII: The Force Awakens was released on December 16, 2015, Episode VIII: The Last Jedi on December 13, 2017, and Episode IX: The
+              Rise of Skywalker on December 18, 2019, in many countries. The Force Awakens and Last Jedi were both critical and box office successes.
+              Episode IX received a mixed reception from critics and audiences.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">Standalone films</h3>
 
