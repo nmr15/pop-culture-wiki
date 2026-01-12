@@ -214,9 +214,62 @@ const StarWars = () =>
               follow the conflict between Leia's son, <Link>Ben Solo</Link>, and Luke and Leia's protegé, <Link>Rey</Link>, and their eventual alliance
               against Palpatine after the fall of the Empire.
             </p>
+
             <h4 className="article-heading-4" id="2.1.1">Original trilogy</h4>
+            <div className="img-right img-card">
+              <div className="img-flex">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mark_Hamill_by_Gage_Skidmore_2.jpg/250px-Mark_Hamill_by_Gage_Skidmore_2.jpg" alt="Mark Hamill" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harrison_Ford_by_Gage_Skidmore_3.jpg/250px-Harrison_Ford_by_Gage_Skidmore_3.jpg" alt="Harrison Ford" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Carrie_Fisher_2013_cropped_retouched.jpg/250px-Carrie_Fisher_2013_cropped_retouched.jpg" alt="Carrie Fisher" />
+              </div>
+              <p>
+                The cast of the original trilogy includes, from left to right, <Link>Mark Hamill</Link>, <Link>Harrison Ford</Link>, and
+                <Link> Carrie Fisher</Link>
+              </p>
+            </div>
+            <p>
+              In 1971, George Lucas wanted to film an adaptation of the Flash Gordon serial, but could not obtain the rights, so he began developing his
+              own space opera. After directing American Graffiti (1973), he wrote a two-part synopsis, which 20th Century Fox decided to finance. By 1974,
+              he had expanded the story into the first draft of a screenplay. Fox expected the film would be of limited financial success, and so it was
+              given a relatively low budget, with production moved to Elstree Studios in England to lower costs.
+            </p>
+            <p>
+              Star Wars was released on May 25, 1977, and was firsts subtitled Episode IV: A New Hope in the 1979 book The Art of Star Wars. The film's
+              success led Lucas to make it the basis of an elaborate film serial. With the backstory he created for the sequel, Lucas decided that the
+              series would be a trilogy of trilogies. Episode V: The Empire Strikes Back was released on May 21, 1980, along achieving wide financial
+              and critical success. The final film in the trilogy, Episode VI: Return of the Jedi, was released on May 25, 1983.
+            </p>
 
             <h4 className="article-heading-4" id="2.1.2">Prequel trilogy</h4>
+            <div className="img-right img-card">
+              <div className="img-flex">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ewan_McGregor_2012.jpg/250px-Ewan_McGregor_2012.jpg" alt="Ewan McGregor" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NataliePortman09TIFF.jpg/250px-NataliePortman09TIFF.jpg" alt="Natalie Portman" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hayden-cfda2010-0004%281%29_%28cropped%29.jpg/250px-Hayden-cfda2010-0004%281%29_%28cropped%29.jpg" alt="Hayden Christensen" />
+              </div>
+              <p>
+                The cast of the prequel trilogy includes, from left to right, <Link>Ewan McGregor</Link>, <Link>Natalie Portman</Link>, and
+                <Link> Hayden Christensen</Link>
+              </p>
+            </div>
+            <p>
+              According to producer Gary Kurtz, loose plans for a prequel trilogy were developed during the outlining of the original two films. In 1980,
+              Lucas confirmed that he had the nine-film series plotted, but due to the stress of producing the original trilogy, he had decided to cancel
+              further sequels by 1981. In 1983, Lucas explained that "There was never a script completed that had the entire story as it exists now ...
+              As the stories unfolded, I would take certain ideas and save them .... I kept taking out all the good parts, and I just kep telling myself
+              I would make other movies someday."
+            </p>
+            <p>
+              Technical advances in the late 1980s and early 1990s, including the ability to create computer-generted imagery (CGI), inspired Lucas to
+              consider that it might be possible to revisit his saga. In 1989, Lucas stated that the prequels would be "unbelievably expansive". In 1992,
+              he acknowledged that he had plans to create the prequel trilogy. A theatrical rerelease of the original trilogy in 1997 "updated" the
+              20-year-old films with the style of CGI envisioned for the new trilogy.
+            </p>
+            <p>
+              Episode I: The Phantom Menace was released on May 19, 1999, Episode II: Attack of the Clones on May 16, 2002, and Episode III: Revenge of
+              the Sith on May 19, 2005. The first two films were met with mixed reviews, with the third being received more positively. Together with
+              the original trilogy, Lucas has reffered to the first six episodic films of the franchise as "the tragdy of Darth Vader".
+            </p>
 
             <h4 className="article-heading-4" id="2.1.3">Sequel trilogy</h4>
 
