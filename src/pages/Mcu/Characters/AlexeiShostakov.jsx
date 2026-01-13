@@ -113,6 +113,91 @@ const AlexeiShostakov = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Biography"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Early life</h3>
+            <h4 className="article-heading-4" id="1.1.1">Childhood in Soviet Russia</h4>
+
+            <h3 className="article-heading-3" id="1.2">Russian agent</h3>
+            <h4 className="article-heading-4" id="1.2.1">Becoming a super soldier</h4>
+
+            <h4 className="article-heading-4" id="1.2.2">Undercover in America</h4>
+
+            <h4 className="article-heading-4" id="1.2.3">Family separation</h4>
+
+            <h4 className="article-heading-4" id="1.2.4">Betrayal and imprisonment</h4>
+
+            <h3 className="article-heading-3" id="1.3">Family reunion</h3>
+            <h4 className="article-heading-4" id="1.3.1">Escape from prison</h4>
+
+            <h4 className="article-heading-4" id="1.3.2">Visiting Melina Vostokoff</h4>
+
+            <h4 className="article-heading-4" id="1.3.3">Showdown at the Red Room</h4>
+
+            <h4 className="article-heading-4" id="1.3.4">Family split apart</h4>
+
+            <h3 className="article-heading-3" id="1.4">Search for glory</h3>
+            <h4 className="article-heading-4" id="1.4.1">Living in America</h4>
+
+            <h4 className="article-heading-4" id="1.4.2">Yelena Bolova's visit</h4>
+
+            <h4 className="article-heading-4" id="1.4.3">Helping the Thunderbolts</h4>
+
+            <h4 className="article-heading-4" id="1.4.4">Fighting Sentry</h4>
+
+            <h4 className="article-heading-4" id="1.4.5">Confronting his daughter</h4>
+
+            <h4 className="article-heading-4" id="1.4.6">Stopping the Void</h4>
+            
+            <h4 className="article-heading-4" id="1.4.7">Member of the New Avengers</h4>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Personality"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Powers and abilities"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Powers</h3>
+
+            <h3 className="article-heading-3" id="3.2">Abilities</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Equipment"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Weapons</h3>
+
+            <h3 className="article-heading-3" id="4.2">Other equipment</h3>
+
+            <h3 className="article-heading-3" id="4.3">Vehicles</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Facilities"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Prisons</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Trivia"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Behind the scenes"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )

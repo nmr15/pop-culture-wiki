@@ -184,7 +184,9 @@ const AjakMCU = () =>
             
           </div>
         </div>
-        <TableMcu />
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
