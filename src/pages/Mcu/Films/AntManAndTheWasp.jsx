@@ -98,7 +98,31 @@ const AntManAndTheWasp = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ant-Man and the Wasp</b> is a 2018 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> featuring the
+            characters <Link>Scott Lang / Ant-Man</Link> and <Link>Hope Pym / Wasp</Link>. Produced by <Link>Marvel Studios</Link> and distributed by
+            Walt Disney Studios Motion Pictures, it is the sequel to <Link to="/mcu/antman_film">Ant-Man</Link> (2015) and the 20th film in the
+            <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). The film was directed by <Link>Peyton Reed</Link> and written by the writing teams of
+            <Link>Chris McKenna</Link> and Erik Sommers, and <Link>Paul Rudd</Link>, Andrew Barrer and Gabriel Ferrari. It stars Rudd as
+            <Link to="/mcu/scott_lang"> Lang</Link> and <Link>Evangeline Lilly</Link> as <Link to="/mcu/hope_van_dyne">Hope van Dyne</Link>, alongside
+            <Link>Michael Peña</Link>, <Link>Walton Goggins</Link>, <Link>Hannah John-Kamen</Link>, <Link>David Dastmalchian</Link>, Tip "T.I." Harris,
+            <Link> Judy Greer</Link>, Bobby Cannavale, <Link>Randall Park</Link>, Abby Ryder Fortson, <Link>Michelle Pfeiffer</Link>,
+            <Link> Laurence Fishburne</Link>, and <Link>Michael Douglas</Link>. In the film, the titular pair work with
+            <Link to="/mcu/hank_pym"> Hank Pym</Link> (Douglas) to retrieve <Link>Janet van Dyne</Link> (Pfeiffer) from the <Link>Quantum Realm</Link>.
+          </p>
+          <p>
+            Talks for a sequel to Ant-Man began shortly after that film was released. Ant-Man and the Wasp was officially announced in October 2015, with
+            Rudd and Lilly returning to reprise their roles. A month later, Ant-Man director Reed was officially set to return. He had joined the first
+            film later in its production and was excited to develop this one from the beginning. He also looked forward to inroducing Hope van Dyne as
+            the Wasp in this film, and insisted on treating Lang and her as equals. Filming took place from August to November 2017, at Pinewood Atlanta
+            Studios in Fayette County, Georgia, as well as Metro Atlanta; San Francisco; Savannah, Georgia; and Hawaii.
+          </p>
+          <p>
+            Ant-Man and the Wasp had its world premiere in Hollywood, Los Angeles, on June 25, 2018, and was released in the United States on July 6,
+            2018, as part of <Link>Phase Three</Link> of the MCU. The flm was a critical and commercial success, receiving praise for its performances
+            (particularly those of Rudd and Lilly), humor, and levity, and grossing over $622 million worldwide. A sequel, <Link>Ant-Man and the
+            Wasp: Quantumania</Link>, was released in February 2023.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
