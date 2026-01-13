@@ -1,9 +1,15 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import TableMcu from '../../../components/TableMcu'
 
 const AntManAndTheWasp = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Ant-Man (film) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -53,13 +59,42 @@ const AntManAndTheWasp = () =>
         <div>
           <h1 className="article-heading">Ant-Man (film)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg" 
-            alt="Ant-Man poster" 
-            className="article-heading-img" 
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Ant-Man</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg" alt="Ant-Man poster" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Peyton Ree</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link to="/mcu/characters">List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/captain_marvel_film">Captain Marvel</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           
         </div>
