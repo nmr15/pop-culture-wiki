@@ -99,7 +99,16 @@ const AjakMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ajak</b> is the original Prime Eternal, as well as the wise and spiritual leader of the community of genetically engineeed
+            <Link> Eternals</Link> who came to <Link>Earth</Link>. Created by the <Link>Celestials</Link> in the <Link>World Forge</Link>. Ajak was sent
+            to Earth in 5000 BC to progress the planet's societal development, and protect it from the <Link>Deviants</Link>. Ajak was aware of her
+            purpose in life to pave the way for Earth's <Link>Emergence</Link> with the birth of <Link>Tiamut the Communicator</Link>. However, she was
+            inspired by the heroics of the <Link>Avengers</Link> during the the Battle of Earth, and instead opposed the ideals of her creators, believing
+            humanity was worth saving. Although having confided her opposition to <Link>Ikaris</Link>, she was ultimately betrayed by him and lured to a
+            pack of Deviants in Alaska for her to be murdered. As a result of Ajak's death, <Link>Sersi</Link> was named as her successor as the Prime
+            Eternal.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
