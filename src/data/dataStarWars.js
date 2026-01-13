@@ -310,8 +310,8 @@ export const starwarsChars = [
   },
   {
     "id": "starwarsChar13",
-    "title": "Padm� Amidala",
-    "file": "Padm�Amidala",
+    "title": "Padmé Amidala",
+    "file": "PadméAmidala",
     "media": "film",
     "img": "https://static.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg",
     "route": "/starwars/padm�_amidala"
