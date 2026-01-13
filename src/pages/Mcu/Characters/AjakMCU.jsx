@@ -104,7 +104,33 @@ const AjakMCU = () =>
         <div>
           <Heading2 id={1} title={"Biography"} />
           <div>
+            <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <h4 className="article-heading-4" id="1.1.1">Aiding the Celestials for millenia</h4>
 
+            <h3 className="article-heading-3" id="1.2">Earth mission</h3>
+            <h4 className="article-heading-4" id="1.2.1">Arriving on Earth</h4>
+
+            <h4 className="article-heading-4" id="1.2.2">Battle of Babylon</h4>
+
+            <h3 className="article-heading-3" id="1.3">500 year war</h3>
+            <h4 className="article-heading-4" id="1.3.1">Mission in Spain</h4>
+
+            <h4 className="article-heading-4" id="1.3.2">Ending the war</h4>
+
+            <h3 className="article-heading-3" id="1.4">Distracting Phastos</h3>
+
+            <h3 className="article-heading-3" id="1.5">Victory</h3>
+            <h4 className="article-heading-4" id="1.5.1">Defeating the Deviants</h4>
+            
+            <h4 className="article-heading-4" id="1.5.2">Splitting up the Eternals</h4>
+
+            <h3 className="article-heading-3" id="1.6">Emergence</h3>
+            <h4 className="article-heading-4" id="1.6.1">Changing her mind</h4>
+            
+            <h4 className="article-heading-4" id="1.6.2">Betrayed by Ikaris</h4>
+
+            <h3 className="article-heading-3" id="1.7">Legacy</h3>
+            
           </div>
         </div>
         <div>
@@ -116,13 +142,19 @@ const AjakMCU = () =>
         <div>
           <Heading2 id={3} title={"Powers and abilities"} />
           <div>
-            
+            <h3 className="article-heading-3" id="3.1">Powers</h3>
+
+            <h3 className="article-heading-3" id="3.2">Abilities</h3>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Equipment"} />
           <div>
-            
+            <h3 className="article-heading-3" id="4.1">Weapons</h3>
+
+            <h3 className="article-heading-3" id="4.2">Other equipment</h3>
+
+            <h3 className="article-heading-3" id="4.3">Vehicles</h3>
           </div>
         </div>
         <div>
@@ -143,6 +175,7 @@ const AjakMCU = () =>
             
           </div>
         </div>
+        <TableMcu />
       </main>
     </>
   )
