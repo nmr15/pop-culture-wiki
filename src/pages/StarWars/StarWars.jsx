@@ -526,6 +526,51 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="5.1.1">Novels</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/10.12.12TimothyZahnByLuigiNovi3.jpg/500px-10.12.12TimothyZahnByLuigiNovi3.jpg" 
+                alt="Timothy Zahn" 
+              />
+              <p>
+                Timothy Zahn authored the Thrawn trilogy, which was widely credited with revitalizing the dormant Star Wars franchise in the early 1990s.
+              </p>
+            </div>
+            <p>
+              After penning the novelization of the original film, Foster followed it with the sequel Splinter of the Mind's Eye (1978). The novelization
+              of the Empire Strikes Back (1980) by Donald F. Glut and Return of the Jedi (1983) by James Kahn followed, as well as The Han Solo Adventures
+              trilogy (1979-1980) by Brian Daley, and The Adventures of Lando Calrissian trilogy (1983) by L. Neil Smith.
+            </p>
+            <p>
+              Timothy Zahn's bestselling Thrawn trilogy (1991-1993) reignited interest in the franchise and introduced the popular character
+              <Link to="/starwars/grand_admiral_thrawn">Grand Admiral Thrawn</Link>, Mara Jade, Talon Karrde, and Gilad Pellaeon. The first novel, Heir to
+              the Empire, reached #1 on the New York Times Best Sellers list, and the series finds Luke, Leia, and Han facing off against tactical genius
+              Thrawn, who is plotting to retake the galaxy for the Empire. In The Courtship of Princess Leia (1994) by Dave Wolverton, set immediately
+              before the Thrawn trilogy, Leia considers an advantageous political marriage to Prince Isolder of the planet Hapes, but she and Han
+              ultimately marry. Steven Perry's Shadow of the Empire (1996), set between The Empire Strikes Back and Return of the Jedi, was part of a
+              multimedia campaign that included a comic book series and video games. The novel introduced the crime lord Prince Xizor, anothe popular
+              character who would appear in multiple other works. Other notable series from Bantam include the Jedi Academy trilogy (1994) by Kelvin J.
+              Anderson, the 14-book Young Jedi Knights series (1995-1998) by Anderson and Rebecca Moesta, and the X-wing series (1996-2012) by Michael A.
+              Stackpole and Aaron Allston.
+            </p>
+            <p>
+              Del Rey took over Star Wars book publishing in 1999, releasing what would become a 19-installment novel series called The New Jedi Order
+              (1999-2003). Written by multiple authors, the series was set 25 to 30 years after the original films and introduced the Yuuzhan Vong, a
+              powerful alien race attempting to invade and conquer the entire galaxy. The bestselling multi-author series Legacy of the Force (2006-2008)
+              chronicles the crossover of Han and Leia's son Jacen Solo to the dark side of the Force; among his evil deeds, he kills Luke's wife Mara Jade
+              as a sacrifice to join the Sith. Although no longer canon, the story is paralleled in The Force Awakens with Han and Leia's son Ben Solo,
+              who becomes the evil Kylo Ren.
+            </p>
+            <p>
+              Three series set in the prequel era were published by Scholastic for younger audiences; the 18-book Jedi Apprentice (1999-2002) chronicls
+              the adventures of Obi-Wan Kenobi and his master Qui-Gon Jinn in the years before The Phantom Menace; the 11-book Jedi Quest (2001-2004)
+              follows Obi-Wan and his own apprentice, Anakin Skywalker in between The Phantom Menace and Attack of the Clones; and the 10-book The Last of
+              the Jedi (2005-2008), set almost immediately after Revenge of the Sith, features Obi-Wan and the last few surviving Jedi. In 2019, a new
+              prequel era novel, starring Qui-Gon and the young Obi-Wan, was published by Del Rey under the title Star Wars: Master and Apprentice.
+            </p>
+            <p>
+              Although Thrawn had been designated a Legends character in 2014, he was reintroduced into the canon in 2016 for the third season of the
+              Rebels animated series, with Zahn returning to wite more novels based on the character and set in the new canon.
+            </p>
 
             <h4 className="article-heading-4" id="5.1.2">Comics</h4>
 
