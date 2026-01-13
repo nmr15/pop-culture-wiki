@@ -455,7 +455,7 @@ export const starwarsChars = [
   {
     "id": "starwarsChar31",
     "title": "Chopper",
-    "file": "Chopper",
+    "file": "ChopperStarWars",
     "media": "series",
     "img": "https://static.wikia.nocookie.net/starwars/images/b/bb/Chopper_Live_Action.png",
     "route": "/starwars/chopper"
