@@ -20,10 +20,30 @@ const AlexeiShostakov = () =>
             id="1"
             item="Biography"
             sub={[
-              {id: "1.1", title: "Early life"},
-              {id: "1.2", title: "Russian agent"},
-              {id: "1.3", title: "Family reunion"},
-              {id: "1.4", title: "Search for Glory"}
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Childhood in Soviet Russia"}
+              ]},
+              {id: "1.2", title: "Russian agent", sub2: [
+                {id: "1.2.1", title: "Becoming a super soldier"},
+                {id: "1.2.2", title: "Undercover in America"},
+                {id: "1.2.3", title: "Family separation"},
+                {id: "1.2.4", title: "Betrayal and imprisonment"}
+              ]},
+              {id: "1.3", title: "Family reunion", sub2: [
+                {id: "1.3.1", title: "Escape from prison"},
+                {id: "1.3.2", title: "Visiting Melina Vostokoff"},
+                {id: "1.3.3", title: "Showdown at the Red Room"},
+                {id: "1.3.4", title: "Family split apart"}
+              ]},
+              {id: "1.4", title: "Search for glory", sub2: [
+                {id: "1.4.1", title: "Living in America"},
+                {id: "1.4.2", title: "Yelena Bolova's visit"},
+                {id: "1.4.3", title: "Helping the Thunderbolts"},
+                {id: "1.4.4", title: "Fighting Sentry"},
+                {id: "1.4.5", title: "Confronting his daughter"},
+                {id: "1.4.6", title: "Stopping the Void"},
+                {id: "1.4.7", title: "Member of the New Avengers"}
+              ]}
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Personality</a></li>
@@ -44,6 +64,15 @@ const AlexeiShostakov = () =>
               {id: "4.3", title: "Vehicles"}
             ]}
           />
+          <Collapse 
+            id="5"
+            item="Facilities"
+            sub={[
+              {id: "5.1", title: "Prisons"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Trivia</a></li>
+          <li className="sidebar-list-item"><a href="#76">Behind the scenes</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
