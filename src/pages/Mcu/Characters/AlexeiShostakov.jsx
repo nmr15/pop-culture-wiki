@@ -149,14 +149,28 @@ const AlexeiShostakov = () =>
             <h4 className="article-heading-4" id="1.4.5">Confronting his daughter</h4>
 
             <h4 className="article-heading-4" id="1.4.6">Stopping the Void</h4>
-            
+
             <h4 className="article-heading-4" id="1.4.7">Member of the New Avengers</h4>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Personality"} />
           <div>
-            
+            <p>
+              At his core, Alexei is a kind, jovial and overall good man and loving father, albeit with several flaws that hinder his relationships. He
+              truly loves Natasha and Yelena as his daughters and was genuinely happy to see them again after twenty-one years, even having their names
+              tattooed on his right arm in Cyrillic. He is also very fond of his undercover wife Melina, with the two giving each other flirting banter
+              after being apart for two decades. However, his longing for fame and glory resulted in Yelena believing he never cared about them and saw
+              them as just a simple burden of a task. Alexei can hold a grudge as he was bitter towards Dreykov for imprisoning him as he believed that
+              Dreykov did so unjustly because of a snide remark Alexei may have made.
+            </p>
+            <p>
+              Alexei possesses a strong sense of patriotism and national pride toward the Soviet Union, as he proudly declares that he was the Soviet's
+              first and only super-soldier. This patriotism resulted in him choosing to have a one-sided rivalry with his American counterpart
+              <Link to="/mcu/steve_rogers">Steve Rogers</Link>, even though Rogers never knew of Alexei's existence. Alexei demonstrates traits of
+              attention seeking behavior as he revels in his fame as the Red Guardian. This was only exacerbated by his time in prison as his depression
+              intensified, which caused him to go as far as to make up improbable war stories about fighting Captain America.
+            </p>
           </div>
         </div>
         <div>
