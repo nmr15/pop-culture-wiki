@@ -573,6 +573,11 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="5.1.2">Comics</h4>
+            <p>
+              Marvel Comics published a Star Wars comic book series from 1977 to 1986. Original Star Wars comics were serialized in the Marvel magazine
+              Pizzazz between 1977 and 1979. The 1977 installments were the first original Star Wars stories not directly adapted from the films to
+              appear in print form, as they preceded those of the Star Wars comic series. From 1985 to 1987, the animated
+            </p>
 
             <h3 className="article-heading-3" id="5.2">Audio</h3>
 
