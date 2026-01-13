@@ -38,8 +38,15 @@ const AlexeiShostakov = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>David Harbour</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/black_widow_film">Eternals</Link> <br />
+                <Link to="/mcu/thunderbolts">Thunderbolts</Link>
+              </td>
             </tr>
           </tbody>
         </table>

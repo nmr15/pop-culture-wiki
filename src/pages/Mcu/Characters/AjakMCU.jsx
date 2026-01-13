@@ -88,7 +88,7 @@ const AjakMCU = () =>
                 </span>
               </td>
             </tr>
-             <tr>
+            <tr>
               <th className="infobox-data">Portrayed by</th>
               <td className="infobox-data"><Link>Salma Hayek</Link></td>
             </tr>
