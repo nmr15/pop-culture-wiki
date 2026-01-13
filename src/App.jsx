@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesMcu, routesMcuChars, routesMcuMeta, routesSWFilms, routesSWSeries } from "./articles"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesMcu, routesMcuChars, routesMcuMeta, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
@@ -56,6 +56,10 @@ function App() {
         ))}
 
         {routesSWSeries.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {routeSWCharacters.map(({ path, Component}, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
 
