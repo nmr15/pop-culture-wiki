@@ -177,6 +177,14 @@ const AlexeiShostakov = () =>
           <Heading2 id={3} title={"Powers and abilities"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Powers</h3>
+            <ul className="article-list">
+              <li>
+                <b>Artificially Enhanced Physiology</b>: Alexei was subjected to the Soviet Union's recreated <Link>Super Soldier Serum</Link>, gaining
+                abilities that enhanced his physical parameters to superhuman levels comparable to the likes of Captain America. Despite his skills
+                being worn down by his age and years in prison and further weakeaned by significant weight gain, Alexei is still capable of superhuman
+                feats. By 2027, Alexei had lost his excess wright and appeared to be back to his peak capacity.
+              </li>
+            </ul>
 
             <h3 className="article-heading-3" id="3.2">Abilities</h3>
           </div>
