@@ -1,9 +1,15 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import Collapse from '../../components/Collapse'
-import TableAsoue from '../../components/TableAsoue'
+import Collapse from '../../../components/Collapse'
+import TableAsoue from '../../../components/TableAsoue'
 
 const BadBeginning = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "The Bad Beginning - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
