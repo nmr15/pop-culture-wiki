@@ -41,8 +41,24 @@ const AvengersAgeOfUltron = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Joss Whedon</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of MCU projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link to="/mcu/characters">List of MCU character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next MCU project</th>
+              <td className="infobox-data"><Link to="/mcu/captain_marvel_film">Captain Marvel</Link></td>
             </tr>
           </tbody>
         </table>

@@ -61,13 +61,6 @@ const AntManAndTheWasp = () =>
         <div>
           <h1 className="article-heading">Ant-Man and the Wasp</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" 
-            alt="Ant-Man and the Wasp poster" 
-            className="article-heading-img" 
-          />
-        </div>
         <table className="infobox">
           <tbody>
             <tr>
