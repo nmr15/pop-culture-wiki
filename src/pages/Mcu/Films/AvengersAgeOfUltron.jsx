@@ -130,6 +130,13 @@ const AvengersAgeOfUltron = () =>
               Additional footage was filmed in Italy, South Korea, Bangladesh, the state of New York, and around England. With an estimated net production
               budget of $365 million, the film is one of the most expensive ever made.
             </p>
+            <p>
+              Avengers: Age of Ulton premiered in Hollywood, Los Angeles, on April 13, 2015, and was released in the United States on May 1, as part of
+              <Link> Phase Two</Link> of the MCU. The film received generally positive reviews from critics and grossed over $1.4 billion worldwide,
+              becoming the fourth-highest grossing film of 2015 and the fifth-highest grossing film of all time during its run. Two sequels have been
+              released: <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> (2018) and <Link to="/mcu/avengers_endgame">Avengers:
+              Endgame</Link> (2019).
+            </p>
           </div>
         </div>
         <div>
