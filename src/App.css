@@ -219,11 +219,7 @@ p
 
 .infobox
 
-.img-flex
-{
-  display: flex;
-  align-items: center;
-}
+
 
 .img-top
 {
@@ -280,6 +276,13 @@ p
 .img-right img, .img-left img
 {
   width: 250px;
+}
+
+.img-flex
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .p-bottom-margin
