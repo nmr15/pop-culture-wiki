@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import TableMcu from '../../../components/TableMcu'
 
-const AntManAndTheWasp = () =>
+const AntManFilm = () =>
 {
   useEffect(() =>
   {
@@ -87,11 +87,11 @@ const AntManAndTheWasp = () =>
             </tr>
             <tr>
               <th className="infobox-data">Previous MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link></td>
+              <td className="infobox-data"><Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link></td>
             </tr>
             <tr>
               <th className="infobox-data">Next MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/captain_marvel_film">Captain Marvel</Link></td>
+              <td className="infobox-data"><Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link></td>
             </tr>
           </tbody>
         </table>
@@ -99,55 +99,60 @@ const AntManAndTheWasp = () =>
           
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Plot</h2>
+          <Heading2 id={1} title={"Plot"} />
           <div>
 
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Cast</h2>
+          <Heading2 id={2} title={"Cast"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="3">Production</h2>
+          <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             <h4 className="article-heading-4" id="3.4.1">Visual effects</h4>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="4">Music</h2>
+          <Heading2 id={4} title={"Music"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="5">Marketing</h2>
+          <Heading2 id={5} title={"Music"} />
           <div>
             
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="6">Release</h2>
+          <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="7">Reception</h2>
+          <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+
             <h3 className="article-heading-3" id="7.2">Critical reception</h3>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="8">Sequel</h2>
+          <Heading2 id={8} title={"Sequels"} />
           <div>
             
           </div>
@@ -160,4 +165,4 @@ const AntManAndTheWasp = () =>
   )
 }
 
-export default AntManAndTheWasp;
+export default AntManFilm;
