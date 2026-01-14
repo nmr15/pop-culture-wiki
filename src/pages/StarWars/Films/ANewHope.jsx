@@ -102,7 +102,44 @@ const ANewHope = () =>
         </table>
         <div className="div-top">
           <p>
-
+            <b>Star Wars</b> (later retitled <b>Star Wars Episode IV: A New Hope</b>) is a 1977 American epic and space opera film written and directed
+            by <Link>George Lucas</Link>, produced by <Link>Lucasfilm Ltd.</Link>, and released by Twentieth Century Fox. It is the first film in the
+            <Link to="/starwars">Star Wars franchise</Link> and the fourth chronological chapter of the "<Link>Skywalker Saga</Link>". Set in
+            <Link>a fictional galaxy</Link> under the rule of the tyrannical <Link>Galactic Empire</Link>, the film follows a resistance movement,
+            called the <Link>Rebel Alliance</Link>, that aims to destroy the Empire's ultimate weapon, the <Link>Death Star</Link>. When the rebel
+            leader <Link to="/starwars/leia_organa">Princess Leia</Link> is captured by the Galactic Empire,
+            <Link to="/starwars/luke_skywalker"> Luke Skywalker</Link> acquires stolen architectural plans for the Death Star and sets out to rescue her
+            while learning the ways of a metaphysical power known as "<Link>the Force</Link>" from the <Link>Jedi Master</Link>
+            <Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link>. The cast includes <Link>Mark Hamill</Link>, <Link>Harrison Ford</Link>,
+            <Link> Carrie Fisher</Link>, <Link>Peter Cushing</Link>, <Link>Alec Guiness</Link>, <Link>Anthony Daniels</Link>, <Link>Kenny Baker</Link>,
+            <Link> Peter Mayhew</Link>, <Link>David Prowse</Link>, and <Link>James Earl Jones</Link>.
+          </p>
+          <p>
+            Lucas had the idea of a science fiction film in the vein of Flash Gordon around the time he completed his first film, THX 1138 (1971), and
+            he began working on a treatment after the release of American Graffiti (1973). After numerous rewrites, principal photography began in March
+            of 1976 in locations including Tunisia and Elstree Studios in Hertfordshire, England. Lucas formed the visual effects company
+            <Link> Industrial Light & Magic</Link> to help create the film's visual effects. Star Wars suffered production difficulties: the cast and
+            crew believed the film would be a failure, and it went $3 million over budget due to delays.
+          </p>
+          <p>
+            Few were confident in the film's box office prospects. It was released in a small number of theaters in the United States on May 25, 1977,
+            and quickly became a surprise blockbuster, leading it to being expanded to a much wider release. Star Wars opened to critical acclaim, with
+            particular praise for its special effects. It grossed $410 million worldwide during its initial run, surpassing Jaws (1975) to become the
+            highest-grossing film until the release of E.T. the Extra-Terrestrial (1982); subsequent releases have brought its total gross to $775
+            million. When adjusted for inflation, Star Wars is the second-highest grossing film in North America (behind Gone with the Wind) and the
+            fourth-highest grossing film of all time. It received six Academy Awards, two BAFTA awards, and thirteen Saturn Awards, among others. The film
+            has been reissued many times with Lucas' support, including the 1981 reissue giving the film the subtitle Episode IV: A New Hope, and the 1997
+            "Special Edition". The reissues have contained many changes, including new scenes, visual effects, and dialogue.
+          </p>
+          <p>
+            Often regarded as one of the greatest and most influential films of all time, Star Wars quickly became a worldwide pop culture phenomenon,
+            launching an industry of tie-in products, including novels, comics, video games, amusement park attractions, and merchandise such as toys,
+            games, and clothing. It became one of the 25 films selected by the United States Library of Congress for preservation in the National Film
+            Registry in 1989, and its soundtrack was added to the U.S. National Recording Registry in 2004.
+            <Link to="/starwars/the_empire_strikes_back">The Empire Strikes Back</Link> (1980) and
+            <Link to="/starwars/return_of_the_jedi">Return of the Jedi</Link> (1983) followed Star Wars, rounding out the <Link>original Star
+            Wars trilogy</Link>. A <Link>prequel trilogy</Link> and <Link>sequel trilogy</Link> have since been released in addition to two
+            standalone films and various television series.
           </p>
         </div>
         <div>
