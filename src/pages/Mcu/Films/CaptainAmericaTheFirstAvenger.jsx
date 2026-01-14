@@ -348,6 +348,31 @@ const CaptainAmericaTheFirstAvenger = () =>
               discussed simply as a possible name for the squad of commandos Captain America leads in the film. Christopher Markus, one of the
               screenwriters, said the unnamed group was "called the <Link>Howling Commandos</Link> in the script, but no one says that out loud".
             </p>
+            <p>
+              The design as a whole tried to create technology that could be built in the 1940s, though with the added Cube technology in Hydra's case.
+              Abandoned Nazi projects or actual vehicles from the period were used as inspiration. Daniel Simon, who was previously responsible for many
+              vehicle designs in Tron: Legacy (2010), was appointed Lead Vehicle Designer. Director Johnston cited Simon's book Cosmic Motors as a reason
+              to trust his influence, saying "he's sort of the guy I wanted to be when I was designing stuff for Star Wars". The Red Skull's car, for
+              instance, was based on two Mercedes-Benz vehicles from the 1930s, the 540K and the G4.
+            </p>
+            <p>
+              In March 2010, it was reported that Chris Evans was cast as Captain America and Hugo Weaving as the Red Skull; Marvel Studios confirmed the
+              latter in May. <Link>John Krasinski</Link>, <Link>Channing Tatum</Link>, Chance Crawford, Ryan Phillips, Garrett Hedlund, Michael Cassidy,
+              Patrick Flueger, Scott Porter, Wilson Bethel, Mike Vogel, Dane Cook, Ryan McPartlin, Ethan Peck, <Link>Zachary Levi</Link>,
+              <Link> Glen Powell</Link>, Jensen Ackles, <Link>Wyatt Russell</Link>, and <Link>Chris Pratt</Link> were considered for the role of
+              Captain America. Casting director Sara Halley Finn said Evans was cast in part because of his relatable humility alongside a vulnerability
+              and strength that could portray both "skinny" Steve Rogers and Captain America. In April 2010, Sebastian Stan, who also originally
+              auditioned for the title role, was cast as Bucky Barnes. Stan was contracted for multiple films. When casting Stan, Feige believed he would
+              be a good Barnes but a "great" Winter Soldier in future films. Also in April, Marvel announced that Hayley Atwell had been cast as Peggy
+              Carter, and that the film's name had been changed from The First Avenger: Captain America to Captain America: The First Avenger.
+              <Link> Keira Knightley</Link>, <Link>Alice Eve</Link>, and <Link>Emily Blunt</Link> were also considered for the role of Peggy Carter.
+              The next day it was reported that <Link>Joss Whedon</Link> would be rewriting the script as part of his negotiation to write and direct
+              <Link to="mcu/the_avengers_film"> The Aveners</Link> (2012). Whedon said in August, "I just got to make some character connections. The
+              structure of the thing was really tight and I loved it, but there were a couple of opportunites to find his voice a little bit, and some of
+              the other characters, and make the connection so that you understood exactly why he wanted to be who he wanted to be. And progressing
+              through the script to flesh it out a little bit". Samuel L. Jackson revealed in an interview that he would reprise his role as Nick Fury
+              in the film.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
