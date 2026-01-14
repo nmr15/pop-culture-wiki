@@ -101,10 +101,97 @@ const ANewHope = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+
+            <h3 className="article-heading-3" id="3.2">Writing</h3>
+
+            <h3 className="article-heading-3" id="3.3">Casting</h3>
+
+            <h3 className="article-heading-3" id="3.4">Design</h3>
+
+            <h3 className="article-heading-3" id="3.5">Filming</h3>
+
+            <h3 className="article-heading-3" id="3.6">Post-production</h3>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Soundrack"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">MPAA rating</h3>
+
+            <h3 className="article-heading-3" id="6.2">First public screening</h3>
+
+            <h3 className="article-heading-3" id="6.3">Premiere and initial release</h3>
+
+            <h3 className="article-heading-3" id="6.4">Box office</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Critical response</h3>
+
+            <h3 className="article-heading-3" id="7.2">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Post-release"} />
+          <div>
+            <h3 className="article-heading-3" id="8.1">Theatrical re-releases</h3>
+            <h4 className="article-heading-4" id="8.1.1">Special Edition</h4>
+
+            <h3 className="article-heading-3" id="8.2">Home media</h3>
+
+            <h3 className="article-heading-3" id="8.3">Merchandising</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={9} title={"Cinematic and literary allusions"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={10} title={"Legacy and influence"} />
+          <div>
+            <h3 className="article-heading-3" id="10.1">In popular culture</h3>
+            <h3 className="article-heading-3" id="10.1">Cinematic influence</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={11} title={"Sequels, prequels, and adatations"} />
           <div>
             
           </div>
