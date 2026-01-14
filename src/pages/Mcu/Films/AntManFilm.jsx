@@ -148,7 +148,7 @@ const AntManFilm = () =>
           </div>
         </div>
         <div>
-          <Heading2 id={5} title={"Music"} />
+          <Heading2 id={5} title={"Marketing"} />
           <div>
             
           </div>
