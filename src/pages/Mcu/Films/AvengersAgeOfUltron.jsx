@@ -54,11 +54,11 @@ const AvengersAgeOfUltron = () =>
             </tr>
             <tr>
               <th className="infobox-data">Previous MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link></td>
+              <td className="infobox-data"><Link to="/mcu/guardians_of_the_galaxy_film">Guardians of the Galaxy</Link></td>
             </tr>
             <tr>
               <th className="infobox-data">Next MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/captain_marvel_film">Captain Marvel</Link></td>
+              <td className="infobox-data"><Link to="/mcu/antman_film">Ant-Man</Link></td>
             </tr>
           </tbody>
         </table>
