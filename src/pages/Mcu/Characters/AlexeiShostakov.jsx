@@ -111,7 +111,25 @@ const AlexeiShostakov = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Alexei Andreovitch Shostakov</b> is the Soviet Union's first official <Link>super soldier</Link> known as <b>Red Guardian</b> and a
+            founding member of the <Link>New Avengers</Link>. During his career in the Soviet Armed Forces, Alexei became an ally of General
+            <Link> Dreykov</Link>, the head of the <Link>Red Room</Link>. In 1992, following the dissolution of the Soviet Union, he was sent deep
+            undercover in Ohio to infiltrate and destroy the <Link>Hydra</Link>-occupied <Link>North Institute</Link> within <Link>S.H.I.E.L.D.</Link>,
+            assigned with <Link to="/mcu/melina_vostokoff">Melina Vostokoff</Link> to pose as an American family with two surrogate daughters,
+            <Link to="/mcu/natasha_romanoff">Natasha Romanoff</Link> and <Link to="/mcu/yelena_bolova">Yelena Bolova</Link>. Upon destroying the
+            institute in 1995, Alexei returned to Russia, but was eventually incarcerated by Dreykov in the <Link>Seventh Circle Prison</Link> for
+            criticizing the Russian government.
+          </p>
+          <p>
+            In 2016, when the Red Room's activities made a resurgence, Alexei was freed from incarceration by Natasha and Yelena to locate Dreykov.
+            Reunited with Melina, Alexei worked with his former surrogate family to bring down the Red Room once and for all, putting an end to Dreykov,
+            and worked with Yelena to dissolve the remaining Red Room cells across the world. Over a decade later, Alexei had moved to the United States
+            and founded the Red Guardian Limo Services, but was still miserable and searching for glory. After reconnecting with Yelena, he discovered a
+            plot by <Link>Valentina Allegra de Fontaine</Link> to dispose of her. Learning she and de Fontaine's other operatives have survived. Alexei
+            teamed up with them and <Link to="/mcu/bucky_barnes">Bucky Barnes</Link> to bring down de Fontaine. They went on to save Manhattan from
+            <Link> Void</Link> and, before being able to apprehend de Fontaine, be declared as the New Avengers by her.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
