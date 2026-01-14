@@ -97,7 +97,24 @@ const AntManFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ant-Man</b> is a 2015 American suphero film based on the <Link to="/marvelcomics">Marvel Comics</Link> characters of the same name:
+            <Link> Scott Lang</Link> and <Link to="/marvelcomics/ant_man">Hank Pym</Link>. Produced by <Link>Marvel Studios</Link> and distributed
+            by Walt Disney Studios Motion Pictures, it is the 12th film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). The film was
+            directed by <Link>Peyton Reed</Link> from a screenplay by the writing teams of <Link>Edgar Wright</Link> & Joe Cornish and Adam McKay &
+            <Link>Paul Rudd</Link>. It stars Rudd as <Link to="/mcu/scott_lang">Scott Lang / Ant-Man</Link> alongside <Link>Evangeline Lilly</Link>,
+            Corey Stoll, Bobby Cannavale, <Link>Michael Peña</Link>, Tip "T.I." Harris, <Link>Anthony Mackie</Link>, Wood Harris, Judy Greer, Abby Ryder
+            Forston, <Link>David Dastmalchian</Link>, and <Link>Michael Douglas</Link> as <Link to="/mcu/hank_pym">Hank Pym</Link>. In the film, Lang
+            must help defend Pym's Ant-Man shrinking technology and plot a heist with worldwide ramifications.
+          </p>
+          <p>
+            Development of Ant-Man began in April 2006 with the hiring of Wright to direct and co-write with Cornish. By April 2011, Wright and Cornish
+            had completed three drafts of the script and Wright shot test footage for the film in July 2012. Pre-production began in October 2013 after
+            being put on hold so that Wright could complete <Link>The World's End</Link>. Casting began in December 2013, with the hiring of Rudd to play
+            Lang. In May 2014, Wright left the project citing creative differences, though he still received screenplay and story credits with Cornish.
+            The following month, Reed was brought in to replace Wright, while McKay was hired to contribute to the script with Rudd. Filming took place
+            between August and December 2014 in San Francisco and Metro Atlanta.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
