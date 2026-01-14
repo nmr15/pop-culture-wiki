@@ -285,6 +285,11 @@ p
   align-items: center;
 }
 
+.img-flex img
+{
+  width: 250px;
+}
+
 .p-bottom-margin
 {
   margin-bottom: 1.5rem;
