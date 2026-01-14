@@ -373,6 +373,12 @@ const CaptainAmericaTheFirstAvenger = () =>
               through the script to flesh it out a little bit". Samuel L. Jackson revealed in an interview that he would reprise his role as Nick Fury
               in the film.
             </p>
+            <p>
+              In May, Toby Jones entered final negotiations to play Arnim Zola. Iron Man director Jon Favreau said a younger Howard Stark would appear in
+              the film, played by Dominic Cooper. Atwell revealed that Tommy Lee Jones would have a role in the film. By June, Neal McDonough was in talks
+              to play Dum Dum Dugan. Four days later, he confirmed he was taking the part. The same day, Stanley Tucci joined the cast as Dr. Abraham
+              Erskine, the scientist who created the super-soldier serum.
+            </p>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
