@@ -16,6 +16,47 @@ const AvengersAgeOfUltron = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Filming"},
+              {id: "3.4", title: "Post-production"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <Collapse 
+            id="5"
+            item="Marketing"
+            sub={[
+              {id: "5.1", title: "Promotion"},
+              {id: "5.2", title: "Merchandise"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office", sub2: [
+                {id: "7.1", title: "United States and Canada"},
+                {id: "7.2", title: "Other territories"}
+              ]},
+              {id: "7.2", title: "Critical reception"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Sequels</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
