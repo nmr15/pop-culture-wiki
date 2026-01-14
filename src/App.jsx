@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
 import './App.css'
-import BadBeginning from "./pages/Asoue/BadBeginning"
+// import BadBeginning from "./pages/Asoue/BadBeginning"
 import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
 import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
@@ -98,7 +98,7 @@ function App() {
           <Route key={index} path={path} element={<Component />} />
         ))}
 
-        <Route path='/a_series_of_unfortunate_events/the_bad_beginning' element={<BadBeginning />} />
+        {/* <Route path='/a_series_of_unfortunate_events/the_bad_beginning' element={<BadBeginning />} /> */}
       </Routes>
       </Wrapper>
     </>
