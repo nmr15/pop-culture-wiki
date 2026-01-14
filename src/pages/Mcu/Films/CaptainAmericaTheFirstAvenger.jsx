@@ -43,8 +43,7 @@ const CaptainAmericaTheFirstAvenger = () =>
             item="Reception"
             sub={[
               {id: "7.1", title: "Box office"},
-              {id: "7.2", title: "Critical response"},
-              {id: "7.3", title: "Accolades"}
+              {id: "7.2", title: "Critical response"}
             ]}
           />
           <Collapse 
@@ -327,6 +326,7 @@ const CaptainAmericaTheFirstAvenger = () =>
               sense in using the <Link>Cosmic Cube</Link>, already set up in <Link to="/mcu/thor_film">Thor</Link> (2011), as the film's MacGuffin, while
               using a younger Howard Stark as a key ally for the protagonist would bring, according to Markus, "that Tony Starkness".
             </p>
+
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <div className="img-left img-card">
               <img 
@@ -379,8 +379,11 @@ const CaptainAmericaTheFirstAvenger = () =>
               to play Dum Dum Dugan. Four days later, he confirmed he was taking the part. The same day, Stanley Tucci joined the cast as Dr. Abraham
               Erskine, the scientist who created the super-soldier serum.
             </p>
+
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+
           </div>
         </div>
         <div>
@@ -399,15 +402,18 @@ const CaptainAmericaTheFirstAvenger = () =>
           <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+
           </div>
         </div>
         <div>
           <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
-            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+
           </div>
         </div>
         <div>
@@ -415,8 +421,11 @@ const CaptainAmericaTheFirstAvenger = () =>
           <div>
             <h3 className="article-heading-3" id="8.1">Sequels</h3>
             <h4 className="article-heading-4" id="8.1.1">Captain America: The Winter Soldier</h4>
+
             <h4 className="article-heading-4" id="8.1.2">Captain America: Civil War</h4>
+
             <h3 className="article-heading-3" id="8.1">Marvel One-Shot</h3>
+            
           </div>
         </div>
         <div>
