@@ -625,6 +625,25 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="5.2.3">Radio</h4>
+            <p>
+              Radio adaptations of the films were also produced. Lucas, a fan of the NPR-affiliated campus radio station of his alma mater the University
+              of Southern California, licensed the Star Wars radio rights to KUSC-FM for US$1. The production used John Williams's original film score,
+              along with <Link>Ben Burtt</Link>'s sound effects.
+            </p>
+            <p>
+              The first was written by science-fiction author Brian Daley and directed by John Madded. It was broadcast on National Public Radio in 1981,
+              adapting the original 1977 film into 13 episodes. Mark Hamill and Anthony Daniels reprised their film roles.
+            </p>
+            <p>
+              The overwhelming success, led to a 10-episode adaptation of The Empire Strikes Back debuted in 1983. <Link>Billy Dee Williams</Link>
+              joined the other two stars, reprising his role as Lando Calrissian.
+            </p>
+            <p>
+              In 1983, Buena Vista Records released an original, 30-minute Star Wars drama titled Rebel Mission to Ord Mantell, written by Daley.  In the
+              1990s, Time Waarner Audio Publishing adapted several Star Wars series from Dark Horse Comics into audio dramas: the three-part Dark
+              Empire saga, Tales of the Jedi, Dark Lords of the Sith, the Dark Forces trilogy, and Crimson Empire (1998). Return of the Jedi was
+              adapted into 6-episodes in 1996, featuring Daniels.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Video games</h3>
 
