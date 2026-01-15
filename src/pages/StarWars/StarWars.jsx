@@ -646,8 +646,22 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.3">Video games</h3>
+            <p>
+              The Star Wars franchise has spawned over one hundred computer, video, and board games, dating back to some of the earliest home consoles.
+              Some are based directly on the movie material, while others rely heavily on the non-canonical Expanded Universe (rebranded as Star Wars
+              Legends and removed from the canon in 2014). Star Wars games have gone through three significant development eras, marked by a change in
+              leadership among the developers: the early licensed games, those developed after the creation of LucasArts, and those created after the
+              closure of the Lucasfilm division by Disney and the transfer of the license to <Link>Electronic Arts</Link>.
+            </p>
 
             <h4 className="article-heading-4" id="5.3.1">Early licensed games (1979-1993)</h4>
+            <p>
+              The first officially licensed electronic Star Wars game was Kenner's 1979 table-top Star Wars Electronic Battle Command. In 1982, Parker
+              Brothers published the first Star Wars video game for the Atari 2600, Star Wars: The Empire Strikes Back, followed soon the year later by
+              Star Wars: Jedi Arena, the first video game to depict lightsaber combat. They were followed in 1983 by Atari's rail shooter arcade game
+              Star Wars, with vector graphics to replicate the Death Star trench run scene from the 1977 film. The next game, Star Wars: Return of the
+              Jedi (1984), has more traditional raster graphics, while the following Star Wars: The Empire Strikes Back (1985) has vector graphics.
+            </p>
 
             <h4 className="article-heading-4" id="5.3.2">LucasArts and modern self-published games (1993-2014)</h4>
 
