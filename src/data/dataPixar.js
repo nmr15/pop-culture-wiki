@@ -16,7 +16,7 @@ export const pixarFilms = [
   {
     "id": "pixar3",
     "title": "Toy Story 2",
-    "file": "toyStory2",
+    "file": "ToyStory2",
     "img": "https://en.wikipedia.org/wiki/Toy_Story_2",
     "route": "/toy_story/toy_story_2"
   },
