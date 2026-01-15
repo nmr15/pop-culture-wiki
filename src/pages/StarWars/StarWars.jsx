@@ -664,6 +664,23 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="5.3.2">LucasArts and modern self-published games (1993-2014)</h4>
+            <p>
+              Lucasfilm founded its own video game company in 1982, becoming best known for adventure games and World War II flight combat games, but as
+              George Lucas took more interest in the increasing success of the video game market, he wanted to have more creative control over the games
+              and founded his own development company, LucasArts. Improved graphics allowed games to tell complete narratives, which allowed for the
+              retelling of the films, and eventually original narratives set in the sanme continuity, with voice-over and CGI cutscenes. In 1993,
+              LucasArts released Star Wars: X-Wing, the first self-published Star Wars video game and the first space flight simulator based on the
+              franchise. It was one of the best selling video games of 1993 and established its own series of games. The Rogue Squadron series was
+              released between 1998 and 2003, also focusing on space battles set during the films.
+            </p>
+            <p>
+              Dark Forces (1995), a hybrid adventure game incorporating puzzles and strategy, was the first Star Wars first-person shooter. It featured
+              gameplay and graphics featured not then common in other games, made possible by LucasArts' custom-designed game engine, the Jedi. The game
+              was well received, and it was followed by four sequels. The series introduced Kyle Katarn, who would appear in multiple games, novels, and
+              comics. Katarn is a former stormtrooper who joins the Rebellion and becomes a Jedi, a plot arc similar to that of Finn in the sequel
+              trilogy films. A massively multiplayer online role-playing game, Star Wars Galaxies, was in operation from 2003 until 2011. After Disney
+              bought Lucasfilm, LucasArts ceased its role as a developer in 2013, although it still operates as a license.
+            </p>
 
             <h4 className="article-heading-4" id="5.3.3">EA Star Wars (2014-present)</h4>
 
