@@ -588,6 +588,22 @@ const StarWars = () =>
               including Tales of the Jedi (1993-1998), X-Wing Rogue Squadron (1995-1996), Star Wars: Republic (1998-2006), Star Wars Tales (1999-2005),
               Star Wars: Empire (2002-2006), and Knights of the Old Republic (2006-2010).
             </p>
+            <p>
+              After Disney's acquisition of Lucasfilm, it was announced in January 2014 that in 2015 the Star Wars comics license would return to Marvel
+              Comics, whose parent company, Marvel Entertainment, Disney had purchased in 2009. Launched in 2015, the first three publications were
+              titled Star Wars, Darth Vader, and the miniseries Princess Leia.
+            </p>
+            <p>
+              First announced as Project Luminous at Star Wars Celebration in April 2019, the Star Wars: The High Republic publishing initially was
+              revealed in a press conference in February 2020. Involving the majority of the then current officially licensed publishers, a new era set
+              200 years before the Skywalker Saga was explored in various books and comics. Including ongoing titles by Marvel and IDW Publishing,
+              written by Cavan Scott and Daniel José Older respectively.
+            </p>
+            <p>
+              Marvel Comics will publish a one-shot comic book on September 4, 2024, that bridges the gap between the High Republic publishing initiative
+              and the events of The Acolyte. Titled Star Wars: The Acolyte - Kelnacca, the one-shot was written by High Republic writer Cavan Scott with
+              art by Marika Cresta. It focuses on Kelnacca, the Wookiee Jedi introduced in The Acolyte.
+            </p>
 
             <h3 className="article-heading-3" id="5.2">Audio</h3>
 
