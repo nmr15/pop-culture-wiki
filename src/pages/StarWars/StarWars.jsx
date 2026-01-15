@@ -606,6 +606,15 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.2">Audio</h3>
+            <p>
+              <Link>John Williams</Link> composed the soundtracks for the nine episodic films. He stated he would retire from the franchise with The Rise
+              of Skywalker, but he composed a theme for Obi-Wan Kenobi for the miniseries and Han Solo's theme for Solo: A Star Wars Story. Williams also
+              created the main theme for Galaxy's Edge.
+            </p>
+            <p>
+              Several other composers worked on other soundtracks, including John Powell (Obi-Wan Kenobi), <Link>Michael Giacchino</Link> (Rogue One),
+              and Ludwig Göransson (The Mandalorian).
+            </p>
 
             <h4 className="article-heading-4" id="5.2.1">Soundtracks and singles</h4>
 
