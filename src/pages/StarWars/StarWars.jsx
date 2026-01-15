@@ -683,6 +683,15 @@ const StarWars = () =>
             </p>
 
             <h4 className="article-heading-4" id="5.3.3">EA Star Wars (2014-present)</h4>
+            <p>
+              Following its acquisition of the franhise, Disney reassigned video game rights to Electronic Arts. Games made during this era are
+              considered canonical, and feature more influence from the Star Wars filmmakers. Disney partnered with Lenovo to create the augmented
+              reality video game Jedi Challenges, released in November 2017. In August 2018, it was announced that Zynga would publish free-to-play
+              Star Wars games. The Battlefront games reeived a canonical reboot with Star Wars: Battlefront in November 2015, which was followed by a
+              sequel, Battlefront II, in November 2017. A single-player action-adventure game, <Link>Star Wars Jedi: Fallen Order</Link>, with an
+              original story and cast of characters, was released in November 2019. A space combat game titled Star Wars: Squadrons, which builds upon
+              the space battles from Battlefront, was released in October 2020.
+            </p>
 
             <h3 className="article-heading-3" id="5.4">Theme park attractions</h3>
 
