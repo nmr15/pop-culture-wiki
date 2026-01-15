@@ -606,6 +606,7 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.2">Audio</h3>
+            <h4 className="article-heading-4" id="5.2.1">Soundtracks and singles</h4>
             <p>
               <Link>John Williams</Link> composed the soundtracks for the nine episodic films. He stated he would retire from the franchise with The Rise
               of Skywalker, but he composed a theme for Obi-Wan Kenobi for the miniseries and Han Solo's theme for Solo: A Star Wars Story. Williams also
@@ -616,9 +617,12 @@ const StarWars = () =>
               and Ludwig Göransson (The Mandalorian).
             </p>
 
-            <h4 className="article-heading-4" id="5.2.1">Soundtracks and singles</h4>
-
             <h4 className="article-heading-4" id="5.2.2">Audio novels</h4>
+            <p>
+              The first Star Wars audio work is The Story of Star Wars, an LP using audio samples from the original film and a new narrative to retell
+              the story, released in 1977. Most later printed novels were adapted into audio novels, usually released on cassette tape and re-released on
+              CD. As of 2019, audio-only novels have been released not directly based on printed media.
+            </p>
 
             <h4 className="article-heading-4" id="5.2.3">Radio</h4>
 
