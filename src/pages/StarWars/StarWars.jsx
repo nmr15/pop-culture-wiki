@@ -576,7 +576,17 @@ const StarWars = () =>
             <p>
               Marvel Comics published a Star Wars comic book series from 1977 to 1986. Original Star Wars comics were serialized in the Marvel magazine
               Pizzazz between 1977 and 1979. The 1977 installments were the first original Star Wars stories not directly adapted from the films to
-              appear in print form, as they preceded those of the Star Wars comic series. From 1985 to 1987, the animated
+              appear in print form, as they preceded those of the Star Wars comic series. From 1985 to 1987, the animated children's series Ewoks and
+              Droids inspired comic series from Marvel's Star Comics line. According to Marvel Comics former Editor-In-Chief Jim Shooter, the strong
+              sales of Star Wars comics saved Marvel financially in 1977 and 1978. Marvel's Star Wars series was one of the industry's top selling titles
+              in 1979 and 1980. The only downside for Marvel was that the 100,000 copy sales quota was surpassed quickly, allowing Lippincott to
+              renegotiate the royalty arrangements from a position of strength.
+            </p>
+            <p>
+              In the later 1980s, Marvel dropped a new Star Wars comic it had in development, which was picked up by Dark Horse Comics and published as
+              the popular Dark Empire series (1991-1995). Dark Horse subsequently launched dozens of series set after the original film trilogy,
+              including Tales of the Jedi (1993-1998), X-Wing Rogue Squadron (1995-1996), Star Wars: Republic (1998-2006), Star Wars Tales (1999-2005),
+              Star Wars: Empire (2002-2006), and Knights of the Old Republic (2006-2010).
             </p>
 
             <h3 className="article-heading-3" id="5.2">Audio</h3>
