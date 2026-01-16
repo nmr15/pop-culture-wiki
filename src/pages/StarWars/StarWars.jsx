@@ -750,6 +750,24 @@ const StarWars = () =>
         <div>
           <Heading2 id={6} title={"Themes"} />
           <div>
+            <p>
+              Star Wars features elements such as knighthood, chivalry, and Jungian archtypes such as "the shadow". There are also many references to
+              Christianity, such as in the appearance of <Link to="/starwars/darth_maul">Darth Maul</Link>, whose design draw heavily from traditional
+              depictions of the devil. Anakin was conceived of a virgin birth, and is assumed to be te "Chosen One", a messianic individual. However,
+              unlike Jesus, Anakin falls from grace, remaining evil as Darth Vader until Return of the Jedi. According to Adam Driver, sequel trilogy
+              villain Kylo Ren, who idolized Vader, believes he is "doing what he thinks is right". George Lucas has said that the theme of the saga is
+              redemption.
+            </p>
+            <p>
+              The saga draws heavily from the hero's journey, an archetypical template developed by comparative mythologist Joseph Campbell. Each
+              character, primarily Anakin, Luke, and Rey, follow the steps of the cycle or undergoes its reversal, becoming the villain. A defining step
+              of the journey is "Atonement with the Father". Obi-Wan's loss of a father figure could have impacted his relationship with Anakin, whom
+              both Obi-Wan and Palpatine are fatherlike mentors to. Luke's discovery that Vader is his father has strong repercussions on the saga and
+              is regared as one of the most influential plot twists in cinema. <Link>Supreme Leader Snoke</Link> encourages Kylo Ren to kill his father,
+              Han Solo. Kylo uses the fact that Rey is an orphan to tempt her into joining the dark side. According to Inverse, the final scene in The
+              Last Jedi, which depicts servant children playing with a toy Luke and one boy using the Force, symbolizes that "the Force can be found in
+              people with humble beginnings."
+            </p>
             <h3 className="article-heading-3" id="6.1">Historical influences</h3>
           </div>
         </div>
