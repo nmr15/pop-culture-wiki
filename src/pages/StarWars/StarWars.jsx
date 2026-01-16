@@ -797,6 +797,21 @@ const StarWars = () =>
         <div>
           <Heading2 id={7} title={"Cultural impact"} />
           <div>
+            <p>
+              The Star Wars saga has had a significant impact on popular culture, with references to its fictional universe deeply embedded in everyday
+              life. Phrases like "evil empire" and "<Link>May the Force be with you</Link>" have become part of the popular lexicon. The first Star Wars
+              film in 1977 was a cultural unifier, enjoyed by a wide spectrum of people. The film can be said to have helped launch the science-fiction
+              boom of the late 1970s and early 1980s, making science-fiction films a mainstream genre. The widespread impact made it a prime target for
+              parody works and homeages, with popular examples including Hardware Wars, Spaceballs, The Family Guy Trilogy, and Robot Chicken: Star
+              Wars.
+            </p>
+            <p>
+              In 1989, the Library of Congress sekected the original Star Wars film for preservation in the U.S. National Film Registry, as being
+              "culturally, historically, or aesthetically signigicant." The Empire Strikes Back was selected in 2010, and Return of the Jedi was
+              selected in 2021. 35 mm reels of the 1997 Special Editions were the versions initially presented for preservation because of the difficulty
+              of transferring from the original prints, but it was later revealed that the Library possesses a copyright deposit print of the original
+              theatrical releases.
+            </p>
             <h3 className="article-heading-3" id="7.1">Indistry</h3>
             <h4 className="article-heading-4" id="7.1.1">Fan workds</h4>
             <h3 className="article-heading-3" id="7.2">Academia</h3>
