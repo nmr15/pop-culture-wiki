@@ -769,6 +769,29 @@ const StarWars = () =>
               people with humble beginnings."
             </p>
             <h3 className="article-heading-3" id="6.1">Historical influences</h3>
+            <p>
+              Political science has been an important element of Star Wars since the francise launched in 1977, focusing on a struggle between democracy
+              and dictatorship. Battles featuring the <Link>Ewoks</Link> and <Link>Gungans</Link> against the Empire and <Link>Trade Federation</Link>,
+              respectively, represent the clash beetween a primitive society and a more advanced one, similar to the Vietnam-American War. Darth Vader's
+              design was intially inspired by Samurai armor, and also incorporated a German military helmet. Originally, Lucas conceived of the Sith as
+              a group that served the Empereor in the same way the Schutzstaffel (SS) served Adolf Hitler, but this was condensed into one character in
+              the form of Vader. <Link>Stormtroopers</Link> borrow the name of World War I German "shcok" troopers. Imperial officers wear uniforms
+              resembling those of German forces during World War II, and political and security officers resemble the black-clad SS down to the
+              stylized death's head on their caps. World War II terms were used for names in the films; e.g. the planets <Link>Kessel</Link> (a term
+              that refers to a group of encircled forces) and <Link>Hoth</Link> (after a German general who served on the snow-laden Eastern Front).
+              Shots of the commanders looking thourgh <Link>AT-AT</Link> walker viewscreens in The Empire Strikes Back resemble tank interiors, and
+              space battles in the original film were basd on World War I and World War II dogfights.
+            </p>
+            <p>
+              Palpatine being a chancellor before becoming the Emperor in the prequel trilogy alluded to Hitler's role before appointing himself Fuhrer.
+              Lucas has also drawn parallels to historical dictators such as Julius Caesar, Napoleon Bonaparte, and politicans like Richard Nixon. The
+              <Link>Great Jedi Purge</Link> mirrors the events of the Night of the Long Knives. The corruption of the Galactic Republic is modeled after
+              the fall of the democratic Roman Reublic and the formation of an empire.
+            </p>
+            <p>
+              On the inspiration for the <Link>First Order</Link> formed "from the ashes of the Empire", The Force Awakens director J. J. Abrams spoke of
+              conversations the writers had about how the Nazis could have escaped to Argentina after WWII and "started working together again."
+            </p>
           </div>
         </div>
         <div>
