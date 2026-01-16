@@ -694,6 +694,13 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Theme park attractions</h3>
+            <p>
+              In addition to the Disneyland ride Star Tours (1987) and its successor, Star Tours: The Adventures Continue (2011), many live
+              attractions have been held at Disney parks, including the traveling exhibition Where Science Meets Imagination, the Space Mountain
+              spin-off Hyperspace Mountain, a walkthrough Launch Bay, and the night-time A Galactic Spectacular. An immersive themed area called
+              Galaxy's Edge (2019) opened at Disneyland and opened at Walt Disney World in mid-2019. A themed hotel, Star Wars: Galactic Starcruiser,
+              operated from 2022 to 2023 at Walt Disney World.
+            </p>
 
             <h3 className="article-heading-3" id="5.5">Multimedia projects</h3>
 
