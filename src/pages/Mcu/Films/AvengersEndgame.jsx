@@ -16,6 +16,19 @@ const AvengersEndgame = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <li className="sidebar-list-item"><a href="#3">Production</a></li>
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
