@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import Collapse2 from '../../components/Collapse2'
+import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
 
 const GumballSeries = () =>
@@ -15,6 +15,15 @@ const GumballSeries = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+          <Collapse 
+            id="2"
+            item="Episodes"
+            sub={[
+              {id: "2.1", title: "Crossovers"},
+              {id: "2.2", title: "Shorts and miniseries"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
