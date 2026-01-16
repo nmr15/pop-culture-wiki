@@ -29,11 +29,26 @@ const AvengersEndgame = () =>
               {id: "6.2", title: "Home media"}
             ]}
           />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office", sub2: [
+                {id: "7.1.1", title: "Pre-sale records"},
+                {id: "7.1.2", title: "United States and Canada"},
+                {id: "7.1.3", title: "Other territories"}
+              ]},
+              {id: "7.2", title: "Critical response"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Sequels</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>Avengers: Endgame</li>
         </ul>
         <div>
