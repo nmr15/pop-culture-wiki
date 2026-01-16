@@ -703,9 +703,48 @@ const StarWars = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.5">Multimedia projects</h3>
+            <p>
+              A multimedia project involves works released across multiple types of media. Shadows of the Empire (1996) was a multimedia  project set
+              between The Empire Strikes Back and Return of the Jedi that inluded a novel by Steve Perry, a comic book series, a video game, and action
+              figures. <Link>The Force Unleashed</Link> (2008-2010) was a similar project set between Revenge of the Sith and A New Hope that included
+              a novel, a <Link>2008 video game</Link> and its <Link>2010 sequel</Link>, a graphic novel, a role-playing game supplement and toys.
+            </p>
 
             <h3 className="article-heading-3" id="5.6">Merchandising</h3>
-
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/George_Lucas_cropped_2009.jpg/500px-George_Lucas_cropped_2009.jpg" 
+                alt="George Lucas 2009" 
+              />
+              <p>George Lucas made much of his fortune by retaining the rights to Star Wars merchandising</p>
+            </div>
+            <p>
+              The success of the Star Wars films led the franchise to become one of the most merchandised franchises in the world. While filming the
+              original 1977 film, George Lucas decided to take a $500,000 pay cut to his salary as director in exchange for full ownership of the
+              franchise's merchandising rights. By 1987, the first three films have made $2.6 billion in merchandising revenue. By 2012, the first six
+              films produced approximately $20 billion in merchandising revenue.
+            </p>
+            <p>
+              Kenner Products made the first Star Wars action figures to coincide with the release of the original film, and today the original figures
+              are highly valuable. Since the 1990s, Hasbro holds the rights to create action figures based on the saga. Pez dispensers began to be
+              produced in 1997. Star Wars was the first intellectual property to be licensed in <Link>Lego</Link> history. Lego has produced animated
+              parody short films and mini-series to promote their Star Wars sets. The <Link>Lego Star Wars video games</Link> are critically acclaimed
+              bestsellers.
+            </p>
+            <p>
+              In 1977, the board game Star Wars: Escape from the Death Star was released. A Star Wars Monopoly and themed versions of Trivial Pursuit and
+              Battleship were released in 1997, with updated versions released in subsequent years. The board game Risk has been adapted in two editions
+              by Hasbro: The Clone Wars Edition (2005) and the Original Trilogy Edition (2006). Three Star Wars tabletop role-playing games have been
+              developed: a version by West End Games in the 1980s and 1990s, one by Wizards of the Coast in the 2000s, and one by Fantasy Flight Games in
+              the 2010s.
+            </p>
+            <p>
+              Star Wars Trading Cards have been published since the first "blue" series, by Topps, in 1977. Dozens of serires have been produced, with
+              Topps being the licensed creator in the United States. Each card series are of film stills of original art. Many of the cards have become
+              highly collectible with some very rare "promos", such as the 1993 Galaxy Series II "floating Yoda" P3 card often commanding $1,000 or more.
+              While most "base" or "common card" sets are plentiful, many "insert" or "chase cards" are very rare. From 1995 until 2001, Decipher, Inc.
+              had the license for, created, and produced the Star Wars Customizable Card Game.
+            </p>
           </div>
         </div>
         <div>
