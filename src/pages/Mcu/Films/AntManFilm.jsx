@@ -119,7 +119,35 @@ const AntManFilm = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <div className="img-left img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Antman_00094-1-.jpeg" 
+                alt="Pym punches Mitchell Carson in the face." 
+              />
+              <p>Pym punches Mitchell Carson in the face.</p>
+            </div>
+            <p>
+              In 1989, Hank Pym resigns from <Link>S.H.I.E.L.D.</Link> after discovering <Link>Howard Stark</Link>'s attempt to replicate his own
+              shrinking technology, which Pym believes is very dangerous and vows to suppress it.
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/LangLeavingPrison.jpg" 
+                alt="Scott Lang leaving prison" 
+              />
+            </div>
+            <p>
+              In the present day, Pym's estraged daughter, Hope van Dyne, and protege, <Link>Darren Cross</Link>, have forced him from his own company,
+              <Link>Pym Technologies</Link>. Futhermore, Pym is more devastated when Cross unravels his own project; an advanced shrinking suit named the
+              <Link> Yellowjacket Suit</Link>, based on Pym's original technology.
+            </p>
+            <p>
+              Scott Lang is released from <Link>San Quentin State Prison</Link>, after serving three years for burglarizing a former employer. He
+              reunited his his former cellmate <Link>Luis</Link>, and his two other partners <Link>Kurt Goreshter</Link> and <Link>Dave</Link>, who
+              offer him a position in a burglary: however, Lang explains his intention about going straight. Futhermore, he learns that
+              <Link> his ex-wife</Link> has gotten engaged to a police officer, <Link>Jim Paxton</Link>. His wife also reveals that he cannot see
+              <Link> their child</Link> anymore if he does not provide child support.
+            </p>
           </div>
         </div>
         <div>
