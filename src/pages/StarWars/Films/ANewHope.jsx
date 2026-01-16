@@ -158,6 +158,13 @@ const ANewHope = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              George Lucas had the idea for a space opera prior to 1971. According to Mark Hamill, he wanted to make it before his 1973 coming-of-age film
+              American Graffiti. His original plan was to adapt the Flash Gordon space adventure comics and serials into films, having been fascinated
+              by them sinc he was young. Lucas attempted to purchase the rights, but they had already been acquired by the producer Dino De Laurentiis.
+              Lucas then discovered that Flash Gordon was inspired by the John Carter of Mars book series by Edgar Rice Burroughs, the author of
+              Tarzan.
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Writing</h3>
 
