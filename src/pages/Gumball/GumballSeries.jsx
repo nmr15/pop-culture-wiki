@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import Collapse2 from '../../components/Collapse2'
 import Heading2 from '../../components/Heading2'
 
-const Gumball = () =>
+const GumballSeries = () =>
 {
   useEffect(() =>
   {
@@ -53,4 +53,4 @@ const Gumball = () =>
   )
 }
 
-export default Gumball;
+export default GumballSeries;
