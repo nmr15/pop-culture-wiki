@@ -824,6 +824,31 @@ const StarWars = () =>
               change from an almost bankrupt production company to a thriving media conglomerate. With over $10.3 billion in worldwide box office
               receipts, Star Wars is the second-highest-grossing film franchise of all time.
             </p>
+            <p>
+              Star Wars fundamentally changed the aesthetic and narratives of Hollywood films, switching the focus of Hollywood-made films from deep,
+              meaningful stories based on dramatic conflict, themes and irony, to sprawling special-effects-laden blockbusters, as well as changing the
+              Hollywood film industry in fundamental ways. Before Star Wars, special effects in film had not appreciably advanced since the 1950s. The
+              commercial success of Star Wars created a boom in state-of-the-art special effects in the late 1970s. Along with Jaws, Star Wars started
+              the tradition of the summer blockbuster film in the entertainment industry, where films open on many screens at the same time and
+              profitable franchises are important. It created the model for the major film trilogy and showed that merchandising rights on a film could
+              generate more money than the film itself did.
+            </p>
+            <p>
+              Film critic Roger Ebert wrote in his book The Great Movies, "Like The Birth of a Nation and Citizen Kane, Star Wars was a technical
+              watershed that influenced many of the movies that came after." It began a new generation of special effects and high-energy motion pictures.
+              The film was one of the first films to link genres together to invent a new, high-concept genre for filmmakers to build upon. Finally,
+              along with Steven Spielberg's Jaws. It shifted the film industry's focus away from personal filmmaking of the 1970s and towards fast-paced,
+              big-budget blockbusters for younger audiences.
+            </p>
+            <p>
+              Some critics have blamed Star Wars and Jaws for "ruining" Hollywood by shifting its focus from "sophisticated" films such as The Godfather,
+              Taxi Driver, and Annie Hall to films about spectacle and juvenile fantasy, and for the industry shift from stand-alone, one and done films,
+              towards blockbuster franchises with multiple sequels and prequels. One such critic, Peter Biskind, complained, "When all was aid and done,
+              Lucas and Spielberg returned the 1970s audience, grown sophisticated on a diet of European and New Hollywood films, to the simplicities
+              of the the pre- 1960s Golden Age of movies... They marched backward through the looking-glass." In an opposing view, Tom Shone wrote that
+              through Star Wars and Jaws, Lucas and Spielberg "didn't betray cinema at all: they plugged it back into the grid, returning the medium to
+              its roots as a carnival sideshow, a magic act, one big special effect", which was "a kind of rebirth".
+            </p>
             <h4 className="article-heading-4" id="7.1.1">Fan workds</h4>
             <h3 className="article-heading-3" id="7.2">Academia</h3>
           </div>
