@@ -314,7 +314,7 @@ export const starwarsChars = [
     "file": "PadméAmidala",
     "media": "film",
     "img": "https://static.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg",
-    "route": "/starwars/padm�_amidala"
+    "route": "/starwars/padmé_amidala"
   },
   {
     "id": "starwarsChar14",
