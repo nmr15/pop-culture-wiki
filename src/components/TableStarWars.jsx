@@ -18,9 +18,9 @@ const TableStarWars = () =>
               <th>Original Trilogy</th>
               <td>
                 <div className="table-list">
-                  <Link to="/starwars/a_new_hope">A New Hope</Link>
-                  <Link to="/starwars/the_empire_strikes_back">The Empire Strikes Back</Link>
-                  <Link to="/starwars/return_of_the_jedi">Return of the Jedi</Link>
+                  <Link to="/starwars/a_new_hope" className="table-list-link">A New Hope</Link>
+                  <Link to="/starwars/the_empire_strikes_back" className="table-list-link">The Empire Strikes Back</Link>
+                  <Link to="/starwars/return_of_the_jedi" className="table-list-link">Return of the Jedi</Link>
                 </div>
               </td>
             </tr>
