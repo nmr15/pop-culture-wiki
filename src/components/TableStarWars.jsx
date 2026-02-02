@@ -52,6 +52,15 @@ const TableStarWars = () =>
                 </div>
               </td>
             </tr>
+            <tr>
+              <th>Other</th>
+              <td>
+                <div className="table-list">
+                  <Link to="/starwars/rogue_one" className="table-list-link">Rogue One</Link>
+                  <Link to="/starwars/solo" className="table-list-link">Solo</Link>
+                </div>
+              </td>
+            </tr>
           </tbody>
         </table>
       </div>
