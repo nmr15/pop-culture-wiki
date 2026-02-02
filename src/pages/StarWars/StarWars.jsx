@@ -812,7 +812,18 @@ const StarWars = () =>
               of transferring from the original prints, but it was later revealed that the Library possesses a copyright deposit print of the original
               theatrical releases.
             </p>
-            <h3 className="article-heading-3" id="7.1">Indistry</h3>
+            <p>
+              In December 2025, a 1977 painting that introduced the world of Star Wars sold for a record $3.875 million at Heritage Auctions, becoming
+              the most expensive piece of memorabilia in the franchise's history.
+            </p>
+            <h3 className="article-heading-3" id="7.1">Industry</h3>
+            <p>
+              The original Star Wars film was a huge success for <Link>20th Century Fox</Link>, and was credited for reinvigorating the company. Within
+              three weeks of the film's release, the studio's sock price doubled to a record high. Prior to 1977, 20th Century Fox's greatest annual
+              profits were $37 million, wihile in 1977, the company broke that record by posting a proft of $79 million. The franchise helped Fox to
+              change from an almost bankrupt production company to a thriving media conglomerate. With over $10.3 billion in worldwide box office
+              receipts, Star Wars is the second-highest-grossing film franchise of all time.
+            </p>
             <h4 className="article-heading-4" id="7.1.1">Fan workds</h4>
             <h3 className="article-heading-3" id="7.2">Academia</h3>
           </div>
