@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { starwarsSeriesAnimated, starwarsSeriesLive } from '../data/dataStarWars'
+import { starwarsSeriesAnimated, starwarsSeriesLive, starwarsChars } from '../data/dataStarWars'
 
 const TableStarWars = () =>
 {
@@ -79,6 +79,16 @@ const TableStarWars = () =>
                 <div className="table-list">
                   {starwarsSeriesLive.map((seriesL) => (
                     <Link to={seriesL.route} className="table-list-link" key={seriesL.id}>{seriesL.title}</Link>
+                  ))}
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td>Characters</td>
+              <td colSpan={2}>
+                <div className="table-list">
+                  {starwarsChars.map((swChar) => (
+                    <Link to={swChar.route} className="table-list-link" key={swChar.id}>{swChar.title}</Link>
                   ))}
                 </div>
               </td>
