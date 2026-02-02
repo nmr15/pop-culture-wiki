@@ -123,13 +123,15 @@ const HarryPotterBooks = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <h3 className="article-heading-3" id="1.1">Early years</h3>
+            <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Style and allusions"} />
           <div>
-
+            <h3 className="article-heading-3" id="2.1">Genre and style</h3>
+            <h3 className="article-heading-3" id="2.2">Allusions</h3>
           </div>
         </div>
         <div>
@@ -141,19 +143,25 @@ const HarryPotterBooks = () =>
         <div>
           <Heading2 id={4} title={"Development history"} />
           <div>
-
+            <h3 className="article-heading-3" id="4.1">Publishing history</h3>
+            <h3 className="article-heading-3" id="4.2">Translations</h3>
+            <h3 className="article-heading-3" id="4.3">Cover art</h3>
           </div>
         </div>
         <div>
           <Heading2 id={5} title={"Reception"} />
           <div>
-
+            <h3 className="article-heading-3" id="5.1">Commercial success</h3>
+            <h3 className="article-heading-3" id="5.2">Literary criticism</h3>
+            <h3 className="article-heading-3" id="5.3">Themes critique</h3>
+            <h3 className="article-heading-3" id="5.4">Controversies</h3>
           </div>
         </div>
         <div>
           <Heading2 id={6} title={"Legacy"} />
           <div>
-
+            <h3 className="article-heading-3" id="6.1">Influence on literature</h3>
+            <h3 className="article-heading-3" id="6.2">Cultural impact</h3>
           </div>
         </div>
         <div>
@@ -165,7 +173,12 @@ const HarryPotterBooks = () =>
         <div>
           <Heading2 id={8} title={"Adaptations"} />
           <div>
-
+            <h3 className="article-heading-3" id="8.1">Films</h3>
+            <h4 className="article-heading-4" id="8.1.1">Spin-off prequels</h4>
+            <h3 className="article-heading-3" id="8.2">Games</h3>
+            <h3 className="article-heading-3" id="8.3">Stage production</h3>
+            <h3 className="article-heading-3" id="8.4">Television</h3>
+            <h3 className="article-heading-3" id="8.5">Full-cast audiobook</h3>
           </div>
         </div>
         <div>
