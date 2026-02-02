@@ -1,8 +1,15 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 
 const HarryPotterBooks = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Harry Potter (book series) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -73,18 +80,31 @@ const HarryPotterBooks = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>Harry Potter (books)</li>
+          <li>Harry Potter (book series)</li>
         </ul>
         <div>
           <h1 className="article-heading">Harry Potter (books)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp/500px-Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp.png" 
-            alt="Harry Potter logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Harry Potter</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp/500px-Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp.png" alt="Harry Potter logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Template</th>
+              <td className="infobox-data">Template</td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard,
