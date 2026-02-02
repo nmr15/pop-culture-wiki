@@ -47,7 +47,7 @@ const TableStarWars = () =>
             </tr>
             <tr>
               <td>Animated</td>
-              <td>
+              <td colSpan={2}>
                 <div className="table-list">
                   <Link to="/starwars/the_clone_wars_film" className="table-list-link">The Clone Wars</Link>
                 </div>
@@ -55,7 +55,7 @@ const TableStarWars = () =>
             </tr>
             <tr>
               <td>Other</td>
-              <td>
+              <td colSpan={2}>
                 <div className="table-list">
                   <Link to="/starwars/rogue_one" className="table-list-link">Rogue One</Link>
                   <Link to="/starwars/solo" className="table-list-link">Solo</Link>
@@ -65,7 +65,7 @@ const TableStarWars = () =>
             <tr>
               <th rowSpan={2}>Television series</th>
               <td>Animated</td>
-              <td>
+              <td colSpan={2}>
                 <div className="table-list">
                   {starwarsSeriesAnimated.map((seriesA) => (
                     <Link to={seriesA.route} className="table-list-link" key={seriesA.id}>{seriesA.title}</Link>
@@ -75,7 +75,7 @@ const TableStarWars = () =>
             </tr>
             <tr>
               <td>Live-Action</td>
-              <td>
+              <td colSpan={2}>
                 <div className="table-list">
                   {starwarsSeriesLive.map((seriesL) => (
                     <Link to={seriesL.route} className="table-list-link" key={seriesL.id}>{seriesL.title}</Link>
