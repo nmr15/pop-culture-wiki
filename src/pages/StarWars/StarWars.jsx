@@ -854,6 +854,9 @@ const StarWars = () =>
             <h3 className="article-heading-3" id="7.2">Academia</h3>
           </div>
         </div>
+        <div>
+          <TableStarWars />
+        </div>
       </main>
     </>
   )
