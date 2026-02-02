@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { starwarsSeriesAnimated, starwarsSeriesLive } from '../data/dataStarWars'
 
 const TableStarWars = () =>
 {
@@ -15,7 +16,7 @@ const TableStarWars = () =>
             <tr>
               <th rowSpan={5}>Films</th>
               <th rowSpan={3}>Skywalker Saga</th>
-              <th>Original Trilogy</th>
+              <td>Original Trilogy</td>
               <td>
                 <div className="table-list">
                   <Link to="/starwars/a_new_hope" className="table-list-link">A New Hope</Link>
@@ -25,7 +26,7 @@ const TableStarWars = () =>
               </td>
             </tr>
             <tr>
-              <th>Prequel trilogy</th>
+              <td>Prequel trilogy</td>
               <td>
                 <div className="table-list">
                   <Link to="/starwars/the_phantom_menace" className="table-list-link">The Phantom Menace</Link>
@@ -35,7 +36,7 @@ const TableStarWars = () =>
               </td>
             </tr>
             <tr>
-              <th>Sequel trilogy</th>
+              <td>Sequel trilogy</td>
               <td>
                 <div className="table-list">
                   <Link to="/starwars/the_force_awakens" className="table-list-link">The Force Awakens</Link>
@@ -45,7 +46,7 @@ const TableStarWars = () =>
               </td>
             </tr>
             <tr>
-              <th>Animated</th>
+              <td>Animated</td>
               <td>
                 <div className="table-list">
                   <Link to="/starwars/the_clone_wars_film" className="table-list-link">The Clone Wars</Link>
@@ -53,11 +54,32 @@ const TableStarWars = () =>
               </td>
             </tr>
             <tr>
-              <th>Other</th>
+              <td>Other</td>
               <td>
                 <div className="table-list">
                   <Link to="/starwars/rogue_one" className="table-list-link">Rogue One</Link>
                   <Link to="/starwars/solo" className="table-list-link">Solo</Link>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th rowSpan={2}>Television series</th>
+              <td>Animated</td>
+              <td>
+                <div className="table-list">
+                  {starwarsSeriesAnimated.map((seriesA) => (
+                    <Link to={seriesA.route} className="table-list-link" key={seriesA.id}>{seriesA.title}</Link>
+                  ))}
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td>Live-Action</td>
+              <td>
+                <div className="table-list">
+                  {starwarsSeriesLive.map((seriesL) => (
+                    <Link to={seriesL.route} className="table-list-link" key={seriesL.id}>{seriesL.title}</Link>
+                  ))}
                 </div>
               </td>
             </tr>
