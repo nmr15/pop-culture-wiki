@@ -59,22 +59,22 @@ const HarryPotterBooks = () =>
               {id: "6.2", title: "Cultural impact"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#6">Awards, honors, and recognition</a></li>
+          <li className="sidebar-list-item"><a href="#7">Awards, honors, and recognition</a></li>
           <Collapse 
-            id="7"
+            id="8"
             item="Adaptations"
             sub={[
-              {id: "7.1", title: "Films", sub2: [
-                {id: "7.1.1", title: "Spin-off prequels"}
+              {id: "8.1", title: "Films", sub2: [
+                {id: "8.1.1", title: "Spin-off prequels"}
               ]},
-              {id: "7.2", title: "Games"},
-              {id: "7.3", title: "Stage production"},
-              {id: "7.4", title: "Television"},
-              {id: "7.5", title: "Full-cast audiobook"}
+              {id: "8.2", title: "Games"},
+              {id: "8.3", title: "Stage production"},
+              {id: "8.4", title: "Television"},
+              {id: "8.5", title: "Full-cast audiobook"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#8">Attractions</a></li>
-          <li className="sidebar-list-item"><a href="#9">Supplementary works</a></li>
+          <li className="sidebar-list-item"><a href="#9">Attractions</a></li>
+          <li className="sidebar-list-item"><a href="#10">Supplementary works</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -119,6 +119,66 @@ const HarryPotterBooks = () =>
             adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meaning and references.
             Major themes in the series include prejudice, corruption, madness, love, and death.
           </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Style and allusions"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Themes"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Development history"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Reception"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Legacy"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Awards, honors, and recognition"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Adaptations"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={9} title={"Attractions"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={10} title={"Supplementary works"} />
+          <div>
+
+          </div>
         </div>
       </main>
     </>
