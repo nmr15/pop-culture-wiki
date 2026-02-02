@@ -24,6 +24,34 @@ const TableStarWars = () =>
                 </div>
               </td>
             </tr>
+            <tr>
+              <th>Prequel trilogy</th>
+              <td>
+                <div className="table-list">
+                  <Link to="/starwars/the_phantom_menace" className="table-list-link">The Phantom Menace</Link>
+                  <Link to="/starwars/attack_of_the_clones" className="table-list-link">Attack of the Clones</Link>
+                  <Link to="/starwars/revenge_of_the_sith" className="table-list-link">Revenge of the Sith</Link>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th>Sequel trilogy</th>
+              <td>
+                <div className="table-list">
+                  <Link to="/starwars/the_force_awakens" className="table-list-link">The Force Awakens</Link>
+                  <Link to="/starwars/the_last_jedi" className="table-list-link">The Last Jedi</Link>
+                  <Link to="/starwars/the_rise_of_skywalker" className="table-list-link">The Rise of Skywalker</Link>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th>Animated</th>
+              <td>
+                <div className="table-list">
+                  <Link to="/starwars/the_clone_wars_film" className="table-list-link">The Clone Wars</Link>
+                </div>
+              </td>
+            </tr>
           </tbody>
         </table>
       </div>
