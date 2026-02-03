@@ -71,6 +71,30 @@ const AnakinSkywalker = () =>
             oversaw the Jedi training of his own apprentice, <Link to="/starwars/ahsoka_tano">Ahsoka Tano</Link>. By 19 BBY, when Ahsoka walked away
             from the Jedi Order, Anakin began to struggle with feelings of failure towards his apprentice and the Order itself.
           </p>
+          <p>
+            Following the death of Count Dooku during the Battle of Coruscant, Anakin's faith in the Jedi was further shaken when he was put on the Jedi
+            Council without the rank of master. He also learned that Supreme Chancellor Sheev Palpatine was Darth Sidious, the elusive Dark Lord of the
+            Sith who orchestrated the war in order to take over the galaxy. Manipulated into believing that the Jedi had failed him and coupled with his
+            fear of losing Padmé in childbirth, Anakin betrayed and turned against the Jedi Order, believing Sidious had the knowledge to cheat death.
+            Consumed by the persona of Darth Vader, the fallen Jedi Knight marched his legion on the <Link>Jedi Temple</Link> of <Link>Coruscant</Link>
+            where they executed its inhabitants, including Jedi younglings, as part of <Link>Order 66</Link> and the Great Jedi Purge. Vader was then
+            sent to <Link>Mustafar</Link> to exterminate the Separatist Council at the behest of his Sith Master, who became the self-proclaimed
+            Galactic Emperor. Vader subsequently sustained severe injuries in his duel with Obi-Wan, and was rebuilt as an armored cyborg while his wife
+            died of a broken heart, though not before giving birth to the twins <Link to="/starwars/luke_skywalker">Luke Skywalker</Link> and
+            <Link to="/starwars/leia_organa"> Leia Organa</Link> who were hidden from their father and the Emperor as the <Link>Galactic Empire</Link>
+            rose to power.
+          </p>
+          <p>
+            Being the Emperor's Fist and later being elevated to the position of supreme commander of the Imperial fleet, Vader enforced the rule of the
+            New Order as the Emperor's Sith apprentice throughout most of the Imperial Era and was thus seen as de facto Commander-in-Chiefe of the
+            entire Imperial Military. In the aftermath of killing Obi-Wan in a duel aboard the <Link>Death Star</Link> and the subsequent Battle of Yavin,
+            he discovered the existence of his son and was determined to turn Luke to the dark side. Luke sought to become a Jedi, like his father before
+            him, and believed that Vader had the potential to turn back to the <Link>light side of the Force</Link>. Vader was defeated by Luke during
+            the Battle of Endor in 4 ABY, but the young Jedi refused to stike down his father in anger, causing the Emperor to torture Luke with
+            <Link>Force lightning</Link>. The pain inflicted on his son awakened the part of Vader that was still Anakin, resulting in a redeemed
+            Anakin killing Sidious at cost of his own life. Having destroyed the Sith and fulfilled his destiny as the Chosen One. Anakain made peace
+            with his son and became one with the Force.
+          </p>
         </div>
       </main>
     </>
