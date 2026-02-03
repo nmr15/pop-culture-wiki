@@ -11,6 +11,8 @@ import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
 import { adventuretimeChars } from '../data/dataAdventureTime'
+import { simpsonsChars } from '../data/dataSimpsons'
+import { futuramaChars } from '../data/dataFuturama'
 import { pixarFilms } from '../data/dataPixar'
 import { hpbooks } from '../data/dataHarryPotter';
 import { asoue } from '../data/dataAsoue';
