@@ -1188,6 +1188,86 @@ export const spongebobEps = [
   }
 ]
 
+export const spongebobChars = [
+  {
+    "id": "spongechar1",
+    "title": "SpongeBob SquarePants",
+    "file": "SpongebobChar",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/6b/Spongebob_happy_stock_art_1.octet-stream.png",
+    "route": "/spongebob/spongebob_squarepants_character"
+  },
+  {
+    "id": "spongechar2",
+    "title": "PatrickStar",
+    "file": "PatrickStar",
+    "img": "",
+    "route": "/spongebob/patrick_star"
+  },
+  {
+    "id": "spongechar3",
+    "title": "Squidward Tentacles",
+    "file": "SquidwardTentacles",
+    "img": "",
+    "route": "/spongebob/squidward_tentacles"
+  },
+  {
+    "id": "spongechar4",
+    "title": "Eugene Krabs",
+    "file": "EugeneKrabs",
+    "img": "",
+    "route": "/spongebob/eugene_krabs"
+  },
+  {
+    "id": "spongechar5",
+    "title": "Sandy Cheeks",
+    "file": "SandyCheeks",
+    "img": "",
+    "route": "/spongebob/sandy_cheeks"
+  },
+  {
+    "id": "spongechar6",
+    "title": "Sheldon Plankton",
+    "file": "SheldonPlankton",
+    "img": "",
+    "route": "/spongebob/sheldon_plankton"
+  },
+  {
+    "id": "spongechar7",
+    "title": "Karen",
+    "file": "KarenSB",
+    "img": "",
+    "route": "/spongebob/karen"
+  },
+  {
+    "id": "spongechar8",
+    "title": "Mrs. Puff",
+    "file": "MrsPuff",
+    "img": "",
+    "route": "/spongebob/mrs_puff"
+  },
+  {
+    "id": "spongechar9",
+    "title": "Pearl Krabs",
+    "file": "PearlKrabs",
+    "img": "",
+    "route": "/spongebob/pearl_krabs"
+  },
+  {
+    "id": "spongechar10",
+    "title": "Mermaid Man",
+    "file": "MermaidMan",
+    "img": "",
+    "route": "/spongebob/mermaid_man"
+  },
+  {
+    "id": "spongechar11",
+    "title": "Barnacle Boy",
+    "file": "BarnacleBoy",
+    "img": "",
+    "route": "/spongebob/barnacle_boy"
+  }
+]
+
 export const spongebobS1 = spongebobEps.filter((s1) => s1.season == 1);
 export const spongebobS2 = spongebobEps.filter((s2) => s2.season == 2);
 export const spongebobS3 = spongebobEps.filter((s3) => s3.season == 3);
