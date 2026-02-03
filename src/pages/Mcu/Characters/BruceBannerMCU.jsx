@@ -42,8 +42,26 @@ const BruceBannerMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">
+                <Link>Edward Norton</Link> <br />
+                <Link>Mark Ruffalo</Link>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/the_incredible_hulk_film">The Incredible Hulk</Link> <br />
+                <Link to="mcu/the_avengers_film">The Avengers</Link> <br />
+                <Link to="/mcu/iron_man_3">Iron Man 3</Link> (post-credits-scene) <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/thor_ragnarok">Thor: Ragnarok</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/captain_marvel_film">Captain Marvel</Link> (mid-credits-scene) <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/shangchi_and_the_legends_of_the_ten_rings">Shang-Chi and the Legend of the Ten Rings</Link> (mid-credits-scene) <br />
+                <Link to="/mcu/shehulk_attorney_at_law">She-Hulk: Attorney at Law</Link> (3 episodes)
+              </td>
             </tr>
           </tbody>
         </table>
