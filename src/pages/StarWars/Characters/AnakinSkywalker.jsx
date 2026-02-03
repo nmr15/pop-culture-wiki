@@ -95,6 +95,14 @@ const AnakinSkywalker = () =>
             Anakin killing Sidious at cost of his own life. Having destroyed the Sith and fulfilled his destiny as the Chosen One. Anakain made peace
             with his son and became one with the Force.
           </p>
+          <p>
+            Anakin Skywalker was one of the most powerful Jedi and Sith in galactic history. The Force was especially strong in the Skywalker bloodline,
+            which culminated in Anakin's grandson, <Link>Ben Solo</Link>, Leia's son who was born by the end of the <Link>Galactic Civil War</Link> in
+            5 ABY. Ben would turn to the dark side as well, becoming the dark warrior Kylo Ren during the rise of the <Link>First Order</Link>. Like his
+            grandfather, however, Ben found redemption by sacrificing his life for the love of another, the Jedi apprentice <Link>Rey</Link>, who heard
+            Anakin's voice telling her to restore the balance, as he once had, during the Battle of Exegol in 35 ABY. Ben's death ended the Skywalker
+            bloodline, although Rey, the granddaughter of Sidious, rejected her true heritage and took the Skywalker surname to honor their legacy.
+          </p>
         </div>
       </main>
     </>
