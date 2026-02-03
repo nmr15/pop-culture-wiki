@@ -5,11 +5,12 @@ import { marvel } from '../data/dataMarvel';
 import { starwarsFilms, starwarsSeries, starwarsChars } from '../data/dataStarWars';
 import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN } from '../data/dataBeatles';
-import { spongebobMedia, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
+import { spongebobMedia, spongebobChars, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
 import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
+import { adventuretimeChars } from '../data/dataAdventureTime'
 import { pixarFilms } from '../data/dataPixar'
 import { hpbooks } from '../data/dataHarryPotter';
 import { asoue } from '../data/dataAsoue';
