@@ -76,14 +76,58 @@ const BruceBannerMCU = () =>
                 {id: "1.8.9", title: "Battle of Sokovia"},
                 {id: "1.8.10", title: "Champion of Sakaar"}
               ]},
-              {id: "1.9", title: "Ragnarök"},
-              {id: "1.10", title: "Infinity War"},
-              {id: "1.11", title: "Becoming Smart Hulk"},
-              {id: "1.12", title: "Time heist"},
-              {id: "1.13", title: "Reverting to human"},
-              {id: "1.14", title: "Return to Smart Hulk"},
-              {id: "1.15", title: "Returning to Sakaar"},
-              {id: "1.16", title: "Meeting his son"}              
+              {id: "1.9", title: "Ragnarök", sub2: [
+                {id: "1.9.1", title: "Duel in the Grand Arena"},
+                {id: "1.9.2", title: "Relaxing with Thor"},
+                {id: "1.9.3", title: "Return to Banner"},
+                {id: "1.9.4", title: "Hunted by the Grandmaster"},
+                {id: "1.9.5", title: "Sakaar revolution"},
+                {id: "1.9.6", title: "Turning back into Hulk"},
+                {id: "1.9.7", title: "Journey back to Earth"}
+              ]},
+              {id: "1.10", title: "Infinity War", sub2: [
+                {id: "1.10.1", title: "Attack on the Statesman"},
+                {id: "1.10.2", title: "Crashing landing"},
+                {id: "1.10.3", title: "Attack on Greenwich Village"},
+                {id: "1.10.4", title: "Reunion with the Avengers"},
+                {id: "1.10.5", title: "Battle of Wakanda"},
+                {id: "1.10.6", title: "Thanos' victory"},
+                {id: "1.10.7", title: "Meeting Captain Marvel"},
+                {id: "1.10.8", title: "Ambush on Thanos"}
+              ]},
+              {id: "1.11", title: "Becoming Smart Hulk", sub2: [
+                {id: "1.11.1", title: "Merging with Hulk's body"},
+                {id: "1.11.2", title: "Rejoining the Avengers"},
+                {id: "1.11.3", title: "Testing time travel"},
+                {id: "1.11.4", title: "Finding an old friend"},
+                {id: "1.11.5", title: "Testing the time suit"},
+                {id: "1.11.6", title: "Locating the Infinity Stones"}
+              ]},
+              {id: "1.12", title: "Time heist", sub2: [
+                {id: "1.12.1", title: "Meeting the Ancient One"},
+                {id: "1.12.2", title: "Creating the Nano Gauntlet"},
+                {id: "1.12.3", title: "Blip"},
+                {id: "1.12.4", title: "Ambushed by Thanos"},
+                {id: "1.12.5", title: "Battle of Earth"},
+                {id: "1.12.6", title: "Returning the Stones"},
+                {id: "1.12.7", title: "Lunch with Scott Lang"}
+              ]},
+              {id: "1.13", title: "Reverting to human", sub2: [
+                {id: "1.13.1", title: "Healing his arm"},
+                {id: "1.13.2", title: "Meeting Shang-Chi"},
+                {id: "1.13.3", title: "Car accident"}
+              ]},
+              {id: "1.14", title: "Return to Smart Hulk", sub2: [
+                {id: "1.14.1", title: "Training She-Hulk"},
+                {id: "1.14.2", title: "Cousins quarrel"}
+              ]},
+              {id: "1.15", title: "Returning to Sakaar", sub2: [
+                {id: "1.15.1", title: "Discussing Emil Blonsky"}
+              ]},
+              {id: "1.16", title: "Meeting his son", sub2: [
+                {id: "1.16.1", title: "Original plot"},
+                {id: "1.16.2", title: "Revised plot"}
+              ]}              
             ]}
           />
           <Collapse 
