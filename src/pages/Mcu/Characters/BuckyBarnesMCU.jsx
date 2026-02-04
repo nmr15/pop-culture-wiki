@@ -41,8 +41,23 @@ const BuckyBarnesMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Sebastian Stan</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances by</th>
+              <td className="infobox-data">
+                <Link to="/mcu/captain_america_the_first_avenger">Captain America: The First Avenger</Link> <br />
+                <Link to="/mcu/captain_america_the_winter_soldier">Captain America: The Winter Soldier</Link> <br />
+                <Link to="/mcu/antman_film">Ant-Man</Link> (post-credits-scene) <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/black_panther">Black Panther</Link> (post-credits-scene) <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/the_falcon_and_the_winter_soldier">The Falcon and the Winter Soldier</Link> (6 episodes) <br />
+                <Link to="/mcu/captain_america_brave_new_world">Captain America: Brave New World</Link> <br />
+                <Link to="/mcu/thunderbolts">Thunderbolts*</Link>
+              </td>
             </tr>
           </tbody>
         </table>
