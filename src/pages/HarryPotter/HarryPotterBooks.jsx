@@ -119,11 +119,34 @@ const HarryPotterBooks = () =>
             adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meaning and references.
             Major themes in the series include prejudice, corruption, madness, love, and death.
           </p>
+          <p>
+            Since the release of the first novel, <Link to="/harry_potter/harry_potter_and_the_philosophers_stone">Harry Potter and the Philosopher's
+            Stone</Link>, on June 26 1997, the books have found immense popularity and commercial success worldwide. They have attracted a wide adult
+            audience as well as younger readers and are widely considered cornerstones of modern literature, though the books have received mixed
+            reviews from critics and literary scholars. As of February 2023, the books have sold more than 600 million copies worldwide, making them the
+            best-selling book series in history, available in dozens of languages. The last four books all set records as the fastest-selling books in
+            history, with the final installment selling roughly 2.7 million copies in the United Kingdom and 8.3 million copies in the United States
+            within twenty-four hours of its release. It holds the Guiness World Record for "Best-selling book series for children."
+          </p>
+          <p>
+            <Link> Warner Bros. Pictures</Link> adapted the original seven books into an eight-part <Link>namesake film series</Link>. In 2016, the total
+            value of the Harry Potter franchise was estimated at $25 billion, making it one of the highest-grossing media franchises of all time. Harry
+            Potter and the Cursed Child is a play based on a story co-written by Rowling. A <Link>television series</Link> based on the books is in
+            production at <Link>HBO</Link>.
+          </p>
+          <p>
+            The success of the books and films has allowed the Harry Potter franchise to expand with numerous derivative works, a traveling exhibition
+            that premiered in Chicago in 2009, a studio tour in London that opened in 2012, a digital platform on which J. K. Rowling updates the series
+            with new information and insight, and a trilogy of spin-off films premiering in November 2016 with Fantastic Beasts and Where to Find Them,
+            among many other developments. Themed attractions, collectively known as The Wizarding World of Harry Potter, have been built at several
+            Universal Destinations & Experiences amusement parks around the world.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early years</h3>
+
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
         </div>
@@ -131,6 +154,7 @@ const HarryPotterBooks = () =>
           <Heading2 id={2} title={"Style and allusions"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Genre and style</h3>
+
             <h3 className="article-heading-3" id="2.2">Allusions</h3>
           </div>
         </div>
@@ -144,7 +168,9 @@ const HarryPotterBooks = () =>
           <Heading2 id={4} title={"Development history"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Publishing history</h3>
+
             <h3 className="article-heading-3" id="4.2">Translations</h3>
+
             <h3 className="article-heading-3" id="4.3">Cover art</h3>
           </div>
         </div>
@@ -152,8 +178,11 @@ const HarryPotterBooks = () =>
           <Heading2 id={5} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Commercial success</h3>
+
             <h3 className="article-heading-3" id="5.2">Literary criticism</h3>
+
             <h3 className="article-heading-3" id="5.3">Themes critique</h3>
+
             <h3 className="article-heading-3" id="5.4">Controversies</h3>
           </div>
         </div>
@@ -161,6 +190,7 @@ const HarryPotterBooks = () =>
           <Heading2 id={6} title={"Legacy"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Influence on literature</h3>
+
             <h3 className="article-heading-3" id="6.2">Cultural impact</h3>
           </div>
         </div>
@@ -175,9 +205,13 @@ const HarryPotterBooks = () =>
           <div>
             <h3 className="article-heading-3" id="8.1">Films</h3>
             <h4 className="article-heading-4" id="8.1.1">Spin-off prequels</h4>
+
             <h3 className="article-heading-3" id="8.2">Games</h3>
+
             <h3 className="article-heading-3" id="8.3">Stage production</h3>
+
             <h3 className="article-heading-3" id="8.4">Television</h3>
+
             <h3 className="article-heading-3" id="8.5">Full-cast audiobook</h3>
           </div>
         </div>
