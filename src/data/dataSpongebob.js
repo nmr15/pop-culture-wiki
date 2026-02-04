@@ -1200,71 +1200,64 @@ export const spongebobChars = [
     "id": "spongechar2",
     "title": "PatrickStar",
     "file": "PatrickStar",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/c/cc/Patrick_stock_art_%28oil_pianted%29.png",
     "route": "/spongebob/patrick_star"
   },
   {
     "id": "spongechar3",
     "title": "Squidward Tentacles",
     "file": "SquidwardTentacles",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/4/49/Squidward_unhappy_stock_art.png",
     "route": "/spongebob/squidward_tentacles"
   },
   {
     "id": "spongechar4",
     "title": "Eugene Krabs",
     "file": "EugeneKrabs",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/7/7f/Eugene_Krabs.png",
     "route": "/spongebob/eugene_krabs"
   },
   {
     "id": "spongechar5",
     "title": "Sandy Cheeks",
     "file": "SandyCheeks",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/19/Sandy_arm_out_%28oil_painted%29.png",
     "route": "/spongebob/sandy_cheeks"
   },
   {
     "id": "spongechar6",
     "title": "Sheldon Plankton",
     "file": "SheldonPlankton",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/6/6b/EvilPlankton24.png",
     "route": "/spongebob/sheldon_plankton"
   },
   {
     "id": "spongechar7",
     "title": "Karen",
     "file": "KarenSB",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/1/18/Karen-blue-form-stock-art.png",
     "route": "/spongebob/karen"
   },
   {
     "id": "spongechar8",
     "title": "Mrs. Puff",
     "file": "MrsPuff",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/2/23/Mrs._Puff_stock_art.png",
     "route": "/spongebob/mrs_puff"
   },
   {
     "id": "spongechar9",
     "title": "Pearl Krabs",
     "file": "PearlKrabs",
-    "img": "",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/e/ef/SpongeBob_SquarePants_-_Pearl_Krabs_promo_art.png",
     "route": "/spongebob/pearl_krabs"
   },
   {
     "id": "spongechar10",
-    "title": "Mermaid Man",
-    "file": "MermaidMan",
-    "img": "",
-    "route": "/spongebob/mermaid_man"
-  },
-  {
-    "id": "spongechar11",
-    "title": "Barnacle Boy",
-    "file": "BarnacleBoy",
-    "img": "",
-    "route": "/spongebob/barnacle_boy"
+    "title": "Gary",
+    "file": "GarySB",
+    "img": "https://static.wikia.nocookie.net/spongebob/images/9/96/300px-SpongeBob_SquarePants_Gary_the_Snail_Transparent_PNG.png",
+    "route": "/spongebob/gary"
   }
 ]
 
