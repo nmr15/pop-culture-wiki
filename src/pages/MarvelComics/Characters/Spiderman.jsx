@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { spidermancharacters } from '../../data'
+import { spidermancharacters } from '../../../data'
 
 const Spiderman = () => 
 {
