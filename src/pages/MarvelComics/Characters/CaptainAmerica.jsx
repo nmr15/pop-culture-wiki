@@ -20,7 +20,7 @@ const CaptainAmerica = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/marvelcomics">Marvel Comics</li>
+          <li><Link to="/marvelcomics">Marvel Comics</Link></li>
           <li>Captain America (Steve Rogers)</li>
         </ul>
         <div>

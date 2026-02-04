@@ -20,7 +20,7 @@ const TheHulk = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/marvelcomics">Marvel Comics</li>
+          <li><Link to="/marvelcomics">Marvel Comics</Link></li>
           <li>The Hulk (Bruce Banner)</li>
         </ul>
         <div>
