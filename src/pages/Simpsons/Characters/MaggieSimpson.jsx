@@ -18,7 +18,7 @@ const MaggieSimpson = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/simpsons">The Simpsons</li>
+          <li><Link to="/simpsons">The Simpsons</Link></li>
           <li>Maggie Simpson</li>
         </ul>
         <div>
