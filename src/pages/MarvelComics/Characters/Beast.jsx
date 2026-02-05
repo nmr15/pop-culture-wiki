@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 
-const Nightcrawler = () =>
+const Beast = () =>
 {
   useEffect(() =>
   {
-    document.title = "Nightcrawler (Kurt Wagner) - Pop Culture Wiki";
+    document.title = "Beast (Hank McCoy) - Pop Culture Wiki";
   }, []);
 
   return(
@@ -21,22 +21,22 @@ const Nightcrawler = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/marvelcomics">Marvel Comics</Link></li>
-          <li>Nightcrawler (Kurt Wagner)</li>
+          <li>Beast (Hank McCoy)</li>
         </ul>
         <div>
-          <h1 className="article-heading">Nightcrawler (Kurt Wagner)</h1>
+          <h1 className="article-heading">Beast (Hank McCoy)</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Nightcrawler</span>
+                <span>Beast</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Nightcrawler_%28Kurt_Wagner_circa_2018%29.png" alt="Nightcrawler" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Beast_%28Hank_McCoy_-_circa_2019%29.png" alt="Beast" />
                 </span>
               </td>
             </tr>
@@ -54,4 +54,4 @@ const Nightcrawler = () =>
   )
 }
 
-export default Nightcrawler;
+export default Beast;
