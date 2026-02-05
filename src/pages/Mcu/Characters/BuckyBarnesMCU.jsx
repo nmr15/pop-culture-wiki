@@ -16,6 +16,33 @@ const BuckyBarnesMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <li className="sidebar-list-item"><a href="#2">Personality</a></li>
+          <Collapse 
+            id="3"
+            item="Powers and abilities"
+            sub={[
+              {id: "3.1", title: "Powers"},
+              {id: "3.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Equipment"
+            sub={[
+              {id: "4.1", title: "World War II weapons"},
+              {id: "4.2", title: "Winter Soldier's arsenal"},
+              {id: "4.3", title: "Other equipment"},
+              {id: "4.4", title: "Vehicles"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Facilities"
+            sub={[
+              {id: "5.1", title: "Prisons"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
