@@ -10,7 +10,7 @@ import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
 import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
 import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
 import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
-import Spiderman from "./pages/MarvelComics/Spiderman"
+import Spiderman from "./pages/MarvelComics/Characters/Spiderman"
 
 const Wrapper = ({ children }) => {
   const location = useLocation()
