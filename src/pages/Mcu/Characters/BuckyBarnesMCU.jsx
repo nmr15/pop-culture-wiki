@@ -16,7 +16,13 @@ const BuckyBarnesMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#2">Personality</a></li>
           <Collapse 
             id="3"
