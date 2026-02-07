@@ -62,7 +62,7 @@ const BuckyBarnesMCU = () =>
                 {id: "1.6.2", title: "Freedom from brainwashing"},
                 {id: "1.6.3", title: "Speaking with Shuri"}
               ]},
-              {id: "1.7", title: "Infinity War", sub2[
+              {id: "1.7", title: "Infinity War", sub2: [
                 {id: "1.7.1", title: "Recruited to fight"},
                 {id: "1.7.2", title: "Battle of Wakanda"},
                 {id: "1.7.3", title: "Thanos' victory"},
@@ -76,11 +76,46 @@ const BuckyBarnesMCU = () =>
                 {id: "1.8.4", title: "Date with Leah"},
                 {id: "1.8.5", title: "New Captain America"}
               ]},
-              {id: "1.9", title: "Partnership with Falcon"},
-              {id: "1.10", title: "Tensions increasing"},
-              {id: "1.11", title: "Being at peace"},
-              {id: "1.12", title: "Entering politics"},
-              {id: "1.13", title: "New Avengers"}
+              {id: "1.9", title: "Partnership with Falcon", sub2: [
+                {id: "1.9.1", title: "Chase of the Flag Smashers"},
+                {id: "1.9.2", title: "Refusing the offer"},
+                {id: "1.9.3", title: "Reunion with Isaiah Bradley"},
+                {id: "1.9.4", title: "Arrested and released"},
+                {id: "1.9.5", title: "Freeing Helmut Zemo"},
+                {id: "1.9.6", title: "Journey to Madripoor"},
+                {id: "1.9.7", title: "Undercover mission"},
+                {id: "1.9.8", title: "Ambush at Buccaneer Bay"}
+              ]},
+              {id: "1.10", title: "Tensions increasing", sub2: [
+                {id: "1.10.1", title: "Confronted by the Dora Milaje"},
+                {id: "1.10.2", title: "Searching for the funeral"},
+                {id: "1.10.3", title: "Tensions with Helmut Zemo"},
+                {id: "1.10.4", title: "Funeral interrupted"},
+                {id: "1.10.5", title: "Skirmish with the Dora Milaje"},
+                {id: "1.10.6", title: "Ambushed by the Flag Smashers"},
+                {id: "1.10.7", title: "Fighting for the shield"},
+                {id: "1.10.8", title: "Amends with Helmut Zemo"},
+                {id: "1.10.9", title: "Working with Sam Wilson"},
+                {id: "1.10.10", title: "Stopping the Flag Smashers"},
+              ]},
+              {id: "1.11", title: "Being at peace", sub2: [
+                {id: "1.11.1", title: "Telling Yori the truth"},
+                {id: "1.11.2", title: "Louisiana cookout"},
+                {id: "1.11.3", title: "Attacked by Nebula"}
+              ]},
+              {id: "1.12", title: "Entering politics", sub2: [
+                {id: "1.12.1", title: "Congress campaign"},
+                {id: "1.12.2", title: "Comforting Sam Wilson"},
+                {id: "1.12.3", title: "Impeaching Director de Fontaine"},
+                {id: "1.12.4", title: "Working Mel Gold"},
+                {id: "1.12.5", title: "Capturing the Thunderbolts"},
+                {id: "1.12.6", title: "Confronting the Contessa"},
+                {id: "1.12.7", title: "Stopping the Void"}
+              ]},
+              {id: "1.13", title: "New Avengers", sub2: [
+                {id: "1.13.1", title: "Becoming an Avenger"},
+                {id: "1.13.2", title: "Arrival of a ship"}
+              ]}
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Personality</a></li>
