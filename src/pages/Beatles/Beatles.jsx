@@ -242,6 +242,21 @@ const Beatles = () =>
               Martin hired drummer Andy White for the band's third session a week later, which produced recordings of "Love Me Do",
               "<Link to="/beatles/please_please_me_song">Please Please Me</Link>", and "<Link to="/beatles/ps_i_love_you">P.S. I Love You</Link>".
             </p>
+            <p>
+              Martin initially selected the Starr version of "Love Me Do" for the band's first single, though subsequent re-pressings featured the
+              White version, with Starr on tambourine. Released in early October, "Love Me Do" peaked at number 17 on the Record Retailer chart. Their
+              television debut came later that month with a live performance on the regional news program People and Places. After Martin suggested
+              recording "Please Please Me" at a faster tempo, a studio session in late November yielded that recording, of which Martin accurately
+              predicted, "You've just made your first No. 1".
+            </p>
+            <p>
+              In Decembe 1962, the Beatles concluded their fifth and final Hamburg residency at te Star-Club. By 1963, they had agreed that all four
+              band members would contribute vocals to their albums, including Starr, despite his restricted vocal range, to validate his standing in the
+              group. Lennon and McCartney had established a songwriting partnership, and as the band's success grew, their dominant collaboration
+              limited Harrison's opportunities as a lead vocalist. Epstein, to maximize the Beatles' commercial potential, encouraged them to adopt a
+              professional approach to performing. Lennon recalled him saying, "Look, if you really want to get in these bigger places, you're going to
+              have to change, stop eating on stage, stop swearing, stop smoking ...".
+            </p>
 
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
             <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
