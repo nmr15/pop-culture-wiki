@@ -216,26 +216,81 @@ const Beatles = () =>
               for one year. Credited to "Tony Sheridan & the Beat Brothers", the single "My Bonnie", recorded in June 1961 and released four months later,
               reached number 32 on the Musikmarkt chart.
             </p>
+            <p>
+              After the Beatles completed their second Hamburg residency, they enjoyed increasing popularity in Liverpool with the growing Merseybeat
+              movement. However, they were growing tired of the monotony of numerous appearances at the same clubs night after night. In November 1961,
+              during one of the group's frequent performances at the Cavern Club, they encountered Brian Epstein, a local record-store owner and music
+              columnist. He later recalled: "I immediately liked what I heard. They were fresh, and they were honest, and they had what I thought was a
+              sort of presence ... [a] star quality."
+            </p>
 
             <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
+            <p>
+              Epstein courted the band over the next couple of months, and they appointed him as their manager in January 1962. Throughout early and
+              mid-1962, Epstein sought to free the Beatles from their contractual obligations to Bert Kaempfert Productions. He eventually negotiated a
+              one-month early release in exchange for one last recording session in Hamburg. On their return to Germany in April, a distraught Kirchherr
+              met them at the airport with news of Sutcliffe's death the previous day from a brain haemorrhage. Epstein began negotiations with record
+              labels for a recording contract. To secure a UK record contract, Epstein negotiated an early end to the band's contract with Polydor, in
+              exchange for more recordings backing Tony Sheridan. After a New Year's Day audition, Decca Records rejected the band, saying, "Guitar
+              groups are on the way out, Mr. Epstein". However, three months later, producer George Martin signed the Beatles to EMI's Parlophone label.
+            </p>
+            <p>
+              Martin's first recording session with the Beatles took place at EMI Recording Studios (later Abbey Road Studios) in London on June 6, 1962.
+              He immediately complained to Epstein about Best's drumming and suggested they use a session drummer in his place. Already contemplating
+              Best's dismissal, the Beatles replaced him in mid-August with Ringo Starr, who left Rory Storm and the Hurricanes to join them. A September
+              4 session at EMI yielded a recording of "<Link to="/beatles/love_me_do">Love Me Do</Link>" featuring Starr on drums, but a dissatisfied
+              Martin hired drummer Andy White for the band's third session a week later, which produced recordings of "Love Me Do",
+              "<Link to="/beatles/please_please_me_song">Please Please Me</Link>", and "<Link to="/beatles/ps_i_love_you">P.S. I Love You</Link>".
+            </p>
+
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
             <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
+
+
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
+
+
             <h4 className="article-heading-4" id="1.2.1">A Hard Day's Night</h4>
+
+
             <h4 className="article-heading-4" id="1.2.1">1964 world tour, meeting Bob Dylan and stand on civil rights</h4>
+
+
             <h4 className="article-heading-4" id="1.2.1">Beatles for Sale, Help!, and Rubber Soul</h4>
+
+
             <h4 className="article-heading-4" id="1.2.1">Controversies, Revolver, and final tour</h4>
+
+
             <h3 className="article-heading-3" id="1.3">1966-1970: Studio years</h3>
             <h4 className="article-heading-4" id="1.3.1">Sgt. Pepper's Lonely Hearts Club Band</h4>
+
+
             <h4 className="article-heading-4" id="1.3.2">Magical Mystery Tour and Yellow Submarine</h4>
+
+
             <h4 className="article-heading-4" id="1.3.3">India retreat, Apple Corps, and the White Album</h4>
+
+
             <h4 className="article-heading-4" id="1.3.4">Abbey Road, Let it Be, and separation"</h4>
+
+
             <h3 className="article-heading-3" id="1.4">After the breakup</h3>
             <h4 className="article-heading-4" id="1.4.1">1970s</h4>
+
+
             <h4 className="article-heading-4" id="1.4.2">1980s</h4>
+
+
             <h4 className="article-heading-4" id="1.4.3">1990s</h4>
+
+
             <h4 className="article-heading-4" id="1.4.4">2000s</h4>
+
+
             <h4 className="article-heading-4" id="1.4.5">2010s</h4>
+
+
             <h4 className="article-heading-4" id="1.4.6">2020s</h4>
           </div>
         </div>
