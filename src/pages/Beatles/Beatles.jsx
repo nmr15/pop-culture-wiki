@@ -260,7 +260,14 @@ const Beatles = () =>
 
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
             <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
-
+            <p>
+              On February 11, 1963, the Beatles recorded ten songs during a single studio session for their debut LP,
+              <Link to="/beatles/please_please_me_album">Please Please Me</Link>. It was supplemented by the four tracks already released on their first
+              two singles. Martin considered recording the LP live at The Cavern Club, but after deciding that the building's acoustic were inadequate,
+              he elected to simulate a "live" album with minimal production in "a single marathon session at Abbey Road". After the moderate success of
+              "Love Me Do", the single "Please Please Me" was released in January 1963, two months ahead of the album. It reached number one on every
+              UK chart except Record Retailer, where it peaked at number two.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
 
