@@ -178,6 +178,7 @@ const Beatles = () =>
               siner and fellow Liverpudlian Johhny Gentle. By early July, they had refashioned themselves as the Silver Beetles and by the middle of
               August simply the Beatles.
             </p>
+
             <h4 className="article-heading-4" id="1.1.2">Early residencies and UK popularity</h4>
             <div className="img-right img-card">
               <img 
@@ -201,8 +202,21 @@ const Beatles = () =>
               the Beatles at the Indra Club. After closing Indra due to noise complaints, he moved them to the Kaiserkeller in October. When he learned
               they had been performing at the rival Top Ten Club in breach of their contract, he gave them one month's termination notice, and reported
               the underage Harrison, who had obtained permission to stay in Hamburg by lying to the German authorities about his age. The authorities
-              arranged for Harrison's deportation in late November. One week later, 
+              arranged for Harrison's deportation in late November. One week later, Koschmider had McCartney and Best arrested for arson after they set
+              fire to a condom in a concrete corridor; the authorities deported them. Lennon returned to Liverpool in early December, while Sutcliffe
+              remained in Hamburg until late February with his German fiancée Astrid Kirchherr, who took the first semi-professional photos of the
+              Beatles.
             </p>
+            <p>
+              During the next two years, the Beatles were resident for periods in Hamburg, where they used Preludin both recreationally and to maintain
+              their energy through all-night performances. In 1961, during their second Hamburg engagement, Kirchherr cut Sutcliffe's hair in the "exi"
+              (existentialist) style, later adopted by the other Beatles. Sutcliffe decided to leave the band early that year and resume his art studies
+              in Germany. McCartney took over bass. Producer Bert Kaempfert contracted what was not a four-piece group until June 1962, and he used them
+              as Tony Sheridan's backing band on a series of recordings for Polydon Records. As part of the sessions, the Beatles were signed to Polydon
+              for one year. Credited to "Tony Sheridan & the Beat Brothers", the single "My Bonnie", recorded in June 1961 and released four months later,
+              reached number 32 on the Musikmarkt chart.
+            </p>
+
             <h4 className="article-heading-4" id="1.1.3">First EMI recordings</h4>
             <h3 className="article-heading-3" id="1.2">1963-1966: Beatlemania and touring years</h3>
             <h4 className="article-heading-4" id="1.2.1">Please Plase Me and With the Beatles</h4>
