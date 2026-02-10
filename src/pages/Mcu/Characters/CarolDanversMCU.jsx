@@ -16,6 +16,43 @@ const CarolDanversMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life"},
+              {id: "1.2", title: "replace"},
+              {id: "1.3", title: "replace"},
+              {id: "1.4", title: "replace"},
+              {id: "1.5", title: "replace"},
+              {id: "1.6", title: "replace"},
+              {id: "1.7", title: "replace"},
+              {id: "1.8", title: "replace"},
+              {id: "1.9", title: "replace"},
+              {id: "1.10", title: "replace"},
+              {id: "1.11", title: "replace"},
+              {id: "1.12", title: "replace"},
+              {id: "1.13", title: "replace"},
+            ]}
+          />
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Weapons"},
+              {id: "3.2", title: "Other Equipment"},
+              {id: "3.3", title: "Vehicles"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Facilities</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
