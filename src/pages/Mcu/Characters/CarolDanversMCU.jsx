@@ -20,9 +20,29 @@ const CarolDanversMCU = () =>
             id="1"
             item="Biography"
             sub={[
-              {id: "1.1", title: "Early life"},
-              {id: "1.2", title: "replace"},
-              {id: "1.3", title: "replace"},
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Difficult childhood"},
+                {id: "1.1.2", title: "Determination"}
+              ]},
+              {id: "1.2", title: "Air Force training", sub2: [
+                {id: "1.2.1", title: "Joining the Air Force"},
+                {id: "1.2.2", title: "Meeting Maria Rambeau"},
+                {id: "1.2.3", title: "First day"},
+                {id: "1.2.4", title: "Making up with Bianchi"},
+                {id: "1.2.5", title: "Field day"},
+                {id: "1.2.6", title: "Second beast"},
+                {id: "1.2.7", title: "Acceptance day"}
+              ]},
+              {id: "1.3", title: "Learning to fly", sub2: [
+                {id: "1.3.1", title: "Meeting Bonnie and Jack Thompson"},
+                {id: "1.3.2", title: "First day of classes"},
+                {id: "1.3.3", title: "First flight"},
+                {id: "1.3.4", title: "Air show"},
+                {id: "1.3.5", title: "Power-off stall"},
+                {id: "1.3.6", title: "Choosing a new path"},
+                {id: "1.3.7", title: "Flying Falcons tryouts"},
+                {id: "1.3.8", title: "Celebratory meal"}
+              ]},
               {id: "1.4", title: "replace"},
               {id: "1.5", title: "replace"},
               {id: "1.6", title: "replace"},
