@@ -65,19 +65,54 @@ const CarolDanversMCU = () =>
                 {id: "1.7.1", title: "Meeting the Supreme Intelligence"},
                 {id: "1.7.2", title: "Ambush in Torfa"},
                 {id: "1.7.3", title: "Escape from the Skrulls' ship"},
-                {id: "1.7.4", title: "replace"},
-                {id: "1.7.5", title: "replace"},
-                {id: "1.7.6", title: "replace"},
-                {id: "1.7.7", title: "replace"},
-                {id: "1.7.8", title: "replace"},
-                {id: "1.7.9", title: "replace"}
+                {id: "1.7.4", title: "Returning to Earth"},
+                {id: "1.7.5", title: "Chase of the Skrulls"},
+                {id: "1.7.6", title: "Alliance with Nick Fury"},
+                {id: "1.7.7", title: "Ambush at the Joint Dark Energy Mission Facility"},
+                {id: "1.7.8", title: "Rambeau family reunion"},
+                {id: "1.7.9", title: "Finding out the truth"}
               ]},
-              {id: "1.8", title: "replace"},
-              {id: "1.9", title: "replace"},
-              {id: "1.10", title: "replace"},
-              {id: "1.11", title: "replace"},
-              {id: "1.12", title: "replace"},
-              {id: "1.13", title: "replace"},
+              {id: "1.8", title: "Aiding the Skrulls", sub2: [
+                {id: "1.8.1", title: "Journey to Mar-Vell's lab"},
+                {id: "1.8.2", title: "Confronting the Supreme Intelligence"},
+                {id: "1.8.3", title: "Battle at Mar-Vell's laboratory"},
+                {id: "1.8.4", title: "Final showdown"},
+                {id: "1.8.5", title: "Finding the Skrulls a home"}
+              ]},
+              {id: "1.9", title: "Solo adventures", sub2: [
+                {id: "1.9.1", title: "Destroying the Supreme Intellgence"},
+                {id: "1.9.2", title: "Hero across the universe"}
+              ]},
+              {id: "1.10", title: "Infinity War", sub2: [
+                {id: "1.10.1", title: "Thanos' victory"},
+                {id: "1.10.2", title: "Rescue of Tony Stark"},
+                {id: "1.10.3", title: "Ambush on Thanos"}
+              ]},
+              {id: "1.11", title: "Member of the Avengers", sub2: [
+                {id: "1.11.1", title: "Visiting Maria Rambeau"},
+                {id: "1.11.2", title: "Marrying Prince Yan"},
+                {id: "1.11.3", title: "Universal responsibilities"},
+                {id: "1.11.4", title: "Battle of Earth"},
+                {id: "1.11.5", title: "Tony Stark's funeral"},
+                {id: "1.11.6", title: "Honored on Earth"}
+              ]},
+              {id: "1.12", title: "Check-ins with Earth", sub2: [
+                {id: "1.12.1", title: "Meeting Shang-Chi"},
+                {id: "1.12.2", title: "Trips"}
+              ]},
+              {id: "1.13", title: "Entangled", sub2: [
+                {id: "1.13.1", title: "Investigating a jump point"},
+                {id: "1.13.2", title: "Uncontrollably teleported"},
+                {id: "1.13.3", title: "Destruction of Tarmax IV"},
+                {id: "1.13.4", title: "Team bonding"},
+                {id: "1.13.5", title: "Return to Aladna"},
+                {id: "1.13.6", title: "Attack on Aladna"},
+                {id: "1.13.7", title: "Opening up"},
+                {id: "1.13.8", title: "Attack on the sun"},
+                {id: "1.13.9", title: "Losing Monica Rambeau"},
+                {id: "1.13.10", title: "Fulfilling a promise"},
+                {id: "1.13.11", title: "Back on Earth"}
+              ]},
             ]}
           />
           <Collapse 
