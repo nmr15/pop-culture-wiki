@@ -69,10 +69,36 @@ const ClintBartonMCU = () =>
                 {id: "1.6.7", title: "Rival turned savior"},
                 {id: "1.6.8", title: "Retirement with family"}
               ]},
-              {id: "1.7", title: "replace"},
-              {id: "1.8", title: "replace"},
-              {id: "1.9", title: "replace"},
-              {id: "1.10", title: "replace"},
+              {id: "1.7", title: "Avengers civil war", sub2: [
+                {id: "1.7.1", title: "Rescue of Wanda Maximoff"},
+                {id: "1.7.2", title: "Recruiting Scott Lang"},
+                {id: "1.7.3", title: "Battle at Leipzig-Halle airport"},
+                {id: "1.7.4", title: "Fighting former comrades"},
+                {id: "1.7.5", title: "Winning a losing battle"},
+                {id: "1.7.6", title: "Imprisoned in the Raft"}
+              ]},
+              {id: "1.8", title: "Becoming Ronin", sub2: [
+                {id: "1.8.1", title: "Losing everything"},
+                {id: "1.8.2", title: "Massacring criminals"},
+                {id: "1.8.3", title: "Massacre in Tokyo"}
+              ]},
+              {id: "1.9", title: "Rejoining the Avengers", sub2: [
+                {id: "1.9.1", title: "Testing time travel"},
+                {id: "1.9.2", title: "Locating the Infinity Stones"},
+                {id: "1.9.3", title: "Retrieving the Soul Stone"},
+                {id: "1.9.4", title: "Losing his best friend"},
+                {id: "1.9.5", title: "Grieving Natasha Romanoff"},
+                {id: "1.9.6", title: "Blip"},
+                {id: "1.9.7", title: "Attack on the Avengers facility"},
+                {id: "1.9.8", title: "Battle of Earth"}
+              ]},
+              {id: "1.10", title: "Return to family", sub2: [
+                {id: "1.10.1", title: "Barton family reunion"},
+                {id: "1.10.2", title: "Tony Stark's funeral"},
+                {id: "1.10.3", title: "Befriending Scott Lang"},
+                {id: "1.10.4", title: "Christmas trip to New York"},
+                {id: "1.10.5", title: "Dinner with the family"}
+              ]},
               {id: "1.11", title: "replace"},
               {id: "1.12", title: "replace"}
             ]}
