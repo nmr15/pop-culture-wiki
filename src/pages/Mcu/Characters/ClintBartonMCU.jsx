@@ -42,8 +42,12 @@ const ClintBartonMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Jeremy Renner</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data"><Link to="/mcu/thor_film">Thor</Link></td> <br />
             </tr>
           </tbody>
         </table>
