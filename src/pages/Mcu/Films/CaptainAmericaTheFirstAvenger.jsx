@@ -381,6 +381,28 @@ const CaptainAmericaTheFirstAvenger = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <div className="img-right img-card">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:Captain_america_set.JPG" 
+                alt="Captain America set" 
+              />
+              <p>Photo taken in Manhattan on the set of Captain America: The First Avenger</p>
+            </div>
+            <p>
+              Principal photography began on June 28, 2010, with the working title FrostBite. On the same day, Marvel confirmed that Lee Jones had been
+              cast to play US Army Colonel Chester Philips. The next day, Marvel confirmed that Cooper would portray the younger version of Howard
+              Stark, the character played by John Slattery in Iron Man 2 (2010). It was announced that the film would shoot in London in late July and
+              was expected to include scenes featuring key London landmarks. War scenes were filmed in September at the former Royal Navy Propellant
+              Factory in the Welsh village of Caerwent. Filming was scheduled to take place that month in the Northern Quarter of Manchester, where
+              parts of Alfie (2004) and Sherlock Holmes (2009) had been shot, followed by the Stanley Dock area of Liverpook, both doubling for the
+              period's Lower East Side of Manhattan. Futher scenes were scheduled to be shot in Liverpool's Albert Dock. Johnston included a scene of a
+              technology fair that includes in passing a display case containing the 1940s android superhero known as the original Human Torch, another
+              character like Captain America, in comics published by Marvel Comics' predecessor, Timely Comics.
+            </p>
+            <p>
+              Some filming also took place at Pinewood Studios, with Pinewood's A Stage, their South Dock, and their Underwater Stage all being used by
+              the crew. Six months of filming also occurred at Shepperton Studios, with nine stages being used.
+            </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
 
