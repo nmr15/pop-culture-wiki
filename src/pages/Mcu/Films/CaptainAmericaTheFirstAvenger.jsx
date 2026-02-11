@@ -403,6 +403,15 @@ const CaptainAmericaTheFirstAvenger = () =>
               Some filming also took place at Pinewood Studios, with Pinewood's A Stage, their South Dock, and their Underwater Stage all being used by
               the crew. Six months of filming also occurred at Shepperton Studios, with nine stages being used.
             </p>
+            <p>
+              In July 2010, Marvel Studios head Kevin Feige said that both this film and Thor would be released in 3-D, Johnston did a one-day test
+              shooting with a 3-D rig, rather than shooting in 2-D and converting, and found it "a nightmare" due to bulky gear, calibration issues and
+              restricted filmmaking options. Nevertheless, he said he believes 3-D is "a new challenge and it's exciting". Feige insisted that the
+              conversion would not compromise the film's image quality, as the decision to release the film in 3-D was made early in development, and
+              that "an unprecdented amount of time" would be devoted to the conversion process, to render all the film's visual effects in true 3-D.
+              In November 2010, Stanley Tucci stated that he had completed filming his scenes and that the rest of the production would wrap in about
+              three weeks.
+            </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
 
