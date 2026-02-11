@@ -414,6 +414,28 @@ const CaptainAmericaTheFirstAvenger = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <p>
+              In February 2011, it was announced that Alan Silvestri had been chosen to compose the film score. In March 2011, it was reported that
+              Captain America: The First Avenger would be undergoing reshoots in the United Kingdom and in Los Angeles in April 2011. Writer Eric
+              Pearson, who was part of Marvel Studios' writers program, did uncredited work creating lines of dialogue for Evans to say during
+              automated dialogue replacement (ADR) to help make the film cohesive. A scene was also filmed in New York City's Time Square on April 23,
+              2011.
+            </p>
+            <p>
+              The film features nearly 1,600 visual effects shots, which were split between thirteen different companies. To achieve the appearance of
+              the skinny, pre-serum Steve Rogers, director Joe Johnston stated that he used two major techniques:
+            </p>
+            <p>
+              Most of the shots were done by an L.A. company called LOLA that specializes in digital "plastic surgery". The technique involved shrinking
+              Chris in all dimensions. We shot each skinny Steve scene at least four times; once like a normal scene with Chris and his fellow actors in
+              the scene, once with Chris alone in front of a green screen so his element could be reduced digitally, again with everyone in the scene but
+              with Chris absent so that the shrunken Steve could be re-inserted into the scene, and finally with a body double mimicking Chris's actions
+              in case the second technique were required. When Chris had to interact with other characters in the scene, we had to either lower Chris
+              or raise the other actors on apple boxes or elevated walkways to make skinny Steve shorter in comparison. For close-ups, Chris' fellow
+              actors had to look at marks on his chin that represented where his eyes would be after the shrinking process, and Chris had to look at
+              marks on the tops of the actor's head to represent their eyes. ... The second technique involved grafting Chris's head onto the body double.
+              This technique was used mostly when Chris was sitting or lying down, or when a minimum of physical acting was required...
+            </p>
 
           </div>
         </div>
