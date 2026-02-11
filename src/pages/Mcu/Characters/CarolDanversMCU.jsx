@@ -43,10 +43,35 @@ const CarolDanversMCU = () =>
                 {id: "1.3.7", title: "Flying Falcons tryouts"},
                 {id: "1.3.8", title: "Celebratory meal"}
               ]},
-              {id: "1.4", title: "replace"},
-              {id: "1.5", title: "replace"},
-              {id: "1.6", title: "replace"},
-              {id: "1.7", title: "replace"},
+              {id: "1.4", title: "Test pilot career", sub2: [
+                {id: "1.4.1", title: "Recognition"},
+                {id: "1.4.2", title: "Leaving for the summer"},
+                {id: "1.4.3", title: "Friendship with Maria Rambeau"},
+                {id: "1.4.4", title: "Working with Wendy Lawson"},
+                {id: "1.4.5", title: "Assassination of Mar-Vell"}
+              ]},
+              {id: "1.5", title: "Infiltration on Aphos Prime", sub2: [
+                {id: "1.5.1", title: "Crash-landing"},
+                {id: "1.5.2", title: "Dragged into the mud"},
+                {id: "1.5.3", title: "Escaping"}
+              ]},
+              {id: "1.6", title: "Infiltration into the Sy'gyl research base", sub2: [
+                {id: "1.6.1", title: "Preparation"},
+                {id: "1.6.2", title: "Infiltrating Sy'gyl"},
+                {id: "1.6.3", title: "Meeting Rhomann Dey"},
+                {id: "1.6.4", title: "Leaving Sy'gyl"}
+              ]},
+              {id: "1.7", title: "Kree-Skrull war", sub2: [
+                {id: "1.7.1", title: "Meeting the Supreme Intelligence"},
+                {id: "1.7.2", title: "Ambush in Torfa"},
+                {id: "1.7.3", title: "Escape from the Skrulls' ship"},
+                {id: "1.7.4", title: "replace"},
+                {id: "1.7.5", title: "replace"},
+                {id: "1.7.6", title: "replace"},
+                {id: "1.7.7", title: "replace"},
+                {id: "1.7.8", title: "replace"},
+                {id: "1.7.9", title: "replace"}
+              ]},
               {id: "1.8", title: "replace"},
               {id: "1.9", title: "replace"},
               {id: "1.10", title: "replace"},
