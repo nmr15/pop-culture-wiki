@@ -139,7 +139,16 @@ const ClintBartonMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Clinton Francis "Clint" Barton</b> is an extremely skilled marksman, a former special agent of <Link>S.H.I.E.L.D.</Link> and one of the
+            founding members of the <Link>Avengers</Link>. Known for his use of the <Link>bow and arrow</Link> as his primary weapon and his extremely
+            keen eyesight and accuracy, which earned him the codename <b>Hawkeye</b>, Clint had become one of the best S.H.I.E.L.D. agents, responsible
+            for the recruitment of <Link to="/mcu/natasha_romanoff">Black Widow</Link>, with whom he developed a strong friendship. Assigned by
+            <Link to="/mcu/nick_fury"> Nick Fury</Link> into watching over the <Link>Tesseract</Link>, he was brainwashed by <Link>Loki</Link> and
+            used as his pawn in his attempt to become king of Midgard. However, after the attack on the Helicarrier, Natasha freed him from Loki's mind
+            control, and he joined the Avengers in the Battle of New York, helping to defeat Loki and the <Link>Chitauri</Link> army before returning
+            to his work at S.H.I.E.L.D.
+          </p>
         </div>
       </main>
     </>
