@@ -47,7 +47,15 @@ const ClintBartonMCU = () =>
             </tr>
             <tr>
               <th className="infobox-data">Appearances</th>
-              <td className="infobox-data"><Link to="/mcu/thor_film">Thor</Link></td> <br />
+              <td className="infobox-data">
+                <Link to="/mcu/thor_film">Thor</Link> <br />
+                <Link to="mcu/the_avengers_film">The Avengers</Link> <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/black_widow_film">Black Widow</Link> (voice & photo) <br />
+                <Link to="/mcu/hawkeye_series">Hawkeye</Link> (6 episodes)
+              </td>
             </tr>
           </tbody>
         </table>
