@@ -197,6 +197,8 @@ const HarryPotterBooks = () =>
               back in time with Hermione using a device called a <Link>Time Turner</Link>. The duo help Sirius escape on a <Link>Hippogriff</Link>, while
               Pettigrew escapes.
             </p>
+
+            <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
             <p>
               In Harry's fourth year of school (detailed in <Link to="/harry_potter/harry_potter_and_the_goblet_of_fire">Harry Potter and the
               Goblet of Fire</Link>), Hogwarts hosts the <Link>Triwizard Tournament</Link>, a contest between Hogwarts and the schools Beauxbatons and
@@ -244,14 +246,39 @@ const HarryPotterBooks = () =>
               An epliogue titled "Nineteen Years Later" describe s the lives of the surviving characters and the impact of Voldemort's death. Harry and
               Ginny are married with three <Link>children</Link>, and Ron and Hermione are married with <Link>two children</Link>.
             </p>
-
-            <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Style and allusions"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Genre and style</h3>
+            <p>
+              The novels fall into the genre of fantasy literature, and qualify as a type of fantasy called "urban fantasy", "contemporary fantasy", or
+              "low fantasy". They are mainly dramas, and maintain a fairly serious and dark tone throughout, though they do contain some notable
+              instances of tragicomedy and black humor. In many respects, they are also examples of the bildungsroman, or coming of age novel, and
+              contain elements of mystery, adventure, horror, thriller, and romance. The books are also, in the words of Stephen King, "shrewd mystery
+              tales", and each book is constructed in the manner of a Sherlock Holmes-style mystery adventure. The stories are told from a third person
+              limited point of view with very few exceptions (such as the opening chapters of Philosopher's Stone, Goblet of Fire, and Deathly Hallows
+              and the first two chapters of Half-Blood Prince).
+            </p>
+            <p>
+              The series can be considered part of the British children's boarding school genre, which includes Rudyard Kipling's Stalky & Co., Enid
+              Blyton's Malory Towers, St. Claire's and the Naightiest Girl series, and Frank Richard's Billy Bunter novels: the Harry Potter books are
+              predominantly set in Hogwarts, a fictional British boarding school for wizards, where the curriculum includes the use of magic. In this
+              sense they are "in a direct line of descent from Thomas Hughes's Tom Brown's School Days and other Victorian and Edwardian novels of
+              British public school life", though they are, as many note, more contemporary, grittier, darker, and more mature than the typical boarding
+              school novel, addressing serious themes of death, love, loss, prejudice, coming-of-age, and the loss of innocence in a 1990s British
+              setting.
+            </p>
+            <p>
+              In Harry Potter, Rowling juxtaposes the extraordinary against the ordinary. Her narrative features two worlds: a contemporary world
+              inhabited by non-magical people called Muggles, and another featuring wizards. It differs from typical portal fantasy in that its magical
+              elements stay grounded in the mundane. Paintings move and talk; books bite readers; letters shout messages; and maps show live journeys,
+              making the wizarding world both exotic and familiar. This blend of realistic and romantic elements extends to Rowling's characters. Their
+              names are often onomatopoeic: Malfoy is difficult, Filch is unpleasant, and Lupin is a werewolf. Harry is ordinary and relatable, with
+              down-to-earth features such as wearing broken glasses; the scholar Roni Natov terms him as "everychold". These elements serve to highlight
+              Harry when he is heroic, making him both an everyman and a fairytale hero.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">Allusions</h3>
           </div>
