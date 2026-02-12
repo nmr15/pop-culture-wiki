@@ -184,6 +184,19 @@ const HarryPotterBooks = () =>
               an ancient monster that kills or petrifies those who make direct or indirect eye contact, respectively. With the help of Dumbledore's
               <Link> phoenix</Link>, Fawkes, and the <Link>Sword of Gryffindor</Link>, Harry slays the basilisk and destroys the diary.
             </p>
+            <p>
+              In the third novel, <Link to="/harry_potter/harry_potter_and_the_prisoner_of_azkaban">Harry Potter and the Prisoner of Azkaban</Link>,
+              Harry learns that he is targeted by <Link to="/harry_potter/sirius_black">Sirius Black</Link>, an escaped convict who allegedly assisted
+              in his parents' murder. <Link>Dementors</Link>, creatures that feed on happiness, search for Sirius and guard the school. As Harry
+              struggles with his reaction to the dementors, he reaches out to <Link to="/harry_potter/remus_lupin">Remus Lupin</Link>, a new professor
+              who teaches him the <Link>Patronus charm</Link>. On a windy night, Ron is dragged by a black dog into the <Link>Shrieking Shack</Link>, a
+              haunted house, and Harry and Hermione follow. The dog is revealed to be Sirius Black. Lupin enters the shack and explains that Sirius was
+              James Potter's best friend; he was framed by another friend of James, <Link>Peter Pettigrew</Link>, who hides as Ron's pet rat, Scabbers.
+              As the full moon rises, Lupin transforms into a werewolf and bounds away, and the group chase after him. They are surrounded by dementors,
+              but are saved by a figure resembling James who casts a stag Patronus. This is later revealed to be a future version of Harry, who travelled
+              back in time with Hermione using a device called a <Link>Time Turner</Link>. The duo help Sirius escape on a <Link>Hippogriff</Link>, while
+              Pettigrew escapes.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
