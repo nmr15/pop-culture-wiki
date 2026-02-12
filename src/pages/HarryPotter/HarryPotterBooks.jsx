@@ -146,6 +146,33 @@ const HarryPotterBooks = () =>
           <Heading2 id={1} title={"Plot"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early years</h3>
+            <div className="img-left img-card">
+              <img
+                src="https://en.wikipedia.org/wiki/File:The_Elephant_House.jpg"
+                alt="The Elephant House"
+              />
+            </div>
+            <p>
+              The series follows the life of a boy named <Link to="/harry_potter/harry_potter_character">Harry Potter</Link>. In the first book, Harry
+              Potter and the Philosopher's Stone (Harry Potter and the Sorcerer's Stone in the US), Harry Potter lives in a cupboard under the stairs in
+              the house of the <Link>Dursleys</Link>, his aunt, uncle, and cousin, who all treat him poorly. At the age of 11, Harry discovers that he is
+              a wizard. He meets a half-giant named <Link to="/harry_potter/rubeus_hagrid">Hagrid</Link> who gives him a letter of acceptance to attend
+              the <Link>Hogwarts School of Witchcraft and Wizardry</Link>. Harry learns that his parents, <Link>Lily</Link> and <Link>James Potter</Link>,
+              also had magical powers and were murdered by the dark wizard <Link to="/harry_potter/tom_riddle">Lord Voldemort</Link> when Harry was a
+              baby. When Voldemort attempted to kill Harry, his curse rebounded, seemingly killing Voldemor, and Harry survived with a lightning-shaped
+              scar on his forehead. The event made Harry famous among the community of wizards and witches.
+            </p>
+            <p>
+              Harry becomes a student at Hogwarts and is sorted into <Link>Gryffindor House</Link>. He gains the friendship of
+              <Link to="/harry_potter/ron_weasley"> Ron Weasley</Link>, a member of a large but poor wizarding family, and
+              <Link to="/harry_potter/hermione_granger"> Hermione Granger</Link>, a witch of non-magical, or <Link>Muggle</Link>, parentage. The trio
+              develop an enmity with the rich <Link>pure-blood</Link> student <Link to="/harry_potter/draco_malfoy">Draco Malfoy</Link>. Harry encounters
+              the school's headmaster, <Link to="/harry_potter/albus_dumbledore">Albus Dumbledore</Link>; the <Link>potions</Link> professor,
+              <Link to="/harry_potter/severus_snape"> Severus Snape</Link>, who displays a dislike for him; and the <Link>Defense Against the
+              Dark Arts</Link> teacher, <Link>Quirinus Quirrell</Link>. Quirrell turns out to be allied with Voldemort, who is still alive as a weak
+              spirit. The first book concludes with Harry's confrontation with Voldemort, who, in his quest to regain a body, yearns to possess the
+              <Link>Philosopher's Stone</Link>, a substance that bestows everlasting life.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
