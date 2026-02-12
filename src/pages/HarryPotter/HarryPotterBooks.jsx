@@ -173,6 +173,17 @@ const HarryPotterBooks = () =>
               spirit. The first book concludes with Harry's confrontation with Voldemort, who, in his quest to regain a body, yearns to possess the
               <Link>Philosopher's Stone</Link>, a substance that bestows everlasting life.
             </p>
+            <p>
+              <Link to="/harry_potter/harry_potter_and_the_chamber_of_secrets"> Harry Potter and the Chamber of Secrets</Link> describes Harry's second
+              year at Hogwarts. Students are attacked and petrified by an unknown creature; wizards of Muggle parentage are the primary targets. The
+              attacks appear related to the mythical <Link>Chamber of Secrets</Link> and resemble attacks fifty years ago earlier. Harry discovers an
+              ability to speak the snake language <Link>Parseltongue</Link>, which he learns is rare and associated with the <Link>Dark Arts</Link>.
+              When Hermione is attacked and Ron's younger sister <Link to="/harry_potter/ginny_weasley">Ginny Weasley</Link> is abducted, Harry and Ron
+              uncover the chamber's secrets and enter it. Harry discovers that Ginny was possessed by an old diary, inside which the memory of Tom
+              Marvolo Riddle, Voldemort's youner self, resides. On Voldemort's behalf, Ginny opened the chamber and unleashed the <Link>basilisk</Link>,
+              an ancient monster that kills or petrifies those who make direct or indirect eye contact, respectively. With the help of Dumbledore's
+              <Link> phoenix</Link>, Fawkes, and the <Link>Sword of Gryffindor</Link>, Harry slays the basilisk and destroys the diary.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
