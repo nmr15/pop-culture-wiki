@@ -219,6 +219,31 @@ const HarryPotterBooks = () =>
               and saved by the Order of the Phoneix, but Sirius is killed in the battle. A duel between Dumbledore and Voldemort convinces the ministry
               of Voldemort's return. A prophecy concerning Harry and Voldemort is revealed: one must die at the hands of the other.
             </p>
+            <p>
+              In the sixth book, <Link to="/harry_potter/harry_potter_and_the_half_blood_prince">Harry Potter and the Half-Blood Prince</Link>, Snape
+              teaches the Defense Against the Dark Arts class while <Link>Horace Slughorn</Link> becomes the Potions master. Harry finds an old textbook
+              with annotations by the Half-Blood Prince, due to which he achieves success in Potions class. Harry also takes private sessions with
+              Dumbledore, viewing memories about the early life of Voldemort in a device called a <Link>Pensieve</Link>. Harry learns from a drunken
+              Slughorn that he used to teach Tom Riddle, and that Voldemort divided his soul into pieces, creating a series of <Link>Horcruxes</Link>,
+              Harry and Dumbledore travel to a distant lake to destroy a Horcrux; they succeed, but Dumbledore weakens. On their return, they find
+              Draco Malfoy and Death Eaters attacking the school. The book ends with the killing of Dumbledore by Professor Snape, the titular Half-Blood
+              Prince.
+            </p>
+            <p>
+              In <Link to="/harry_potter/harry_potter_and_the_deathly_hallows">Harry Potter and the Deathly Hallows</Link>, the seventh and final novel
+              in the series, Lord Voldemor gains control of the Ministry of Magic. Harry, Ron, and Hermione learn about the <Link>Deathly Hallows</Link>,
+              legendary items that lead to mastery over death. The group infiltrate the ministry, where they steal a locket Horcrux, and visit
+              <Link> Godric's Hollow</Link>, where they are attacked by <Link>Nagini</Link>, Voldemort's snake. A silver doe Patronus leads them to the
+              Sword of Gryffindor, with which they destroy the locket. They steal a Horcrux from Gringotts and travel to Hogwarts, culminating in a
+              battle with the Death Eaters. Snape is killed by Voldemort out of paranoia, but he lends Harry his memories before he dies. Harry learns
+              that Snape was always loyal to Dumbledore, and that Harry is himself a Horcrux. Harry surrenders to Voldemort and is hit with the killing
+              curse; however he is not killed as the protection Lily gave him lives on within Voldemort since he used Harry's blood to ressurect himself.
+              The defenders of Hogwarts continue to fight on; Harry comes back from limbo, faces Voldemor and kills him.
+            </p>
+            <p>
+              An epliogue titled "Nineteen Years Later" describe s the lives of the surviving characters and the impact of Voldemort's death. Harry and
+              Ginny are married with three <Link>children</Link>, and Ron and Hermione are married with <Link>two children</Link>.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
