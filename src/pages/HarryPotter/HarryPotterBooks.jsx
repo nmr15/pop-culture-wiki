@@ -197,6 +197,28 @@ const HarryPotterBooks = () =>
               back in time with Hermione using a device called a <Link>Time Turner</Link>. The duo help Sirius escape on a <Link>Hippogriff</Link>, while
               Pettigrew escapes.
             </p>
+            <p>
+              In Harry's fourth year of school (detailed in <Link to="/harry_potter/harry_potter_and_the_goblet_of_fire">Harry Potter and the
+              Goblet of Fire</Link>), Hogwarts hosts the <Link>Triwizard Tournament</Link>, a contest between Hogwarts and the schools Beauxbatons and
+              Durmstrang. Harry is unwillingly entered into the contest, becoming Hogwarts' second participant after <Link>Cedric Diggory</Link>, an
+              unusual occurrence that causes his friends to distance themselves from him. Harry claims the Triwizard Cup with Cedric, but he is
+              teleported to a graveyard where Pettigrew kills Cedric, then resurrects Voldemor unsing Harry's blood. Voldemort convenes his supporters,
+              the <Link>Death Eaters</Link>, and Harry manages to escape after a duel with Voldemor. Upon returning to Hogwarts, it is revealed that a
+              Death Eater, <Link>Barty Crouch, Jr</Link>, in disguise as the new Defense Against the Dark Arts professor,
+              <Link> Alastor "Mad-Eye" Moody</Link>, engineered Harry's entry into the tournament, secretly helped him, and had him teleported to
+              Voldemort.
+            </p>
+            <p>
+              In the fifth book, <Link to="/harry_potter/harry_potter_and_the_order_of_the_phoenix">Harry Potter and the Order of the Phoenix</Link>,
+              the <Link>Ministry of Magic</Link> refuses to believe that Voldemort has returned. Dumbledore re-activates the <Link>Order of the
+              Phoenix</Link>, a secret society to counter Voldemort; meanwhile, the Ministry tightens control of Hogwars by appointing
+              <Link> Dolores Umbridge</Link> as High Inquisitor of Hogwarts, and she gradually increases her powers. When Umbridge bans practical
+              teaching of Defense Against the Dark Arts, Harry, Ron, and Hermione form "<Link>Dumbledore's Army</Link>", a secret group to continue the
+              teachings. Harry has recurring dreams of a dark corridor in the Ministry of Magic, eventually dreaming that Sirius is being tortured there.
+              He races to the Ministry with his friends, but it is a trap, planted in his head by Voldemort. The group are attacked by Death Eaters
+              and saved by the Order of the Phoneix, but Sirius is killed in the battle. A duel between Dumbledore and Voldemort convinces the ministry
+              of Voldemort's return. A prophecy concerning Harry and Voldemort is revealed: one must die at the hands of the other.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Voldemort returns</h3>
           </div>
