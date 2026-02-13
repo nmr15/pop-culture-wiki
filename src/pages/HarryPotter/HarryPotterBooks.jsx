@@ -291,6 +291,43 @@ const HarryPotterBooks = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.2">Allusions</h3>
+            <p>
+              The Harry Potter stories feature imagery and motifs drawn from Arthurian myth and fairytales. Harry's ability to draw the Sword of
+              Gryffindor from the <Link>Sorting Hat</Link> resembles the Arthurian sword in the stone legend. His life with the Dursleys has been
+              compared to Cinderella. Hogwarts resembles a medieval university-cum-castle with several professors who belong to an Order of Merlin; Old
+              Professor Binns still lectures about the international Warlock Convention in 1289; and a real historical person, a 14th-century scribe,
+              Sir Nicolas Flamel, is described as a holder of the Philosopher's Stone. Other medieval elements in Hogwarts include coats-of-arms and
+              medieval weapons on the walls, letters written on parchment and sealed with wax, the Great Hall of Hogwarts, which is similar to the
+              Great Hall of Camelot, the use of Latin phrases, the tents put up for Quidditch tournaments, which are similar to the "marvellous tents"
+              put up for knightly tournaments, imaginary animals like dragons and unicorns that exist around Hogwarts, and the banners with heraldic
+              animals for the four Houses of Hogwarts.
+            </p>
+            <p>
+              Many of the motifs of the Potter stories, such as the hero's quest invoking objects that confer invisibility, magical animals and trees, a
+              forest full of danger and the recognition of a character based upon scars, are drawn from medieval French Arthurian romances. Other aspects
+              borrowed from French Arthurian romances include the use of owls as messengers, werewolves as characters, and white deer. The American
+              scholars Heather Arden and Kathryn Lorenz in particular argue that many aspects of the Potter stories are inspired by a 14th-century French
+              Arthurian romance, Claris et Laris, writing of the "startling" similarities between the adventures of Potter and the knight Claris. Arden
+              and Lorenz noted that Rowling graduated from the University of Exeter in 1986 with a degree in French literature and spent a year living in
+              France afterwards.
+            </p>
+            <p>
+              Like C. S. Lewis's The Chronicles of Narnia, Harry Potter also contains Christian symbolism and allegory. The series has been viewed as a
+              Christian moral fable in the pschomeachia tradition, in which stand-ins for good and evil fight for supremacy over a person's soul.
+              Children's literature critic Joy Farmer sees parallels between Harry and Jesus Christ. Comparing Rowling with Lewis, she argues that
+              "magic is both authors' ways of talking about spiritual reality". According to Maria Nikolajava, Christian imagery is particularly strong
+              in the final scenes of the series: Harry dies in self-sacrifice and Voldemort delivers an "ecce homo" speech, after which Harrys is
+              resurrected and defeats his enemy.
+            </p>
+            <p>
+              Rowling stated that she did not reveal Harry Potter's religious parallels in the beginning because doing so would have "give[n] too much
+              away to fans who might then see the parallels". In the final book of the series, Harry Potter and the Deathly Hallows, Rowling makes the
+              book's Christian imagery more explicit, quoting both Matthew 6:21 and 1 Corinthians 15:26 (King James Version) when Harry visits his
+              parents' graves. Hermione Granger teaches Harry Potter that the meaning of these verses from the Christian Bible are "lving beyond death.
+              Living after death", which Rowling states "epitomize the whole series". Rowling also exhibits Christian values in developing Albus
+              Dumbledore as a God-like character, the divine, trusted leader of the series, guiding the long-suffering hero along his quest. In the
+              seventh novel, Harry speaks with and questions the deceased Dumbeldore much like a person of faith would talk to and question God.
+            </p>
           </div>
         </div>
         <div>
