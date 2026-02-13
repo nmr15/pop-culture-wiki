@@ -333,7 +333,14 @@ const HarryPotterBooks = () =>
         <div>
           <Heading2 id={3} title={"Themes"} />
           <div>
-
+            <p>
+              Harry Potter's overarching theme is death. In the first book, when Harry looks into the Mirror of Erised, he feels both joy and "a terrible
+              sadness" at seeing his desire: his parents, alive and with him. Confronting their loss is central to Harry's character arc and manifests in
+              different ways through the series, such as in his struggles with Dementors. Other characters in Harry's life die; he even faces his own
+              death in Harry Potter and the Deathly Hallows. The series has an existential perspective, Harry must grow mature enough to accept death.
+              In Harry's world, death is not binary but mutable, a state that exists in degrees. Unlike Voldemort, who evades death by separating and
+              hiding his soul in seven parts, Harry's soul is whole, nourished by friendship and love.
+            </p>
           </div>
         </div>
         <div>
