@@ -279,6 +279,16 @@ const HarryPotterBooks = () =>
               down-to-earth features such as wearing broken glasses; the scholar Roni Natov terms him as "everychold". These elements serve to highlight
               Harry when he is heroic, making him both an everyman and a fairytale hero.
             </p>
+            <p>
+              Each of the seven books is set over the course of one school year. Harry struggles with the problems he encounters, and dealing with them
+              often involves the need to violate some school rules. If students are caught breaking rules, they are often disciplined by Hogwarts
+              professors. The stories reach their climax in the summer term, near or just after final exams, when events escalate far beyond
+              in-school squabbles and struggles, and Harry must confront either Voldemort or one of his followers, the Death Eaters, with the stakes a
+              matter of life and death, a point underlined, as the series progresses, by characters being killed in each of the final four books. In the
+              aftermath, he learns important lessons through exposition and discussions with head teacher and mentor Albus Dumbledore. The only exception
+              to this school-centered setting is the final novel, Harry Potter and the Deathly Hallows, in which Harry and his friends spend most of
+              their time away from Hogwarts, and only return there to face Voldemort at the denoument.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">Allusions</h3>
           </div>
