@@ -14,7 +14,7 @@ import { adventuretimeChars } from '../data/dataAdventureTime'
 import { simpsonsChars } from '../data/dataSimpsons'
 import { futuramaChars } from '../data/dataFuturama'
 import { pixarFilms } from '../data/dataPixar'
-import { hpbooks } from '../data/dataHarryPotter';
+import { hpbooks, hpchars } from '../data/dataHarryPotter';
 import { asoue } from '../data/dataAsoue';
 import { battlefield } from '../data/dataBattlefield';
 import { spidermanFilms } from '../data/dataSpidermanFilms';
@@ -272,6 +272,16 @@ const AllArticles = () =>
               {spongebobMedia.map((sbMedia) => (
                 <li key={sbMedia.id}>
                   <Link to={sbMedia.route}>{sbMedia.title}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+              {spongebobChars.map((sbChar) => (
+                <li key={sbChar.id}>
+                  <Link to={sbChar.route}>{sbChar.title}</Link>
                 </li>
               ))}
             </ul>
