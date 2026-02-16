@@ -428,6 +428,24 @@ const HarryPotterBooks = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.2">Translations</h3>
+            <p>
+              The series has been translated into more than 80 languages, placing Rowling among the most translated authors in history. The books have
+              seen translations to diverse languages such as Korean, Armenian, Ukrainian, Arabic, Urdu, Hindi, Bengali, Bulgarian, Welsh, Afrikaans,
+              Albanian, Latvian, Vietnamese and Hawaiian. The first volume has been translated into Latin and even Ancient Greek, making it the longest
+              published work in Ancient Greek since the novels of Heliodorus of Emesa in the 3rd century AD. The second volume has also been translated
+              into Latin.
+            </p>
+            <p>
+              Some of the translators hired to work on the books were well-known authors before their work on Harry Potter, such as Viktor Golyshev, who oversaw the
+              Russian translation of the series' fifth book. The Turkish translation of books two to seven was undertaken by Sevin Okyay, a popular literary critic
+              and cultural commentator. For reasons of secrecy, translation on a given book could only start after it had been released in English, leading to a lag
+              of several months before the translations were available. This led to more and more copies of the English editions being sold to impatient fans in
+              non-English speaking countries; for example, such was the clamour to read Harry Potter and the Order of the Phoenix that its English language edition
+              became the first English-language book ever to top the best-seller list in France.
+            </p>
+            <p>
+              The United States editions were adapted into American English to make them more understandable to a young American audience.
+            </p>
 
             <h3 className="article-heading-3" id="4.3">Cover art</h3>
           </div>
