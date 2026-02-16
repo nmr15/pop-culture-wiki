@@ -36,7 +36,7 @@ const PrisonerOfAzkabanBook = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Harry_Potter_and_the_Sorcerer%27s_Stone_cover.jpg" alt="Harry Potter and the Prisoner of Azkaban cover" />
+                  <img src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Prisoner_of_Azkaban_cover.jpg" alt="Harry Potter and the Prisoner of Azkaban cover" />
                 </span>
               </td>
             </tr>

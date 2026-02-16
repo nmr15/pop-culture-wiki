@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 
-const ChamberOfSecretsBook = () =>
+const HalfBloodPrinceBook = () =>
 {
   useEffect(() =>
   {
-    document.title = "Harry Potter and the Chamber of Secrets (book) - Pop Culture Wiki";
+    document.title = "Harry Potter and the Half-Blood Prince (book) - Pop Culture Wiki";
   }, []);
 
   return(
@@ -21,22 +21,22 @@ const ChamberOfSecretsBook = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/hpbooks">Harry Potter</Link></li>
-          <li>Harry Potter and the Chamber of Secrets (book)</li>
+          <li>Harry Potter and the Half-Blood Prince (book)</li>
         </ul>
         <div>
-          <h1 className="article-heading">Harry Potter and the Chamber of Secrets (book)</h1>
+          <h1 className="article-heading">Harry Potter and the Half-Blood Prince (book)</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Harry Potter and the Chamber of Secrets</span>
+                <span>Harry Potter and the Half-Blood Prince</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/harrypotter/images/e/e0/Chamber_of_secrets-cover.jpg" alt="Harry Potter and the Chamber of Secrets cover" />
+                  <img src="https://static.wikia.nocookie.net/harrypotter/images/c/c6/Harry_potter_HBP_Scholastic_edition.jpg" alt="Harry Potter and the Half-Blood Prince cover" />
                 </span>
               </td>
             </tr>
@@ -54,4 +54,4 @@ const ChamberOfSecretsBook = () =>
   )
 }
 
-export default ChamberOfSecretsBook;
+export default HalfBloodPrinceBook;
