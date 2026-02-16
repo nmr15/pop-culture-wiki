@@ -361,11 +361,40 @@ const HarryPotterBooks = () =>
               prominently in Snape's charactersization, which has been described as complex and multifaceted. In some scholars' view, while Rowling's
               narrative appears on the surface to be about Harry, her focus may actually be on Snape's morality and character arc.
             </p>
+            <p>
+              Rowling said that, to her, the moral significance of the tales seems "blindingly obvious". In the fourth book, Dumbledore speaks of a
+              "choice between what is right and what is easy"; Rowling views this as a key theme, "because that ... is how tyranny is started, with
+              people being apathetic and taking the easy route and suddenly finding themselves in deep trouble".
+            </p>
+            <p>
+              Academics and journalists have developed many other interpretations of themes in the books, some more complex than others, and some
+              including political subtexts. Themes such as normality, oppression, survival, and overcoming imposing odds have all been considered as
+              prevalent throughout the series. Similarly, the theme of making one's way through adolescence and "going over one's most harrowing
+              ordeals, and thus coming to terms with them" has also been considered. Rowling has stated that the books comprise "a prolonged argument
+              for tolerance, a prolonged plea for an end to bigory" and that they also pass on a message to "question authority and... not assurme that
+              the establishment or the press tells you all of the truth".
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Development history"} />
           <div>
+            <p>
+              In 1990, Rowling was on a crowded train from Manchester to London when the idea for Harry suddenly "fell into" her head. Rowling gives an
+              account of the experience on her website saying:
+            </p>
+            <div className="article-quote">
+              <p>
+                I had been writing almost continously since the age of six but I had never been so exited about an idea before. I simply sat and
+                thought, for four (delayed train) hours, and all the details bubbled up in my brain, and this scrawny, black-haired bespectacled boy who
+                did not know he was a wizard became more and more real to me.
+              </p>
+            </div>
+            <p>
+              Rowling completed Harry Potter and the Philosopher's Stone in 1995 and the manuscript was sent off to several prospective agents. The
+              second agent she tried, Christopher Little, offered to represent her and sent the manuscript to several publishers.
+            </p>
+            
             <h3 className="article-heading-3" id="4.1">Publishing history</h3>
 
             <h3 className="article-heading-3" id="4.2">Translations</h3>
