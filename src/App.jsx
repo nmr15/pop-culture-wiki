@@ -98,6 +98,18 @@ function App() {
           <Route key={index} path={path} element={<Component />} />
         ))}
 
+        {/* Routes fo The Simpsons */}
+
+        {routesSimpsonsChars.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {/* Routes for Harry Potter */}
+
+        {routesHpBooks.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
         {/* <Route path='/a_series_of_unfortunate_events/the_bad_beginning' element={<BadBeginning />} /> */}
       </Routes>
       </Wrapper>
