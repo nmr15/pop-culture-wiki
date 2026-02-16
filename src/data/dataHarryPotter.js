@@ -16,7 +16,7 @@ export const hpbooks = [
   {
     "id": "hpbook3",
     "title": "Harry Potter and the Prisoner of Azkaban",
-    "file": "PrisonerOfAzkaban",
+    "file": "PrisonerOfAzkabanBook",
     "img": "https://static.wikia.nocookie.net/harrypotter/images/1/11/Prisoner_of_Azkaban_cover.jpg",
     "route": "/harry_potter/harry_potter_and_the_prisoner_of_azkaban"
   },
@@ -37,7 +37,7 @@ export const hpbooks = [
   {
     "id": "hpbook6",
     "title": "Harry Potter and the Half-Blood Prince",
-    "file": "HalfBloodPrince",
+    "file": "HalfBloodPrinceBook",
     "img": "https://static.wikia.nocookie.net/harrypotter/images/c/c6/Harry_potter_HBP_Scholastic_edition.jpg",
     "route": "/harry_potter/harry_potter_and_the_half_blood_prince"
   },
