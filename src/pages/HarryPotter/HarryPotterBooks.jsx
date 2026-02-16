@@ -394,8 +394,38 @@ const HarryPotterBooks = () =>
               Rowling completed Harry Potter and the Philosopher's Stone in 1995 and the manuscript was sent off to several prospective agents. The
               second agent she tried, Christopher Little, offered to represent her and sent the manuscript to several publishers.
             </p>
-            
+
             <h3 className="article-heading-3" id="4.1">Publishing history</h3>
+            <p>
+              After twelve other publishers had rejected Philospher's Stone, Bloomsbury agreed to publish the book. Despite Rowling's statement that she
+              did not have any particular age group in mind when beginning to write the Harry Potter books, the publishers initially targeted children
+              aged nine to eleven. On the eve of publishing, Rowling was asked by her publishers to adpot a more gender-neutral pen name in order to
+              appeal to the main members of this age group, fearing that they would not be interested in reading a novel they knew to be written by a
+              woman. She elected to use J. K. Rowling (Joanne Kathleen Rowling), using her grandmother's name as her second name because she has no
+              middle name.
+            </p>
+            <p>
+              Harry Potter and the Philosopher's Stone was published by Bloomsbury, the publisher of all Harry Potter books in the United Kingdom, on
+              June 26, 1997. It was published in the United States on September 1, 1998 by Scholastic, the American publisher of the books, as Harry
+              Potter and the Sorcerer's Stone, after the American rights sold for $105,000, a record amount for a children's book by an unknown author.
+              Scholastic feared that American readers would not associate the word "philosopher" with magic, and Rowling suggested the title Harry Potter
+              and the Sorcerer's Stone for the American market. Rowling has lader said that she regrets the change.
+            </p>
+            <p>
+              The second book, Harry Potter and the Chamber of Secrets, was originally published in the UK on July 2, 1998 and in the US on June 2, 1999.
+              Harry Potter and the Prisoner of Azkaban was published a year later in the UK on July 8, 1999 and in the US on September 8, 1999. Harry
+              Potter and the Goblet of Fire was published on July 8, 2000 at the same time by Bloomsbury and Scholastic. Harry Potter and the Order of
+              the Phoenix is the longest book in the series, at 766 pages in the UK version and 870 pages in the US version. It was published worldwide
+              in English on June 21, 2003. Harry Potter and the Half-Blood Prince was published on July 16, 2005. The seventh and final novel, Harry
+              Potter and the Deathly Hallows, was published on July 21, 2007. Rowling herself has stated that the last chapter of the final book (in fact,
+              the epilogue) was completed "in something like 1990".
+            </p>
+            <p>
+              Rowling retained rights to digital editions and released them on the Pottermore website in 2012. Vendors such as Amazon displayed the
+              ebooks in the form of links to Pottermore, which controlled pricing. All seven Harry Potter novels have been released in unabridged
+              audiobook versions, with Stephen Fry reading the British editions and Jim Dale voicing the series for the American editions. On Audible,
+              the series has been listened to, as of November 2022, for over a billion hours.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Translations</h3>
 
