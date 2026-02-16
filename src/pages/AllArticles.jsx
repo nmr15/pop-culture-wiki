@@ -500,6 +500,54 @@ const AllArticles = () =>
           </div>
         </div>
 
+        {/* ADVENTURE TIME */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="AdventureTime">Adventure Time</h3>
+          <p><Link to="/adventuretime">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+            {adventuretimeChars.map((atChars) => (
+                <li key={atChars.id}>
+                <Link to={atChars.route}>{atChars.title}</Link>
+                </li>
+            ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* THE SIMPSONS */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Simpsons">The Simpsons</h3>
+          <p><Link to="/simpsons">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+            {simpsonsChars.map((simpChars) => (
+                <li key={simpChars.id}>
+                <Link to={simpChars.route}>{simpChars.title}</Link>
+                </li>
+            ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* FUTURAMA */}
+        <div className="allArticles-section">
+          <h3 className="article-heading-3" id="Futurama">Futurama</h3>
+          <p><Link to="/futurama">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+            {futuramaChars.map((futuChars) => (
+                <li key={futuChars.id}>
+                <Link to={futuChars.route}>{futuChars.title}</Link>
+                </li>
+            ))}
+            </ul>
+          </div>
+        </div>
+
         {/* PIXAR */}
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="Pixar">Pixar</h3>
@@ -520,6 +568,16 @@ const AllArticles = () =>
         <div className="allArticles-section">
           <h3 className="article-heading-3" id="HarryPotter">Harry Potter</h3>
           <p><Link to="/hpbooks">Main article</Link></p>
+          <div>
+            <h4 className="article-heading-4">Characters</h4>
+            <ul className="allArticles-list">
+              {hpchars.map((hpchars) => (
+                  <li key={hpchars.id}>
+                  <Link to={hpchars.route}>{hpchars.title}</Link>
+                  </li>
+              ))}
+            </ul>
+          </div>
           <div>
             <h4 className="article-heading-4">Books</h4>
             <ul className="allArticles-list">
