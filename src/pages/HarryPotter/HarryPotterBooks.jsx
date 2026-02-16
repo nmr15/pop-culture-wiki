@@ -341,6 +341,26 @@ const HarryPotterBooks = () =>
               In Harry's world, death is not binary but mutable, a state that exists in degrees. Unlike Voldemort, who evades death by separating and
               hiding his soul in seven parts, Harry's soul is whole, nourished by friendship and love.
             </p>
+            <p>
+              Love distinguishes Harry and Voldemort. Harry is a hero because he loves others, even willing to accept death to save them; Voldemort is a
+              villain because he does not. Harry carries the protection of his mother's sacrifice in his blood; Voldemort, who wants Harry's blood and
+              the protection it carries, does not understand that love vanquishes death.
+            </p>
+            <p>
+              Rowling has spken about thematising death and loss in the series. Soon after she started writing Philosopher's Stone, her mother died; she
+              said that "I really think from that momemnt on, death became a central, if not the central theme of the seven books". Rowling has
+              described Harry as "the prism through which I view death", and further stated that "all of my characters are defined by their attitude to
+              death and the possibility of death".
+            </p>
+            <p>
+              While Harry Potter can be viewed as a story about good vs. evil, its moral divisions are not absolute. First impressions of characters
+              are often misleading. Harry assumes in the first book that Quirrell is on the side of good because he opposes Snape, who appears to be
+              malicious; in reality, Quirrell is an agent of Voldemort, while Snape is loyal to Dumbledore. This pattern later recurs with Moody and
+              Snape. In Rowling's world, good and evil are choices rather than inherent attributes: second chances and the possibility of redemption are
+              key themes of the series. This is reflected in Harry's self-dobut after learning his connection to Voldemort, such as Parseltongue; and
+              prominently in Snape's charactersization, which has been described as complex and multifaceted. In some scholars' view, while Rowling's
+              narrative appears on the surface to be about Harry, her focus may actually be on Snape's morality and character arc.
+            </p>
           </div>
         </div>
         <div>
