@@ -5,7 +5,9 @@ import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
+import { hpbooks } from "./data/dataHarryPotter"
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
+import { simpsonsChars } from "./data/dataSimpsons"
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
 
 export const routesTopics = topics.map(topic => ({
