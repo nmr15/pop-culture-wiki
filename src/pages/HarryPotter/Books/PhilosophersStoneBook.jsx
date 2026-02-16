@@ -41,8 +41,12 @@ const PhilosophersStoneBook = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Author</th>
+              <td className="infobox-data"><Link>J. K. Rowling</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next book in the series</th>
+              <td className="infobox-data"><Link to="/harry_potter/harry_potter_and_the_chamber_of_secrets">Harry Potter and the Chamber of Secrets</Link></td>
             </tr>
           </tbody>
         </table>
