@@ -15,6 +15,30 @@ const PhilosophersStoneBook = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Plot"
+            sub={[
+              {id: "1.1", title: "Chapter 1: The Boy Who Lived"},
+              {id: "1.2", title: "Chapter 2: The Vanishing Glass"},
+              {id: "1.3", title: "Chapter 3: The Letters from No One"},
+              {id: "1.4", title: "Chapter 4: The Keepers of the Keys"},
+              {id: "1.5", title: "Chapter 5: Diagon Alley"},
+              {id: "1.6", title: "Chapter 6: The Journey from Platform Nine and Three-Quarters"},
+              {id: "1.7", title: "Chapter 7: The Sorting Hat"},
+              {id: "1.8", title: "Chapter 8: The Potions Master"},
+              {id: "1.9", title: "Chapter 9: The Midnight Duel"},
+              {id: "1.10", title: "Chapter 10: Halloween"},
+              {id: "1.11", title: "Chapter 11: Quidditch"},
+              {id: "1.12", title: "Chapter 12: The Mirror of Erised"},
+              {id: "1.13", title: "Chapter 13: Nicolas Flamel"},
+              {id: "1.14", title: "Chapter 14: Norbert the Norwegian Ridgeback"},
+              {id: "1.15", title: "Chapter 15: The Forbidden Forest"},
+              {id: "1.16", title: "Chapter 16: Through the Trapdoor"},
+              {id: "1.17", title: "Chapter 17: The Man with Two Faces"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="2">Characters</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
