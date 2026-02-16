@@ -52,6 +52,12 @@ export const routesGtaChars = gtaCharacters.map(gtaChar => ({
   Component: lazy(() => import(`./pages/Gta/Characters/${gtaChar.file}.jsx`))
 }));
 
+// HARRY POTTER
+export const routesHpBooks = hpbooks.map(hpbook => ({
+  path: hpbook.route,
+  Component: lazy(() => import(`./pages/HarryPotter/Books/${hpbook.file}.jsx`))
+}));
+
 // MARVEL CINEMATIC UNIVERSE
 
 export const routesMcu = mcu.map(mcu => ({
@@ -67,6 +73,12 @@ export const routesMcuChars = mcuChar.map(mcuChar => ({
 export const routesMcuMeta = mcuMeta.map(mcumeta => ({
   path: mcumeta.route,
   Component: lazy(() => import(`./pages/Mcu/${mcumeta.file}.jsx`))
+}));
+
+// SIMPSONS
+export const routesSimpsonsChars = simpsonsChars.map(simpsonsChar => ({
+  path: simpsonsChar.route,
+  Component: lazy(() => import(`./pages/Simpsons/Characters/${simpsonsChar.file}.jsx`))
 }));
 
 // STAR WARS

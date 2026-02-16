@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesMcu, routesMcuChars, routesMcuMeta, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
