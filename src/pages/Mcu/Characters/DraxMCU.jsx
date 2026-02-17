@@ -15,7 +15,34 @@ const DraxMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Forming a family"}
+              ]},
+              {id: "1.2", title: "Quest for vengeance", sub2: [
+                {id: "1.2.1", title: "Hunting Ronan the Accuser"},
+                {id: "1.2.2", title: "Meeting the Guardians"},
+                {id: "1.2.3", title: "Prison break"},
+                {id: "1.2.4", title: "Joining the team"}
+              ]},
+              {id: "1.3", title: "Showdown with Ronan", sub2: [
+                {id: "1.3.1", title: "Skirmish on Knowhere"},
+                {id: "1.3.2", title: "Rescuing Peter Quill"},
+                {id: "1.3.3", title: "Battle of Xandar"},
+                {id: "1.3.4", title: "Skirmish with Korrath"},
+                {id: "1.3.5", title: "Destroying Ronan"}
+              ]},
+              {id: "1.4", title: "replace"},
+              {id: "1.5", title: "replace"},
+              {id: "1.6", title: "replace"},
+              {id: "1.7", title: "replace"},
+              {id: "1.8", title: "replace"},
+              {id: "1.9", title: "replace"}
+            ]}
+          />
           <Collapse 
             id="2"
             item="Powers and abilities"
