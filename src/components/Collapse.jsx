@@ -28,7 +28,7 @@ const Collapse = ({ id, item, sub, sub2, sub3}) =>
                     {sub2.sub3 && (
                       <ul>
                         {sub2.sub3.map((sub3) => (
-                          <li className="sidebar-list-item" key={sub3.id}>
+                          <li className="sidebar-list-item sidebar-collapse-sub3" key={sub3.id}>
                             <a href={"#" + sub3.id}>{sub3.title}</a>
                           </li>
                         ))}
