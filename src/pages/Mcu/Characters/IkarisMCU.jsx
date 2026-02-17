@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const IkarisMCU = () =>
 {
@@ -37,9 +39,13 @@ const IkarisMCU = () =>
                 </span>
               </td>
             </tr>
+           <tr>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Richard Madden</Link></td>
+            </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <td className="infobox-data">Appearances</td>
+              <td className="infobox-data"><Link to="/mcu/eternals">Eternals</Link></td>
             </tr>
           </tbody>
         </table>
