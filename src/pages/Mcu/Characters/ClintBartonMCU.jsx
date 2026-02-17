@@ -99,8 +99,31 @@ const ClintBartonMCU = () =>
                 {id: "1.10.4", title: "Christmas trip to New York"},
                 {id: "1.10.5", title: "Dinner with the family"}
               ]},
-              {id: "1.11", title: "replace"},
-              {id: "1.12", title: "replace"}
+              {id: "1.11", title: "Return of Ronin", sub2: [
+                {id: "1.11.1", title: "Meeting Kate Bishop"},
+                {id: "1.11.2", title: "Attacked by the Tracksuit Mafia"},
+                {id: "1.11.3", title: "Going on the run"},
+                {id: "1.11.4", title: "Searching for the suit"},
+                {id: "1.11.5", title: "Extended stay in New York"},
+                {id: "1.11.6", title: "Forced into LARPing"},
+                {id: "1.11.7", title: "Captured by the Tracksuit Mafia"},
+                {id: "1.11.8", title: "Car chase"}
+              ]},
+              {id: "1.12", title: "Gaining a new partner", sub2: [
+                {id: "1.12.1", title: "Advising Kate Bishop"},
+                {id: "1.12.2", title: "Investigating the Tracksuit Mafia"},
+                {id: "1.12.3", title: "Bonding with Kate Bishop"},
+                {id: "1.12.4", title: "Threatening Kazi Kazimierczak"},
+                {id: "1.12.5", title: "Retreiving the rolex"},
+                {id: "1.12.6", title: "Next course of action"},
+                {id: "1.12.7", title: "Facing off with Maya Lopez"},
+                {id: "1.12.8", title: "Reunited with Kate Bishop"},
+                {id: "1.12.9", title: "Making trick arrows"},
+                {id: "1.12.10", title: "The Bishop holiday party"},
+                {id: "1.12.11", title: "Battle at Rockefeller Center"},
+                {id: "1.12.12", title: "Amends with Yelena Belova"},
+                {id: "1.12.13", title: "Home for Christmas"}
+              ]}
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Abilities</a></li>
