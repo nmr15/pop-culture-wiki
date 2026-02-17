@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Collapse = ({ id, item, sub, sub2}) =>
+const Collapse = ({ id, item, sub, sub2, sub3}) =>
 {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -25,11 +25,20 @@ const Collapse = ({ id, item, sub, sub2}) =>
                   {sub.sub2.map((sub2) => (
                   <li class="sidebar-list-item sidebar-collapse-sub2" key={sub2.id}>
                     <a href={"#" + sub2.id}>{sub2.title}</a>
+                    {sub2.sub3 && (
+                      <ul>
+                        {sub2.sub3.map((sub3) => (
+                          <li className="sidebar-list-item" key={sub3.id}>
+                            <a href={"#" + sub3.id}{sub3.title}></a>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
                   </li>
                   ))} 
                 </ul>
               )}
-            </li>
+                </li>
             ))}
           </ul>
           )}
