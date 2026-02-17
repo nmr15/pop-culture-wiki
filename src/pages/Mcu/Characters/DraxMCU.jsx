@@ -35,12 +35,49 @@ const DraxMCU = () =>
                 {id: "1.3.4", title: "Skirmish with Korrath"},
                 {id: "1.3.5", title: "Destroying Ronan"}
               ]},
-              {id: "1.4", title: "replace"},
-              {id: "1.5", title: "replace"},
-              {id: "1.6", title: "replace"},
-              {id: "1.7", title: "replace"},
-              {id: "1.8", title: "replace"},
-              {id: "1.9", title: "replace"}
+              {id: "1.4", title: "Guardian of the Galaxy", sub2: [
+                {id: "1.4.1", title: "Joining the team"},
+                {id: "1.4.2", title: "Battle on Sovereign"},
+                {id: "1.4.3", title: "Escape from the Sovereign fleet"},
+                {id: "1.4.4", title: "Meeting Ego"},
+                {id: "1.4.5", title: "Exploring Ego's planet"},
+                {id: "1.4.6", title: "Bonding with Mantis"},
+                {id: "1.4.7", title: "Mantis' confession"},
+                {id: "1.4.8", title: "Battle on Ego's planet"},
+                {id: "1.4.9", title: "Yondu's funeral"},
+                {id: "1.4.10", title: "Life on the Quadrant"}
+              ]},
+              {id: "1.5", title: "Infinity War", sub2: [
+                {id: "1.5.1", title: "Meeting Thor"},
+                {id: "1.5.2", title: "Ambush in Knowhere"},
+                {id: "1.5.3", title: "Searching for Gamora"},
+                {id: "1.5.4", title: "Battle of Titan"},
+                {id: "1.5.5", title: "Thanos' victory"},
+                {id: "1.5.6", title: "Battle of Earth"}
+              ]},
+              {id: "1.6", title: "Return to space", sub2: [
+                {id: "1.6.1", title: "Guardians reunited"},
+                {id: "1.6.2", title: "Adventures in the galaxy"},
+                {id: "1.6.3", title: "Battle of Indigarr"},
+                {id: "1.6.4", title: "Answering distress calls"}
+              ]},
+              {id: "1.7", title: "Operating from Knowhere", sub2: [
+                {id: "1.7.1", title: "Learning about Christmas"},
+                {id: "1.7.2", title: "Visiting Hollywood"},
+                {id: "1.7.3", title: "Kidnapping Kevin Bacon"},
+                {id: "1.7.4", title: "Learning about actors"},
+                {id: "1.7.5", title: "Celebrating Christmas"},
+                {id: "1.7.6", title: "Attacked by Adam Warlock"}
+              ]},
+              {id: "1.8", title: "Saving Rocket", sub2: [
+                {id: "1.8.1", title: "Infiltrating the Orgoscope"},
+                {id: "1.8.2", title: "Visiting Counter-Earth"},
+                {id: "1.8.3", title: "Captured by the High Evolutionary"},
+                {id: "1.8.4", title: "Fighting the High Evolutionary"}
+              ]},
+              {id: "1.9", title: "Leaving the Guardians", sub2: [
+                {id: "1.9.1", title: "Raising the Star Children"}
+              ]}
             ]}
           />
           <Collapse 
