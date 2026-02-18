@@ -44,11 +44,56 @@ const Battlefield = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data">
+                Battlefield Studios: <br />
+                <Link>DICE</Link> <br />
+                <Link>Criterion Games</Link> (2025-) <br />
+                Ripple Effect Studios (2025-) <br />
+                Motive Studio (2025-)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link>Electronic Arts</Link></td>
             </tr>
           </tbody>
         </table>
+        <div className="div-top">
+          <p>
+            <b>Battlefield</b> is a military first-person shooter video game franchise developed by Battlefield Studios, primarily led by Swedish company
+            <Link> DICE</Link>, and published by American company <Link>Electronic Arts</Link>. The series mainly focuses on online multiplayer, with
+            gameplay taking place across large maps, and emphasizes teamwork and combined arms warfare.
+          </p>
+          <p>
+            The first installment of the franchise, <Link to="/battlefield/battlefield_1942">Battlefield 1942</Link>, was released for Microsoft Windows
+            and OS X computers in 2002. Since then, the series' installments have sold 88.7 million copies worldwide as of November 2022.
+          </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Gameplay"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Games"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Development History"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"TV series"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
