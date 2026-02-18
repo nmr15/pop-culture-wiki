@@ -91,7 +91,15 @@ const BojackHorsemanSeries = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>BoJack Horseman</b> is an American adult animated tragicomedy television series created by Raphael Bob-Waksberg. It stars the voices of
+            <Link> Will Arnett</Link>, <Link>Amy Sedaris</Link>, <Link>Alison Brie</Link>, <Link>Paul F. Tompkins</Link>, and <Link>Aaron Paul</Link>.
+            Set primarily in Hollywood, the series revolves around the anthropomorphic horse <Link>BoJack Horseman</Link> (Arnett), a washed-up star of
+            a 1990s sitcom who plans a return to relevance with an autobiography to be written by ghostwriter <Link>Dian Nguyen</Link> (Brie). It also
+            chronicles his contentions with his agent, <Link>Princess Carolyn</Link> (Sedaris), former rival <Link>Mr. Peanutbutter</Link> (Tompkins),
+            roommate <Link>Todd Chavez</Link> (Paul), and his declining mental health. The series is designed by cartoonist Lisa Hanawalt, a longtime
+            friend of Bob-Waksberg who previously collaborated on the webcomic Tip Me Over, Pour Me Out.
+          </p>
         </div>
       </main>
     </>
