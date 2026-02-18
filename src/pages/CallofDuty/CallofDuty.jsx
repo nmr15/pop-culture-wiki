@@ -15,6 +15,20 @@ const CallofDuty = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <li className="sidebar-list-item"><a href="#2">Primary developer rotation</a></li>
+          <Collapse 
+            id="3"
+            item="Free-to-play games"
+            sub={[
+              {id: "3.", title: "Call of Duty: "},
+              {id: "3.", title: "Call of Duty: "},
+              {id: "3.", title: "Call of Duty: "},
+              {id: "3.", title: "Call of Duty: "},
+              {id: "3.", title: "Call of Duty: "},
+              {id: "3.", title: "Call of Duty: "}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
