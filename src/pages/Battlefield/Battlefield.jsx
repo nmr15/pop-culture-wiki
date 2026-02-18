@@ -121,7 +121,23 @@ const Battlefield = () =>
         <div>
           <Heading2 id={3} title={"Development History"} />
           <div>
-            
+            <p>
+              Battlefield 1942 was released on September 10, 2002, using the Refracture game engine, and set in World War II. It introduced the "Conquest"
+              gameplay mode, in which players fought for "control points" throughout the map. Two expansion packs were released.
+            </p>
+            <p>
+              <Link to="/battlefield/battlefield_vietnam"> Battlefield Vietnam</Link>, released in 2004, moved the setting to the Vietnam War, and was
+              built on an updated Refractor engine with various gameplay improvements, such as the ability to fire personal weapons while seated in
+              vehicles, and visualizing dense foliage.
+            </p>
+            <p>
+              The 2005 release <Link to="/battlefield/battlefield_2">Battlefield 2</Link> takes place in the modern day, depicting a war between the
+              United States and China and the fictional Middle Eastern Coalition (MEC). Despite requiring numerous patches due to a large number of bugs
+              and glitches in the game upon its release, it was a large commercial success, selling more than 2,250,000 copies worldwide, by July 2006.
+              One expansion pack, Special Forces, which added Russia, exclusive missions, and new weapons and gadgets, and two booster packs, Armored
+              Fury (adding three new battles in the USA) and Euro Force (adding the European Union), were also released. A similar game called Battlefield
+              2: Modern Combat was released for consoles, with a larger single player mode but limited online play.
+            </p>
           </div>
         </div>
         <div>
