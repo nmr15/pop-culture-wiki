@@ -425,18 +425,39 @@ const CaptainAmericaTheFirstAvenger = () =>
               The film features nearly 1,600 visual effects shots, which were split between thirteen different companies. To achieve the appearance of
               the skinny, pre-serum Steve Rogers, director Joe Johnston stated that he used two major techniques:
             </p>
+            <div className="article-quote">
+              <p>
+                Most of the shots were done by an L.A. company called LOLA that specializes in digital "plastic surgery". The technique involved shrinking
+                Chris in all dimensions. We shot each skinny Steve scene at least four times; once like a normal scene with Chris and his fellow actors in
+                the scene, once with Chris alone in front of a green screen so his element could be reduced digitally, again with everyone in the scene but
+                with Chris absent so that the shrunken Steve could be re-inserted into the scene, and finally with a body double mimicking Chris's actions
+                in case the second technique were required. When Chris had to interact with other characters in the scene, we had to either lower Chris
+                or raise the other actors on apple boxes or elevated walkways to make skinny Steve shorter in comparison. For close-ups, Chris' fellow
+                actors had to look at marks on his chin that represented where his eyes would be after the shrinking process, and Chris had to look at
+                marks on the tops of the actor's head to represent their eyes. ... The second technique involved grafting Chris's head onto the body double.
+                This technique was used mostly when Chris was sitting or lying down, or when a minimum of physical acting was required...
+              </p>
+            </div>
             <p>
-              Most of the shots were done by an L.A. company called LOLA that specializes in digital "plastic surgery". The technique involved shrinking
-              Chris in all dimensions. We shot each skinny Steve scene at least four times; once like a normal scene with Chris and his fellow actors in
-              the scene, once with Chris alone in front of a green screen so his element could be reduced digitally, again with everyone in the scene but
-              with Chris absent so that the shrunken Steve could be re-inserted into the scene, and finally with a body double mimicking Chris's actions
-              in case the second technique were required. When Chris had to interact with other characters in the scene, we had to either lower Chris
-              or raise the other actors on apple boxes or elevated walkways to make skinny Steve shorter in comparison. For close-ups, Chris' fellow
-              actors had to look at marks on his chin that represented where his eyes would be after the shrinking process, and Chris had to look at
-              marks on the tops of the actor's head to represent their eyes. ... The second technique involved grafting Chris's head onto the body double.
-              This technique was used mostly when Chris was sitting or lying down, or when a minimum of physical acting was required...
+              <Link>Captain America's shield</Link>, which serves as both a defensive tool and a weapon, came in four types: metal, fiberglass, rubber, and
+              computer graphics (CGI). Prop master Barry Gibbs specified that "We had the 'hero shield,' which was made of aluminum, for our beauty shots
+              [and] close-up work. We then created a lighter shield that was aluminum-faced with a fiberglass back, for use on a daily basis, ... And
+              then we had a stunt shielf made of polyurethane, which is sort of a synthetic rubber ... and we made an ultrasoft one we put on [Evans']
+              back, so that if there were an accident, it wouldn't hurt him". Visual effects supervisor Christopher Townsend said Evans "would practice
+              swinging the practical shield so he knew the arc and the speed at which he should move. We would take the shield from him and shoot the scene
+              with him miming it. Then we would add in a CG shield". 
             </p>
-
+            <p>
+              Hugo Weaving, who portrayed the Red Skull, wore a latex mask conceived by prosthetic makeup designer David White. The visual effects team had
+              to manipulate his face considerably, as the mask was bulky and they wanted to make it look like tight skin wrapped around a very bony structure.
+              They thinned out Weaving's cheeks and lower lip, hollowed out his eyes, and removed his eyelashes and nose to make him appear more like the
+              Red Skull character.
+            </p>
+            <p>
+              Closing credits were created by visual effects firm Rok!t by means of 3-D and steroscopic processing that used iconic American war
+              propaganda, such as James Montgomery Flagg's Uncle Sam recruitment poster from World War I and J. Howard Miller's "We Can Do It!" poster from
+              World War II.
+            </p>
           </div>
         </div>
         <div>
