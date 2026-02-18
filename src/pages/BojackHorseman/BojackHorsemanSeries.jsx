@@ -15,6 +15,43 @@ const BojackHorsemanSeries = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast and characters</a></li>
+          <li className="sidebar-list-item"><a href="#3">Episodes</a></li>
+          <Collapse 
+            id="4"
+            item="Production"
+            sub={[
+              {id: "4.1", title: "Conception"},
+              {id: "4.2", title: "Development history"},
+              {id: "4.3", title: "Casting"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Influences</a></li>
+          <Collapse 
+            id="6"
+            item="Themes"
+            sub={[
+              {id: "6.1", title: "Absurdism"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Music</a></li>
+          <Collapse 
+            id="7"
+            item="Critical reception"
+            sub={[
+              {id: "7.1", title: "Season 1"},
+              {id: "7.2", title: "Season 2"},
+              {id: "7.3", title: "Season 3"},
+              {id: "7.4", title: "Season 4"},
+              {id: "7.5", title: "Season 5"},
+              {id: "7.6", title: "Season 6"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Legacy</a></li>
+          <li className="sidebar-list-item"><a href="#9">Syndication</a></li>
+          <li className="sidebar-list-item"><a href="#10">Home media</a></li>
+          <li className="sidebar-list-item"><a href="#11">Awards and nominations</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
