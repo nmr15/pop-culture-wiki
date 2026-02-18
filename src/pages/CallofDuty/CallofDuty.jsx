@@ -41,9 +41,20 @@ const CallofDuty = () =>
                 ]}
               ]},
               {id: "1.3", title: "Black Ops series", sub2: [
-                {id: "1.3."}
+                {id: "1.3.1", title: "Call of Duty: World at War"},
+                {id: "1.3.2", title: "Call of Duty: Black Ops"},
+                {id: "1.3.3", title: "Call of Duty: Black Ops II"},
+                {id: "1.3.4", title: "Call of Duty: Black Ops III"},
+                {id: "1.3.5", title: "Call of Duty: Black Ops 4"},
+                {id: "1.3.6", title: "Call of Duty: Black Ops Cold War"},
+                {id: "1.3.7", title: "Call of Duty: Black Ops 6"},
+                {id: "1.3.8", title: "Call of Duty: Black Ops 7"}
               ]},
-              {id: "1.4", title: "Standalone games"}
+              {id: "1.4", title: "Standalone games", sub2: [
+                {id: "1.4.1", title: "Call of Duty: Ghosts"},
+                {id: "1.4.2", title: "Call of Duty: Advanced Warfare"},
+                {id: "1.4.3", title: "Call of Duty: Infinite Warfare"}
+              ]}
             ]}
           />
           <li className="sidebar-list-item"><a href="#2">Primary developer rotation</a></li>
@@ -57,6 +68,81 @@ const CallofDuty = () =>
               {id: "3.", title: "Call of Duty: Warzone (2020)"},
               {id: "3.", title: "Call of Duty: Warzone (2022)"},
               {id: "3.", title: "Call of Duty: Warzone Mobile"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Spin-off games"
+            sub={[
+              {id: "4.1", title: "Console titles", sub2: [
+                {id: "4.1.1", title: "Call of Duty: Finest Hour"},
+                {id: "4.1.2", title: "Call of Duty 2: Big Red One"},
+                {id: "4.1.3", title: "Call of Duty: World at War - Final Fronts"}
+              ]},
+              {id: "4.2", title: "Handheld titles", sub2: [
+                {id: "4.2.1", title: "Call of Duty (for N-Gage)"},
+                {id: "4.2.2", title: "Call of Duty: Roads to Victory"},
+                {id: "4.2.3", title: "Call of Duty 4: Modern Warfare (for Nintendo DS)"},
+                {id: "4.2.4", title: "Call of Duty: World at War (for Nintendo DS)"},
+                {id: "4.2.5", title: "Call of Duty: Modern Warfare: Mobilized"},
+                {id: "4.2.6", title: "Call of Duty: Black Ops (for Nintendo DS)"},
+                {id: "4.2.7", title: "Call of Duty: Modern Warfare 3 - Defiance"},
+                {id: "4.2.8", title: "Call of Duty: Black Ops: Declassified"}
+              ]},
+              {id: "4.3", title: "Mobile titles", sub2: [
+                {id: "4.3.1", title: "Call of Duty (for mobile)"},
+                {id: "4.3.2", title: "Call of Duty 2 (for mobile)"},
+                {id: "4.3.3", title: "Call of Duty 2 (for mobile)"},
+                {id: "4.3.4", title: "Call of Duty 2 Pocket PC Edition"},
+                {id: "4.3.5", title: "Call of Duty 4: Modern Warfare (for mobile)"},
+                {id: "4.3.6", title: "Call of Duty: World at War (for mobile)"},
+                {id: "4.3.7", title: "Call of Duty: Modern Warfare 2: Force Recon"},
+                {id: "4.3.8", title: "Call of Duty: World at War - Zombies"},
+                {id: "4.3.9", title: "Call of Duty: Black Ops Mobile"},
+                {id: "4.3.10", title: "Call of Duty: Black Ops - Zombies"},
+                {id: "4.3.11", title: "Call of Duty: Strike Team"}
+              ]}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Compilations"
+            sub={[
+              {id: "5.1", title: "Call of Duty: The War Collection"}
+            ]}
+          />
+          <Collapse 
+           id="6"
+           item="Canceled titles"
+           sub={[
+            {id: "6.1", title: "Call of Duty: Combined Forces"},
+            {id: "6.2", title: "Call of Duty: Devil's Brigade"},
+            {id: "6.3", title: "Call of Duty: Future Warfare/NX1"},
+            {id: "6.4", title: "Call of Duty: Vietnam"},
+            {id: "6.5", title: "Call of Duty: Roman Warfare"},
+            {id: "6.6", title: "Untitled Call of Duty Zombie game "}
+           ]}
+          />
+          <Collapse 
+            id="7"
+            item="Other media"
+            sub={[
+              {id: "7.1", title: "Comic books"},
+              {id: "7.2", title: "Merchandise"},
+              {id: "7.3", title: "Short films"},
+              {id: "7.4", title: "Films"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Esports</a></li>
+          <li className="sidebar-list-item"><a href="#9">Call of Duty Endowment</a></li>
+          <Collapse 
+            id="10"
+            item="Criticisms, controversies, and legal actions"
+            sub={[
+              {id: "10.1", title: "Accusations of stereotyping and Western bias"},
+              {id: "10.2", title: "Fallout with Infinity Ward leadership"},
+              {id: "10.3", title: "No Russian"},
+              {id: "10.4", title: "Trademark infringement claims by AM General"}
             ]}
           />
         </ul>
