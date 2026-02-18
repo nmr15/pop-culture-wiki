@@ -5,7 +5,7 @@ import { assassinscreed } from "./data/dataAssassinsCreed";
 import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
-import { hpbooks } from "./data/dataHarryPotter"
+import { hpbooks, hpchars } from "./data/dataHarryPotter"
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
 import { simpsonsChars } from "./data/dataSimpsons"
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
@@ -56,6 +56,11 @@ export const routesGtaChars = gtaCharacters.map(gtaChar => ({
 export const routesHpBooks = hpbooks.map(hpbook => ({
   path: hpbook.route,
   Component: lazy(() => import(`./pages/HarryPotter/Books/${hpbook.file}.jsx`))
+}));
+
+export const routesHpChars = hpchars.map(hpchar => ({
+  path: hpchar.route,
+  Component: lazy(() => import(`./pages/HarryPotter/Characters/${hpchar.file}.jsx`))
 }));
 
 // MARVEL CINEMATIC UNIVERSE
