@@ -57,6 +57,10 @@ const Battlefield = () =>
               <th className="infobox-data">Publisher</th>
               <td className="infobox-data"><Link>Electronic Arts</Link></td>
             </tr>
+            <tr>
+              <th className="infobox-data">Games</th>
+              <td className="infobox-data"><Link>List of Battlefield games</Link></td>
+            </tr>
           </tbody>
         </table>
         <div className="div-top">
