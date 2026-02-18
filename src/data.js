@@ -186,7 +186,7 @@ export const topics = [
   {
     "id": 23,
     "title": "Bojack Horseman",
-    "file": "BojackHorseman",
+    "file": "BojackHorsemanSeries",
     "folder": "BojackHorseman",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/500px-BoJack_Horseman_Logo.svg.png",
     "route": "/bojack_horseman"
