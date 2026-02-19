@@ -463,13 +463,32 @@ const CaptainAmericaTheFirstAvenger = () =>
         <div>
           <Heading2 id={4} title={"Music"} />
           <div>
-            
+            <p>
+              The soundtrack album for Captain America: The First Avenger includes the original score by Alan Silvestri, as well as an original song,
+              "Star Spangled Man", with music composed by Alan Mnken and lyrics by David Zippel. The soundtrack was recorded at Air Studios in
+              London and released by Walt Disney Records on July 19, 2011.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={5} title={"Marketing"} />
           <div>
-            
+            <p>
+              At the 2010 San Diego Comic-Con, some footage that had been shot in the previous week was shown at the San Diego Convention Center. The
+              first television advertisement aired during Super Bowl XLV on the Fox network in the United States. Paramount paid $3 million to run
+              the 30-second advertisement. The first full trailer was released in March 2011. In May 2011, the USO girls from the film performed
+              aboard the USS Intrepid at the Intrepid Sea-Air-Space Museum as a part of the 2011 Fleet Week celebration in New York City. In June 2011,
+              Dunkin' Donuts and Baskin-Robbins teamed with Marvel to search for real-life super-soldiers. The contest sought nominations for veterans
+              or active U.S. servicepersons making a difference where they live or serve. In July 2011, Paramount Pictures promoted the film during an
+              Independence Day celebration hosted by the Chicago White Sox. Promotional partners include Harley-Davidson, Dunkin' Donuts, and Baskin
+              Robbins.
+            </p>
+            <p>
+              In February 2011, Marvel Comics launched the eight-issue digital comic Captain America: First Vengeance, on the same day as the first
+              trailer aired. Written by Fred Van Lente and featuring a rotation of artists, the story is set in the Marvel Cinematic Universe. Each
+              of the eight issues focused on a specific character from the movie, heroes and villains alike, and what brought them to the point where
+              the movie begins.
+            </p>
           </div>
         </div>
         <div>
