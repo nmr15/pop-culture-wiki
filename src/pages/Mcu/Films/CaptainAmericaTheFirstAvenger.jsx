@@ -489,12 +489,37 @@ const CaptainAmericaTheFirstAvenger = () =>
               of the eight issues focused on a specific character from the movie, heroes and villains alike, and what brought them to the point where
               the movie begins.
             </p>
+            <p>
+              Sega announced a video game tie-in titled Captain America: Super Soldier, tht was released on July 19, 2011, for the <Link>Xbox 360</Link>,
+              <Link>PlayStation 3</Link>, Wii, and Nintendo DS. Marvel released the mobile game, Captain America: Sentinel of Liberty, in July 2011. A
+              toy line was released as well.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <p>
+              The world premiere of Captain America: The First Avenger was held on July 19, 2011, at the El Capitan Theatre in Hollywood, California.
+              The film was screened at San Diego Comic-Con on July 21, 2011. It was commercially released in the United States and Canada on July
+              22, 2011. Captain America: The First Avenger is part of Phase One of the MCU.
+            </p>
+            <p>
+              Paramount opted against altering the American-centric title when distributing to foreign territories, instead offering international
+              markets a choice between the official title and the alternative The First Avenger. Many international distributors chose to retain the
+              original title, believing the franchise name to be more identifiable than the alternative, and that the latter would risk losing ticket
+              sales. Three countries chose the alternative title: Russia, South Korea, and Ukraine. An "insider" speaking to The New York Times
+              explained that the name change in these countries stemmed from cultural and political concerns, though Marvel and Paramount both declined
+              to state an official reason. In July 2011, it was thought that the film would not be released in China because of a policy limiting the
+              number of foreign films screened there each year, but it eventually opened there in the second weekend of September.
+            </p>
+            <p>
+              Days before the film's release, a teaser trailer for The Avengers that served as a post-credits scene of Captain America: The First Avenger
+              was briefly leaked online. Entertainment Weekly speculated it came from a preview screening and described the footage as "shaky, fuzzy,
+              flickering and obviously filmed on a cell phone". Captain America: The First Avenger was formatted and screened in IMAX for the first time
+              on August 31, 2018, as part of Marvel Studios' 10-year anniversary IMAX festival.
+            </p>
 
             <h3 className="article-heading-3" id="6.2">Home media</h3>
 
