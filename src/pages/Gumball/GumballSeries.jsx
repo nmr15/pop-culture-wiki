@@ -33,9 +33,9 @@ const GumballSeries = () =>
             id="4"
             item="Reception"
             sub={[
-              {id: "4.1", title, "Ratings"},
-              {id: "4.2", title, "Critical reception"},
-              {id: "4.3", title, "Awards and nominations"}
+              {id: "4.1", title: "Ratings"},
+              {id: "4.2", title: "Critical reception"},
+              {id: "4.3", title: "Awards and nominations"}
             ]}
           />
           <Collapse 
