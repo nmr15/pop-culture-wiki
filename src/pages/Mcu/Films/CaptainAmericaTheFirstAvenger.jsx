@@ -522,6 +522,21 @@ const CaptainAmericaTheFirstAvenger = () =>
             </p>
 
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              Captain America: The First Avenger was released by Paramount Home Entertainment on Blu-ray, Blu-ray 3D and DVD on October 25, 2011.
+              The three-disc set includes the film on Blu-ray in high-definition 3D and in high definition 2D, as well as on standard definition DVD
+              with a digital copy. The two-disc Blu-ray/DVD combo pack includes a high-definition presentation of the film and a standard-definition
+              presentation with a digital copy. Both sets include over an hour of bonus material, including the short film A Funny Thing Happened
+              on the Way to Thor's Hammer, a sneak peek of The Avengers, six behind-the-scenes featurettes, and deleted scenes with commentary by
+              director Joe Johnston, director of photography Shelly Johnson and editor Jeff Ford. In its first week of release, Captain America:
+              The First Avenger topped the Blu-ray and DVD sales charts, selling 1.54 million Blu-ray units and 726,000 DVD units and making a
+              combined total of $52.6 million.
+            </p>
+            <p>
+              The film was also collected in a 10-disc box set titled "Marvel Cinematic Universe: Phase One – Avengers Assembled" which includes all of
+              the Phase One films in the Marvel Cinematic Universe. It was released on April 2, 2013. Captain America: The First Avenger was released by
+              Walt Disney Studios Home Entertainment on Ultra HD Blu-ray on February 26, 2019.
+            </p>
 
           </div>
         </div>
@@ -529,8 +544,42 @@ const CaptainAmericaTheFirstAvenger = () =>
           <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              Captain America: The First Avenger earned $176.7 million in North America and $193.9 million internationally, for a worldwide total of $370.6 million.
+            </p>
+            <p>
+              Captain America: The First Avenger opened on July 22, 2011, in the United States and earned $4 million in midnight showings, outgrossing
+              other 2011 original superhero films like Thor and Green Lantern as well as the prequel
+              <Link to="/xmen_films/x_men_first_class"> X-Men: First Class</Link>, which all made between $3.25 million and $3.5 million in Friday
+              midnights. On Friday, the film opened at the number one spot at the American and Canadian box office with $25.7 million. It then went on to
+              make $65.1 million in what was the second highest-grossing opening weekend for a superhero film in 2011, behind Thor ($65.7 million). At
+              the time of its release, Captain America: The First Avenger became the third highest-grossing motion picture set during the World War II
+              era, after Saving Private Ryan and Pearl Harbor.
+            </p>
 
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 80%, with an average score of 7/10, based on 276 reviews. The website's
+              consensus reads, "With plenty of pulpy action, a pleasantly retro vibe, and a handful of fine performances, Captain America is solidly
+              old-fashioned blockbuster entertainment." Metacritic, which assigns a weighted average score, rated the film 66 out of 100 based on 43
+              reviews from critics indicating "generally favorable" reviews. Audiences polled by CinemaScore gave the film an average grade of "A−" on
+              an A+ to F scale.
+            </p>
+            <p>
+              Roger Moore of the Orlando Sentinel gave Captain America: The First Avenger a positive review, saying, "Johnston has delivered a light,
+              clever and deftly balanced adventure picture with real lump in the throat nostalgia, with Nazis – who make the best villains, and with
+              loving references to Star Wars and Raiders of the Lost Ark.'" Roger Ebert of the Chicago Sun-Times remarked, "I enjoyed the movie. I
+              appreciated the 1940s period settings and costumes, which were a break with the usual generic cityscapes. I admired the way that director
+              Joe Johnston propelled the narrative. I got a sense of a broad story, rather than the impression of a series of sensational set pieces.
+              If Marvel is wise, it will take this and Iron Man as its templates". A. O. Scott of The New York Times declared it "pretty good fun".
+            </p>
+            <p>
+              Karina Longworth of The Village Voice gave the film a negative review, calling it "[A] hokey, hacky, two-hour-plus exercise in franchise
+              transition/price gouging, complete with utterly unnecessary post-converted 3-D". Peter Debruge of Variety said, "Captain America: The First
+              Avenger plays like a by-the-numbers prequel for Marvel Studios' forthcoming The Avengers movie". Kirk Honeycutt of The Hollywood Reporter
+              had mixed feelings about the film, writing, "As the last Marvel prequel that includes two Iron Man and Incredible Hulk movies before next
+              summer's The Avengers, this one feels perhaps a little too simplistic and routine".
+            </p>
 
           </div>
         </div>
