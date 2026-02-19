@@ -411,5 +411,40 @@ export const gfCharacters = [
     "file": "DipperPines",
     "img": "https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png",
     "route": "/gravityfalls/dipper_pines"
+  },
+  {
+    "id": "gfChar2",
+    "title": "Mabel Pines",
+    "file": "MabelPines",
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/9/97/S1e1_are_you_actually_not_gonna_show_me.png",
+    "route": "/gravityfalls/mabel_pines"
+  },
+  {
+    "id": "gfChar3",
+    "title": "Stanley Pines",
+    "file": "StanleyPines",
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/9/92/S1e16_something_about_you.png",
+    "route": "/gravityfalls/stanley_pines"
+  },
+  {
+    "id": "gfChar4",
+    "title": "Soos Ramirez",
+    "file": "SoosRamirez",
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/bb/S1e13_whole_busload_of_em.png",
+    "route": "/gravityfalls/soos_ramirez"
+  },
+  {
+    "id": "gfChar5",
+    "title": "Wendy Corduroy",
+    "file": "WendyCorduroy",
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/35/S1e5_wendy_leaning_on_atm.png",
+    "route": "/gravityfalls/wendy_corduroy"
+  },
+  {
+    "id": "gfChar6",
+    "title": "Stanford Pines",
+    "file": "StanfordPines",
+    "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/b7/S2e13_ha_ha_ha_dipper.jpg",
+    "route": "/gravityfalls/stanford_pines"
   }
 ]
