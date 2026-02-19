@@ -79,7 +79,7 @@ const GumballSeries = () =>
                 </span>
               </td>
             </tr>
-             <tr>
+            <tr>
               <th className="infobox-data">Created by</th>
               <td className="infobox-data">Ben Bocquelet</td>
             </tr>
