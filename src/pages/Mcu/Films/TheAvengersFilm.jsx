@@ -6,6 +6,11 @@ import TableMcu from '../../../components/TableMcu'
 
 const TheAvengersFilm = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "The Avengers (film) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -65,13 +70,13 @@ const TheAvengersFilm = () =>
           <li>The Avengers (film)</li>
         </ul>
         <div>
-          <h1 className="article-heading">The Avengers</h1>
+          <h1 className="article-heading">The Avengers (flm)</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>The Avengers (film)</span>
+                <span>The Avengers</span>
               </th>
             </tr>
             <tr>
