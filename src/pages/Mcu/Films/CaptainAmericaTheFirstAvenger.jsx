@@ -588,10 +588,36 @@ const CaptainAmericaTheFirstAvenger = () =>
           <div>
             <h3 className="article-heading-3" id="8.1">Sequels</h3>
             <h4 className="article-heading-4" id="8.1.1">Captain America: The Winter Soldier</h4>
+            <p>
+              A sequel, Captain America: The Winter Soldier, directed by <Link>Anthony and Joseph Russo</Link>, was released on April 4, 2014. Evans,
+              Stan, Atwell, Toby Jones, and Jackson reprise their roles as Captain America, Bucky Barnes, Peggy Carter, Arnim Zola, and Nick Fury,
+              respectively. They are joined by <Link>Scarlett Johansson</Link>, <Link>Anthony Mackie</Link>, <Link>Cobie Smulders</Link>,
+              <Link> Frank Grillo</Link>, <Link>Emily VanCamp</Link>, and <Link>Robert Redford</Link> as
+              <Link to="/mcu/natasha_romanoff">Natasha Romanoff / Black Widow</Link>, <Link to="/mcu/sam_wilson">Sam Wilson / Falcon</Link>,
+              <Link to="/mcu/maria_hill"> Maria Hill</Link>, <Link>Brock Rumlow</Link>, <Link>Sharon Carter</Link>, and <Link>Alexander Pierce</Link>,
+              respectively.
+            </p>
 
             <h4 className="article-heading-4" id="8.1.2">Captain America: Civil War</h4>
+            <p>
+              Captain America: Civil War was released on May 6, 2016, and again is direted by the Russo brothers. Evans, Johansson, Stan, Mackie, Grillo,
+              and VanCamp reprise their roles from The Winter Soldier, and they are joined by <Link>Robert Downey Jr.</Link> as
+              <Link to="/mcu/tony_stark"> Tony Stark / Iron Man</Link>, <Link>Paul Bettany</Link> as <Link to="/mcu/vision">Vision</Link>,
+              <Link> Jeremy Renner</Link> as <Link to="/mcu/clint_barton">Clint Barton / Hawkeye</Link>, <Link>Don Cheadler</Link> as 
+              <Link to="/mcu/james_rhodes"> James "Rhodey" Rhodes / War Machine</Link>, <Link>Elizabeth Olsen</Link> as
+              <Link to="/mcu/wanda_maximoff"> Wanda Maximoff / Scarlet Witch</Link>, <Link>Paul Rudd</Link> as
+              <Link to="/mcu/scott_lang"> Scott Lang / Ant-Man</Link>, and William Hurt as <Link>Thaddeus "Thunderbolt" Ross</Link> all reprising their
+              roles from previous MCU films. <Link>Chadwick Boseman</Link>, <Link>Tom Holland</Link>, and <Link>Daniel Brühl</Link> also star as
+              <Link to="/mcu/t'challa"> T'Challa / Black Panther</Link>, <Link to="/mcu/peter_parker">Peter Parker / Spider-Man</Link>, and
+              <Link> Helmut Zemo</Link>, respectively.
+            </p>
 
             <h3 className="article-heading-3" id="8.1">Marvel One-Shot</h3>
+            <p>
+              In September 2013, Marvel released the One-Shot short film, Agent Carter, on <Link to="/mcu/iron_man_3">Iron Man 3</Link>'s home media
+              release, featuring Atwell reprising her role as Peggy Carter. Set a year after The First Avenger, the film sees Carter on an SSR mission
+              post-World War II.
+            </p>
             
           </div>
         </div>
