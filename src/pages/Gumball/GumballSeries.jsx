@@ -7,7 +7,7 @@ const GumballSeries = () =>
 {
   useEffect(() =>
   {
-    document.title = "Template - Pop Culture Wiki";
+    document.title = "The Amazing World of Gumball - Pop Culture Wiki";
   }, []);
 
   return(

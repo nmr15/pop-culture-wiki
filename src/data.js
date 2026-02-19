@@ -170,7 +170,7 @@ export const topics = [
   {
     "id": 21,
     "title": "The Amazing World of Gumball",
-    "file": "Gumball",
+    "file": "GumballSeries",
     "folder": "Gumball",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/The_Amazing_World_of_Gumball_logo.png",
     "route": "/the_amazing_world_of_gumball"
