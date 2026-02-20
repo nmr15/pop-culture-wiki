@@ -140,7 +140,29 @@ const TheAvengersFilm = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <p>
+              After being exiled from the Nine Realms following his actions in <Link>Asgard</Link>, Loki wanders the periphery of outer space before coming
+              into contact with the <Link>Other</Link>, the servant of a mysterious <Link>warlord</Link>. The Other makes a deal with Loki: in exchange
+              for recovering the <Link>Tesseract</Link>, a powerful energy source being stuied by S.H.I.E.L.D. on Earth, his master promises to give Loki
+              command over the <Link>Chitauri</Link>, a warmongering race of cyborgs so that he may conquer humanity. Seeing this as a chance for
+              greatness, Loki accepts. On Earth, Nick Fury, <Link to="/mcu/maria_hill">Maria Hill</Link>, 
+              <Link to="/mcu/phil_coulson"> Phil Coulson</Link>, <Link>Erik Selvig</Link>, and Clint Barton are called to the Joint Dark Energy Mission
+              Facility in the Mojave Desert, where Dr. Selvig is researching the Tesseract. The Tesseract has recently begun emitting strange quantities
+              of energy on its own accord, prompting the facility to be evacuated.
+            </p>
+            <p>
+              Before any necessary precautions can be made. Selvig's Tesseract Accelerator activates, opening a portal from which Loki appears.
+              Announcing his intention to conquer Earth, Loki steals the Tesseract. He uses the <Link>Scepter</Link>, given to him by the Other, to
+              enslave the minds of Selvig, Barton, and several S.H.I.E.L.D. agents, aiding him in his getaway. Despite the efforts of Fury and Hill to
+              stop him, Loki escapes. In response, Fury reactivates the Avengers Initiative.
+            </p>
+            <p>
+              Despite orders from the <Link>World Security Council</Link> to proceed with "Phase 2," Fury sends Natasha Romanoff to locate Bruce Banner,
+              who has been living in Kolkata, India as a doctor. Agent Coulson is sent to recruit Tony Stark. Both of them are hired to help locate the
+              Tesseract. Fury himself meets with Steve Rogers, informing him of Loki's theft of the Tesseract, requesting his help in recovering it and
+              subduing the invader. All three men accept the offer, though Rogers is reluctant to do anything involving the Tesseract after his
+              experiences with it in World War II. Banner is also hesitant to assist, fearing that his alter-ego, the Hulk, may cause mayhem.
+            </p>
           </div>
         </div>
          <div>
