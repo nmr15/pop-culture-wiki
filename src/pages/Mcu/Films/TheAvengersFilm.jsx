@@ -125,6 +125,17 @@ const TheAvengersFilm = () =>
             2012 release. Whedon was hired in April 2010 and rewrote the original screenplay by Zak Penn. Production begain in April 2011 in Albuquerque,
             New Mexico, before moving to Cleveland, Ohio, in August and New York City in September. The film has more than 2,200 visual effects shots.
           </p>
+          <p>
+            The Avengers premiered at the El Capitan Theatre in Los Angeles on April 11, 2012, and was released in the United States on May 4, as the
+            final film in <Link>Phase One</Link> of the MCU. The film received praise for Whedon's direction and screenplay, visual effects, action
+            sequences, acting, and musical score. It grossed over $1.5 billion worldwide, setting numerous box office records and becoming the
+            third-highest-grossing film of all time at the taime of its release and the highest-grossing film of 2012. It was the first Marvel production
+            to generate $1 billion in ticket sales. In 2017, The Avengers was featured as one of the 100 greatest films of all time in an Empire
+            magazine poll. It received a nomination for Best Visual Effects at the 85th Academy Awards, among numerous other accolades. Three sequels
+            have been released: <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> (2015),
+            <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> (2018), and <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>
+            (2019).
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
