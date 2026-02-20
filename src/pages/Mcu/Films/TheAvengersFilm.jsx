@@ -168,13 +168,78 @@ const TheAvengersFilm = () =>
          <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:The_Avengers_Cast_2010_Comic-Con_cropped.jpg" 
+                alt="he_Avengers_Cast_2010_Comic-Con"
+              />
+              <p>The cast of The Avengers alongside Joss Whedon and Kevin Feige at the 2010 San Diego Comic-Con</p>
+            </div>
+            <ul className="article-list">
+              <li>
+                <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>: <br />
+              </li>
+              <li>
+                <Link>Chris Evans</Link> as <Link to="/mcu/steve_rogers">Steve Rogers / Captain America</Link>: <br />
+              </li>
+              <li>
+                <Link>Mark Ruffalo</Link> as <Link to="/mcu/bruce_banner">Bruce Banner / Hulk</Link>: <br />
+              </li>
+              <li>
+                <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />
+              </li>
+              <li>
+                <Link>Scarlett Johansson</Link> as  <Link to="/mcu/natasha_romanoff">Natasha Romanoff / Black Widow</Link>: <br />
+              </li>
+              <li>
+                <Link>Jeremy Renner</Link> as <Link to="/mcu/clint_barton">Clint Barton / Hawkeye</Link>: <br />
+              </li>
+              <li>
+                <Link>Tom Hiddleston</Link> as <Link>Loki</Link>: <br />
+              </li>
+              <li>
+                <Link>Stellan Skarsgård</Link> as <Link>Erik Selvig</Link>: <br />
+              </li>
+              <li>
+                <Link>Samuel L. Jackson</Link> as <Link t0="/mcu/nick_fury">Nick Fury</Link>: <br />
+              </li>
+            </ul>
           </div>
         </div>
          <div>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              Ideas for the film based on the Avengers begain in 2003, with Avi Arad, the CEO of Marvel Studios, first announced plans to develop the
+              film in April 2005, after Marvel Enterprises declared independence by allying with Merrill Lynch to produce a slate of films that would be
+              distributed by Paramount Pictures. Marvel discussed their plans in a brief presentation to Wall Street analysts; the studio's intention was
+              to release individual films for the main characters to establish their identities and familiarize audiences with them before merging the
+              characters together in a crossover film. Screenwriter Zak Penn, who wrote The Incredible Hulk, became attached to the film in 2006, and was
+              hired by Marvel Studios to write the film in June 2007. In the wake of the 2007-2008 Writers Guild of America strike, Marvel negotiated
+              with the Writers Guild of America to ensure that it could create films based on its comic book counterparts, including Captain America,
+              <Link to="/marvelcomics/ant_man"> Ant-Man</Link>, and The Avengers. After the successful release of Iron Man (2008) in May, the company set
+              a July 2011 release date for The Avengers. In September 2008, Marvel Studios reached an agreement with Paramount, an extension of a previous
+              partnership, which gave the company distribution rights for five future Marvel films.
+            </p>
+            <p>
+              Casting began in October 2008 with Downey's signing. Although <Link>Don Cheadle</Link> was reported to reprise his
+              <Link to="/mcu/iron_man_2"> Iron Man 2</Link> role of <Link to="/mcu/james_rhodes">War Machine</Link> for The Avengers, he later stated that
+              he did not think the character would appear in the film. Simultaneously, two major developments occurred for Marvel; <Link>Jon Favreau</Link>
+              was brought in as an executive producer for the film, and the company signed a long-term lease with Raleigh Studios to produce three other
+              big-budget films, Iron Man 2, <Link to="/mcu/thor_film">Thor</Link>, and <Link to="/mcu/captain_america_the_first_avenger">Captain
+              America: The First Avenger</Link> (2011), at their Manhattan Beach, California complex. In February 2009, Samuel L. Jackson signed a
+              nine-picture deal with Marvel Entertainment to play Nick Fury in Iron Man 2 and other films. In September 2009, Edward Norton, who played
+              Bruce Banner in The Incredible Hulk, stated he was open to returning in the film. The next month, executive producer Jon Favreau stated he
+              would not direct the film but would "definitely have input and a say". Favreau also expressed concerns, stating, "It's going to be hard,
+              because I was so involved in creating the world of Iron Man, and Iron Man is very much a tech-based hero, and then with the Avengers, you're
+              going to be introducing some supernatural aspects because of Thor [...] [Mixing] the two of those works very well in the comic books, but
+              I'm going to take a lot of thoughtfulness to make that all work and not blow the reality that we've created". In March 2009, Scarlett
+              Johansson replaced Emily Blunt in portraying Natasha Romanoff in Iron Man 2, a deal that subsequently attached her to The Avengers. The
+              following day, Marvel announced that the film's release date had been pushed back to May 4, 2012, almost a full year later. Chris Hemsworth
+              and Tom Hiddleston joined the film's cast in June, returning as Thor and Loki, respectively.
+            </p>
+
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
