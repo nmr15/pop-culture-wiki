@@ -104,7 +104,18 @@ const TheAvengersFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-
+          <p>
+            <b>The Avengers</b> (titled <b>Avengers Assemble</b> in the United Kingdom and Ireland) is a 2012 American superhero film based on the
+            <Link to="/marvelcomics"> Marvel Comics</Link> superhero team <Link>of the same name</Link>. Produced by <Link>Marvel Studios</Link> and
+            distributed by Walt Disney Studios Motion Pictures, it is the sixth film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
+            Written and directed by <Link>Joss Whedon</Link>, the film features and ensemble cast including <Link>Robert Downey Jr.</Link>,
+            <Link> Chris Evans</Link>, <Link>Mark Ruffalo</Link>, <Link>Chris Hemsworth</Link>, <Link>Scarlett Johansson</Link>, and
+            <Link> Jeremy Renner</Link> as the <Link>Avengers</Link>, alongside <Link>Tom Hiddleston</Link>, <Link>Stellan Skarsgård</Link>, and
+            <Link> Samuel L. Jackson</Link>. In the film, <Link t0="/mcu/nick_fury">Nick Fury</Link> and the spy agency <Link>S.H.I.E.L.D.</Link> recruit
+            <Link to="/mcu/tony_stark">Tony Stark</Link>, <Link to="/mcu/steve_rogers">Steve Rogers</Link>, <Link to="/mcu/bruce_banner">Bruce
+            Banner</Link>, <Link to="/mcu/thor">Thor</Link>, <Link to="/mcu/natasha_romanoff">Natasha Romanoff</Link>, and
+            <Link to="/mcu/clint_barton"> Clint Barton</Link> to form a team capable of stopping Thor's brother <Link>Loki</Link> from subjugating Earth.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
