@@ -6,11 +6,6 @@ import TableMcu from '../../../components/TableMcu'
 
 const TheAvengersFilm = () =>
 {
-  useEffect(() =>
-  {
-    document.title = "The Avengers (film) - Pop Culture Wiki";
-  }, []);
-
   return(
     <>
       <aside className="sidebar">
@@ -70,13 +65,13 @@ const TheAvengersFilm = () =>
           <li>The Avengers (film)</li>
         </ul>
         <div>
-          <h1 className="article-heading">The Avengers (flm)</h1>
+          <h1 className="article-heading">The Avengers</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>The Avengers</span>
+                <span>The Avengers (film)</span>
               </th>
             </tr>
             <tr>
@@ -108,6 +103,66 @@ const TheAvengersFilm = () =>
             </tr>
           </tbody>
         </table>
+        <div className="div-top">
+
+        </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+         <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+         <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+         <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Trailers</h3>
+            <h3 className="article-heading-3" id="5.2">Tie-in</h3>
+            <h3 className="article-heading-3" id="5.3">Promotional partners</h3>
+            <h3 className="article-heading-3" id="5.4">Video game</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <h3 className="article-heading-3" id="6.2">Home media</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={8} title={"Sequels"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
