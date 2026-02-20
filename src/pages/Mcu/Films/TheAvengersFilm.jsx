@@ -116,6 +116,15 @@ const TheAvengersFilm = () =>
             Banner</Link>, <Link to="/mcu/thor">Thor</Link>, <Link to="/mcu/natasha_romanoff">Natasha Romanoff</Link>, and
             <Link to="/mcu/clint_barton"> Clint Barton</Link> to form a team capable of stopping Thor's brother <Link>Loki</Link> from subjugating Earth.
           </p>
+          <p>
+            The film's development began when Marvel Studios received a loan from Merrill Lynch in April 2005. After the success of the film
+            <Link to="/mcu/iron_man_film"> Iron Man</Link> in May 2008, Marvel announced that The Avengers would be released in July 2011 and would bring
+            together Stark (Downey), Rogers (Evans), Thor (Hemsworth), and Banner (portrayed by <Link>Edward Norton</Link> in the 2008 film
+            <Link to="/mcu/the_incredible_hulk_film"> The Incredible Hulk</Link>) from Marvel's previous films. After the signing of Johansson as
+            Romanoff in March 2009, Renner as Barton in June 2010, and Ruffalo to replace Norton as Banner in July 2010, the film was pushed back for a
+            2012 release. Whedon was hired in April 2010 and rewrote the original screenplay by Zak Penn. Production begain in April 2011 in Albuquerque,
+            New Mexico, before moving to Cleveland, Ohio, in August and New York City in September. The film has more than 2,200 visual effects shots.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
