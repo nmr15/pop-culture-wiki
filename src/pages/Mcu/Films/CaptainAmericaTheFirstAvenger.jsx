@@ -100,7 +100,7 @@ const CaptainAmericaTheFirstAvenger = () =>
             </tr>
             <tr>
               <th className="infobox-data">Next MCU project</th>
-              <td className="infobox-data"><Link to="mcu/the_avengers_film">The Avengers</Link></td>
+              <td className="infobox-data"><Link to="/mcu/the_avengers_film">The Avengers</Link></td>
             </tr>
           </tbody>
         </table>

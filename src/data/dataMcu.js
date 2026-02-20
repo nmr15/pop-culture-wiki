@@ -58,7 +58,7 @@ export const mcu = [
     "title": "The Avengers",
     "file": "TheAvengersFilm",
     "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
-    "route": "mcu/the_avengers_film",
+    "route": "/mcu/the_avengers_film",
     "media": "film",
     "phase": 1
   },
