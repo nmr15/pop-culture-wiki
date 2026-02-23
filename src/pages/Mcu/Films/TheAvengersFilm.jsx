@@ -280,6 +280,33 @@ const TheAvengersFilm = () =>
               the 2010 San Diego Comic-Con that what drew him to the film is that he loves how "these people shouldn't be in the same room let alone on
               the same team, and that is the definition of family".
             </p>
+            <div className="article-quote">
+              <p>
+                "People forget that we started filming Avengers before either Thor or Captain America were released. What if people hated Thor? What if
+                people thought Loki was ridiculous? What if people didn't buy this super soldier frozen in ice? We were in the first quarter of production
+                on a giant movie at that time, and we weren't going to stop. It was sort of all in at that point."
+              </p>
+              <p>
+                - Kevin Feige, President of Production for Marvel Studios, on the challenges of producing the first Avengers film.
+              </p>
+            </div>
+            <p>
+              When Ehedon received Penn's draft, he told Feige he felt the studio did not "have anything" and they should "pretend this draft never
+              happened". Part of Whedon's issue was the lack of character connections in Penn's draft, which necessitated Whedon to begin "at square one".
+              Whedon went on to write a five-page treatment of his plan for the film and created the tagline "Avengers: Some Assembly Required", riffing
+              on the "Avengers Assemble" slogan from the comic books. Marvel quickly began working to sign Whedon to write and direct, only stipulatiing
+              that he include the Avengers against Loki, a battle among the heroes in the middle, a battle against the villain at the end, and that he
+              get the film done for its May 2012 release. The script went through "a lot of insane iterations of what might be", according to Whedon.
+              There was a point when it was not certain Johansson would star in the film, so he "wrote a huge bunch of pages starring
+              <Link to="/marvelcomics/wasp"> The Wasp</Link>", and wanted <Link>Zooey Deschanel</Link> to play the character. He also was "worried that
+              one British actor [(Hiddleston)] was not enough to take on Earth's mightiest heroes, and that we'd feel like we were rooting for the
+              overdog. So I wrote a huge draft with <Link>Ezekiel Stane</Link>, <Link>Obadiah Stane</Link>'s son, in it." Once all of the actors were
+              "locked in place the movie stayed on mission." Whedon noted that the characters used do not have the same issue, unlike the
+              <Link> X-Men</Link>. He felt "these guys just don't belong together" before realizing their interactions could be like The Dirty Dozen
+              (1967). Whedon also referenced Dr. Strangelove (1964), The Abyss (1989), His Girl Friday (1940), and <Link>Black Hawk Down</Link> (2001).
+              Whedon would ultimately share final screenplay credit with Penn, though Whedon noted he "fought" for solo credit and was "very upset about
+              it." Penn felt the two "could have collaborated more, but that was not his choice. He wanted to do it his way, and I respect that."
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
