@@ -271,6 +271,16 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              By April 2010, Joss Whedon was nearing the completion of a deal to direct the film and to revise Penn's script, and was officially
+              announced in July 2010. Regarding the hiring, Arad stated: "My personal opinion is that Joss will do a fantastic job. He loves these
+              characters and is a fantastic writer [...] It's part of his life so you know he is going to protect it [...] I expect someone like him is
+              going to make the script even better". Feige added, "I've known Joss for many years. We were looking for the right thing and he came in
+              and met on it [...] we want[ed] to find a director that's on the verge of doing something great, as we think Joss is ." Whedon stated at
+              the 2010 San Diego Comic-Con that what drew him to the film is that he loves how "these people shouldn't be in the same room let alone on
+              the same team, and that is the definition of family".
+            </p>
+
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
