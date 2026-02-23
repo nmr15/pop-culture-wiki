@@ -307,6 +307,37 @@ const TheAvengersFilm = () =>
               Whedon would ultimately share final screenplay credit with Penn, though Whedon noted he "fought" for solo credit and was "very upset about
               it." Penn felt the two "could have collaborated more, but that was not his choice. He wanted to do it his way, and I respect that."
             </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:Joss_Whedon_looking_right.jpg" 
+                alt="Joss Whedon" 
+              />
+              <p>
+                Joss Whedon at the 2010 San Diego Comic-Con.
+              </p>
+            </div>
+            <p>
+              The casting process continued throughout much of 2010, with the addition of Jeremy Renner, Mark Ruffalo, and Clark Gregg. Ruffalo replaced
+              Edward Norton, whom Marvel declined to bring back. "We have made the decision to not bring Ed Norton back to portray the title role of
+              Bruce Banner in The Avengers," stated Feige. "Our decision is definitely not one based on monetary factors, but instead rooted in the need
+              for an actor who embodies the creativity and collaborative spirit of our other talented cast members. The Avengers demands players who
+              thrive working as part of an ensemble, as evidenced by Robert, Chris H, Chris E, Samuel, Scarlett, and all of our talented casts. We are
+              looking to announce a name actor who fulfills these requirements, and is passionate about the iconic role in the coming weeks." In
+              response, Norton's agent Brian Swardstrom decried Feige's statement, calling it "purposefully misleading" and an "inappropriate attempt to
+              paint our client in a negative light". In October 2014, Norton claimed it was his own decision never to play Hulk again because he
+              "wanted more diversity" with his career and did not want to be associated with only one character.
+            </p>
+            <p>
+              In August 2010, it was reported that Paramount Pictures and Marvel Studios were planning to start shooting in February. In October 2010,
+              Grumman Studios in Bethpage, New York and the Steiner Studios in Brooklyn, New York City, were announced as filming locations, with set
+              construction slated to begin in November, but as Whedon later explained, "Originally we were supposed to be in Los Angeles, then for a
+              short period we were supposed to be in New York, and then somehow we ended up in Alburquerque." Also that October, Walt Disney Studios
+              agreed to pay Paramount at least $115 million for the worldwide distribution rights to <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013)
+              and The Avengers. The deal also allowed Paramount to continue to collect the 8 percent box office fee it would have earned for distributing
+              the film and a marquee credit, placement of the company's production logo on marketing materials and the film's opening titles. As a result,
+              the onscreen production credit reads "Marvel Studios presents in association with Paramount Pictures", though the film is solely owned,
+              distributed, financed, and marketed by Disney. Paramount's Epix retained pay TV rights.
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
