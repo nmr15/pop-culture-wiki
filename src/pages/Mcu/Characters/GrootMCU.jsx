@@ -54,7 +54,15 @@ const GrootMCU = () =>
             </tr>
             <tr>
               <th className="infobox-data">Appearances</th>
-              <td className="infobox-data">Template</td>
+              <td className="infobox-data">
+                <Link to="/mcu/guardians_of_the_galaxy_film">Guardians of the Galaxy</Link> <br />
+                <Link to="/mcu/guardians_of_the_galaxy_vol_2">Guardians of the Galaxy Vol. 2</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/thor_love_and_thunder">Thor: Love and Thunder</Link> <br />
+                <Link to="/mcu/the_guardians_of_the_galaxy_holiday_special">The Guardians of the Galaxy Holiday Special</Link>
+                <Link to="/mcu/guardians_of_the_galaxy_vol_3">Guardians of the Galaxy Vol. 3</Link>
+              </td>
             </tr>
           </tbody>
         </table>
