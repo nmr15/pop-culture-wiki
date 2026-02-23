@@ -15,6 +15,57 @@ const GrootMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Newborn days"},
+                {id: "1.1.2", title: "Groot's first steps"},
+                {id: "1.1.3", title: "Battle on Sovereign"},
+                {id: "1.1.4", title: "Left on Berhert"},
+                {id: "1.1.5", title: "Abused by Ravagers"},
+                {id: "1.1.6", title: "Escape from the Eclector"}
+              ]},
+              {id: "1.2", title: "Ego's expansion", sub2: [
+                {id: "1.2.1", title: "Rescuing the Guardians"},
+                {id: "1.2.2", title: "Battle on Ego's planet"},
+                {id: "1.2.3", title: "Yondu Udonta's funeral"}
+              ]},
+              {id: "1.3", title: "Adventures in space", sub2: [
+                {id: "1.3.1", title: ""},
+                {id: "1.3.2", title: ""},
+                {id: "1.3.3", title: ""},
+                {id: "1.3.4", title: ""},
+                {id: "1.3.5", title: ""},
+                {id: "1.3.6", title: ""},
+                {id: "1.3.7", title: ""},
+                {id: "1.3.8", title: ""},
+                {id: "1.3.9", title: ""},
+                {id: "1.3.10", title: ""}
+              ]},
+              {id: "1.4", title: ""},
+              {id: "1.5", title: ""},
+              {id: "1.6", title: ""},
+              {id: "1.7", title: ""},
+              {id: "1.8", title: ""}
+            ]}
+          />
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Vehicles"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
