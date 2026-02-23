@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const GrootMCU = () =>
 {
@@ -38,7 +40,20 @@ const GrootMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">
+                <Link>James Gunn</Link> (motion capture) <br />
+                <Link>Sean Gunn</Link> (motion capture) <br />
+                Terry Notary (motion capture) <br />
+                Austin Freeman (motion capture)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data"><Link>Vin Diesel</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
               <td className="infobox-data">Template</td>
             </tr>
           </tbody>
