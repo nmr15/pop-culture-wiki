@@ -362,6 +362,41 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <p>
+              Principal photography began on April 25, 2011, at Albuquerque Studios in Albuquerque, New Mexico, with the working title Group Hug. In
+              June 2011, stuntman Jeremy Fitzgerald sustained a head injury while attempting a stunt involving a 30-foot fall from a building after
+              being struck by an arrow. Despite the injury, Fitgerald recovered and resumed work on set, as confirmed by a Marvel spokesperson to TMZ.
+              Second unit filming occurred in the Butler area, about an hour outside Pittsburgh, Pennsylvania, the following month. Additionally, a
+              chase sequence was shot in Worthington, Pennsylvania, at Creekside Mushroom Farms, which provided 150 miles of abandoned limestone
+              tunnels 300 feet below the ground for filming.
+            </p>
+            <p>
+              Production shiften to Cleveland, Ohio in August 2011, where filming spanned four weeks. The city's East 9th Street was selected as a
+              stand-in for New York's 42nd Street, serving as the backdrop for climactic battle scenes. Army Reserve soldiers from the 391st Military
+              Police Battalion, based in Columbus, Ohio, participated in the backgroun action during the battle scenes in Cleveland. Staff Sergeant
+              Michael T. Landis noted that the involvement of real soldiers enhanced the realism of the scenes and portrayed the military positively,
+              citing their ability to provide on-the-spot corrections in tactics and uniforms. The NASA Plum Brook Station near Sandusky, Ohio,
+              specifically its Space Power Facility, doubled as a S.H.I.E.L.D. research facility. Filming also occurred at the Chevrolet powertrain
+              plant in Parma, Ohio, where a series of explosions were captured for the battle sequence originating in Cleveland. Additional scenes were
+              shot at Public Square and the Detroit-Superior Bridge, with Public Square's southwest quadrant transformed into Stuttgart, Germany for
+              filming. Principal photography concluded in New York City, where filming took place over a span of two days. Filming locations included
+              Park Avenue and Central Park. To capture scenes set in Manhattan, visual effects supervisor Jake Morrison spent over three days shooting
+              aerial footage to use as background plates. Morrison emphasized the importance of incorporating real imagery into the effects work to
+              enhance realism, stating, "There is no substitute for starting with a real image and adding what you need."
+            </p>
+            <p>
+              Cinematographer Seamus McGarvey explained that he hose a 1.85:1 aspect ratio to accommodate the varying heights of the main characters. He
+              said, "Shooting 1.85:1 is kind of unusual for an epic film like this, but we needed the height in the screen to be able to frame in all the
+              characters like Hulk, Captain America, and Black Widow, who is much smaller. We had to give them all precedence and width within the frame.
+              Also, Joss [Whedon] knew the final battle sequence was going to be this extravaganza in Manhattan, so the height and vertical scale of the
+              buildings was going to be really important." This film marked McGarvey's first experience using a digital camera, specifically the Arri
+              Alexa. Additionally, the Canon EOS 5D Mark II and Canon EOS 7D digital SLR cameras were employed for certain shots, while high-speed shots
+              were captured on 35 mm film using the Arriflex 435. McGarvey emphasized a visual approach focused on immersion and naturalism, stating,
+              "Joss and I were keen on having a very visceral and naturalistic quality to the image. We wanted this to feel immersive and did not want
+              a 'comic book look' that might distance an audience with the engagement of the film. We moved the camera a lot on Steadicam, cranes and
+              on dollies to create kinetic images: and we chose angles that were dramatic, like low angles for heroic imagery."
+            </p>
+
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
