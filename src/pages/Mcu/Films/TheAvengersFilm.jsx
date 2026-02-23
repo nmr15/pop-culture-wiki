@@ -398,6 +398,76 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <p>
+              In December 2011, Disney announced the film would undergo a conversion to 3D. According to Whedon, "I'm not a big fan of extremely long
+              lens, talky movies, I like to see the space I'm in and relate to it, so 3D kinda fits my aesthetic anyway. And the technology has
+              advanced so far in the past couple years." Whedon also noted, "there definitely are movies that shouldn't be in 3D", but stated, "The
+              Avengers isn't obnoxiously 3D. There's no 'Oh look, we're going to spend 20 minutes going through this tunnel because it's in 3D!'' And
+              no one is pointing at the screen the entire time. But it's an action movie. Things tend to hurtle toward the screen anyway." In January
+              2012, it was reported that the film would undergo digital remastering for IMAX 3D and would open in IMAX theaters on May 4, 2012, the same
+              day as its regular theater release. This IMAX release followed Marvel's earlier IMAX releases of Iron Man 2 and Thor. When The Avengers
+              was initially submitted to the Motion Pictures Association of America's rating board, the film received an R rating due to Phil Coulson's
+              death scene. The scene was subsequently edited to secure a PG-13 rating.
+            </p>
+            <p>
+              In a May 2012 interview, Whedon revealed that it was his decision to include Thanos in a post-credits scene, even though the character is
+              not identified in the film. "He for me is the most powerful and fascinating Marvel villain. He's the great grand daddy of the badasses and
+              he's in love with <Link>Death</Link> and I just think that's so cute. For me, the greatest Avengers [comic book] was Avengers Annual #7
+              (1977) that Jim Starlin did followed by Marvel Two-in-One Annual #2 (1977) that contained the death of <Link>Adam Warlock</Link>. Those
+              were some of the most important text and I think underrated milestones in Marvel history and Thanos is all over that, so somebody had to
+              be in control and had to be behind Loki's work and I was like 'it's got to be Thanos.' And they said 'Okay' and I'm like 'Oh my God!'"
+              Additionally, an extra scene featuring the Avengers enjoying shawarma was filmed in April 12, 2012, a day after the world premiere.
+              Evans wore a prosthetic jaw during the scene to conceal the beard he had grown. Following the film's release, shawarma sales in Los
+              Angeles, St. Louis, and Boston reportedly saw a significant surge. Whedon explained that the inspiration for the shawarma scene came from
+              the aftermath of filming a scene in the Angel episode "A Hole in the World" where Fred dies in Wesley's arms. After filming, Whedon, along
+              with actors Amy Acker and Denisof, who played Fred and Wesley respectively, "went out for drinks and ended up just sitting around quitely,
+              exhausted from the day's events", an experience that Whedon recreated in the film's scene.
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://en.wikipedia.org/wiki/File:The_Avengers_Hulk_motion_capture.jpg" 
+                alt="The Avengers Hulk motion capture" 
+              />
+              <p>
+                Mark Ruffalo as the Hulk (bottom) wearing a motion capture suit and prosthetics on his upper half to emulate the Hulk's size.
+              </p>
+            </div>
+            <p>
+              The film features over 2,200 visual effects shots completed by 14 companies: <Link>Industrial Light & Magic</Link> (ILM), Weta Digital,
+              Scanline VFX, Hydraulix, Fuel VFX, Evil Eye Pictures, Luma Pictures, Cantina Creative, Trixter, Modus FX, Whiskytree, Digital Domain, The
+              Third Floor, and Method Design. ILM was the lead vendor and shared responsibility for creating many of the film's key effects, including
+              the Helicarrier, the New York cityscape, digital body doubles, Iron Man, and the Hulk. To bring the Hulk to life on screen, Ruffalo
+              performed in a motion capture suit on set alongside the other actors, while four motion-capture HD cameras (two capturing his full body
+              and two focused on his face) recorded his facial and body movements. Jeff White, ILM's visual effects supervisor, aimed for a more
+              realistic dpeiction of the Hulk compared to the one seen in Ang Lee's <Link>2003 film</Link>, stating, "We really wanted to utilize
+              everything we've developed the last 10 years and make it a pretty spectacular Hulk. One of the great design decisions was to incorporate
+              Mark Ruffal into the look of him. So, much of Hulk is based on Ruffalo and his performance, not only in motion capture and on set, but
+              down to his eyes, his teeth, and his tongue."
+            </p>
+            <p>
+              ILM digitally recreated the majority of the New York citysacae featured in the film, covering approxiamtely ten city blocks by four city
+              blocks. To accomplish this, ILM dispatched a team of four photographers for an eight-week shoot to capture images of the area. Tyson
+              Bidner, the New York location manager for the film, played a crucial role in securing the rights to nearly every building's likeness
+              needed by ILM. Initially, there were plans to include <Link>OsCorp</Link> Tower from
+              <Link to="/spiderman_films/the_amazing_spider_man">The Amazing Spider-Man</Link> (2012) in the film, as Disney and Sony Pictures had agreed
+              to it. However, the idea was abandoned because much of the skyline had already been finalized. Weta Digital assumed responsibility for
+              animating Iron Man during the forest duel, taking over from ILM. Guy Williams, Weta's visual effects supervisor, explained, "We shared
+              assets back and forth with ILM, but our pipelines are unique and it's hard for other assets to plug into it. But in this case, we got their
+              models and we had to redo the texture spaces because the way we texture maps is different." Williams highlighted that the most challenging
+              asect was reproducing Iron Man's reflective metal surfaces.
+            </p>
+            <p>
+              Scanlines VFX handled the reveal shots of the Helicarrier, from Black Widow and Captain America's arrival on the carrier deck to its
+              lift-off. Evil Eye Pictures integrated digital backgrounds into greenscreen footage for scenes set inside the Helicarrier. Colin Strauss
+              from Hydraulix mentioned their contribution, stating, "We did the opening ten minutes of the movie, other than the opening set-up in space",
+              covering Loki's arrival on Earth and his subsequent escape from the S.H.I.E.L.D. base. Luma Pictures focused on the Helicarrier's bridge
+              shots and integrated the graphic monitor displays developed by Cantina Creative. Fuel VFX handled shots in and around Tony Stark's penthouse
+              at Stark Tower. Digital Domain crafted the asteroid environment where Loki encounters The Other. Mehod Design, based in Los Angeles, was
+              responsible for the film's closing credits. Steve Viola, creative director at Method Design, described it as "a two-minute, self-contained
+              main on end sequence created entirely in CG". He explained that they designed, modeled, textured, and lit all environments and many
+              foreground objects for each shot. Assets from Marvel were modeled extensively to create a post-battle macro sequence. Method Design also
+              crafted a custom typeface for the main title of The Avengers as well as 30 in-scene credits.
+            </p>
           </div>
         </div>
          <div>
