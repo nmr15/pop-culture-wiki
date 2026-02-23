@@ -222,6 +222,18 @@ const TheAvengersFilm = () =>
               a July 2011 release date for The Avengers. In September 2008, Marvel Studios reached an agreement with Paramount, an extension of a previous
               partnership, which gave the company distribution rights for five future Marvel films.
             </p>
+            <div className="article-quote">
+              <p>
+                "It goes back to the very first incarnation of The Avengers. It goes to <Link>The Ultimates</Link>, it goes to everything about it. It
+                makes no sense, it's ridiculous. There's a thunder god, there's a green 'id' giant rage monster, there's Captain America from the 40s,
+                there's Tony Stark who definitely doesn't get along with anybody. Ultimately these people don't belong together and the whole movies is
+                about finding yourself from community. And finding that you not only belong together but you need each other, very much. Obviously this
+                will be expressed through punching but it will be the heart of the film."
+              </p>
+              <p>
+                - Joss Whedon, director of The Avengers, about the film.
+              </p>
+            </div>
             <p>
               Casting began in October 2008 with Downey's signing. Although <Link>Don Cheadle</Link> was reported to reprise his
               <Link to="/mcu/iron_man_2"> Iron Man 2</Link> role of <Link to="/mcu/james_rhodes">War Machine</Link> for The Avengers, he later stated that
