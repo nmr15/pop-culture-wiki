@@ -338,6 +338,28 @@ const TheAvengersFilm = () =>
               the onscreen production credit reads "Marvel Studios presents in association with Paramount Pictures", though the film is solely owned,
               distributed, financed, and marketed by Disney. Paramount's Epix retained pay TV rights.
             </p>
+            <p>
+              In December 2010, Governor of New Mexico Bill Richardson and Marvel Studios co-president Louis D'Esposito announced that The Avengers would
+              primarily film in Albuquerque, New Mexico, with principal photography scheduled for April through September 2011. Parts of the film were
+              also slated to be shot in Michigan, but plans to film in Detroit were scrapped after Governor Rick Snyder proposed a budget that would
+              eliminate a film tax incentive. Three months later, in March, Governor of Ohio John Kasich announced during Mayor Frank G. Jackson's
+              State of the City address that The Avengers would also film in Cleveland.
+            </p>
+            <p>
+              Concept illustrator and designer of Iron Man's Mark VII armor, Phil Saunders, stated that "Joss Whedo was looking for something that had
+              the 'cool' factor of the suitcase suit [from Iron Man 2], while still being a fully armored, heavy-duty suit that could take on an army in
+              the final battle." To achieve this, Saunders combined ideas proposed in Iron Man 2 with some concepts abandoned in the first Iron Man film,
+              creating a modular suit featuring large ammo packets on the arms and a backpack. Additionally, the Science & Entertainment Exchange
+              provided science consultation for the film.
+            </p>
+            <p>
+              Casting reached its final stages the following year. In February 2011, Cobie Smulders was cast in the role of Maria Hill, after
+              participating in screen tests conducted by Marvel for the role of a key S.H.I.E.L.D. member, whom Samuel L. Jackson described as Nick Fury's
+              sidekick. Morena Baccarin, Jessica Lucas, and Mary Elizabeth Winstead were also considered for the role. Over the successive months, the
+              film's cast expanded to include Stellan Skarsgård, Paul Bettany, and Gwyneth Paltrow. Paltrow was cast at Downey's insistence; prior to
+              this, Whedon had not intended the film to include supporting characters from the heroes individual films, commenting, "You need to
+              separate the characters from their support systems in order to create the isolation you need for a team."
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
