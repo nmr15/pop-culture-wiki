@@ -239,6 +239,24 @@ const TheAvengersFilm = () =>
               following day, Marvel announced that the film's release date had been pushed back to May 4, 2012, almost a full year later. Chris Hemsworth
               and Tom Hiddleston joined the film's cast in June, returning as Thor and Loki, respectively.
             </p>
+            <p>
+              In July 2009, Penn discussed the crossover process, stating, "My job is to kind of shuffle between the different movies and make sure that
+              finally we're mimicking that comic book structure where all of these movies are connected... There's just a board that tracks 'Here's where
+              everything that happens in this movie overlaps with that movie'... I'm pushing them to do as many animatics as possible to animate the
+              movie, to draw boards so that we're all working off the same visual ideas. But the exigencies of production take first priority". Initially,
+              Penn attempted to reduce Thor's role in the script due to doubts about the character's ability to succeed on film. However, he changed his
+              mind once Hemsworth was cast as Thor. Although the film always intended to use Loki as its villain, Penn noted that early discussion had
+              considered using <Link>Red Skull</Link>.
+            </p>
+            <p>
+              In January 2010, Marvel Studios chief Kevin Feige was asked if it would be challenging to belnd the fantasy of Thor with the high-tech
+              science fiction in Iron Man and The Avengers. "No," he said, "because we're doing the Jack Kirby/Stan Lee/Walt Simonson/J. Michael
+              Straczynski Thor. We're not doing the blow-the-dust-off-of-the-old-Norse-book-in-your-library Thor. And in the Thor of the Marvel
+              Universe, there's a race called the Asgardians. And we're linked through the Tree of Life that we're unaware of. It's real science, but we
+              don't know about it yet. The 'Thor' movie is about teaching people that". In March, it was reported that Penn had completed the first
+              draft of the script, and that Marvel editor-in-chief Joe Quesada and Avengers comic book writer <Link>Brian Michael Bendis</Link> had
+              received copies. Also in March, Chris Evans accepted an offer to play Captain America in three films including The Avengers.
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
@@ -280,6 +298,9 @@ const TheAvengersFilm = () =>
           <div>
             
           </div>
+        </div>
+        <div>
+          <TableMcu />
         </div>
       </main>
     </>
