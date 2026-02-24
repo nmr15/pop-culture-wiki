@@ -402,7 +402,11 @@ const Himym = () =>
               job with high pay and focusing instead to follow his dream of becoming an enviromental lawyer to protect the world from pollution. Robin
               learns of Lily's bad credit rating due to her compulsive shopping for designer brands, and forces Lily to tell Marshall. Despite that, they
               are able to finally secure their dream apartment, in Dowistrepla, only to discover it is in a bad location (DOwn Wind of the SEwage
-              TREatment PLAnt) and more poorly constructed than they thought (the floor is tilted and the apartment is haunted by ghosts)
+              TREatment PLAnt) and more poorly constructed than they thought (the floor is tilted and the apartment is haunted by ghosts). Barney is
+              slapped for the third time on Thanksgiving, which Marshall dubs "Slapsgiving."
+            </p>
+            <p>
+              Ted tells his children he met their mother
             </p>
 
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
