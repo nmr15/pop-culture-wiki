@@ -42,8 +42,19 @@ const AnakinSkywalker = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">
+                Jake Lloyd <br />
+                <Link>Hayden Christensen</Link> <br />
+                David Prowse
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data">
+                <Link>Matt Lanter</Link> <br />
+                <Link>James Earl Jones</Link>
+              </td>
             </tr>
           </tbody>
         </table>
