@@ -369,6 +369,7 @@ const Himym = () =>
               that the olive theory works in their relationship, as Marshall always gives Lily his olives. However, it is later said that Marshall only
               pretends not to like them to make Lily happy.
             </p>
+
             <h3 className="article-heading-3" id="5.2">Season 2</h3>
             <p>
               Ted and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring numerous
@@ -392,11 +393,18 @@ const Himym = () =>
               with Barney's excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are "this is going to be
               legen- wait for it...".
             </p>
+
             <h3 className="article-heading-3" id="5.3">Season 3</h3>
             <p>
               Barney begins the season with the word, "-dary!" Robin returns from a trip to Argentina with her new boyfriend <Link>Gael</Link>
-              (Enrique Iglesias), and Ted must adjust to life as just her friend, while watching Robin and Gael fawning over each other.
+              (Enrique Iglesias), and Ted must adjust to life as just her friend, while watching Robin and Gael fawning over each other. Marshall and Lily
+              decide to move out on their own, falling in love with a place they cannot afford. Marshall is fighting his temptation to take a corporate
+              job with high pay and focusing instead to follow his dream of becoming an enviromental lawyer to protect the world from pollution. Robin
+              learns of Lily's bad credit rating due to her compulsive shopping for designer brands, and forces Lily to tell Marshall. Despite that, they
+              are able to finally secure their dream apartment, in Dowistrepla, only to discover it is in a bad location (DOwn Wind of the SEwage
+              TREatment PLAnt) and more poorly constructed than they thought (the floor is tilted and the apartment is haunted by ghosts)
             </p>
+
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
