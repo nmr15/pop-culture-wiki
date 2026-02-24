@@ -6,6 +6,11 @@ import TableMcu from '../../../components/TableMcu'
 
 const TheAvengersFilm = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "The Avengers (film) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -170,7 +175,7 @@ const TheAvengersFilm = () =>
           <div>
             <div className="img-right img-card">
               <img 
-                src="https://en.wikipedia.org/wiki/File:The_Avengers_Cast_2010_Comic-Con_cropped.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Avengers_Cast_2010_Comic-Con_cropped.jpg/1920px-The_Avengers_Cast_2010_Comic-Con_cropped.jpg" 
                 alt="he_Avengers_Cast_2010_Comic-Con"
               />
               <p>The cast of The Avengers alongside Joss Whedon and Kevin Feige at the 2010 San Diego Comic-Con</p>
@@ -309,7 +314,7 @@ const TheAvengersFilm = () =>
             </p>
             <div className="img-left img-card">
               <img 
-                src="https://en.wikipedia.org/wiki/File:Joss_Whedon_looking_right.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Joss_Whedon_looking_right.jpg" 
                 alt="Joss Whedon" 
               />
               <p>
@@ -425,7 +430,7 @@ const TheAvengersFilm = () =>
             </p>
             <div className="img-left img-card">
               <img 
-                src="https://en.wikipedia.org/wiki/File:The_Avengers_Hulk_motion_capture.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/en/7/7f/The_Avengers_Hulk_motion_capture.jpg?20120607144757" 
                 alt="The Avengers Hulk motion capture" 
               />
               <p>
