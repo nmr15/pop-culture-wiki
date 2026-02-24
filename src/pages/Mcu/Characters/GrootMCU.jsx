@@ -34,21 +34,44 @@ const GrootMCU = () =>
               ]},
               {id: "1.3", title: "Adventures in space", sub2: [
                 {id: "1.3.1", title: "Visiting Grundar"},
-                {id: "1.3.2", title: ""},
-                {id: "1.3.3", title: ""},
-                {id: "1.3.4", title: ""},
-                {id: "1.3.5", title: ""},
-                {id: "1.3.6", title: ""},
-                {id: "1.3.7", title: ""},
-                {id: "1.3.8", title: ""},
-                {id: "1.3.9", title: ""},
-                {id: "1.3.10", title: ""}
+                {id: "1.3.2", title: "Protecting his home"},
+                {id: "1.3.3", title: "Taking a bath"},
+                {id: "1.3.4", title: "Making a family portrait"},
+                {id: "1.3.5", title: "Finding a Terma bird"},
+                {id: "1.3.6", title: "A new nose for a new battery"},
+                {id: "1.3.7", title: "Snow day"},
+                {id: "1.3.8", title: "Screaming for ice cream"},
+                {id: "1.3.9", title: "The great prophecy"},
+                {id: "1.3.10", title: "Cleaning his room"}
               ]},
-              {id: "1.4", title: ""},
-              {id: "1.5", title: ""},
-              {id: "1.6", title: ""},
-              {id: "1.7", title: ""},
-              {id: "1.8", title: ""}
+              {id: "1.4", title: "Infinity War", sub2: [
+                {id: "1.4.1", title: "Distress call"},
+                {id: "1.4.2", title: "Forging Stormbreaker"},
+                {id: "1.4.3", title: "Battle of Wakanda"},
+                {id: "1.4.4", title: "Thanos' Victory"},
+                {id: "1.4.5", title: "Battle of Earth"}
+              ]},
+              {id: "1.5", title: "Return to space", sub2: [
+                {id: "1.5.1", title: "Guardians reassembled"},
+                {id: "1.5.2", title: "Adventures in the galaxy"},
+                {id: "1.5.3", title: "Battle of Indigarr"},
+                {id: "1.5.4", title: "Answering distress calls"}
+              ]},
+              {id: "1.6", title: "Operating from Knowhere", sub2: [
+                {id: "1.6.1", title: "Buying Knowhere"},
+                {id: "1.6.2", title: "Celebrating Christmas"},
+                {id: "1.6.3", title: "Attack on Rocket"}
+              ]},
+              {id: "1.7", title: "Saving Rocket", sub2: [
+                {id: "1.7.1", title: "Infiltrating Orgoscope"},
+                {id: "1.7.2", title: "Visiting Counter-Earth"},
+                {id: "1.7.3", title: "Battle of Counter-Earth"},
+                {id: "1.7.4", title: "Attack on Arête Laboratories"},
+                {id: "1.7.5", title: "Disbandment"}
+              ]},
+              {id: "1.8", title: "New Guardians of the Galaxy", sub2: [
+                {id: "1.8.1", title: "Battle of Krylor"}
+              ]}
             ]}
           />
           <Collapse 
