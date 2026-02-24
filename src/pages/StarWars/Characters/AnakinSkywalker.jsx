@@ -16,6 +16,17 @@ const AnakinSkywalker = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <Collapse 
+            id="2"
+            item="Personality and traits"
+            sub={[
+              {id: "2.1", title: "Jedi of the Republic"},
+              {id: "2.2", title: "Dark Lord of the Sith"},
+              {id: "2.3", title: "Redemption of Anakin Skywalker"},
+              {id: "2.4", title: "Relationship with Padmé Amidala"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
