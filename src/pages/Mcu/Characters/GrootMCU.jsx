@@ -33,7 +33,7 @@ const GrootMCU = () =>
                 {id: "1.2.3", title: "Yondu Udonta's funeral"}
               ]},
               {id: "1.3", title: "Adventures in space", sub2: [
-                {id: "1.3.1", title: ""},
+                {id: "1.3.1", title: "Visiting Grundar"},
                 {id: "1.3.2", title: ""},
                 {id: "1.3.3", title: ""},
                 {id: "1.3.4", title: ""},
