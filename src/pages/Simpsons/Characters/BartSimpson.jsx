@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const BartSimpson = () =>
 {
@@ -34,7 +36,7 @@ const BartSimpson = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="" alt="Bart Simpson" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png" alt="Bart Simpson" />
                 </span>
               </td>
             </tr>
