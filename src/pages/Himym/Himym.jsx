@@ -421,6 +421,19 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
+            <p>
+              Stella says yes to Ted's proposal. Robin takes a new job in Japan, but quickly resigns and returns to New York to attend Ted's wedding,
+              after realizing how much she misses her friends. Stella leaves Ted at the altar to get back together with Tony (Jason Jones), the father
+              of her daughter. Barney struggles with his feelings for Robin as his company shifts him to the management team of a new acquisition,
+              Goliath National Bank (GNB), where Marshall has accepted a position as a lawyer.
+            </p>
+            <p>
+              Marhsall and Lily moved to their new apartment and debate over whether or not they are ready to have kids. Robin is threatened to be
+              deported for not having a job in her field, which opens an opportunity for Barney to spend time with Robin. Robin gets a job as an anchor
+              for a 4 AM news show after Barney submits her video resume, and becomes roomates with Ted. Ted and Robin decide to sleep together
+              constantly so they will not fight ove each other's bad co-living habits. Barney attempts to make them stop fighting to prevent this,
+              revealing to Ted his love for Robin.
+            </p>
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
