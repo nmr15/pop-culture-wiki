@@ -515,6 +515,19 @@ const Himym = () =>
               (Nazanin Boniadi), a co-worker of Robin, for whom he develops feelings. After an initial falling out, the two reconcile at the end of the
               season after Barney asks her for coffee.
             </p>
+            <p>
+              Robin continues to work at her talk show, Come On, Get Up, New York!, but the presence of a new hyperactive co-host forces her to leave.
+              She is accepted as a researcher in another network, World Wide News. The gang also discover more of her past as the Canadian pop star
+              Robin Sparkles. Robin also encounters a man (Michael Trucco) she has had a secret scrush on since first seeing him when she and Ted were
+              dating, and Future Ted hints that they will see more of him later.
+            </p>
+            <p>
+              In the season finale, Ted makes the decision that he wants to get back with Zoey. Robin and Barney try to stop them from getting back
+              together. Marshall's interview goes wrong as food poisoning hits him during the meeting; Lily's similar sickness was thought to be food
+              poisoning as well, but is revealed to be morning sickness, as she has become pregnant. Barney and Robin get closure by helping Ted not get
+              back together with Zoey. Short scenes during the season premiere and finale feature a wedding set sometime in the future, where Ted will
+              meet his future wife. In the final scene of the season, the groom is revealed to be Barney.
+            </p>
 
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
 
