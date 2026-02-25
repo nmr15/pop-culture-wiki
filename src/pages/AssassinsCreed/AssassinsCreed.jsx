@@ -40,7 +40,22 @@ const AssassinsCreed = () =>
             id="4"
             item="Release history"
             sub={[
-              {id: "4.1", title: "Main series"},
+              {id: "4.1", title: "Main series", sub2: [
+                {id: "4.1.1", title: "Assassin's Creed"},
+                {id: "4.1.2", title: "Assassin's Creed II"},
+                {id: "4.1.3", title: "Assassin's Creed: Brotherhood"},
+                {id: "4.1.4", title: "Assassin's Creed Revelations"},
+                {id: "4.1.5", title: "Assassin's Creed III"},
+                {id: "4.1.6", title: "Assassin's Creed IV: Black Flag"},
+                {id: "4.1.7", title: "Assassin's Creed Rogue"},
+                {id: "4.1.8", title: "Assassin's Creed Unity"},
+                {id: "4.1.9", title: "Assassin's Creed Syndicate"},
+                {id: "4.1.10", title: "Assassin's Creed Origins"},
+                {id: "4.1.11", title: "Assassin's Creed Odyssey"},
+                {id: "4.1.12", title: "Assassin's Creed Valhalla"},
+                {id: "4.1.13", title: "Assassin's Creed Mirage"},
+                {id: "4.1.14", title: "Assassin's Creed Shadows"}
+              ]},
               {id: "4.2", title: "Spin-offs", sub2: [
                 {id: "4.2.1", title: "Assassin's Creed III: Liberation"},
                 {id: "4.2.2", title: "Assassin's Creed: Freedom Cry"},
@@ -371,6 +386,7 @@ const AssassinsCreed = () =>
               capabilities they experienced with their ancestor, but also affects their mental well-being, as the user begins to confuse their
               ancestor's memories with their own.
             </p>
+
             <h3 className="article-heading-3" id="2.2">Story arcs</h3>
             <p>
               The first five main games in the series focus on Desmond Miles, a bartender and former Assassin who learns he is a descendant of several
@@ -442,6 +458,7 @@ const AssassinsCreed = () =>
                 </div>
               ))}
             </div>
+
             <h4 className="article-heading-4" id="4.1.1"><Link to="/assassinscreed/assassins_creed_game">Assassin's Creed</Link></h4>
             <div className="img-right img-card">
               <img 
@@ -470,6 +487,7 @@ const AssassinsCreed = () =>
               design was seen as linear and repetitive because payers had to complete several side quests before each assassination. The side quest
               prerequisite was one of the most criticized aspects of the game, so it was abandoned in future games.
             </p>
+
             <h4 className="article-heading-4" id="4.1.2"><Link to="/assassinscreed/assassins_creed_ii">Assassin's Creed II</Link></h4>
             <div className="img-right img-card">
               <img 
@@ -500,6 +518,7 @@ const AssassinsCreed = () =>
               several functions that can be expanded on by paying for upgrades of surrounding buildings, or by purchasing artwork, weapons, and armor for
               the villa; in turn, the villa will generate wealth for the player at a rate influenced by the upgrades and acquisition of these items.
             </p>
+
             <h4 className="article-heading-4" id="4.1.3"><Link to="/assassinscreed/assassins_creed_brotherhood">Assassin's Creed: Brotherhood</Link></h4>
             <div className="img-right img-card">
               <img 
@@ -527,6 +546,9 @@ const AssassinsCreed = () =>
               role of Abstergo employees who, through the use of the Animus, relive the genetic memories of Renaissance Templars in various game modes.
               It was the last game to feature Assassin's Creed creator Patrice Désilets, as the creative director of the series.
             </p>
+
+            <h4 className="article-heading-4" id="4.1.4"><Link to="/assassinscreed/assassins_creed_revelations">Assassin's Creed Revelations</Link></h4>
+
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <div className="img-right img-card">
