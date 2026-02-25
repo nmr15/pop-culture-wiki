@@ -488,8 +488,40 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
+            <p>
+              In the season opening, Ted sees Cindy again with a girl who he thinks to be her roomate, but she turns out to be Cindy's girlfriend whom
+              she later marries. After prodding by Barney, Ted is eventually hired by GNB once more as the architect of the bank's new headquarters,
+              which was originally scrapped in Season 4. However, he encounters opposition when he meets Zoey Pierson (Jennifer Morrison), a woman who
+              is protesting against GNB for selecting a decrepit hotel, the Arcadian, to be torn down for the headquarters. Over the season, Ted's
+              encounters with Zoey eventually blossom into a relationship after she divorces her rich husband, the Captain
+              (<Link>Kyle MacLachlan</Link>). However, when their relationship is challenged and turbulent, they break up, leading to Ted supporting
+              the Arcadian's demolition.
+            </p>
+            <p>
+              Having agreed to conceive a baby at the end of the previous season, Lily and Marshall keep having sex, hoping she will get pregnant.
+              Around Christmas, they have a false alarm and later seek fertility testing. The fertility specialist, Dr. Strangel, turns out to be
+              Barney's doppelganer, fulfilling their promise with the univese in regard to their deision to have a child. However, tragedy striks
+              when Marshall's father passes away, leaving him devastated and the gang comforting him. Marshall tries to get over his father's death and
+              live again. Despite a pledge to Lily to work harder for their future, Marshall resigns from GNB and follows his dream of being an
+              environmental lawyer. Zoey also hires him as her lawyer in what became a futile battle to save the Arcadian.
+            </p>
+            <p>
+              Barney finally admits to the gang that Bob Barker is not his real father, especially when his mother decides to sell the house he grew up
+              in and his brother, James, meets his own fther. Loretta offers the identity of Barney's father on a sheet of paper, but Barney tears this
+              up after realizing her efforts as a single mother. At the funeral of Marshall's father, Barney tells Loretta that he wants to see his
+              father at last. The man, Jerry Whittaker (<Link>John Lithgow</Link>), is eventually revealed to be someone whom Barney thought was his
+              uncle. Barney, who remembers Jerry as a fun-loving man, is disappointed after learning how Jerry has grown out of his free-wheeling ways.
+              Although he tries to bring back Jerry's old behaviors, Barney admits that he wants to settle down someday. He is also introduced to Nora
+              (Nazanin Boniadi), a co-worker of Robin, for whom he develops feelings. After an initial falling out, the two reconcile at the end of the
+              season after Barney asks her for coffee.
+            </p>
+
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
+
+
             <h3 className="article-heading-3" id="5.8">Season 8</h3>
+
+
             <h3 className="article-heading-3" id="5.9">Season 9</h3>
           </div>
         </div>
