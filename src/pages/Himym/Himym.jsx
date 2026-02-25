@@ -447,8 +447,26 @@ const Himym = () =>
               Ted, while carrying the yellow ubrella, bumps into Stella and Tony. Tony later decides to visit him, sympathizing with Ted over his loss
               of Stella. Tony offers Ted a job as a professor of architecture at Columbia University, which Ted initially turns down.
             </p>
+            <p>
+              In the season finale Robin finds out that Barney loves her, and initially refuses to commit to anything but a sex-only relationship; they
+              seemingly end up together anyway. Ted decides that being an architect is leading nowhere, and finally decides instead to become a college
+              professor. The finale ends with Ted preparing to teach his first class and Future Ted revealing to his children that one of the women in
+              the class is their mother.
+            </p>
 
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
+            <p>
+              Ted begins his job as a professor of architectue, standing in the middle of a classroom, although the mother was present, it turns out to be
+              an economics class as he's in the wrong lecture hall. Barney and Robin have had a sexual relationship throuhout the summer and Lily locks
+              them in a room, forcing them to come to terms with their relationship. After a rough patch they decide to break up. Robin describes it
+              instead as "two friends getting back together." Barney immediately goes back to his old ways, using <Link>the playbook</Link> to score
+              with women. Throughout the season Barney and Robin show feelings of regret over their break-up.
+            </p>
+            <p>
+              Ted dates a graduate student named Cindy (Rachel Bilson) and it is revealed her roomate is his future wife. Robin meets Don Frank (Benjamin
+              Koldyke), her new co-anchor on her 4 AM TV show. Though she initially dislikes him ()
+            </p>
+
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
             <h3 className="article-heading-3" id="5.8">Season 8</h3>
