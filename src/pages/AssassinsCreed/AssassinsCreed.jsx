@@ -548,6 +548,33 @@ const AssassinsCreed = () =>
             </p>
 
             <h4 className="article-heading-4" id="4.1.4"><Link to="/assassinscreed/assassins_creed_revelations">Assassin's Creed Revelations</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/d/d9/Assassins_Creed_Revelations_Cover.jpg" 
+                alt="Assassin's Creed Revelations logo" 
+              />
+              <p>Assassin's Creed Revelations logo</p>
+            </div>
+            <p>
+              Assassin's Creed Revelations is the final installment in the Ezio Trilogy and was released in November 2011 for the PlayStation 3, Xbox 360,
+              and Windows. Following the events of Brotherhood, where he was forced by Juno to kill Lucy (who, unbeknownst to him, was a Templar double
+              agent), Desmond has fallen into a coma and was put back into the Animus to save his mind. Within the computerzied core of the Animus,
+              Desmond meets the preserved consciousness of Abstergo's previous test subject, <Link>Clay Kaczmarek</Link>, who explains that Desmond's
+              mind must achieve full synchronization with Altaïr and Ezio, or else he will fall into dementia. Desmond continues exploring the memories
+              of Ezio, who, a few years after the events of Brotherhood, travels to Constantiople to find five keys needed to open a library built by
+              Altaïr, which is said to contain the power to end the Assassin-Templar conflict. In Constantinople, Ezio becomes caught in a war of
+              succession between Sultan Bayezid II's sons, Selim and Ahmet, and must confont a conspiracy masterminded by the Byzantine Templars, who are
+              taking advantage of the chaos to try and reclaim the city. 
+            </p>
+            <p>
+              Originally, Revelations was announced as Assassin's Creed: Lost Legacy, and conceptualized as a Nintendo 3DS title focusing on Ezio
+              traveling to Masyaf to explore Altaïr's legacy and uncover the origins of the Assassin Brotherhood. Lost Legacy was later announced as
+              cancelled on July 15, 2011, after Ubisoft decided to expand the idea furher, cancel the 3DS development, and shift all development duties
+              towards PlayStation 3, Xbox 360, and PC to release the game as a full-fledged main installment. The original premise remained and evolved
+              into the plot seen in the final game. Included were many new systems and additional weaons such as bomb-crafting and an expanded
+              Assassin recruitment system. The multiplayer mode returns in Revelations, with more characters, modes, and maps; players once again assume
+              the role of Templars in training and, as they level up and rise in the ranks, they are told more about Abstergo's history.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
