@@ -13,7 +13,48 @@ const AssassinsCreedBrotherhood = () =>
   return(
     <>
       <aside className="sidebar">
-        <ul className="sidebar-list"></ul>
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Gameplay"
+            sub={[
+              {id: "1.1", title: "Multiplayer", sub2: [
+                {id: "1.1.1", title: "Game modes"},
+                {id: "1.1.2", title: "Characters"}
+              ]}
+            ]}
+          />
+          <Collapse 
+            id="2"
+            item="Plot"
+            sub={[
+              {id: "2.1", title: "The Da Vinci Disappearance"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#3">Development</a></li>
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <li className="sidebar-list-item"><a href="#5">Retail editions</a></li>
+          <Collapse 
+            id="6"
+            item="Downloadable content"
+            sub={[
+              {id: "6.1", title: "Uplay content"},
+              {id: "6.2", title: "Copernicus Conspiracy"},
+              {id: "6.3", title: "Animus Project Update 1.0"},
+              {id: "6.4", title: "Animus Project Update 2.0"},
+              {id: "6.5", title: "The Da Vinci Disappearance"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Sales"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Sequel</a></li>
+        </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
