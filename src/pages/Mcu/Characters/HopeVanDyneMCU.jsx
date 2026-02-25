@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const HopeVanDyneMCU = () =>
 {
@@ -18,6 +20,7 @@ const HopeVanDyneMCU = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>Hope Van Dyne (MCU)</li>
         </ul>
         <div>
@@ -38,9 +41,18 @@ const HopeVanDyneMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
-            </tr>
+                          <th className="infobox-data">Portrayed by</th>
+                          <td className="infobox-data"><Link>Evangeline Lilly</Link></td>
+                        </tr>
+                        <tr>
+                          <th className="infobox-data">Appearances</th>
+                          <td className="infobox-data">
+                            <Link to="/mcu/antman_film">Ant-Man</Link> <br />
+                            <Link to="/mcu/antman_and_the_wasp">Ant-Man and the Wasp</Link> <br />
+                            <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                            <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link>
+                          </td>
+                        </tr>
           </tbody>
         </table>
         <div className="div-top">
