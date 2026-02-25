@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { assassinscreed } from '../../data/dataAssassinsCreed'
 import Card from '../../components/Card'
@@ -7,6 +8,11 @@ import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
 const AssassinsCreed = () => 
 {
+  useEffect(() =>
+  {
+    document.title = "Assassin's (franchise) - Pop Culture Wiki";
+  }, []);
+
   return (
     <>
       <aside className="sidebar">
