@@ -464,7 +464,27 @@ const Himym = () =>
             </p>
             <p>
               Ted dates a graduate student named Cindy (Rachel Bilson) and it is revealed her roomate is his future wife. Robin meets Don Frank (Benjamin
-              Koldyke), her new co-anchor on her 4 AM TV show. Though she initially dislikes him ()
+              Koldyke), her new co-anchor on her 4 AM TV show. Though she initially dislikes him (as seen in the rabbit or duck episode), the two start
+              dating and eventually she moves in with him. At the end of the season they break up when Don takes a job in Chicago, a job which Robin had
+              previously turned down to stay in New York with Don. Robin moves back into Ted's apartment. Lily's father, Mickey (Chris Elliott), who was
+              absent during her childhood, makes an appearance at Thanksgiving. Mickey and Lily are able to mend their relationship at the end of the
+              meal, where Marshall uses his fourth slap on Barney. Ted disovers that Tony who stole Stella away from Ted at the altar, wrote a movie on
+              Ted and Stella's relationship. The movie, "The Wedding Bride," portrays Tony as the hero and Ted as the villain. The movie becomes popular
+              and Ted unexpectedly sees it while on a date with another girl. He is infuriated by how he is portrayed in the movie, and views the
+              actual story as the complete opposite. Ted buys a house, which needs to be fixed up badly, but is later revealed to be the future home for
+              him and his children.
+            </p>
+            <p>
+              Lily and Marshall are still unsure about having children. After watching four doppelgangers of their group (Lesbian Robin, Moustache
+              Marshall, Stripper Lily, and Mexican Wrestler Ted) they decide to leave the big decision to the universe's "infinite wisdom" and start
+              trying when they have seen Barney's doppelganer.
+            </p>
+            <p>
+              In the season finale, Barney disguises himself to have sex with a girl from every country in the world, and Lily and Marshall mistake him
+              for the final doppelganger. When Marshall finds out, he decides not to tell Lily, fearing she will want to wait even longer to have
+              children. Lily eventually finds out and decides to wait. Lily thinks she sees Barney's doppelganger as a hot dog vendor, which causes the
+              group to realize she is seeing what she wants to see, and play along. Eventually Barney agress having babies is not a stupid idea and Lily
+              and Marshall should go forth. The season ends with Lily asking Marshall to "put a baby in my belly".
             </p>
 
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
