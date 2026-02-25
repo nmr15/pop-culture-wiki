@@ -118,6 +118,20 @@ const AssassinsCreedBrotherhood = () =>
             fight against the Templars (led by the powerful Borgia family) to <Link>Rome</Link>, where he attempts to rebuild the Assassin Brotherhood in
             <Link>Italy</Link> and liberate the city from the Borgias' control.
           </p>
+          <p>
+            Brotherhood features an open world and is playaed from the third-person perspective, with a primary focus on using Desmond's and Ezio's
+            combat, climbing, and stealth abilities to eliminate targets and explore the environment. As Ezio, players can freely explore Rome to
+            advance the narrative, or complete a variety of side missions unrelated to the main storyline. The game intoduces a multiplayer component to
+            the series, in which players assume the role of Templars in training. A number of downloadable content (DLC) packs were released to support
+            Brotherhood, including The Da Vinci Disappearance, a story expansion set during the events of the single-player campaign.
+          </p>
+          <p>
+            Like its predecessor, Brotherhood has been cited as one of the greatest video games ever made. It received critical acclaim, with praise
+            directed at its setting, new content, gameplay improvements over its predecessor and the new multiplayer mode. The narrative was also
+            positively received, although it was generally seen as inferior to that of Assassin's Creed II. The game won multiple awards including a
+            BAFTA award for Best Action Game. It was also commercially successful, shipping 7.2 million units by May 2011. The final insallment in the
+            Ezio Trilogy, Assassin's Creed: Revelations, was released in November 2011.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Gameplay"} />
