@@ -434,6 +434,20 @@ const Himym = () =>
               constantly so they will not fight ove each other's bad co-living habits. Barney attempts to make them stop fighting to prevent this,
               revealing to Ted his love for Robin.
             </p>
+            <p>
+              Ted finds out Lily has sabotaged all of his relationships with anyone she does not approve of and indirectly may have inspired his
+              breakup with Robin. Robin and Ted end up talking about it, causing their friendship to begin moving toward a positive note. After Barney
+              finally sleeps with his 200th woman (and rubs it in the face of the childhood bully who taunted him into pursuing it), he begins to
+              question the purpose of the remainder of his life, leaving him more certain of his feelings for Robin. Barney secures Ted a job to
+              design the new Goliath National Bank headquarters. When the company later suspends the project, Marshall and Barney try to hide this fact
+              from Ted. Ted starts his own architectural design company, Mosbius Designs, after getting laid off; however, he is too afraid of failing
+              and refuses to call clients.
+            </p>
+            <p>
+              Ted, while carrying the yellow ubrella, bumps into Stella and Tony. Tony later decides to visit him, sympathizing with Ted over his loss
+              of Stella. Tony offers Ted a job as a professor of architecture at Columbia University, which Ted initially turns down.
+            </p>
+
             <h3 className="article-heading-3" id="5.5">Season 5</h3>
             <h3 className="article-heading-3" id="5.6">Season 6</h3>
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
