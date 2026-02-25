@@ -576,6 +576,96 @@ const AssassinsCreed = () =>
               the role of Templars in training and, as they level up and rise in the ranks, they are told more about Abstergo's history.
             </p>
 
+            <h4 className="article-heading-4" id="4.1.5"><Link to="/assassinscreed/assassins_creed_iii">Assassin's Creed III</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/2/29/Assassin%27s_Creed_III_Game_Cover.jpg" 
+                alt="Assassin's Creed III logo" 
+              />
+              <p>Assassin's Creed III logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.6"><Link to="/assassinscreed/assassins_creed_iv_black_flag">Assassin's Creed IV: Black Flag</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg" 
+                alt="Assassin's Creed IV: Black Flag logo" 
+              />
+              <p>Assassin's Creed IV: Black Flag logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.7"><Link to="/assassinscreed/assassins_creed_rogue">Assassin's Creed Rogue</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/a/ae/Assassin%27s_Creed_Rogue.jpg" 
+                alt="Assassin's Creed Rogue logo" 
+              />
+              <p>Assassin's Creed Rogue logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.8"><Link to="/assassinscreed/assassins_creed_unity">Assassin's Creed Unity</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/4/41/Assassin%27s_Creed_Unity_cover.jpg" 
+                alt="Assassin's Creed Unity logo" 
+              />
+              <p>Assassin's Creed Unity logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.9"><Link to="/assassinscreed/assassins_creed_syndicate">Assassin's Creed Syndicate</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/f/f2/Assassin%27s_Creed_Syndicate_cover.jpg" 
+                alt="Assassin's Creed Syndicate logo" 
+              />
+              <p>Assassin's Creed Syndicate logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.10"><Link to="/assassinscreed/assassins_creed_origins">Assassin's Creed Origins</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/4/4a/Assassin%27s_Creed_Origins_Cover_Art.png" 
+                alt="Assassin's Creed Origins logo" 
+              />
+              <p>Assassin's Creed Origins logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.11"><Link to="/assassinscreed/assassins_creed_odyssey">Assassin's Creed Odyssey</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/9/99/ACOdysseyCoverArt.png" 
+                alt="Assassin's Creed Odyssey logo" 
+              />
+              <p>Assassin's Creed Odyssey logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.12"><Link to="/assassinscreed/assassins_creed_valhalla">Assassin's Creed Valhalla</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/f/ff/Assassin%27s_Creed_Valhalla_cover.jpg" 
+                alt="Assassin's Creed Valhalla logo" 
+              />
+              <p>Assassin's Creed Valhalla logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.13"><Link to="/assassinscreed/assassins_creed_mirage">Assassin's Creed Mirage</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/2/23/Assassin%27s_Creed_Mirage_cover.jpeg" 
+                alt="Assassin's Creed Mirage logo" 
+              />
+              <p>Assassin's Creed Mirage logo</p>
+            </div>
+
+            <h4 className="article-heading-4" id="4.1.14"><Link to="/assassinscreed/assassins_creed_shadows">Assassin's Creed Shadows</Link></h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/5/54/Assassin%27s_Creed_Shadows_cover.png" 
+                alt="Assassin's Creed Shadows logo" 
+              />
+              <p>Assassin's Creed Shadows logo</p>
+            </div>
+
             <h3 className="article-heading-3" id="4.2">Spin-offs</h3>
             <h4 className="article-heading-4" id="4.2.1">Assassin's Creed III: Liberation</h4>
             <div className="img-right img-card">
