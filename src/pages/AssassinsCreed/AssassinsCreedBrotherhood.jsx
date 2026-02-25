@@ -136,6 +136,25 @@ const AssassinsCreedBrotherhood = () =>
         <div>
           <Heading2 id={1} title={"Gameplay"} />
           <div>
+            <p>
+              Assassin's Creed: Brotherhood is an action-adventure, stealth game set in an open world environment and played from a third-person
+              perspective. The game features both single-player and multiplayer modes, a first for the series. For most of the single-olayer campaign,
+              which is estimated to provide 15+ hours of gameplay, the player controls returning protagonist Ezio Auditore da Firenze from Assassin's
+              Creed II; at predetermined points in the narrative, the player takes control of Desmond Miles, who is reliving Ezio's memroies through the
+              Animus in the modern-day. For the first time in the series, Desmond can leave the Animus at almost any given time to explore
+              <Link>Monteriggioni</Link>, where the Assassins have set up base, and find hidden secrets. Desmond can also access virtual training
+              missions via the Animus, which test the player's skills in combat and free-running.
+            </p>
+            <p>
+              The series' combat system has been modified in Brotherhood. Striking first and offensive actions are more deadly than in previous games
+              where counter-attacks were the most efficient. Before, this made the player wait until their AI opponents struck, which slowed down the
+              pace of fighting. The AI in this game is thus more aggressive and enemies can attack simultaneously. To dispatch them, Ezio can use melee
+              and ranged weapons at the same time, including his hidden pistol, which could previously not be used in combat. After killing one enemy
+              the player can start an execution streak to dispatch multiple enemies quickly. Ezio can also throw heavy weapons (axes, spears, and swords)
+              at his enemies. The variety of enemies also saw an increase with the introduction of new archetypes such as horsemen, arquebusiers, and
+              papal guards.
+            </p>
+
             <h3 className="article-heading-3" id="1.1">Multiplayer</h3>
             <h4 className="article-heading-4" id="1.1.1">Game modes</h4>
 
