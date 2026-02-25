@@ -154,6 +154,34 @@ const AssassinsCreedBrotherhood = () =>
               at his enemies. The variety of enemies also saw an increase with the introduction of new archetypes such as horsemen, arquebusiers, and
               papal guards.
             </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/2/2f/Assassinscreedbrotherhood_BAM.jpg" 
+                alt="Assassin's Creed: Brotherhood BAM system" 
+              />
+              <p>
+                Ezio using the BAM system (Brotherhood Assist Move). The ability to recruit NPCs to the Assassin Brotherhood and summon them during
+                fights is one of the new features added in Brotherhood.
+              </p>
+            </div>
+            <p>
+              The game introduces the titular Brotherhood system, which allos the player, as Ezio, to recruit new Assassin initiates after destroying
+              any of the twelve "Borgia towers" around Rome where Papal troops are stationed, and then rescuing disgruntled citizens from being
+              harassed by city guards. The player can send these Assassin recruits on assignments around Europe or call them for support during
+              missions (if they are not already occupied). Tasking the novice Assassins make them gain experience, and the player can customize their
+              appearance, skills, and weapon training to some degree by spending the skill points they have earned. Assassins can die on missions, from
+              which they will not return. 
+            </p>
+            <p>
+              In Brotherood, Ezio gets to master several new gadgets, including <Link>Leonardo da Vinci</Link>'s parachute, which can be used when
+              jumping from tall buildings, as well as poison darts, a faster acting poison, and a <Link>crossbow</Link>. A series of side missions
+              given by Leonardo allow the player to briefly use his war machines, such as a cannon-equipped Great Kite and a prototype tank, which he was
+              forced to design for the Templars; Ezio must destroy these machines and their designs before more can be created. Other side missions
+              include assassinating Templar agents in Rome, completing challenges for the three ally factions in the game (<Link>Courtesans</Link>,
+              <Link>Thieves</Link>, and <Link>Mercenaries</Link>), and exploring underground locations to find the keys of the treasure of the
+              Followers of Romulus, a secret cult who worship <Link>Romulus</Link>, the legendary founder of Rome. After reaching certain levvels of
+              synchronization, the player can also relive several repressed memories of Ezio's past lover, <Link>Cristina Vespucci</Link>.
+            </p>
 
             <h3 className="article-heading-3" id="1.1">Multiplayer</h3>
             <h4 className="article-heading-4" id="1.1.1">Game modes</h4>
