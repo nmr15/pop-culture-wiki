@@ -184,7 +184,6 @@ const AssassinsCreed = () =>
         </div>
         <div>
           <Heading2 id={1} title={"Development history"} />
-          <h2 className="article-heading-2" id="1">Development history</h2>
           <div>
             <p>
               While the games in the series have had several narrative arcs, Ubisoft views the series as currently having three periods of development
@@ -345,7 +344,7 @@ const AssassinsCreed = () =>
         <div>
           <Heading2 id={3} title={"Storyline"} />
           <div>
-            <h3 className="article-heading-3" id="2.1">Premise</h3>
+            <h3 className="article-heading-3" id="3.1">Premise</h3>
             <div className="img-right img-card">
               <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Abstergo_2.png" 
@@ -387,7 +386,7 @@ const AssassinsCreed = () =>
               ancestor's memories with their own.
             </p>
 
-            <h3 className="article-heading-3" id="2.2">Story arcs</h3>
+            <h3 className="article-heading-3" id="3.2">Story arcs</h3>
             <p>
               The first five main games in the series focus on Desmond Miles, a bartender and former Assassin who learns he is a descendant of several
               important Assassins throughout history, including <Link>Altaïr Ibn-LaʼAhad</Link> from the Middle East during the Third Crusade; Ezio
