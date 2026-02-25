@@ -406,7 +406,18 @@ const Himym = () =>
               slapped for the third time on Thanksgiving, which Marshall dubs "Slapsgiving."
             </p>
             <p>
-              Ted tells his children he met their mother
+              Ted tells his children he met their mother through a story concerning her yellow umbrella. He finds the umbrella at a club and takes it
+              home after attending a St. Patrick's Day party where his future wife was, although they did not meet. Ted attempts to woo Stella
+              (<Link>Sarah Chalke</Link>), a dermatologist he sees to remove an embrassing butterfly tattoo (his tramp-stamp). This culminates in a
+              "two-minute date", which incorporates small talk, dinner, a movie (Manos, Hands of Fate), coffee, two cab rides, and a goodnight kiss.
+              Robin sleeps with Barney after he comforts her following a break-up with a past Canadian love; Ted is infuriated, and decides to stop
+              being friends with Barney. Meanwhile, an unknown woman begins to sabotage Barney's attempts to hook up. His sabeoteur is revealed to be
+              Abby (Britney Spears), Stella's receptionist, with a vendetta against him for not calling her after they had sex.
+            </p>
+            <p>
+              In the season finale, Ted gets into a car accident and ends up in a hospital after breaking up with Stella. Subsequently, Barney is hit
+              by a bus while he is on his way to visit Ted and receives treatment in the same hospital. Ted realizes Barney cares about him and they
+              renew their friendship. Barney's true feelings for Robin are revealed while Ted proposes to Stella in an arcade with a toy kangaroo.
             </p>
 
             <h3 className="article-heading-3" id="5.4">Season 4</h3>
