@@ -97,6 +97,57 @@ const AssassinsCreedBrotherhood = () =>
             </tr>
           </tbody>
         </table>
+        <div className="div-top">
+
+        </div>
+        <div>
+          <Heading2 id={1} title={"Gameplay"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Plot"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Development"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Retail editions"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Downloadable content"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Sequel"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
