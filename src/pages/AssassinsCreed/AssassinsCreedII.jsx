@@ -68,7 +68,7 @@ const AssassinsCreedII = () =>
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Assassin's Creed</span>
+                <span>Assassin's Creed II</span>
               </th>
             </tr>
             <tr>
