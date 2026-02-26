@@ -182,6 +182,18 @@ const AssassinsCreedBrotherhood = () =>
               Followers of Romulus, a secret cult who worship <Link>Romulus</Link>, the legendary founder of Rome. After reaching certain levvels of
               synchronization, the player can also relive several repressed memories of Ezio's past lover, <Link>Cristina Vespucci</Link>.
             </p>
+            <p>
+              The primary setting of the game is Rome, which has fallen into ruin due to the corrupt rule of the Borgia papacy and the Templars, who
+              have concentrated all the wealth in the <Link>Vatican</Link>. Similarly to Monteriggioni in Assassin's Creed II, the player can invest in
+              the city, witness its development, and unlock rewards. To renovate a particular area of Rome, the player must first liberate it from
+              Templar influence by destroying the nearest Borgia tower. Doing so unlocks new missions and opportunities. Rome is larger than any of the
+              cities seen in Assassin's Creed II (being roughly three times bigger then <Link>Florence</Link>) and is divided into five districts: the
+              Vatican (Vaticano), <Link>Central</Link> (Centro), <Link>Trans-Tiber</Link> (Trastevere), <Link>Country</Link> (Campagna) and
+              <Link> Antique</Link> (Antico) districts. Unlike previous installments, travel between different cities or regions is no longer present,
+              as most of the action takes place around Rome. Instead, a series of tunnel networks throughout the city allows the player to travel to the
+              different districts. However, certain missions take the player to various locations outside of Rome, including the harbor of Naples;
+              the Alban Hills (Colli Albani); and part of Navarre, Spain, among others.
+            </p>
 
             <h3 className="article-heading-3" id="1.1">Multiplayer</h3>
             <h4 className="article-heading-4" id="1.1.1">Game modes</h4>
