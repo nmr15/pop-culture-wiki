@@ -111,6 +111,7 @@ export const beatlesSongs = [
     "id": "btlsSong1",
     "title": "I Saw Her Standing There",
     "file": "ISawHerStandingThere",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/i_saw_her_standing_there"
   },
@@ -118,6 +119,7 @@ export const beatlesSongs = [
     "id": "btlsSong2",
     "title": "Misery",
     "file": "MiseryBeatles",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/misery"
   },
@@ -125,6 +127,7 @@ export const beatlesSongs = [
     "id": "btlsSong3",
     "title": "Anna (Go to Him)",
     "file": "AnnaBeatles",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/anna_go_to_him"
   },
@@ -132,6 +135,7 @@ export const beatlesSongs = [
     "id": "btlsSong4",
     "title": "Chains",
     "file": "Chains",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/chains"
   },
@@ -139,6 +143,7 @@ export const beatlesSongs = [
     "id": "btlsSong5",
     "title": "Boys",
     "file": "Boys",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/boys"
   },
@@ -146,6 +151,7 @@ export const beatlesSongs = [
     "id": "btlsSong6",
     "title": "Ask Me Why",
     "file": "Ask Me Why",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/ask_me_why"
   },
@@ -153,6 +159,7 @@ export const beatlesSongs = [
     "id": "btlsSong7",
     "title": "Please Please Me",
     "file": "PleasePleaseMe",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/please_please_me_song"
   },
@@ -160,6 +167,7 @@ export const beatlesSongs = [
     "id": "btlsSong8",
     "title": "Love Me Do",
     "file": "LoveMeDo",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/love_me_do"
   },
@@ -167,6 +175,7 @@ export const beatlesSongs = [
     "id": "btlsSong9",
     "title": "P.S. I Love You",
     "file": "PSILoveYou",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/ps_i_love_you"
   },
@@ -174,6 +183,7 @@ export const beatlesSongs = [
     "id": "btlsSong10",
     "title": "Baby It's You",
     "file": "BabyItsYou",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/baby_its_you"
   },
@@ -181,6 +191,7 @@ export const beatlesSongs = [
     "id": "btlsSong11",
     "title": "Do You Want to Know a Secret",
     "file": "DoYouWanttoKnowASecret",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/do_you_want_to_know_a_secret"
   },
@@ -188,6 +199,7 @@ export const beatlesSongs = [
     "id": "btlsSong12",
     "title": "A Taste of Honey",
     "file": "ATasteofHoney",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/a_taste_of_honey"
   },
@@ -195,6 +207,7 @@ export const beatlesSongs = [
     "id": "btlsSong13",
     "title": "There's a Place",
     "file": "TheresAPlace",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/theres_a_place"
   },
@@ -202,6 +215,7 @@ export const beatlesSongs = [
     "id": "btlsSong14",
     "title": "Twist and Shout",
     "file": "TwistAndShout",
+    "img": "",
     "album": "Please Please Me",
     "route": "/beatles/twist_and_shout"
   },
@@ -209,6 +223,7 @@ export const beatlesSongs = [
     "id": "btlsSong15",
     "title": "It Won't Be Long",
     "file": "ItWontBeLong",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/it_won't_be_long"
   },
@@ -216,6 +231,7 @@ export const beatlesSongs = [
     "id": "btlsSong16",
     "title": "All I've Got to Do",
     "file": "AllIveGotToDo",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/all_ive_got_to_do"
   },
@@ -223,6 +239,7 @@ export const beatlesSongs = [
     "id": "btlsSong17",
     "title": "All My Loving",
     "file": "AllMyLoving",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/all_my_loving"
   },
@@ -230,6 +247,7 @@ export const beatlesSongs = [
     "id": "btlsSong18",
     "title": "Don't Bother Me",
     "file": "DontBotherMe",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/don't_bother_me"
   },
@@ -237,6 +255,7 @@ export const beatlesSongs = [
     "id": "btlsSong19",
     "title": "Little Child",
     "file": "LittleChild",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/little_child"
   },
@@ -244,6 +263,7 @@ export const beatlesSongs = [
     "id": "btlsSong20",
     "title": "Till There Was You",
     "file": "TillThereWasYou",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/till_there_was_you"
   },
@@ -251,6 +271,7 @@ export const beatlesSongs = [
     "id": "btlsSong21",
     "title": "Please Mr. Postman",
     "file": "PleaseMrPostman",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/please_mr_postman"
   },
@@ -258,6 +279,7 @@ export const beatlesSongs = [
     "id": "btlsSong22",
     "title": "Roll Over Beethoven",
     "file": "RollOverBeethoven",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/roll_over_beethoven"
   },
@@ -265,6 +287,7 @@ export const beatlesSongs = [
     "id": "btlsSong23",
     "title": "Hold Me Tight",
     "file": "HoldMeTight",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/hold_me_tight"
   },
@@ -272,6 +295,7 @@ export const beatlesSongs = [
     "id": "btlsSong24",
     "title": "You Really Got a Hold on Me",
     "file": "YouReallyGotAHoldOnMe",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/you_really_got_a_hold_on_me"
   },
@@ -279,6 +303,7 @@ export const beatlesSongs = [
     "id": "btlsSong25",
     "title": "I Wanna Be Your Man",
     "file": "IWannaBeYourMan",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/i_wanna_be_your_man"
   },
@@ -286,6 +311,7 @@ export const beatlesSongs = [
     "id": "btlsSong26",
     "title": "Devil in Her Heart",
     "file": "DevilInHerHeart",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/devil_in_her_heart"
   },
@@ -293,6 +319,7 @@ export const beatlesSongs = [
     "id": "btlsSong27",
     "title": "Not a Second Time",
     "file": "NotASecondTime",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/not_a_second_time"
   },
@@ -300,6 +327,7 @@ export const beatlesSongs = [
     "id": "btlsSong28",
     "title": "Money (That's What I Want)",
     "file": "MoneyTWIW",
+    "img": "",
     "album": "With the Beatles",
     "route": "/beatles/money_that's_what_i_want"
   },
@@ -307,6 +335,7 @@ export const beatlesSongs = [
     "id": "btlsSong29",
     "title": "A Hard Day's Night",
     "file": "AHardDaysNightSong",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/a_hard_days_night_song"
   },
@@ -314,6 +343,7 @@ export const beatlesSongs = [
     "id": "btlsSong30",
     "title": "I Should Have Known Better",
     "file": "IShouldHaveKnownBetter",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/i_should_have_known_better"
   },
@@ -321,6 +351,7 @@ export const beatlesSongs = [
     "id": "btlsSong31",
     "title": "If I Fell",
     "file": "IfIFell",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/if_i_fell"
   },
@@ -328,6 +359,7 @@ export const beatlesSongs = [
     "id": "btlsSong32",
     "title": "I'm Happy Just to Dance with You",
     "file": "ImHappyJustToDanceWithYou",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'm_happy_just_to_dance_with_you"
   },
@@ -335,6 +367,7 @@ export const beatlesSongs = [
     "id": "btlsSong33",
     "title": "And I Love Her",
     "file": "AndILoveHer",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/and_i_love_her"
   },
@@ -342,6 +375,7 @@ export const beatlesSongs = [
     "id": "btlsSong34",
     "title": "Tell Me Why",
     "file": "TellMeWhy",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/tell_me_why"
   },
@@ -349,6 +383,7 @@ export const beatlesSongs = [
     "id": "btlsSong35",
     "title": "Can't Buy Me Love",
     "file": "CantBuyMeLove",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/can't_buy_me_love"
   },
@@ -356,6 +391,7 @@ export const beatlesSongs = [
     "id": "btlsSong36",
     "title": "Any Time At All",
     "file": "AnyTimeAtAll",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/any_time_at_all"
   },
@@ -363,6 +399,7 @@ export const beatlesSongs = [
     "id": "btlsSong37",
     "title": "I'll Cry Instead",
     "file": "IllCryInstead",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'll_cry_instead"
   },
@@ -370,6 +407,7 @@ export const beatlesSongs = [
     "id": "btlsSong38",
     "title": "Things We Said Today",
     "file": "ThingsWeSaidToday",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/things_we_said_today"
   },
@@ -377,6 +415,7 @@ export const beatlesSongs = [
     "id": "btlsSong39",
     "title": "When I Get Home",
     "file": "WhenIGetHome",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/when_i_get_home"
   },
@@ -384,6 +423,7 @@ export const beatlesSongs = [
     "id": "btlsSong40",
     "title": "You Can't Do That",
     "file": "YouCantDoThat",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/you_can't_do_that"
   },
@@ -391,9 +431,122 @@ export const beatlesSongs = [
     "id": "btlsSong41",
     "title": "I'll Be Back",
     "file": "IllBeBack",
+    "img": "",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'll_be_back"
   },
+  {
+    "id": "btlsSong42",
+    "title": "No Reply",
+    "file": "NoReply",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/no_reply"
+  },
+  {
+    "id": "btlsSong43",
+    "title": "I'm a Loser",
+    "file": "ImALoser",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/I'm_a_loser"
+  },
+  {
+    "id": "btlsSong44",
+    "title": "Baby's in Black",
+    "file": "BabysInBlack",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/baby's_in_black"
+  },
+  {
+    "id": "btlsSong45",
+    "title": "Rock and Roll Music",
+    "file": "RockAndRollMusic",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/rock_and_roll_music"
+  },
+  {
+    "id": "btlsSong46",
+    "title": "I'll Follow the Sun",
+    "file": "IllFollowTheSun",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/I'll_follow_the_sun"
+  },
+  {
+    "id": "btlsSong47",
+    "title": "Mr. Moonlight",
+    "file": "MrMoonlight",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/mr._moonlight"
+  },
+  {
+    "id": "btlsSong48",
+    "title": "Kansas City",
+    "file": "KansasCitySong",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/kansas_city"
+  },
+  {
+    "id": "btlsSong49",
+    "title": "Eight Days a Week",
+    "file": "EightDaysAWeek",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/eight_days_a_week"
+  },
+  {
+    "id": "btlsSong50",
+    "title": "Words of Love",
+    "file": "WordsOfLove",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/words_of_love"
+  },
+  {
+    "id": "btlsSong51",
+    "title": "Honey Don't",
+    "file": "HoneyDont",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/honey_don't"
+  },
+  {
+    "id": "btlsSong52",
+    "title": "Every Little Thing",
+    "file": "EveryLittleThing",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/every_little_thing"
+  },
+  {
+    "id": "btlsSong53",
+    "title": "I Don't Want to Spoil the Party",
+    "file": "IDontWantToSpoilTheParty",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/i_don't_want_to_spoil_the_party"
+  },
+  {
+    "id": "btlsSong54",
+    "title": "What You're Doing",
+    "file": "WhatYoureDoing",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/what_you're_doing"
+  },
+  {
+    "id": "btlsSong55",
+    "title": "Everybody's Trying to Be My Baby",
+    "file": "EverybodysTryingToBeMyBaby",
+    "img": "",
+    "album": "Beatles for Sale",
+    "route": "/beatles/everybody's_trying_to_be_my_baby"
+  }
 ]
 
 export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
