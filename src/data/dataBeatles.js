@@ -658,6 +658,118 @@ export const beatlesSongs = [
     "img": "",
     "album": "Help",
     "route": "/beatles/dizzy_miss_lizzy"
+  },
+  {
+    "id": "btlsSong70",
+    "title": "Drive My Car",
+    "file": "DriveMyCar",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/drive_my_car"
+  },
+  {
+    "id": "btlsSong71",
+    "title": "Norwegian Wood",
+    "file": "NorwegianWood",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/norwegian_wood"
+  },
+  {
+    "id": "btlsSong72",
+    "title": "You Won't See Me",
+    "file": "YouWontSeeMe",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/you_won't_see_me"
+  },
+  {
+    "id": "btlsSong73",
+    "title": "Nowhere Man",
+    "file": "NowhereMan",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/nowhere_man"
+  },
+  {
+    "id": "btlsSong74",
+    "title": "Think For Yourself",
+    "file": "ThinkForYourself",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/think_for_yourself"
+  },
+  {
+    "id": "btlsSong75",
+    "title": "The Word",
+    "file": "TheWord",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/the_word"
+  },
+  {
+    "id": "btlsSong76",
+    "title": "Michelle",
+    "file": "MichelleSong",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/michelle"
+  },
+  {
+    "id": "btlsSong77",
+    "title": "What Goes On",
+    "file": "WhatGoesOn",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/what_goes_on"
+  },
+  {
+    "id": "btlsSong78",
+    "title": "Girl",
+    "file": "GirlSong",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/girl"
+  },
+  {
+    "id": "btlsSong79",
+    "title": "I'm Looking Through You",
+    "file": "ImLookingThroughYou",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/I'm_looking_through_you"
+  },
+  {
+    "id": "btlsSong80",
+    "title": "In My Life",
+    "file": "InMyLife",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/in_my_life"
+  },
+  {
+    "id": "btlsSong81",
+    "title": "Wait",
+    "file": "WaitSong",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/wait"
+  },
+  {
+    "id": "btlsSong82",
+    "title": "If I Needed Someone",
+    "file": "IfINeededSomeone",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/if_i_needed_someone"
+  },
+  {
+    "id": "btlsSong83",
+    "title": "Run for Your Life",
+    "file": "RunForYourLife",
+    "img": "",
+    "album": "Rubber Soul",
+    "route": "/beatles/run_for_your_life"
   }
 ]
 
