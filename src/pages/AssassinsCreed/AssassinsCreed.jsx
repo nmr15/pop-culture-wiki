@@ -583,6 +583,26 @@ const AssassinsCreed = () =>
               />
               <p>Assassin's Creed III logo</p>
             </div>
+            <p>
+              Assassin's Creed III was released in October 2012 for the PlayStation 3 and Xbox 360 and in November 2012 for the Wii U and Windows. A
+              remastered version of the game with enhanced visuals was released for Windows, <Link>PlayStation 4</Link>, and <Link>Xbox One</Link> in
+              March 2019, and for Nintendo Switch in May 2019. This is the final game in the series to follow Desmond, who travels to the First
+              Civilization's Grand Temple in New York in search of the technology needed to prevent the solar flare set to hit the Earth soon.
+              Discovering he needs a key to access the Temple's inner chambers. Desmond uses the Animus to relive the memories of two of his ancestors
+              who were in possession of the key at various points in time: <Link>Haytham Kenway</Link>, a British Templar from the 18th century who
+              travels to the American colonies to find he Grand Temple; and <Link>Ratonhnhaké:ton</Link> (later known as Connor), Haytham's half-Mohawk
+              son, who becomes an Assassin to exact revenger on the Templars, whom he blames for the destruction of his village and the death of his
+              mother. To this end, Connor later becomes involved in the American Revolution, helping the Patriot cause while clashing with Haytham's
+              faction of Templars, who hope to use the Revolution to further their own goals.
+            </p>
+            <p>
+              Assassin's Creed III is structured similarly to the previous games, with missions taking place in an open-world map based on Colonial
+              Boston and New York. The game offers a large wilderness area in the form of the Frontier and the Davenport Homestead, where the player
+              can hunt animals for materials, which subsequently can be used to construct goods to be traded and sold throughout the colonies. Naval
+              battles also debut in the series, wherein the player must steer a warship named the Aquila in dangerous waters and perform ship-to-ship
+              combat with cannons and mounted guns. The multiplayer mode from the previous two games returns in Assassin's Creed III with new game modes,
+              characters, and maps inspired by Colonial America, but this time no major narrative elements are included.
+            </p>
 
             <h4 className="article-heading-4" id="4.1.6"><Link to="/assassinscreed/assassins_creed_iv_black_flag">Assassin's Creed IV: Black Flag</Link></h4>
             <div className="img-right img-card">
