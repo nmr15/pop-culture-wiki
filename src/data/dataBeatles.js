@@ -770,6 +770,118 @@ export const beatlesSongs = [
     "img": "",
     "album": "Rubber Soul",
     "route": "/beatles/run_for_your_life"
+  },
+  {
+    "id": "btlsSong84",
+    "title": "Taxman",
+    "file": "TaxmanSong",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/taxman"
+  },
+  {
+    "id": "btlsSong85",
+    "title": "Eleanor Rigby",
+    "file": "EleanorRigby",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/eleanor_rigby"
+  },
+  {
+    "id": "btlsSong86",
+    "title": "I'm Only Sleeping",
+    "file": "ImOnlySleeping",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/I'm_only_sleeping"
+  },
+  {
+    "id": "btlsSong87",
+    "title": "Love You To",
+    "file": "LoveYouTo",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/love_you_to"
+  },
+  {
+    "id": "btlsSong88",
+    "title": "Here, There and Everywhere",
+    "file": "HereThereAndEverywhere",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/here_there_and_everywhere"
+  },
+  {
+    "id": "btlsSong89",
+    "title": "Yellow Submarine",
+    "file": "YellowSubmarineSong",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/yellow_submarine_song"
+  },
+  {
+    "id": "btlsSong90",
+    "title": "She Said She Said",
+    "file": "SheSaidSheSaid",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/she_said_she_said"
+  },
+  {
+    "id": "btlsSong91",
+    "title": "Good Day Sunshine",
+    "file": "GoodDaySunshine",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/good_day_sunshine"
+  },
+  {
+    "id": "btlsSong92",
+    "title": "And Your Bird Can Sing",
+    "file": "AndYourBirdCanSing",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/and_your_bird_can_sing"
+  },
+  {
+    "id": "btlsSong93",
+    "title": "For No One",
+    "file": "ForNoOne",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/for_no_one"
+  },
+  {
+    "id": "btlsSong94",
+    "title": "Doctor Robert",
+    "file": "DoctorRobert",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/doctor_robert"
+  },
+  {
+    "id": "btlsSong95",
+    "title": "I Want to Tell You",
+    "file": "IWantToTellYou",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/i_want_to_tell_you"
+  },
+  {
+    "id": "btlsSong96",
+    "title": "Got to Get You Into My Life",
+    "file": "GotToGetYouIntoMyLife",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/got_to_get_you_into_my_life"
+  },
+  {
+    "id": "btlsSong97",
+    "title": "Tomorrow Never Knows",
+    "file": "TomorrowNeverKnows",
+    "img": "",
+    "album": "Revolver",
+    "route": "/beatles/tomorrow_never_knows"
   }
 ]
 
