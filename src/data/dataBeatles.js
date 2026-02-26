@@ -546,6 +546,118 @@ export const beatlesSongs = [
     "img": "",
     "album": "Beatles for Sale",
     "route": "/beatles/everybody's_trying_to_be_my_baby"
+  },
+  {
+    "id": "btlsSong56",
+    "title": "Help!",
+    "file": "HelpSong",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/help_song"
+  },
+  {
+    "id": "btlsSong57",
+    "title": "The Night Before",
+    "file": "TheNightBefore",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/the_night_before"
+  },
+  {
+    "id": "btlsSong58",
+    "title": "You've Got to Hide Your Love Away",
+    "file": "YouveGotToHideYourLoveAway",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/you've_got_to_hide_your_love_away"
+  },
+  {
+    "id": "btlsSong59",
+    "title": "I Need You",
+    "file": "INeedYou",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/i_need_you"
+  },
+  {
+    "id": "btlsSong60",
+    "title": "Another Girl",
+    "file": "AnotherGirl",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/another_girl"
+  },
+  {
+    "id": "btlsSong61",
+    "title": "You're Going to Lose That Girl",
+    "file": "YoureGoingToLoseThatGirl",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/you're_going_to_lose_that_girl"
+  },
+  {
+    "id": "btlsSong62",
+    "title": "Ticket to Ride",
+    "file": "TicketToRide",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/ticket_to_ride"
+  },
+  {
+    "id": "btlsSong63",
+    "title": "Act Naturally",
+    "file": "ActNaturally",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/act_naturally"
+  },
+  {
+    "id": "btlsSong64",
+    "title": "It's Only Love",
+    "file": "ItsOnlyLove",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/it's_only_love"
+  },
+  {
+    "id": "btlsSong65",
+    "title": "You Like Me Too Much",
+    "file": "YouLikeMeTooMuch",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/you_like_me_too_much"
+  },
+  {
+    "id": "btlsSong66",
+    "title": "Tell Me What You See",
+    "file": "TellMeWhatYouSee",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/tell_me_what_you_see"
+  },
+  {
+    "id": "btlsSong67",
+    "title": "I've Just Seen a Face",
+    "file": "IveJustSeenAFace",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/I've_just_seen_a_face"
+  },
+  {
+    "id": "btlsSong68",
+    "title": "Yesterday",
+    "file": "YesterdaySong",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/yesterday"
+  },
+  {
+    "id": "btlsSong69",
+    "title": "Dizzy Miss Lizzy",
+    "file": "DizzyMissLizzy",
+    "img": "",
+    "album": "Help",
+    "route": "/beatles/dizzy_miss_lizzy"
   }
 ]
 
