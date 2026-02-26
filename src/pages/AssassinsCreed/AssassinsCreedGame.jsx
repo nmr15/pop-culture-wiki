@@ -1,9 +1,16 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
 const AssassinsCreedGame = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Assassin's Creed (game) - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -18,13 +25,34 @@ const AssassinsCreedGame = () =>
         <div>
           <h1 className="article-heading">Assassin's Creed (game)</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg" 
-            alt="Assassin's Creed logo" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Assassin's Creed</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg" alt="Assassin's Creed cover" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data"><Link>Ubisoft Montreal</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">Ubisoft</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next Assassin's Creed game</th>
+              <td className="infobox-data"><Link to="/assassinscreed/assassins_creed_ii">Assassin's Creed II</Link></td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Assassin's Creed is a 2007 action-adventure game developed by Ubisoft Montreal and published by <Link>Ubisoft</Link>. It is the first
