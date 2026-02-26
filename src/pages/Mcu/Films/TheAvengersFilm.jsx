@@ -478,7 +478,23 @@ const TheAvengersFilm = () =>
          <div>
           <Heading2 id={4} title={"Music"} />
           <div>
-            
+            <p>
+              In November 2011, Marvel announced that <Link>Alan Silvestri</Link>, who scored Captain America: The First Avenger, would compose the score
+              for The Avengers. Silvestri commented on the challenge of the project, stating, "I've worked on films where there have been a number of
+              stars and certainly worked on films where there have been characters of equal weight in terms of their level of importance and profile in
+              the film, but this one is somewhat extreme in that regard because each of these characters has their own world and it's a very different
+              situation. It's very challenging to look for a way to give everyone the weight and consideration they need, but at the same time the film
+              is really about the coming together of these characters, which implies that there is this entity called the Avengers which really has to be
+              representative of all of them together." Silvestri collaborated with the London Symphony Orchestra at <Link>Abbey Road Studios</Link> in
+              London, England to develop the score. Whedon praised Silvestri's approach, stating, "The score is very old-fashioned, which is why
+              [Silvestri] was letter-perfect for this movie because he can give you the heightened emotion, the [<Link>Hans Zimmer</Link>] school of
+              'I'm just feeling a lot of right now!' but he can also be extraordinarily cue and character specific, which I love."
+            </p>
+            <p>
+              In March 2012, the Indian rock band Agnee released a music video for their single "Hello Andheron", serving as the theme song for the
+              Indian release of the film. Hollywood Records released the soundtrack concept album inspired by the film, titled Avengers Assemble, on
+              May 1, 2012, coinciding the release of the score.
+            </p>
           </div>
         </div>
          <div>
