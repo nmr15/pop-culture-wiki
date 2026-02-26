@@ -194,6 +194,17 @@ const AssassinsCreedBrotherhood = () =>
               different districts. However, certain missions take the player to various locations outside of Rome, including the harbor of Naples;
               the Alban Hills (Colli Albani); and part of Navarre, Spain, among others.
             </p>
+            <p>
+              Horses play a large role in Brotherhood, not only used as a means of transport (inside the city for the first time) but as a component of
+              acrobatic sequences and advanced combat as well, allowing ranged weapons to be used while riding them. The game also features various
+              types of horse-related assassinations, such as horse-to-horse assassinations. To facilitate traversal, Brotherhood introduces merchandise
+              lifts, which can be used to quickly climb up high buildings or structures.
+            </p>
+            <p>
+              Like previous Assassin's Creed titles, characters based on historical figures are present in the game, including Leonard da Vinci,
+              <Link> Niccolò Machiavelli</Link>, <Link>Caterina Sforza</Link>, <Link>Rodrigo Borgia</Link>, and <Link>Cesare Borgia</Link>. Locations
+              in the game include the <Link>Colosseum</Link> and <Link>the Pantheon</Link> in Rome; and the town of Viana in northern Spain.
+            </p>
 
             <h3 className="article-heading-3" id="1.1">Multiplayer</h3>
             <h4 className="article-heading-4" id="1.1.1">Game modes</h4>
