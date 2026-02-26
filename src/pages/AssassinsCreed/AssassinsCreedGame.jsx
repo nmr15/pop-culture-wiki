@@ -14,7 +14,31 @@ const AssassinsCreedGame = () =>
   return(
     <>
       <aside className="sidebar">
-        <ul className="sidebar-list"></ul>
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Gameplay</a></li>
+          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <Collapse 
+            id="3"
+            item="Development"
+            sub={[
+              {id:  "3.1", title: "Design"},
+              {id:  "3.2", title: "Voice acting"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Release</a></li>
+          <li className="sidebar-list-item"><a href="#5">Music</a></li>
+          <Collapse 
+            id="4"
+            item="Reception"
+            sub={[
+              {id: "4.1", title: "Critical reception"},
+              {id: "4.2", title: "Awards"},
+              {id: "4.3", title: "Sales"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Sequels</a></li>
+        </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
