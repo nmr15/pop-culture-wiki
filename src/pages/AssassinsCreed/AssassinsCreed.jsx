@@ -612,6 +612,23 @@ const AssassinsCreed = () =>
               />
               <p>Assassin's Creed IV: Black Flag logo</p>
             </div>
+            <p>
+              Assassin's Creed IV: Black Flag was released in October 2013 for the PlayStation 3, Xbox 360, and the Wii U and in November 2013 for the
+              PlayStation 4, Xbox One, and Windows. Following the events of Assassin's Creed III, at the end of which Desmond sacrificed himself to save
+              the Earth, Abstergo retrieved samples from his body to continue exploring the memories of his ancestors. The player character is an
+              unnamed Abstergo employee tasked with analyzing the memories of <Link>Edward Kenway</Link>, an 18th-century pirate and Connor's grandfather,
+              ostensibly to gather material for an Animus-powered interactive film; in reality, Abstergo are searching for the Observatory, a First
+              Civilization structure that allows the user to see through the eyes of a subject to find them anywhere on the planet. As Edward, the
+              player must unravel a conspiracy between high-ranking Templars to manipulate the British and Spanish empires into locating the Sage, later
+              identified as <Link>Bartholomew Roberts</Link>, who is the only man that can lead them to the Observatory.
+            </p>
+            <p>
+              Black Flag retains many gameplay mechanics from Assassin's Creed III, including the ship-based exploration and combat. For the first time in
+              the series, naval exploration is a major part of the game; players can captain Edward's ship, the Jackdaw, and battle rival ships or hunt
+              sea animals. The game includes a large open world spanning the <Link>West Indies</Link>, with players able to explore the cities of
+              <Link> Havana</Link>, <Link>Nassau</Link>, and <Link>Kingston</Link>, as well as numerous islands, forts, and sunken ships. A multiplayer
+              mode is once again included, although it is entirely land-based.
+            </p>
 
             <h4 className="article-heading-4" id="4.1.7"><Link to="/assassinscreed/assassins_creed_rogue">Assassin's Creed Rogue</Link></h4>
             <div className="img-right img-card">
