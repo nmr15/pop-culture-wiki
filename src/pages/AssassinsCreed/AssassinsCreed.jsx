@@ -787,28 +787,88 @@ const AssassinsCreed = () =>
               decommissioned Assassin's Creed: Liberation HD on October 1, 2022, with no additional copies being sold outside of the bundled
               Assassin's Creed III Remastered version.
             </p>
+
             <h4 className="article-heading-4" id="4.2.2">Assassin's Creed: Freedom Cry</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Assassins_Creed_Freedom_Cry_Logo.png/500px-Assassins_Creed_Freedom_Cry_Logo.png" 
+                alt="Assassin's Creed Freedom Cry logo" 
+              />
+              <p>Assassin's Creed Freedom Cry logo</p>
+            </div>
+            <p>
+              Assassin's Creed Freedom Cry was originally released as downloadable content (DLC) for most versions of Assassin's Creed IV: Black Flag in
+              December 2013. A standalone version was released in February 2014 for Microsoft Windows, PlayStation 3, and PlayStation 4. Set thirteen
+              years after the ending of Black Flag, the game follows Adéwalé, a major supporting character from Black Flag, who served as the
+              quartermaster to protagonist Edward Kenway before joining the Assassin Brotherhood towards the end of the main story. During the events of
+              Freedom Cry, Adéwalé finds himself shipwrecked in the French colony of <Link>Saint-Domingue</Link> (present-day Haiti), where he
+              encounters some of the most brutal slavery practices in the West Indies. Being a former slave, Adéwalé temporarily abandons his fight
+              agains the Templars and joins a Maroon rebellion to help them rescue oppressed slaves.
+            </p>
+            <p>
+              Being originally released as DLC for Black Flag, Freedom Cry's gameplay is virtually identical, though it does feature several new
+              additions. Most notably, Adéwalé has the option to rescue slaves by raiding plantations, attacking slave ships, or simply killing their
+              masters, with each freed slave serving as a resource for the player to accumulate to unlock upgrades for Adéwalé. Futhermore, some freed
+              slaves join the Maroon rebellion and can become crew members aboard Adéwalé's ship, the Experto Crede, or help the player fight enemies.
+            </p>
+
             <h4 className="article-heading-4" id="4.2.3">Assassin's Creed Chronicles</h4>
+
+
             <h4 className="article-heading-4" id="4.2.4">Assassin's Creed Nexus VR</h4>
+
+
             <h3 className="article-heading-3" id="4.3">Handheld and mobile games</h3>
             <h4 className="article-heading-4" id="4.3.1">Assassin's Creed: Altaïr's Chronicles</h4>
+
+
             <h4 className="article-heading-4" id="4.3.2">Assassin's Creed: Bloodlines</h4>
+
+
             <h4 className="article-heading-4" id="4.3.3">Assassin's Creed II: Discovery</h4>
+
+
             <h4 className="article-heading-4" id="4.3.4">Assassin's Creed: Multiplayer Rearmed</h4>
+
+
             <h4 className="article-heading-4" id="4.3.5">Assassin's Creed: Recollection</h4>
+
+
             <h4 className="article-heading-4" id="4.3.6">Assassin's Creed: Pirates</h4>
+
+
             <h4 className="article-heading-4" id="4.3.7">Assassin's Creed: Memories</h4>
+
+
             <h4 className="article-heading-4" id="4.3.8">Assassin's Creed Unity: Arno's Chronicles</h4>
+
+
             <h4 className="article-heading-4" id="4.3.9">Assassin's Creed Rebellion</h4>
+
+
             <h3 className="article-heading-3" id="4.4">Cancelled and defunct games</h3>
             <h4 className="article-heading-4" id="4.4.1">Assassin's Creed: Project Legacy</h4>
+
+
             <h4 className="article-heading-4" id="4.4.2">Assassin's Creed: Utopia</h4>
+
+
             <h4 className="article-heading-4" id="4.4.3">Assassin's Creed: Initiates</h4>
+
+
             <h4 className="article-heading-4" id="4.4.4">Assassin's Creed Identity</h4>
+
+
             <h4 className="article-heading-4" id="4.4.5">Untitled Civil War game</h4>
+
+
             <h3 className="article-heading-3" id="4.5">Re-release compilations and collections</h3>
+
+
             <h3 className="article-heading-3" id="4.6">Future games</h3>
             <h4 className="article-heading-4" id="4.6.1">Assassin's Creed Jade</h4>
+
+
             <h4 className="article-heading-4" id="4.6.2">Assassin's Creed: Codename Hexe</h4>
           </div>
         </div>
@@ -822,10 +882,20 @@ const AssassinsCreed = () =>
           <Heading2 id={6} title={"Other media"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Television</h3>
+
+
             <h3 className="article-heading-3" id="6.2">Film</h3>
+
+
             <h3 className="article-heading-3" id="6.3">Print publications</h3>
+
+
             <h3 className="article-heading-3" id="6.4">Audio drama</h3>
+
+
             <h3 className="article-heading-3" id="6.5">Board games</h3>
+
+
             <h3 className="article-heading-3" id="6.6">Concert</h3>
           </div>
         </div>
