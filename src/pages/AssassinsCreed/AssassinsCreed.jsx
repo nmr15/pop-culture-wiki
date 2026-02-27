@@ -696,6 +696,22 @@ const AssassinsCreed = () =>
               />
               <p>Assassin's Creed Syndicate logo</p>
             </div>
+            <p>
+              Assassin's Creed Syndicate was released in October 2015 for the PlayStation 4 and Xbox One, in November 2015 for Windows, and in December
+              2020 for the Stadia. In the present day, players control the same unnamed Assassin Initiate from Assassin's Creed Unity, who this time must
+              help the Assassins find a Shroud of Eden hidden in <Link>London</Link>. The main story is set in <Link>Victorian era</Link> London and
+              follows twin Assassins <Link>Jacob</Link> and <Link>Evie Frye</Link> as they navigate the corridors of organized crime to take back the city
+              from Templar control and prevent them from finding the Shroud. The narrative also includes segments set in war-torn London during
+              <Link> World War I</Link>, which follows Jacob's granddaughter, Lydia Frye, as she battles German soldiers and Templar spies and searching
+              for a Sage.
+            </p>
+            <p>
+              In December 2014, images and information leaked for a new Assassin's Creed game, titled or code-named Victory, which was later confirmed by
+              Ubisoft. In May 2015, Kotaku leaked that Victory had been renamed Syndicate. On May 12, 2015, the game was officially announced by Ubisoft.
+              The game retains most gameplay elements from Unity, while introducing new travelling systems, such as carriages and a grappling hook, and
+              refined combat mechanics. It is the first game in the series to feature multiple playable protagonists, whom the player can switch between
+              both during outside missions.
+            </p>
 
             <h4 className="article-heading-4" id="4.1.10"><Link to="/assassinscreed/assassins_creed_origins">Assassin's Creed Origins</Link></h4>
             <div className="img-right img-card">
