@@ -672,6 +672,21 @@ const AssassinsCreed = () =>
               />
               <p>Assassin's Creed Unity logo</p>
             </div>
+            <p>
+              Assassin's Creed Unity was released concurrently with Rogue in November 2014 for the PlayStation 4, Xbox One, and Windows, and in
+              December 2020 for Google Stadia. In the present-day, the player character is a player of Helix, an Animus-powered gaming device produced
+              by Abstergo, who hope to use their unaware player base to locate more Pieces of Eden. While playing, the player is contacted by the
+              modern-day Assassins and invited to join them as an Initiate and help them locate the body of an 18th-century Sage. The main story is set
+              in <Link>Paris</Link> during the <Link>French Revolution</Link>, and follows the Assassin <Link>Arno Dorian</Link> as he embarks on a
+              quest for redemption after his foster father's death, which leads him to discover an internal conflict between the Templars as a result of
+              the Revolution.
+            </p>
+            <p>
+              On March 19, 2014, images leaked for the next Assassin's Creed game, titled or code-named Unity, showing a new Assassin in Paris. On March
+              21, Ubisoft confirmed the game's existence, having been in development for more than three years, by releasing pre-alpha game footage. The
+              game features enhanced visuals compared to its predecessors, and several new gameplay mechanics, including a four player co-op mode, a
+              first for the series.
+            </p>
 
             <h4 className="article-heading-4" id="4.1.9"><Link to="/assassinscreed/assassins_creed_syndicate">Assassin's Creed Syndicate</Link></h4>
             <div className="img-right img-card">
