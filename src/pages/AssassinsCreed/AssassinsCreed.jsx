@@ -813,7 +813,39 @@ const AssassinsCreed = () =>
             </p>
 
             <h4 className="article-heading-4" id="4.2.3">Assassin's Creed Chronicles</h4>
-
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Textlogo_Assassin%E2%80%99s_Creed_Chronicles.svg/500px-Textlogo_Assassin%E2%80%99s_Creed_Chronicles.svg.png" 
+                alt="Assassin's Creed Chronicles logo" 
+              />
+              <p>Assassin's Creed Chronicles logo</p>
+            </div>
+            <p>
+              Assassin's Creed Chronicles is a sub-series of three 2.5D action and stealth games released for Microsoft Windows, PlayStation 4,
+              PlayStation Vita, and Xbox One.
+            </p>
+            <div className="article-list">
+              <ul>
+                <li>
+                  The first game, Assassin's Creed Chronicles: China, was originally released as part of Assassin's Creed Unity's season pass on April 21,
+                  2015, but it was later made available for purchase separately. Set after the short film Assassin's Creed: Embers, the game follows
+                  Shao Jun in Imperial China from 1526 to 1532, as she battles the Templar group, the Eight Tigers, and attempts to rebuild the Chinese
+                  Assassin Brotherhood.
+                </li>
+                <li>
+                  The second game, Assassin's Creed Chronicles: India, was released on January 12, 2016. It is set in British India in 1841, two years
+                  after the events of the graphic novel Assassin's Creed: Brahman. The game follows Arbaaz Mir, who, while attempting to recover a
+                  Precursor artifact from the Templars, becomes caught in a war between the Sikh Empire and the East India Company and must protect his
+                  friends and lover.
+                </li>
+                <li>
+                  The last game, Assassin's Creed Chronicles: Russia, was released on February 9, 2016. It is set in Soviet Russia in 1918, in the
+                  aftermath of the October Revolution, and bridges the gap between the comic book Assassin's Creed: The Fall and its graphic novel
+                  sequel, Assassin's Creed: The Chain. The game follows Nikolai Orelov as he attempts to protect a Precursor artifact and Grand Duchess
+                  Anastasia from the Templars and the Bolsheviks after witnessing the execution of the Romanov family.
+                </li>
+              </ul>
+            </div>
 
             <h4 className="article-heading-4" id="4.2.4">Assassin's Creed Nexus VR</h4>
 
