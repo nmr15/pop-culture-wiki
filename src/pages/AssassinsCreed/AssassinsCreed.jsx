@@ -638,6 +638,31 @@ const AssassinsCreed = () =>
               />
               <p>Assassin's Creed Rogue logo</p>
             </div>
+            <p>
+              Assassin's Creed Rogue is the final game in the series to be developed for the <Link>seventh generation of consoles</Link>, being released
+              for the PlayStation 3 and Xbox 360 in November 2014, and for Windows in March 2015. A remastered version of the game was released for the
+              PlayStation 4 and Xbox One in March 2018. In the present day, players again take on the role of an unnamed Abstergo employee, tasked with
+              researching the memories of <Link>Shay Patrick Cormac</Link>, an 18th century Assassin who, for reasons unknown to Abstergo, defected to
+              the Templars. During their investigation, the player accidentally trips a hidden memory file that infects the Animus servers. They must
+              complete Shay's memories to clean the servers while Abstergo is put under lockdown. The main narrative takes place during the
+              <Link> Seven Years' War</Link>, and follows Shay, who starts out as a talented, but insubordinate Assassin trainee. After witnessing the
+              Assassins' hypocrisy and willingness to sacrifice civilians in their blind pursuit of Pieces of Eden, Shay betrays them and joins the
+              Templars, helping his newfound allies hunt down members of his former Brotherhood to prevent them from endangering more innocent lives.
+              Shay's story is set between the events of Assassin's Creed IV: Black Flag and Assassin's Creed III, and is meant to fill the gaps between
+              their respective narratives, while also having "a crucial link to the Kenway saga" according to Ubisoft, as well as to Assassin's Creed
+              Unity. Several major characters from Assassin's Creed III and Black Flag make appearances in the game, such as Haytham Kenway, Achilles
+              Davenport, and Adéwalé.
+            </p>
+            <p>
+              In March 2014, a new Assassin's Creed game code-named Comet was revealed to be in development for the PlayStation 3 and Xbox 360, set to
+              release later that year alongside Unity. By the end of the month, additional reports indicated that Comet would be set around 1758 New
+              York City, and would feature sailing on the Atlantic Ocean. The game would be a direct sequel to Black Flag, and would be the first to
+              feature a Templar as the main protagonist. In May 2014, Guillemot stated that, "for the foreseeable future". Assassin's Creed games would
+              continue releasing on the last generation PlayStation 3 and Xbox 360, despite the franchise moving to the current generation PlayStation 4
+              and Xbox One with Unity. On August 5, Ubisoft officially announced the game as Assassin's Creed Rogue. While the game reuses many assets
+              from Black Flag, a number of new systems and weapons were included, such as an air rifle and refined naval combat, and the multiplayer
+              aspect has been removed.
+            </p>
 
             <h4 className="article-heading-4" id="4.1.8"><Link to="/assassinscreed/assassins_creed_unity">Assassin's Creed Unity</Link></h4>
             <div className="img-right img-card">
