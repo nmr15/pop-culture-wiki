@@ -501,8 +501,46 @@ const TheAvengersFilm = () =>
           <Heading2 id={5} title={"Marketing"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Trailers</h3>
+            <p>
+              The film was promoted at the 2010 San Diego Comic-Con, featuring a teaser trailer narrated by Samuel L. Jackson followed by an introduction
+              of the cast. In June 2011, Marvel Studios announced that it would not hold a panel at the 2011 San Diego Comic-Con, as stuido executives
+              felt unprepared to meet their own past achievements and fan expectations with filming still in production. Subsequently, in July 2011, a
+              teaser trailer intended as the post-credits scene of Captain America: The First Avenger briefly leaked online. Entertainment Weekly
+              speculated that it originated from a preview screening, describing the footage as "shaky, fuzzy, flickering, and obviously filmed on a
+              cell phone".
+            </p>
+            <div className="img-left img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111015_NYCC-6.jpg/500px-20111015_NYCC-6.jpg" 
+                alt="2011 New York Comic Con" 
+              />
+              <p>
+                Chris Evans, Tom Hiddleston, Cobie Smulders, and Clark Gregg promoting the film at the 2011 New York Comic Con
+              </p>
+            </div>
+            <p>
+              In August 2011, Walt Disney Pictures, <Link to="/pixar">Pixar Animation Studios</Link>, and Marvel Studios presented a look at Walt Disney
+              Studios' upcoming film slate, which included The Avengers, at the D23 Expo in Anaheim, California. The presentation featured footage from
+              the film and appearances by the cast members. Later in August, Disney dismissed Marvel's executive vice president of worldwide marketing,
+              and manager of worldwide marketing to bring their function in-house.
+            </p>
+            <p>
+              In October 2011, Marvel Studios held a presentation at the New York Comic Con featuring new footage and a panel discussion including
+              producer Kevin Feige and several cast members. The first full-length trailer was also released in October. Comic Book Resources nored,
+              "The two-minute teaser handily establishes the movie's premise" and is "heavy on the assembling, but fans are also treated to plenty of
+              action, as well as glimpses [sic] of Iron Man's new armor, best of all, the new take on the Incredible Hulk. Naturally, Robert Downey
+              Jr.'s Tony Star gets the best lines". However, The Hollywood Reporter called it, "Awesome. Or it would be if we hadn't seen all of this
+              before and expected every single thing that we saw in the trailer". The trailer, which debuted exclusively on iTunes Movie Trailers, was
+              downloaded over 10 million times in the 24 hours, breaking the website's record for the most-viewed trailer. This record was surpassed by
+              the trailer for 
+            </p>
+
             <h3 className="article-heading-3" id="5.2">Tie-in</h3>
+
+
             <h3 className="article-heading-3" id="5.3">Promotional partners</h3>
+
+
             <h3 className="article-heading-3" id="5.4">Video game</h3>
           </div>
         </div>
