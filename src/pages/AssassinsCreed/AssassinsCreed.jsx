@@ -848,14 +848,46 @@ const AssassinsCreed = () =>
             </div>
 
             <h4 className="article-heading-4" id="4.2.4">Assassin's Creed Nexus VR</h4>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Assassin%27s_Creed_Nexus_VR_Logo.png/500px-Assassin%27s_Creed_Nexus_VR_Logo.png" 
+                alt="Assassin's Creed Nexus VR logo" 
+              />
+              <p>Assassin's Creed Nexus VR logo</p>
+            </div>
+            <p>
+              Assassin's Creed Nexus VR is a virtual reality game developed by Ubisoft's subsidiary studio, Red Storm Entertainment, and released for the
+              Meta Quest 2 on November 16, 2023. In the game, players take on the role of an Assassin hacker who infilitrates Abstergo and relives the
+              memories of three of the series' protagonists, Ezio Aduitore, Kassandra, and Ratonhnhaké:ton / Connor, to sabotage the Templars' latest
+              project, called "Nexus Eye".
+            </p>
+            <p>
+              In September 2020, at the digital event of Facebook Connect, Red Storm Entertainment's VP of Product Development, Elizabeth Loverso,
+              revealed several AAA game franchises coming to virtual reality format to the public. Two of the projects announced were an untitled
+              Assassin's Creed game and an untitled installment from the Tom Clancy's Splinter Cell series (also developed by Ubisoft), with both titles
+              set to release exclusively for Oculus platorms. This would not be the first Assassin's Creed title to come to VR, but would be the first to
+              be publicly available; the Splinter Cell VR game was cancelled on July 21, 2022. In June 2023, at the Meta Quest Gaming Showcase event, the
+              updated title for the game, Assassin's Creed Nexus VR, was announced along with a release window of late 2023.
+            </p>
 
 
             <h3 className="article-heading-3" id="4.3">Handheld and mobile games</h3>
             <h4 className="article-heading-4" id="4.3.1">Assassin's Creed: Altaïr's Chronicles</h4>
-
+            <p>
+              Assassin's Creed: Altaïr's Chronicles is a spin-off for the Nintendo DS, Windows Phone, Android, iOS, webOS, Symbian, and Java ME,
+              originally released in February 2008. The game is a prequel to the first Assassin's Creed, taking place in the year 1190, and follows
+              Altaïr Ibn-La'Ahad as he attempts to retrieve an artifact called the Chalice from the Templars.
+            </p>
 
             <h4 className="article-heading-4" id="4.3.2">Assassin's Creed: Bloodlines</h4>
-
+            <p>
+              Assassin's Creed: Bloodlines is the second spin-off title following Altaïr. It was released as a PlayStation Portable exclusive in November
+              2009 (concurrently with Assassin's Creed II) and acts as a direct sequel to the original game. Following the events of Assassin's Creed,
+              Altaïr travels to the island nation of Cyprus to eliminate the last remnant of the Templar Order. Here, he again runs into Maria Thorpe, a
+              Templar agent whose life he spared in the first game, and they team up to eliminate the Templar presenc on the island and learn more about
+              the Apple of Eden and the mysterious Templar Archive, where more Pieces of Eden are believed to be hidden. Despite the technical limitations
+              of the PlayStation Portable, the game features most gameplay mechanics of the console and PC titles, and even a few exclusive elements.
+            </p>
 
             <h4 className="article-heading-4" id="4.3.3">Assassin's Creed II: Discovery</h4>
 
