@@ -16,6 +16,32 @@ const AvengersInfinityWar = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development", sub2: [
+                {id: "3.1.1", title: "Background"},
+                {id: "3.1.2", title: "Announcement"},
+                {id: "3.1.3", title: "Titles"}
+              ]},
+              {id: "3.2", title: "Writing", sub2: [
+                {id: "3.2.1", title: "Process"},
+                {id: "3.2.2", title: "Story"},
+                {id: "3.2.3", title: "Character selection"},
+                {id: "3.2.4", title: "Character arcs"}
+              ]},
+              {id: "3.3", title: "Pre-production", sub2: [
+                {id: "3.3.1", title: "Casting"},
+                {id: "3.3.2", title: "Design"},
+                {id: "3.3.3", title: "Filming"}
+              ]},
+              {id: "3.4", title: "Filming"},
+              {id: "3.5", title: "Post-production"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
