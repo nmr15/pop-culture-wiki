@@ -138,6 +138,31 @@ const Battlefield = () =>
               Fury (adding three new battles in the USA) and Euro Force (adding the European Union), were also released. A similar game called Battlefield
               2: Modern Combat was released for consoles, with a larger single player mode but limited online play.
             </p>
+            <p>
+              <Link to="/battlefield/battlefield_2142">Battlefield 2142</Link> was released in 2006, taking place during a global ice age in the 22nd
+              century. While most of it is graphically similar to Battlefield 2, it introduces a variety of equipment to unlock and battles between two
+              giant "Titan" airships. The Northern Strike expansion pack was later releeased, adding new maps, vehicles, and a new game mode. Its use
+              of in-game advertising was controversial among players and not well received.
+            </p>
+            <p>
+              <Link to="/battlefield/bad_company">Battlefield: Bad Company</Link>, released in 2008, is set in a near-future war between the United
+              States and Russia, and follows a US Army company's escapades and their search for hidden gold. This new Battlefield game had a variety of
+              vehicles for land, air, and sea. It had a new destruction system that allowed the player to break and destroy environments, based on a new
+              game engine named <Link>Frostbite</Link>, which replaced the Regractor engine used in earlier releases (with the exception of Battleifeld
+              2: Modern Combat, which used RenderWare).
+            </p>
+            <p>
+              In 2009, EA released two download-only games, Battlefield Heroes, a free-to-play Refractor 2 engine game, supported by advertising and
+              microtransactions and Battlefield 1943, a Frostbite engine game, released in July 2009, for the <Link>Xbox 360</Link> and
+              <Link> PlayStation 3</Link>, and was scheduled for release in Q1 2010, for PCs, but was cancelled.
+            </p>
+            <p>
+              In 2010, a sequel to Battlefield: Bad Company, <Link to="/battlefield/bad_company_2">Battlefield: Bad Company 2</Link>, was released,
+              involving "B" Company's search for an electromagnetic pulse weapon. It features a larger multiplayer than its predecessor Bad Company, with
+              updated graphics and realistic effects (e.g. bullet-drop). The game introduced the rush game mode and brought in weapons. It features a
+              "VIP" system of content distribution where players with VIP codes gain early access to new maps. DICE also released an expansion for Bad
+              Company 2, Battlefield: Bad Company 2: Vietnam, setting the game in the Vietnam War.
+            </p>
           </div>
         </div>
         <div>
