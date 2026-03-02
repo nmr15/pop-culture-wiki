@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
+import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
@@ -48,7 +48,9 @@ function App() {
         ))}
 
         {/* Routes for Marvel Comics */}
-        <Route path='/marvelcomics/spider_man' element={<Spiderman />} />
+        {routesMarvelChars.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
 
         {/* Routes for Star Wars */}
         {routesSWFilms.map(({ path, Component}, index) => (

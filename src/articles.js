@@ -6,6 +6,7 @@ import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
 import { hpbooks, hpchars } from "./data/dataHarryPotter"
+import { marvel } from "./data/dataMarvel"
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
 import { simpsonsChars } from "./data/dataSimpsons"
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
@@ -61,6 +62,13 @@ export const routesHpBooks = hpbooks.map(hpbook => ({
 export const routesHpChars = hpchars.map(hpchar => ({
   path: hpchar.route,
   Component: lazy(() => import(`./pages/HarryPotter/Characters/${hpchar.file}.jsx`))
+}));
+
+// MARVEL COMICS
+
+export const routesMarvelChars = marvelchars.map(marvelchars => ({
+  path: marvelchars.route,
+  Component: lazy(() => import(`./pages/Mcu/Films/${marvelchars.file}.jsx`))
 }));
 
 // MARVEL CINEMATIC UNIVERSE
