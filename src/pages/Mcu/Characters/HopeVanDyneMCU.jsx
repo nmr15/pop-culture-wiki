@@ -15,7 +15,28 @@ const HopeVanDyneMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Daughter of heroes"},
+                {id: "1.1.2", title: "Losing her mother"}
+              ]},
+              {id: "1.2", title: "Working at Pym Tech", sub2: [
+                {id: "1.2.1", title: ""},
+                {id: "1.2.2", title: ""},
+                {id: "1.2.3", title: ""},
+                {id: "1.2.4", title: ""}
+              ]},
+              {id: "1.3", title: ""},
+              {id: "1.4", title: ""},
+              {id: "1.5", title: ""},
+              {id: "1.6", title: ""},
+              {id: "1.7", title: ""},
+              {id: "1.8", title: ""}
+            ]}
+          />
           <Collapse 
             id="2"
             item="Powers and abilities"
@@ -66,18 +87,18 @@ const HopeVanDyneMCU = () =>
               </td>
             </tr>
             <tr>
-                          <th className="infobox-data">Portrayed by</th>
-                          <td className="infobox-data"><Link>Evangeline Lilly</Link></td>
-                        </tr>
-                        <tr>
-                          <th className="infobox-data">Appearances</th>
-                          <td className="infobox-data">
-                            <Link to="/mcu/antman_film">Ant-Man</Link> <br />
-                            <Link to="/mcu/antman_and_the_wasp">Ant-Man and the Wasp</Link> <br />
-                            <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
-                            <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link>
-                          </td>
-                        </tr>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Evangeline Lilly</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/antman_film">Ant-Man</Link> <br />
+                <Link to="/mcu/antman_and_the_wasp">Ant-Man and the Wasp</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/antman_and_the_wasp_quantumania">Ant-Man and the Wasp: Quantumania</Link>
+              </td>
+            </tr>
           </tbody>
         </table>
         <div className="div-top">
