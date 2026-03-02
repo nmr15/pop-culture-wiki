@@ -125,7 +125,25 @@ const BlackPantherFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Black Panther</b> is a 2018 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/black_panther"> of the same name</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Walt Disney
+            Studios Motion Pictures, it is the 18th film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). The films was directed by
+            <Link> Ryan Coogler</Link>, who co-wrote the screenplay with Joe Robert Cole, and it stars <Link>Chadwick Boseman</Link> as
+            <Link to="/mcu/t'challa"> T'Challa / Black Panther</Link> alongside <Link>Michael B. Jordan</Link>, <Link>Lupita Nyong'o</Link>,
+            <Link> Danai Gurira</Link>, <Link>Martin Freeman</Link>, <Link>Daniel Kaluuya</Link>, <Link>Letitia Wright</Link>, Winston Duke,
+            Sterling K. Brown, <Link>Angela Bassett</Link>, <Link>Forest Whitaker</Link>, and <Link>Andy Serkis</Link>. In Black Panther, T'Challa is
+            crowned king of <Link>Wakanda</Link> following his father's death, but he is challenged by <Link>Killmonger</Link> (Jordan), who plans to
+            abandon the country's isolationist policies and begin a global revolution.
+          </p>
+          <p>
+            Wesley Snipes planned to make a Black Panther film in 1992, but the project did not come to fruition. In September 2005, Marvel Studios listed
+            a Black Panther film as one of ten films based on Marvel characters intended to be distributed by Paramount Pictures. Mark Bailey was hired to
+            write a script in January 2011. Black Panther was officially announced in October 2014, and Boseman made his first appearance as the
+            character in <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> (2016). Cole and Coogler had joined by then, with
+            additional casting in May. Black Panther was the first Marvel Studios film with a Black director and a predominantly Black cast. Principal
+            photography took place from January to April 2017 at EUE/Screen Germ Studios in the Atlanta metropolitan area, and in Busan, South Korea.
+          </p>
         </div>
       </main>
     </>
