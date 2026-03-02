@@ -68,7 +68,7 @@ export const routesHpChars = hpchars.map(hpchar => ({
 
 export const routesMarvelChars = marvelchars.map(marvelchars => ({
   path: marvelchars.route,
-  Component: lazy(() => import(`./pages/Mcu/Films/${marvelchars.file}.jsx`))
+  Component: lazy(() => import(`./pages/MarvelComics/Characters/${marvelchars.file}.jsx`))
 }));
 
 // MARVEL CINEMATIC UNIVERSE
