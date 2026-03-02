@@ -17,7 +17,7 @@ export const marvel = [
     "id": "marvel3",
     "title": "Captain America (Steve Rogers)",
     "file": "CaptainAmerica",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/CaptainAmericaHughes.jpg/220px-CaptainAmericaHughes.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Captain_America.png",
     "route": "/marvelcomics/captain_america"
   },
   {
@@ -31,7 +31,7 @@ export const marvel = [
     "id": "marvel5",
     "title": "Thor",
     "file": "Thor",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Thor_by_Olivier_Coipel.png/220px-Thor_by_Olivier_Coipel.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Thor_%28Marvel_Comics%29.png",
     "route": "/marvelcomics/thor"
   },
   {
@@ -45,14 +45,14 @@ export const marvel = [
     "id": "marvel7",
     "title": "Black Widow (Natasha Romanova)",
     "file": "BlackWidow",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Black_Widow_1.png/220px-Black_Widow_1.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Natasha_Romanova_incarnations.jpg",
     "route": "/marvelcomics/black_widow"
   },
   {
     "id": "marvel8",
     "title": "Vision",
     "file": "Vision",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/Vision_%28Marvel_Comics%29.png",
     "route": "/marvelcomics/vision"
   },
   {
@@ -73,7 +73,7 @@ export const marvel = [
     "id": "marvel11",
     "title": "Black Panther (T'Challa)",
     "file": "BlackPanther",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Black_Panther_OS_Vol_1_2.png/220px-Black_Panther_OS_Vol_1_2.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Black_Panther_%28T%27Challa%29.png",
     "route": "/marvelcomics/black_panther"
   },
   {
@@ -87,7 +87,7 @@ export const marvel = [
     "id": "marvel13",
     "title": "Mister Fantastic (Reed Richards)",
     "file": "MisterFantastic",
-    "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Reedr.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Mister_Fantastic.png",
     "route": "/marvelcomics/mister_fantastic"
   },
   {
@@ -108,7 +108,7 @@ export const marvel = [
     "id": "marvel16",
     "title": "The Thing (Ben Grimm)",
     "file": "Thing",
-    "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Thing_Dark_Reign_Fantastic_Four.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Thing_%28Marvel_Comics%29.png",
     "route": "/marvelcomics/thing"
   },
   {
@@ -129,7 +129,7 @@ export const marvel = [
     "id": "marvel19",
     "title": "Professor X (Charles Xavier)",
     "file": "ProfessorX",
-    "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Professor_X%2C_New_Avengers%2C_Illuminati.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Professor_X.png",
     "route": "/marvelcomics/professor_x"
   },
   {
@@ -150,7 +150,7 @@ export const marvel = [
     "id": "marvel22",
     "title": "Nightcrawler (Kurt Wagner)",
     "file": "Nightcrawler",
-    "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Nightcrawler_%28Kurt_Wagner_circa_2018%29.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Nightcrawler_%28character%29.png",
     "route": "/marvelcomics/nightcrawler"
   },
   {
