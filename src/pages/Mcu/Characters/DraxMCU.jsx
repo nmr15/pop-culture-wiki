@@ -4,11 +4,11 @@ import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 import TableMcu from '../../../components/TableMcu'
 
-const AvengersInfinityWar = () =>
+const DraxMCU = () =>
 {
   useEffect(() =>
   {
-    document.title = "Avengers: Infinity War - Pop Culture Wiki";
+    document.title = "Drax - Pop Culture Wiki";
   }, []);
 
   return(
@@ -16,79 +16,47 @@ const AvengersInfinityWar = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
-          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
-          <Collapse 
-            id="3"
-            item="Production"
-            sub={[
-              {id: "3.1", title: "Development", sub2: [
-                {id: "3.1.1", title: "Background"},
-                {id: "3.1.2", title: "Announcement"},
-                {id: "3.1.3", title: "Titles"}
-              ]},
-              {id: "3.2", title: "Writing", sub2: [
-                {id: "3.2.1", title: "Process"},
-                {id: "3.2.2", title: "Story"},
-                {id: "3.2.3", title: "Character selection"},
-                {id: "3.2.4", title: "Character arcs"}
-              ]},
-              {id: "3.3", title: "Pre-production", sub2: [
-                {id: "3.3.1", title: "Casting"},
-                {id: "3.3.2", title: "Design"},
-                {id: "3.3.3", title: "Filming"}
-              ]},
-              {id: "3.4", title: "Filming"},
-              {id: "3.5", title: "Post-production"}
-            ]}
-          />
+          
         </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
-          <li>Avengers: Infinity War</li>
+          <li>Drax</li>
         </ul>
         <div>
-          <h1 className="article-heading">Avengers: Infinity War</h1>
+          <h1 className="article-heading">Drax</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Avengers: Infinity War</span>
+                <span>Drax</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" alt="Avengers: Infinity War poster" />
+                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Drax_Vol._3.jpg" alt="Drax" />
                 </span>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Directed by</th>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Dave Bautista</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
               <td className="infobox-data">
-                <Link>Anthony Russo</Link> <br />
-                <Link>Joe Russo</Link>
+                <Link to="/mcu/guardians_of_the_galaxy_film">Guardians of the Galaxy</Link> <br />
+                <Link to="/mcu/guardians_of_the_galaxy_vol_2">Guardians of the Galaxy Vol. 2</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/thor_love_and_thunder">Thor: Love and Thunder</Link> <br />
+                <Link to="/mcu/the_guardians_of_the_galaxy_holiday_special">The Guardians of the Galaxy Holiday Special</Link>
+                <Link to="/mcu/guardians_of_the_galaxy_vol_3">Guardians of the Galaxy Vol. 3</Link>
               </td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Projects</th>
-              <td className="infobox-data"><Link>List of MCU projects</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link to="/mcu/characters">List of MCU character</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Previous MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/captain_marvel_film">Captain Marvel</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Next MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/spiderman_far_from_home">Spider-Man: Far From Home</Link></td>
             </tr>
           </tbody>
         </table>
@@ -137,4 +105,4 @@ const AvengersInfinityWar = () =>
   )
 }
 
-export default AvengersInfinityWar;
+export default Drax MCU;
