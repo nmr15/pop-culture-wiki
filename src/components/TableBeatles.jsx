@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom'
-import { beatles, beatlesAlbums, beatlesWtb, beatlesAnh, beatlesBfs, beatlesHlp, beatlesRbs, beatlesRvlr, beatlesSgt, beatlesMmt, beatlesTwa } from '../data/dataBeatles';
+// import { beatles, beatlesAlbums, beatlesWtb, beatlesAnh, beatlesBfs, beatlesHlp, beatlesRbs, beatlesRvlr, beatlesSgt, beatlesMmt, beatlesTwa } from '../data/dataBeatles';
 
 const TableBeatles = () =>
 {
     return(
         <>
-            <div>
+            {/* <div>
                 <table className="table-center">
                     <thead>
                         <tr>
@@ -125,7 +125,7 @@ const TableBeatles = () =>
                         </tr>
                     </tbody>
                 </table>
-            </div>
+            </div> */}
         </>
     )
 }
