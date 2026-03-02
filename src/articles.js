@@ -66,7 +66,7 @@ export const routesHpChars = hpchars.map(hpchar => ({
 
 // MARVEL COMICS
 
-export const routesMarvelChars = marvelchars.map(marvelchars => ({
+export const routesMarvelChars = marvel.map(marvelchars => ({
   path: marvelchars.route,
   Component: lazy(() => import(`./pages/MarvelComics/Characters/${marvelchars.file}.jsx`))
 }));
