@@ -17,6 +17,30 @@ const DraxMCU = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Weapons"},
+              {id: "3.2", title: "Other equipment"},
+              {id: "3.3", title: "Vehicles"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Facilities"
+            sub={[
+              {id: "4.1", title: "Prisons"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -105,4 +129,4 @@ const DraxMCU = () =>
   )
 }
 
-export default Drax MCU;
+export default DraxMCU;
