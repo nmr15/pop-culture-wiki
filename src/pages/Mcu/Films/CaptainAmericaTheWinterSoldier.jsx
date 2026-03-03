@@ -22,23 +22,16 @@ const CaptainAmericaTheWinterSoldier = () =>
             id="3"
             item="Production"
             sub={[
-              {id: "3.1", title: "Development"},
+              {id: "3.1", title: "Development", sub2: [
+                {id: "3.1.2", title: "Writing"}
+              ]},
               {id: "3.2", title: "Pre-production"},
               {id: "3.3", title: "Filming"},
-              {id: "3.4", title: "Post-production", sub2: [
-                {id: "3.4.1", title: "Visual effects"}
-              ]}
+              {id: "3.4", title: "Post-production"}
             ]}
           />
           <li className="sidebar-list-item"><a href="#4">Music</a></li>
-          <Collapse 
-            id="5"
-            item="Marketing"
-            sub={[
-              {id: "5.1", title: "Promotion"},
-              {id: "5.2", title: "Merchandise"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
           <Collapse 
             id="6"
             item="Release"
@@ -51,22 +44,12 @@ const CaptainAmericaTheWinterSoldier = () =>
             id="7"
             item="Reception"
             sub={[
-              {id: "7.1", title: "Box office", sub2: [
-                {id: "7.1.1", title: "United States and Canada"},
-                {id: "7.1.2", title: "Other territories"}
-              ]},
+              {id: "7.1", title: "Box office"},
               {id: "7.2", title: "Critical response"},
               {id: "7.3", title: "Accolades"}
             ]}
           />
-          <Collapse 
-            id="8"
-            item="Future"
-            sub={[
-              {id: "8.1", title: "Potential Evans' solo film"},
-              {id: "8.2", title: "The Falcon and the Winter Soldier and Captain America: Brave New World"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#8">Sequel</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
