@@ -16,6 +16,60 @@ const GuardiansOfTheGalaxyFilm = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development", sub2: [
+                {id: "3.1.1", title: "Writing"}
+              ]},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Filming"},
+              {id: "3.4", title: "Post-production", sub2: [
+                {id: "3.4.1", title: "Visual effects"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <Collapse 
+            id="5"
+            item="Marketing"
+            sub={[
+              {id: "5.1", title: "Promotion"},
+              {id: "5.2", title: "Merchandise"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Box office", sub2: [
+                {id: "7.1.1", title: "North America"},
+                {id: "7.1.2", title: "Other territories"}
+              ]},
+              {id: "7.2", title: "Critical response"},
+              {id: "7.3", title: "Accolades"}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Sequels and special"
+            sub={[
+              {id: "8.1", title: "Guardians of the Galaxy Vol. 2"},
+              {id: "8.2", title: "The Guardians of the Galaxy Holiday Special"},
+              {id: "8.3", title: "Guardians of the Galaxy Vol. 3"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
