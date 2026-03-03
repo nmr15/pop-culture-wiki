@@ -43,7 +43,7 @@ const SpiderManFarFromHome = () =>
             </tr>
             <tr>
               <th className="infobox-data">Directed by</th>
-              <td className="infobox-data"><Link>James Gunn</Link></td>
+              <td className="infobox-data"><Link>Jon Watts</Link></td>
             </tr>
             <tr>
               <th className="infobox-data">Projects</th>

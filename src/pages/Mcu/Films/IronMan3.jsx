@@ -43,7 +43,7 @@ const IronMan3 = () =>
             </tr>
             <tr>
               <th className="infobox-data">Directed by</th>
-              <td className="infobox-data"><Link>James Gunn</Link></td>
+              <td className="infobox-data"><Link>Shane Black</Link></td>
             </tr>
             <tr>
               <th className="infobox-data">Projects</th>
