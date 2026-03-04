@@ -108,6 +108,12 @@ const IronMan3 = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
