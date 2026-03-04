@@ -30,78 +30,91 @@ export const beatlesAlbums = [
     "id": "btlsAl1",
     "title": "Please Please Me",
     "file": "PleasePleaseMe",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Please_Please_Me.png",
     "route": "/beatles/please_please_me_album"
   },
   {
     "id": "btlsAl2",
     "title": "With the Beatles",
     "file": "WithTheBeatles",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/52/With_the_Beatles.png",
     "route": "/beatles/with_the_beatles"
   },
   {
     "id": "btlsAl3",
     "title": "A Hard Day's Night",
     "file": "AHardDaysNightAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg",
     "route": "/beatles/a_hard_day's_night_album"
   },
   {
     "id": "btlsAl4",
     "title": "Beatles for Sale",
     "file": "BeatlesForSale",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Beatlesforsale.jpg",
     "route": "/beatles/beatles_for_sale"
   },
   {
     "id": "btlsAl5",
     "title": "Help!",
     "file": "HelpAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Beatles_-_Help%21.png",
     "route": "/beatles/help_album"
   },
   {
     "id": "btlsAl6",
     "title": "Rubber Soul",
     "file": "RubberSoul",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Rubber_Soul.png",
     "route": "/beatles/rubber_soul"
   },
   {
     "id": "btlsAl7",
     "title": "Revolver",
     "file": "Revolver",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg",
     "route": "/beatles/revolver"
   },
   {
     "id": "btlsAl8",
     "title": "Sgt. Pepper's Lonely Hearts Club Band",
     "file": "SgtPepperAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sgt._Pepper%27s_Lonely_Hearts_Club_Band_album_art.jpg/500px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band_album_art.jpg",
     "route": "/beatles/sgt._pepper's_lonely_hearts_club_band_album"
   },
   {
     "id": "btlsAl9",
     "title": "Magical Mystery Tour",
     "file": "MagicalMysteryTour",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/MagicalMysteryTourDoubleEPcover.jpg",
     "route": "/beatles/magical_mystery_tour"
   },
   {
     "id": "btlsAl10",
     "title": "The Beatles (The White Album)",
     "file": "TheWhiteAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/500px-TheBeatles68LP.jpg",
     "route": "/beatles/the_white_album"
   },
   {
     "id": "btlsAl11",
     "title": "Yellow Submarine",
     "file": "YellowSubmarineAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg/500px-TheBeatles-YellowSubmarinealbumcover.jpg",
     "route": "/beatles/yellow_submarine_album"
   },
   {
     "id": "btlsAl12",
     "title": "Abbey Road",
     "file": "AbbeyRoad",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/500px-The_Beatles_Abbey_Road_album_cover.jpg",
     "route": "/beatles/abbey_road"
   },
   {
     "id": "btlsAl13",
     "title": "Let it Be",
     "file": "LetItBeAlbum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Beatles_-_Let_It_Be.png/500px-The_Beatles_-_Let_It_Be.png",
     "route": "/beatles/let_it_be_album"
   }
 ]
