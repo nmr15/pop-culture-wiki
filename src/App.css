@@ -82,6 +82,16 @@ p
   width: 33.33333333%;
 }
 
+.mr-1
+{
+  margin-right: 1rem;
+}
+
+.ml-1
+{
+  margin-left: 1rem;
+}
+
 .navbar
 {
   padding: 1rem;
@@ -298,6 +308,12 @@ p
 .p-bottom-margin
 {
   margin-bottom: 1.5rem;
+}
+
+.flex
+{
+  display: flex;
+  align-items: center;
 }
 
 .div-top
