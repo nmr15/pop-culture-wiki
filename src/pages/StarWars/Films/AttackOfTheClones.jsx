@@ -21,6 +21,7 @@ const AttackOfTheClones = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/starwars">Star Wars</Link></li>
           <li>Episode II: Attack of the Clones</li>
         </ul>
         <div>

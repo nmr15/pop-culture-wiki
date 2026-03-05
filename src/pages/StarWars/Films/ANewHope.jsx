@@ -76,6 +76,7 @@ const ANewHope = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/starwars">Star Wars</Link></li>
           <li>Episode IV: A New Hope</li>
         </ul>
         <div>
