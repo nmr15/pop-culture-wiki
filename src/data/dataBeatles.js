@@ -895,6 +895,110 @@ export const beatlesSongs = [
     "img": "",
     "album": "Revolver",
     "route": "/beatles/tomorrow_never_knows"
+  },
+  {
+    "id": "btlsSong98",
+    "title": "Sgt. Pepper's Lonely Hears Club Band",
+    "file": "SgtPepperSong",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Smsgtpep.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/sgt_pepper's_lonely_hearts_club_band_song"
+  },
+  {
+    "id": "btlsSong99",
+    "title": "With a Little Help from My Friends",
+    "file": "WithALittleHelpFromMyFriends",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/33/With_a_Little_Help_from_My_Friends_sheet_music.gif",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/with_a_little_help_from_my_friends"
+  },
+  {
+    "id": "btlsSong100",
+    "title": "Lucy in the Sky with Diamonds",
+    "file": "LucyInTheSkyWithDiamonds",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Lucy_in_the_Sky_with_Diamonds_US_sheet_music_cover.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/lucy_in_the_sky_with_diamonds"
+  },
+  {
+    "id": "btlsSong101",
+    "title": "Getting Better",
+    "file": "GettingBetter",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Getting_Better_-_The_Beatles_%28sheet_music%29.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/getting_better"
+  },
+  {
+    "id": "btlsSong102",
+    "title": "Fixing a Hole",
+    "file": "FixingAHole",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Fixing_a_hole.PNG",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/fixing_a_hole"
+  },
+  {
+    "id": "btlsSong103",
+    "title": "She's Leaving Home",
+    "file": "ShesLeavingHome",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Shes_leaving_home.PNG",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/she's_leaving_home"
+  },
+  {
+    "id": "btlsSong104",
+    "title": "Being for the Benefit of Mr. Kite",
+    "file": "BeingForTheBenefitOfMrKite",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Beingforthebenenfitofmrkite.PNG",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/being_for_the_benefit_of_mr._kite"
+  },
+  {
+    "id": "btlsSong105",
+    "title": "Within You Without You",
+    "file": "WithinYouWithoutYou",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Within_you_and_without_you_sheet_music.PNG",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/within_you_without_you"
+  },
+  {
+    "id": "btlsSong106",
+    "title": "When I'm Sixty-Four",
+    "file": "WhenImSixtyFour",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/77/When_I%27m_sixty_four.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/when_i'm_sixty_four"
+  },
+  {
+    "id": "btlsSong107",
+    "title": "Lovely Rita",
+    "file": "LovelyRita",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Lovely_rita.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/lovely_rita"
+  },
+  {
+    "id": "btlsSong108",
+    "title": "Good Morning Good Morning",
+    "file": "GoodMorningGoodMorning",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Good_morning_good_morning.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/good_morning_good_morning"
+  },
+  {
+    "id": "btlsSong109",
+    "title": "Sgt. Pepper's Lonely Hears Club Band (reprise)",
+    "file": "SgtPepperReprise",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Smsgtpep.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/sgt_pepper's_lonely_hearts_club_band_reprise"
+  },
+  {
+    "id": "btlsSong110",
+    "title": "A Day in the Life",
+    "file": "ADayInTheLife",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/02/%22A_Day_in_the_Life%22_US_sheet_music_cover.jpg",
+    "album": "Sgt. Pepper's Lonely Hears Club Band",
+    "route": "/beatles/a_day_in_the_life"
   }
 ]
 
