@@ -187,6 +187,16 @@ const TheAvengersFilm = () =>
               </p>
             </div>
             <div className="flex">
+              <p>
+                The group gathers on the <Link>Helicarrier</Link>, where Banner starts tracking the gamma radiation emitted by the Tesseract, while
+                S.H.I.E.L.D. tries to find Loki. Meanwhile, Loki uses the scepter to communicate with the Other, who warns him that the consequences will be
+                unspeakable if he should fail. Shortly after cutting off contact, Loki is discovered in Stuttgard, Germany. He attacks a man named Heinrick
+                Schäfer before terrorizing a crowd of people attending a gala, providing a distraction so tat the brainwashed Barton may retrieve Iridium to
+                stablize the Tesseract. Romanoff and Rogers arrive to apprehend Loki, with Rogers and Loki engaging in an even fight until the timely
+                intervention of Stark, who forces Loki to surrender. After capturing him, they board a <Link>Quinjet</Link> and start their return trip to the
+                Helicarrier. A lightning storm suddenly forms, and Thor appears, transported to Earth by <Link>Odin</Link> and <Link>Heimdall</Link>'s dark
+                magic.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Loki_in_Germany.jpg" alt="Loki in Germany" />
                 <p>Loki in Germany</p>
@@ -197,6 +207,13 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Thor%2C_Iron_Man_and_Captain_America.png" alt="Thor, Iron Man, Captain America" />
                 <p>A fight in the woods</p>
               </div>
+              <p>
+                Thor takes Loki from the team's custody and carries him to a nearby forest. Thor attempts to persuade Loki into abandoning his campaign and
+                returning to Asgard, but Loki, blinded by his jealousy of Thor and contempt towards Odin, refuses. Stark flies in and attacks Thor, engaging
+                him in a battle that levels part of the forest. Before any further damage can be done, Rogers intervenes and attempts to get Thor to stand
+                down. Thor responds by lunging at Rogers with <Link>Mjølnir</Link>, only for Cap's <Link>shield</Link> to absorb the blow. Thor finally
+                agrees to work with the humans and joins them in bringing Loki to the Helicarrier.
+              </p>
             </div>
             <div className="flex">
               <div className="img-card ml-1">
