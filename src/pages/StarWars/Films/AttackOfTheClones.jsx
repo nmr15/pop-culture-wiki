@@ -16,6 +16,48 @@ const AttackOfTheClones = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Writing"},
+              {id: "3.2", title: "Filming"},
+              {id: "3.3", title: "Visual effects"},
+              {id: "3.4", title: "Music"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Themes"
+            sub={[
+              {id: "4.1", title: "References"},
+              {id: "4.2", title: "Parallels"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Release"
+            sub={[
+              {id: "5.1", title: "Marketing"},
+              {id: "5.2", title: "Theatrical"},
+              {id: "5.3", title: "Home media"},
+              {id: "5.4", title: "Canceled 3D re-release"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Reception"
+            sub={[
+              {id: "6.1", title: "Critical response"},
+              {id: "6.2", title: "Box office"},
+              {id: "6.3", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Legacy</a></li>
+          <li className="sidebar-list-item"><a href="#8">Novelization</a></li>
+          <li className="sidebar-list-item"><a href="#9">Sequel</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -42,8 +84,16 @@ const AttackOfTheClones = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>George Lucas</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films and series</th>
+              <td className="infobox-data"><Link>List of Star Wars films and series</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Star Wars characters</Link></td>
             </tr>
           </tbody>
         </table>
