@@ -173,14 +173,97 @@ const TheAvengersFilm = () =>
                 <p>Loki arrives</p>
               </div>
             </div>
-            
-            <p>
-              Despite orders from the <Link>World Security Council</Link> to proceed with "Phase 2," Fury sends Natasha Romanoff to locate Bruce Banner,
-              who has been living in Kolkata, India as a doctor. Agent Coulson is sent to recruit Tony Stark. Both of them are hired to help locate the
-              Tesseract. Fury himself meets with Steve Rogers, informing him of Loki's theft of the Tesseract, requesting his help in recovering it and
-              subduing the invader. All three men accept the offer, though Rogers is reluctant to do anything involving the Tesseract after his
-              experiences with it in World War II. Banner is also hesitant to assist, fearing that his alter-ego, the Hulk, may cause mayhem.
-            </p>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/93/BlackWidow01Interrogation1-Avengers.png" alt="Black Widow"/>
+                <p>Black Widow on a mission</p>
+              </div>
+              <p>
+                Despite orders from the <Link>World Security Council</Link> to proceed with "Phase 2," Fury sends Natasha Romanoff to locate Bruce Banner,
+                who has been living in Kolkata, India as a doctor. Agent Coulson is sent to recruit Tony Stark. Both of them are hired to help locate the
+                Tesseract. Fury himself meets with Steve Rogers, informing him of Loki's theft of the Tesseract, requesting his help in recovering it and
+                subduing the invader. All three men accept the offer, though Rogers is reluctant to do anything involving the Tesseract after his
+                experiences with it in World War II. Banner is also hesitant to assist, fearing that his alter-ego, the Hulk, may cause mayhem.
+              </p>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Loki_in_Germany.jpg" alt="Loki in Germany" />
+                <p>Loki in Germany</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Thor%2C_Iron_Man_and_Captain_America.png" alt="Thor, Iron Man, Captain America" />
+                <p>A fight in the woods</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Stark_Spangled_Banner.jpg" alt="Steve arguse with Tony and Bruce" />
+                <p>Steve arguse with Tony and Bruce</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/62074349804c4d29a3e7o.jpg" alt="Steve and Tony" />
+                <p>The Helicarrier is attacked</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Hill_%26_Fury.png" alt="Nick Fury and Maria Hill defend the Helicarrier" />
+                <p>Nick Fury and Maria Hill defend the Helicarrier</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/28/HulkBlackWidow.png" alt="Hulk chases Black Widow" />
+                <p>Hulk chases Black Widow</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/95/CoulsonOnlyMostlyDead-Avengers.png" alt="Phil Coulson dies" />
+                <p>Phil Coulson dies</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9a/Hawkeye%2C_Captain_America_%26_Black_Widow.jpg" alt="Hawkeye, Captain America, Black Widow" />
+                <p>The team suit up</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/26/Loki_%26_Iron_Man.png" alt="Loki and Iron Man" />
+                <p>Loki and Iron Man</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Avengers.png" alt="The Avengers" />
+                <p>The Avengers</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d0/One_way_trip.PNG" alt="Iron Man nuke portal" />
+                <p>Iron Man makes a sacrifice</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/12/The_Avengers_Assembled.jpg" alt="Loki is defeated" />
+                <p>Loki is defeated</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/26/Shawarma_Palace.png" alt="Avengers eat shawarma" />
+                <p>The Avengers go for shawrma</p>
+              </div>
+            </div>
           </div>
         </div>
          <div>
