@@ -146,8 +146,8 @@ const TheAvengersFilm = () =>
           <Heading2 id={1} title={"Plot"} />
           <div>
             <div className="flex">
-              <div className="img-card">
-                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/67/Coulson_Hill_Fury.jpg" alt="Coulson_Hill_Fury" className="mr-1" />
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/67/Coulson_Hill_Fury.jpg" alt="Coulson_Hill_Fury"/>
                 <p>S.H.I.E.L.D. at Joint Dark Energy Mission Facility</p>
               </div>
               <p>
@@ -168,8 +168,8 @@ const TheAvengersFilm = () =>
                 enslave the minds of Selvig, Barton, and several S.H.I.E.L.D. agents, aiding him in his getaway. Despite the efforts of Fury and Hill to
                 stop him, Loki escapes. In response, Fury reactivates the Avengers Initiative.
               </p>
-              <div className="img-card">
-                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/72/Avengers_41.jpg" alt="Loki" className="ml-1" />
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/72/Avengers_41.jpg" alt="Loki"/>
                 <p>Loki arrives</p>
               </div>
             </div>
