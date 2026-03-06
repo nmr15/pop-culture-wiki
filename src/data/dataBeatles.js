@@ -124,7 +124,7 @@ export const beatlesSongs = [
     "id": "btlsSong1",
     "title": "I Saw Her Standing There",
     "file": "ISawHerStandingThere",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/I_saw_her_standing_there_single.png",
     "album": "Please Please Me",
     "route": "/beatles/i_saw_her_standing_there"
   },
@@ -132,7 +132,7 @@ export const beatlesSongs = [
     "id": "btlsSong2",
     "title": "Misery",
     "file": "MiseryBeatles",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Misery_-_The_Beatles.jpg",
     "album": "Please Please Me",
     "route": "/beatles/misery"
   },
@@ -140,7 +140,7 @@ export const beatlesSongs = [
     "id": "btlsSong3",
     "title": "Anna (Go to Him)",
     "file": "AnnaBeatles",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Anna_%28Go_to_Him%29_Beatles_Japanese_single.png",
     "album": "Please Please Me",
     "route": "/beatles/anna_go_to_him"
   },
@@ -148,7 +148,7 @@ export const beatlesSongs = [
     "id": "btlsSong4",
     "title": "Chains",
     "file": "Chains",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Chains_sheet_music.jpg",
     "album": "Please Please Me",
     "route": "/beatles/chains"
   },
@@ -156,7 +156,7 @@ export const beatlesSongs = [
     "id": "btlsSong5",
     "title": "Boys",
     "file": "Boys",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Boy_beatles.jpg",
     "album": "Please Please Me",
     "route": "/beatles/boys"
   },
@@ -164,7 +164,7 @@ export const beatlesSongs = [
     "id": "btlsSong6",
     "title": "Ask Me Why",
     "file": "Ask Me Why",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/AskmewhyUS.png",
     "album": "Please Please Me",
     "route": "/beatles/ask_me_why"
   },
@@ -172,7 +172,7 @@ export const beatlesSongs = [
     "id": "btlsSong7",
     "title": "Please Please Me",
     "file": "PleasePleaseMe",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Pleasepleasemesingle.png",
     "album": "Please Please Me",
     "route": "/beatles/please_please_me_song"
   },
@@ -180,7 +180,7 @@ export const beatlesSongs = [
     "id": "btlsSong8",
     "title": "Love Me Do",
     "file": "LoveMeDo",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg",
     "album": "Please Please Me",
     "route": "/beatles/love_me_do"
   },
@@ -188,7 +188,7 @@ export const beatlesSongs = [
     "id": "btlsSong9",
     "title": "P.S. I Love You",
     "file": "PSILoveYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg",
     "album": "Please Please Me",
     "route": "/beatles/ps_i_love_you"
   },
@@ -196,7 +196,7 @@ export const beatlesSongs = [
     "id": "btlsSong10",
     "title": "Baby It's You",
     "file": "BabyItsYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Baby_Its_You_sheet_music.jpg",
     "album": "Please Please Me",
     "route": "/beatles/baby_its_you"
   },
@@ -204,7 +204,7 @@ export const beatlesSongs = [
     "id": "btlsSong11",
     "title": "Do You Want to Know a Secret",
     "file": "DoYouWanttoKnowASecret",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_beatles_do_you_want_to_know_a_secret.PNG",
     "album": "Please Please Me",
     "route": "/beatles/do_you_want_to_know_a_secret"
   },
@@ -212,7 +212,7 @@ export const beatlesSongs = [
     "id": "btlsSong12",
     "title": "A Taste of Honey",
     "file": "ATasteofHoney",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/A_Taste_of_Honey.png",
     "album": "Please Please Me",
     "route": "/beatles/a_taste_of_honey"
   },
@@ -220,7 +220,7 @@ export const beatlesSongs = [
     "id": "btlsSong13",
     "title": "There's a Place",
     "file": "TheresAPlace",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/There%27s_a_Place_by_The_Beatles_Side-B_US_vinyl.png",
     "album": "Please Please Me",
     "route": "/beatles/theres_a_place"
   },
@@ -228,7 +228,7 @@ export const beatlesSongs = [
     "id": "btlsSong14",
     "title": "Twist and Shout",
     "file": "TwistAndShout",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twist_and_Shout_by_The_Beatles_Side-A_US_vinyl.png/500px-Twist_and_Shout_by_The_Beatles_Side-A_US_vinyl.png",
     "album": "Please Please Me",
     "route": "/beatles/twist_and_shout"
   },
