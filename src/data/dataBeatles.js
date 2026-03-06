@@ -236,7 +236,7 @@ export const beatlesSongs = [
     "id": "btlsSong15",
     "title": "It Won't Be Long",
     "file": "ItWontBeLong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/It_Won%27t_Be_Long_-_The_Beatles.jpg",
     "album": "With the Beatles",
     "route": "/beatles/it_won't_be_long"
   },
@@ -244,7 +244,7 @@ export const beatlesSongs = [
     "id": "btlsSong16",
     "title": "All I've Got to Do",
     "file": "AllIveGotToDo",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/All_I%27ve_Got_to_Do_sheet_music_cover.jpg",
     "album": "With the Beatles",
     "route": "/beatles/all_ive_got_to_do"
   },
@@ -252,7 +252,7 @@ export const beatlesSongs = [
     "id": "btlsSong17",
     "title": "All My Loving",
     "file": "AllMyLoving",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Allmyloving1964.jpg",
     "album": "With the Beatles",
     "route": "/beatles/all_my_loving"
   },
@@ -260,7 +260,7 @@ export const beatlesSongs = [
     "id": "btlsSong18",
     "title": "Don't Bother Me",
     "file": "DontBotherMe",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Dont-bother-me-british-sheet-music.jpg",
     "album": "With the Beatles",
     "route": "/beatles/don't_bother_me"
   },
@@ -268,7 +268,7 @@ export const beatlesSongs = [
     "id": "btlsSong19",
     "title": "Little Child",
     "file": "LittleChild",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Little_Child_sheet_music.jpg",
     "album": "With the Beatles",
     "route": "/beatles/little_child"
   },
@@ -276,7 +276,7 @@ export const beatlesSongs = [
     "id": "btlsSong20",
     "title": "Till There Was You",
     "file": "TillThereWasYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tilltherewasyoubeatles.png",
     "album": "With the Beatles",
     "route": "/beatles/till_there_was_you"
   },
@@ -284,7 +284,7 @@ export const beatlesSongs = [
     "id": "btlsSong21",
     "title": "Please Mr. Postman",
     "file": "PleaseMrPostman",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/The-beatles-roll-over-beethoven-1964-27-s.jpg",
     "album": "With the Beatles",
     "route": "/beatles/please_mr_postman"
   },
@@ -292,7 +292,7 @@ export const beatlesSongs = [
     "id": "btlsSong22",
     "title": "Roll Over Beethoven",
     "file": "RollOverBeethoven",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Beatles_-_Roll_Over_Beethoven_Canadian_single_label.png",
     "album": "With the Beatles",
     "route": "/beatles/roll_over_beethoven"
   },
@@ -300,7 +300,7 @@ export const beatlesSongs = [
     "id": "btlsSong23",
     "title": "Hold Me Tight",
     "file": "HoldMeTight",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Hold_me_tight.jpg",
     "album": "With the Beatles",
     "route": "/beatles/hold_me_tight"
   },
@@ -308,7 +308,7 @@ export const beatlesSongs = [
     "id": "btlsSong24",
     "title": "You Really Got a Hold on Me",
     "file": "YouReallyGotAHoldOnMe",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/You_really_got_a_hold_on_me_beatles.PNG",
     "album": "With the Beatles",
     "route": "/beatles/you_really_got_a_hold_on_me"
   },
@@ -316,7 +316,7 @@ export const beatlesSongs = [
     "id": "btlsSong25",
     "title": "I Wanna Be Your Man",
     "file": "IWannaBeYourMan",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Iwannabeyourmanstones.jpg",
     "album": "With the Beatles",
     "route": "/beatles/i_wanna_be_your_man"
   },
@@ -324,7 +324,7 @@ export const beatlesSongs = [
     "id": "btlsSong26",
     "title": "Devil in Her Heart",
     "file": "DevilInHerHeart",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Devil_in_Her_Heart_Beatles_Italian_single.png/500px-Devil_in_Her_Heart_Beatles_Italian_single.png",
     "album": "With the Beatles",
     "route": "/beatles/devil_in_her_heart"
   },
@@ -332,7 +332,7 @@ export const beatlesSongs = [
     "id": "btlsSong27",
     "title": "Not a Second Time",
     "file": "NotASecondTime",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/75/Not_a_second_time.jpg",
     "album": "With the Beatles",
     "route": "/beatles/not_a_second_time"
   },
@@ -340,7 +340,7 @@ export const beatlesSongs = [
     "id": "btlsSong28",
     "title": "Money (That's What I Want)",
     "file": "MoneyTWIW",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/MoneythatswhatIwant.jpg",
     "album": "With the Beatles",
     "route": "/beatles/money_that's_what_i_want"
   },
