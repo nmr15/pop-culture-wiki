@@ -999,6 +999,598 @@ export const beatlesSongs = [
     "img": "https://upload.wikimedia.org/wikipedia/en/0/02/%22A_Day_in_the_Life%22_US_sheet_music_cover.jpg",
     "album": "Sgt. Pepper's Lonely Hears Club Band",
     "route": "/beatles/a_day_in_the_life"
+  },
+  {
+    "id": "btlsSong111",
+    "title": "Magical Mystery Tour",
+    "file": "MagicalMysteryTourSong",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Magical_mystery_tour_sheet_music.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/magical_mystery_tour_song"
+  },
+  {
+    "id": "btlsSong112",
+    "title": "The Fool on the Hill",
+    "file": "TheFoolOnTheHill",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/71/The_fool_on_the_hill.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/the_fool_on_the_hill"
+  },
+  {
+    "id": "btlsSong113",
+    "title": "Flying",
+    "file": "FlyingSong",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Flying_beatles.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/flying_song"
+  },
+  {
+    "id": "btlsSong114",
+    "title": "Blue Jay Way",
+    "file": "BlueJayWay",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Beatles_-_Blue_Jay_Way_-_Vinyl_Record.png",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/blue_jay_way"
+  },
+  {
+    "id": "btlsSong115",
+    "title": "Your Mother Should Know",
+    "file": "YourMotherShouldKnow",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/23/Your_mother_should_know.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/your_mother_should_know"
+  },
+  {
+    "id": "btlsSong116",
+    "title": "I Am the Walrus",
+    "file": "IAmTheWalrus",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/I_Am_the_Walrus_picture_sleeve.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/i_am_the_walrus"
+  },
+  {
+    "id": "btlsSong117",
+    "title": "Hello, Goodbye",
+    "file": "HelloGoodbye",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Hello%2C_Goodbye_US_picture_sleeve.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/hello_goodbye"
+  },
+  {
+    "id": "btlsSong118",
+    "title": "Strawberry Fields Forever",
+    "file": "StrawberryFieldsForever",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Pennystrawps.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/strawberry_fields_forever"
+  },
+  {
+    "id": "btlsSong119",
+    "title": "Penny Lane",
+    "file": "PennyLane",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Pennystrawps.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/penny_lane"
+  },
+  {
+    "id": "btlsSong120",
+    "title": "Baby, You're a Rich Man",
+    "file": "BabyYoureARichMan",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/77/Baby_you_are_a_rich_man_single.PNG",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/baby_you're_a_rich_man"
+  },
+  {
+    "id": "btlsSong121",
+    "title": "All You Need Is Love",
+    "file": "AllYouNeedIsLove",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/10/All_You_Need_Is_Love_%28Beatles_single_-_cover_art%29.jpg",
+    "album": "Magical Mystery Tour",
+    "route": "/beatles/all_you_need_is_love"
+  },
+  {
+    "id": "btlsSong122",
+    "title": "Back in the U.S.S.R.",
+    "file": "BackInTheUSSR",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/back_in_the_ussr"
+  },
+  {
+    "id": "btlsSong123",
+    "title": "Dear Prudence",
+    "file": "DearPrudence",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/dear_prudence"
+  },
+  {
+    "id": "btlsSong124",
+    "title": "Glass Onion",
+    "file": "GlassOnion",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/glass_onion"
+  },
+  {
+    "id": "btlsSong125",
+    "title": "Ob-La-Di, Ob-La-Da",
+    "file": "ObLaDiObLaDa",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/ob_la_di_ob_la_da"
+  },
+  {
+    "id": "btlsSong126",
+    "title": "Wild Honey Pie",
+    "file": "WildHoneyPie",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/wild_honey_pie"
+  },
+  {
+    "id": "btlsSong127",
+    "title": "The Continuing Story of Bungalow Bill",
+    "file": "TheContinuingStoryOfBungalowBill",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/the_continuing_story_of_bungalow_bill"
+  },
+  {
+    "id": "btlsSong128",
+    "title": "While My Guitar Gently Weeps",
+    "file": "WhileMyGuitarGentlyWeeps",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/while_my_guitar_gently_weeps"
+  },
+  {
+    "id": "btlsSong129",
+    "title": "Happiness Is a Warm Gun",
+    "file": "HappinessIsAWarmGun",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/happiness_is_a_warm_gun"
+  },
+  {
+    "id": "btlsSong130",
+    "title": "Martha My Dear",
+    "file": "MarthaMyDear",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/martha_my_dear"
+  },
+  {
+    "id": "btlsSong131",
+    "title": "I'm So Tired",
+    "file": "ImSoTired",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/im_so_tired"
+  },
+  {
+    "id": "btlsSong132",
+    "title": "Blackbird",
+    "file": "BlackbirdSong",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/blackbird_song"
+  },
+  {
+    "id": "btlsSong133",
+    "title": "Piggies",
+    "file": "PiggiesSong",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/piggies"
+  },
+  {
+    "id": "btlsSong134",
+    "title": "Rocky Raccoon",
+    "file": "RockyRaccoon",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/rocky_raccoon"
+  },
+  {
+    "id": "btlsSong135",
+    "title": "Don't Pass Me By",
+    "file": "DontPassMeBy",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/dont_pass_me_by"
+  },
+  {
+    "id": "btlsSong136",
+    "title": "Why Don't We Do It in the Road?",
+    "file": "WhyDontWeDoItInTheRoad",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/why_dont_we_do_it_in_the_road"
+  },
+  {
+    "id": "btlsSong137",
+    "title": "I Will",
+    "file": "IWill",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/i_will"
+  },
+  {
+    "id": "btlsSong138",
+    "title": "Julia",
+    "file": "JuliaSong",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/julia_song"
+  },
+  {
+    "id": "btlsSong139",
+    "title": "Birthday",
+    "file": "BirthdaySong",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/birthday_song"
+  },
+  {
+    "id": "btlsSong140",
+    "title": "Yer Blues",
+    "file": "YerBlues",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/yer_blues"
+  },
+  {
+    "id": "btlsSong141",
+    "title": "Mother Nature's Son",
+    "file": "MotherNaturesSon",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/mother_natures_son"
+  },
+  {
+    "id": "btlsSong142",
+    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+    "file": "EverybodysGotSomethingToHideExceptMeAndMyMonkey",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/everybodys_got_something_to_hide_except_me_and_my_monkey"
+  },
+  {
+    "id": "btlsSong143",
+    "title": "Sexy Sadie",
+    "file": "SexySadie",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/sexy_sadie"
+  },
+  {
+    "id": "btlsSong144",
+    "title": "Helter Skelter",
+    "file": "HelterSkelter",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/helter_skelter"
+  },
+  {
+    "id": "btlsSong145",
+    "title": "Long, Long, Long",
+    "file": "LongLongLong",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/long_long_long"
+  },
+  {
+    "id": "btlsSong146",
+    "title": "Revolution 1",
+    "file": "Revolution1",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/revolution_1"
+  },
+  {
+    "id": "btlsSong147",
+    "title": "Honey Pie",
+    "file": "HoneyPie",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/honey_pie"
+  },
+  {
+    "id": "btlsSong148",
+    "title": "Savoy Truffle",
+    "file": "SavoyTruffle",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/savoy_truffle"
+  },
+  {
+    "id": "btlsSong149",
+    "title": "Cry Baby Cry",
+    "file": "CryBabyCry",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/cry_baby_cry"
+  },
+  {
+    "id": "btlsSong150",
+    "title": "Revolution 9",
+    "file": "Revolution9",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/revolution_9"
+  },
+  {
+    "id": "btlsSong151",
+    "title": "Good Night",
+    "file": "GoodNight",
+    "img": "",
+    "album": "The White Album",
+    "route": "/beatles/good_night"
+  },
+  {
+    "id": "btlsSong152",
+    "title": "Only A Northern Song",
+    "file": "OnlyANorthernSong",
+    "img": "",
+    "album": "Yellow Submarine",
+    "route": "/beatles/only_a_northern_song"
+  },
+  {
+    "id": "btlsSong153",
+    "title": "All Together Now",
+    "file": "AllTogetherNow",
+    "img": "",
+    "album": "Yellow Submarine",
+    "route": "/beatles/all_together_now"
+  },
+  {
+    "id": "btlsSong154",
+    "title": "Hey Bulldog",
+    "file": "HeyBulldog",
+    "img": "",
+    "album": "Yellow Submarine",
+    "route": "/beatles/hey_bulldog"
+  },
+  {
+    "id": "btlsSong155",
+    "title": "It's All Too Much",
+    "file": "ItsAllTooMuch",
+    "img": "",
+    "album": "Yellow Submarine",
+    "route": "/beatles/its_all_too_much"
+  },
+  {
+    "id": "btlsSong156",
+    "title": "Come Together",
+    "file": "ComeTogether",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/come_together"
+  },
+  {
+    "id": "btlsSong157",
+    "title": "Something",
+    "file": "SomethingSong",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/something_song"
+  },
+  {
+    "id": "btlsSong158",
+    "title": "Maxwell's Silver Hammer",
+    "file": "MaxwellsSilverHammer",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/maxwells_silver_hammer"
+  },
+  {
+    "id": "btlsSong159",
+    "title": "Oh! Darling",
+    "file": "OhDarling",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/oh_darling"
+  },
+  {
+    "id": "btlsSong160",
+    "title": "Octopus's Garden",
+    "file": "OctopussGarden",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/octopuss_garden"
+  },
+  {
+    "id": "btlsSong161",
+    "title": "I Want You (She's So Heavy)",
+    "file": "IWantYouShesSoHeavy",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/i_want_you_shes_so_heavy"
+  },
+  {
+    "id": "btlsSong162",
+    "title": "Here Comes The Sun",
+    "file": "HereComesTheSun",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/here_comes_the_sun"
+  },
+  {
+    "id": "btlsSong163",
+    "title": "Because",
+    "file": "BecauseSong",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/because_song"
+  },
+  {
+    "id": "btlsSong164",
+    "title": "You Never Give Me Your Money",
+    "file": "YouNeverGiveMeYourMoney",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/you_never_give_me_your_money"
+  },
+  {
+    "id": "btlsSong165",
+    "title": "Sun King",
+    "file": "SunKing",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/sun_king"
+  },
+  {
+    "id": "btlsSong166",
+    "title": "Mean Mr. Mustard",
+    "file": "MeanMrMustard",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/mean_mr_mustard"
+  },
+  {
+    "id": "btlsSong167",
+    "title": "Polythene Pam",
+    "file": "PolythenePam",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/polythene_pam"
+  },
+  {
+    "id": "btlsSong168",
+    "title": "She Came In Through The Bathroom Window",
+    "file": "SheCameInThroughTheBathroomWindow",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/she_came_in_through_the_bathroom_window"
+  },
+  {
+    "id": "btlsSong169",
+    "title": "Golden Slumbers",
+    "file": "GoldenSlumbers",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/golden_slumbers"
+  },
+  {
+    "id": "btlsSong170",
+    "title": "Carry That Weight",
+    "file": "CarryThatWeight",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/carry_that_weight"
+  },
+  {
+    "id": "btlsSong171",
+    "title": "The End",
+    "file": "TheEnd",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/the_end"
+  },
+  {
+    "id": "btlsSong172",
+    "title": "Her Majesty",
+    "file": "HerMajesty",
+    "img": "",
+    "album": "Abbey Road",
+    "route": "/beatles/her_majesty"
+  },
+  {
+    "id": "btlsSong173",
+    "title": "Two Of Us",
+    "file": "TwoOfUs",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/two_of_us"
+  },
+  {
+    "id": "btlsSong174",
+    "title": "Dig A Pony",
+    "file": "DigAPony",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/dig_a_pony"
+  },
+  {
+    "id": "btlsSong175",
+    "title": "Across The Universe",
+    "file": "AcrossTheUniverse",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/across_the_universe"
+  },
+  {
+    "id": "btlsSong176",
+    "title": "I Me Mine",
+    "file": "IMeMine",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/i_me_mine"
+  },
+  {
+    "id": "btlsSong177",
+    "title": "Dig It",
+    "file": "DigIt",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/dig_it"
+  },
+  {
+    "id": "btlsSong178",
+    "title": "Let It Be",
+    "file": "LetItBeSong",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/let_it_be_song"
+  },
+  {
+    "id": "btlsSong179",
+    "title": "Maggie Mae",
+    "file": "MaggieMae",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/maggie_mae"
+  },
+  {
+    "id": "btlsSong180",
+    "title": "I've Got A Feeling",
+    "file": "IveGotAFeeling",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/ive_got_a_feeling"
+  },
+  {
+    "id": "btlsSong181",
+    "title": "One After 909",
+    "file": "OneAfter909",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/one_after_909"
+  },
+  {
+    "id": "btlsSong182",
+    "title": "The Long And Winding Road",
+    "file": "TheLongAndWindingRoad",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/the_long_and_winding_road"
+  },
+  {
+    "id": "btlsSong183",
+    "title": "For You Blue",
+    "file": "ForYouBlue",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/for_you_blue"
+  },
+  {
+    "id": "btlsSong184",
+    "title": "Get Back",
+    "file": "GetBack",
+    "img": "",
+    "album": "Let It Be",
+    "route": "/beatles/get_back"
   }
 ]
 
