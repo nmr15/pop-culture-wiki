@@ -1597,3 +1597,13 @@ export const beatlesSongs = [
 export const beatlesPPM = beatlesSongs.filter((ppm) => ppm.album == "Please Please Me");
 export const beatlesWTB = beatlesSongs.filter((wtb) => wtb.album == "With the Beatles");
 export const beatlesAHDN = beatlesSongs.filter((ahdn) => ahdn.album == "A Hard Day's Night");
+export const beatlesBFS = beatlesSongs.filter((bfs) => bfs.album == "Beatles for Sale");
+export const beatlesHLP = beatlesSongs.filter((hlp) => hlp.album == "Help");
+export const beatlesRBS = beatlesSongs.filter((rbs) => rbs.album == "Rubber Soul");
+export const beatlesRVLR = beatlesSongs.filter((rvlr) => rvlr.album == "Revolver");
+export const beatlesSGT = beatlesSongs.filter((sgt) => sgt.album == "Sgt. Pepper's Lonely Hears Club Band");
+export const beatlesMMT = beatlesSongs.filter((mmt) => mmt.album == "Magical Mystery Tour");
+export const beatlesTWA = beatlesSongs.filter((twa) => twa.album == "The White Album");
+export const beatlesYS = beatlesSongs.filter((ys) => ys.album == "Yellow Submarine");
+export const beatlesAR = beatlesSongs.filter((ar) => ar.album == "Abbey Road");
+export const beatlesLIB = beatlesSongs.filter((lib) => lib.album == "Let It Be");
