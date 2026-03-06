@@ -348,7 +348,7 @@ export const beatlesSongs = [
     "id": "btlsSong29",
     "title": "A Hard Day's Night",
     "file": "AHardDaysNightSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Ahardday%27snight.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/a_hard_days_night_song"
   },
@@ -356,7 +356,7 @@ export const beatlesSongs = [
     "id": "btlsSong30",
     "title": "I Should Have Known Better",
     "file": "IShouldHaveKnownBetter",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Ishouldhaveknownbettersingle.png",
     "album": "A Hard Day's Night",
     "route": "/beatles/i_should_have_known_better"
   },
@@ -364,7 +364,7 @@ export const beatlesSongs = [
     "id": "btlsSong31",
     "title": "If I Fell",
     "file": "IfIFell",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/If_i_fell_beatles.PNG",
     "album": "A Hard Day's Night",
     "route": "/beatles/if_i_fell"
   },
@@ -372,7 +372,7 @@ export const beatlesSongs = [
     "id": "btlsSong32",
     "title": "I'm Happy Just to Dance with You",
     "file": "ImHappyJustToDanceWithYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Imhappyjusttodancewithyou.png",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'm_happy_just_to_dance_with_you"
   },
@@ -380,7 +380,7 @@ export const beatlesSongs = [
     "id": "btlsSong33",
     "title": "And I Love Her",
     "file": "AndILoveHer",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/04_And_I_Love_Her.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/and_i_love_her"
   },
@@ -388,7 +388,7 @@ export const beatlesSongs = [
     "id": "btlsSong34",
     "title": "Tell Me Why",
     "file": "TellMeWhy",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/If_I_Fell-Tell_Me_Why_cover.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/tell_me_why"
   },
@@ -396,7 +396,7 @@ export const beatlesSongs = [
     "id": "btlsSong35",
     "title": "Can't Buy Me Love",
     "file": "CantBuyMeLove",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Can%27t_Buy_Me_Love_-_The_Beatles_%281964_US_release%29.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/can't_buy_me_love"
   },
@@ -404,7 +404,7 @@ export const beatlesSongs = [
     "id": "btlsSong36",
     "title": "Any Time At All",
     "file": "AnyTimeAtAll",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Any_Time_At_All_Beatles_single_Costa_Rica.png",
     "album": "A Hard Day's Night",
     "route": "/beatles/any_time_at_all"
   },
@@ -412,7 +412,7 @@ export const beatlesSongs = [
     "id": "btlsSong37",
     "title": "I'll Cry Instead",
     "file": "IllCryInstead",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Beatles_I%27ll_Cry_Instead.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'll_cry_instead"
   },
@@ -420,7 +420,7 @@ export const beatlesSongs = [
     "id": "btlsSong38",
     "title": "Things We Said Today",
     "file": "ThingsWeSaidToday",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Thingswesaidtoday1.png",
     "album": "A Hard Day's Night",
     "route": "/beatles/things_we_said_today"
   },
@@ -428,7 +428,7 @@ export const beatlesSongs = [
     "id": "btlsSong39",
     "title": "When I Get Home",
     "file": "WhenIGetHome",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/When_I_get_home_beatles.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/when_i_get_home"
   },
@@ -436,7 +436,7 @@ export const beatlesSongs = [
     "id": "btlsSong40",
     "title": "You Can't Do That",
     "file": "YouCantDoThat",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/20/Youcan%27tdothat.png",
     "album": "A Hard Day's Night",
     "route": "/beatles/you_can't_do_that"
   },
@@ -444,7 +444,7 @@ export const beatlesSongs = [
     "id": "btlsSong41",
     "title": "I'll Be Back",
     "file": "IllBeBack",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/I%27ll_be_back_sheet_music.jpg",
     "album": "A Hard Day's Night",
     "route": "/beatles/i'll_be_back"
   },
@@ -452,7 +452,7 @@ export const beatlesSongs = [
     "id": "btlsSong42",
     "title": "No Reply",
     "file": "NoReply",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/No_Reply_-_The_Beatles.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/no_reply"
   },
@@ -460,7 +460,7 @@ export const beatlesSongs = [
     "id": "btlsSong43",
     "title": "I'm a Loser",
     "file": "ImALoser",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/de/I%27m_a_loserbeatles.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/I'm_a_loser"
   },
@@ -468,7 +468,7 @@ export const beatlesSongs = [
     "id": "btlsSong44",
     "title": "Baby's in Black",
     "file": "BabysInBlack",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Baby%27s_in_Black_sheet_music_cover.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/baby's_in_black"
   },
@@ -476,7 +476,7 @@ export const beatlesSongs = [
     "id": "btlsSong45",
     "title": "Rock and Roll Music",
     "file": "RockAndRollMusic",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rock_and_Roll_Music_Chuck_Berry_1957.png",
     "album": "Beatles for Sale",
     "route": "/beatles/rock_and_roll_music"
   },
@@ -484,7 +484,7 @@ export const beatlesSongs = [
     "id": "btlsSong46",
     "title": "I'll Follow the Sun",
     "file": "IllFollowTheSun",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/I%27ll_Follow_the_Sun.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/I'll_follow_the_sun"
   },
@@ -492,7 +492,7 @@ export const beatlesSongs = [
     "id": "btlsSong47",
     "title": "Mr. Moonlight",
     "file": "MrMoonlight",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Mrmoonlightbeatles.png",
     "album": "Beatles for Sale",
     "route": "/beatles/mr._moonlight"
   },
@@ -500,7 +500,7 @@ export const beatlesSongs = [
     "id": "btlsSong48",
     "title": "Kansas City",
     "file": "KansasCitySong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/KanasCityBeatlessingle.png",
     "album": "Beatles for Sale",
     "route": "/beatles/kansas_city"
   },
@@ -508,7 +508,7 @@ export const beatlesSongs = [
     "id": "btlsSong49",
     "title": "Eight Days a Week",
     "file": "EightDaysAWeek",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Eightdaysaweek.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/eight_days_a_week"
   },
@@ -516,7 +516,7 @@ export const beatlesSongs = [
     "id": "btlsSong50",
     "title": "Words of Love",
     "file": "WordsOfLove",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Wordsoflovevinyl.png",
     "album": "Beatles for Sale",
     "route": "/beatles/words_of_love"
   },
@@ -524,7 +524,7 @@ export const beatlesSongs = [
     "id": "btlsSong51",
     "title": "Honey Don't",
     "file": "HoneyDont",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Honeydont2.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/honey_don't"
   },
@@ -532,7 +532,7 @@ export const beatlesSongs = [
     "id": "btlsSong52",
     "title": "Every Little Thing",
     "file": "EveryLittleThing",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Every_Little_Thing_%28Beatles_song%29_sheet_music_cover.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/every_little_thing"
   },
@@ -540,7 +540,7 @@ export const beatlesSongs = [
     "id": "btlsSong53",
     "title": "I Don't Want to Spoil the Party",
     "file": "IDontWantToSpoilTheParty",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/I_dont_want_to_spoil_the_party_single.PNG",
     "album": "Beatles for Sale",
     "route": "/beatles/i_don't_want_to_spoil_the_party"
   },
@@ -548,7 +548,7 @@ export const beatlesSongs = [
     "id": "btlsSong54",
     "title": "What You're Doing",
     "file": "WhatYoureDoing",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/What_You%27re_Doing_sheet_music_cover.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/what_you're_doing"
   },
@@ -556,7 +556,7 @@ export const beatlesSongs = [
     "id": "btlsSong55",
     "title": "Everybody's Trying to Be My Baby",
     "file": "EverybodysTryingToBeMyBaby",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Everybody%27s_Trying_To_Be_My_Baby_Beatles_sheet_music_1964.jpg",
     "album": "Beatles for Sale",
     "route": "/beatles/everybody's_trying_to_be_my_baby"
   },
@@ -564,7 +564,7 @@ export const beatlesSongs = [
     "id": "btlsSong56",
     "title": "Help!",
     "file": "HelpSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Beatles_help2.jpg",
     "album": "Help",
     "route": "/beatles/help_song"
   },
@@ -572,7 +572,7 @@ export const beatlesSongs = [
     "id": "btlsSong57",
     "title": "The Night Before",
     "file": "TheNightBefore",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/The_Night_Before_sheet_music_cover.jpg",
     "album": "Help",
     "route": "/beatles/the_night_before"
   },
@@ -580,7 +580,7 @@ export const beatlesSongs = [
     "id": "btlsSong58",
     "title": "You've Got to Hide Your Love Away",
     "file": "YouveGotToHideYourLoveAway",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/You%27ve_Got_to_Hide_Your_Love_Away_sheet_music_cover.jpg",
     "album": "Help",
     "route": "/beatles/you've_got_to_hide_your_love_away"
   },
@@ -588,7 +588,7 @@ export const beatlesSongs = [
     "id": "btlsSong59",
     "title": "I Need You",
     "file": "INeedYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/88/I_need_you_sheet_music.jpg",
     "album": "Help",
     "route": "/beatles/i_need_you"
   },
@@ -596,7 +596,7 @@ export const beatlesSongs = [
     "id": "btlsSong60",
     "title": "Another Girl",
     "file": "AnotherGirl",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Another_Girl_sheet_music_cover.jpg",
     "album": "Help",
     "route": "/beatles/another_girl"
   },
@@ -604,7 +604,7 @@ export const beatlesSongs = [
     "id": "btlsSong61",
     "title": "You're Going to Lose That Girl",
     "file": "YoureGoingToLoseThatGirl",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Youre_Going_to_Lose_That_Girl_cover.jpg",
     "album": "Help",
     "route": "/beatles/you're_going_to_lose_that_girl"
   },
@@ -612,7 +612,7 @@ export const beatlesSongs = [
     "id": "btlsSong62",
     "title": "Ticket to Ride",
     "file": "TicketToRide",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Ticket_to_Ride.jpg",
     "album": "Help",
     "route": "/beatles/ticket_to_ride"
   },
@@ -620,7 +620,7 @@ export const beatlesSongs = [
     "id": "btlsSong63",
     "title": "Act Naturally",
     "file": "ActNaturally",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Act_naturally.PNG",
     "album": "Help",
     "route": "/beatles/act_naturally"
   },
@@ -628,7 +628,7 @@ export const beatlesSongs = [
     "id": "btlsSong64",
     "title": "It's Only Love",
     "file": "ItsOnlyLove",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/63/Its_only_love.PNG",
     "album": "Help",
     "route": "/beatles/it's_only_love"
   },
@@ -636,7 +636,7 @@ export const beatlesSongs = [
     "id": "btlsSong65",
     "title": "You Like Me Too Much",
     "file": "YouLikeMeTooMuch",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/You_Like_Me_Too_Much_Beatles_Indian_Single.png/500px-You_Like_Me_Too_Much_Beatles_Indian_Single.png",
     "album": "Help",
     "route": "/beatles/you_like_me_too_much"
   },
@@ -644,7 +644,7 @@ export const beatlesSongs = [
     "id": "btlsSong66",
     "title": "Tell Me What You See",
     "file": "TellMeWhatYouSee",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Tell_Me_What_You_See_sheet_music_cover.jpg",
     "album": "Help",
     "route": "/beatles/tell_me_what_you_see"
   },
@@ -652,7 +652,7 @@ export const beatlesSongs = [
     "id": "btlsSong67",
     "title": "I've Just Seen a Face",
     "file": "IveJustSeenAFace",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/49/I%27ve_Just_Seen_a_Face_sheet_music.jpg",
     "album": "Help",
     "route": "/beatles/I've_just_seen_a_face"
   },
@@ -660,7 +660,7 @@ export const beatlesSongs = [
     "id": "btlsSong68",
     "title": "Yesterday",
     "file": "YesterdaySong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Beatles-singles-yesterday.jpg",
     "album": "Help",
     "route": "/beatles/yesterday"
   },
@@ -668,7 +668,7 @@ export const beatlesSongs = [
     "id": "btlsSong69",
     "title": "Dizzy Miss Lizzy",
     "file": "DizzyMissLizzy",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Dizzy_miss_lizzy.PNG",
     "album": "Help",
     "route": "/beatles/dizzy_miss_lizzy"
   },
@@ -676,7 +676,7 @@ export const beatlesSongs = [
     "id": "btlsSong70",
     "title": "Drive My Car",
     "file": "DriveMyCar",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Drive_my_car_beatles_sheet_music.PNG",
     "album": "Rubber Soul",
     "route": "/beatles/drive_my_car"
   },
@@ -684,7 +684,7 @@ export const beatlesSongs = [
     "id": "btlsSong71",
     "title": "Norwegian Wood",
     "file": "NorwegianWood",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Norwegian_wood_upload_wizard.PNG",
     "album": "Rubber Soul",
     "route": "/beatles/norwegian_wood"
   },
@@ -692,7 +692,7 @@ export const beatlesSongs = [
     "id": "btlsSong72",
     "title": "You Won't See Me",
     "file": "YouWontSeeMe",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/You_Won%27t_See_Me_sheet_music_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/you_won't_see_me"
   },
@@ -700,7 +700,7 @@ export const beatlesSongs = [
     "id": "btlsSong73",
     "title": "Nowhere Man",
     "file": "NowhereMan",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Nowhere_man_single.PNG",
     "album": "Rubber Soul",
     "route": "/beatles/nowhere_man"
   },
@@ -708,7 +708,7 @@ export const beatlesSongs = [
     "id": "btlsSong74",
     "title": "Think For Yourself",
     "file": "ThinkForYourself",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/%22Think_for_Yourself%22_sheet_music_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/think_for_yourself"
   },
@@ -716,7 +716,7 @@ export const beatlesSongs = [
     "id": "btlsSong75",
     "title": "The Word",
     "file": "TheWord",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Word_Beatles_French_single.png/500px-The_Word_Beatles_French_single.png",
     "album": "Rubber Soul",
     "route": "/beatles/the_word"
   },
@@ -724,7 +724,7 @@ export const beatlesSongs = [
     "id": "btlsSong76",
     "title": "Michelle",
     "file": "MichelleSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/Michelle_-_The_Beatles.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/michelle"
   },
@@ -732,7 +732,7 @@ export const beatlesSongs = [
     "id": "btlsSong77",
     "title": "What Goes On",
     "file": "WhatGoesOn",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/69/What_Goes_On.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/what_goes_on"
   },
@@ -740,7 +740,7 @@ export const beatlesSongs = [
     "id": "btlsSong78",
     "title": "Girl",
     "file": "GirlSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Girl_Beatles_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/girl"
   },
@@ -748,7 +748,7 @@ export const beatlesSongs = [
     "id": "btlsSong79",
     "title": "I'm Looking Through You",
     "file": "ImLookingThroughYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/I%27m_Looking_Through_You_sheet_music_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/I'm_looking_through_you"
   },
@@ -756,7 +756,7 @@ export const beatlesSongs = [
     "id": "btlsSong80",
     "title": "In My Life",
     "file": "InMyLife",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/In_My_Life_-_The_Beatles.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/in_my_life"
   },
@@ -764,7 +764,7 @@ export const beatlesSongs = [
     "id": "btlsSong81",
     "title": "Wait",
     "file": "WaitSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/Wait_%28Beatles_song%29_sheet_music_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/wait"
   },
@@ -772,7 +772,7 @@ export const beatlesSongs = [
     "id": "btlsSong82",
     "title": "If I Needed Someone",
     "file": "IfINeededSomeone",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/If_I_needed_someone.PNG",
     "album": "Rubber Soul",
     "route": "/beatles/if_i_needed_someone"
   },
@@ -780,7 +780,7 @@ export const beatlesSongs = [
     "id": "btlsSong83",
     "title": "Run for Your Life",
     "file": "RunForYourLife",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Run_for_Your_Life_%28Beatles_song%29_sheet_music_cover.jpg",
     "album": "Rubber Soul",
     "route": "/beatles/run_for_your_life"
   },
@@ -788,7 +788,7 @@ export const beatlesSongs = [
     "id": "btlsSong84",
     "title": "Taxman",
     "file": "TaxmanSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Taxman_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/taxman"
   },
@@ -796,7 +796,7 @@ export const beatlesSongs = [
     "id": "btlsSong85",
     "title": "Eleanor Rigby",
     "file": "EleanorRigby",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/82/Eleanor_rigby_single_usa.jpg",
     "album": "Revolver",
     "route": "/beatles/eleanor_rigby"
   },
@@ -804,7 +804,7 @@ export const beatlesSongs = [
     "id": "btlsSong86",
     "title": "I'm Only Sleeping",
     "file": "ImOnlySleeping",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/I%27m_Only_Sleeping_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/I'm_only_sleeping"
   },
@@ -812,7 +812,7 @@ export const beatlesSongs = [
     "id": "btlsSong87",
     "title": "Love You To",
     "file": "LoveYouTo",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5c/Love_you_to_beatles.PNG",
     "album": "Revolver",
     "route": "/beatles/love_you_to"
   },
@@ -820,7 +820,7 @@ export const beatlesSongs = [
     "id": "btlsSong88",
     "title": "Here, There and Everywhere",
     "file": "HereThereAndEverywhere",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/Here_there_and_everywhere.jpg",
     "album": "Revolver",
     "route": "/beatles/here_there_and_everywhere"
   },
@@ -828,7 +828,7 @@ export const beatlesSongs = [
     "id": "btlsSong89",
     "title": "Yellow Submarine",
     "file": "YellowSubmarineSong",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/82/Eleanor_rigby_single_usa.jpg",
     "album": "Revolver",
     "route": "/beatles/yellow_submarine_song"
   },
@@ -836,7 +836,7 @@ export const beatlesSongs = [
     "id": "btlsSong90",
     "title": "She Said She Said",
     "file": "SheSaidSheSaid",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/She_Said_She_Said_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/she_said_she_said"
   },
@@ -844,7 +844,7 @@ export const beatlesSongs = [
     "id": "btlsSong91",
     "title": "Good Day Sunshine",
     "file": "GoodDaySunshine",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/eb/Good_Day_Sunshine_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/good_day_sunshine"
   },
@@ -852,7 +852,7 @@ export const beatlesSongs = [
     "id": "btlsSong92",
     "title": "And Your Bird Can Sing",
     "file": "AndYourBirdCanSing",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/And_Your_Bird_Can_Sing_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/and_your_bird_can_sing"
   },
@@ -860,7 +860,7 @@ export const beatlesSongs = [
     "id": "btlsSong93",
     "title": "For No One",
     "file": "ForNoOne",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/For_No_One_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/for_no_one"
   },
@@ -868,7 +868,7 @@ export const beatlesSongs = [
     "id": "btlsSong94",
     "title": "Doctor Robert",
     "file": "DoctorRobert",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Doctor_Robert_sheet_music_image.jpg",
     "album": "Revolver",
     "route": "/beatles/doctor_robert"
   },
@@ -876,7 +876,7 @@ export const beatlesSongs = [
     "id": "btlsSong95",
     "title": "I Want to Tell You",
     "file": "IWantToTellYou",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/I_Want_To_Tell_You_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/i_want_to_tell_you"
   },
@@ -884,7 +884,7 @@ export const beatlesSongs = [
     "id": "btlsSong96",
     "title": "Got to Get You Into My Life",
     "file": "GotToGetYouIntoMyLife",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Got_to_Get_You_into_My_Life_sheet_music.jpg",
     "album": "Revolver",
     "route": "/beatles/got_to_get_you_into_my_life"
   },
@@ -892,7 +892,7 @@ export const beatlesSongs = [
     "id": "btlsSong97",
     "title": "Tomorrow Never Knows",
     "file": "TomorrowNeverKnows",
-    "img": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Tomorrow_Never_Knows_sheet_music_cover.jpg",
     "album": "Revolver",
     "route": "/beatles/tomorrow_never_knows"
   },
