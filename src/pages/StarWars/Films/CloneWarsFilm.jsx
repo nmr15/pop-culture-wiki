@@ -16,6 +16,17 @@ const CloneWarsFilm = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Voice cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Animation"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Music</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
