@@ -210,6 +210,21 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.3">Pitching and pickup</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Disney_Channel_HQ.jpg/500px-Disney_Channel_HQ.jpg" alt="Disney Channel HQ" />
+              <p>
+                Disney Channel was the first network to give the series a chance, though initially declined when Dan Povenmire originally pitched it to
+                them.
+              </p>
+            </div>
+            <p>
+              The writing duo's early attempts to pitch the show failed and, though they remained committed to the concept, Povenmire and Marsh began to
+              drift apart after their work on Rocko's. Marsh moved to London and worked on shows including Postman Pat and Bounty Hamster. Povenmire
+              began working on the primetime Fox series Family Guy and the Nickelodeon series
+              <Link to="/spongebob/spongebob_squarepants_series">SpongeBob SquarePants</Link>, always carrying a Phineas and Ferb portfolio for
+              convenient pitching to networks such as <Link>Cartoon Network</Link> and Fox Kids. The networks passed on the show, believing the series'
+              premise was too complex to succeed.
+            </p>
           </div>
         </div>
         <div>
