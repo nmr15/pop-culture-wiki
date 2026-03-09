@@ -103,7 +103,33 @@ const ThorTheDarkWorld = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Thor: The Dark World</b> is a 2013 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/thor"> Thor</Link>, produced by <Link>Marvel Studios</Link> and distributed by Walt Disney Studios Motion
+            Pictures. It is the sequel to <Link to="/mcu/thor_film">Thor</Link> (2011) and the eigth film in the
+            <Link to="/mcu"> Marvel Cinematic Universe</Link> (MCU). The film was directed by Alan Taylor from a screenplay by Christopher Yost and the
+            writing team of Christopher Markus and Stephen McFeely. It stars <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link> alongside
+            <Link>Natalie Portman</Link>, <Link>Tom Hiddleston</Link>, <Link>Stellan Skarsgård</Link>, <Link>Idris Elba</Link>, <Link>Christopher
+            Eccleston</Link>, Adewale Akinnuoye-Agbaje, <Link>Kat Dennings</Link>, <Link>Ray Stevenson</Link>, <Link>Zachary Levi</Link>, Tadanobu Asano,
+            <Link>Jaimie Alexander</Link>, Rene Russo, and <Link>Anthony Hopkins</Link>. In the film, Thor and <Link>Loki</Link> (Hiddleston) team up to
+            save the Nine Realms from the <Link>Dark Elves</Link>.
+          </p>
+          <p>
+            Development of a sequel to Thor began in April 2011 when producer <Link>Kevin Feige</Link> announced plans for it to follow the MCU crossover
+            film <Link to="/mcu/the_avengers_film">The Avengers</Link> (2012). In July, Thor director <Link>Kenneth Branagh</Link> withdrew from the
+            sequel. Taylor was hired to replace him as director in January 2012. The supporting cast filled out that August with the hiring of
+            Eccleston and Akinnuoye-Agbaje as the film's villains. Filming took place from September to December 2012, primarily in Surrey, England, as
+            well as in Iceland and London. Taylor wanted the film to be more grounded than Thor, inspired by his work on Game of Thrones (2011 - 2019).
+            He hired Carter Burwell to compose the score, but Marvel replaced Burwell with Brian Tyler.
+          </p>
+          <p>
+            Thor: The Dark World premiered at the Odeon Leicester Square in London on October 22, 2013, and was released in the United States on November
+            8, as part of <Link>Phase Two</Link> of the MCU. The film was a commercial success, grossing over $644 million worldwide and becoming the
+            tenth highest-grossing film of 2013. It received praise for the performance of Hemsworth and Hiddleston, visual effects, and action
+            sequences, but was criticized for its generic villain and lack of depth. Retrospectively, Taylor expressed dissatisfaction with the film and
+            said Marvel substantially altered it from his original vision during post-production. Two sequels have been released:
+            <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link> (2017) and <Link to="/mcu/thor_love_and_thunder">Thor: Love and Thunder</Link> (2022).
+          </p>
         </div>
       </main>
     </>
