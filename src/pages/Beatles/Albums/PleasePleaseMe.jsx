@@ -84,7 +84,7 @@ const PleasePleaseMe = () =>
             <b>Please Please Me</b> is the debut studio album by English rock band <Link to="/beatles">The Beatles</Link>. Produced by <Link>George
             Martin</Link>, it was released in the United Kingdom on EMI's Parlophone label on March 22, 1963. The album's 14 tracks included cover songs
             and original material written by the partnership of band members <Link to="/beatles/john_lennon">John Lennon</Link> and
-            <Link to="/beatles/paul_mccartney">Paul McCarney</Link>.
+            <Link to="/beatles/paul_mccartney">Paul McCartney</Link>.
           </p>
           <p>
             The Beatles had signed with EMI in May 1962 and been assigned to the Parlaphone label run by Martin. They released their debut single
@@ -96,11 +96,41 @@ const PleasePleaseMe = () =>
             "<Link to="/beatles/baby_its_you">Baby It's You</Link>" nine days later. Three of the four songs from their two previously released singles
             were added to the album, with a new version of "Love Me Do" recorded for the album.
           </p>
+          <p>
+            The album was well-received in Britain, where it remained in the Top 10 for over a year, a record for a debut album that stood for half a
+            century. The presence of several songs written by band members Lennon-McCartney (credited as "McCartney-Lennon" at the time) was unusual and
+            marked the emergence of a "self-contained rock band". On the other hand, the album was not released in the US, where the band sold poorly
+            for most of 1963; after the stateside emergence of <Link>Beatlemania</Link>, Vee-Jay Records released a mid abridgement of the album as
+            Introducing... The Beatles in early 1964, while EMI's American label Capitol Records divided the material from Please Please Me across
+            multiple albums. Other countries also received different versions of the album, which continued until 1987, when the entirety of the Beatles
+            catalogue was brought to CD and internationally standardized to the UK albums. Please Please Me remains critically acclaimed; it was voted
+            39th on Rolling Stone's list of the "500 Greatest Albums of All Time" in 2012, and number 622 in the third edition of Colin Larkin's All
+            Time Top 1000 Albums in 2000.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Background"} />
           <div>
-
+            <p>
+              The Beatles originated in the skiffle scene of Liverpool in the late 1959s, and by 1961 had solidified their lineup with John Lennon on
+              rhythm guitar, Paul McCartney on bass, <Link to="/beatles/george_harrison">George Harrison</Link> on lead guitar, and Pete Best on drums.
+              The band mostly played cover songs, although Lennon and McCartney had a budding songwriting partnership that also contributed material.
+              After a stint in Hamburg backing English singer Tony Sheridan and releasing a single with Sheridan, "My Bonnie", on which they were
+              credited as "The Beat Brothers", they returned to Liverpool in late 1961. Shortly after their return they were approached by
+              <Link> Brian Epstein</Link>, a music store manager who recognized the group's local popularity and became the group's new manager. After a
+              failed audition at Decca Records at the beginning of 1962, Epstein was eventually able to sign the group to EMI that May.
+            </p>
+            <p>
+              EMI offered the Beatles a recording contract on its Parlophone label run by George Martin. Though Martin was drawn to the Beatles'
+              personalities and charisma, he was initially unconvinced that they could write hit songs. Their first session, on June 6, with Best on
+              drums, resulted in no recordings suitable for release. Martin reacted negatively to Best's presence and insisted on the use of a session
+              drummer in his stead; although this was standard procedure at the time, the band took this as a cue to drop Best in favor of Rory Storm and
+              the Hurricanes drummer <Link to="/beatles/ringo_starr">Ringo Starr</Link>. Their second session, on September 4 and now with Starr on
+              drums, produced "Love Me Do", which became their first single several weeks later, and an early version of "Please Please Me". On
+              September 11, the band re-recorded "Love Me Do" with session drummer Andy White and recorded
+              "<Link to="/beatles/ps_i_love_you">P.S. I Love You</Link>", which became the B-side to "Love Me Do". They also recorded a sped-up version
+              of "Please Please Me", which Martin believed had hit potential but required more work.
+            </p>
           </div>
         </div>
         <div>
