@@ -41,8 +41,20 @@ const PleasePleaseMe = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Released</th>
+              <td className="infobox-data">March 22, 1963</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Albums</th>
+              <td className="infobox-data"><Link>List of Beatles albums</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Songs</th>
+              <td className="infobox-data"><Link>List of Beatles songs</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next Beatles album</th>
+              <td className="infobox-data"><Link to="/beatles/with_the_beatles">With the Beatles</Link></td>
             </tr>
           </tbody>
         </table>
