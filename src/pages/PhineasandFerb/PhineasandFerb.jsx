@@ -175,7 +175,40 @@ const PhineasandFerb = () =>
           <Heading2 id={4} title={"Development"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Early inspirations</h3>
+            <p>
+              Dan Povenmire attributes the show's genesis to his childhood in Mobile, Alabama, where his mother told him to never waste a day of summer.
+              To occupy himself, Povenmire undertook projects such as hole-digging and home movie-making. Povenmire recalled, "My let me drape black
+              material all the way across one end of our living room to use as a space field. I would hang little models of spaceships for these little
+              movies I made with a Super 8 camera". He was an artistic prodigy and displayed his very detailed drawings at art shows. Marsh was raised in
+              a large, blended family. As with Povenmire, Marsh spent his summers exploring and taking part in various activities to have fun.
+            </p>
+
             <h3 className="article-heading-3" id="4.2">Conception</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/9/92/Phineas_original_sketch.jpg" alt="Phineas original sketch" />
+              <p>
+                Drawn on butcher paper, this first drawing of Phineas began a rapid growth of characters and the outline of the artistic style.
+              </p>
+            </div>
+            <p>
+              While attending the University of Southern California, Povenmire started a daily comic called Life is a Fish, and received money from the
+              sale of its related merchandise. He eventually dropped out and started drawing people on street corners to make a living, until he was
+              finally called by Tommy Chong to work on a short bit of animation in the film Far Out Man. Povenmre began to take up animation
+              professionally, working on shows such as Teenage Mutant Ninja Turtles. Marsh had become a vice president of sales and marketing for a
+              computer company until he "freaked out" and decided to quit. His friend helped him put together a portfolio and enter the animation
+              business.
+            </p>
+            <p>
+              Povenmire and Marsh started working across from each other as layout artists on The Simpsons. The two bonded over mutual tastes in humor
+              and music, becoming fast friends. They continued their working relationship as a writing team on the <Link>Nickelodeon</Link> series
+              Rocko's Modern Life, where they conceived the idea for their own series. While eating dinner at a Wild Thyme restaurant in South Pasadena,
+              Povenmire drew a quick sketch of a "triangle kid" on butcher paper. He tore it out and called Marsh that night to report, "Hey, I think we
+              have our show". The triangle doodle sparked rapid development of characters and designs. Povenmire decided that his sketch "looked like a
+              Phineas," and named Ferb after a friend who "owns more tools than anyone in the world". The creators based their character designs on
+              angular shapes in homage to Tex Avery, an animator and director for MGM and Warner Bros., adding geometric shapes to the background for
+              continuity.
+            </p>
+
             <h3 className="article-heading-3" id="4.3">Pitching and pickup</h3>
           </div>
         </div>
