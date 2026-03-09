@@ -4,7 +4,7 @@ import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
 import { beatlesAlbums } from "./data/dataBeatles";
 import { communitychars } from "./data/dataCommunity";
-import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
+import { gravityFallsCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
 import { hpbooks, hpchars } from "./data/dataHarryPotter"
 import { marvel } from "./data/dataMarvel"
