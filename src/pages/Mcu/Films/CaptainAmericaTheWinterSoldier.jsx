@@ -101,7 +101,12 @@ const CaptainAmericaTheWinterSoldier = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Captain America: The Winter Soldier</b> is a 2014 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link>
+            character <Link to="/marvelcomics/captain_america">Captain America</Link>, produced by <Link>Marvel Studios</Link> and distributed by Walt
+            Disney Studios Motion Pictures. It is the sequel to <Link to="/mcu/captain_america_the_first_avenger">Captain America: The First
+            Avenger</Link> (2011) and the ninth film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
+          </p>
         </div>
       </main>
     </>
