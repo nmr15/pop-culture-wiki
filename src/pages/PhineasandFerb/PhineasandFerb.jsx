@@ -132,15 +132,27 @@ const PhineasandFerb = () =>
               named <Link>Jeremy</Link>.
             </p>
             <p>
-              The subplot almost always features Phineas and Ferb's pet platypus Perry, who works as a secret agent for an all-animal
-              government organization named <Link>O.W.C.A.</Link>
+              The subplot almost always features Phineas and Ferb's pet platypus Perry, who works as a secret agent for an all-animal government
+              organization named <Link>O.W.C.A.</Link> (Organization Without a Cool Acryonym). His usual objective is to defeat the latest scheme of
+              Dr. Heinz Doofenshmirtz, an evil scientist driven largely by a need to assert his evilness, whose own ineptitude often defeats him. The two
+              plots intersect at the end of each episode, erasing all traces of the boys' project just before a dismayed Candace can show it to their
+              mother and destroying Doofenshmirtz's evil contraption; either occurrence usually indirectly leads to the other's in some way.
             </p>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Episodes"} />
           <div>
-            
+            <p>
+              Most of the episodes premiered in pairs of two 11-minute stories, while others were released on their own. Disney Television Animation
+              produced the episodes in two variants: they were primarily paired in 22-minute shows but also produced as individual episodes. Thus, a
+              credits scene was made for each quarter-hour episode, while for the packaged variant, only the credits from the second "segment" would be
+              used.
+            </p>
+            <p>
+              Currently, the series airs in a 22-minute format, with the separate variants being occasionally shown as fillers. Digital and streaming
+              releases, like on iTunes and Disney+, have the episodes in pairs.
+            </p>
           </div>
         </div>
         <div>
