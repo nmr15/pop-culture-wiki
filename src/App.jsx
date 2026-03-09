@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
+import { routesTopics, routesAssassinsCreed, routeBeatlesAlbums, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
@@ -74,6 +74,11 @@ function App() {
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
         <Route path="/community/intoduction_to_film" element={<CommunityS1E3 />} />
         <Route path="/community/social_psychology" element={<CommunityS1E4 />} />
+
+        {/* Routes for Beatles */}
+        {routeBeatlesAlbums.map(({ path, Component}, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
 
         {/* Grand Theft Auto */}
 

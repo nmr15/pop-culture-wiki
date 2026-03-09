@@ -2,6 +2,7 @@ import { useLayoutEffect, Suspense, lazy } from "react"
 
 import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
+import { beatlesAlbums } from "./data/dataBeatles";
 import { communitychars } from "./data/dataCommunity";
 import { gfCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
@@ -21,6 +22,13 @@ export const routesTopics = topics.map(topic => ({
 export const routesAssassinsCreed = assassinscreed.map(ac => ({
     path: ac.route,
     Component: lazy(() => import(`./pages/AssassinsCreed/${ac.file}.jsx`))
+}));
+
+// BEATLES
+
+export const routeBeatlesAlbums = beatlesAlbums.map(ac => ({
+    path: beatlesAlbums.route,
+    Component: lazy(() => import(`./pages/Beatles/Albums/${beatlesAlbums.file}.jsx`))
 }));
 
 // COMMUNITY
