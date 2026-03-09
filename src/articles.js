@@ -40,7 +40,7 @@ export const routesCommunityChars = communitychars.map(char => ({
 
 // GRAVITY FALLS
 
-export const routeGfChars = gfCharacters.map(char => ({
+export const routeGfChars = gravityFallsCharacters.map(char => ({
   path: char.route,
   Component: lazy(() => import(`./pages/GravityFalls/Characters/${char.file}.jsx`))
 }));
