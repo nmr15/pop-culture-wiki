@@ -80,7 +80,22 @@ const PleasePleaseMe = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Please Please Me</b> is the debut studio album by English rock band <Link to="/beatles">The Beatles</Link>. Produced by <Link>George
+            Martin</Link>, it was released in the United Kingdom on EMI's Parlophone label on March 22, 1963. The album's 14 tracks included cover songs
+            and original material written by the partnership of band members <Link to="/beatles/john_lennon">John Lennon</Link> and
+            <Link to="/beatles/paul_mccartney">Paul McCarney</Link>.
+          </p>
+          <p>
+            The Beatles had signed with EMI in May 1962 and been assigned to the Parlaphone label run by Martin. They released their debut single
+            "<Link to="/beatles/love_me_do">Love Me Do</Link>" in October, which surprised Martin by reaching number 17 on what would become the official
+            UK singles chart. Impressed, Martin suggested they record a live album and helped arrange their next single,
+            "<Link to="/beatles/please_please_me_song">Please Please Me</Link>", which topped the NME singles chart. Finding the Cavern Club, the band's
+            venue in their native Liverpool, unsuitable for recording, Martin switched to a simple studio album. The Beatles recorded Please Please Me in
+            one day at EMI Studios on February 11, 1963, with Martin adding overdubs to "<Link to="/beatles/misery">Misery</Link>" and
+            "<Link to="/beatles/baby_its_you">Baby It's You</Link>" nine days later. Three of the four songs from their two previously released singles
+            were added to the album, with a new version of "Love Me Do" recorded for the album.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Background"} />
