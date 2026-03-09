@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { beatlesPPM } from '../../../data/dataBeatles'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 
@@ -123,6 +124,26 @@ const PleasePleaseMe = () =>
           <div>
             
           </div>
+        </div>
+        <div>
+          <table className="table-center">
+            <thead>
+              <tr>
+                <th>Please Please Me</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <div className="table-list">
+                    {beatlesPPM.map((ppm) => (
+                      <Link to={ppm.route} className="table-list-link" key={ppm.id}>{ppm.title}</Link>
+                    ))}
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </main>
     </>
