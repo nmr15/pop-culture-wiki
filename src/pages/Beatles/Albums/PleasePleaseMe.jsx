@@ -81,6 +81,49 @@ const PleasePleaseMe = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Background"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Recording"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Artwork and packaging"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">International and CD releases</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Retrospective assessment"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Rankings</h3>
+            <h3 className="article-heading-3" id="5.2">50th anniversary</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Track listing"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Personnel"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
