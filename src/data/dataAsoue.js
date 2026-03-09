@@ -91,3 +91,202 @@ export const asoue = [
     "route": "/a_series_of_unfortunate_events/the_end"
   }
 ]
+
+export const asoueCharacters = [
+  {
+    "id": "asoueChar1",
+    "title": "Violet Baudelaire",
+    "file": "VioletBaudelaire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/7/70/Violet_book_square.png",
+    "route": "/a_series_of_unfortunate_events/violet_baudelaire"
+  },
+  {
+    "id": "asoueChar2",
+    "title": "Klaus Baudelaire",
+    "file": "KlausBaudelaire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/b/bd/Klaus_books_square.png",
+    "route": "/a_series_of_unfortunate_events/klaus_baudelaire"
+  },
+  {
+    "id": "asoueChar3",
+    "title": "Sunny Baudelaire",
+    "file": "SunnyBaudelaire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/1/15/Sunnybooksquare.jpg/",
+    "route": "/a_series_of_unfortunate_events/sunny_baudelaire"
+  },
+  {
+    "id": "asoueChar4",
+    "title": "Count Olaf",
+    "file": "CountOlaf",
+    "img": "https://static.wikia.nocookie.net/snicket/images/1/11/Count_Olaf.jpg",
+    "route": "/a_series_of_unfortunate_events/count_olaf"
+  },
+  {
+    "id": "asoueChar5",
+    "title": "Lemony Snicket",
+    "file": "LemonySnicket",
+    "img": "https://static.wikia.nocookie.net/snicket/images/d/d3/Lemony_Snicket_%28face%29.JPG",
+    "route": "/a_series_of_unfortunate_events/lemony_snicket"
+  },
+  {
+    "id": "asoueChar6",
+    "title": "Arthur Poe",
+    "file": "ArthurPoe",
+    "img": "https://static.wikia.nocookie.net/snicket/images/6/60/Poebooksquare.jpg",
+    "route": "/a_series_of_unfortunate_events/arthur_poe"
+  },
+  {
+    "id": "asoueChar7",
+    "title": "Beatrice Baudelaire",
+    "file": "BeatriceBaudelaire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/2/2c/Beatrice_book_square.jpg",
+    "route": "/a_series_of_unfortunate_events/beatrice_baudelaire"
+  },
+  {
+    "id": "asoueChar8",
+    "title": "Esmé Squalor",
+    "file": "EsmeSqualor",
+    "img": "https://static.wikia.nocookie.net/snicket/images/0/04/Esmebookssquare.png",
+    "route": "/a_series_of_unfortunate_events/esmé_squalor"
+  },
+  {
+    "id": "asoueChar9",
+    "title": "Duncan Quagmire",
+    "file": "DuncanQuagmire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/8/81/Duncan_square.png",
+    "route": "/a_series_of_unfortunate_events/duncan_quagmire"
+  },
+  {
+    "id": "asoueChar10",
+    "title": "Isadora Quagmire",
+    "file": "IsadoraQuagmire",
+    "img": "https://static.wikia.nocookie.net/snicket/images/4/4a/Isadora_book.png",
+    "route": "/a_series_of_unfortunate_events/isadora_quagmire"
+  },
+  {
+    "id": "asoueChar11",
+    "title": "Quigley Quagmire",
+    "file": "QuigleyQuagmire",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/quigley_quagmire"
+  },
+  {
+    "id": "asoueChar12",
+    "title": "Justice Strauss",
+    "file": "JusticeStrauss",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/justice_strauss"
+  },
+  {
+    "id": "asoueChar13",
+    "title": "Montgomery Montgomery",
+    "file": "MontgomeryMontgomery",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/montgomery_montgomery"
+  },
+  {
+    "id": "asoueChar14",
+    "title": "Josephine Anwhistle",
+    "file": "JosephineAnwhistle",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/josephine_anwhistle"
+  },
+  {
+    "id": "asoueChar15",
+    "title": "Sir",
+    "file": "SirAsoue",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/sir"
+  },
+  {
+    "id": "asoueChar16",
+    "title": "Charles",
+    "file": "CharlesAsoue",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/charles"
+  },
+  {
+    "id": "asoueChar17",
+    "title": "Jerome Squalor",
+    "file": "JeromeSqualor",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/jerome_squalor"
+  },
+  {
+    "id": "asoueChar18",
+    "title": "Hector",
+    "file": "Hector",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/hector"
+  },
+  {
+    "id": "asoueChar19",
+    "title": "Captain Widdershins",
+    "file": "CaptainWiddershins",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/captain_widdershins"
+  },
+  {
+    "id": "asoueChar20",
+    "title": "Kit Snicket",
+    "file": "KitSnicket",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/kit_snicket"
+  },
+  {
+    "id": "asoueChar21",
+    "title": "Jacques Snicket",
+    "file": "JacquesSnicket",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/jacques_snicket"
+  },
+  {
+    "id": "asoueChar22",
+    "title": "Olivia Caliban",
+    "file": "OliviaCaliban",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/olivia_caliban"
+  },
+  {
+    "id": "asoueChar23",
+    "title": "Dewey Denouement",
+    "file": "DeweyDenouement",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/dewey_denouement"
+  },
+  {
+    "id": "asoueChar24",
+    "title": "Carmelita Spats",
+    "file": "CarmelitaSpats",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/carmelita_spats"
+  },
+  {
+    "id": "asoueChar25",
+    "title": "Fernald the Hook-Handed Man",
+    "file": "FernaldTheHookHandedMan",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/fernald_the_hook_handed_man"
+  },
+  {
+    "id": "asoueChar26",
+    "title": "The White-Faced Women",
+    "file": "WhiteFacedWomen",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/white_faced_women"
+  },
+  {
+    "id": "asoueChar27",
+    "title": "The Bald Man with the Long Nose",
+    "file": "BaldManWithTheLongNose",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/bald_man_with_the_long_nose"
+  },
+  {
+    "id": "asoueChar28",
+    "title": "The Person of Indeterminate Gender",
+    "file": "PersonOfIndeterminateGender",
+    "img": "",
+    "route": "/a_series_of_unfortunate_events/person_of_indeterminate_gender"
+  }
+]
