@@ -158,7 +158,17 @@ const PhineasandFerb = () =>
         <div>
           <Heading2 id={3} title={"Characters"} />
           <div>
-            
+            <p>
+              The series' main characters live in a blended family, a premise that the creators considered underused in children's programming and that
+              reflected Marsh's own upbringing. Marsh considers explaining the family background "not important to the kids' lives. They are a great
+              blended family and that's all we need to know". The choice of a platypus as the boys' pet was similarly inspired by media underuse, as
+              well as the animal's striking appearance. Povenmire and Marsh wanted an uncommon species, an animal that kids could not "pick out at a
+              pet store and beg [their parents] for". The platypus also gave them freedom to "make stuff up" since "no one knows very much about them",
+              and allowed them to own that "mental real estate", so that if someone thinks of the word "platypus", they will associate it with Agent P,
+              just as an ogre is now commonly associated with <Link>Shrek</Link>. Marsh called the character "cool, edgy, and clever without ... being
+              mean-spirited". Animation director Rob Hughes is said to have noted that "in all the other shows every character is either stupid or a jerk,
+              but there are no stupid characters or jerks in this one".
+            </p>
           </div>
         </div>
         <div>
