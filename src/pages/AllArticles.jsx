@@ -208,58 +208,68 @@ const AllArticles = () =>
 
         {/* THE BEATLES */}
         <div className="allArticles-section">
-            <h3 className="article-heading-3" id="Beatles">The Beatles</h3>
-            <p><Link to="/beatles">Main article</Link></p>
-            <div>
-                <h4 className="article-heading-4">Members</h4>
-                <ul className="allArticles-list">
-                {beatles.map((beatle) => (
-                    <li key={beatle.id}>
-                    <Link to={beatle.route}>{beatle.title}</Link>
-                    </li>
-                ))}
-                </ul>
-            </div>
-            <div>
-                <h4 className="article-heading-4">Albums</h4>
-                <ul className="allArticles-list">
-                {beatlesAlbums.map((btlsAlbm) => (
-                    <li key={btlsAlbm.id}>
-                    <Link to={btlsAlbm.route}>{btlsAlbm.title}</Link>
-                    </li>
-                ))}
-                </ul>
-            </div>
-            <div>
-                <h4 className="article-heading-4">Please Please Me</h4>
-                <ul className="allArticles-list">
-                {beatlesPPM.map((btlsPPM) => (
-                    <li key={btlsPPM.id}>
-                    <Link to={btlsPPM.route}>{btlsPPM.title}</Link>
-                    </li>
-                ))}
-                </ul>
-            </div>
-            <div>
-                <h4 className="article-heading-4">With the Beatles</h4>
-                <ul className="allArticles-list">
-                {beatlesWTB.map((btlsWTB) => (
-                    <li key={btlsWTB.id}>
-                    <Link to={btlsWTB.route}>{btlsWTB.title}</Link>
-                    </li>
-                ))}
-                </ul>
-            </div>
-            <div>
-                <h4 className="article-heading-4">A Hard Day's Night</h4>
-                <ul className="allArticles-list">
-                {beatlesAHDN.map((btlsAHDN) => (
-                    <li key={btlsAHDN.id}>
-                    <Link to={btlsAHDN.route}>{btlsAHDN.title}</Link>
-                    </li>
-                ))}
-                </ul>
-            </div>
+          <h3 className="article-heading-3" id="Beatles">The Beatles</h3>
+          <p><Link to="/beatles">Main article</Link></p>
+          <div>
+              <h4 className="article-heading-4">Members</h4>
+              <ul className="allArticles-list">
+              {beatles.map((beatle) => (
+                  <li key={beatle.id}>
+                  <Link to={beatle.route}>{beatle.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">Albums</h4>
+              <ul className="allArticles-list">
+              {beatlesAlbums.map((btlsAlbm) => (
+                  <li key={btlsAlbm.id}>
+                  <Link to={btlsAlbm.route}>{btlsAlbm.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">Please Please Me</h4>
+              <ul className="allArticles-list">
+              {beatlesPPM.map((btlsPPM) => (
+                  <li key={btlsPPM.id}>
+                  <Link to={btlsPPM.route}>{btlsPPM.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">With the Beatles</h4>
+              <ul className="allArticles-list">
+              {beatlesWTB.map((btlsWTB) => (
+                  <li key={btlsWTB.id}>
+                  <Link to={btlsWTB.route}>{btlsWTB.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">A Hard Day's Night</h4>
+              <ul className="allArticles-list">
+              {beatlesAHDN.map((btlsAHDN) => (
+                  <li key={btlsAHDN.id}>
+                  <Link to={btlsAHDN.route}>{btlsAHDN.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">Beatles for Sale</h4>
+              <ul className="allArticles-list">
+              {beatlesBFS.map((btlsVFS) => (
+                  <li key={btlsVFS.id}>
+                  <Link to={btlsVFS.route}>{btlsVFS.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
         </div>
 
         {/* SPONGEBOB SQUAREPANTS */}
