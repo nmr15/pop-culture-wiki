@@ -93,11 +93,11 @@ const PhineasandFerb = () =>
           <p>
             Phineas and Ferb is an American animated musical-comedy television series created by <Link>Dan Povenmire</Link> and <Link>Jeff "Swampy"
             Marsh</Link> for <Link>Disney Channel</Link> and <Link>Disney XD</Link>. The series originally aired on the network for four seasons between
-            2007 and 2015, and returned for the first of two additional seasons in 2025. The series follows stepbrothers <Link>Phineas Flynn</Link> and
-            <Link> Ferb Fletcher</Link>, who construct a grand project or embark on an adventure each day to make the most of their time on summer
-            vacation, to the annoyance of Phineas' older sister <Link>Candace Flynn</Link>. Candace's attempts to expose their schemes to her mother
-            always fail due to the fights between local evil scientist <Link>Dr. Heinz Doofenshmirtz</Link> and the boys' secret agent pet
-            <Link> Perry the Platypus</Link> inadvertently removing all evidence of their work. The series follows a standard plot system, with several
+            2007 and 2015, and returned for the first of two additional seasons in 2025. The series follows stepbrothers <Link to="/phinease_and_ferb/phineas_flynn">Phineas Flynn</Link> and
+            <Link to="/phinease_and_ferb/ferb_fletcher"> Ferb Fletcher</Link>, who construct a grand project or embark on an adventure each day to make the most of their time on summer
+            vacation, to the annoyance of Phineas' older sister <Link to="/phinease_and_ferb/candace_flynn">Candace Flynn</Link>. Candace's attempts to expose their schemes to her mother
+            always fail due to the fights between local evil scientist <Link to="/phinease_and_ferb/heinz_doofenshmirtz">Dr. Heinz Doofenshmirtz</Link> and the boys' secret agent pet
+            <Link to="/phinease_and_ferb/perry_the_platypus"> Perry the Platypus</Link> inadvertently removing all evidence of their work. The series follows a standard plot system, with several
             running gags occuring each episode.
           </p>
           <p>
@@ -122,17 +122,17 @@ const PhineasandFerb = () =>
           <Heading2 id={1} title={"Premise"} />
           <div>
             <p>
-              The series follows the adventures of stepbrothers <Link>Phineas Flynn</Link> and <Link>Ferb Fletcher</Link>. They live in the fictional
+              The series follows the adventures of stepbrothers Phineas Flynn and Ferb Fletcher. They live in the fictional
               city of <Link>Danville</Link> in an unspecified <Link>tri-state area</Link>, as they seek ways to occupy their time during their "104 days
               of summer vacation". Often these adventures involve elaborate, life-sized, and ostensibly dangerous construction projects, which are
               usually unrealistic in scale given the protagonists' ages (and sometimes physically impossible). The stepbrothers primarily share their
-              adventures with their friends <Link>Isabella Garcia-Shapiro</Link>, their neighbor from across the street who has a crush on Phineas, and
-              <Link> Baljeet Tjinder</Link> and <Link>Buford Van Stomm</Link>, a nerd and bully duo of frenemies. Phineas's older sister
-              <Link> Candace</Link> has two obsessions: unveiling Phineas and Ferb's schemes and ideas to her mother, and winning the attention of a boy
+              adventures with their friends <Link to="/phinease_and_ferb/isabella_garcia_shapiro">Isabella Garcia-Shapiro</Link>, their neighbor from across the street who has a crush on Phineas, and
+              <Link to="/phinease_and_ferb/baljeet_tjinder"> Baljeet Tjinder</Link> and <Link to="/phinease_and_ferb/buford_van_stomm">Buford Van Stomm</Link>, a nerd and bully duo of frenemies. Phineas's older sister
+              Candace has two obsessions: unveiling Phineas and Ferb's schemes and ideas to her mother, and winning the attention of a boy
               named <Link>Jeremy</Link>.
             </p>
             <p>
-              The subplot almost always features Phineas and Ferb's pet platypus <Link>Perry</Link>, who works as a secret agent for an all-animal
+              The subplot almost always features Phineas and Ferb's pet platypus Perry, who works as a secret agent for an all-animal
               government organization named <Link>O.W.C.A.</Link>
             </p>
           </div>
