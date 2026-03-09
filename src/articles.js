@@ -26,9 +26,9 @@ export const routesAssassinsCreed = assassinscreed.map(ac => ({
 
 // BEATLES
 
-export const routeBeatlesAlbums = beatlesAlbums.map(ac => ({
-    path: beatlesAlbums.route,
-    Component: lazy(() => import(`./pages/Beatles/Albums/${beatlesAlbums.file}.jsx`))
+export const routeBeatlesAlbums = beatlesAlbums.map(btlsAlbums => ({
+    path: btlsAlbums.route,
+    Component: lazy(() => import(`./pages/Beatles/Albums/${btlsAlbums.file}.jsx`))
 }));
 
 // COMMUNITY
