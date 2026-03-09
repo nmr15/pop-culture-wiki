@@ -263,6 +263,26 @@ const AllArticles = () =>
           <div>
               <h4 className="article-heading-4">Beatles for Sale</h4>
               <ul className="allArticles-list">
+              {beatlesBFS.map((btlsBFS) => (
+                  <li key={btlsBFS.id}>
+                  <Link to={btlsBFS.route}>{btlsBFS.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">Help!</h4>
+              <ul className="allArticles-list">
+              {beatlesHLP.map((btlsHLP) => (
+                  <li key={btlsHLP.id}>
+                  <Link to={btlsHLP.route}>{btlsHLP.title}</Link>
+                  </li>
+              ))}
+              </ul>
+          </div>
+          <div>
+              <h4 className="article-heading-4">Rubber Soul</h4>
+              <ul className="allArticles-list">
               {beatlesBFS.map((btlsVFS) => (
                   <li key={btlsVFS.id}>
                   <Link to={btlsVFS.route}>{btlsVFS.title}</Link>
