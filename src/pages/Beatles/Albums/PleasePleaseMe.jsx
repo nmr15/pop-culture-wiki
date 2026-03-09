@@ -15,6 +15,26 @@ const PleasePleaseMe = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Background</a></li>
+          <li className="sidebar-list-item"><a href="#2">Recording</a></li>
+          <li className="sidebar-list-item"><a href="#3">Artwork and packaging</a></li>
+          <Collapse 
+            id="4"
+            item="Release"
+            sub={[
+              {id: "4.1", title: "International and CD releases"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Retrospective assessment"
+            sub={[
+              {id: "5.1", title: "Rankings"},
+              {id: "5.2", title: "50th anniversary"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Track listing</a></li>
+          <li className="sidebar-list-item"><a href="#7">Personnel</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
