@@ -9,7 +9,7 @@ import { spongebobMedia, spongebobChars, spongebobS1, spongebobS2, spongebobS3 }
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
 import { gta, gtaCharacters, gtaLocations } from '../data/dataGta';
 import { assassinscreed } from '../data/dataAssassinsCreed';
-import { gravityFallsS1, gravityFallsS2 } from '../data/dataGravityFalls';
+import { gravityFallsS1, gravityFallsS2, gravityFallsCharacters } from '../data/dataGravityFalls';
 import { adventuretimeChars } from '../data/dataAdventureTime'
 import { simpsonsChars } from '../data/dataSimpsons'
 import { futuramaChars } from '../data/dataFuturama'
@@ -503,18 +503,20 @@ const AllArticles = () =>
           <div>
             <h4 className="article-heading-4">Characters</h4>
             <ul className="allArticles-list">
-              <li>
-                <Link to="/gravity_falls/dipper_pines">Dipper Pines</Link>
+            {gravityFallsCharacters.map((gfChar) => (
+              <li key={gfChar.id}>
+                <Link to={gfChar.route}>{gfChar.title}</Link>
               </li>
+            ))}
             </ul>
           </div>
           <div>
             <h4 className="article-heading-4">Season 1</h4>
             <ul className="allArticles-list">
             {gravityFallsS1.map((gfS1) => (
-                <li key={gfS1.id}>
+              <li key={gfS1.id}>
                 <Link to={gfS1.route}>{gfS1.title}</Link>
-                </li>
+              </li>
             ))}
             </ul>
           </div>

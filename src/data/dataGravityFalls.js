@@ -404,7 +404,7 @@ export const gfEpisodes = [
 export const gravityFallsS1 = gfEpisodes.filter((s1) => s1.season == 1);
 export const gravityFallsS2 = gfEpisodes.filter((s2) => s2.season == 2);
 
-export const gfCharacters = [
+export const gravityFallsCharacters = [
   {
     "id": "gfChar1",
     "title": "Dipper Pines",
