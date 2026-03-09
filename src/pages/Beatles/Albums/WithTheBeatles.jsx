@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 
-const PleasePleaseMe = () =>
+const WithTheBeatles = () =>
 {
   useEffect(() =>
   {
-    document.title = "Please Please Me (album) - Pop Culture Wiki";
+    document.title = "With the Beatles - Pop Culture Wiki";
   }, []);
 
   return(
@@ -21,22 +21,22 @@ const PleasePleaseMe = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/beatles">The Beatles</Link></li>
-          <li>Please Please Me (album)</li>
+          <li>With the Beatles</li>
         </ul>
         <div>
-          <h1 className="article-heading">Please Please Me (album)</h1>
+          <h1 className="article-heading">With the Beatles</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Please Please Me</span>
+                <span>With the Beatles</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Please_Please_Me.png" alt="Please Please Me cover" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/5/52/With_the_Beatles.png" alt="With the Beatles cover" />
                 </span>
               </td>
             </tr>
@@ -54,4 +54,4 @@ const PleasePleaseMe = () =>
   )
 }
 
-export default PleasePleaseMe;
+export default WithTheBeatles;
