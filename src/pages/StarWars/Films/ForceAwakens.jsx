@@ -15,6 +15,55 @@ const ForceAwakens = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Pre-production"},
+              {id: "3.3", title: "Casting"},
+              {id: "3.4", title: "Filming"},
+              {id: "3.5", title: "Post-production"},
+              {id: "3.6", title: "Music"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Marketing"
+            sub={[
+              {id: "4.1", title: "Promotion"},
+              {id: "4.2", title: "Tie-in literature and merchandise"},
+              {id: "4.3", title: "Video games"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Release"
+            sub={[
+              {id: "5.1", title: "Theatrical"},
+              {id: "5.2", title: "Home release"},
+              {id: "5.3", title: "Broadcast syndication"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Reception"
+            sub={[
+              {id: "6.1", title: "Box office", sub2: [
+                {id: "6.1.1", title: "Commercial analysis"},
+                {id: "6.1.2", title: "United States and Canada"},
+                {id: "6.1.3", title: "Other territories"}
+              ]},
+              {id: "6.2", title: "Critical response", sub2: [
+                {id: "6.2.1", title: "From George Lucas"}
+              ]},
+              {id: "6.3", title: "Accolades"},
+              {id: "6.4", title: "Fan backlash"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Sequels</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
