@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const LastJedi = () =>
 {
@@ -18,6 +20,7 @@ const LastJedi = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/starwars">Star Wars</Link></li>
           <li>Episode VIII: The Last Jedi</li>
         </ul>
         <div>
@@ -38,8 +41,16 @@ const LastJedi = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Rian Johnson</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films and series</th>
+              <td className="infobox-data"><Link>List of Star Wars films and series</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Star Wars characters</Link></td>
             </tr>
           </tbody>
         </table>
