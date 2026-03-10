@@ -278,6 +278,18 @@ const CloneWarsFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.2">Animation</h3>
+            <p>
+              Lucasfilm and Lucasfilm Animation used Autodesk software to animate both the film and the series using the Maya 3-D modeling program to
+              create highly detailed worlds, characters, and creatures. The film's animation style was designed to pay homage to the stylized looks of
+              both Japanese anime and manga, and the supermarionation of the British 1960s series Thunderbird. At a Cartoon Network-hosted discussion,
+              Lucas said he did not want the Clone Wars film or television series to look like such movies as Beowulf, because he wanted a stylized look
+              ratern than a realistic one. He also felt it should not look like the popular <Link to="/pixar">Pixar</Link> movies such as
+              <Link to="/the_incredibles/the_incredibles_film">The Incredibles</Link> and <Link to="/cars/cars_film">Cars</Link>, because he wanted the
+              film and characters to have its own unique style. Lucas also decided to create the animated film and series from a live-action perspective,
+              while Winder said set it apart from other CGI films. Essentially, it "meant using long camera shots, aggressive lighting techniques, and
+              relying on editing instead of storyboards." Animators also reviewed designs from the orriginal 2003 Clone Wars series when creating the
+              animation style for the film and the new series. In charge was Steward Lee, working as the storyboard artist during filming.
+            </p>
           </div>
         </div><div>
           <Heading2 id={5} title={"Nusic"} />
