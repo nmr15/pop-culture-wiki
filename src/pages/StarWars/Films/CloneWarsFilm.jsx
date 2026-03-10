@@ -27,6 +27,36 @@ const CloneWarsFilm = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#4">Music</a></li>
+          <Collapse 
+            id="5"
+            item="Marketing"
+            sub={[
+              {id: "5.1", title: "Merchandise"},
+              {id: "5.2", title: "Food partnership"},
+              {id: "5.3", title: "Print media"},
+              {id: "5.4", title: "Video games"},
+              {id: "5.5", title: "Portable media players"},
+              {id: "5.6", title: "Racing sponsorship"},
+              {id: "5.7", title: "Novelization"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Theatrical"},
+              {id: "6.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Critical response"},
+              {id: "7.2", title: "Box office"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Accolades</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
