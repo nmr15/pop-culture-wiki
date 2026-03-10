@@ -225,6 +225,24 @@ const PhineasandFerb = () =>
               convenient pitching to networks such as <Link>Cartoon Network</Link> and Fox Kids. The networks passed on the show, believing the series'
               premise was too complex to succeed.
             </p>
+            <p>
+              Povenmire persisted and again pitched the series to Nickelodeon, where it was considered by high-level executives and given his
+              experience with the network, but rejected onc more as overly complicated. Then, after 16 years of trying, Povenmire landed a pitch with
+              Disney. The network did not immediately accept the show but told Povenmire that it would keep the packet. Povenmire assumed that this had
+              meant an end to negotiations, aware that the phrase usually "means they throw it in the trash later". Disney then surprised him by
+              accepting. Povenmire said, "Disney was the first to say, 'Let's see if you can it in 11 minutes.' We did it in the pilot and they said,
+              'Let's see if you can do it for 26 episodes.'"
+            </p>
+            <p>
+              Povenmire was initially worried that his work on Family Guy (an adult show known for its lowbrow humor) would concern Disney, which
+              markets its fare primarily to families. However, Disney Channel senior vice president of original series Adam Bonnett was a Family Guy fan
+              who appreciated Povenmire's connection to the show and received his pitch well.
+            </p>
+            <p>
+              In 2006, after the Disney Channel had accepted the show, Povenmire and Marsh turned their attention to the company's overseas executives.
+              Instead of penning a normal script, the two drew out storyboards and played them in a reel. Povenmire voiced over the reel with his
+              dialogue and added sound effects. This novel approach secured the executives' support.
+            </p>
           </div>
         </div>
         <div>
