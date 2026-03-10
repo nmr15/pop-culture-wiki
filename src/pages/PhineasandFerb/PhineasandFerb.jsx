@@ -274,8 +274,35 @@ const PhineasandFerb = () =>
               the fourth wall. Povenmire describes the show as a combination of Family Guy and SpongeBob SquarePants. Co-creator Jeff "Swampy" Marsh has
               said that the show was not created exclusively for children; he simply did not exclude them as an audience.
             </p>
+            <p>
+              For the original run, the show was storyboard-driven, but as of season 5, the show is not script-driven.
+            </p>
 
             <h3 className="article-heading-3" id="5.2">Visual aspects and animation</h3>
+            <p>
+              Rough Draft Studios in South Korea, Wang Film Productions in Taiwan, Morning Sun Animation and Synergy Animation in Shanghai and Hong Ying
+              Animation and Hong Guang Animation in Suzhou animate the series in 2D Animation using the software package Toon Boom. Povenmire would
+              undertake the bulk production direction, along with Zac Monocrief and Robert F. Hughey. The series adopts artistic features from animator
+              Tex Avery, such as geometric shapes integrated into characters, objects, and background. Povenmire says of this inclusion, "There's a
+              little bit of Tex Avery in there, he had that very graphic style [in his later cartoons]". Triangles are featured as an easter egg in the
+              background of every episode, sometimes in trees or buildings.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/3/39/PhineasFerbPaint_designs.jpg" alt="Phineas and Ferb original and final draft" />
+              <p>
+                The stages of development for a scene during the opening theme, from the original draft (top) to the final design (bottom). The top
+                briefly appears in the Season 1 theme.
+              </p>
+            </div>
+            <p>
+              Bright colors are also a prominent element of the animation. Marsh elaborates, "The idea at the end of the day was candy. One of the things
+              that I think works so well is that the characters are so bright and candy-colored and our backgrounds are a much more realistic depiction
+              of the world: the soft green of the grass, the natural woods for the fence. In order for all the stuff that they do to work, their world
+              needs to be grounded in reality". The designers sought to keep their characters visually simple so that kids "would easily be able to draw
+              [them] themselves". Characters were also created to be recognizable from a distance, a technique that the creators say is based on
+              <Link> Matt Groening</Link>'s goal of making characters recognizable by silhouette.
+            </p>
+
             <h3 className="article-heading-3" id="5.3">Cast</h3>
             <h3 className="article-heading-3" id="5.4">Music</h3>
             <h3 className="article-heading-3" id="5.5">Conclusion and revival</h3>
