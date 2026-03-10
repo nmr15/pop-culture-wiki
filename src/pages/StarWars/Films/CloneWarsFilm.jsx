@@ -91,6 +91,68 @@ const CloneWarsFilm = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Opening narration"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Plot"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Voice cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Development</h3>
+            <h3 className="article-heading-3" id="4.2">Animation</h3>
+          </div>
+        </div><div>
+          <Heading2 id={5} title={"Nusic"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Marketing"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">Merchandise</h3>
+            <h3 className="article-heading-3" id="6.2">Food partnership</h3>
+            <h3 className="article-heading-3" id="6.3">Print media</h3>
+            <h3 className="article-heading-3" id="6.4">Video games</h3>
+            <h3 className="article-heading-3" id="6.5">Portable media players</h3>
+            <h3 className="article-heading-3" id="6.6">Racing sponsorship</h3>
+            <h3 className="article-heading-3" id="6.7">Novelization</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Theatrical</h3>
+            <h3 className="article-heading-3" id="7.2">Home media</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="8.1">Critical response</h3>
+            <h3 className="article-heading-3" id="8.2">Box office</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={9} title={"Accolades"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
