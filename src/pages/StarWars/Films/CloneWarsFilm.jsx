@@ -63,6 +63,7 @@ const CloneWarsFilm = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/starwars">Star Wars</Link></li>
           <li>Star Wars: The Clone Wars (film)</li>
         </ul>
         <div>
@@ -83,13 +84,41 @@ const CloneWarsFilm = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>Dave Filoni</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films and series</th>
+              <td className="infobox-data"><Link>List of Star Wars films and series</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Star Wars characters</Link></td>
             </tr>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Star Wars: The Clone Wars</b> is a 2008 American animated space opera film directed by <Link>Dave Filoni</Link> and produced by
+            Lucasfilm Animation. The voice cast includes <Link>Matt Lanter</Link>, <Link>Ashley Eckstein</Link>, <Link>James Arnold Taylor</Link>,
+            <Link> Dee Bradley Baker</Link>, <Link>Tom Kane</Link>, Catherine Taber, Nika Futterman, Ian Abercrombie, Corey Burton, Matthew Woods,
+            <Link> Kevin Michael Richardson</Link>, David Acord, <Link>Samuel L. Jackson</Link>, <Link>Anthony Daniels</Link>, and
+            <Link>Christopher Lee</Link>. It is the first animated film in the <Link to="/starwars">Star Wars</Link> franchise and takes place shortly
+            after <Link to="/starwars/attack_of_the_clones">Attack of the Clones</Link> (2002), at the start of the <Link>Clone Wars</Link>. In the film,
+            <Link to="/starwars/count_dooku"> Count Dooku</Link> and <Link to="/starwars/jabba_the_hutt">Jabba the Hutt</Link>'s uncle Ziro orchestrate a
+            plan to turn Jabba against the <Link>Galactic Republic</Link> by framing the <Link>Jedi</Link> for the kidnapping of his son. While
+            <Link to="/starwars/anakin_skywalker">Anakin Skywalker</Link> and his newly assigned apprentice
+            <Link to="/starwars/ahsoka_tano"> Ahsoka Tano</Link> attempt to deliver the child back to his father,
+            <Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link> and <Link to="/starwars/padmé_amidala">Padmé Amidala</Link> lead separate
+            investigations to uncover Dooku and Ziro's plot.
+          </p>
+          <p>
+            The Clone Wars premiered on August 10, 2008, at Grauman's Egyptian Theatre, and was released in the United States on August 15, by Warner
+            Bros. Pictures. It received generally negative reviews from critics, and grossed $68 million on a budget of $8 million. The film serves as a
+            pilot to <Link to="/starwars/the_clone_wars_series">the 2008 television series</Link>, which premiered two months after the film's release.
+            It was the final film in the franchise with the involvement of <Link>George Lucas</Link>, who sold <Link>Lucasfilm</Link> to The Walt Disney
+            Company four years later.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Opening narration"} />
