@@ -195,6 +195,56 @@ const CloneWarsFilm = () =>
                     </li>
                   </ul>
                 </li>
+                <li>
+                  <Link>Ian Abercrombie</Link> as <Link to="/starwars/sheev_palpatine">Chancellor Palpatine / Darth Sidious</Link>, the Supreme Chancellor
+                  of the Galactic Republic who is secretly a powerful Sith Lord in disguise, Count Dooku's master, and the mastermind behind the Clone
+                  Wars. <Link>Ian McDiarmid</Link> was considered to reprise his role as Palpatine from the prequel and original trilogies before
+                  Abercrombie was selected. Abercrombie replaces Nick Jameson, who voiced the character in the Clone Wars micro-series.
+                </li>
+                <li>
+                  Corey Burton as:
+                  <ul>
+                    <li>
+                      Ziro the Hutt, Jabba's uncle and a member of the <Link>Hutt Clan</Link> who is secretly in cahoots with Count Dooku and the
+                      Separatists.
+                    </li>
+                    <li>
+                      Whorm Loathsom, the commander of the Separatist Droid Army occupying Christophsis.
+                    </li>
+                    <li>
+                      KRONOS-327, an assassin droid working for Ziro.
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  Catherine Taber as <Link to="/starwars/padmé_amidala">Padmé Amidala</Link>, the queen and senator of <Link>Naboo</Link> and Anakin's
+                  wife. <Link>Natlie Portman</Link> was considered to reprise her role as Padmé from the prequel trilogy before Taber was selected. Taber
+                  replaces Grey DeLisle, who voiced the character in the Clone Wars micro-series
+                </li>
+                <li>
+                  Matthew Wood as the <Link>battle droids</Link>.
+                </li>
+                <li>
+                  <Link>Kevin Michael Richardson</Link> as <Link to="/starwars/jabba_the_hutt">Jabba the Hutt</Link>, a powerful and notorious crime lord,
+                  the leader of the powerful Hutt Clan, and Rotta's father.
+                </li>
+                <li>
+                  David Acord as Rotta the Huttlet, Jabba's son.
+                </li>
+                <li>
+                  <Link>Samuel L. Jackson</Link> as <Link to="/starwars/mace_windu">Mace Windu</Link>, a Jedi Master, senior member of the Jedi
+                  Council, and general of the Republic. Jackson reprises his role from the prequel trilogy. The character is voiced by Terrence C.
+                  Carson in the subsequent television series, reprising his role from the Clone Wars micro-series.
+                </li>
+                <li>
+                  <Link>Anthony Daniels</Link> as <Link to="/starwars/c3po">C-3PO</Link>, Anakin's protocol droid. Daniels reprises his role from the
+                  live-action films and also voices C-3PO in other media.
+                </li>
+                <li>
+                  <Link>Christopher Lee</Link> as <Link to="/starwars/count_dooku">Count Dooku / Darth Tyrannus</Link>, a Sith Lord and the puppet
+                  leader of the Separatist Alliance. Lee reprises his role from the prequel trilogy and for the last time before his death in 2015. The
+                  character is voiced by Corey Burton in the subsequent television series, reprising his role from the Clone Wars micro-series.
+                </li>
               </ul>
             </div>
           </div>
