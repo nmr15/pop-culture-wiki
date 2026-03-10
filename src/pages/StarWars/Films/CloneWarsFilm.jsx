@@ -151,6 +151,50 @@ const CloneWarsFilm = () =>
                   was considered to reprise his role as Anakin from the prequel trilogy before Lanter was selected. Lanter replaces Mat Lucas, who voiced
                   the character in the 2003 micro-series, Star Wars: Clone Wars.
                 </li>
+                <li>
+                  <Link>Ashley Eckstein</Link> as <Link to="/starwars/ahsoka_tano">Ahsoka Tano</Link>, Anakin's new Padawan apprentice and commander of
+                  the 501st Legion.
+                </li>
+                <li>
+                  <Link>James Arnold Taylor</Link> as <Link to="/starwars/obi_wan_kenobi">Obi-Wan Kenobi</Link>, a Jedi Master, Anakin's mentor, and
+                  general of the Republic, who leads the 212th Attack Battalion. <Link>Ewan McGregor</Link> was considered to reprise his role as
+                  Obi-Wan from the prequel trilogy before Taylor was selected. Taylor reprises his role from the Clone Wars micro-series.
+                  <ul>
+                    <li>Taylor also voices 4A-7, a droid spy.</li>
+                  </ul>
+                </li>
+                <li>
+                  <Link>Dee Bradley Baker</Link> as the <Link>clone troopers</Link>, <Link to="/starwars/captain_rex">Captain Rex</Link>, and
+                  <Link> Commander Cody</Link>, Baker replaces André Sogliuzzo, who voice the characters in the Clone Wars micro-series.
+                </li>
+                <li>
+                  <Link>Tom Kane</Link> as:
+                  <ul>
+                    <li>
+                      <Link to="/starwars/yoda">Yoda</Link>, the Jedi Grandmaster and leader of the Jedi Council. <Link>Frank Oz</Link> was considered to
+                      reprise his role as Yoda from the prequel and original trilogies before Kane was selected. Kane reprises his role from the Clone Wars
+                      micro-series.
+                    </li>
+                    <li>
+                      The Narrator, who explains the film's events and plot.
+                    </li>
+                    <li>
+                      <Link>Admiral Yularan</Link>, an admiral of the Republic Navy assigned to Anakin.
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <Link>Nika Futterman</Link> as:
+                  <ul>
+                    <li>
+                      <Link to="/starwars/asajj_ventress">Asajj Ventress</Link>, a Sith assassin, a former Jedi and Count Dooku's disciple. Futterman
+                      replaces <Link>Grey DeLisle</Link>, who voiced the character in the Clone Wars micro-series.
+                    </li>
+                    <li>
+                      TC-70, Jabba's protocol droid.
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
