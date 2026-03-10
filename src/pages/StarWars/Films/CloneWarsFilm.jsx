@@ -253,6 +253,30 @@ const CloneWarsFilm = () =>
           <Heading2 id={4} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Development</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dave_Filoni.jpg/500px-Dave_Filoni.jpg" alt="Dave Filoni" />
+              <p>Director Dave Filoni</p>
+            </div>
+            <p>
+              Star Wars: The Clone Wars was made to serve as both a stand-alone story and a lead-in to the weekly animated TV series of the same name.
+              George Lucas had the idea for a film after viewing some of the completed footage of the early episodes on the big screen. Those first few
+              episodes, originally planned for release on television, were then woven together to form the theatrical release. Warner Bros.
+              Entertainment had tracked the series' development from the beginning, and Lucas decided on a theatrical launch after viewing early footage
+              declaring "This is so beautiful, why don't we just go and use the crew and make a feature?" This decision help convince WB parent company
+              Time Warner to distribute the movie, and to encourage its subsidiary <Link>Cartoon Network</Link> to air the series. Lucas described the
+              film as "almost an afterthought." Howard Roffman, president of Lucas Licensing, said of the decision, "Somtimes George works in strange
+              ways." Producer Catherine Winder said the sudden decision added to an already large challenge of establishing a show "of this
+              sophistication and complexity," but she felt it was a good way to start the series, and thought budgetary constraints forced the
+              production team to think outside the box in a positive way.
+            </p>
+            <p>
+              The story of the kidnapped Hutt was inspired by the Sonny Chiba samurai film Shogun's Shadow.
+            </p>
+            <p>
+              Actors Sameul L. Jackson, Christopher Lee, Anthony Daniels, and Matthew Wood vocally reprised their respective roles as Mace Windu, Count
+              Dooku, C-3PO, and the B1 Battle Droid. However, Jackson and Lee did not reprise their roles in the television series.
+            </p>
+
             <h3 className="article-heading-3" id="4.2">Animation</h3>
           </div>
         </div><div>
