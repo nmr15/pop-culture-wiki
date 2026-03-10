@@ -294,13 +294,29 @@ const CloneWarsFilm = () =>
         </div><div>
           <Heading2 id={5} title={"Nusic"} />
           <div>
-            
+            <p>
+               The musical score for Star Wars: The Clone Wars was composed by Kevin Kiner. The original motion picture soundtrack was released by Sony
+               Classical on August 12, 2008. The disc begins with the main theme by <Link>John Williams</Link>, followed by more than 30 separate music
+               cues composed by Kiner. Kiner is known for his work on such television series as Stargate SG-1, Star Trek: Enterprise, Superboy and
+               CSI: Miami. The soundtrack uses some instruments never heard before in a Star Wars score, including erhus, duduks and ouds.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={6} title={"Marketing"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Merchandise</h3>
+            <p>
+              Star Wars: The Clone Wars merchandise was first released on July 26, 2008. Hasbro released several 3 3/4-inch Clone Wars action figures,
+              an electronic clone trooper helmet, a customizable lightsaber, and an electronic <Link>All Terrain Tactical Enforcer (AT-TE)</Link>.
+              Target and KB Toys also devoted shelf space for Clone Wars toys, but did not hold midnight releases or pursue the branding opportunities
+              Toys "R" Us did. Toys "R" Us mounted digital clocks in all 585 of its stores that counted down to the release of the Clone Wars toys, and
+              more than 255 of the stores opened at midnight for the debut of the Star Wars products. Two of the Toys "R" Us flagship outlets in Mission
+              Bay, San Diego and Times Square in Manhattan, New York City held costime and trivia contests on July 26, and gave away limited-edition
+              Star Wars toys with every purchase. A section of the Toys "R" Us website wa also dedicated to The Clone Wars. The toy line continues with
+              The Clone Wars figures being well received by collectors for their detail to the characters and vehicles.
+            </p>
+
             <h3 className="article-heading-3" id="6.2">Food partnership</h3>
             <h3 className="article-heading-3" id="6.3">Print media</h3>
             <h3 className="article-heading-3" id="6.4">Video games</h3>
