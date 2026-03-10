@@ -179,8 +179,34 @@ const ANewHope = () =>
               in custody of the plans, attempt to race home aboard the <Link>Tantive IV</Link>. However, her ship is intercepted by the Imperial I-class
               <Link> Star Destroyer</Link> Devastator over the desert planet of <Link>Tatooine</Link>.
             </p>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/0/02/Devastatortantiveiv.png" alt="The Devastator and the Tantive IV" />
+              <p>Princess Leia is kidnapped by the Galactic Empire.</p>
+            </div>
+            <p>
+              The ship is captured, and several Imperial <Link>stormtroopers</Link> come aboard. After defeating the small number of guards defending the
+              ship, the Sith Lord <Link to="/starwars/anakin_skywalker">Darth Vader</Link> arrives to assess the damage. Vader is outraged and questions
+              <Link> Captain Antilles</Link>, whom he eventually strangles and kills. Hiding on the ship, Princess Leia is able to record a holographic
+              message with the help of <Link to="/starwars/r2d2">R2-D2</Link>, and gives the <Link>droid</Link> the plans for the Death Star and the
+              responsibility of taking the message to <Link to="/starwars/obi_wan_kenobi">Obi-Wan Kenobi</Link>, a Jedi-in-hiding on Tatooine. Leia is
+              spotted by stormtroopers and they shoot her with a stun blast and bring her before Vader. Leia claims she and the ship's crew were on a
+              diplomatic mission to <Link>Alderaan</Link>, but is disbelieved by Vader, who denounes her as a traitor and has her taken prisoner. Vader
+              orders a message be sent to the Imperial Senate, informing them that the ship was destroyed, with everyone on board killed. R2-D2 and
+              <Link to="/starwars/c3po">C-3PO</Link> use an escape pod in order to escape the ship and reach the planet of Tatooine below, narrowly
+              escaping destruction by an Imperial cannon when the operators do not detect the droids in the pod.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">Luke's destiny</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/9/92/Lukesaberanh.png" alt="Luke with lightsaber" />
+              <p>Luke Skywalker receives his father's lightsaber.</p>
+            </div>
+            <p>
+              After arguing and going their separate ways for a while, the droids are individually picked up by <Link>Jawa</Link> traders and brought
+              aboard a <Link>sandcrawler</Link>. They are later bought by moisture farmer <Link>Owen Lars</Link> and his nephew, Luke Skywalker, a young
+              farmer who lost his parents as a baby and hopes to one day be a starfighter pilot just like his friends. While cleaning R2, Luke discovers
+              a short portion of the hologram. At the mention of Obi-Wan, he wonders if she means his neighbor Ben Kenobi.
+            </p>
 
             <h3 className="article-heading-3" id="2.3">Rescue of the princess</h3>
 
