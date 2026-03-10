@@ -16,47 +16,48 @@ const CloneWarsFilm = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
-          <li className="sidebar-list-item"><a href="#2">Voice cast</a></li>
+          <li className="sidebar-list-item"><a href="#1">Opening narration</a></li>
+          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
           <Collapse 
-            id="3"
+            id="4"
             item="Production"
             sub={[
-              {id: "3.1", title: "Development"},
-              {id: "3.2", title: "Animation"}
+              {id: "4.1", title: "Development"},
+              {id: "4.2", title: "Animation"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#4">Music</a></li>
-          <Collapse 
-            id="5"
-            item="Marketing"
-            sub={[
-              {id: "5.1", title: "Merchandise"},
-              {id: "5.2", title: "Food partnership"},
-              {id: "5.3", title: "Print media"},
-              {id: "5.4", title: "Video games"},
-              {id: "5.5", title: "Portable media players"},
-              {id: "5.6", title: "Racing sponsorship"},
-              {id: "5.7", title: "Novelization"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#5">Music</a></li>
           <Collapse 
             id="6"
-            item="Release"
+            item="Marketing"
             sub={[
-              {id: "6.1", title: "Theatrical"},
-              {id: "6.2", title: "Home media"}
+              {id: "6.1", title: "Merchandise"},
+              {id: "6.2", title: "Food partnership"},
+              {id: "6.3", title: "Print media"},
+              {id: "6.4", title: "Video games"},
+              {id: "6.5", title: "Portable media players"},
+              {id: "6.6", title: "Racing sponsorship"},
+              {id: "6.7", title: "Novelization"}
             ]}
           />
           <Collapse 
             id="7"
-            item="Reception"
+            item="Release"
             sub={[
-              {id: "7.1", title: "Critical response"},
-              {id: "7.2", title: "Box office"}
+              {id: "7.1", title: "Theatrical"},
+              {id: "7.2", title: "Home media"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#8">Accolades</a></li>
+          <Collapse 
+            id="8"
+            item="Reception"
+            sub={[
+              {id: "8.1", title: "Critical response"},
+              {id: "8.2", title: "Box office"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#9">Accolades</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
