@@ -97,8 +97,16 @@ const ANewHope = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link>George Lucas</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Films and series</th>
+              <td className="infobox-data"><Link>List of Star Wars films and series</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Star Wars characters</Link></td>
             </tr>
           </tbody>
         </table>
