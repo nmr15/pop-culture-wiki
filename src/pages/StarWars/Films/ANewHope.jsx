@@ -17,7 +17,16 @@ const ANewHope = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Opening crawl</a></li>
-          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <Collapse 
+            id="2"
+            item="Plot"
+            sub={[
+              {id: "2.1", title: "Assault on Tantive IV"},
+              {id: "2.2", title: "Luke's destiny"},
+              {id: "2.3", title: "Rescue of the princess"},
+              {id: "2.4", title: "Sacrifice and victory"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#3">Cast</a></li>
           <Collapse 
             id="4"
@@ -71,7 +80,7 @@ const ANewHope = () =>
               {id: "11.2", title: "Cinematic influence"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#11">Sequels, prequels, and adatations</a></li>
+          <li className="sidebar-list-item"><a href="#12">Sequels, prequels, and adatations</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -154,21 +163,27 @@ const ANewHope = () =>
           </p>
         </div>
         <div>
-          <Heading2 id={1} title={"Plot"} />
+          <Heading2 id={1} title={"Opening crawl"} />
           <div>
 
           </div>
         </div>
         <div>
-          <Heading2 id={2} title={"Cast"} />
+          <Heading2 id={2} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Cast"} />
           <div>
             
           </div>
         </div>
         <div>
-          <Heading2 id={3} title={"Production"} />
+          <Heading2 id={4} title={"Production"} />
           <div>
-            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="4.1">Development</h3>
             <div className="img-left img-card">
               <img 
                 src="https://en.wikipedia.org/wiki/File:George_Lucas_1986_(cropped).jpg" 
@@ -185,76 +200,76 @@ const ANewHope = () =>
               science fantasy concept and began developing what he would call a "space fantasy".
             </p>
 
-            <h3 className="article-heading-3" id="3.2">Writing</h3>
+            <h3 className="article-heading-3" id="4.2">Writing</h3>
 
-            <h3 className="article-heading-3" id="3.3">Casting</h3>
+            <h3 className="article-heading-3" id="4.3">Casting</h3>
 
-            <h3 className="article-heading-3" id="3.4">Design</h3>
+            <h3 className="article-heading-3" id="4.4">Design</h3>
 
-            <h3 className="article-heading-3" id="3.5">Filming</h3>
+            <h3 className="article-heading-3" id="4">Filming</h3>
 
-            <h3 className="article-heading-3" id="3.6">Post-production</h3>
+            <h3 className="article-heading-3" id="4">Post-production</h3>
 
           </div>
         </div>
         <div>
-          <Heading2 id={4} title={"Soundrack"} />
+          <Heading2 id={5} title={"Soundrack"} />
           <div>
             
           </div>
         </div>
         <div>
-          <Heading2 id={5} title={"Marketing"} />
+          <Heading2 id={6} title={"Marketing"} />
           <div>
             
           </div>
         </div>
         <div>
-          <Heading2 id={6} title={"Release"} />
+          <Heading2 id={7} title={"Release"} />
           <div>
-            <h3 className="article-heading-3" id="6.1">MPAA rating</h3>
+            <h3 className="article-heading-3" id="7.1">MPAA rating</h3>
 
-            <h3 className="article-heading-3" id="6.2">First public screening</h3>
+            <h3 className="article-heading-3" id="7.2">First public screening</h3>
 
-            <h3 className="article-heading-3" id="6.3">Premiere and initial release</h3>
+            <h3 className="article-heading-3" id="7.3">Premiere and initial release</h3>
 
-            <h3 className="article-heading-3" id="6.4">Box office</h3>
+            <h3 className="article-heading-3" id="7.4">Box office</h3>
           </div>
         </div>
         <div>
-          <Heading2 id={7} title={"Reception"} />
+          <Heading2 id={8} title={"Reception"} />
           <div>
-            <h3 className="article-heading-3" id="7.1">Critical response</h3>
+            <h3 className="article-heading-3" id="8.1">Critical response</h3>
 
-            <h3 className="article-heading-3" id="7.2">Accolades</h3>
+            <h3 className="article-heading-3" id="8.2">Accolades</h3>
           </div>
         </div>
         <div>
-          <Heading2 id={8} title={"Post-release"} />
+          <Heading2 id={9} title={"Post-release"} />
           <div>
-            <h3 className="article-heading-3" id="8.1">Theatrical re-releases</h3>
-            <h4 className="article-heading-4" id="8.1.1">Special Edition</h4>
+            <h3 className="article-heading-3" id="9.1">Theatrical re-releases</h3>
+            <h4 className="article-heading-4" id="9.1.1">Special Edition</h4>
 
-            <h3 className="article-heading-3" id="8.2">Home media</h3>
+            <h3 className="article-heading-3" id="9.2">Home media</h3>
 
-            <h3 className="article-heading-3" id="8.3">Merchandising</h3>
+            <h3 className="article-heading-3" id="9.3">Merchandising</h3>
           </div>
         </div>
         <div>
-          <Heading2 id={9} title={"Cinematic and literary allusions"} />
+          <Heading2 id={10} title={"Cinematic and literary allusions"} />
           <div>
             
           </div>
         </div>
         <div>
-          <Heading2 id={10} title={"Legacy and influence"} />
+          <Heading2 id={11} title={"Legacy and influence"} />
           <div>
-            <h3 className="article-heading-3" id="10.1">In popular culture</h3>
-            <h3 className="article-heading-3" id="10.1">Cinematic influence</h3>
+            <h3 className="article-heading-3" id="11.1">In popular culture</h3>
+            <h3 className="article-heading-3" id="11.1">Cinematic influence</h3>
           </div>
         </div>
         <div>
-          <Heading2 id={11} title={"Sequels, prequels, and adatations"} />
+          <Heading2 id={12} title={"Sequels, prequels, and adatations"} />
           <div>
             
           </div>
