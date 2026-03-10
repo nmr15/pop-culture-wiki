@@ -207,6 +207,12 @@ const ANewHope = () =>
               farmer who lost his parents as a baby and hopes to one day be a starfighter pilot just like his friends. While cleaning R2, Luke discovers
               a short portion of the hologram. At the mention of Obi-Wan, he wonders if she means his neighbor Ben Kenobi.
             </p>
+            <p>
+              While eating dinner with Owen and his aunt <Link>Beru Lars</Link>, Owen asks Luke to take R2 to Anchorage the next day to have his memory
+              wiped, and expresses his hope Luke will stay with them for one more harvest season before applying to the Academy. R2 escapes from the
+              Lars' homestead in search of Obi-Wan, whom the droid claims to be the property of. Luke and C-3PO search the desert and find R2 the next
+              day, only to be attacked by <Link>sand people</Link>. Luke and his droids are rescued by Ben Kenobi, who confirms he is Obi-Wan.
+            </p>
 
             <h3 className="article-heading-3" id="2.3">Rescue of the princess</h3>
 
