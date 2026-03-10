@@ -1,3 +1,18 @@
+export const communityMeta = [
+  {
+    "id": "cmtymeta1",
+    "title": "Community characters",
+    "file": "CommunityChars",
+    "route": "/community/characters"
+  },
+  {
+    "id": "cmtymeta 2",
+    "title": "Community episodes",
+    "file": "CommunityEps",
+    "route": "/community/episodes"
+  }
+]
+
 export const communitychars = [
   {
     "id": "cmtychar1",
