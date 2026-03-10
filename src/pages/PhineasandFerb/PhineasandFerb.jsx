@@ -249,6 +249,32 @@ const PhineasandFerb = () =>
           <Heading2 id={5} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Writing style</h3>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dan_Povenmire_and_Swampy_Marsh_%282009%29.jpg/960px-Dan_Povenmire_and_Swampy_Marsh_%282009%29.jpg"
+                alt="Povenmire and Marsh in 2009"
+              />
+              <p>Phineas and Ferb co-creators Dan Povenmire and Jeff "Swampy" Marsh in 2009.</p>
+            </div>
+            <p>
+              The show uses four main writers to devise story ideas according to "strict guidelines", such as that the boys' scemes never appear to be
+              "magical". Stories are reviewed at weekly sessions on a Monday, then simultaneously scripted and storyboarded. A very rough design is
+              built before the storyboard, featuring little more than suggested scenes and dialogue, is drafted; the writers then gather for a
+              "play-by-play" walkthrough of the storyboard in front of the whole crew, whose reactions to the joke are assessed before rewrites are made.
+              The writers also include running gags in every episode, which are generally lines spoken by characters. Almost every eisode is split into
+              two 11-minute segments. Dan Povenmire admitted that the "a-plot" of each episode, the one following Phineas and Ferb's inventions, is not
+              actually a plot, but instead the setting, with the actual plot being Candance, Perry, and Dr. Doofenshmirtz's story, "The essence of story 
+              is that the characters are changed by what happens to them. Nothing ever changes the boys, they never learn anything, there's never any
+              obstacles they have to overcome, everything just works out for them".
+            </p>
+            <p>
+              Much of the series' humor relies on running gags used in almost every episode, with slight variation. Certain aspects of the show's humor
+              are aimed at adults. Including its frequent pop-culture references. Co-creator Dan Povenmire, who had previosuly worked on Family Guy,
+              sought to create a less raunchy show that would make similar use of comic timing, metahumor, humorous blank stares, wordplay, and breaking
+              the fourth wall. Povenmire describes the show as a combination of Family Guy and SpongeBob SquarePants. Co-creator Jeff "Swampy" Marsh has
+              said that the show was not created exclusively for children; he simply did not exclude them as an audience.
+            </p>
+
             <h3 className="article-heading-3" id="5.2">Visual aspects and animation</h3>
             <h3 className="article-heading-3" id="5.3">Cast</h3>
             <h3 className="article-heading-3" id="5.4">Music</h3>
