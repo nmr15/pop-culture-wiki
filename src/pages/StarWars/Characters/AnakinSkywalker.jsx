@@ -27,6 +27,23 @@ const AnakinSkywalker = () =>
               {id: "2.4", title: "Relationship with Padmé Amidala"}
             ]}
           />
+          <Collapse 
+            id="3"
+            item="Powers and abilities"
+            sub={[
+              {id: "3.1", title: "Lightsaber abilities"},
+              {id: "3.2", title: "Force powers"},
+              {id: "3.3", title: "Other skills"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Equipment"
+            sub={[
+              {id: "4.1", title: "Clothing"},
+              {id: "4.2", title: "Lightsabers"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
