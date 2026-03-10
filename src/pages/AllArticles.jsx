@@ -3,7 +3,7 @@ import { topics } from '../data';
 import { mcu, marveltv, mcuChar } from '../data/dataMcu';
 import { marvel } from '../data/dataMarvel';
 import { starwarsFilms, starwarsSeries, starwarsChars } from '../data/dataStarWars';
-import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from '../data/dataCommunity';
+import { communitychars, communityS1, communityS2, communityS3, communityS4, communityS5, communityS6 } from '../data/dataCommunity';
 import { beatles, beatlesAlbums, beatlesPPM, beatlesWTB, beatlesAHDN, beatlesBFS, beatlesHLP, beatlesRBS, beatlesRVLR, beatlesSGT, beatlesMMT, beatlesTWA, beatlesYS, beatlesAR, beatlesLIB } from '../data/dataBeatles';
 import { spongebobMedia, spongebobChars, spongebobS1, spongebobS2, spongebobS3 } from '../data/dataSpongebob';
 import { HimymChar, himymS1, himymS2, himymS3, himymS4, himymS5, himymS6, himymS7, himymS8, himymS9 } from '../data/dataHimym';
