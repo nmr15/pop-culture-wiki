@@ -107,7 +107,7 @@ const CloneWarsFilm = () =>
             after <Link to="/starwars/attack_of_the_clones">Attack of the Clones</Link> (2002), at the start of the <Link>Clone Wars</Link>. In the film,
             <Link to="/starwars/count_dooku"> Count Dooku</Link> and <Link to="/starwars/jabba_the_hutt">Jabba the Hutt</Link>'s uncle Ziro orchestrate a
             plan to turn Jabba against the <Link>Galactic Republic</Link> by framing the <Link>Jedi</Link> for the kidnapping of his son. While
-            <Link to="/starwars/anakin_skywalker">Anakin Skywalker</Link> and his newly assigned apprentice
+            <Link to="/starwars/anakin_skywalker"> Anakin Skywalker</Link> and his newly assigned apprentice
             <Link to="/starwars/ahsoka_tano"> Ahsoka Tano</Link> attempt to deliver the child back to his father,
             <Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link> and <Link to="/starwars/padmé_amidala">Padmé Amidala</Link> lead separate
             investigations to uncover Dooku and Ziro's plot.
@@ -123,7 +123,15 @@ const CloneWarsFilm = () =>
         <div>
           <Heading2 id={1} title={"Opening narration"} />
           <div>
-
+            <div className="article-quote">
+              <p>
+                A galaxy divided! Striking swiftly after the Battle of Geonosis, Count Dooku's droid army has seized control of the major hyperspace
+                lanes, separating the Republic from the majority of its clone army. With few clones available, the Jedi generals cannot gain a foothold
+                on the Outer Rim as more and more planets choose to join Dooku's Separatists. While the Jedi are occupied fighting a war, no one is left
+                to keep the peace. Chaos and crime spread, and the innocent become victims in a lawless galaxy. Crime lord Jabba the Hutt's son has been
+                kidnapped by a rival band of pirates. Desparate to save his son, Jabba puts out a call for help-a call the Jedi are cautious to answer...
+              </p>
+            </div>
           </div>
         </div>
         <div>
@@ -135,7 +143,16 @@ const CloneWarsFilm = () =>
         <div>
           <Heading2 id={3} title={"Voice cast"} />
           <div>
-            
+            <div className="article-list">
+              <ul>
+                <li>
+                  <Link>Matt Lanter</Link> as <Link to="/starwars/anakin_skywalker">Anakin Skywalker</Link>, a former Jedi Padawan who has recently been
+                  promoted to the rank of Jedi Knight, and a general in the Republic's army, who leads the 501st Legion. <Link>Hayden Christensen</Link>
+                  was considered to reprise his role as Anakin from the prequel trilogy before Lanter was selected. Lanter replaces Mat Lucas, who voiced
+                  the character in the 2003 micro-series, Star Wars: Clone Wars.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
         <div>
