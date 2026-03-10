@@ -20,7 +20,7 @@ export const topics = [
     "title": "Star Wars",
     "file": "StarWars",
     "folder": "StarWars",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/500px-Star_wars2.svg.png",
     "route": "/starwars"
   },
   {

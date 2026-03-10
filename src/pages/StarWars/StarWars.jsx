@@ -101,7 +101,7 @@ const StarWars = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/220px-Star_wars2.svg.png" alt="Star Wars logo" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/500px-Star_wars2.svg.png" alt="Star Wars logo" />
                 </span>
               </td>
             </tr>
