@@ -16,58 +16,59 @@ const ANewHope = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
-          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <li className="sidebar-list-item"><a href="#1">Opening crawl</a></li>
+          <li className="sidebar-list-item"><a href="#2">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#3">Cast</a></li>
           <Collapse 
-            id="3"
+            id="4"
             item="Production"
             sub={[
-              {id: "3.1", title: "Development"},
-              {id: "3.2", title: "Writing"},
-              {id: "3.3", title: "Casting"},
-              {id: "3.4", title: "Design"},
-              {id: "3.5", title: "Filming"},
-              {id: "3.6", title: "Post-production"}
+              {id: "4.1", title: "Development"},
+              {id: "4.2", title: "Writing"},
+              {id: "4.3", title: "Casting"},
+              {id: "4.4", title: "Design"},
+              {id: "4.5", title: "Filming"},
+              {id: "4.6", title: "Post-production"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#4">Soundrack</a></li>
-          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
-          <Collapse 
-            id="6"
-            item="Release"
-            sub={[
-              {id: "6.1", title: "MPAA rating"},
-              {id: "6.2", title: "First public screening"},
-              {id: "6.3", title: "Premiere and initial release"},
-              {id: "6.4", title: "Box office"}
-            ]}
-          />
+          <li className="sidebar-list-item"><a href="#5">Soundrack</a></li>
+          <li className="sidebar-list-item"><a href="#6">Marketing</a></li>
           <Collapse 
             id="7"
-            item="Reception"
+            item="Release"
             sub={[
-              {id: "7.1", title: "Critical response"},
-              {id: "7.2", title: "Accolades"}
+              {id: "7.1", title: "MPAA rating"},
+              {id: "7.2", title: "First public screening"},
+              {id: "7.3", title: "Premiere and initial release"},
+              {id: "7.4", title: "Box office"}
             ]}
           />
           <Collapse 
             id="8"
-            item="Post-release"
+            item="Reception"
             sub={[
-              {id: "8.1", title: "Theatrical re-releases", sub2: [
-                {id: "8.1.1", title: "Special Edition"}
-              ]},
-              {id: "8.2", title: "Home media"},
-              {id: "8.3", title: "Merchandising"}
+              {id: "8.1", title: "Critical response"},
+              {id: "8.2", title: "Accolades"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#9">Cinematic and literary allusions</a></li>
           <Collapse 
-            id="10"
+            id="9"
+            item="Post-release"
+            sub={[
+              {id: "9.1", title: "Theatrical re-releases", sub2: [
+                {id: "9.1.1", title: "Special Edition"}
+              ]},
+              {id: "9.2", title: "Home media"},
+              {id: "9.3", title: "Merchandising"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#10">Cinematic and literary allusions</a></li>
+          <Collapse 
+            id="11"
             item="Legacy and influence"
             sub={[
-              {id: "10.1", title: "In popular culture"},
-              {id: "10.2", title: "Cinematic influence"}
+              {id: "11.1", title: "In popular culture"},
+              {id: "11.2", title: "Cinematic influence"}
             ]}
           />
           <li className="sidebar-list-item"><a href="#11">Sequels, prequels, and adatations</a></li>
