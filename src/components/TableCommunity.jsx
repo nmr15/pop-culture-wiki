@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { communitychars, communityS1, communitys2, communitys3, communitys4, communitys5, communitys6 } from "../data/dataCommunity";
+import { communitychars, communityS1, communityS2, communityS3, communityS4, communityS5, communityS6 } from "../data/dataCommunity";
 
 const TableCommunity = () =>
 {
