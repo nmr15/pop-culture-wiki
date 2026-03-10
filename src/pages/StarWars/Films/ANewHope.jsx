@@ -171,7 +171,20 @@ const ANewHope = () =>
         <div>
           <Heading2 id={2} title={"Plot"} />
           <div>
+            <h3 className="article-heading-3" id="2.1">Assault on Tantive IV</h3>
+            <p>
+              Nineteen years after the formation of the <Link>Galactic Empire</Link>, <Link>the galaxy</Link> is in a state of <Link>civil war</Link>.
+              The <Link>Rebel Alliance</Link> has won their first major victory by stealing plans to the Galactic Empire's secret weapon, the
+              <Link> Death Star</Link>. Hoping that the stolen plans can save her people and restore freedom to the galaxy. Princess Leia Organa, who is
+              in custody of the plans, attempt to race home aboard the <Link>Tantive IV</Link>. However, her ship is intercepted by the Imperial I-class
+              <Link> Star Destroyer</Link> Devastator over the desert planet of <Link>Tatooine</Link>.
+            </p>
 
+            <h3 className="article-heading-3" id="2.2">Luke's destiny</h3>
+
+            <h3 className="article-heading-3" id="2.3">Rescue of the princess</h3>
+
+            <h3 className="article-heading-3" id="2.4">Sacrifice and victory</h3>
           </div>
         </div>
         <div>
