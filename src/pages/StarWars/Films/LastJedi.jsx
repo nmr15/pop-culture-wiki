@@ -15,6 +15,44 @@ const LastJedi = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Writing"},
+              {id: "3.3", title: "Casting"},
+              {id: "3.4", title: "Filming"},
+              {id: "3.5", title: "Music"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Marketing</a></li>
+          <Collapse 
+            id="5"
+            item="Release"
+            sub={[
+              {id: "5.1", title: "Theatrical"},
+              {id: "5.2", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Reception"
+            sub={[
+              {id: "6.1", title: "Box office", sub2: [
+                {id: "6.1.1", title: "United States and Canada"},
+                {id: "6.1.2", title: "Other territories"}
+              ]},
+              {id: "6.2", title: "Critical response"},
+              {id: "6.3", title: "Audience reception", sub2: [
+                {id: "6.3.1", title: "Harassment"}
+              ]},
+              {id: "6.4", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Sequel</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
