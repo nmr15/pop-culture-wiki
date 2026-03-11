@@ -1,5 +1,8 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
+import TableStarWars from '../../../components/TableStarWars'
 
 const RevengeOfTheSith = () =>
 {
@@ -13,6 +16,31 @@ const RevengeOfTheSith = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Opening crawl</a></li>
+
+          <li className="sidebar-list-item"><a href="#3">Cast</a></li>
+          <Collapse 
+            id="4"
+            item="Production"
+            sub={[
+              {id: "4.1", title: "Writing"},
+              {id: "4.2", title: "Art design"},
+              {id: "4.3", title: "Filming"},
+              {id: "4.4", title: "Visual effects"},
+              {id: "4.5", title: "Deleted scenes"},
+              {id: "4.6", title: "Music"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Themes and analysis"
+            sub={[
+              {id: "5.1", title: "References: Cinematic and literary allusions"},
+              {id: "5.2", title: "Dramatic irony"},
+              {id: "5.3", title: "Parallels"}
+            ]}
+          />
+          
         </ul>
       </aside>
       <main className="main" id="top">
