@@ -348,6 +348,22 @@ const ANewHope = () =>
               until after Star Wars was filmed. Kaminski also claims that Campbell's influence on Star Wars has been exaggerated by Lucas
               and others, and that Lucas' second draft was "closer to Campbell's structre" than the third draft.
             </p>
+            <p>
+              In February 1975, Twentieth-Century Fox granted the film a budget of $5 million (equivalent to $30 million in 2025 dollars),
+              which was later increased to $8.25 million (equivalent to $49 million). Lucas then started writing with a budget in mind. He
+              conceived the cheap, "used" look for much of the film, and, with Fox having just shut down its special effects department,
+              reduced the number of complex special effects shots called for by the script. The completed third draft of the screenplay,
+              dated August 1, 1975, was titled The Star Wars From the Adventures of Luke Starkiller. This version had most of the elelments
+              of the final plot, with only some differences in the characters and settings. It presented Luke as an only child whose father
+              was already dead, and who was cared for by a man named Ben Kenobi. The script would be rewritten into a fourth and final
+              draft, dated January 1, 1976, and titled The Adventures of Luke Starkiller as taken from the Journal of the Whills, Saga
+              I: The Star Wars. Lucas' friend Gloria Katz and Willard Huyck helped him review the fourth draft into the final pre-production
+              script. Lucas finished the screenplay in March 1976, when the crew started filming. During production, he changed Luke's
+              surname from Starkiller to Skywalker, and changed the title first to The Star Wars, and then, finally, to Star Wars. For the
+              film's opening crawl, Lucas originally wrote a composition of six paragraphs with four sentences each. He showed the crawl
+              to his friend, the director Brian De Palma, who said it was incomprehensible and far too lengthy. De Palma and the
+              screenwriter Jay Cocks helped edit the crawl into its final form, which contains only four sentences.              
+            </p>
 
             <h3 className="article-heading-3" id="4.3">Casting</h3>
 
