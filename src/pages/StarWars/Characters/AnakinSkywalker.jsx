@@ -197,6 +197,18 @@ const AnakinSkywalker = () =>
               selfless, willing to lay down his life for others, and showed commitment to things greater than himself, the Jedi, the Republic,
               his friends, and his wife.
             </p>
+            <p>
+              Similarly, his relentless determination was rivaled by none, except perhaps by that of his Padawan. When Tano was missing in
+              action and taken to the moon of Wassakah, Skywalker blamed himself, believing he had failed to protect his student, and
+              relentlessly searched for her possible location on star charts, though Plo Koon suggested he trust in her abilities. Indeed,
+              Tano survived and led others to safety, and, upon her return to Coruscant, she told her master there was no need to apologize;
+              she explained he had already done all he needed to, as she had used his lessons to survive. When Skywalker was unsure of how
+              to respond, she thanked him for that guidance, so Skywalker responded with "You'rewelcome, my Padawan." In some aspects, his
+              journey as a mentor to Tano allowed him to mature and become more responsible. Skywalker's emotional balance, however, was
+              disrupted by the High Council's decision to expel Tano, when she was suspected of treachery, and her subsequent decision not
+              to return to the Order when invited back. Though he greatly missed her, Skywalker respected her wish to stay away from the Order
+              when he sensed her aboard the Silver Angel by allowing the ship to pass by his Venator-class Star Destroyer.
+            </p>
           </div>
         </div>
       </main>
