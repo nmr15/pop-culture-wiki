@@ -156,6 +156,30 @@ const AnakinSkywalker = () =>
             bloodline, although Rey, the granddaughter of Sidious, rejected her true heritage and took the Skywalker surname to honor their legacy.
           </p>
         </div>
+
+        <div>
+          <Heading2 id={2} title={"Personality and traits"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">Jedi of the Republic</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/4/46/TheChosenOne-SWE.png" alt="Anakin Episode III" />
+              <p>
+                Anakin Skywalker was a giften yet unorthodox Jedi Knight who rose in prominence during the Clone Wars.
+              </p>
+            </div>
+            <p>
+              As a child, Anakin Skywalker showed kindnesss and generosity, as exemplified by his willingness to risk his life in a podrace to help
+              Qui-Gon Jinn and Padmé Amidala depart Tatooine at a time of need. He made a number of friends, and his best friend was a fellow slave boy
+              named Kitster Banai. He was not shy to express how he felt and showed a reluctance to leave those he loved behind. Indeed, Skywalker had
+              a deep-seated fear of loss, especially in regards to his mother, which Master yoda sensed when he was being tested by the Jedi Council.
+              This fear of loss would follow Skywalker throughout his life and eventually led him down the path of the dark side, particularly after
+              the death of his mother, Shmi, carrying sadneess, anger, and guilt in his hear for years to come. He also felt that fear towards his
+              friends, noticing when he believed that Obi-Wan was killed by the bounty hunter Rako Hardeen, leading him to the dark side. But upon
+              discovering that he was a ruse to prevent Chancellor Palpatine's kidnapping, he felt betrayed for not telling him sooner, and thus began
+              to distrust Obi-Wan and the Jedi.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
