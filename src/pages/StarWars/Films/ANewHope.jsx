@@ -213,6 +213,41 @@ const ANewHope = () =>
               Lars' homestead in search of Obi-Wan, whom the droid claims to be the property of. Luke and C-3PO search the desert and find R2 the next
               day, only to be attacked by <Link>sand people</Link>. Luke and his droids are rescued by Ben Kenobi, who confirms he is Obi-Wan.
             </p>
+            <p>
+              At his home, Obi-Wan gives Luke his father's <Link>lightsaber</Link>, as Obi-Wan recalls his own friendship with Luke's father. He tells
+              Luke that he and his father were a part of the <Link>Jedi</Link> order that once protected the galaxy before the Empire took over and
+              that Darth Vader was once his apprentice before he fell to the <Link>dark side of the Force</Link> and murdered Luke's father. After
+              viewing Leia's full recording. Obi-Wan attempts to persuade Luke to accompany him to Alderaan. Luke refuses but agrees to take Obi-Wan
+              as far as Anchorhead. On the way, the group discovers the remains of the sandcrawler, the Jawas having been killed by stormtroopers
+              searching for the droids. With dawning horror, Luke hurries home only to find it burning and his aunt and uncle's charred remains,
+              both brutally murdered by the same stormtroopers.
+            </p>
+            <p>
+              Luke returns upset, but Obi-Wan tells him there was nothing he could do, and that he would have been killed too and the plans would
+              be in possession of the Empire. With nothing keeping him on Tatooine, Luke, Obi-Wan, and the two droids travel to <Link>Mos
+              Eisley</Link> to find passage to Alderaan, Leia's home planet.
+            </p>
+            <p>
+              Aboard the Death Star, Cassio Tagge argues with Conan Antonio Motti about the station's vulnerability to the rebels and points out
+              that the rebellion has been gaining support within the imperial senate. <Link to="/starwars/grand_moff_tarkin">Wilhuff
+              Tarkin</Link> enters the room with Darth Vader and informs them that the Emperor has dissolved the senate completely, sweeping away
+              the last remnants of the Old Republic. Believing fear will keep the galaxy in line, Motti boasts the power of the Death Star, to
+              which Vader replies that its power is insignificant compare to the Force. When Motti mocks Vader's belief in the Force, Vader
+              <Link> force chokes</Link> him until Tarkin orders him to stop, and expresses his own desire to crush the Rebellion.
+            </p>
+            <p>
+              Back in Mos Eisley, Luke, Obi-Wan, and the droids run into a patrol of stormtroopers, who ask for their identification. Obi-Wan
+              uses a <Link>Jedi mind trick</Link> on the lead trooper, who lets them pass. Arriving at Chaimun's Spaceport Cantina, the group
+              hires smuggler <Link to="/starwars/han_solo">Han Solo</Link> and his first mate, a <Link>Wookiee</Link> named
+              <Link to="/starwars/chewbacca">Chewbacca</Link>, for 17,000 credits. 2,000 in advance and 15,000 upon arrival, to take the four
+              of them to Alderaan aboard their ship, the <Link>Millennium Falcon</Link>. To obtain the money, Luke had to sell his
+              <Link> landspeeder</Link>. Han has a brief run-in with <Link>Greedo</Link> over his debts to crime lord
+              <Link to="/starwars/jabba_the_hutt"> Jabba the Hutt</Link>, which ends with Han fatally shooting Greedo. Jabba later confronts
+              Han in the Falcon's docking bay, scolding him for killing Greedo. Han defends his actions that offended Jabba (dumping a load
+              of cargo when confronted by an Imperial patrol) and promises he'll pay the gangster what he owes. Luke, Obi-Wan, and the droids
+              arrive at the Falcon's hangar. A brief scuffle with stormtroopers ensues, and the Falcon escapes Imperial Star Destroyers over
+              Tatooine and sets a course to Alderaan unaware that the Death Star had just arrived there as well.
+            </p>
 
             <h3 className="article-heading-3" id="2.3">Rescue of the princess</h3>
 
