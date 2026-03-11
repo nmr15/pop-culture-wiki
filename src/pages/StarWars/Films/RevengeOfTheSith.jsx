@@ -40,7 +40,42 @@ const RevengeOfTheSith = () =>
               {id: "5.3", title: "Parallels"}
             ]}
           />
-          
+          <Collapse 
+            id="6"
+            item="Release"
+            sub={[
+              {id: "6.1", title: "Marketing"},
+              {id: "6.2", title: "Thatrical"},
+              {id: "6.3", title: "Leaked workprint"},
+              {id: "6.4", title: "Rating"},
+              {id: "6.5", title: "Home media"},
+              {id: "6.6", title: "Canceled 3D re-release"},
+              {id: "6.7", title: "2025 re-releas"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Reception"
+            sub={[
+              {id: "7.1", title: "Critical response"},
+              {id: "7.2", title: "Other responses"},
+              {id: "7.3", title: "Box office"},
+              {id: "7.4", title: "Accolades"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Legacy</a></li>
+          <Collapse 
+            id="9"
+            item="Other media"
+            sub={[
+              {id: "9.1", title: "Novelization"},
+              {id: "9.2", title: "Video game"},
+              {id: "9.3", title: "The Clone Wars"},
+              {id: "9.4", title: "The Bad Batch"},
+              {id: "9.5", title: "Obi-Wan Kenobi"},
+              {id: "9.6", title: "Backstroke of the West"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
