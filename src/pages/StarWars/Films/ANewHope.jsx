@@ -320,6 +320,34 @@ const ANewHope = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.2">Writing</h3>
+            <p>
+              Since commencing the writing process in January 1973, Lucas wrote four different screenplay for Star Wars, searching for "just
+              the right ingredients, characters, and storyline." By May 1974, he had expanded the original treatment into a full, 132-page
+              rough draft, which included elements such as the Sith, the Death Star, and a general named Annikin Starkiller. He then changed
+              Starkiller to an adolescent boy, and shifted the general, who came from a familiy of dwarfs, into a supporting role. Lucas
+              envisioned the <Link>Corellian</Link> smuggler, Han Solo, as a large, green-skinned monster with gills. He based Chewbacca on
+              his Alaskan Malamute dog, Indiana. She would sit in the passaner seat of his car while he driving, and he referred to her as
+              his "co-pilot". The dog's name would later be given to the character <Link>Indiana Jones</Link>.
+            </p>
+            <p>
+              Lucas completed a second draft in January 1975 entitled Adventures of the Starkiller, Episode One: The Star Wars. He had made
+              substantial simplifications and introduced the young, farm-dwelling hero as Luke Starkiller. In this draft, Luke had several
+              brothers. Annikin became Luke's father, a wise Jedi Knight who played a minor role at the end of the story. Early versions of
+              the characters Han Solo and Chewbacca were present, and closely resembles those seen in the finished film. The draft introduced
+              a mystical energy field call "The Force"; the concept of a Jedi turning to the dark side; and a Jedi who was the first to turn,
+              and who subsequently trained the Sith. The script also included a Jedi Master with a son who trains under his father's friend.
+              This version was more of a fairy tale quest than the action-filled adventure story of the previous draft, and ended with a text
+              crawl that previewed the next story in the series. According to Lucas, the second draf was over 200 ages long, which led him to
+              split up the story into multiple films. This division caused problems with the first film; Lucas had to use the ending of
+              Return of the Jedi for Star Wars, which resulted in a Death Star being included in both films.
+            </p>
+            <p>
+              While writing a third draft, Lucas claims to have been influenced by comics, J. R. R. Tolkien's The Hobbit, Joseph Campbell's
+              The Hero with a Thousand Faces, James Geore Frazer's The Golden Bough, and Bruno Bettelheim's The Uses of Enchantment. The
+              writer Michael Kaminski has objected to Lucas' claim regarding The Uses of Enchantment, arguing that it was not released
+              until after Star Wars was filmed. Kaminski also claims that Campbell's influence on Star Wars has been exaggerated by Lucas
+              and others, and that Lucas' second draft was "closer to Campbell's structre" than the third draft.
+            </p>
 
             <h3 className="article-heading-3" id="4.3">Casting</h3>
 
