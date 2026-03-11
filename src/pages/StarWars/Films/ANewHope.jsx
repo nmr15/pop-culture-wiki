@@ -449,6 +449,32 @@ const ANewHope = () =>
             </p>
 
             <h3 className="article-heading-3" id="4">Filming</h3>
+            <p>
+              In 1975, Lucas founded the visual effects company <Link>Industrial Light & Magic</Link> (ILM) after
+              discovering that Fox's visual effects department had been shut down. ILM began its work on Star Wars in
+              a warehouse in Van Nuys, California. Most of the visual effects used pioneering digital motion control
+              photography developed by John Dykstra and his team, which created the illusion of size by employing small
+              models and slowly moving cameras. The technology is now known as the Dykstraflex system.
+            </p>
+            <p>
+              Visually, Lucas wanted Star Wars to have the "etheral quality" of a fairy tale, but also "an alien
+              look." He hoped to achieve "the seeming contradiction of [the] strange graphics of fantasy combined with
+              the feel of a documentary." His first choice for cinematography was Geoffrey Unsworth, who had worked
+              on 2001: A Space Odyssey. Unsworth initially accepted the job, but eventually withdrew to work on 
+              the Vincent Minnelli-directed A Matter of Time (1976). Unsworth was replaced by Gilbert Taylor, who had
+              overseen photography for Dr. Strangelove and A Hard Day's Night (both 1964). Lucas admired Taylor's
+              work on both films, describing them as "eccentrically photograhed pictures with a strong documentary
+              flavor."
+            </p>
+            <p>
+              Once filming was under way, Lucas and Taylor had many disputes. Lucas' lighting suggestions were
+              rejected by Taylor, who believed Lucas was overstepping his boundaries by giving specific instructions,
+              sometims even moving lights and cameras himself. After Fox executives complained about the soft-focus
+              visual style of the film, Taylor changed his approach, which infuriated Lucas. Kurtz said that Lucas'
+              inability to delegate tasks resulted from his history directing low-budget films, which required him
+              to be involved with all aspects of the production. Taylor claimed that Lucas avoided contact with
+              him, which motivated the cinematographer to make his own decisions about how to shoot the film.
+            </p>
 
             <h3 className="article-heading-3" id="4">Post-production</h3>
 
