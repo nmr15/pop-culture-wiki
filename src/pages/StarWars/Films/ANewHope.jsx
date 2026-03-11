@@ -250,6 +250,12 @@ const ANewHope = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.3">Rescue of the princess</h3>
+            <p>
+              Leia, having resisted being tortured with a mind probe for the location of the Rebel Alliance's headquarters, is brought
+              before Tarkin. Tarkin threatens to use the Death Star's superlaser on Leia's homeworld of Alderaan if she does not tell them
+              the Rebel base's lcation. She reluctantly tells them the base is on <Link>Dantoonie</Link>, but Tarkin orders Alderaan to be
+              destroyed anyway for its role in supporting the rebels.
+            </p>
 
             <h3 className="article-heading-3" id="2.4">Sacrifice and victory</h3>
           </div>
