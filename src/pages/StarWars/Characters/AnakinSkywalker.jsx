@@ -44,6 +44,19 @@ const AnakinSkywalker = () =>
               {id: "4.2", title: "Lightsabers"}
             ]}
           />
+          <Collapse 
+            id="5"
+            item="Behind the scenes"
+            sub={[
+              {id: "5.1", title: "Development"},
+              {id: "5.2", title: "Darth Vader as a cultural figure"},
+              {id: "5.3", title: "Portrayal"},
+              {id: "5.4", title: "Obi-Wan Kenobi and Ahsoka"},
+              {id: "5.5", title: "Non-canon history"},
+              {id: "5.6", title: "LEGO"},
+              {id: "5.7", title: "Translations"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
