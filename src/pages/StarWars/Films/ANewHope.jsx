@@ -421,6 +421,32 @@ const ANewHope = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.4">Design</h3>
+            <p>
+              During pre-production, Lucas recruited several conceptual designers: Colin Cantwell, who visualized the initial
+              spacecraft models; Alex Tavoularis, who created storyboard sketches from early scripts; and Ralph McQuarrie,
+              who created conceptual images of characters, costumes, props, and scenery. McQuarrie's paintings helped studio
+              executives visualize the film, which positively influenced their decision to fund the project. His artwork
+              also set the visual tone for Star Wars and for the rest of the original trilogy.
+            </p>
+            <p>
+              Lucas wanted to create props and sets that had never before been used in science fiction films. He hired as
+              production designer John Barry and Roger Christian, who were then working on the film Lucky Lady (1975).
+              Christian remembers that Lucas did not want anything in Star Wars to stand out, and wanted everything to
+              look "real and used." In this "used future" aesthetic, all devices, ships, and buildings related to Tatooine
+              and the rebels look aged and dirty, and the rebel ships look cobbled together in contrast to the Empire's
+              sleeker designs. Lucas believed this aesthetic would lend credibility to the film's fictional places, and
+              Christian was enthusiastic about this approach.
+            </p>
+            <p>
+              Barry and Christian started working with Lucas before Star Wars was funded by Fox. For several months, in
+              a studio in Kensal Rise, England, they planned the creation of props and sets with very little money.
+              According to Christian, the Millennium Falcon set was the most difficult to build. He wanted the interior
+              of the ship to look like a submarine, and used inexpensive airplane scrap metal to achieve the desired
+              effect. Set construction later moved to Elstree Studios, where Barry created thirty sets. All nine
+              sound stages at Elstree were needed to house the planets, starships, caves, control rooms, cantinas,
+              and Death Star corridors. The rebel hangar was so massive it had to be built at nearby Shepperton Studios,
+              which contained Europe's largest sound stage at the time.
+            </p>
 
             <h3 className="article-heading-3" id="4">Filming</h3>
 
