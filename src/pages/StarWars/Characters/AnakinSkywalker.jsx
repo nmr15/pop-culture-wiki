@@ -178,6 +178,25 @@ const AnakinSkywalker = () =>
               discovering that he was a ruse to prevent Chancellor Palpatine's kidnapping, he felt betrayed for not telling him sooner, and thus began
               to distrust Obi-Wan and the Jedi.
             </p>
+            <p>
+              After he left his mother, Skywalker, feeling the brunt of childhood abandonment and losing the only person who had ever cared for him
+              before meeting the Jedi, clinged onto anyone close to him. First, it had been Qui-Gon Jinn, but he then lost the Jedi Master as well.
+              Afterward, he clinged onto others in his life, like Obi-Wan Kenobi, Padmé Amidala, and Ahsoka Tano. Similarly, his experiences as a
+              slave would leave him with a deep resentment towards slaves. Skywalker would mostly keep these feelings to himself, very rarely talking
+              about them, even with those he trusted, as he struggled to put his past behind him, making an effort not to think about it.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/1/19/AnakinSkywalker-TCWForceWarriors.png" alt="Anakin The Clone Wars" />
+              <p>Anakin Skywalker struggled with anger as a Jedi Knight which led to his ultimate fall to the dark side.</p>
+            </div>
+            <p>
+              As he grew older, Skywalker became cocky, reckless, impatient, willful, and cavalier, despite Kenobi's efforts to train him as best
+              as he could. Confident and bold, he demonstrated a lack of subtlety, which Plo Koon once noted, was one of the many traits his
+              Padawan, Ahsoka Tano, had adopted from him during her younger years. Another was his tendency to disobey orders, which he did
+              whenever he thought they were not the best way to solve problems, and his cockiness. Despite his many failings, Skywalker remained
+              selfless, willing to lay down his life for others, and showed commitment to things greater than himself, the Jedi, the Republic,
+              his friends, and his wife.
+            </p>
           </div>
         </div>
       </main>
