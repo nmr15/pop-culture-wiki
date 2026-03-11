@@ -366,6 +366,59 @@ const ANewHope = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.3">Casting</h3>
+            <p>
+              Lucas had a preference for casting unknown or realtively unknown actors, which led him to select Mark Hamill and Carrie
+              Fisher for leading roles. Hamill was cast as Luke Skywalker over Robby Benson, Robert Englund, William Katt,
+              <Link> Kurt Russell</Link>, and Charles Martin Smith, while Fisher was cast as Princess Leia over <Link>Karen
+              Allen</Link>, Amy Irving, Terri Nunn, Cindy Williams, and Linda Puri. Jodie Foster was offered the role, but turned
+              it down because she was under contract with Disney. Koo Stark was also considered for Leia, but was instead cast as
+              Luke's friend Camie Marstrap, a character that was eventually cut from the film.
+            </p>
+            <p>
+              Lucas initially resisted casting Harrison Ford as Han Solo, since Ford had previously worked with Lucas on American
+              Graffiti, and was therefore not unkown. Instead, Lucas asked Ford to assist with auditions by reading lines with other
+              actors. He was eventually won over by Ford, and cast him as Han over many other actors who auditioned, including
+              James Caan, <Link>Chevy Chase</Link>, <Link>Robert De Niro</Link>, Richard Dreyfus, Robert Englund, <Link>Steve
+              Martin</Link>, <Link>Bill Murray</Link>, <Link>Jack Nicholson</Link>, Nick Nolte, Burt Reynolds, Kurt Russell,
+              Sylvester Stallone, <Link>John Travolta</Link>, Glynn Turman, <Link>Christopher Walken</Link>, and Perry King, who later
+              played Han in the radio series. <Link>Al Pacino</Link> turned down the part because he did not understand the script.
+            </p>
+            <p>
+              Lucas believed that he needed an established star to play Obi-Wan Kenobi. He considered Peter Cushing for the role,
+              but decided the actor's lean features would be better employed as the villainous Tarkin. Kurtz felt a strong character
+              actor was required to convey the "stability and gravitas" of Obi-Wan. Before Alec Guinness was cast, the Japanese
+              actor Toshiro Mifune, who starred in many Akira Kurosawa films, was considered for the role . His daughter, Mika
+              Kitagawa, said her father had a lot of "samurai pride" and turned down the role of Obi-Wan and Vader because he
+              thought Star Wars would employ cheap special effects, and would therefore cheapen the image of samurai. Lucas
+              credited Guinness with inspiring the cast and crew to work harder, which contributed significantly to the completion
+              of filming. Ford said he admired Guinness' preparation, professionalism, and kindness towards the other actors. He
+              recalled Guinness having "a very clear head about how to serve the story." On top of his salary, Guinness received
+              2.25% of the film's backend grosses, which made him wealthy later in life.
+            </p>
+            <p>
+              Anthony Daniels said he wanted the role of C-3PO after he saw a Ralph McQuarrie concep painting of the character
+              and was struck by the vulnerability in the droid's face. After casting Daniels for the physical performance, Lucas
+              intended to hire another actor for the droid's voice. According to Daniels, thirty well-established actors
+              auditioned, including Dreyfus and Mel Blanc, but Daniels received the voice role after one of the actors suggested
+              the idea to Lucas.
+            </p>
+            <p>
+              Kenny Baker (R2-D2) and Peter Mayhew (Chewbacca) were cast largely due to their height. At 3 feet 8 inches (1.12 m),
+              Baker was offered the role of the diminutive R2-D2 immediately after meeting Lucas. He turned it down multiple
+              times, however, before finally accepting it. R2-D2's beeps and squeaks were made by the film's sound designer,
+              <Link>Ben Burtt</Link>, by imitating baby noises, recording his voice over an intercom, and finally mixing the
+              sounds together using a synthesizer. Mayhew initially auditioned for Vader, but David Prowse was cast instead.
+              When Lucas and Kurtz saw Mayhew's 7-foot-3-inch (2.21 m) stature, they quickly cast him as Chewbacca. Mayhew
+              modeled his performance on the mannerisms of animals he observed in public zoos.
+            </p>
+            <p>
+              Prowse was originally offered the role of Chewbacca, but turned it down, as he wanted to play the villain. Prowse
+              portrayed Vader physically, but Lucas felt his West Country English accent was inappropriate for the character,
+              and selected James Earl Jones for Vader's voice. Lucas considered Orson Welles for the voice role, but was
+              concerned his voice would be too familiar to audiences. Audiences and critics, however, immediately recognized
+              Jones' voice in the film. Jones was uncredited as Vader in Star Wars films until 1983, although he was credited
+              in the 1978 television special, Star Wars Holiday Special.
+            </p>
 
             <h3 className="article-heading-3" id="4.4">Design</h3>
 
