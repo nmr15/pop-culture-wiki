@@ -131,6 +131,21 @@ const JamesHowlettMCU = () =>
             
             <h3 className="article-heading-3" id="1.2">Perservation of Earth-10005</h3>
             <h4 className="article-heading-4" id="1.2.1">Taken from his world</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/Deadpool_and_Logan_at_a_bar.jpg" alt="Deadpool and Logan at a bar" />
+                <p>Logan contronts Deadpool</p>
+              </div>
+              <p>
+                By a bar's counter, Logan was given another drink by a bartender who eagerly wanted him gone. Logan was approached by Wade Wilson, also known as
+                Deadpool, a person who claimed to know him and to need him for his world. Questioned by the bartender if they are going to fuck or fight, Logan did
+                not react to the insult, much to Deadpool's surprise. Remarking that any other Wolverine would have hurt him by now and that he had little time,
+                Deadpool raised Logan up from his seat, to which Logan responded by popping his claws. His claws had grown miniscule, as Deadpool sarcastically
+                noted before puting a gun to Logan's head. Logan simply laughed, drinking a whole bottle of whiskey while holding the gun for Deadpool to watch
+                before collapsing to the floor.
+              </p>
+            </div>
+
             <h4 className="article-heading-4" id="1.2.2">Fight in the Void</h4>
             <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
