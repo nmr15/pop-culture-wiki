@@ -304,6 +304,35 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.3">Cast</h3>
+            <p>
+              Phineas and Ferb are voiced by <Link>Vincent Martella</Link> and <Link>Thomas Sangster</Link> (seasons 1-4) and David Errigo Jr.
+              (season 5-present), respectively. Sangster was one of many British actors cast, as Marsh lived in the United Kingdom for seven years and
+              developed a fondness for the British. The rest of the cast includes <Link>Ashley Tisdale</Link> as their sister Candace; Bobby Gaylor as
+              Buford van Stomm, who has a tendency to bully but is kept distracted by being included in the adventures; Maulik Pancholy as Baljeet Tjinder,
+              a very intelligent boy who avoids being Buford's main victim by their participation in the adventures; <Link>Dee Bradley Baker</Link> as
+              Perry the Platypus; Caroline Rhea as Linda Flynn-Fletcher, Phineas and Candace's mother and stepmother to Ferb; Richard O' Brien as
+              Lawrence Fletcher, Ferb's father and Phineas and Candace's stepfather; <Link>Jack McBrayer</Link> as Irving, who admires Phineas and Ferb,
+              and is the creator of the Phineas and Ferb fansite; Kelly Hu as Candace's best friend Stacy, Povenmire as Dr. Doofenshmirtz; Marsh as
+              Major Monogram; <Link>Olivia Olson</Link> as Dr. Doofenshmirtz daughter Vanessa; Tyler Mann as Carl, Major Monogram's goofy super genius
+              intern; <Link>Alyson Stoner</Link> as neighbor Isabella Garcia-Shapiro, a sweet Mexican/Jewish girl with a crush on Phineas;
+              <Link> Mitchell Musso</Link> as Jeremy, Candace's crush and later her boyfriend; and Madison Pettis as Adyson Sweetwater, a member of
+              Isabella's Fireside Girl troop.
+            </p>
+            <p>
+              The show's casting organization is responsible for selecting most of the voice actors and actresses, choosing actors such as Martella
+              and Musso for major roles based on perceived popularity with target demographics. Povenmire and Marsh select guest stars, casting people
+              that they "really want to work with." They also solicit guest roles from actors whom they feel would lend an interesting presentation
+              to the show.
+            </p>
+            <p>
+              Guest stars have included pop-culture figures such as Damian Lewis, boxer Evander Holyfield, film stars Cloris Leachman, and
+              <Link> Ben Stiller</Link>, and pop singer Kelly Clarkson. Povenmire and Marsh have also solicited <Link>Tim Curry</Link> and Barry
+              Bostwick, stars of The Rocky Horror Picture Show, to make guest appearances, while Rocky Horror creator Richard O'Brien voices Lawrence
+              Fletcher. Top Gear stars Jeremy Clarkson, Richard Hammond, and James May guest-starred in a race-car themed episode as commentators.
+              Other guest stars include <Link>Tina Fey</Link>, <Link>Seth MacFarlane</Link>, David Mitchell, Jaret Reddick, Clay Aiken, Chaka Khan,
+              and <Link>Kevin Smith</Link>.
+            </p>
+
             <h3 className="article-heading-3" id="5.4">Music</h3>
             <h3 className="article-heading-3" id="5.5">Conclusion and revival</h3>
           </div>
