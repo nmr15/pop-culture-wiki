@@ -121,6 +121,13 @@ const JamesHowlettMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.1.2">Death of the X-Men</h4>
+            <p>
+              One day, a drunken Logan returned to the X-Mansion to find that, while he was gone, humans who had hated and feared mutant-kind orchestrated a surprise attack
+              on the X-Mansion, resulting in all the other X-Men and numerous mutants being murdered. Due to Logan's absence during this attack, he took the blame for their
+              deaths upon himself and went on a violent rampage, killing those who were and were not involved in the slaughtering of his teammates. By the time he calmed
+              down and regained his senses, the X-Men name had been tarnished and Logan was shunned by society for his actions, resulting in him growing into a state of
+              heavy depression. He began wearing the Wolverine suit at all times underneath his regular clothes, as it was the only memento of his teammates and actions.
+            </p>
             
             <h3 className="article-heading-3" id="1.2">Perservation of Earth-10005</h3>
             <h4 className="article-heading-4" id="1.2.1">Taken from his world</h4>
