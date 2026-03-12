@@ -292,7 +292,15 @@ const JamesHowlettMCU = () =>
         <div>
           <Heading2 id={3} title={"Equipment"} />
           <div>
-
+            <ul>
+              <li>
+                Wolverine Suit: Once he joined the X-Men, Logan was given a yellow and blue suit by Cyclops. Logan admitted that Cyclops would usually have to beg
+                Logan to wear the suit whenever the X-Men would go on a mission. As a result of the death of the X-Men, Logan began wearing the suit under his
+                civillian clothes everywhere he went, as a reminder of how he was not there to help his teammates when they needed him the most. Following his
+                second fight with Deadpool, the sleeves and shoulder pads on the suit were torn off, and later, the top half was blown off by the energies given off
+                by the matter and anti-matter columns powering the Time Ripper.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
