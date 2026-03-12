@@ -99,6 +99,27 @@ const JamesHowlettMCU = () =>
           <div>
             <h3 className="article-heading-3" id="1.1">Early life</h3>
             <h4 className="article-heading-4" id="1.1.1">Wolverine origins</h4>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/38/Wolverine_Memory_%28X2_Archive_Footage%29.png" alt="Wolverine memory" />
+              <p>
+                Adamantium is fused to Logan's skeleton.
+              </p>
+            </div>
+            <p>
+              Logan was a Canadian-born mutant who developed a regenerative healing factor as well as retractable claws, and eventually, adamantium was fused onto his
+              bones during an intensely painful and brutal experiment. Due to his healing factor, he had lived for over two hundred years, and over the years, he had
+              many violent encounters and eventually became something of an alcoholic and a recluse.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Wolverine_vs._HYDRA_%28X2_Archive_Footage%29.png" alt="Wolverine vs. HYDRA" />
+              <p>Wolverine killing enemies in the X-Mansion</p>
+            </div>
+            <p>
+              He often allied with the X-Men, Charles Xavier's team of mutant superheroes, and became known as Wolverine. All his teammates whom he befriended, including
+              Cyclops, Jean Grey, Storm, and Best, offered Logan the <Link>Wolverine Suit</Link> and begged him to wear it to be part of the team, though he rejected it and
+              called their own outfits ridiculous in an effort to have them not think he wanted to be there.
+            </p>
+
             <h4 className="article-heading-4" id="1.1.2">Death of the X-Men</h4>
             
             <h3 className="article-heading-3" id="1.2">Perservation of Earth-10005</h3>
