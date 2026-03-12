@@ -238,8 +238,28 @@ const JamesHowlettMCU = () =>
             </div>
 
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
+              <div className="flex">
+                <p>
+                  On their way to the Hero Hideout, Wolverine constantly told Deadpool to quit talking about his suit and doing the gestures he made. Wolverine was
+                  questioned what the first thing he will do "if" his world is fixed, prompting Wolverine to abruptly step on the Ol' Betsy's brakes. Coming to the
+                  conclusion that Deadpool was lying the whole time and that he had no idea if the TVA could "fix" his world, Wolverine stabbed Deadpool in his leg.
+                  Deadpool yelped, exclaimed that he made an "educated wish" as he needed Wolverine to save his friends back in Earth-10005. Wolverine hinged on his
+                  mention of an "educated wish," delivering a prolonged and especially insulting speech to upset Deadpool. He left Deadpool speechless until the latter
+                  stated that he would fight him, which Wolverine scoffed at. He was, however, punched in the face. Wolverine punched back, engaging in a duel inside the
+                  car.
+                </p>
+                <div className="img-card ml-1">
+                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/80/Wolverine_%28D%26W%29.jpg" alt="Wolverine prepating to attack Deadpool" />
+                  <p>Wolverine prepating to attack Deadpool.</p>
+                </div>
+              </div>
+
             <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
+
+
             <h4 className="article-heading-4" id="1.2.6">Fighting the Deadpool Corps</h4>
+
+
             <h4 className="article-heading-4" id="1.2.7">Saving all timelines</h4>
 
             <h3 className="article-heading-3" id="1.3">New world, new life</h3>
