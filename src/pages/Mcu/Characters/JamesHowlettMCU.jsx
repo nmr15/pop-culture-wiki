@@ -223,6 +223,19 @@ const JamesHowlettMCU = () =>
                 <p>Logan laughing about Wilson's toupee.</p>
               </div>
             </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/15/Wolverine%2C_Dogpool_%26_Wade_Wilson.jpg" alt="Wolverine, Deadpool, and Dogpool" />
+                <p>Wolverine and Deadpool finding Dogpool</p>
+              </div>
+              <p>
+                Continuing their travels to the Borderlands, Wolveine asked Deadpool what exactly happened to his Wolverine; Deadpool detailing his sacrifice to save
+                his young clone named <Link>X-23</Link>. Deadpool went on to tell him that, per <Link>Blind Al</Link>, pain teaches people who they are, with
+                Wolverine only remarking Blind Al's name. The two were met by a dog that "Nicepool," a member of the hostile <Link>Deadpool Corps</Link> that ran
+                after the dog, named Mary Puppins, otherwise known as Dogpool. Wolverine asked Nicepool for directions to the Borderlands, and Nicepool told them to
+                head towards the west and offered them the Ol' Betsy Honda Odyssey to travel in.
+              </p>
+            </div>
 
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
             <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
