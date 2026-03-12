@@ -145,6 +145,21 @@ const JamesHowlettMCU = () =>
                 before collapsing to the floor.
               </p>
             </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Deadpool_and_Wolverine_at_the_TVA.jpg" alt="Deadpool Wolverine at TVA" />
+                <p>
+                  Wolverine rises behind Deadpool.
+                </p>
+              </div>
+              <p>
+                An unconscious Logan was taken into the Time Variance Authority Office through a Timedoor only dressed in his suit, falling on the floor yet hearing
+                Deadpool and Mr. Paradox's conversation about the impossibility of replacing what is known as an "Anchor Being," which was Deadpool's timeline's own
+                Wolverine and Deadpool's actions to do so. Logan eventually rose up and was welcomed into the <Link to="/mcu">Marvel Cinematic Universe</Link> by
+                Deadpool, albeit at a "low point." Deadpool went on to threaten Paradox by alerting his bosses, only to find out that they do not know. Logan was
+                confused to see Deadpool pruned by a Time Stick, which he was as well in his attempt to harm Parasox.
+              </p>
+            </div>
 
             <h4 className="article-heading-4" id="1.2.2">Fight in the Void</h4>
             <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
