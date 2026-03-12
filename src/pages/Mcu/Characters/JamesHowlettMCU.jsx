@@ -85,6 +85,46 @@ const JamesHowlettMCU = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Biography"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Early life</h3>
+            <h4 className="article-heading-4" id="1.1.1">Wolverine origins</h4>
+            <h4 className="article-heading-4" id="1.1.2">Death of the X-Men</h4>
+            
+            <h3 className="article-heading-3" id="1.2">Perservation of Earth-10005</h3>
+            <h4 className="article-heading-4" id="1.2.1">Taken from his world</h4>
+            <h4 className="article-heading-4" id="1.2.2">Fight in the Void</h4>
+            <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
+            <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
+            <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
+            <h4 className="article-heading-4" id="1.2.6">Fighting the Deadpool Corps</h4>
+            <h4 className="article-heading-4" id="1.2.7">Saving all timelines</h4>
+
+            <h3 className="article-heading-3" id="1.3">New world, new life</h3>
+            <h4 className="article-heading-4" id="1.3.1">Celebrating victory</h4>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Powers and abilities"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">Powers</h3>
+            <h3 className="article-heading-3" id="2.2">Abilities</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Equipment"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Facilities"} />
+          <div>
+
+          </div>
+        </div>
       </main>
     </>
   )
