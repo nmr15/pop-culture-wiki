@@ -162,6 +162,36 @@ const JamesHowlettMCU = () =>
             </div>
 
             <h4 className="article-heading-4" id="1.2.2">Fight in the Void</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/62/Deadpool_%26_Wolverine_Trailer_%2834%29.png" alt="Deadpool Wolverine trailer" />
+                <p>Wolverine furiously confronting Deadpool</p>
+              </div>
+              <p>
+                Wolverine approached an awakening Deadpool in a barren wasteland, stabbing him with his fully-grown claws and lifting him up high when questioning
+                where they were. Deadpool, giving a witty remark instead of an answer, caused Wolverine to throw him on his knee. Deadpool, stating how his world is
+                doomed if they do not confront Paradox, insults Wolverine for his deeds back in his own world when he said he did not care. Offended, Wolverine 
+                stabbed Deadpool in his back, only for Deadpool to shoot him in both of his sides when he flopped behind him and brought him to the ground. Wolverine
+                thrusted his head back and threw him against the pruned 20th Century Fox logo.
+              </p>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Wolverine_%26_Deadpool_in_the_Void.jpg" alt="Wolverine Deadpool in the Void" />
+                <p>Wolverine prepares to attack Sabretooth.</p>
+              </div>
+              <p>
+                In a standoff, Wolverine prepared his claws before charaging at Deadpool while dodging his bullets. Wolverine then slices the pistols in half with
+                his claws, forcing Deadpool to use his katana and "baby knife" to stab Wolverine, these items being pierced through Wolverine's body. Wolverine was
+                halted from decapitating Deadpool with the promise of having the TVA fix his world if they cooperate. Their attention was called to a cloaked
+                figure, Johnny Storm, whom alerted them of an approaching team of henchmen. This included a variant of Sabretooth, who challenged Wolverine. Deadpool
+                spruced Wolverine up from the fight they had for the moment people have been waiting decades for. Telling Deadpool to shut up, Wolverine charged
+                towards Sabretooth, beheading him with his claws. Despite their efforts, Wolverine, Deadpool and Johnny, who failed to fight Pyro as the Human Torch,
+                were captured and taken to a compound. Wolverine and Deadpool were informed by Johnny of the Void's basics; facing <Link>Alioth</Link> or working
+                for "her," and about a Resistance with a hideout in the Borderlands.
+              </p>
+            </div>
+
             <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
             <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
