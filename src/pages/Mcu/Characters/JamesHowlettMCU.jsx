@@ -146,12 +146,6 @@ const JamesHowlettMCU = () =>
               </p>
             </div>
             <div className="flex">
-              <div className="img-card ml-1">
-                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Deadpool_and_Wolverine_at_the_TVA.jpg" alt="Deadpool Wolverine at TVA" />
-                <p>
-                  Wolverine rises behind Deadpool.
-                </p>
-              </div>
               <p>
                 An unconscious Logan was taken into the Time Variance Authority Office through a Timedoor only dressed in his suit, falling on the floor yet hearing
                 Deadpool and Mr. Paradox's conversation about the impossibility of replacing what is known as an "Anchor Being," which was Deadpool's timeline's own
@@ -159,6 +153,12 @@ const JamesHowlettMCU = () =>
                 Deadpool, albeit at a "low point." Deadpool went on to threaten Paradox by alerting his bosses, only to find out that they do not know. Logan was
                 confused to see Deadpool pruned by a Time Stick, which he was as well in his attempt to harm Parasox.
               </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Deadpool_and_Wolverine_at_the_TVA.jpg" alt="Deadpool Wolverine at TVA" />
+                <p>
+                  Wolverine rises behind Deadpool.
+                </p>
+              </div>
             </div>
 
             <h4 className="article-heading-4" id="1.2.2">Fight in the Void</h4>
@@ -176,10 +176,6 @@ const JamesHowlettMCU = () =>
               </p>
             </div>
             <div className="flex">
-              <div className="img-card ml-1">
-                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Wolverine_%26_Deadpool_in_the_Void.jpg" alt="Wolverine Deadpool in the Void" />
-                <p>Wolverine prepares to attack Sabretooth.</p>
-              </div>
               <p>
                 In a standoff, Wolverine prepared his claws before charaging at Deadpool while dodging his bullets. Wolverine then slices the pistols in half with
                 his claws, forcing Deadpool to use his katana and "baby knife" to stab Wolverine, these items being pierced through Wolverine's body. Wolverine was
@@ -190,6 +186,10 @@ const JamesHowlettMCU = () =>
                 were captured and taken to a compound. Wolverine and Deadpool were informed by Johnny of the Void's basics; facing <Link>Alioth</Link> or working
                 for "her," and about a Resistance with a hideout in the Borderlands.
               </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Wolverine_%26_Deadpool_in_the_Void.jpg" alt="Wolverine Deadpool in the Void" />
+                <p>Wolverine prepares to attack Sabretooth.</p>
+              </div>
             </div>
 
             <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
@@ -209,10 +209,6 @@ const JamesHowlettMCU = () =>
               </p>
             </div>
             <div className="flex">
-              <div className="img-card ml-1">
-                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/09/Wolverine_laughs_at_Wade.png" alt="Wolverine laughing at Wade" />
-                <p>Logan laughing about Wilson's toupee.</p>
-              </div>
               <p>
                 Wolverine and Deadpool landed on a cliff, with Deadpool forcing his baby knife out of Wolverine's buttocks. Wolverine instigated a rule; only he
                 talks, despite Deadpool doubting the rule. Wolverine planned to get back to Paradox by finding the Resistance Johnny mentioned earlier, enlist their
@@ -222,6 +218,10 @@ const JamesHowlettMCU = () =>
                 flashback would explain it, Logan telling him to go fuck himself. Wilson talked about how his version of the Wolverine was regarded as a hero, "the
                 X-Man," only for Logan to say he was not in his own.
               </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/09/Wolverine_laughs_at_Wade.png" alt="Wolverine laughing at Wade" />
+                <p>Logan laughing about Wilson's toupee.</p>
+              </div>
             </div>
 
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
