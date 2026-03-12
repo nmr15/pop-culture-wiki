@@ -193,6 +193,37 @@ const JamesHowlettMCU = () =>
             </div>
 
             <h4 className="article-heading-4" id="1.2.3">Escape from Cassandra Nova</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/The_Wolverine.jpg" alt="Wolverine running" />
+                <p>Wolverien heading towards his escape</p>
+              </div>
+              <p>
+                Arriving at the compound, Wolverin and Deadpool saw a balded figure resembling Charles Xavier exit Giant-Ma's skull. Wolverine debunked the person
+                being Xavier, yet not believing that shw was Xavier's pruned twin Cassandra Nova. Upon freeing them, Deadpool twisted Johnny's words about Nova. With
+                her telepathic powers, Nova skinned Johnny alive, and Wolverine faulted Deadpool for it. Though Deadpool proceeded to ask for Nova's help, Nova
+                sought for an alliance with Wolverine, given their backstories and pruning. Going on to talk about her Xavier, she asked Wolverine if his also made
+                him feel "safe." Replying that mutants are never safe, Wolverine attacks Nova and was sunk into the ground. After Nova uncovered Deadpool's memories
+                by phasing her hand through his head, Wolverine stabbed her from behind, though he was simply pushed back. Upon Alioth's approach, Wolverine enabled
+                a nearby metal suit's rocket boot to fly away, with Deadpool latching onto him.
+              </p>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/09/Wolverine_laughs_at_Wade.png" alt="Wolverine laughing at Wade" />
+                <p>Logan laughing about Wilson's toupee.</p>
+              </div>
+              <p>
+                Wolverine and Deadpool landed on a cliff, with Deadpool forcing his baby knife out of Wolverine's buttocks. Wolverine instigated a rule; only he
+                talks, despite Deadpool doubting the rule. Wolverine planned to get back to Paradox by finding the Resistance Johnny mentioned earlier, enlist their
+                help with their escape and threaten the TVA into fixing his world. Wolverine then spoted a diner from afar, in which he would search for anything
+                with alcohol in it. Sitting by an unmasked Wilson, Logan questioned the few spots of hair stapled on his head. Wilson replied that he wore a toupee
+                that nobody knew of, causing Logan to snicker and to assure him that everybody knew. Wilson then asked for his backstory before a thirdd act
+                flashback would explain it, Logan telling him to go fuck himself. Wilson talked about how his version of the Wolverine was regarded as a hero, "the
+                X-Man," only for Logan to say he was not in his own.
+              </p>
+            </div>
+
             <h4 className="article-heading-4" id="1.2.4">Meeting the resistance</h4>
             <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
             <h4 className="article-heading-4" id="1.2.6">Fighting the Deadpool Corps</h4>
