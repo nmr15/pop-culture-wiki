@@ -41,8 +41,12 @@ const JamesHowlettMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Hugh Jackman</Link></td>
+            </tr>
+            <tr>
+              <td className="infobox-data">Appearances</td>
+              <td className="infobox-data"><Link to="/mcu/deadpool_&_wolverine">Deadpool & Wolverine</Link></td>
             </tr>
           </tbody>
         </table>
