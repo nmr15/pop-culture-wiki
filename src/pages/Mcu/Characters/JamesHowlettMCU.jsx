@@ -83,7 +83,16 @@ const JamesHowlettMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>James Howlett</b>, more commonly referred to as <b>Logan</b>, is a formidable <Link>mutant</Link> with retractable <Link>adamantium</Link> claws and
+            regenerative abilities operating under the alias <b>Wolverine</b>, who failed both his teammates, the <Link>X-Men</Link>, and his world, sending him into
+            a depressive spiral. He was taken from his <Link>universe</Link> by <Link to="/mcu/wade_wilson">Deadpool</Link> in the latter's attempt to replace his
+            own <Link>reality</Link>'s Wolverine, though the two were banished to the <Link>Void</Link> by Mr. Parasox's rogue faction of <Link>Time Variance
+            Authority</Link> agents. Wolverine and Deadpool formed an initially very uneasy alliance to try and escape the Void, which they did with the aid of the
+            Reisistance. Now together as friends, the pair was able to stop Paradox's plan to destroy Deadpool's timeline and eliminate
+            <Link>Cassandra Nova</Link> to save the entire <Link>Multiverse</Link>, eventually allowing Logan to come to better terms with his past mistakes and live
+            peacefully in Wade Wilson's universe.
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Biography"} />
