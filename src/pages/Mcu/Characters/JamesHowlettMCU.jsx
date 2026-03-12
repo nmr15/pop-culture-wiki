@@ -253,6 +253,21 @@ const JamesHowlettMCU = () =>
                   <p>Wolverine prepating to attack Deadpool.</p>
                 </div>
               </div>
+              <div className="flex">
+                <div className="img-card mr-1">
+                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a7/Deadpool_%26_Wolverine_Trailer_%28105%29.png" alt="Logan drinking" />
+                  <p>Logan gargles Gambit's liquor</p>
+                </div>
+                <p>
+                  The two fought for several hours until they both got tired and were driven to the Hero Hideout in their sleep. Deadpool awakened while a drunk Logan
+                  chugged down a bottle of beer he found. Upon the intoductions of <Link>Elektra</Link>, <Link>Blade</Link>, and <Link>Gambit</Link>, Wolverine's bottle,
+                  belonging to Gambit, was shattered by the owner's playing card. Wolverine simply threw the broken bottle away in exchange for another. Deadpool asked by
+                  whom they were brought to the hideout, leading to X-23's intoduction, Logan's alternatet daughter whom called herself Laura. Deadpool also learned of the
+                  Resistance's fallen teammate, which included Johnny. While Deadpool assured them he was still thriving, Logan believed that he had been in utter pain where
+                  he was still alive. Nonetheless, Deadpool gets the Resistance on board with fighting for their home universes by making Cassandra Nova help them escape the
+                  Void by planting <Link>Juggernaut</Link>'s helmet onto her head. Logan told them they were all goners.
+                </p>
+              </div>
 
             <h4 className="article-heading-4" id="1.2.5">Escaping the Void</h4>
 
