@@ -862,12 +862,24 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
+            <p>
+              At the 85th Academy Awards, The Avengers received a nomination for Best Visual Effects. The film's other nominations include two Annie Awards
+              (winning one), a British Academy Film Award, and three Critics' Choice Movie Awards. In 2017, it was featured as one of the 100 greatest films of all
+              time in Empire magazine's poll of The 100 Greatest Movies.
+            </p>
           </div>
         </div>
          <div>
           <Heading2 id={8} title={"Sequels"} />
           <div>
-            
+            <p>
+              Avengers: Age of Ultron was written and directed by Whedon, and released on May 1, 2015. The film features much of the original cast, alongside new
+              additions including <Link>Elizabeth Olsen</Link> as <Link to="/mcu/wanda_maximoff">Scarlet Witch</Link>, <Link>Aaron Taylor-Johnson</Link> as
+              <Link to="/mcu/piertro_maximoff"> Quicksilver</Link>, Paul Bettany as <Link to="/mcu/vision">Vision</Link>, and <Link>James Spader</Link> as
+              <Link> Ultron</Link>. Avengers: Infinity War and Avengers: Endgame were directed by <Link>Anthony and Joe Russo</Link>, with a script by
+              Christopher Mrkus and Stephen McFeely. Infinity War was released on April 27, 2018, followed by Endgame on April 26, 2019. The ensemble cast for both
+              films includes returning actors from previous MCU entries, as well as new characters from other films in the franchise.
+            </p>
           </div>
         </div>
         <div>
