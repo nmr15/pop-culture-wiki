@@ -838,6 +838,28 @@ const TheAvengersFilm = () =>
               Scott of The New York Times believed that "while The Avengers is hardly worth raging about, its failures are significant and dispiriting. The light, amusing
               bits cannot overcome the gridning, hectic emptiness, the bloated cynicism that is less a shortcoming of this particular film than a feature of the genre."
             </p>
+            <p>
+              The performances of several cast members were a frequent topic in the critiques. In particular, Mark Ruffalo's portrayal of Dr. Bruce Banner/the Hulk was
+              well received by commentators. Joe Neumaier opined that his performance was superior to the rest of the cast; stating, "Ruffalo is the revelation, turning
+              Banner into a wry reservoir of calm ready to become a volcano." Similarly, The New Yorker's Anthony Lane proclaimed Ruffalo's acting to be one of the
+              film's highlights—alongside Downey. The Village Voice's Karina Longworth concluded: "Ruffalo successfully refreshes the Hulk myth, playing Banner as an
+              adorably bashful nerd-genius who, in contrast to the preening hunks on the team, knows better than to draw attention to himself." Travers asserted that
+              the actor resonated a "scruffy warmth and humor" vibe, while Turan felt that he surpassed predecessors Edward Norton and Eric Bana in playing the
+              character. Owen Gleiberman of Entertainment Weekly wrote that "the smartest thing the filmmakers did was to get Mark Ruffalo to play Bruce Banner as a
+              man so sensitive that he's at war, every moment, with himself. (The film finally solves the Hulk problem: He's a lot more fun in small doses.)"
+            </p>
+            <p>
+              Referring to Downey, Joe Morgenstein of The Wall Street Journal—despite complimenting Downey's performance—favored his work in Iron Man over his acting
+              in The Avengers: "His Iron Man is certainly a team player, but Mr. Downey comes to the party with two insuperable superpowers: a character of established
+              sophistication—the industrialist/inventor Tony Stark, a sharp-tongued man of the world—and his own quicksilver presence that finds its finest expression
+              in self-irony." Neumaier praised Evans, stating that he accurately conveyed his character's internal conflicts.
+            </p>
+            <p>
+              Commentators appreciated the character development and dialogue. Associated Press reviewer Christy Lemire wrote that the script "sparkles as brightly as
+              the special effects; these people may be wearing ridiculous costumes but they're well fleshed-out underneath." Scott suggested that certain parts of the
+              film exuded a charm reminiscent of the western film Rio Bravo (1959). Longworth felt that while Whedon's script delved into the backstory of the
+              characters, the film did not explore it "in a substantive way".
+            </p>
 
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
