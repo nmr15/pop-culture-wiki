@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const JamesRhodesMCU = () =>
 {
@@ -18,6 +20,7 @@ const JamesRhodesMCU = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>James Rhodes (MCU)</li>
         </ul>
         <div>
@@ -38,8 +41,12 @@ const JamesRhodesMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Don Cheadle</Link></td>
+            </tr>
+            <tr>
+              <td className="infobox-data">Appearances</td>
+              <td className="infobox-data"><Link to="/mcu/iron_man_film">Iron Man</Link></td>
             </tr>
           </tbody>
         </table>
