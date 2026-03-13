@@ -693,6 +693,20 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Video game</h3>
+            <p>
+              A video game based on the film was initially planned forr simultaneous release. It was intended to be a combination of a first-person shooter and a
+              brawler for the <Link>Xbox 360</Link>, <Link>PlayStation 3</Link>, Wii U, and Microsoft Windows platforms, with <Link>THQ</Link> as the publisher.
+              The console versions were to be developed by THQ Studio Australia, while Blue Tongue Entertainment was tasked with creating the PC version. However,
+              after THQ shut down both studios, the game was ultimately canceled. Consequently, the intellectual property rights for an Avengers video game revered
+              to Marvel, which stated that it was exploring potential publishing and licensing opportunities. A mobile game published by <Link>Gameloft</Link> was
+              released in May 2012.
+            </p>
+            <p>
+              In May 2012, a collaboration between <Link>Ubisoft</Link> and Marvel Entertainment was revealed, unveiling their joint project: a motion controlled game
+              titled Marvel Avengers: Battle for Earth, designed for the Wii U and Xbox 360 Kinect. Inspired by the "<Link>Secret Invasion</Link>" storyline, the
+              game showcases 20 different character. Additionally, Marvel announced the development of a four-chapter mobile game titled Avengers Initiative, with
+              each chapter dedicated to exploring the adventures of Hulk, Captain America, Thor, and Iron Man.
+            </p>
           </div>
         </div>
          <div>
