@@ -645,7 +645,17 @@ const TheAvengersFilm = () =>
               Jr.'s Tony Star gets the best lines". However, The Hollywood Reporter called it, "Awesome. Or it would be if we hadn't seen all of this
               before and expected every single thing that we saw in the trailer". The trailer, which debuted exclusively on iTunes Movie Trailers, was
               downloaded over 10 million times in the 24 hours, breaking the website's record for the most-viewed trailer. This record was surpassed by
-              the trailer for 
+              the trailer for <Link>The Dark Knight Rises</Link> (2012), which was downloaded more than 12.5 million times in its first 24 hours. A
+              second full-length trailer was released on iTunes in February 2012, reaching a record 13.7 million downloads in 24 hours. The
+              theatrical trailers of The Avengers appeared with many films, including Mission Impossible - Ghost Protocol (2011), 21 Jump Street
+              (2012), and The Hunger Games (2012).
+            </p>
+            <p>
+              In January 2012, Marvel Studios hosted a global Twitter chat. The 30-minute live tweeting event featured writer/director Joss Whedon
+              and cast members Samuel L. Jackson, Tom Hiddleston, and Clark Gregg, along with a 10-second tease of the 30-second commercial that
+              would air during Super Bowl XLVI in February. According to the Los Angeles Times, Disney paid an estimated $4 million for the
+              30-second spot. On May 1, 2012, executives from Marvel Studios, along with actors Tom Hiddleston and Clark Gregg, rang the opening
+              bell of the New York Stock Exchange in honor of the film's theatrical release.
             </p>
 
             <h3 className="article-heading-3" id="5.2">Tie-in</h3>
