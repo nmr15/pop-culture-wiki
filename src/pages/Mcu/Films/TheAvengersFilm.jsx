@@ -659,10 +659,21 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.2">Tie-in</h3>
-
+            <p>
+              In December 2011, Marvel announcd the release of an eight-issue comic book prelude to the film, penned by Christopher Yost and Eric Pearson with art
+              by Luke Ross and Daniel HDR, for release in March 2012. In February 2012, Marvel revealed plans for a second limited series comic book tie-in titled
+              Black Widow Striks, written by Fred Van Lente, who wrote Captain America: First Vengeance, the comic book prequel to Captain America: The First
+              Avenger. Set between Iron Man 2 and The Avengers, it follows Black Widow as she ties up loose ends ffrom the former film. Additionally, the title
+              Avengers Assemble debuted in March 2012, written by Brian Michael Bendis with art by Mark Bagley, featuring the same Avengers lineup as the film in
+              a battle against a new incarnation of the supervillain team Zodiac.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Promotional partners</h3>
-
+            <p>
+              Paul gitter, president of consumer production at Marvel Entertainment, noted that the anticipation leading up to the film bolstered retail
+              partnerships: "Retailers have been less tolerant with [intellectual property] films, so we decided that if we started on this coordinated strategy
+              several years ago, retailers would give us shelf space throughout the years and we would have a more sustainable position in the marketplace."
+            </p>
 
             <h3 className="article-heading-3" id="5.4">Video game</h3>
           </div>
