@@ -53,8 +53,7 @@ const TheAvengersFilm = () =>
             sub={[
               {id: "7.1", title: "Box office", sub2: [
                 {id: "7.1.1", title: "United States and Canada"},
-                {id: "7.1.2", title: "Records"},
-                {id: "7.1.3", title: "Other territories"},
+                {id: "7.1.2", title: "Other territories"}
               ]},
               {id: "7.2", title: "Critical response"},
               {id: "7.3", title: "Accolades"}
@@ -767,6 +766,51 @@ const TheAvengersFilm = () =>
           <Heading2 id={7} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <p>
+              The Avengers grossed $623.4 million in the United States and Canada, and $895.5 million in other territories, for a worldwide total of $1.519 billion,
+              making it the third-highest-grossing film of all time, the highest-grossing film of 2012, the highest-grossing comic book adaptation, the highest-grossing
+              superhero film, and the highest-grossing film ever released by Walt Disney Studios, at the time of its release. The film's worldwide opening of $392.5
+              million ranked as the fourth-largest. The Avengers also became the fifth film distributed by Disney and the twelfth film overall to earn more than $1
+              billion. It reached this milestone in 19 days, matching the record previously set by Avatar (2009) and Harry Potter and the Deathly Hallows – Part 2
+              (2011). Its grosses exceeded its estimated $220 million production cost 12 days after its release. It was the first Marvel production to generate $1
+              billion in ticket sales.
+            </p>
+
+            <h4 className="article-heading-4" id="7.1.1">United States and Canada</h4>
+            <p>
+              The film became the third-highest-grossing film of all time, the highest-grossing film of 2012, the highest-grossing film distributed by Disney, the
+              highest-grossing superhero film, and the highest-grossing film based on comics. It opened Friday, May 4, 2012, on around 11,800 screens across 4,349
+              theaters, earning $80.8 million, marking the second-biggest opening and second-biggest single-day gross. The film's Friday gross included an $18.7
+              million midnight run, a record for a superhero film. Without midnight grosses, the film earned the largest opening-day gross ($62.1 million). It also
+              set records for Saturday and Sunday grosses ($69.6 million and $57.1 million, respectively). In total, it earned $207,438,708 for its debut weekend,
+              setting an opening-weekend record, including an IMAX opening-weekend record of $15.3 million and a record for opening-weekend grosses originating
+              from 3D showings ($108 million). The opening-weekend audience was evenly split between those under and over the age of 25, with 60% male, 55% couples,
+              24% families, and 21% teenagers. Earning $103.1 million on its second weekend, the film set a record for the largest second-weekend gross. Other records
+              set by the film include the biggest weekend per-theater average for a wide release ($47,698 per theater), the fastest film to reach $100 million and
+              each additional $50 million through $550 million, and the largest cumulative gross through every day of release until, and including, its forty-third
+              day (with the exception of its first day). It remained in first place at the box office for three consecutive weekends. The film set a record for the
+              highest monthly share, with its $532.5 million total (through May 31, 2012) accounting for 52% of the total earnings at the box office during May.
+            </p>
+
+            <h4 className="article-heading-4" id="7.1.2">Other territories</h4>
+            <p>
+              The film became the third-highest-grossing film of all time, the highest-grossing Disney-distributed film, the highest-grossing film of 2012, and the
+              highest-grossing superhero film. It opened on Wednesday, April 25, 2012, in 10 countries, earning $17.1 million. It expanded to 29 more countries on
+              April 26 and 27, grossing $73.1 million in three days. By Sunday, April 29, it had amassed an opening-weekend total of $185.1 million from 39
+              countries. It maintained its first-place position at the box office for four consecutive weekends. The film set opening-day records in New Zealand,
+              Malaysia, and Iceland, as well as single-day records in the Philippines. It also achieved both single- and opening-day records in Singapore and Thailand.
+              Additionally, it earned the second-highest-grossing opening day in Australia ($6.2 million), Mexico, the Philippines, and Vietnam. Furthermore, it
+              established opening-weekend records in numerous territories, including Mexico, Brazil, Ecuador, Bolivia, Taiwan, the Philippines, Hong Kong, the United
+              Arab Emirates, Argentina, Peru, and Central America. It also secured the second-largest five-day opening in Australia ($20.2 million).
+            </p>
+            <p>
+              In the United Kingdom, the film earned £2.5 million ($4.1 million) on its opening day and £15.8 million ($25.7 million) over the weekend, setting a new
+              opening-weekend record for a superhero film. It emerged as the market's highest-grossing superhero film. In Latin America, it set records as the
+              highest-grossing film ($207 million) and the first film to surpass $200 million. It also claimed the top spot as the highest-grossing film in the
+              Philippines, Singapore, and Indonesia. As of February 2021, the film's leading international markets were China ($83 million), United Kingdom
+              ($80.5 million), Brazil ($63.9 million), Mexico ($61.7 million), and Australia ($54.5 million).
+            </p>
+
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
