@@ -103,7 +103,12 @@ const BobReynoldsMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Robert "Bob" Reynolds</b> is a former meth addict who took part in Project Sentry, an operation by <Link>O.X.E.</Link> designed to create the ultimate
+            superhero. Unlike the project's other test subjets, Reynolds survived the experiments and gained immense power, but he was deemed a failure due to the
+            instability caused by a combination of his new state coupled with his prior mental health issues and stored in the O.X.E. Vault with his memory partially
+            wiped. He was later freed during a conflict between
+          </p>
         </div>
       </main>
     </>
