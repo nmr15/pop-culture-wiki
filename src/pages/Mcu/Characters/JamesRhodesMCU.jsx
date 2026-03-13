@@ -46,7 +46,11 @@ const JamesRhodesMCU = () =>
             </tr>
             <tr>
               <td className="infobox-data">Appearances</td>
-              <td className="infobox-data"><Link to="/mcu/iron_man_film">Iron Man</Link></td>
+              <td className="infobox-data">
+                <Link to="/mcu/iron_man_film">Iron Man</Link> <br />
+                <Link to="/mcu/iron_man_2">Iron Man 2</Link> <br />
+                <Link to="/mcu/iron_man_3">Iron Man 3</Link> <br />
+              </td>
             </tr>
           </tbody>
         </table>
