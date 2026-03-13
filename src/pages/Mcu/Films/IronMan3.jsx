@@ -149,6 +149,14 @@ const IronMan3 = () =>
         <div>
           <Heading2 id={3} title={"Production"} />
           <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h4 className="article-heading-4" id="3.1.1">Writing</h4>
+
+            <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
             
           </div>
         </div>
