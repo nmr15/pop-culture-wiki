@@ -713,6 +713,25 @@ const TheAvengersFilm = () =>
           <Heading2 id={6} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fans_at_Avengers_premiere.jpg/500px-Fans_at_Avengers_premiere.jpg" alt="Fans at Avengers premiere" />
+              <p>Fans gather outside Hollywood El Capitan Theatre for the world premiere of the film.</p>
+            </div>
+            <p>
+              In February 2012, Disney announced a title change for the film in the United Kingdom to avoid confusion with the British TV series of the same name and
+              its 1998 film adaptation. This caused uncertainty over the film's actual title. Empire magazine reported that the film would be titled Marvel Avengers
+              Assemble, while The Hollywood Reporter said that it would be called simply Avengers Assemble. Marvel's UK website referred to it as Marvel'sAvengers
+              Assemble, though David Cox of The Guardian, in arguing that it was one of the worst film titles ever, considered this a production notes error. The
+              British Board of Film Classification and the Irish Film Classification Office listed it as Marvel Avengers Assemble. Frank Lovece in
+              FilmFestivalTraveler.com noted the discrepancy, observing that the film is formally titled "Marvel's The Avengers" on screen, despite the absence of an
+              apostrophe on posters. Feige explained the UK title's additional word, emphasizing the thorough decision-making process involved.
+            </p>
+            <p>
+              The film's world premiere took place on April 11, 2012, at Hollywood's El Capitan Theatre. It closed the 11th Annual Tribeca Film Festival with a
+              screening on April 28. For the 2012 U.S. Labor Day weekend, the film received an expanded one-week theatrical push, increasing the number of theaters
+              from 123 to 1,700. The Avengers was the last film released in Phase One of the MCU.
+            </p>
+
             <h3 className="article-heading-3" id="6.2">Home media</h3>
           </div>
         </div>
