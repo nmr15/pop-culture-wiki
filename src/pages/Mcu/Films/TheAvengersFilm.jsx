@@ -812,6 +812,33 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mark_Ruffalo_at_the_Toronto_premiere_of_The_Avengers.jpg/330px-Mark_Ruffalo_at_the_Toronto_premiere_of_The_Avengers.jpg"
+                alt="Mark Rufall Toronto premiere"
+              />
+              <p>Mark Ruffalo at the film's Toronto premiere. His performance garnered critical acclaim.</p>
+            </div>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 91%, with an average score of 8.1/10, based on 368 reviews. The website's critical
+              consensus reads, "Thanks to a script that emphasizes its heroes' humanity and a wealth of superpowered set pieces, The Avengers lives up to its hype and
+              raises the bar for Marvel at the movies." Metacritic, which uses a weighted average, assigned the film a score of 69 out of 100 based on 43 reviews, indicating
+              "generally favorable" reviews. Audiences polled by CinemaScore gave the film a rare "A+" grade on an "A+ to F" sacale.
+            </p>
+            <p>
+              Todd McCarthy of The Hoolywood Reporter gave a positive review of the film, remarking, "It's clamorous, the save-the-world story is onve everyone's seen time
+              and again, and the characters have been around for more than half a century in 500 comic book issues. But Whedon and his cohorts have managed to stir all the
+              personalities and ingredients together so that the resulting dish, however familiar, is irresistibly tasty again." To Rolling Stone journalist Peter Travers,
+              the film epitomized an excetional blockbuster. "It's also the blockbuster," Travers said, "I saw in my head when I imagined a movie that brought together the
+              idols of the Marvel world in one shiny stupendously exciting package. It's Transformers with a brain, a heart, and a working sense of humor." Justin Chang of
+              Variety wrote, "Like a superior, state-of-the-art model built from reconstituted parts, Joss Whedon's buoyant, witty, and robustly entertaining superhero
+              smash-up is escapism of a sophisticated order, boasting a tonal assurance and rich reserves of humor that offset the potentially lumbering and unavoidably
+              formulaic aspects of the 143-minute team-origin story." Kenneth Turan of the Los Angeles Times complimented the film's frenetic pace, while Roger Ebert of the
+              Chicago Sun-Times commented that it "provides is fans with exactly what they desire. Whether it is exactly what they deserve is arguable." Conversely, A. O.
+              Scott of The New York Times believed that "while The Avengers is hardly worth raging about, its failures are significant and dispiriting. The light, amusing
+              bits cannot overcome the gridning, hectic emptiness, the bloated cynicism that is less a shortcoming of this particular film than a feature of the genre."
+            </p>
+
             <h3 className="article-heading-3" id="7.3">Accolades</h3>
           </div>
         </div>
