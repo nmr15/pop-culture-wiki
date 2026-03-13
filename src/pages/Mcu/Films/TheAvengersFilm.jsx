@@ -674,6 +674,23 @@ const TheAvengersFilm = () =>
               partnerships: "Retailers have been less tolerant with [intellectual property] films, so we decided that if we started on this coordinated strategy
               several years ago, retailers would give us shelf space throughout the years and we would have a more sustainable position in the marketplace."
             </p>
+            <p>
+              In September 2011, photos emerged online showing Robert Downey Jr. driving a new model Acura. An Acura spokesperson later confirmed the company's
+              involvement with the film, stating, "As you may know, Acura has been in the Marvel Comics Universe films as the official car of their fictional law
+              enforcement agency called S.H.I.E.L.D. That relationship continues for The Avengers. The open-top sports car that was photographed yesterday is a
+              one-off, fictional car that was made just for the movie and will not be produced. That said, as you may also know, our CEO has said publicly that we are
+              studying the development of a new sportscar, but we can't say any more about it at this time." In December 2011, Acura announced that a new NSX,
+              styled along the lines of the concept built for The Avengers, would be unveiled at the 2012 North American International Auto Show. Additionally, a
+              series of 10 S.H.I.E.L.D. SUVs, based on the Acura MDX with modifications by Cinema Vehicle Services, were also created for the film.
+            </p>
+            <p>
+              In February 2012, Marvel announced a partnership with fragrance company JADS to promote The Avengers with character-based fragrances. The announcement
+              preceded the Toy Industry Association's annual February exhibition, where representatives showcased the products at a sampling booth. Other promotional
+              partners included bracelet-maker Colantotte, Dr Pepper, Farmers Insurance, Harley-Davidson, Hershey, Land O'Frost lunchmeats, Oracle, Red Baron pizza,
+              Symantec, Visa, and Wyndham Hotels & Resorts. Marvel and its parent company Disney secured an estimated $100 million in worldwide marketing support for
+              the film. Notably absent from the promotional lineup were Baskin-Robbins, Burger King, and Dunkin' Donuts, which had partnered with Marvel in the past
+              when their films were distributed by Paramount; Disney generally avoids promotions through fast food outlets.
+            </p>
 
             <h3 className="article-heading-3" id="5.4">Video game</h3>
           </div>
