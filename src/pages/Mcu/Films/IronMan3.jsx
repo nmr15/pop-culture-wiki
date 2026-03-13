@@ -140,7 +140,54 @@ const IronMan3 = () =>
             
           </div>
         </div>
-        
+        <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Themes and analysis"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={9} title={"Future"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
