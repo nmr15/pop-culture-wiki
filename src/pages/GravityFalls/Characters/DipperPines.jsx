@@ -1,8 +1,15 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const DipperPines = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Dipper Pines - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -52,13 +59,26 @@ const DipperPines = () =>
         <div>
           <h1 className="article-heading">Dipper Pines</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png" 
-            alt="Dipper Pines" 
-            className="article-heading-img"
-          />
-        </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Dipper Pines</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://static.wikia.nocookie.net/gravityfalls/images/0/08/S1e3_dipper%27s_keen_powers_of_observation.png" alt="Dipper Pines" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Template</th>
+              <td className="infobox-data">Template</td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
           <p>
             Mason "Dipper" Pines (born August 31, 1999) is a smart, curious, and adventurous 13-year-old boy (12 prior to the events of
