@@ -733,6 +733,34 @@ const TheAvengersFilm = () =>
             </p>
 
             <h3 className="article-heading-3" id="6.2">Home media</h3>
+            <p>
+              The film was released by Walt Disney Studios Home Entertainment on Blu-ray Disc, Blu-ray 3D, DVD, and digital download on September 25 in the United
+              States and as early as August 29 in various international markets. Feige mentioned that the Blu-ray version features a new Marvel One-Shot titled
+              Item 47 (2012), along with "a number of deleted scenes and a few storylines that fell by the wayside during the editing process". These include
+              "a few more scenes with the S.H.I.E.L.D. agent Maria Hill, played by Cobie Smulders", and "some slightly different versions of Maria Hill and Nick
+              Fury's interaction with the World Security Council".
+            </p>
+            <p>
+              The film was also collected in a 10-disc box set titled "Marvel Cinematic Universe: Phase One – Avengers Assembled", which includes all of the Phase
+              One films in the Marvel Cinematic Universe. This box set was released on April 2, 2013. Walt Disney Studios Home Entertainment subsequently released
+              the film on Ultra HD Blu-ray on August 14, 2018.
+            </p>
+            <p>
+              Some fans have criticized the UK DVD and Blu-ray release for omitting Joss Whedon's audio commentary and altering the scene involving Phil Coulson's
+              death from the film's theatrical version. Disney's UK division stated that the "less graphic depiction of Agent Coulson's confrontation with Loki"
+              occurred because "[e]ach country has its own compliance issues relative to depictions of violence. Unfortunately, another region's elements were
+              inadvertently used to create the UK in-home release".
+            </p>
+            <p>
+              Upon its first week of release on home media in the U.S., the film topped the Nielsen VideoScan First Alert chart, which tracks overall disc sales, as
+              well as the dedicated Blu-ray Disc sales chart. It garnered 72% of unit sales from Blu-ray, setting a record for a new release in which both the DVD
+              and Blu-ray formats were released simultaneously.
+            </p>
+            <p>
+              In July 2024, a Lakota language dub of the film became available on Disney+. Downey, Evans, Hemsworth, Ruffalo, Johansson, and Renner reprised their
+              roles to re-record their lines, with the project spear-headed by Ruffalo. Ruffalo had a previous relationship with the Lakota people and was looking to
+              help further the Lakota's efforts to help revitalize their language.
+            </p>
           </div>
         </div>
          <div>
