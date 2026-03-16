@@ -123,6 +123,13 @@ const CaptainAmericaTheWinterSoldier = () =>
             prioritized practical effects and intense stunt work to differentiate from previous Captain America portrayals, visual effects were created by six
             companies for 2,500 shots including the climactic <Link>Helicarrier</Link> sequence.
           </p>
+          <p>
+            Captain America: The Winter Soldier premired at the El Capitan Theatre in Hollywood, Los Angeles, on March 13, 2014, and was released in the United
+            States on April 4, as part of <Link>Phase Two</Link> of the MCU. The film received positive reviews from critics, with praise for the performances,
+            action sequences, storyline, and themes. It $714 million worldwide, making it the seventh highest grossing film of 2014, and received several accolades
+            including a nomination for best visual effects at the 87th Academy Awards. A sequel titled
+            <Link to="/mcu/captain_america_civil_war"> Captain America: Civil War</Link>, also directed by the Russos, was released in 2016.
+          </p>
         </div>
       </main>
     </>
