@@ -78,7 +78,7 @@ const AvengersAgeOfUltron = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="/mcu/avengers_age_of_ultron" alt="Avengers: Age of Ultron" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_Age_of_Ultron_poster.jpg/120px-Avengers_Age_of_Ultron_poster.jpg" alt="Avengers: Age of Ultron" />
                 </span>
               </td>
             </tr>
