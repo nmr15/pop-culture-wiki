@@ -131,6 +131,57 @@ const CaptainAmericaTheWinterSoldier = () =>
             <Link to="/mcu/captain_america_civil_war"> Captain America: Civil War</Link>, also directed by the Russos, was released in 2016.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Sequel"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
