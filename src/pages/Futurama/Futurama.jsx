@@ -96,7 +96,7 @@ const Futurama = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/440px-Futurama_1999_logo.svg.png" alt="Futurama logo" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/500px-Futurama_1999_logo.svg.png" alt="Futurama logo" />
                 </span>
               </td>
             </tr>
@@ -470,10 +470,85 @@ const Futurama = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.2">Languages</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alien_decoder_Futurama.svg/500px-Alien_decoder_Futurama.svg.png" alt="Alien decoder" />
+              <p>Alien Language 1 and its equivalent Latin characters</p>
+            </div>
+            <p>
+              There are three alternative alphabets that appear often in the background of episodes, usually in the forms of graffiti, advertisements, or warning labels.
+              Nearly all messages using alternative scripts transliterate directly into English. The first alphabet consists of abstract characters and is referred to
+              as Alienese, a simple substitution cipher from the Latin alphabet. The second alphabet uses a more complex modular addition code, where the "next letter
+              is given by the summation of all previous letters plus the current letter". The codes often provide additional jokes for fans dedicated enough to decode
+              the messages. The third language sometimes used is Hebrew. Aside from these alphabets, most of the displayed wording on the show uses the Latin alphabet.
+            </p>
+            <p>
+              The show predicts that several English expressions will have evolved by the year 3000. For example, in the show the word Christmas has been replaced
+              with Xmas (pronounced "ex-mas"), and the word ask with aks (pronounced axe). According to David X. Cohen, it is a running joke that the French language
+              is extinct in the Futurama universe (though the culture remains alive), much like Latin is in the present. In the French dubbing of the show, German is
+              used as the extinct language instead.
+            </p>
 
             <h3 className="article-heading-3" id="4.3">30th Century Fox</h3>
+            <p>
+              A modified version of the 20th Century Fox Television logo is displayed at the end of each episode, reading "30th Century Fox Television" to fit the
+              show's setting in the 31st century. Syndicated episodes use a 30th Television closing logo instead of the 20th Television one, while episodes from
+              Season 8 onward use a 30th Television Animation logo. Initially, Fox did not want this logo to be used on the show, but when creator Matt Groening
+              purchased the rights to the logo, the network had a change of heart and allowed the altered version to be aired.
+            </p>
 
             <h3 className="article-heading-3" id="4.4">Humor</h3>
+            <p>
+              Although the series uses a wide range of styles of humor, including self-deprecation, black comedy, off-color humor, slapstick, and surreal humor, its
+              primary source of comedy is its satirical depiction of everyday life in the future and its parodical comparisons to the present. Groening notes that,
+              from the show's conception, his goal was to make what was, on the surface, a goofy comedy that would have underlying "legitimate literary scienc 
+              fiction concepts." The series contrated "low culture" and "high culture" comedy; for example, Bender's catchphras is the insult "Bite my shiny metal
+              ass" while his most terrifying nightmare is a vision of the number 2, a joke referring to the binary numeral system (Fry assures him, "there's no such
+              thing as two").
+            </p>
+            <p>
+              The series developed a cult following partially due to the large number of in-jokes it contains, most of which are aimed at "nerds." In commentary on
+              the DVD releases, David X. Cohen points out and sometimes explains his "nerdiest joke[s]." These included mathematical jokes, such as "Loew's
+              alpha-null-plex" movie theater, as well as various forms of science humor, for example, Professor Farnsworth, at a racetrack, complains about the use
+              of a quantum finish to decide the winner, exclaiming "No fair! You changed the outcome by measuring it", a reference to the uncertainty principle of
+              quantum mechanics. In the season six episode "<Link>Law and Oracle</Link>", Fry and the robot peace officer URL track down a traffic violator who
+              turns out to be Erwin Schrödinger, the 20th-century quantum physicist. On the front seat of the car is a box, and when questioned about the contents,
+              Schrödinger replies "A cat, some poison, and a celsium atom." Fry asks if the cat is alive or dead, and Schrödinger answers "it's a superposition of
+              both states until you open the box and collapse the wave function." When Fry opens the box, the cat jumps out and attacks him. The run is a reference
+              to the Schrödinger's cat thought exeriment of quantum mechanics. The series makes passing references to quantum chromodynamics (the appearance of
+              Strong Force-brand glue), computer scienc (two separate books in a closet labeled P and NP respectively, referring to the possibility that P and
+              NP-complete problem classes are distinct), electronics (an X-ray, or more accurately, an "F-ray", of Bender's head revals a 6502 microprocessor), and
+              genetics (a mention of Bender's "robo- or R-NA").
+            </p><p>
+              The show often featues subtle references to classic science fiction. These are more often to Star Trek, many soundbites are used in homage, but also
+              include the reference to the origin of the word robot made in the name of the robot-dominated planet Chapek 9, and the black rectangular monolith
+              labeled "Out of Order" in orbit around Jupiter (a reference to Arthur C. Clarke's Space Odyssey series). Bender and Fry sometimes watch a television
+              show called The Scary Door, a humorous parody of The Twilight Zone.
+            </p>
+            <p>
+              Journalist/critic Frank Lovece in Newsday contrasted the humor tradition of Groening's two series, find that
+            </p>
+            <div className="article-quote">
+              <p>
+                The Simpsons echoes the strains of American-Irish vaudeville humor – the beer-soaked, sneaking-in-late-while-the-wife's-asleep comedy of Harrigan and
+                Hart, McNulty and Murray, the Four Cohans (which, yes, included George M.) and countless others: knockabout yet sentimental, and ultimately about the
+                bonds of blood family. Futurama, conversely, stems from Jewish-American humor, and not just in the obvious archetype of Dr. Zoidberg. From vaudeville
+                to the Catskills to Woody Allen, it's that distinctly rueful humor built to ward away everything from despair to petty annoyance – the 'You gotta do
+                what you gotta do' philosophy that helps the Futurama characters cope in a mega-corporate world where the little guy is essentially powerless.
+              </p>
+            </div>
+            <p>
+              Animation maven Jerry Beck concurred:
+            </p>
+            <div className="article-quote">
+              <p>
+                m Jewish, and I know what you're saying. Fry has that [type of humor], Dr. Zoidberg, all the [vocal artist] Billy West characters. I see it. The bottom
+                line is, the producers are trying to make sure the shows are completely different entities.
+              </p>
+            </div>
+            <p>
+              In an interview with Diego Melano, creator of Victor and Valentino, in April 2-19, he said that he found Futurama "incredibly influential", calling the
+              humor smart but "not alienating." He added that it makes him "feel smart" and adding that Groening's "sense of comedic timing is masterful."
+            </p>
           </div>
         </div>
         <div>
