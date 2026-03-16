@@ -89,7 +89,7 @@ const CaptainAmericaCivilWar = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg" alt="Captain America: Civil War poster" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" alt="Captain America: Civil War poster" />
                 </span>
               </td>
             </tr>
