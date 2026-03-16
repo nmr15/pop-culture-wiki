@@ -145,6 +145,68 @@ const GuardiansOfTheGalaxyFilm = () =>
             <Link to="/mcu/guardians_of_the_galaxy_vol_3">Guardians of the Galaxy Vol. 3</Link> (2023).
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h4 className="article-heading-4" id="3.1.1">Writing</h4>
+            <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <h4 className="article-heading-4" id="3.4.1">Visual effects</h4>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Promotion</h3>
+            <h3 className="article-heading-3" id="5.2">Merchandise</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+            <h3 className="article-heading-3" id="6.2">Home media</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <h4 className="article-heading-4" id="7.1.1">North America</h4>
+            <h4 className="article-heading-4" id="7.1.2">Other territories</h4>
+            <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <h3 className="article-heading-3" id="7.3">Accolades</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Sequels and special"} />
+          <div>
+            <h3 className="article-heading-3" id="8.1">Guardians of the Galaxy Vol. 2</h3>
+            <h3 className="article-heading-3" id="8.2">The Guardians of the Galaxy Holiday Special</h3>
+            <h3 className="article-heading-3" id="8.3">Guardians of the Galaxy Vol. 3</h3>
+          </div>
+        </div>
+        <TableMcu />
       </main>
     </>
   )
