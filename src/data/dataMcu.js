@@ -102,7 +102,7 @@ export const mcu = [
     "id": "mcu11",
     "title": "Avengers: Age of Ultron",
     "file": "AvengersAgeOfUltron",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_Age_of_Ultron_poster.jpg/120px-Avengers_Age_of_Ultron_poster.jpg",
     "route": "/mcu/avengers_age_of_ultron",
     "media": "film",
     "phase": 2
