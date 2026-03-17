@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
 
 const KingoMCU = () =>
 {
@@ -18,6 +20,7 @@ const KingoMCU = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>Kingo (MCU)</li>
         </ul>
         <div>
