@@ -15,6 +15,26 @@ const MakkariMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Former powers"},
+              {id: "2.3", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Weapons"},
+              {id: "3.2", titie: "Other equipment"},
+              {id: "3.3", titie: "Vehicles"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Facilities</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -41,8 +61,12 @@ const MakkariMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Lauren Ridloff</Link></td>
+            </tr>
+            <tr>
+              <td className="infobox-data">Appearances</td>
+              <td className="infobox-data"><Link to="/mcu/eternals">Eternals</Link></td>
             </tr>
           </tbody>
         </table>
