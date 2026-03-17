@@ -2,7 +2,7 @@ export const simpsonsMeta = [
   {
     "id": "simpsonsMeta1",
     "title": "The Simpsons",
-    "file": "SimpsonsSeries"
+    "file": "SimpsonsSeries",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/500px-The_Simpsons_yellow_logo.svg.png",
     "type": "series",
     "route": "/simpsons/the_simpsons_series"
@@ -10,7 +10,7 @@ export const simpsonsMeta = [
   {
     "id": "simpsonsMeta2",
     "title": "The Simpsons Movie",
-    "file": "SimpsonsMovie"
+    "file": "SimpsonsMovie",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/The_Simpsons_Movie_%282007%29.png",
     "type": "film",
     "route": "/simpsons/the_simpsons_movie"
@@ -18,7 +18,7 @@ export const simpsonsMeta = [
   {
     "id": "simpsonsMeta3",
     "title": "The Simpsons Characters",
-    "file": "SimpsonsChars"
+    "file": "SimpsonsChars",
     "img": "",
     "type": "list",
     "route": "/simpsons/the_simpsons_characters"
@@ -26,7 +26,7 @@ export const simpsonsMeta = [
   {
     "id": "simpsonsMeta4",
     "title": "The Simpsons Episodes",
-    "file": "SimpsonsEps"
+    "file": "SimpsonsEps",
     "img": "",
     "type": "list",
     "route": "/simpsons/the_simpsons_episodes"
