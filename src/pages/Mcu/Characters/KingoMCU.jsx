@@ -41,9 +41,12 @@ const KingoMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
-            </tr>
+                          <th className="infobox-data">Portrayed by</th>
+                          <td className="infobox-data">
+                            Terrence Howard <br />
+                            <Link>Don Cheadle</Link>
+                          </td>
+                        </tr>
           </tbody>
         </table>
         <div className="div-top">

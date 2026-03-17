@@ -164,6 +164,13 @@ const JamesRhodesMCU = () =>
                 <Link to="/mcu/iron_man_film">Iron Man</Link> <br />
                 <Link to="/mcu/iron_man_2">Iron Man 2</Link> <br />
                 <Link to="/mcu/iron_man_3">Iron Man 3</Link> <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/captain_marvel_film">Captain Marvel</Link> (mid-credits scene) <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/the_falcon_and_the_winter_soldier">The Falcon and the Winter Soldier</Link> (1 episode) <br />
+                <Link to="/mcu/secret_invasion">Secret Invasion</Link> (1 episode)
               </td>
             </tr>
           </tbody>
