@@ -15,7 +15,31 @@ const MakkariMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Creation"},
+              {id: "1.2", title: "Protecting humanity", sub2: [
+                {id: "1.2.1", title: "Arriving on Earth"},
+                {id: "1.2.2", title: "Battle of Babylon"},
+                {id: "1.2.3", title: "Hide and seek"},
+                {id: "1.2.4", title: "Battle of Helen-Kyo"},
+                {id: "1.2.5", title: "Defeating Kappa"},
+                {id: "1.2.6", title: "Recounting the war"},
+                {id: "1.2.7", title: "Defeating the Deviants"},
+                {id: "1.2.8", title: "Living in the Domo"}
+              ]},
+              {id: "1.3", title: "The Emergence", sub2: [
+                {id: "1.3.1", title: "Reuniting with the Eternals"},
+                {id: "1.3.2", title: "Ikaris' betrayal"},
+                {id: "1.3.2", title: "Stopping the Emergence"}
+              ]},
+              {id: "1.4", title: "Finding other Eternals", sub2: [
+                {id: "1.4.1", title: "Meeting Starfox"}
+              ]}
+            ]}
+          />
           <Collapse 
             id="2"
             item="Powers and abilities"
