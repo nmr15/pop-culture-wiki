@@ -15,6 +15,30 @@ const MantisMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          {/* <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {}
+            ]}
+          /> */}
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Weapons"},
+              {id: "3.2", titie: "Other equipment"},
+              {id: "3.3", titie: "Vehicles"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
