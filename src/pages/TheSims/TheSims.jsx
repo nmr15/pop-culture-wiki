@@ -16,7 +16,39 @@ const TheSims = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Development</a></li>
-
+          <Collapse 
+            id="2"
+            item="Games"
+            sub={[
+              {id: "2.1", title: "Main series", sub2: [
+                {id: "2.1.1", title: "The Sims (2000)"},
+                {id: "2.1.2", title: "The Sims 2 (2004)"},
+                {id: "2.1.3", title: "The Sims 3 (2009)"},
+                {id: "2.1.4", title: "The Sims 4 (2014)"},
+                {id: "2.1.5", title: "Project Rene (TBA)"},
+                {id: "2.1.6", title: "PC spin-offs", sub3: [
+                  {id: "2.1.6.1", title: "The Sims Online"},
+                  {id: "2.1.6.2", title: "The Sims Stories"},
+                  {id: "2.1.6.3", title: "The Sims Carnival"},
+                  {id: "2.1.6.4", title: "The Sims Medieval"},
+                  {id: "2.1.6.5", title: "The Sims Social"}
+                ]}
+              ]},
+              {id: "2.2", title: "Console, handheld, and mobile releases", sub2: [
+                {id: "2.2.1", title: "The Sims era"},
+                {id: "2.2.2", title: "The Sims 2"},
+                {id: "2.2.3", title: "MySims"},
+                {id: "2.2.4", title: "The Sims 3"},
+                {id: "2.2.5", title: "The Sims 4"},
+                {id: "2.2.6", title: "The Sims FreePlay"},
+                {id: "2.2.7", title: "The Sims Mobile"}
+              ]},
+              {id: "2.3", title: "Canceled", sub2: [
+                {id: "2.3.1", title: "SimsVille"},
+                {id: "2.3.2", title: "The Sims: Town Stories"}
+              ]}
+            ]}
+          />
           <Collapse 
             id="3"
             item="Legacy"
