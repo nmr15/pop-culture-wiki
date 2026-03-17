@@ -98,7 +98,27 @@ const DoctorStrangeFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Doctor Strange</b> is a 2016 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/doctor_strange">of the same name</Link>. Produced by <Link>Marvel Studios</Link> and distributed by Walt Disney Studios Motion
+            Pictures, it is the 14th film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU). The film was directed by Scott Derrickson from a screenplay
+            he wrote with Jon Spaihts and C. Robert Cargill, and stars <Link>Benedict Cumberbatch</Link> as neurosurgeon <Link to="/mcu/stephen_strange">Stephen
+            Strange</Link> along with <Link>Chiwetel Ejiofor</Link>, <Link>Rachel McAdams</Link>, <Link>Benedict Wong</Link>, Michael Stuhlbarg, Benjamin Bratt,
+            Scott Adkins, <Link>Mads Mikkelsen</Link>, and <Link>Tilda Swinton</Link>. In the film, Strange learns the mystic arts after a career-ending car crashl.
+          </p>
+          <p>
+            Various incarnations of a Doctor Strange film adapatation had been in development since the mid-1980s, until Paramount Pictures acquired the film rights
+            in April 2005 on behalf of Marvel Studios. Thomas Dean Donnelly and Joshua Oppenheimer were brought on board in June 2010 to write a screenplay. In June
+            2014, Derrickson was hired to direct, with Spalhts re-writing the script. Cumberbatch was chosen for the eponymous role in December 2014, necessitating a
+            schedule change to work around his other commitments. This gave Derrickson time to work on the script himself, for which he brought Cargill on to help.
+            Principal photography on the film began in November 2015 in Nepal, before moving to England and wrapping up in New York City in April 2016.
+          </p>
+          <p>
+            Doctor Strange had its world premiere in Hong Kong on October 13, 2016, and was released in the United States on November 4, as part of
+            <Link> Phase Three</Link> of the MCU. The film grossed $677.8 million worldwide and was met with praise for its cast, visual effects, and musical
+            score. The film received an Academy Award nomination for Best Visual Effects. A sequel,
+            <Link to="/mcu/doctor_strange_in_the_multiverse_of_madness">Doctor Strange in the Multiverse of Madness</Link> was released in May 2022.
+          </p>
         </div>
       </main>
     </>
