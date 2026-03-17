@@ -41,12 +41,13 @@ const KingoMCU = () =>
               </td>
             </tr>
             <tr>
-                          <th className="infobox-data">Portrayed by</th>
-                          <td className="infobox-data">
-                            Terrence Howard <br />
-                            <Link>Don Cheadle</Link>
-                          </td>
-                        </tr>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Kumail Nanjiani</Link></td>
+            </tr>
+            <tr>
+              <td className="infobox-data">Appearances</td>
+              <td className="infobox-data"><Link to="/mcu/eternals">Eternals</Link></td>
+            </tr>
           </tbody>
         </table>
         <div className="div-top">
