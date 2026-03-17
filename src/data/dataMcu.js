@@ -1,6 +1,6 @@
 export const mcuMeta = [
   {
-    "id": "mcumeta1",
+    "id": "mcuMeta1",
     "title": "Marvel Cinematic Universe Characters",
     "file": "McuCharacters",
     "route": "/mcu/characters"
