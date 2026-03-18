@@ -110,6 +110,18 @@ const HomerSimpson = () =>
               ]}
             ]}
           />
+          <Collapse 
+            id="9"
+            item="Non-canon appearances"
+            sub={[
+              {id: "9.1", title: "Future"},
+              {id: "9.2", title: "Treehouse of Horror VI"},
+              {id: "9.3", title: "Treehouse of Horror deaths"},
+              {id: "9.4", title: ""},
+              {id: "9.5", title: ""},
+              {id: "9.6", title: ""},
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">

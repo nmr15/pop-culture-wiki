@@ -98,7 +98,30 @@ const SpiderManHomecoming = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Spider-Man: Homecoming</b> is a 2017 American superhero film based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/spider_man">Spider-Man</Link>. Produced by Columbia Pictures, <Link>Marvel Studios</Link>, and Pascal Pictures, and distributed by Sony Pictures
+            Releasing, it is the second <Link to="/spiderman_films">Spider-Man film reboot</Link>  and the 16th film in the <Link to="/mcu">Marvel Cinematic Universe</Link> (MCU).
+            Directed by <Link>Jon Watts</Link> from a screenpaly by the writing teams of Jonathan Goldstein and John Francis Daley, Watts and Christopher Ford, and Chris McKenna
+            and Erik Sommers, the film stars <Link>Tom Holland</Link> as <Link to="/mcu/peter_parker">Peter Parker / Spider-Man</Link> alongside <Link>Michael Keaton</Link>,
+            <Link> Jon Favreau</Link>, <Link>Gwyneth Paltrow</Link>, <Link>Zendaya</Link>, <Link>Donald Glover</Link>, <Link>Jacob Batalon</Link>, Laura Harrier, Tony Revoloi,
+            Bokeem Woodbine, Tyne Daly, <Link>Marisa Tomei</Link>, and <Link>Robert Downey Jr.</Link> In the film, Peter tries to balance high school life with being the hero
+            Spider-Man while facing the <Link>Vulture</Link> (Keaton).
+          </p>
+          <p>
+            In February 2015, Marvel Studios and Sony reached a deal to chare the film rights for Spider-Man, integrating the character into the established MCU. The following
+            June, Holland was cast as Spider-Man, and Watts was hired to direct. Soon after, Daley and Goldstein joined the project. In April 2016, the film's title was revealed,
+            along with additional cast members, including Downey Jr. in his MCU role of <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>. Principal photography begain in
+            June 2016 at Pinewood Atlanta Studios in Fayette County, Georgia, and also took place in Atlanta, Los Angeles, New York City, and Berlin. The film's additional
+            screenwriters were revealed during filming, which wrapped in October 2016. The filmmakers made efforts to differentiate the film from previous Spider-Man films.
+          </p>
+          <p>
+            Spider-Man: Homecoming premiered in Hollywood, Los Angeles, on June 28, 2017, and was released in the United States on July 7, as part of <Link>Phase Three</Link> of
+            the MCU. The film grossed $880.9 million worldwide, becoming the second most successful Spider-Man film and the sixth highest grossing film of 2017. It received praise
+            for its light tone, its focus on Peer's high school life, and its acting, particularly of Holland and Keaton. Two sequels have been released:
+            <Link to="/mcu/spiderman_far_from_home">Spider-Man: Far From Home</Link> (2019) and <Link to="/mcu/spiderman_no_way_home">Spider-Man: No Way Home</Link> (2021). A
+            new trilogy of live-action films from Sony and Marvel Studios is in development, beginning with <Link>Spider-Man: Brand New Day</Link> (2026).
+          </p>
         </div>
       </main>
     </>
