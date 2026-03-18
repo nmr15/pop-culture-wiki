@@ -92,7 +92,14 @@ const AbedNadir = () =>
         </table>
         <div className="div-top">
           <p>
-
+            <b>Abed Nadir</b> is a student at Greendale Community College and one of the first members of the show's central study group. A pop culture enthusiast, his extensive
+            knowledge of TV shows and movies, as well as his passion for filmmaking, often lead the study group to reference or attempt to recreate famous media properties. Abed
+            serves as the main link between Community and the real world, often pointing out motifs and tropes present within the show's events.
+          </p>
+          <p>
+            Abed's unusual social behavior and special interests imply that he is on the autism spectrum, as suggested by Harmon and stated by other characters on the show.
+            Despite what some perceive as a lack of social skills, he is generally beloved by members of the study group and enjoys a close bond with
+            <Link to="/community/troy_barnes"> Troy Barnes</Link> (<Link>Donald Glover</Link>).
           </p>
         </div>
       </main>
