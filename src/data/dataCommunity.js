@@ -155,7 +155,7 @@ export const communityEps = [
   },
   {
     "id": "cmntys1e6",
-    "title": "Football, Feminism, and You<",
+    "title": "Football, Feminism, and You",
     "season": 1,
     "episode": 6,
     "file": "CommunityS1E6",
