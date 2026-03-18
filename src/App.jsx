@@ -1,15 +1,15 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routeBeatlesAlbums, routesCommunityChars, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
+import { routesTopics, routesAssassinsCreed, routeBeatlesAlbums, routesCommunityChars, routesCommunityEps, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
 import './App.css'
 // import BadBeginning from "./pages/Asoue/BadBeginning"
-import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
-import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
-import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
-import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
+// import CommunityS1E1 from "./pages/Community/Season1/CommunityS1E1"
+// import CommunityS1E2 from "./pages/Community/Season1/CommunityS1E2"
+// import CommunityS1E3 from "./pages/Community/Season1/CommunityS1E3"
+// import CommunityS1E4 from "./pages/Community/Season1/CommunityS1E4"
 
 const Wrapper = ({ children }) => {
   const location = useLocation()
@@ -67,13 +67,17 @@ function App() {
         
         {/* Routes for Community */}
         {routesCommunityChars.map(({ path, Component }, index) => (
-            <Route key={index} path={path} element={<Component />} />
-          ))}
+          <Route key={index} path={path} element={<Component />} />
+        ))}
 
-        <Route path="/community/pilot" element={<CommunityS1E1 />} />
+        {routesCommunityEps.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {/* <Route path="/community/pilot" element={<CommunityS1E1 />} />
         <Route path="/community/spanish_101" element={<CommunityS1E2 />} />
         <Route path="/community/intoduction_to_film" element={<CommunityS1E3 />} />
-        <Route path="/community/social_psychology" element={<CommunityS1E4 />} />
+        <Route path="/community/social_psychology" element={<CommunityS1E4 />} /> */}
 
         {/* Routes for Beatles */}
         {routeBeatlesAlbums.map(({ path, Component}, index) => (

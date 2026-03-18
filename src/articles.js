@@ -3,7 +3,7 @@ import { useLayoutEffect, Suspense, lazy } from "react"
 import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
 import { beatlesAlbums } from "./data/dataBeatles";
-import { communitychars } from "./data/dataCommunity";
+import { communitychars, communityEps } from "./data/dataCommunity";
 import { gravityFallsCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
 import { gta, gtaCharacters } from "./data/dataGta";
 import { hpbooks, hpchars } from "./data/dataHarryPotter"
@@ -36,6 +36,11 @@ export const routeBeatlesAlbums = beatlesAlbums.map(btlsAlbums => ({
 export const routesCommunityChars = communitychars.map(char => ({
   path: char.route,
   Component: lazy(() => import(`./pages/Community/Characters/${char.file}.jsx`))
+}));
+
+export const routesCommunityEps = communityEps.map(ep => ({
+  path: ep.route,
+  Component: lazy(() => import(`./pages/Community/Episodes/${ep.file}.jsx`))
 }));
 
 // GRAVITY FALLS
