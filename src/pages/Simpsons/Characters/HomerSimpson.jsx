@@ -59,6 +59,57 @@ const HomerSimpson = () =>
               {id: "6.8", title: "Appetite"}
             ]}
           />
+          <Collapse 
+            id="7"
+            item="Health"
+            sub={[
+              {id: "7.1", title: "Age", sub2: [
+                {id: "7.1.1", title: "Hair loss"}
+              ]}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Relationships"
+            sub={[
+              {id: "8.1", title: "Romantic", sub2: [
+                {id: "8.1.1", title: "Marge Simpson"},
+                {id: "8.1.2", title: "Other love interests/wife", sub3: [
+                  {id: "8.1.2.1", title: "Mindy Simmons"},
+                  {id: "8.1.2.2", title: "Lurleen Lumpkin"},
+                  {id: "8.1.2.3", title: "Amber"},
+                  {id: "8.1.2.4", title: "Julia"}
+                ]}
+              ]},
+              {id: "8.2", title: "Wasted potential love interests", sub2: [
+                {id: "8.2.1", title: "Annie Crawford"}
+              ]},
+              {id: "8.3", title: "Friendships", sub2: [
+                {id: "8.3.1", title: "Moe Szyslak"},
+                {id: "8.3.2", title: "Barney Gumble"},
+                {id: "8.3.3", title: "Lenny Leonard and Carl Carlson"},
+                {id: "8.3.4", title: "Charles Montgomery Burns"},
+                {id: "8.3.5", title: "Ned Flanders"},
+                {id: "8.3.6", title: "Apu Nahasapeemapetilon"},
+                {id: "8.3.7", title: "Clancy Wiggum"}
+              ]},
+              {id: "8.4", title: "Familial", sub2: [
+                {id: "8.4.1", title: "Nuclear family", sub3: [
+                  {id: "8.4.1.1", title: "Abe Simpson II"},
+                  {id: "8.4.1.2", title: "Mona Simpson"},
+                  {id: "8.4.1.3", title: "Rita LaFleur"},
+                  {id: "8.4.1.4", title: "Abbey"},
+                  {id: "8.4.1.5", title: "Herb Powell"}
+                ]},
+                {id: "8.4.2", title: "Children", sub3: [
+                  {id: "8.4.2.1", title: "Bart"},
+                  {id: "8.4.2.2", title: "Lisa"},
+                  {id: "8.4.2.3", title: "Maggie"},
+                  {id: "8.4.2.4", title: "Hugo Simpson II"}
+                ]}
+              ]}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
