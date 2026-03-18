@@ -53,18 +53,21 @@ export const communitychars = [
     "id": "cmtychar6",
     "title": "Shirley Bennett",
     "file": "ShirleyBennett",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/3/3a/S1-Shirley_Bennet.jpg",
     "route": "/community/shirley_bennett"
   },
   {
     "id": "cmtychar7",
     "title": "Pierce Hawthorne",
     "file": "PierceHawthorne",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/f/f8/Pierce_Season_One.jpg",
     "route": "/community/pierce_hawthorne"
   },
   {
     "id": "cmtychar8",
     "title": "Ben Chang",
     "file": "BenChang",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/c/c9/S1-Ben_Chang.jpg",
     "route": "/community/ben_chang"
   },
   // {
