@@ -19,7 +19,32 @@ const MantisMCU = () =>
             id="1"
             item="Biography"
             sub={[
-              {}
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Serving Ego"}
+              ]},
+              {id: "1.2", title: "Meeting the Guardians", sub2: [
+                {id: "1.2.1", title: "Father and son reunion"},
+                {id: "1.2.2", title: "Demonstrating her powers"},
+                {id: "1.2.3", title: "Bonding with Drax"},
+                {id: "1.2.4", title: "Turning against Ego"},
+                {id: "1.2.5", title: "Battle on Ego's planet"}
+              ]},
+              {id: "1.3", title: "Joining the Guardians", sub2: [
+                {id: "1.3.1", title: "Revealing her secret"},
+                {id: "1.3.2", title: "Traveling in the galaxy"}
+              ]},
+              {id: "1.4", title: "Infinity War", sub2: [
+                {id: "1.4.1", title: "Meeting Thor"},
+                {id: "1.4.2", title: ""},
+                {id: "1.4.3", title: ""},
+                {id: "1.4.4", title: ""},
+                {id: "1.4.5", title: ""},
+                {id: "1.4.6", title: ""}
+              ]},
+              {id: "1.5", title: ""},
+              {id: "1.6", title: ""},
+              {id: "1.7", title: ""},
+              {id: "1.8", title: ""}
             ]}
           /> */}
           <Collapse 
