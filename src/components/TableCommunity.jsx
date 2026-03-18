@@ -37,7 +37,7 @@ const TableCommunity = () =>
                             <td>Season 2</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys2.map((s2) => (
+                                    {communityS2.map((s2) => (
                                         <Link to={s2.route} className="table-list-link" key={s2.id}>{s2.title}</Link>
                                     ))}
                                 </div>
@@ -47,7 +47,7 @@ const TableCommunity = () =>
                             <td>Season 3</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys3.map((s3) => (
+                                    {communityS3.map((s3) => (
                                         <Link to={s3.route} className="table-list-link" key={s3.id}>{s3.title}</Link>
                                     ))}
                                 </div>
@@ -57,7 +57,7 @@ const TableCommunity = () =>
                             <td>Season 4</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys4.map((s4) => (
+                                    {communityS4.map((s4) => (
                                         <Link to={s4.route} className="table-list-link" key={s4.id}>{s4.title}</Link>
                                     ))}
                                 </div>
@@ -67,7 +67,7 @@ const TableCommunity = () =>
                             <td>Season 5</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys5.map((s5) => (
+                                    {communityS5.map((s5) => (
                                         <Link to={s5.route} className="table-list-link" key={s5.id}>{s5.title}</Link>
                                     ))}
                                 </div>
@@ -77,7 +77,7 @@ const TableCommunity = () =>
                             <td>Season 6</td>
                             <td>
                                 <div className="table-list">
-                                    {communitys6.map((s6) => (
+                                    {communityS6.map((s6) => (
                                         <Link to={s6.route} className="table-list-link" key={s6.id}>{s6.title}</Link>
                                     ))}
                                 </div>
