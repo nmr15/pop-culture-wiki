@@ -25,6 +25,7 @@ export const communitychars = [
     "id": "cmtychar2",
     "title": "Britta Perry",
     "file": "BrittaPerry",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/3/39/443851-community_s2_gillian_jacobs_001.jpg",
     "route": "/community/britta_perry"
   },
   {
@@ -38,12 +39,14 @@ export const communitychars = [
     "id": "cmtychar4",
     "title": "Troy Barnes",
     "file": "TroyBarnes",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/0/0b/Troy_in_Season_Two.jpg",
     "route": "/community/troy_barnes"
   },
   {
     "id": "cmtychar5",
     "title": "Annie Edison",
     "file": "AnnieEdison",
+    "img": "https://static.wikia.nocookie.net/community-sitcom/images/9/9f/369832-annie_edison2.jpg",
     "route": "/community/annie_edison"
   },
   {
