@@ -30,6 +30,7 @@ export const communitychars = [
     "id": "cmtychar3",
     "title": "Abed Nadir",
     "file": "AbedNadir",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Abed_Nadir.png",
     "route": "/community/abed_nadir"
   },
   {
