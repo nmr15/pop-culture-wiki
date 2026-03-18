@@ -18,6 +18,7 @@ export const communitychars = [
     "id": "cmtychar1",
     "title": "Jeff Winger",
     "file": "JeffWinger",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Jeff_Winger_2010.jpg",
     "route": "/community/jeff_winger",
   },
   {
