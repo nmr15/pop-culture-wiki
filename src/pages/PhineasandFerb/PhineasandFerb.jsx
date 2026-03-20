@@ -440,6 +440,30 @@ const PhineasandFerb = () =>
           <Heading2 id={7} title={"Other media"} />
           <div>
             <h3 className="article-heading-3" id="7.1">Films</h3>
+            <p>
+              On March 3, 2010, a Disney press release announced a made-for-television film based on the series, entitled <Link>Phineas and Ferb the Movie: Across
+              the 2nd Dimension</Link>, which aired on the Disney Channel on August 5, 2011. The film depicts Phineas and Ferb accidentally helping Dr. Doofenshmirtz with an
+              invention that takes them to a parallel dimension, where Perry reveals his double life as a secret agent to them, and, to save their friends from a devious
+              alternative Dr. Doofenshmirtz, they team up with their alternate-dimension selves to stop him.
+            </p>
+            <p>
+              In January 2011, Gary Marsh, the president of Disney Channel Worldwide announced that early development on a theatrical feature film adaptation of Phineas and
+              Ferb had commenced. Sean Bailey, head of production at Walt Disney Pictures, led the development, which would combine live-action and animation. By July,
+              Povenmire and Marsh were in the early stages of writing the film's script; Michael Arndt, the writer of Little Miss Sunshine and
+              <Link to="/toy_story/toy_story_3">Toy Story 3</Link>, was hired to write a further draft of the screenplay. The film was to be produced by Mandeville Films, and
+              was originally scheduled for release on July 26, 2013. In October 2012, Disney moved the release date to 2014, and in August 2013, the film was removed from its
+              schedule.
+            </p>
+            <p>
+              On April 11, 2019, it was announced that a film, titled <Link>Phineas and Ferb the Movie: Candace Against the Universe</Link>, would be released on Disney+ within
+              a year of its launch; it would eventually premiere on August 28, 2020. Most of the series' cast reprised their roles, with the exception of Thomas Sangston as
+              Ferb, who was replaced by David Errigo Jr., who had previously voiced Ferb on Milo Murphy's Law. According to writer Jim Bernstein, the film is unrelated to the
+              previously shelved theatrical Phineas and Ferb film.
+            </p>
+            <p>
+              In January 15, 2026, it was announced that a third Phineas and Ferb movie had been greenlit, with the series' main cast all reprising their roles.
+            </p>
+
             <h3 className="article-heading-3" id="7.2">Crossovers and short series</h3>
             <h3 className="article-heading-3" id="7.3">Fireside Girls scrapped and unconfirmed spinoff series</h3>
             <h3 className="article-heading-3" id="7.4">Video games</h3>
