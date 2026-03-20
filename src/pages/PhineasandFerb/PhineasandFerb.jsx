@@ -365,14 +365,75 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.5">Conclusion and revival</h3>
+            <p>
+              The series was renewed for a fourth season in August 2011, which was originally planned to be the final season; the hour-long finale
+              "<Link to="/phineas_and_ferb/last_day_of_summer">Last Day of Summer</Link>" aired on June 12, 2015. Povenmire and Marsh remained with the network and together
+              created a new series, <Link>Milo Murphy's Law</Link>, which aired from 2016 to 2019. A revival of Phineas and Ferb, spanning 40 episodes across two seasons, was
+              announced by Disney Branded Television in January 2023; by May of that year, Povenmire confirmed that the two seasons would be considered as the fifth and sixth
+              of the series overall. The fifth season premiered on Disney Channel on June 5, 2025, and began streaming on <Link>Disney+</Link> the next day. A soundtrack album
+              with 13 songs from the new season was released on June 6, 2025. David Errigo Jr. replaced Thomas Brodie-Sangster as Ferb, while Mitchell Musso is replaced by an
+              uncredited actor as Jeremy Johnson.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={6} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Critical response</h3>
+            <p>
+              The show has received generally positive reviews. The New York Times commented favorably, describing the show as "Family Guy with an espionage subplot and a big dose
+              of magical realism". It considered the pop-culture references ubiquitous "but [placed] with such skill that it seems smart, not cheap". Whitney Matheson wrote in
+              her USA Today blog Pop Candy that the series was an achievement in children's programming, applauding the writing and calling the show "an animated version of Parker
+              Lewis Can't Lose". Emily Ashby of Common Sense Media praised the show's humor and plot, giving it four out of five stars. The Seattle Times wrote that the story of
+              the show was "valiant" and that the main characters are "young heroes".
+            </p>
+            <p>
+              Variety noted the show's appeal to all ages with its "sense of wit and irreverence". Similar reviews have emphasized the series' popularity with adults; Rebecca Wright
+              of Elastic Pops wrote, "As an adult, I really enjoyed watching this Phineas and Ferb DVD, and I think it is one that the whole family can enjoy". Wright also called the
+              series' "irreverent style" reminiscent of The Adventures of Rocky and Bullwinkle. Matt Blum of Wired has stated in reviews that he "can stand to watch just about
+              anything with [his] kids, but [he] actually look[s] forward to watching Phineas and Ferb with them". Notable celebrities identified as fans of the series include Bob
+              Eubanks, Anthony LaPaglia, Ben Stiller, Chaka Khan, Jeff Sullivan and Jake Gyllenhaal.
+            </p>
+            <p>
+              Among the negative reviews is one that charges the series with a lack of originality. Maxie Zeus of Toon Zone argues that the show is "derivative, but obviously so,
+              and shorn of even the best features of what has been stolen". Zeus takes issue with the writing, feeling that certain jokes and conventions were "ripped-off" from
+              other shows. Kevin McDonough of Sun Coast Today criticized the show for its plot complexity, constant action and "characters [that] can do just about anything".
+              McDonough stated that "it's never clear whether P&F are intended to entertain children or are merely a reflection of grown-up animators engaged in a juvenile lark".
+              Marylin Moss of The Hollywood Reporter described Phineas and Ferb as "Pretty mindless but kids of all ages might find a humorous moment in it". Moss called the plot
+              lines redundant but praised the music styles and guest stars.
+            </p>
+            <p>
+              Alan Sepinwall and Matt Zoller Seitz gave a positive assessment in their 2016 book TV (The Book), stating that "In television, formula often seems to come from a lack of
+              imagination. ... Phineas and Ferb though, managed at the same time to be wildly imaginative and slavishly formulaic, using its repetitive structure not as a crutch, but
+              as a sturdy framework on which it could hang all kinds of fantastic new ideas". They further added that "the characters' awareness of that formula, and any deviations
+              from it, quickly became one of the show's most fertile sources of humor".
+            </p>
+
             <h3 className="article-heading-3" id="6.1">Ratings</h3>
-            <h3 className="article-heading-3" id="6.3">Awards and nominations</h3>
+            <p>
+              The first episode, "Rollercoaster", garnered a total of 10.8 million viewers when aired as a preview on August 17, 2007, holding onto more than half of the
+              record-setting audience of its lead-in, High School Musical 2. When Phineas and Ferb officially debuted in February the next year, it proved to be cable's number-one
+              watched animated series premiere by tweens. Throughout the quarter that followed, it peaked as the top-rated animated series for ages 6–10 and 9–14, also becoming the
+              number-three animated series on cable television for viewers aged 6–10. By the time the second season was announced in May 2008, the series had become a top-rated
+              program in the 6–11 and 9–14 age groups.
+            </p>
+            <p>
+              The Disney Channel airing of "Phineas and Ferb Get Busted!" was watched by 3.7 million viewers. The episodes "Perry Lays an Egg" and "Gaming the System" achieved the
+              most views by ages 6–11 and 9–14 of any channel in that night's time slot. This achievement made the series the number-one animated telecast that week for its target
+              demographics. On June 7, 2009, Disney announced that the show had become the number-one primetime animated show for the 6–10 and 9–14 groups.
+            </p>
+            <p>
+              The premiere of "Phineas and Ferb Christmas Vacation" garnered 2.62 million viewers during its debut on Disney XD, the most watched telecast in the channel's history
+              (including Toon Disney) and the number-three program of the night across all demographics. It received 5.2 million viewers for its debut on Disney Channel and was the
+              highest-rated episode of the series to date and fifth-highest for the week.
+            </p>
+            <p>
+              The premiere of "Phineas and Ferb: Summer Belongs to You!" garnered 3.862 million viewers and was watched by 22% of children 2–11, 13% of teens, 5% of households and
+              3% of adults 18–49, also ranking as the number-one program for that night and as 25th for the week. On Disney XD, the episode ranked among the channel's top three
+              telecasts of the year with 1.32 million viewers, including 365,000 among boys 6–11, with a 2.9 rating. The hour-long telecast on August 2, 2010, was the series'
+              number-two telecast of all time on Disney XD in total viewers, behind only December 2009's "Phineas and Ferb Christmas Vacation".
+            </p>
+
           </div>
         </div>
         <div>
