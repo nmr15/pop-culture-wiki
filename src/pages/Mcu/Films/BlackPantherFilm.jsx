@@ -144,6 +144,20 @@ const BlackPantherFilm = () =>
             additional casting in May. Black Panther was the first Marvel Studios film with a Black director and a predominantly Black cast. Principal
             photography took place from January to April 2017 at EUE/Screen Germ Studios in the Atlanta metropolitan area, and in Busan, South Korea.
           </p>
+          <p>
+            Black Panther premiered at the Dolby Theatre in Los Angeles on January 29, 2018, and was released theatrically in the United States on February 16, as part of
+            <Link> Phase Three</Link> of the MCU. Critics praised its direction, writing, acting (particularly that of Boseman, Jordan, Wright), costume design, production
+            values, and soundtrack, but some criticized the visual effects. Many critics considered the film to be one of the best in the MCU and it was noted for its cultural
+            significance. The National Board of Review and the American Film Institute named Black Panther one of the top ten films of 2018. It grossed over $1.3 billion worldwide
+            and broke numberous box office records, becoming the highest grossing film directed by a Black filmmaker, the ninth highest grossing film at the time of its release,
+            the third highest grossing film in the U.S. and Canada that year, and the second highest grossing film of 2018.
+          </p>
+          <p>
+            Black Panther was nominated for seven awards at the 91st Academy Awards, winning three, and received numerous other accolades. It was the first superhero film to
+            receive a Best Picture nomination, and the first MCU film to win an Academy Award. A sequel,
+            <Link to="/mcu/black_panther_wakanda_forever"> Black Panther: Wakanda Forever</Link>, was released on November 11, 2022, with Wright taking over as the lead following
+            Boseman's death in 2020, while a third film is in development. An animated series, Eyes of Wakanda, was relased in August 2025 on <Link>Disney+</Link>.
+          </p>
         </div>
       </main>
     </>
