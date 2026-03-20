@@ -27,7 +27,48 @@ const IronMan = () =>
               {id: "1.6", title: "2010s and 2020s"}
             ]}
           />
-
+          <Collapse 
+            id="2"
+            item="Biography"
+            sub={[
+              {id: "2.1", title: "Birth and adoption"},
+              {id: "2.2", title: "Early life"},
+              {id: "2.3", title: "Inventing the Iron Man armor"},
+              {id: "2.4", title: "Becoming a super hero"},
+              {id: "2.5", title: "Illuminati"},
+              {id: "2.6", title: "Alcoholism and a new Iron Man"},
+              {id: "2.7", title: "Founding Stark Enterprises"},
+              {id: "2.8", title: "Armor Wars"},
+              {id: "2.9", title: "Stark shot"},
+              {id: "2.10", title: "Force works"},
+              {id: "2.11", title: "Immortus and younger self"},
+              {id: "2.12", title: "Stark Solutions"},
+              {id: "2.13", title: "Secrets and lies"},
+              {id: "2.14", title: "Sentinel armor"},
+              {id: "2.15", title: "S.K.I.N. armor"},
+              {id: "2.16", title: "The best defense"},
+              {id: "2.17", title: "New Avengers"},
+              {id: "2.18", title: "Extremis"},
+              {id: "2.19", title: "Civil War"},
+              {id: "2.20", title: "Director of S.H.I.E.L.D."},
+              {id: "2.21", title: "Dark Reign"},
+              {id: "2.22", title: "Stark disassembled"},
+              {id: "2.23", title: "Siege"},
+              {id: "2.24", title: "Heroic age"},
+              {id: "2.25", title: "Fear itself"},
+              {id: "2.26", title: "Long way down"},
+              {id: "2.27", title: "The secret origin of Tony Stark"},
+              {id: "2.28", title: "Superior Iron Man"},
+              {id: "2.29", title: "Time runs out"},
+              {id: "2.30", title: "The second Civil War"},
+              {id: "2.31", title: "Stark Unlimited"},
+              {id: "2.32", title: "Robot rebellion"},
+              {id: "2.33", title: "Empyre"},
+              {id: "2.34", title: "Big Iron"},
+              {id: "2.35", title: "Feilong's takeover"},
+              {id: "2.36", title: "The Improvised Iron Man"}
+            ]}
+          />
           <Collapse 
             id="3"
             item="Personality"
@@ -168,6 +209,9 @@ const IronMan = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.2">Early years</h3>
+            <p>
+              
+            </p>
 
             <h3 className="article-heading-3" id="1.3">1970s</h3>
 
