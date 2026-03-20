@@ -98,7 +98,7 @@ const IronMan = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Iron_Man_%28circa_2018%29.png/220px-Iron_Man_%28circa_2018%29.png" alt="Iron Man" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png" alt="Iron Man" />
                 </span>
               </td>
             </tr>

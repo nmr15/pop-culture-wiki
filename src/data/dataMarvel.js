@@ -10,7 +10,7 @@ export const marvel = [
     "id": "marvel2",
     "title": "Iron Man (Tony Stark)",
     "file": "IronMan",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Iron_Man_%28circa_2018%29.png/220px-Iron_Man_%28circa_2018%29.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png",
     "route": "/marvelcomics/iron_man"
   },
   {
