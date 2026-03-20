@@ -98,7 +98,7 @@ const IronMan = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png" alt="Iron Man" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Iron_Man_%28circa_2018%29.png/220px-Iron_Man_%28circa_2018%29.png" alt="Iron Man" />
                 </span>
               </td>
             </tr>
@@ -141,6 +141,43 @@ const IronMan = () =>
               recognizable superheroes. Other adaptations of the character appear in animated direct-to-video films, television series, and video games.
             </p>
           </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Publication history"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Errol_Flynn1.jpg" alt="Errol Flynn" />
+              <p>Errol Flynn was used as a reference for Tony Stark's physical appearance.</p>
+            </div>
+            <p>
+              Following the success of the <Link to="/marvelcomics/fantastic_four">Fantastic Four</Link> in 1961 and the subsequent revival of American comic books featuring
+              superheroes, Marvel Comics created new superhero characters. Stan Lee developed the initial concept for Iron Man. He wanted to design a character who should be
+              unpalatable to his generally anti-war readers but to make them like the character anyway. Iron Man was created in the years after a permanent army industry
+              developed in the United States, and this was incororated into the character's backstory. The character was introduced as an active player in the Vietnam War. Lee
+              described the national mood toward Vietnam during Iron Man's creation as "a time when most of us genuinely felt that the conflict in that tortured land really
+              was a simple matter of good versus evil."
+            </p>
+            <p>
+              Larry Lieber developed Iron Man's origin and wrote the first Iron Man story, while Jack Kirby and Don Heck were responsibl for the initial design. Lee modeled Iron
+              Man after businessman Howard Hughes, invoking his physical appearance, his image as a businessman, and his reputation as an arrogant playboy. Kirby and Heck then
+              incorporated elements of the actor Errol Flynn's physical appearance in the design. When first designing the character, Lee wanted to create a modernized Arthurian
+              knight. Kirby initially drew the Iron Man armor as a "round and clunky gray heap", and Heck modified the design to incorporate gadgets such as jets, drills, and
+              suction cups. The Iron Man character was created at a time when comic book characters were first depicted struggling with real-life problems, and his heart injury
+              was an early example of a superhero with a physical disability.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2">Early years</h3>
+
+            <h3 className="article-heading-3" id="1.3">1970s</h3>
+
+            <h3 className="article-heading-3" id="1.4">1980s and 1990s</h3>
+
+            <h3 className="article-heading-3" id="1.5">2000s</h3>
+
+            <h3 className="article-heading-3" id="1.6">2010s and 2020s</h3>
+
+          </div>
         </div>
       </main>
     </>
