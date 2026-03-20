@@ -334,6 +334,36 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Music</h3>
+            <p>
+              The series is known for its original songs that appear in almost every episode since the first season episode
+              "<Link to="/phinease_and_ferb/flop_starz">Flop Starz</Link>". Disney's executives particularly enjoyed the episode's song "Gitchee, Gitchee Goo" and requested that a
+              song appear in each subsequent episode. The music earned the series a total of four Emmy nominations: two Primetime Creative Arts nominations in 2008 (for the main
+              title theme and for the song "I Ain't Got Rhythm" from the episode
+              "<Link to="/phinease_and_ferb/dude_we're_getting_the_band_back_together">Dude, We're Getting the Band Back Together</Link>") and two Daytime Creative Arts
+              nominations in 2010 (for the song "Come Home Perry" from the episode "<Link to="/phineas_and_ferb/oh_there_you_are_perry">Oh, There You Are, Perry</Link>" and the
+              original score by Danny Jacob). 
+            </p>
+            <p>
+              Phineas and Ferb follows structural conventions that Povenmire and Marsh developed while writing Rocko's Modern Life, whereby each episode features "a song or a musical
+              number, plus a big action/chase scene". Both creators had musical backgrounds, as Povenmire performed rock and roll in his college years and Marsh's grandfather was the
+              bandleader Les Brown.
+            </p>
+            <p>
+              The series' songs span many genres, from 16th-century madrigals to Broadway show tunes. Each is written in an intensive session during episode production; a concept,
+              score and lyrics are developed quickly. Together, Marsh and Povenmire could "write a song about almost anything" in an hour. After they finished their songs, Povenmire
+              and Marsh sang them over the answering machine of series composer Danny Jacob on Friday nights. By the following Monday, the song would be fully produced.
+            </p>
+            <p>
+              The opening theme song "Today Is Gonna Be a Great Day", performed by the American group Bowling for Soup, was nominated for an Emmy award in 2008. The creators
+              originally wrote a slower number more in keeping with a "classic Disney song", but the network felt that changes were needed to especially appeal to children and
+              commissioned the rock version that made the final cut.
+            </p>
+            <p>
+              A clip show titled "Phineas and Ferb's Musical Cliptastic Countdown" was broadcast as part of season two in October 2009. The show focuses on the series' music,
+              featuring a viewer-voted list of its top ten songs. This clip show spawned a sequel, "Phineas and Ferb Musical Cliptastic Countdown Hosted by Kelly Osbourne", which
+              aired on June 28, 2013. Osbourne hosted the special in live form, while Dr. Doofenshmirtz and Major Monogram appeared as animated.
+            </p>
+
             <h3 className="article-heading-3" id="5.5">Conclusion and revival</h3>
           </div>
         </div>
