@@ -1,5 +1,8 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
+import TableStarWars from '../../../components/TableStarWars'
 
 const AdmiralAckbar = () =>
 {
@@ -13,6 +16,21 @@ const AdmiralAckbar = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <Collapse 
+            id="2"
+            item="Personality and traits"
+            sub={[
+              {id: "2.1", title: "Overview"},
+              {id: "2.2", title: "Relationships", sub2: [
+                {id: "2.2.1", title:"Aftab Ackbar"},
+                {id: "2.2.2", title:"Leia Organa"},
+                {id: "2.2.3", title:"Lee-Char"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#3">Skills and abilities</a></li>
+          <li className="sidebar-list-item"><a href="#4">Equipment</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
