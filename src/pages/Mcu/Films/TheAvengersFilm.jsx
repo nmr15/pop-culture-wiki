@@ -295,9 +295,26 @@ const TheAvengersFilm = () =>
             <ul className="article-list">
               <li>
                 <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>: <br />
+                A self-described genius, billionaire, playboy, and philanthropist who wears an electromechanical suit of armor of his own invention. Downey was cast as part of his
+                four-picture deal with Marvel Studios, which included <Link to="/mcu/iron_man_2">Iron Man 2</Link> (2010) and The Avengers. He initially suggested to Whedon that
+                Stark should be the lead character, stating, "Well, I said, 'I need to be in the opening sequence. I don't know what you're thinking, but Tony needs to drive this
+                thing.' He was like, 'Okay, let's try that.' We tried it and it didn't work, because this is a different sort of thing, the story and the idea and the theme is the
+                theme, and everybody is just an arm of the octopus." Downey commented on the character's evolution, stating, "In Iron Man, which was an origin story, he was his own
+                epiphany and redemption of sorts. Iron Man 2 is all about not being an island, dealing with legacy issues and making space for others... In The Avengers, he's
+                throwing it down with the others". Downey earned $50 million from the film, "once box-office bonuses and backend compensation [were] factored in."
               </li>
               <li>
                 <Link>Chris Evans</Link> as <Link to="/mcu/steve_rogers">Steve Rogers / Captain America</Link>: <br />
+                <p>
+                  A World War II veteran who was enhanced to the peak of human physicality by an experimental serum and frozen in suspended animation before waking up in the modern
+                  world. Evans was cast as part of a deal to star in three Marvel films, including The Avengers. Rogers is depicted as daraker in The Avengers, with Evan stating,
+                  "It's just about him trying to come to terms with the modern world. You've got to imagine, it's enough of a shock to accept the fact that you're in a completely
+                  different time, but everybody you know is dead. Everybody you cared about... He was a soldier, obviously, everybody he went to battle with, all of his brothers in
+                  arms, they're all dead. He's just lonely. I think in the beginning it's a fish-out-of-water scene, and it's tough. It's a tough pill for him to swallow. Then
+                  comes trying to find a balance with the modern world." Evans also discussed the dynamic between Rogers and Tony Stark, saying, "I think there's certainly a
+                  dichotomy, this kind of friction between myself and Tony Stark, they're polar opposites. One guy is flash and spotlight and smooth, and the other guy is selfless
+                  and in the shadows and kind of quiet and they have to get along. They explore that, and it's pretty fun." Evans earned $2-3 million for the film.
+                </p>
               </li>
               <li>
                 <Link>Mark Ruffalo</Link> as <Link to="/mcu/bruce_banner">Bruce Banner / Hulk</Link>: <br />
