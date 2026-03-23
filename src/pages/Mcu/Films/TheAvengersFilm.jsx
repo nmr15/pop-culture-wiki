@@ -305,19 +305,29 @@ const TheAvengersFilm = () =>
               </li>
               <li>
                 <Link>Chris Evans</Link> as <Link to="/mcu/steve_rogers">Steve Rogers / Captain America</Link>: <br />
-                <p>
-                  A World War II veteran who was enhanced to the peak of human physicality by an experimental serum and frozen in suspended animation before waking up in the modern
-                  world. Evans was cast as part of a deal to star in three Marvel films, including The Avengers. Rogers is depicted as daraker in The Avengers, with Evan stating,
-                  "It's just about him trying to come to terms with the modern world. You've got to imagine, it's enough of a shock to accept the fact that you're in a completely
-                  different time, but everybody you know is dead. Everybody you cared about... He was a soldier, obviously, everybody he went to battle with, all of his brothers in
-                  arms, they're all dead. He's just lonely. I think in the beginning it's a fish-out-of-water scene, and it's tough. It's a tough pill for him to swallow. Then
-                  comes trying to find a balance with the modern world." Evans also discussed the dynamic between Rogers and Tony Stark, saying, "I think there's certainly a
-                  dichotomy, this kind of friction between myself and Tony Stark, they're polar opposites. One guy is flash and spotlight and smooth, and the other guy is selfless
-                  and in the shadows and kind of quiet and they have to get along. They explore that, and it's pretty fun." Evans earned $2-3 million for the film.
-                </p>
+                A World War II veteran who was enhanced to the peak of human physicality by an experimental serum and frozen in suspended animation before waking up in the modern
+                world. Evans was cast as part of a deal to star in three Marvel films, including The Avengers. Rogers is depicted as daraker in The Avengers, with Evan stating,
+                "It's just about him trying to come to terms with the modern world. You've got to imagine, it's enough of a shock to accept the fact that you're in a completely
+                different time, but everybody you know is dead. Everybody you cared about... He was a soldier, obviously, everybody he went to battle with, all of his brothers in
+                arms, they're all dead. He's just lonely. I think in the beginning it's a fish-out-of-water scene, and it's tough. It's a tough pill for him to swallow. Then
+                comes trying to find a balance with the modern world." Evans also discussed the dynamic between Rogers and Tony Stark, saying, "I think there's certainly a
+                dichotomy, this kind of friction between myself and Tony Stark, they're polar opposites. One guy is flash and spotlight and smooth, and the other guy is selfless
+                and in the shadows and kind of quiet and they have to get along. They explore that, and it's pretty fun." Evans earned $2-3 million for the film.
               </li>
               <li>
                 <Link>Mark Ruffalo</Link> as <Link to="/mcu/bruce_banner">Bruce Banner / Hulk</Link>: <br />
+                A genius scientist who, due to exposure to gamma radiation, transforms into a monster when enraged or agitated. Ruffalo, initially considered for the role in
+                <Link to="/mcu/the_incredible_hulk_film"> The Incredible Hulk</Link> (2008) before Edward Norton took on the part, was cast after negotiations between Marvel and
+                Norton fell through. Reflecting on replacing Norton, Ruffalo stated, "I'm a friend of Ed's, and yeah, that wasn't a great way for all that to go down. But the way
+                I see it is that Ed has bequeathed this part to me. I look at it as my generation's Hamlet." Discussing the character, he explained, "He's a guy struggling with
+                two sides of himself, the dark and the light, and everything he does in his life is filtered through issues of control. I grew up on the Bill Bixby TV series,
+                which I thought was a really nuanced and real human way to look at the Hulk. I like that the part has those qualities." Ruffalo described the Hulk's role on the
+                team, stating, "He's like the teammate none of them are sure they want on their team. He's a loose cannon. It's like, 'Just throw a grenade in the middle of the
+                group and let's hope it turns out well!" This is the first production in which the actor playing Banner and also playing the Hulk. Ruffalo expressed excitement
+                about the prospect, saying, "I'm really excited. No one's every played the Hulk exactly; they've always done CGI. They're going to do the Avatar stop-action,
+                stop-motion capture. So I'll actually play the Hulk. That'll be fun." The 3D model used to create the Hulk's body was based on Long Island bodybuilder and male
+                stripper Steve Romm, while Ruffalo's face served as the model for the Hulk's facial features. To produce the Hulk's voice, Ruffalo's voice was combined with those
+                of Lou Ferrigno and others; however, Ruffalo provided the Hulk's sole speaking line (("Puny god.")) himself. Ruffalo earned $2-3 million for his role in the film.
               </li>
               <li>
                 <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />

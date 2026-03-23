@@ -15,7 +15,7 @@ const MantisMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          {/* <Collapse 
+          <Collapse 
             id="1"
             item="Biography"
             sub={[
@@ -35,18 +35,39 @@ const MantisMCU = () =>
               ]},
               {id: "1.4", title: "Infinity War", sub2: [
                 {id: "1.4.1", title: "Meeting Thor"},
-                {id: "1.4.2", title: ""},
-                {id: "1.4.3", title: ""},
-                {id: "1.4.4", title: ""},
-                {id: "1.4.5", title: ""},
-                {id: "1.4.6", title: ""}
+                {id: "1.4.2", title: "Ambush in Knowhere"},
+                {id: "1.4.3", title: "Searching for Gamora"},
+                {id: "1.4.4", title: "Battle of Titan"},
+                {id: "1.4.5", title: "Thanos' victory"},
+                {id: "1.4.6", title: "Battle of Earth"}
               ]},
-              {id: "1.5", title: ""},
-              {id: "1.6", title: ""},
-              {id: "1.7", title: ""},
-              {id: "1.8", title: ""}
+              {id: "1.5", title: "Return to space", sub2: [
+                {id: "1.5.1", title: "Guardians reassembled"},
+                {id: "1.5.2", title: "Adventures in the galaxy"},
+                {id: "1.5.3", title: "Battle of Indigarr"},
+                {id: "1.5.4", title: "Answering distress calls"}
+              ]},
+              {id: "1.6", title: "Operating from Knowhere", sub2: [
+                {id: "1.6.1", title: "Buying Knowhere"},
+                {id: "1.6.2", title: "Return to Earth"},
+                {id: "1.6.3", title: "Visiting Hollywood"},
+                {id: "1.6.4", title: "Kidnapping Kevin Bacon"},
+                {id: "1.6.5", title: "Celebrating Christmas"},
+                {id: "1.6.6", title: "Worrying about her brother"},
+                {id: "1.6.7", title: "Adam Warlock's attack"}
+              ]},
+              {id: "1.7", title: "Saving Rocket", sub2: [
+                {id: "1.7.1", title: "Infiltrating the Orgoscope"},
+                {id: "1.7.2", title: "Trying to give advice"},
+                {id: "1.7.3", title: "Visiting Counter-Earth"},
+                {id: "1.7.4", title: "Captured by the High Evolutionary"},
+                {id: "1.7.5", title: "Fighting the High Evolutionary"}
+              ]},
+              {id: "1.8", title: "Journey of self discovery", sub2: [
+                {id: "1.8.1", title: "Leaving the Guardians"}
+              ]}
             ]}
-          /> */}
+          />
           <Collapse 
             id="2"
             item="Powers and abilities"
