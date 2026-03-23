@@ -268,6 +268,12 @@ const Beatles = () =>
               "Love Me Do", the single "Please Please Me" was released in January 1963, two months ahead of the album. It reached number one on every
               UK chart except Record Retailer, where it peaked at number two.
             </p>
+            <p>
+              Recalling how the Beatles "rushed to deliver a debut album, bashing out Please Please Me in a day", AllMusic critic Stephen Thomas Eriewine wrote: "Decades after its
+              release, the album still sounds fresh, precisely because of its intense origins." Lennon said little thought wwent into composition at the time; he and McCartney were
+              "just writing songs <i>à la Everly Brothers à la Buddy Holly</i>, pop songs with nore more thought of them than that, to create a sound. And the words were almost
+              irrelevant."
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
 

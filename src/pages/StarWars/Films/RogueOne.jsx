@@ -135,6 +135,91 @@ const RogueOne = () =>
             series, aired on the streaming service <Link>Disney+</Link> for two seasons from 2022 to 2025.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Capture of Galen Erso</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/a/a6/Erso_Krennic_Reunion_RO.png" alt="Galen Erso & Krennic reunion" />
+              <p>Krennic and his death troopers arrive on Lah'mu to capture Galen Erso.</p>
+            </div>
+            <p>
+              Approximately six years after the formation of the Galactic Empire, Imperial Director <Link>Orson Krennic</Link> and a squad of death troopers land on the planet
+              Lah'mu and forcibly recruit scientist <Link>Galen Erso</Link> to complete his work on the Death Star, a battle station the Empire hopes to be capable of destroying
+              entire planets. Galen's wife, Lyra Erso, is killed when she shoots and injures Krennic in an attempt to stop him from taking her husband. Their daughter,
+              <Link to="/starwars/jyn_erso"> Jyn Erso</Link>, goes into hiding until <Link to="/starwars/saw_gerrera">Saw Gerrera</Link>, leader of the Partisans, rescues her
+              and takes her in.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2"></h3>
+            <h3 className="article-heading-3" id="1.3"></h3>
+            <h3 className="article-heading-3" id="1.4"></h3>
+            <h3 className="article-heading-3" id="1.5"></h3>
+            <h3 className="article-heading-3" id="1.6"></h3>
+            <h3 className="article-heading-3" id="1.7"></h3>
+            <h3 className="article-heading-3" id="1.8"></h3>
+            <h3 className="article-heading-3" id="1.9"></h3>
+            <h3 className="article-heading-3" id="1.10"></h3>
+            <h3 className="article-heading-3" id="1.11"></h3>
+            <h3 className="article-heading-3" id="1.12"></h3>
+            <h3 className="article-heading-3" id="1.13"></h3>
+            <h3 className="article-heading-3" id="1.14"></h3>
+            <h3 className="article-heading-3" id="1.15"></h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Cast"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <h3 className="article-heading-3" id="3.2">Casting</h3>
+            <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <h3 className="article-heading-3" id="3.4">Post-production</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Music"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Promotion</h3>
+            <h3 className="article-heading-3" id="5.2">Tie-in novels</h3>
+            <h3 className="article-heading-3" id="5.3">Comics</h3>
+            <h3 className="article-heading-3" id="5.4">Video games</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+            <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <h3 className="article-heading-3" id="7.3">Digital recreation</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"TV series"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <TableStarWars />
+        </div>
       </main>
     </>
   )
