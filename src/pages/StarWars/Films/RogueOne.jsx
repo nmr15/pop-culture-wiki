@@ -110,7 +110,30 @@ const RogueOne = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Rogue One: A Star Wars Story</b> is a 2016 American epic space opera film directed by <Link>Gareth Edwards</Link> and written by Chris Weitz and <Link>Tony
+            Gilroy</Link>. Produced by <Link>Lucasfilm</Link> and distributed by Walt Disney Studios Motion Pictures, it is the first Star Wars anthology film and a prequel to
+            <Link to="/starwars/a_new_hope"> Star Wars</Link> (1977). It stars <Link>Felicity Jones</Link>, <Link>Diego Luna</Link>, <Link>Ben Mendelsohn</Link>,
+            <Link> Donnie Yen</Link>, <Link>Mads Mikkelsen</Link>, <Link>Alan Tudyk</Link>, Riz Ahmed, Jiang Wen, and <Link>Forest Whitaker</Link>. Set a week before the events of
+            Star Wars, the film follows rebels who steal the schematics for the <Link>Galactic Empire</Link>'s ultimate weapon, the <Link>Death Star</Link>. It details the
+            <Link> Revel Alliance</Link>'s first effective victory against the Empire, as referenced in the Star Wars opening crawl.
+          </p>
+          <p>
+            John Knoll, who served as the visual effects supervisor of the <Link>Star Wars prequel trilogy</Link>, pitched Rogue One's story as an episode of the unproduced
+            television series Star Wars: Underworld in 2003. He pitched it again as a film following Disney's acquisition of Lucasfilm in 2012; Edwards was hired to direct in 2014.
+            Edwards sought to differentiate Rogue One from previous <Link to="/starwars">Star Wars</Link> films and approach it as a war film, omitting the opening crawl and
+            transitional screen wipes used in the main "<Link>Skywalker Saga</Link>" installments. Principal photography began at Pinewood Studios, Buckinghamshire, in early
+            August 2015 and wrapped in February 2016. The film went through extensive reshoots in mid-2016. The score was composed by <Link>Michael Giacchino</Link>, rather than
+            the Skywalker Saga composer <Link>John Williams</Link>. With an estimated production budget of $200-280.2 million, Rogue One is one of the most expensive films ever
+            made. 
+          </p>
+          <p>
+            Rogue One: A Star Wars Story premiered in Los Angeles on December 10, 2016, and was theatrically released in the United States on December 16. It received positive
+            reviews, with praise for its acting, story, visuals, musical score, cinematography, and darker tone than previous Star Wars films, but criticism for its pacing and
+            digital recreations of <Link>Carrie Fisher</Link> and <Link>Peter Cushing</Link>. Rogue One grossed $1 billion worldwide, becoming the second highest grossing film of
+            2016, and received two Academy Award nominations for Best Sound Mixing and Best Visual Effects. <Link to="/starwars/andor_series">Andor</Link>, a prequel television
+            series, aired on the streaming service <Link>Disney+</Link> for two seasons from 2022 to 2025.
+          </p>
         </div>
       </main>
     </>
