@@ -151,20 +151,48 @@ const RogueOne = () =>
               and takes her in.
             </p>
 
-            <h3 className="article-heading-3" id="1.2"></h3>
-            <h3 className="article-heading-3" id="1.3"></h3>
-            <h3 className="article-heading-3" id="1.4"></h3>
-            <h3 className="article-heading-3" id="1.5"></h3>
-            <h3 className="article-heading-3" id="1.6"></h3>
-            <h3 className="article-heading-3" id="1.7"></h3>
-            <h3 className="article-heading-3" id="1.8"></h3>
-            <h3 className="article-heading-3" id="1.9"></h3>
-            <h3 className="article-heading-3" id="1.10"></h3>
-            <h3 className="article-heading-3" id="1.11"></h3>
-            <h3 className="article-heading-3" id="1.12"></h3>
-            <h3 className="article-heading-3" id="1.13"></h3>
-            <h3 className="article-heading-3" id="1.14"></h3>
-            <h3 className="article-heading-3" id="1.15"></h3>
+            <h3 className="article-heading-3" id="1.2">Jyn's imprisonment</h3>
+            <p>
+              Thirteen years later, an adult Jyn Erso, under the alias of Llana Halik, has been imprisoned in a Detention center on Wobani, sharing a cell with Oolin Mustars.
+            </p>
+
+            <h3 className="article-heading-3" id="1.3">Mission to the Ring of Kafrene</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/1/19/MissiontoKafrene.jpg" alt="Cassian and Tivik" />
+              <p>Cassian and Tivik discuss the "planet killer".</p>
+            </div>
+            <p>
+              On the Ring of Kafrene trading outpost in section nine, the Revel Intelligence officer, Captain <Link to="/starwars/cassian_andor">Cassian Andor</Link>, meets with
+              a contact, a man named Tivik, who reveals that an imperial cargo pilot defected from the Galactic Empire the day before and is telling people that they are making
+              a weapon with the <Link>Kyber crystals</Link> from <Link>Jeddha</Link>. After persuasion from Andor, Tivik reveals that the weapon is a "planet killer" and that
+              Rook is telling people that Galen Erso, an old friend of Saw Gerrera's, sent him. Andor escapes before he can be caught by Impertial <Link>stormtroopers</Link>.
+            </p>
+
+            <h3 className="article-heading-3" id="1.4">An urgent message</h3>
+            <p>
+              Having defected, Imperial pilot <Link>Bodhi Rook</Link> seeks out Saw, carrying an important message from Galen concerning the Empire's construction of an ultimate
+              weapon. He finds Gerrera's hideout on Jeddha but Gerrera's Partisan soldiers, including Benthic, are distrustful of Rook's intentions and capture him. They bring
+              him before Gerrera and though Bodhi pleads his case to the Partisan leader, Gerrera does not trust him either, fearing that he is being lured into a trap. To
+              discoover if Rook is being truthful or not, Gerrera subjects him to the torurous creature Bor Gullet, an experience which leads to a temporary loss of Bodhi's
+              sanity.
+            </p>
+
+            <h3 className="article-heading-3" id="1.5">Freeing Jyn Erso</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/6/69/JynAlliance.png" alt="Jyn Erso" />
+              <p>Jyn before the Alliance High Command</p>
+            </div>
+
+            <h3 className="article-heading-3" id="1.6">When has become now</h3>
+            <h3 className="article-heading-3" id="1.7">Battle on Jedha</h3>
+            <h3 className="article-heading-3" id="1.8">Galen's message</h3>
+            <h3 className="article-heading-3" id="1.9">Destruction of Jeddha City</h3>
+            <h3 className="article-heading-3" id="1.10">Mission to Eadu</h3>
+            <h3 className="article-heading-3" id="1.11">Krennic's groveling on Mustafar</h3>
+            <h3 className="article-heading-3" id="1.12">Rebel council meeting</h3>
+            <h3 className="article-heading-3" id="1.13">Rogue One departs for Scarif</h3>
+            <h3 className="article-heading-3" id="1.14">The Battle of Scarif</h3>
+            <h3 className="article-heading-3" id="1.15"Secret mission to Tatooine></h3>
           </div>
         </div>
         <div>
