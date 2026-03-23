@@ -331,21 +331,58 @@ const TheAvengersFilm = () =>
               </li>
               <li>
                 <Link>Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />
+                The crown prince of Asgard, based on the Norse mythological deity of the same name. Hemsworth was cast as part of a multiple movie deal. He had previously
+                collaborated with Joss Whedon on <Link>The Cabin in the Woods</Link> (2011). Hemsworth maintained his physique from <Link to="/mcu/thor_film">Thor</Link> (2011) by
+                consuming a high-protein diet consisting of chicken breasts, fish, steak, and eggs daily. When asked about the quantity, he humorously replied, "My body weight in
+                protein pretty much!" Thor's motivation in The Avengers is described by Hemsworth as personal, as it involves his brother's disruptive actions. He explained, "It's
+                much more of a personal one, in the sense that it's his brother that is stirring things up. Whereas everyone else, it's some bad guy who they've gotta take down. It's
+                a different approach for me, or for Thor. He's constantly having to battle the greater good and what he should do vs. it's his little brother there... I've been
+                frustrated with my brothers at times, or family, but I'm the only one who is allowed to be angry at them. There's a bit of that." Hemsworth earned $2–3 million for
+                his role in the film.
               </li>
               <li>
                 <Link>Scarlett Johansson</Link> as  <Link to="/mcu/natasha_romanoff">Natasha Romanoff / Black Widow</Link>: <br />
+                A highly trained spy working for S.H.I.E.L.D. Johansson discussed her character's relationship with Hawkeye, stating, "Our characters have a long history. They've
+                fought together for a long time in a lot of battles in many different countries. We're the two members of this avenging group who are skilled warriors, we have no
+                superpowers. Black Widow is definitely one of the team, though. She's not in the cast simply to be a romantic foil or eye candy. She's there to fight, so I never felt
+                like I was the only girl. We all have our various skills and it feels equal." Regarding her training for the role, Johansson mentioned, "Even though Iron Man 2 was
+                'one-for-them,' I'd never done anything like that before. I'd never been physically driven in something, or a part of something so big. For The Avengers, I've spent
+                so many months training with our stunt team, and fighting all the other actors, it's crazy. I do nothing but fight—all the time." Johansson earned $4–6 million for
+                her portrayal in the film.
               </li>
               <li>
                 <Link>Jeremy Renner</Link> as <Link to="/mcu/clint_barton">Clint Barton / Hawkeye</Link>: <br />
+                A master archer working as an agent for S.H.I.E.L.D. Renner prepared for the physically demanding role by training extensively and practicing archery. He expressed his
+                appreciation for Hawkeye's character, stating, "When I saw Iron Man, I thought that was a really kick-ass approach to superheroes. Then they told me about this
+                Hawkeye character, and I liked how he wasn't really a superhero; he's just a guy with a high skill set. I could connect to that." Regarding Hawkeye's relationship with
+                Natasha Romanoff, Renner explained, "It's a lonely game. He's an outcast. His only connection is to Scarlett's character, Natasha. It's like a left hand/right hand
+                thing. They coexist, and you need them both, especially when it comes to a physical mission." Renner emphasized that Hawkeye is confident in his abilities and not
+                insecure about his humanity, stating, "Quite the opposite, he's the only one who can really take down the Hulk with his [tranquilizer-tipped] arrows. He knows his
+                limitations. But when it comes down to it, there has to be a sense of confidence in any superhero." Renner earned $2–3 million for his role in the film.
               </li>
               <li>
                 <Link>Tom Hiddleston</Link> as <Link>Loki</Link>: <br />
+                Thor's adoptive brother and nemesis, based on the Norse mythological deity of the same name. Hiddleston reflected on his character's evolution from the film Thor,
+                stating, "I think the Loki we see in The Avengers is further advanced. You have to ask yourself the question: How pleasant an experience is it disappearing into a
+                wormhole that has been created by some kind of super nuclear explosion of his own making? So I think by the time Loki shows up in The Avengers, he's seen a few
+                things." Regarding Loki's motivations, Hiddleston explained, "At the beginning of The Avengers, he comes to Earth to subjugate it and his idea is to rule thehuman
+                race as their king. And like all the delusional autocrats of human history, he thinks this is a great idea because if everyone is busy worshipping him, there will be
+                no wars so he will create some kind of world peace by ruling them as a tyrant. But he is also kind of deluded in the fact that he thinks unlimited power will give him
+                self-respect, so I haven't let go of the fact that he is still motivated by this terrible jealousy and kind of spiritual desolation."
               </li>
               <li>
                 <Link>Stellan Skarsgård</Link> as <Link>Erik Selvig</Link>: <br />
+                An astrophysicist and friend of Thor under Loki's control who is studying the Tesseract's power. Skarsgård commented on Loki's control over Selvig, stating, "Well
+                with the scene we did in Thor, it was like Loki, one way or the other, entered Erik's mind. And in Avengers, you will see more clarity in how Loki is using Erik's
+                mind." Regarding his role, he added, "[My character] is of importance but the size of the role is not big."
               </li>
               <li>
                 <Link>Samuel L. Jackson</Link> as <Link t0="/mcu/nick_fury">Nick Fury</Link>: <br />
+                The director of S.H.I.E.L.D. who was revealed in previous films to be coordinating the "Avengers Initiative". Jackson was brought to the project with a deal containing
+                an option to play the character in up to nine Marvel films. Jackson expressed that he has a more significant role in The Avengers compared to previous films: "You
+                don't have to wait until the end of the movie to see me". Reflecting on the role, Jackson stated, "It's always good to play somebody [who] is a positive in society as
+                opposed to somebody who is a negative... I tried to make him as honest to the story and as honest to what real-life would seem." He likened the character to Ordell
+                Robbie in Jackie Brown, describing him as "a nice guy to hang out with. You just don't want to cross him". Jackson earned $4–6 million for the film.
               </li>
             </ul>
           </div>
