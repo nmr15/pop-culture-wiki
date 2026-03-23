@@ -215,6 +215,11 @@ const TheAvengersFilm = () =>
               </p>
             </div>
             <div className="flex">
+              <p>
+                On the Helicarrier, Loki is imprisoned inside a cage designed to hold Banner's Hulk. Fury attempts to interrogate him regarding the Tesseract's location, but Loki
+                remains silent. Thor reveals Loki's plan to the Avengers: with the Tesseract, Loki hopes to open a portal that will allow the Chitauri access to Earth, thus
+                beginning an alien invasion. While Stark and Banner work on locating the Tesseract, Stark is intrigued by Banner's level of control over the Hulk.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Stark_Spangled_Banner.jpg" alt="Steve arguse with Tony and Bruce" />
                 <p>Steve arguse with Tony and Bruce</p>
@@ -225,6 +230,12 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/62074349804c4d29a3e7o.jpg" alt="Steve and Tony" />
                 <p>The Helicarrier is attacked</p>
               </div>
+              <p>
+                Rogers, annoyed by Stark's erratic behavior and disrespect toward authority, tries to get him to follow orders more carefully, which instigates a rivalry betweeen
+                the two. Amidst their arguements, they begin to question S.H.I.E.L.D.'s intentions, deducing that Fury is hiding something regarding their plans with the
+                Tesseract. Stark reveals that he has started hacking the agency's mainframe to unlock their secrets, while Rogers leaves to investigate the restricted area of the
+                Helicarrier for himself. Both Stark and Rogers' investigations stumble upon "Phase 2", which they realize is a project aimed to use the Tesseract to make weapons.
+              </p>
             </div>
             <div className="flex">
               <div className="img-card ml-1">
