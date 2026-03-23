@@ -182,9 +182,43 @@ const RogueOne = () =>
               <img src="https://static.wikia.nocookie.net/starwars/images/6/69/JynAlliance.png" alt="Jyn Erso" />
               <p>Jyn before the Alliance High Command</p>
             </div>
+            <p>
+              Jyn is freed from Imperial captivity by Extraction Team Bravo and brought before Rebel leaders including <Link to="/starwars/mon_mothma">Mon Mothma</Link>, Jan
+              Dodonna, <Link>Bail Organa</Link>, Davits Draven, and Andor. They convince her to help get them an audience with Saw, whom Jyn has not seen since he abandoned her
+              years prior. Though the mission is presented to Jyn as one of extraction. Draven covertly orders Cassian to kill Galen so as to prevent the weapon from being
+              completed. Jyn, along with Cassian and his reprogrammed Imperial droid <Link>K-2SO</Link>, set off for the moon Jeddha in a Rebel U-wing.
+            </p>
 
             <h3 className="article-heading-3" id="1.6">When has become now</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/f/ff/TarkinAndKrennic.png/revision/latest?cb=20200512011722" alt="Tarkin and Krennic" />
+              <p>Tarkin warns Krennic that failure will not be tolerated.</p>
+            </div>
+            <p>
+              On the bridge of the Imperial I-class <Link>Star Destroyer</Link> Executrix, <Link to="/starwars/grand_moff_tarkin">Governor Wilhuff Tarkin</Link> monitors
+              construction of the Death Star. As he looks on, the superlaser is being installed. Krennic comes aboard the Star Destroyer and approaches Tarkin on the bridge.
+              Tarkin expresses his concern over the defected cargo pilot, who is spreading rumors on Jedha about the Death Star's existence. He tells Krennic that his time is up
+              as far as completing the battle station goes and that <Link to="/starwars/sheev_palpatine">the Emperor</Link> would not tolerate any more delays on the project.
+              Suggesting that both problems should be solved together with a test of the weapon, Tarkin makes it clear to Krennic that failure will not be tolerated.
+            </p>
+
             <h3 className="article-heading-3" id="1.7">Battle on Jedha</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/6/68/ChirrutImweStormtroopersJedha-R1.png/revision/latest?cb=20160813201653" alt="Chirrut against stormtroopers" />
+              <p>Chirrut engages stormtroopers during the Battle on Jedha.</p>
+            </div>
+            <p>
+              Cassian, Jyn, and K-2SO arrive on Jedha where Cassian expects to meet up with a Partisan contact. K-2SO stays on the ship while Jyn and Cassian set out to find his
+              contact, but the duo is caught in the middle of an armed uprising against the Empire led by Gerrera's partisans. Jyn and Cassian find safety only after K-2SO disobeys
+              orders to stay on the U-Wing and comes to their aid. After fighting off the Imperial troopers, the convoy returns to Tythoni Square where the uprising had taken place.
+              Imperial reinforcements arrive and K-2SO is mistaken for an actual Imperial droid transporting prisoners. The droid tries to play along, but the disguise is foiled. They
+              are saved by the intervention of blind warrior <Link>Chirrut Imwe</Link> and mercenary <Link>Baze Malbus</Link>, guardians of the Kyber Temple on Jedha, which the Empire is
+              stripping of its treasures. After the Imperial reinforcements are fought off, the group thinks they are in the clear until a group of Partisans, including Benthic, arrives
+              and takes over the square, kidnapping Andor, Werso, and the two guardians with K2 having gone back to the ship. Benthic feels that Andor was hostile towards the Partisans
+              during the uprising because he shot one of their own who was preparing to throw a grenade at a tank next to which Jyn was hiding. Jyn reveals to the Partisans that she is
+              the daughter of Galen Erso and the partisans take them to their headquarters in the Catacombs of Cadera and imprison them.
+            </p>
+
             <h3 className="article-heading-3" id="1.8">Galen's message</h3>
             <h3 className="article-heading-3" id="1.9">Destruction of Jeddha City</h3>
             <h3 className="article-heading-3" id="1.10">Mission to Eadu</h3>
