@@ -385,6 +385,28 @@ const TheAvengersFilm = () =>
                 Robbie in Jackie Brown, describing him as "a nice guy to hang out with. You just don't want to cross him". Jackson earned $4–6 million for the film.
               </li>
             </ul>
+            <p>
+              Clark Gregg appears as Phil Coulson, a S.H.I.E.L.D. agent overseeing many of the division's field operations. Gregg was cast as part of a multi-picture deal with
+              Marvel. He noted that his role was expanded in The Avengers, expressing: "[What] Agent Coulson had become in terms of the import of this particular story, and how
+              important his job is in bringing the Avengers together, it kind of felt a little surreal, like somebody was playing a prank and that wasn't the real script. But it
+              wasn't, it was the real thing, I got to show up and do that stuff, and it felt like such an amazing payoff to what the journey had been and the fact I had been doing
+              it for five years." Gregg said Whedon provided insight into his character's backstory, particularly about Coulson being a fan of Captain America. Cobie Smulders
+              appears as Maria Hill, a high-ranking S.H.I.E.L.D. agent working closely with Nick Fury. Smulders, initially considered by Whedon for his unproduced live-action
+              Wonder Woman film, was selected from a short list of potential actresses including Morena Baccarin. Her deal integrated her into nine films. Regarding her
+              preparation, Smulders said, "I hired this amazing black-ops trainer to teach me how to hold a gun, take me to a shooting range, how to hit, how to hold myself, how
+              to walk and basically how to look. I don't do a ton of fighting in the movie, which why I wasn't offered a trainer, but I wanted to look like I had the ability to."
+              On relating to the character, Smulders said, "I can relate to her being a mom and being a businesswoman and trying to work full-time and raising a family and having
+              a career. Were asked to do a lot of things these days. I feel she is just all about her job and keeping things going."
+            </p>
+            <p>
+              Gwyneth Paltrow and Maximiliano Hernández reprise their roles as Pepper Potts and Jasper Sitwell, respectively, from previous MCU films. Paul Bettany returns to
+              voice J.A.R.V.I.S. Frequent Whedon collaborator Alexis Denisof portrays "the Other", while Damion Poitier portrays his master, Thanos (uncredited in the film), in
+              a post-credits scene. Powers Boothe and Jenny Agutter appear as members of the World Security Council, later revealed to be Giedon Malick and Councilwoman Hawley.
+              Avengers co-creator Stan Lee makes a cameo appearance in a news report. Additionally, Harry Dean Stanton cameos as a security guard, and Polish film director Jerzy
+              Skolimowski appears as Georgi Luchkov, Romanoff's interrogator. Warren Kole has a brief role as a S.H.I.E.L.D. bridge tech who is caught playing Galaga. Enver
+              Gjokaj and Ashley Johnson, the former who would later play Daniel Sousa in the series <Link to="/mcu/agent_carter">Agent Carter</Link> (2015-2016), appears as a
+              police officer and a waitress named Beth, respectively.
+            </p>
           </div>
         </div>
          <div>
