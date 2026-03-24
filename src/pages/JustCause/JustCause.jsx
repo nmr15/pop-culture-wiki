@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
 
