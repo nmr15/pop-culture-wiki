@@ -102,6 +102,64 @@ const JustCause = () =>
             </p>
           </div>
         </div>
+        <div>
+          <Heading2 id={2} title={"Games"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">Just Cause (2006)</h3>
+            <p>
+              Just Cause is the first game in the Just Cause series, released on Septembe 22, 2006. It is set on the fictional island nation of San Esperito (inspired by the
+              Caribbean) and follows the protagonist Rico Rodriguez as he attempts to overthrow the corrupt government. The game combines a third-person perspective with a large
+              open-world environment, offering the player freedom to explore all 250K acres of the island and engage in both main and side missions.
+            </p>
+            <p>
+              The gameplay involves Rico using a variety of weapons, equipment (grappling hook), vehicles (cars, boats, airplanes, helicopters, and motorcycles), and unique
+              features like parasailing (where Rico grapples onto moving vehicles while using a parachute), and skydiving to help complete missions. Combat gameplay involves both
+              firearm and melee combat mechanics, while stunt-based gameplay became a signature feature of side missions.
+            </p>
+
+            <h3 className="article-heading-3" id="2.2">Just Cause 2 (2010)</h3>
+            <p>
+              Released on March 23, 2010 (in Europe on March 26, 2010), Just Cause 2 builds on the foundation set by its predecessor, expanding both gameplay mechanics and the
+              open world. Set in the fictional Southeast Asian archipelago of <Link>Panau</Link>, ruled by dictator <Link>Pandak "Baby" Panay</Link>, the game introduces more
+              dynamic and varied mission structures, moving beyond the repetitive format of the first installment. Rico's grappling hook received significant upgrades, allowing
+              for more creative uses like attaching enemies to objects or tethering vehicles together.
+            </p>
+            <p>
+              The game received praise for its massive open-world map, covering over 1,085.70 square kilometers (400 square miles) of diverse environments, including deserts,
+              tropical forests, and snowy mountains. Just Cause 2 was also well received for its explosive action and sandbox-style gameplay, encouraging player experimentation
+              with destruction and traversal mechanics more than its predecessor. Just Cause 2 also featured a large modding community on PC.
+            </p>
+            <p>
+              Initially set to be released in 2008, it was delayed multiple times unitl it was released in North America on March 23, 2010.
+            </p>
+
+            <h3 className="article-heading-3" id="2.3">Just Cause 3 (2015)</h3>
+            <p>
+              Released worldwide on December 1, 2015, Just Cause 3 takes place on the fictional Mediterranean island of Medici, where the protagonist Rico Rodriguez returns to
+              overthrow the ruthless dictator <Link>General Di Ravello</Link>. The game offers a map almost the same size as Just Cause 2 but with less diverse terrains than its
+              predecessor. Just Cause 3 also introduces a wingsuit, allowing players to traverse the landscape in new ways.
+            </p>
+            <p>
+              The main storyline is shorter than that of Just Cause 2, but the game does not feature faction side missions, replacing them with 'random encounters' and a greater
+              variety of races and other challenges.
+            </p>
+            
+            <h3 className="article-heading-3" id="2.4">Just Cause 4 (2018)</h3>
+            <h3 className="article-heading-3" id="2.5">Just Cause Mobile (Canceled)</h3>
+          </div>
+        </div>
+         <div>
+          <Heading2 id={3} title={"Reception"} />
+          <div>
+            
+          </div>
+        </div>
+         <div>
+          <Heading2 id={4} title={"Film adaptation"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
