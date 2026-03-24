@@ -220,6 +220,27 @@ const RogueOne = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.8">Galen's message</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/7/7d/GalenErsoMessage-R1.png/revision/latest?cb=20171111050726" alt="Galen Erso hologram" />
+              <p>Galen's message revealing the Death Star's flaw.</p>
+            </div>
+            <p>
+              While Cassian, Chirrut, and Baze are locked in cells, Jyn is brought before Saw. The calm captive Chirrut "prays" to the Force with his mantra "I am one with the
+              Force and the Force is with me" while Baze mocks his partner's mysterious ways. Cassian becomes impatient with Chirrut and begins to try and pick the cell lock
+              himself. Gerrera is surprised to see Jyn, having parted ways with her years before. He is still wary that the pilot's message and Jyn's return is simply a trap but
+              when Jyn explains her intentions of finding Galen he becomes more comfortable. He questions what Jyn wants to obtain from this to which Jyn answers that she wants
+              no part of it and that her role is finished. Refusing to believe that Jyn no longer cares about the Rebel cause. Gerrera offers to show her something that he feels
+              will change her mind. Meanwhile, on the Death Star, Tarkin and Krennic prepare to test the weapon on Jedha City, having evacuated all Imperial forces from the
+              moon via Protocol 13. Krennic goes to order the complete destruction of the moon, but Tarkin overrules him and orders that the test-firing be conducted at minimum
+              power. With imminent danger approaching, unbeknownst to those on the moon, Cassian, Chirrut, and Baze linger in their cells. They notice that in the cell next to
+              them is an Imperial pilot, Bodhi Rook, and Cassian begins to question him, curious if he is the cargo pilot that brought the message. Bor Gullet's effects on Bodhi
+              are clear and he does not seem to understand what Cassian is talking about until he mentions Galen's name and Rook's memory is jogged. As the Death Star's
+              superweapon commences primary ignition above the moon, Gerrera begins to show Jyn the message that Bodhi brought. The message is a hologram, in which Jyn's father
+              expresses his love for her and discloses his coerced help on the Death Star project. Galen also reveals that he covertly compromised the Death Star's design by
+              including a subtle vulnerability in its reactor that can be used to destroy it. He tells her that the structural plans are at an Imperial high-security data bank
+              on the planet Scariff. However, before the hologram can finish, the Death Star fires on the moon and chaos ensues.
+            </p>
+
             <h3 className="article-heading-3" id="1.9">Destruction of Jeddha City</h3>
             <h3 className="article-heading-3" id="1.10">Mission to Eadu</h3>
             <h3 className="article-heading-3" id="1.11">Krennic's groveling on Mustafar</h3>
