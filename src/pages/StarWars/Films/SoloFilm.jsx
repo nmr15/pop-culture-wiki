@@ -17,11 +17,30 @@ const SoloFilm = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Prologue</a></li>
-          {/* <Collapse 
+          <Collapse 
             id="2"
             item="Plot"
-
-          /> */}
+            sub={[
+              {id: "2.1", title: "Defying Lady Proxima"},
+              {id: "2.2", title: "Escaping Corellia"},
+              {id: "2.3", title: "Ordeals on Mimban"},
+              {id: "2.4", title: "Meeting Chewbacca"},
+              {id: "2.5", title: "Beckett's gamble"},
+              {id: "2.6", title: "Heist on Vandor"},
+              {id: "2.7", title: "An audience with Dryden Vos"},
+              {id: "2.8", title: "Finding a ship"},
+              {id: "2.9", title: "Voyage to Kessel"},
+              {id: "2.10", title: "Infiltrating Kessel"},
+              {id: "2.11", title: "Heist and the slave uprising"},
+              {id: "2.12", title: "Completing the Kessel run"},
+              {id: "2.13", title: "Landing on Savareen"},
+              {id: "2.14", title: "Confronting the Cloud-Riders"},
+              {id: "2.15", title: "Beckett's betrayal"},
+              {id: "2.16", title: "Han's triple-cross"},
+              {id: "2.17", title: "Separate paths"},
+              {id: "2.18", title: "Rematch with Lando Calrissian"},
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#3">Cast</a></li>
           <Collapse 
             id="4"
