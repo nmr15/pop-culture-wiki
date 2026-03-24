@@ -1,8 +1,14 @@
+import { useEffect } from 'react'
 import { Link } from "react-router-dom"
 import { topics } from "../data"
 
 const Home = () => 
 {
+  useEffect(() =>
+  {
+    document.title = "Home - Pop Culture Wiki";
+  }, []);
+
   return (
     <>
       {/* <div className="container-fluid"> */}
