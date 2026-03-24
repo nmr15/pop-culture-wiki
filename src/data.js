@@ -244,7 +244,7 @@ export const topics = [
     "title": "Batman films",
     "file": "BatmanFilms",
     "folder": "BatmanFilms",
-    "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Batman_%281989%29_theatrical_poster.jpg",
+    "img": "https://static.wikia.nocookie.net/batman/images/6/68/Batman_Logo.png/revision/latest?cb=20210917065900",
     "route": "/batman_films"
   },
   {
