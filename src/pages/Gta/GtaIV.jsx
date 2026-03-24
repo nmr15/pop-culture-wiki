@@ -256,6 +256,7 @@ const GtaIV = () =>
               IV ceased by April 21, 2008 when the game was submitted for manufacturing. Producer Leslie Benzies estimated that the budget of the development efforts
               exceeded $100 million, making Grand Theft Auto IV one of the most expensive video games ever made.
             </p>
+
             <h3 className="article-heading-3" id="3.1">Research and open world design</h3>
             <p>
               The game's setting, Liberty City, is based on New York City. The team did not look at the previous renditions of Liberty City as inspiration, wanting it
@@ -289,6 +290,7 @@ const GtaIV = () =>
               shifted focus on phones. The in-game brands and products are designed over several years; the billboards were implemented in the game around six months
               prior to release.
             </p>
+
             <h3 className="article-heading-3" id="3.2">Story and character development</h3>
             <p>
               The game's script, written by Dan Houser and Rupert Humphries, is about 1,000 pages. Approximately 680 actors provided voices for the game and 80,000
@@ -342,7 +344,43 @@ const GtaIV = () =>
               The types of in-game vehicles were decided upon early in development, after which the vehicles department begin creating the design. The
               vehicles are not based on specific real-life counterparts, but take elements from several, with some original ideas by the developers.
             </p>
+
             <h3 className="article-heading-3" id="3.4">Technical and gameplay design</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/Grand_Theft_Auto_IV_motion_capture.jpg" alt="GTA IV motion capture" />
+              <p>
+                The process that Grand Theft Auto IV's animation underwent: (top) actors performing on stage, raw motion capture data, (bottom) in-game characters, and the final
+                scene in the game.
+              </p>
+            </div>
+            <p>
+              The proprietary <Link>Rockstar Advanced Game Engine</Link> was used for Grand Theft Auto IV. Garbut found the game's technical design similar to Grand Theft Auto
+              III's, with both being the first in the series released on their respective platforms. He claimed an operable game engine was not finalised until late in
+              development, at which point "there's still plenty of guesswork" until optimisation near release. The characters' physical performances were recorded using motion
+              capture. Up to eight actors, dressed in full suits, could perform on the motion capture stage at one time. The camera included a teleprompter for actors to read
+              their scripts. Over a hundred moves would be captured each day of production. The voice acting performance were often recorded months later alongside facial
+              reference capture, and an actor's voice could be composited over a different actor's physical performance. The in-game animations were crafted similarly, using a
+              combination of different motion capture performances.
+            </p>
+            <p>
+              For the gameplay animations, the team redid a lot of the work from previous games, wanting Grand Theft Auto IV to "feel next-generation." The role-playing
+              elements from San Andreas were removed fairly early in development, partly due to the animation work it would have required, and because consistently needing to
+              visit the gym felt antithetical in Niko's motivations. The game's targeting system was one of the first focuses of development due to the advanced technology;
+              the team wanted it to feel realistic without being too technical. The cover system was a "natural addition" to the targeting. Benzies described the multiplayer as
+              the hardes part of the game's development. The team wanted the multiplayer to feel like an extension of the cinematic single-player experience. Dan Houser
+              described it as "a section of a film rather than the whole narrative." The developers considered adding co-operative multiplayer to the main story campaign, but
+              decided it worked better as a single-player experience.
+            </p>
+            <p>
+              When Sam Houser first showed interest in using the <Link>Euphoria</Link> software in the game, he was told it would be impossible or only limited to cutscenes,
+              but some members of the team were able to make it work. Engineers from NaturalMotion worked on-site at Rockstar North for several months at a time to
+              incorporate Euphoria software into the game. Rockstar also worked with Image Metrics for the game's facial animations. The facial rigs had around 100 joints, with
+              a total of 300 minutes of facial animation. The scale of the project caused some issues for the animators, forcing them to have rigs completed before animation
+              began. They also faced difficulty in the direction of the actor's head, either straight on when looking at the teleprompter, or down when looking at a script.
+              Image Metrics head of production David Barton noted that "having realistic eyes is 90 percent of the battle", as it allows the player to believe the
+              character. SpeedTree was used for in-game environment rendering.
+            </p>
+
             <h3 className="article-heading-3" id="3.5">Music production</h3>
           </div>
         </div>
