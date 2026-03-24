@@ -1,9 +1,17 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Card from '../../components/Card'
+import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import { spidermanFilms } from '../../data/dataSpidermanFilms'
 
 const SpidermanFilms = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Spider-Man films - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
@@ -19,21 +27,29 @@ const SpidermanFilms = () =>
         <div>
           <h1 className="article-heading">Spider-Man films</h1>
         </div>
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Spider-Man films</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Spider-Man-Logo.svg/700px-Spider-Man-Logo.svg.png" alt="Spider-Man film logo" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Template</th>
+              <td className="infobox-data">Template</td>
+            </tr>
+          </tbody>
+        </table>
         <div className="div-top">
-                    <div className="row">
-                        {spidermanFilms.map((spfilm) => (
-                            <div className="col-3" key={spfilm.id}>
-                                <Card 
-                                    route={spfilm.route}
-                                    img={spfilm.img}
-                                    alt={spfilm.title}
-                                    imgStyle="card-img-vertical"
-                                    title={spfilm.title}
-                                />
-                            </div>
-                        ))}
-                    </div>
-                </div>
+            
+        </div>
       </main>
     </>
   )

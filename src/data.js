@@ -201,7 +201,7 @@ export const topics = [
   },
   {
     "id": 25,
-    "title": "Non-MCU Spider-Man films",
+    "title": "Spider-Man films",
     "file": "SpidermanFilms",
     "folder": "SpidermanFilms",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Spider-Man-Logo.svg/700px-Spider-Man-Logo.svg.png",
