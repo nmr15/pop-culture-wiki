@@ -238,6 +238,22 @@ export const topics = [
     "folder": "TheSims",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Sims_series_logo.webp/500px-The_Sims_series_logo.webp.png",
     "route": "/the_sims"
+  },
+  {
+    "id": 30,
+    "title": "Batman films",
+    "file": "BatmanFilms",
+    "folder": "BatmanFilms",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Batman_%281989%29_theatrical_poster.jpg",
+    "route": "/batman_films"
+  },
+  {
+    "id": 31,
+    "title": "Batman Arkham",
+    "file": "BatmanArkham",
+    "folder": "BatmanArkham",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/48/Batman_Arkham_series_logo.png",
+    "route": "/batman_arkham"
   }
 ]
 
