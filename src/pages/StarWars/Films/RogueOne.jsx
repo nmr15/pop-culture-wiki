@@ -343,6 +343,25 @@ const RogueOne = () =>
               a distraction so they can gain entry to the Citadel and find the plans. As Jyn, Cassian, and K-2SO search the databank for the design plans, the rest of their team
               set off explosives and commence firing in the nearby landing area in an attempt to distract the resident stormtroopers.
             </p>
+            <p>
+              Inside the Citadel, K-2SO hacks into another Imperial droid of he same model to gain intelligence to locate and access the vault. Krennic orders the garrison
+              deployed after the squad sets off the diversionary explosives. Tarkin is alerted that the Scarif installation has been compromised by rebels and is concerned the
+              rebels may be after the Death Star plans. Tarkin had Vader informed of the developments before ordering the Death Star into hyperspace to investigate.
+            </p>
+            <p>
+              Back at the Rebel base on Yavin 4, the Rebellion learn of the battle from intercepted Imperial transmissions, but before the council is notified, Admiral Raddus has
+              already sent his fleet in support of Rogue One's efforts.
+            </p>
+            <p>
+              While Rogue One is battling the stormtroopers, Bodhi contacts Scarif Imperial headquarters and feeds them false information and creates confusion in order to give
+              the squad a better tactical advantage. The garrison deploys AT-ACT walkers to battle the squad.
+            </p>
+            <p>
+              Once Raddus's fleet arrives, Red and Gold squadrons are ordered to protect the fleet, while Blue squadron is ordered to get to the surface to reinforce and provide
+              air support to Rogue One battling on the beaches. Several X-wings, including Blue Leader Antoc Merrick, and a single U-wing gunship make it through the opening
+              before he gate control closes the gate, killing several pilots. Cassian contacts Bodhi and asks him to contact the fleet to attempt to open the gate so they can
+              transmit the plans. Bodhi asks the ground troops to find a master switch so he can communicate with the fleet by interfacing with the communications tower.
+            </p>
 
             <h3 className="article-heading-3" id="1.15"Secret mission to Tatooine></h3>
           </div>
