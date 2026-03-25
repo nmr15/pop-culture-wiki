@@ -3,6 +3,34 @@ import { Link } from 'react-router-dom'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 import TableStarWars from '../../../components/TableStarWars'
+import { starwarsAhsokaEps } from '../../../data/dataStarWars'
+
+export const TableAhsoka = () =>
+{
+  return(
+    <div>
+      <table className="table-center">
+        <thead>
+          <tr>
+            <th colSpan={2}>Ahsoka</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Episodes</td>
+            <td>
+              <div className="table-list">
+                {starwarsAhsokaEps.map((ahsEps) => (
+                  <Link to={ahsEps.route} className="table-list-link" key={ahsEps.id}>{ahsEps.title}</Link>
+                ))}
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  )
+}
 
 const AhsokaSeries = () =>
 {
@@ -123,6 +151,7 @@ const AhsokaSeries = () =>
             viewership, generally positive reviews from critics, and several accolades including a Primetime Creative Arts Emmy Award. A second season was onfirmed in January 2024.
           </p>
         </div>
+        <TableAhsoka />
       </main>
     </>
   )

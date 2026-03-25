@@ -14,14 +14,14 @@ const TableGta = () =>
           </thead>
           <tbody>
             <tr>
-                <td>Games</td>
-                <td>
-                    <div className="table-list">
-                        {hpbooks.map((hpbook) => (
-                            <Link to={hpbook.route} className="table-list-link" key={hpbook.id}>{hpbook.title}</Link>
-                        ))}
-                    </div>
-                </td>
+              <td>Games</td>
+              <td>
+                <div className="table-list">
+                  {hpbooks.map((hpbook) => (
+                    <Link to={hpbook.route} className="table-list-link" key={hpbook.id}>{hpbook.title}</Link>
+                  ))}
+                </div>
+              </td>
             </tr>
           </tbody>
         </table>
