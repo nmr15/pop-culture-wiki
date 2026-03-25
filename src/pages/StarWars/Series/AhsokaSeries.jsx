@@ -132,7 +132,7 @@ const AhsokaSeries = () =>
           <p>
             <b>Ahsoka</b>, also known as <b>Star Wars: Ahsoka</b>, is an American space fantasy television series created by <Link>Dave Filoni</Link> for the streaming service
             <Link> Disney+</Link>. It is part of the <Link to="/starwars">Star Wars</Link> franchise and a spin-off from
-            <Link to="/starwars/the_mandalorian">The Mandalorian</Link> (2019-2023), taking place in the same timeframe as that series and its other interconnected spin-offs after
+            <Link to="/starwars/the_mandalorian"> The Mandalorian</Link> (2019-2023), taking place in the same timeframe as that series and its other interconnected spin-offs after
             the events of the film <Link to="/starwars/return_of_the_jedi">Return of the Jedi</Link> (1983). Ahsoka follows former <Link>Jedi</Link> apprentice
             <Link to="/starwars/ahsoka_tano"> Ahsoka Tano</Link> and her allies as they defend the fledging <Link>New Republic</Link> against remnants of the <Link>Galactic
             Empire</Link>.
