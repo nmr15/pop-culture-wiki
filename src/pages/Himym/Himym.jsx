@@ -530,7 +530,36 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.7">Season 7</h3>
-
+            <p>
+              Season seven opens with another flash forward, in which Ted is helping Barney get ready for his wedding to a still-unknown bride. In the present, Marshall gets a
+              job in environmental law while Lily's pregnancy progresses. Barney proves to Nora that he can be a good boyfriend to her, while Robin is revealed to still have
+              feelings for Barney. After a court case for assault, Robin receives mandated therapy. Robin meets a therapist, <Link>Kevin</Link> (<Link>Kal Penn</Link>), and they
+              start to date. Meanwhile, after a period of unemployment since leaving GNB, Marshall finally manages to land his dream job at a top enviromental law firm. After
+              losing a bet, Barney is forced to wear a tie with a duck pattern on it (nicknames the 'Ducky Tie') which he hates. Marshall allows him to take it off when meeting
+              Nora's parents on the condition that Barney has three slaps added to the one still remaining from the Slap Bet. Marshall uses two slaps immediately, leaving two left.
+            </p>
+            <p>
+              While reminiscing about Hurricane Irene, Lily and Marshall reveal that they conceived their baby in Barney's apartment, and Barney and Robin end up sleeping
+              together. Barney and Robin decide to break up with their partners, but Robin cannot bring herself to break up with Kevin, leaving Barney alone and heartbroken.
+              Robin has a pregnancy scare at Thanksgiving and tells Barney the child is his, since she and Kevin have not yet slept together. However, Robin's doctor informs her
+              that she cannot have children at all. Kevin, who wants children, proposes to Robin, who warns him that she will never want children, and he breaks up with her. Ted
+              comforts Robin and reveals he still loves her, but the gesture is unrequited. Eventually, she moves out to give him some space.
+            </p>
+            <p>
+              Marshall and Lily decide they want to move to Long Island, after Lily's paternal grandparents offer them their house there. Eventually, they move back to the old
+              apartment in New York City after realizing suburban life is not for them. Ted gives them his apartment because he believes he cannot move on from Robin while living
+              there, while he and Robin become estranged and do not speak for several weeks. Robin is eventually offered a news anchor job and subsequently achieves recognition
+              after preventing a helicopter she is flying in from crashing.
+            </p>
+            <p>
+              Barney starts dating a stripper named <Link>Quinn</Link> (Becki Newton), to the group's initial apprehension. The gang begins to meddle in their relationship, but
+              Barney and Quinn outsmart their attempts and win their approval. Quinn moves in with Barney, while Ted rents Quinn's old apartment. Lily goes into labor and
+              frantically calls Barney and Marshall, who are out at a casino in Atlantic City and heavily intoxicated. Barney helps Marshall arrive in time for Lily's delivery and
+              chooses the middle name for the baby, Marvin Waitforit Eriksen. Ted and Robin's friendship also recovers as a result of Marvin's birth. As the season concludes,
+              Marshall and Lily begin a new family with their baby, Marvin. Barney proposes to Quinn performing an extravagant magic trick in airport security. Ted contacts his
+              old grilfriend Victoria; unhappy with her own impending wedding, she leaves her fiancé for Ted and the pair drive off into the sunset. A final flash forward shows
+              the day of Barney's wedding, where Robin is revealed as the bride.
+            </p>
 
             <h3 className="article-heading-3" id="5.8">Season 8</h3>
 
