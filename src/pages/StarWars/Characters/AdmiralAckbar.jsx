@@ -31,6 +31,34 @@ const AdmiralAckbar = () =>
           />
           <li className="sidebar-list-item"><a href="#3">Skills and abilities</a></li>
           <li className="sidebar-list-item"><a href="#4">Equipment</a></li>
+          <Collapse 
+            id="5"
+            item="Concept and creation"
+            sub={[
+              {id: "5.1", title: "Conception"},
+              {id: "5.2", title: "Costume and puppet"},
+              {id: "5.3", title: "Filming"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Portrayals"
+            sub={[
+              {id: "6.1", title: "Timothy Rose"},
+              {id: "6.2", title: "Erik Bauersfeld"},
+              {id: "6.3", title: "Other performances"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Cultural impact"
+            sub={[
+              {id: "7.1", title: "Critical reception"},
+              {id: "7.2", title: "It's a trap!"},
+              {id: "7.3", title: "Response to Ackbar's death"},
+              {id: "7.4", title: "Cultural references"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
