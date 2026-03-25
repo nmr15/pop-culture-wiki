@@ -562,7 +562,34 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.8">Season 8</h3>
-
+            <p>
+              Ted visits Robin on the day of her wedding to Barney, causing him to remembe how he and Victoria ran away from her wedding to be together. The summer is spent with
+              Ted, Barney, and Robin enjoing their current relationships; however, all subsequently break up with their partners. Barney and Quinn break up due to their inability
+              to trust each other, Victoria splits up with Ted over his friendship with Robin, and Robin breaks up with Nick realizing his immaturity. Robin and Barney kiss but
+              decide not to get together, despite Barney's wishes. Barney then begins dating Robin's hated co-worker <Link>Patrice</Link> (Ellen D. Williams), a relationship
+              later exposed as a ruse to make Robin realize her true feelings for him. In a culimating scene, Barney proposes to Robin, who says yes.
+            </p>
+            <p>
+              Marshall and Lily attempt to get used to being parents, which causes a brief estrangement from the gang as baby Marvin takes up the majority of their time. Lily's
+              father Mickey becomes Marvin's nanny, freeing the two up to spend more time with their friends. The Captain, ex-husband of Ted's old girlfriend Zoey, offers Lily a
+              job as an art consultant after she identifies a painting that made a huge profit for him. Lily accepts, happy to finally achieve her dream of having a job in the art
+              industry, while Marshall decides to apply to become a judge. The Captain offers Lily a year's work in Rome, which she accepts with Marshall's blessing. However,
+              just before Barney and Robin's wedding, Marshall is informed that his application to become a judge has been granted, a development that would require them to stay
+              in the US.
+            </p>
+            <p>
+              Ted briefly dates <Link>Jeanette</Link> (Abby Elliott), a girl who stalked him after he appeared on the cover of New York Magzine for designing GNB's headquarters.
+              He quickly realizes he has made a mistake but decides to stay with her because he is slightly unstable, too. After they break up, Ted's feelings of loneliness grow,
+              especially as he is now the only single member of the group, and he decides he is truly ready to settle down. He argues with Lily over hiring a DJ or a band for
+              Barney and Robin's wedding, but is forced to provide a band at short notice when Lily concedes the argument. During a chance meeting on the subway, Cindy offers the
+              services of her roomate's wedding band. This roommate is Ted's future wife.
+            </p>
+            <p>
+              As the week of the wedding approaches, Robin has doubts about marrying Barney and shares an emotional moment with Ted. Feeling guilty, Ted realizes he cannot be
+              around Barney and Robin after they are married and decides to move to Chicago the day after the wedding. The season concludes with everyone trvaelling to Barney and
+              Robin's wedding, including the mother of Ted's children (revealed on screen for the first time and portrayed by <Link>Cristin Milioti</Link>), who is een buying a
+              train ticket to the venue and holding her yellow umbrella.
+            </p>
 
             <h3 className="article-heading-3" id="5.9">Season 9</h3>
           </div>
