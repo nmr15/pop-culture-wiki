@@ -291,6 +291,28 @@ const RogueOne = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.11">Krennic's groveling on Mustafar</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/5/51/VaderAndKrennicOnMustafar.png" alt="Vader and Krennic" />
+              <p>Vader confronts Krennic at Mustafar following the news of Galen Erso's betrayal.</p>
+            </div>
+            <p>
+              With Galen Erso silenced, Krennic travels to <Link>Mustafar</Link> to speak with the mysterious Dark Lord, <Link to="/starwars/anakin_skywalker">Darth Vader</Link>
+              at his castle. Upon Krennic's arrival, the Dark Lord's servant, Vaneé alerts Vader, who is meditating in a rejuvenation chamber, that the Director has arrived.
+              Vader exits his mediation to confront Krennic on a platform overlooking the volcanic landscape of the planet. Vader expresses his concern that the Death Star has
+              become more of a problem than the solution it was intended to be, citing Krennic's inability to keep the project a secret as the main catalyst for the change in
+              approach. Krennic defends himself and his creation, claiming that he has delivered a remarkable weapon to the Emperor. Because of his self proclaimed success, he
+              petitions that Vader grant him an opportunity to personally meet with the Emperor and advise him of the Death Star's unprecedented potential. Vader, however, is
+              far more concerned about the rumors that had reached the higher levels of the Empire of the destruction of Jedha City and the attack on the Eadu facility by the
+              Rebellion and what these revelations mean as far as the secrecy surrounding the Death Star project. Krennic attempts to shift blame onto Tarkin for having ordered
+              the demonstration on Jedha, but Vader is not impressed by this futile effort and criticizes Krennic's groveling, reminding the Director that the secrecy behind the
+              Death Star project was instituted in order to prevent open defiance from the Senate. Vader suggests that the Jedha incident be disguised as a mining disaster, but
+              seems to imply that Galen Erso's betrayal might have been a bitter blow to the Empire's secrecy. Vader instructs Krennic to ensure that no other leaks occur so that
+              the Emperor would be satisfied that the project had not been compromised. As Vader swiftly departs, Krennic makes a last plea for his continued control over the
+              last project, hoping to remain in command of the battle station rather than Tarkin. However, Vader's patience has run thin, and when Krennic requests that Vader
+              speak to the Emperor on his behalf, Vader <Link>chokes</Link> the Director using <Link>the Force</Link>. As Krennic falls to his knees, Vader warns him to temper
+              his aspirations, lest they cause his downfall. He releases Krennic and the conversation is ended.
+            </p>
+
             <h3 className="article-heading-3" id="1.12">Rebel council meeting</h3>
             <h3 className="article-heading-3" id="1.13">Rogue One departs for Scarif</h3>
             <h3 className="article-heading-3" id="1.14">The Battle of Scarif</h3>
