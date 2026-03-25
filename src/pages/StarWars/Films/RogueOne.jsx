@@ -242,7 +242,54 @@ const RogueOne = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.9">Destruction of Jeddha City</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/d/d1/SawGerreraAcceptsFate-R1.png" alt="Saw accepts his fate" />
+              <p>Saw Gerrera's fate is sealed.</p>
+            </div>
+            <p>
+              As the imminent destruction of Jedha City begins, the Partisans in the Catacombs begin to flee. Cassian quickly hot-wires the cell door and he, Chirrut, and Baze
+              escape captivity. Cassian hurries to the convoy's possessions that were seized when the Partisans kidnapped them and frantically uses his comlink to call K-2SO who
+              describes the destruction ensuing outside. Cassian informs him to locate their position so they can escape. Before they can flee, Cassian goes to find Jyn, telling
+              Chirrut and Baze to free the pilot, which Baze does by blasting the cell door with his MWC-35c "Staccato Lightning" repeating cannon. Cassian locates Jyn and informs her
+              that Bodhi has told him where her father is. Gerrera urges her to go with Cassian, but when Jyn suggests he comes with them he refuses, electing to remain there and
+              die with the city. The mass exodus of the catacombs begins, and those who exit look on in horror as they see Jedha's surface beginning to peel back, destroying
+              everything in its path. As the Catacombs begin to collapse along with everything else, K-2SO pilots the U-wing through the destruction to pick up the convoy. Cassian,
+              Jyn, Chirrut, Baze, and Bodhi hurriedly board the U-wing and the ship begins its escape through the destruction. Gerrera watches from the collapsing Catacombs as the
+              U-wing takes off and the blast wave overtakes the area. Shortly before his impending death, Gerrera tears off his breath mask and accepts his fate. Jyn watches from
+              the U-wing as the wave consumes the Catacombs and kills Gerrera. The convoy looks on in horror at the destruction outside as K-2SO and Cassian pilot the U-wing,
+              fleeing the destruction that threatens to overtake them. Barely escaping the blast wave, Cassian hurriedly punches in the calculations and the U-wing blasts into
+              hyperspace, narrowly escaping Jedha.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/6/67/Destruction_of_Jedha_City_Aftermath.png" alt="Destruction of Jedha city" />
+              <p>Krennic and Tarkin look on as Jedha City is destroyed.</p>
+            </div>
+            <p>
+              As the Death Star's demonstration is carried out, Krennic, Tarkin, and many other Imperials look on. Krennic expresses the "beauty" of the destruction. With the
+              demonstration complete. Tarkin congratulates Krennic but promptly uses Rook's defection from Galen Erso's Imperial facility on Eadu and the security leak on Jedha
+              under Krennic's command as a pretext to take control over the project. Enraged, Krennic openly challenges Tarkin's decision and decides to deal with the defector
+              and the potential Rebel sympathizer on Eadu personally. In the aftermath of the incident on Jedha, Cassian sends a coded message back to the Alliance base to
+              inform them that Jedha has been destroyed and that he has learned that Galen is on Eadu. Receiving the message, General Draven is dumbfounded by the destruction of
+              Jedha City but advises Andor to keep to the plan of killing Galen. Already in hyperspace, Cassian receives Draven's instructions and informs K-2SO to set their
+              course for Eadu. The entire convoy is in shock concerning Jedha's destruction, and a troubled Chirrut begs Baze to describe the extent of the destruction. Baze
+              reluctantly consents. Knowing now that her father is on Eadu, Jyn explains to Bodhi, who mistakenly believed that his message was too late, that Galen has laid a
+              trap in the Death Star. However, with the message having been destroyed in the chaos on Jedha, she has no way of backing up her claims and the group is wary to
+              believe her. With Cassian refusing to send word of Jyn's claim to the Alliance, she resolves to get her father on Eadu and bring him back to the Alliance so that
+              he can tell them himself.
+            </p>
+
             <h3 className="article-heading-3" id="1.10">Mission to Eadu</h3>
+            <p>
+              With Tarkin having seized control of the Death Star project, Krennic departs the Death Star in his ST 149 shuttle en route for Eadu, where he plans to expose the
+              Rebel sympathizer in Galen Erso's team. Meanwhile, the Rebel convoy, also seeking out Galen Erso on Eadu, approaches the planet in the U-wing. The planet's stormy
+              conditions hinder their approach, and as Bodhi guides them towards the Imperial installation, they crash whilst attempting to avoid Imperial detection.
+            </p>
+            <p>
+              Jyn tracks her father to an Imperial research facility, where Cassian chooses not to kill Galen. When Krennic arries and threatens to have Galen's main team
+              killed for causing the security leak, Galen confesses he is responsible. Krennic executes the team nevertheless, and Jyn makes her presence known just as a Rebel
+              bombing raid begins, leaving Galen fatally wounded. Jyn's father dies in her arms before she and her group escape in a stolen Imperial cargo shuttle.
+            </p>
+
             <h3 className="article-heading-3" id="1.11">Krennic's groveling on Mustafar</h3>
             <h3 className="article-heading-3" id="1.12">Rebel council meeting</h3>
             <h3 className="article-heading-3" id="1.13">Rogue One departs for Scarif</h3>
