@@ -314,8 +314,36 @@ const RogueOne = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.12">Rebel council meeting</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/e/e4/JynBeforetheAllianceHighCommand.png" alt="Jyn stands before the Alliance" />
+              <p>Jyn pleads to the Alliance High Command to take action on Scariff.</p>
+            </div>
+            <p>
+              Having returned to the Rebel base on <Link>Yavin 4</Link>, Jyn and Bodhi are both present at an Alliance Council meeting where Jyn proposes for the rebels to
+              travel to Scariff and steal the Death Star schematics so they will know where to target the flawed reactor module. The Rebel leadership, including Mon Mothma,
+              Jan Dodonna, Bail Organa, Tynnra Pamlo, Nower Jebel, Vasp Vaspar, Davits Draver, Admiral Raddus, and Antoc Merrick, cannot come to the consensus; many of the
+              Senators propose to scatter their fleet because they have no choice but to surrender. Mothma, Organa, and Raddus attempt to defend Jyn's plan. Unfortunately for
+              them, with Galen Erso and Saw Gerrera dead, and their hologfram destroyed, the Rebel leadership has no way of verifying Jyn's claims. The fearful opposition of
+              Pamlo, Vaspar, and Jebel outweighs the support, despite an impassioned plea from Jyn, calling for hope. Without the full support of the council, Mothma is forced to
+              play the devil's advocate, declaring the odds too great to commit so much of their forces.
+            </p>
+
             <h3 className="article-heading-3" id="1.13">Rogue One departs for Scarif</h3>
+            <p>
+              Frustrated at their inaction, Jyn, Cassian, K-2SO, and a number of Rebels volunteer to take matter into their own hands. The party takes the shuttle to raid the
+              databank themselves. Before they take off, however, they are confronted by Rebel command, who asks them to identify themselves. Rook improvises a call sign of
+              "Rogue One" before heading off to Scarif without Alliance permission.
+            </p>
+
             <h3 className="article-heading-3" id="1.14">The Battle of Scarif</h3>
+            <p>
+              Once Rogue One arrives at Scarif, they begin to transmit a clearance code, praying tha it has not been listed as overdue. Fortunately, the code is valid. The team
+              enters the shield gate and head to the planet below. Briefly, before starting the mission, Jyn speaks to the squad in an effort to inspire them, emphasizing that
+              despite being clearly outnumbered, anything is possible with the element of surprise on their side. Cassian debriefs the men and orders them to attack the troops as
+              a distraction so they can gain entry to the Citadel and find the plans. As Jyn, Cassian, and K-2SO search the databank for the design plans, the rest of their team
+              set off explosives and commence firing in the nearby landing area in an attempt to distract the resident stormtroopers.
+            </p>
+
             <h3 className="article-heading-3" id="1.15"Secret mission to Tatooine></h3>
           </div>
         </div>
