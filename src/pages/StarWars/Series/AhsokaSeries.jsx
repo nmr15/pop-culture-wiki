@@ -62,6 +62,7 @@ const AhsokaSeries = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/starwars">Star Wars</Link></li>
           <li>Ahsoka (series)</li>
         </ul>
         <div>
@@ -100,7 +101,27 @@ const AhsokaSeries = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ahsoka</b>, also known as <b>Star Wars: Ahsoka</b>, is an American space fantasy television series created by <Link>Dave Filoni</Link> for the streaming service
+            <Link> Disney+</Link>. It is part of the <Link to="/starwars">Star Wars</Link> franchise and a spin-off from
+            <Link to="/starwars/the_mandalorian">The Mandalorian</Link> (2019-2023), taking place in the same timeframe as that series and its other interconnected spin-offs after
+            the events of the film <Link to="/starwars/return_of_the_jedi">Return of the Jedi</Link> (1983). Ahsoka follows former <Link>Jedi</Link> apprentice
+            <Link to="/starwars/ahsoka_tano"> Ahsoka Tano</Link> and her allies as they defend the fledging <Link>New Republic</Link> against remnants of the <Link>Galactic
+            Empire</Link>.
+          </p>
+          <p>
+            <Link>Rosario Dawson</Link> stars as the title character, reprising her role from The Mandalorian. <Link>Natasha Liu Bordizzo</Link>, <Link>Mary Elizabeth 
+            Winstead</Link>, <Link>Ray Stevenson</Link>, Ivanna Sakhno, Diana Lee Inosanto, <Link>David Tennant</Link>, Eman Esfandi, Evan Whitten, Genevieve O'Reilly,
+            <Link> Hayden Christensen</Link>, <Link>Ariana Greenblatt</Link>, <Link>Lars Mikkelsen</Link>, and <Link>Anthony Daniels</Link> also star. Ahsoka Tano was co-created
+            by Filoni for the animated series <Link to="/starwars/the_clone_wars_series">Star Wars: The Clone Wars</Link> (2008-2020). Dawson was cast to bring her into live-action
+            for the second season of The Mandalorian, and a spin-off series starring Dawson was announced by <Link>Lucasfilm</Link> in December 2020 with Filoni as showrunner. It
+            serves as a continuation of the animated series <Link to="/starwars/rebels_series">Star Wars Rebels</Link> (2014-2018). In addition to Filoni, <Link>Jon Favreau</Link>,
+            Kathleen Kennedy, and Colin Wilson returned from The Mandalorian as executive producers and were joined by Carrie Beck.
+          </p>
+          <p>
+            Ahsoka premiered on August 22, 2023, with the first two episodes of the first season. The other six episodes were released through October 3. The season received high
+            viewership, generally positive reviews from critics, and several accolades including a Primetime Creative Arts Emmy Award. A second season was onfirmed in January 2024.
+          </p>
         </div>
       </main>
     </>
