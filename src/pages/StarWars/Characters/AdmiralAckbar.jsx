@@ -142,8 +142,19 @@ const AdmiralAckbar = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">
+                Timothy Rose (Episode VI-VII) <br />
+                Elden Bennett (Ahsoka)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data">
+                Erik Baursfeld (Episode VI-VII) <br />
+                Tom Kane (Episode VIII, Star Wars: Battlefront (2004 video game), Star Wars: Battlefront 2: (20117 video game)) <br />
+                Artt Butler (Star Wars: The Clone Wars)
+              </td>
             </tr>
           </tbody>
         </table>
