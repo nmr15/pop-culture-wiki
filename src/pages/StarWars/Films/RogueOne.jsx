@@ -424,7 +424,7 @@ const RogueOne = () =>
               and Valene Kane plays Lyra Erso, Jyn's mother. Jonathan Aris, Fares Fares, and Sharon Duncan-Brewster appear as Senators Nower Jebel, Vasp Vaspar, and Tynnra Pamlo,
               respectively. Simon Farnaby plays a member of Blue Squadron. Jordan Stephens appears as Rebel Alliance member Corporal Tonc. Nick Kellington plays Bistan, a door
               gunner on a U-wing during the battle on Scarif. Ian Whyte plays Moroff, a member of Saw Gerrera's Partisans. Daniel Mays appears as Tivik. Rian Johnson and Ram
-              Bergman, director and producer of Star Wars: The Last Jedi, respectively, cameo as two Death Star technicians.
+              Bergman, director and producer of <Link to="/starwars/the_last_jedi">Star Wars: The Last Jedi</Link>, respectively, cameo as two Death Star technicians.
             </p>
           </div>
         </div>
@@ -432,6 +432,27 @@ const RogueOne = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              In 2003, during the production of <Link to="/starwars/revenge_of_the_sith">Episode III</Link> in Sydney, John Knoll, the visual effects supervisor for all three
+              prequels, pitched an episode for the unproduced series Star Wars: Underworld. At the time, he had written a short treatment called "Destroyer of Worlds." After the
+              Disney acquisition he felt as though he had to pitch it again or forever wonder "what might've happened if I had." In May 2014, Disney announced that Gareth Edwards
+              would direct the film and that Gary Whitta would write the script. In October of the same year, cinematographer Greig Fraser revealed that he was hired to work on the
+              film. In January 2015, it was revealed that Whitta had completed his work on the script, and would no longer be involved with the project. Simon Kinberg was
+              considered as a replacement. Later that month, it was announced Christ Weitz had signed to continue the script's development for the film. In March 2015, the title
+              Rogue One was officially revealed.
+            </p>
+            <p>
+              Edwards stated the style of the film would be similar to that of a war film, stating, "It's the reality of war. Good guys are bad. Bad guys are good. It's complicated,
+              layered; a very rich scenario in w hich to set a movie." Assuming Disney would not allow a dark ending, Edwards had the main characters surviving in the original
+              version of the script. However, the producer opted for a more tragic ending and never filmed the original version.
+            </p>
+            <p>
+              In May 2016, reports emerged the film would undergo five weeks of reshoots with Tony Gilroy writing additional scenes, as well as acting as a second-unit director
+              under Edwards. With input from Edwards, Gilroy oversaw the edit and additional photography of the film which tackled several issues, including the ending. In August,
+              Gilroy was given screenplay credit alongside Weitz and was paid $5 million for his work on the film. Additionally, Christopher McQuarrie, Scott Z. Burns, and Michael
+              Arndt all contributed to the script at various stages in development.
+            </p>
+
             <h3 className="article-heading-3" id="3.2">Casting</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
