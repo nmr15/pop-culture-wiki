@@ -16,7 +16,20 @@ const AdmiralAckbar = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life"},
+              {id: "1.2", title: "The Clone Wars"},
+              {id: "1.3", title: ""},
+              {id: "1.4", title: ""},
+              {id: "1.5", title: ""},
+              {id: "1.6", title: ""},
+              {id: "1.7", title: ""},
+              {id: "1.8", title: ""}
+            ]}
+          />
           <Collapse 
             id="2"
             item="Personality and traits"
