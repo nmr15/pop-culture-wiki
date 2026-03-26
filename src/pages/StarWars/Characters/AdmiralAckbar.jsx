@@ -21,13 +21,57 @@ const AdmiralAckbar = () =>
             item="Biography"
             sub={[
               {id: "1.1", title: "Early life"},
-              {id: "1.2", title: "The Clone Wars"},
-              {id: "1.3", title: ""},
-              {id: "1.4", title: ""},
-              {id: "1.5", title: ""},
-              {id: "1.6", title: ""},
-              {id: "1.7", title: ""},
-              {id: "1.8", title: ""}
+              {id: "1.2", title: "The Clone Wars", sub2: [
+                {id: "1.2.1", title: "Captain of the Mon Calamari Guard"},
+                {id: "1.2.2", title: "Civil war on Mon Cala"},
+                {id: "1.2.3", title: "Counter-attack"}
+              ]},
+              {id: "1.3", title: "Imperial era", sub2: [
+                {id: "1.3.1", title: "Defending Mon Cala", sub3: [
+                  {id: "1.2.1.1", title: "Prelude to battle"},
+                  {id: "1.2.1.2", title: "Conflict"}
+                ]}
+              ]},
+              {id: "1.4", title: "Galactic civil war", sub2: [
+                {id: "1.4.1", title: "Battle of Fostar Haven"},
+                {id: "1.4.2", title: "Evacuating Yavin 4"},
+                {id: "1.4.3", title: "Mission to Rodia"},
+                {id: "1.4.4", title: "Mission to Fex"},
+                {id: "1.4.5", title: "Mission to Denon"},
+                {id: "1.4.6", title: "Hijacking the Harbinger"},
+                {id: "1.4.7", title: "Mutiny on Mon Cala"},
+                {id: "1.4.8", title: "Assault on the Mako-Ta space docks"},
+                {id: "1.4.9", title: "Prior to Shu-Torun"},
+                {id: "1.4.10", title: "Working with Rogue Squadron"}
+              ]},
+              {id: "1.5", title: "Road to Endor", sub2: [
+                {id: "1.5.1", title: "Hoth"},
+                {id: "1.5.2", title: "Battle at Ab Dalis"},
+                {id: "1.5.3", title: "Unity Day attack"},
+                {id: "1.5.4", title: "Second Death Star revealed"},
+                {id: "1.5.5", title: "Chaos on the Home One"},
+                {id: "1.5.6", title: "Siege of Inyusu Tor"},
+                {id: "1.5.7", title: "Trial of Lando Calrissian"},
+                {id: "1.5.8", title: "Preparing to strike"},
+                {id: "1.5.9", title: "Assassination attempt on Mothma"},
+                {id: "1.5.10", title: "Battle of Endor"}
+              ]},
+              {id: "1.6", title: "New Republic", sub2: [
+                {id: "1.6.1", title: "Rebellion on Akiva"},
+                {id: "1.6.2", title: "Commanding the starfleet"},
+                {id: "1.6.3", title: "Prelude to Jakku"},
+                {id: "1.6.4", title: "Defeating the Empire"},
+                {id: "1.6.5", title: "Proposing a new X-wing"}
+              ]},
+              {id: "1.7", title: "The Resistance", sub2: [
+                {id: "1.7.1", title: "Early Resistance days"},
+                {id: "1.7.2", title: "Imprisonment and escape"},
+                {id: "1.7.3", title: "The Rebel files"},
+                {id: "1.7.4", title: "Sending J-Squadron on a mission"},
+                {id: "1.7.5", title: "Starkiller base"},
+                {id: "1.7.6", title: "Death"}
+              ]},
+              {id: "1.8", title: "Legacy"}
             ]}
           />
           <Collapse 
