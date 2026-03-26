@@ -405,6 +405,27 @@ const RogueOne = () =>
                 later childhood years.
               </li>
             </ul>
+            <p>
+              <Link>Jimmy Smith</Link>, <Link>Genevieve O'Reilly</Link>, <Link>Anthony Daniels</Link>, and Jimmy Vee reprise their roles from previous films as
+              <Link> Bail Organa</Link>, <Link to="/starwars/mon_mothma">Mon Mothma</Link>, <Link to="/starwars/c3po">C-3PO</Link>, <Link to="/starwars/r2d2">R2-D2</Link>,
+              respectively; Vee is uncredited for his role. James Earl Jones also reprises his role from previous films as the voice of Darth Vader, who is physically portrayed by
+              Spencer Wilding during the meeting with Krennic and aboard the Star Destroyer, and by Daniel Naprous at the end of the movie. Grand Moff Tarkin and Princess Leia
+              Organa are palyed by Guy Henry and Ingvild Deila respectvely, with the digital likenesses of Peter Cushing and Carrie Fisher superimposed. Henry also provided the
+              voice for Tarkin, while archival audio of Fisher is used for Leia's dialogue. Angus Maclnes and Drews Henley are featured as Gold Leader Dutch Vander and Red Leader
+              Garven Dreis resepcetively, via unused footage from A New Hope; Macinnes returned to record new dialogue for Vander, while new dialogue for the deceased Henley was
+              assembled from archival material. David Ankrum, who voiced <Link>Wedge Antilles</Link> in A New Hope, reprises his role in a vocal cameo. Ian McElhinney, Michael
+              Smiley, Andy de la Tour, and Tim Beckmann play General Jan Dodonna, Dr. Evazan, General Hurst Romodi, and Captain Raymus Antilles, respectively. <Link>Warwick
+              Davis</Link> plays Weeteef Cyubee, a member of Saw Gerrera's Partisans. Dave Filoni reprises his role as <Link to="/starwars/chopper">C1-10P</Link> from
+              <Link to="/starwars/rebels_series">Star Wars Rebels</Link>. Stephen Stanton voices Admiral Raddus, while Paul Kasey appears in costume as the alien character
+              on-screen.
+            </p>
+            <p>
+              Duncan Pow plays Ruescott Melshi, a sergeant in the Rebel Alliance. Additionally, Alistair Petrie plays General Davits Draven, Ben Daniels plays General Antoc Merrick,
+              and Valene Kane plays Lyra Erso, Jyn's mother. Jonathan Aris, Fares Fares, and Sharon Duncan-Brewster appear as Senators Nower Jebel, Vasp Vaspar, and Tynnra Pamlo,
+              respectively. Simon Farnaby plays a member of Blue Squadron. Jordan Stephens appears as Rebel Alliance member Corporal Tonc. Nick Kellington plays Bistan, a door
+              gunner on a U-wing during the battle on Scarif. Ian Whyte plays Moroff, a member of Saw Gerrera's Partisans. Daniel Mays appears as Tivik. Rian Johnson and Ram
+              Bergman, director and producer of Star Wars: The Last Jedi, respectively, cameo as two Death Star technicians.
+            </p>
           </div>
         </div>
         <div>
