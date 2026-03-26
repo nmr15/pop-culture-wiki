@@ -452,6 +452,16 @@ const RogueOne = () =>
               Gilroy was given screenplay credit alongside Weitz and was paid $5 million for his work on the film. Additionally, Christopher McQuarrie, Scott Z. Burns, and Michael
               Arndt all contributed to the script at various stages in development.
             </p>
+            <p>
+              In July 2016, discussing whether the film would feature an opening crawl, Kathleen Kennedy said, "we're in the middle of talking about it, but I don't think these
+              [anthology] films will have an opening crawl." Edwards explained that the film was "supposed to be different than the saga films," and that "This film is born out of
+              a crawl, ... There's this feeling that if we did a crawl, then it'll create anothe movie." In November 2016, Kennedy confirmed the film would not feature an opening
+              crawl, instead beginning in "a way that is traditional, with just the title."
+            </p>
+            <p>
+              At the 2016 Star Wars Celebration, Edwards said that the film's title had three underlying meanings: "a military sign," referring to the Red Squadron from A New Hope;
+              "the 'rogue' one" of the franchise, give it is the first film to not be a part of the main saga; and a description of Jyn ERso's personality.
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Casting</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
