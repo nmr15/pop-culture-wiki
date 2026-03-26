@@ -369,7 +369,42 @@ const RogueOne = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-
+            <ul className="article-list">
+              <li>
+                <Link>Felicity Jones</Link> as <Link to="/starwars/jyn_erso">Jyn Erso</Link>: A young renegade who is detained for her crimes against the Empire until she is
+                freed by the Rebel Alliance to help steal the plans for the Death Star.
+                <ul>
+                  <li>Beau Gadsdon as eight-year-old Jyn</li>
+                  <li>Dolly Gadsdon as four-year-old Jyn</li>
+                </ul>
+              </li>
+              <li>
+                <Link>Diego Luna</Link> as <Link to="/starwars/cassian_andor">Cassian Andor</Link>: A rebel captain and intelligence officer.
+              </li>
+              <li>
+                <Link>Ben Mendelsohn</Link> as <Link>Orson Krennic</Link>: The director of advanced weapons research for the Imperial military.
+              </li>
+              <li>
+                <Link>Donnie Yen</Link> as <Link>Chirrut Îmwe</Link>: A blind warrior who believes in the Force but is not a Jedi or a Sith. He is said to be one of the 
+                Guardian of the Whills.
+              </li>
+              <li>
+                <Link>Mads Mikkelsen</Link> as <Link>Galen Erso</Link>: Jyn's father and a research scientist.
+              </li>
+              <li>
+                <Link>Alan Tudyk</Link> as the voice and motion-capture of <Link>K-2SO</Link>: a former Imperial enforcer droid who was reprogrammed to serve the Rebellion.
+              </li>
+              <li>
+                Riz Ahmed as <Link>Bodhi Rook</Link>: A former Imperial cargo pilot who defects to the rebels under the influence of Galen Erso.
+              </li>
+              <li>
+                Jiang Wen as <Link>Baze Malbus</Link>: A longtime companion of Chirrut Îmwe and one-time devoted Guardian of the Whills, now a rebel warrior and mercenary.
+              </li>
+              <li>
+                <Link>Forest Whitaker</Link> as <Link>Saw Gerrera</Link>: A veteran of the <Link>Clone Wars</Link> and a friend of the Erso family who had mentored Jyn in her
+                later childhood years.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
