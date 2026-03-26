@@ -16,7 +16,55 @@ const AsajjVentress = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          {/* <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "The Lost Sister"},
+              {id: "1.2", title: "At the count's command", sub2: [
+                {id: "1.2.1", title: "Found by darkness"},
+                {id: "1.2.2", title: "Apprentice to the Sith Lord"},
+                {id: "1.2.3", title: "Business on Cato Neimodia", sub3: [
+                  {id: "1.2.3.1", title: "Meeting Kenobi"},
+                  {id: "1.2.3.2", title: "On the inside"},
+                  {id: "1.2.3.3", title: "Shot, chaser"},
+                  {id: "1.2.3.4", title: "An acolyte's acolyte"},
+                  {id: "1.2.3.5", title: "Versus Skywalker"}
+                ]},
+                {id: "1.2.4", title: "Enemy of the Republic"},
+                {id: "1.2.5", title: "Christophsis"},
+                {id: "1.2.6", title: "The Teth operation", sub3: [
+                  {id: "1.2.6.1", title: "Framing the Jedi"},
+                  {id: "1.2.6.2", title: "Attack on the monastery"},
+                  {id: "1.2.6.3", title: "Final duel and failure"}
+                ]},
+                {id: "1.2.7", title: "Rugosa outreach mission"},
+                {id: "1.2.8", title: "The Kamino operation"},
+                {id: "1.2.9", title: "Proving herself again", sub3: [
+                  {id: "1.2.9.1", title: "Gunning for Gunray"},
+                  {id: "1.2.9.2", title: "Dueling Unduli"}
+                ]},
+                {id: "1.2.10", title: "Further battles"},
+                {id: "1.2.11", title: "Battle of Kamino"},
+                {id: "1.2.12", title: "Protecting the plans"},
+              ]},
+              {id: "1.3", title: "Betrayal and loss", sub2: [
+                {id: "1.3.1", title: "Battle of Sullust"},
+                {id: "1.3.2", title: "Return to Dathomir"},
+                {id: "1.3.3", title: "The Nightbrother"},
+                {id: "1.3.4", title: "Dooku's revenge"}
+              ]},
+              {id: "1.4", title: "The exile's life", sub2: [
+                {id: "1.4.1", title: ""},
+                {id: "1.4.2", title: ""},
+                {id: "1.4.3", title: ""}
+              ]},
+              {id: "1.5", title: ""},
+              {id: "1.6", title: ""},
+              {id: "1.7", title: ""},
+              {id: "1.8", title: ""}
+            ]}
+          /> */}
           <Collapse 
             id="2"
             item="Personality and traits"
