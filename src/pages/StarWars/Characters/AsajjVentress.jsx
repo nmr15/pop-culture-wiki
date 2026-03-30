@@ -16,7 +16,7 @@ const AsajjVentress = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          {/* <Collapse 
+          <Collapse 
             id="1"
             item="Biography"
             sub={[
@@ -55,16 +55,35 @@ const AsajjVentress = () =>
                 {id: "1.3.4", title: "Dooku's revenge"}
               ]},
               {id: "1.4", title: "The exile's life", sub2: [
-                {id: "1.4.1", title: ""},
-                {id: "1.4.2", title: ""},
-                {id: "1.4.3", title: ""}
+                {id: "1.4.1", title: "The Quarzite mission"},
+                {id: "1.4.2", title: "Unexpected alliances"},
+                {id: "1.4.3", title: "Successful hunter"}
               ]},
-              {id: "1.5", title: ""},
-              {id: "1.6", title: ""},
-              {id: "1.7", title: ""},
-              {id: "1.8", title: ""}
+              {id: "1.5", title: "A new purpose", sub2: [
+                {id: "1.5.1", title: "Partnership with Quinlan Vos"},
+                {id: "1.5.2", title: "Against Black Sun"},
+                {id: "1.5.3", title: "Ventress' dark disciple"},
+                {id: "1.5.4", title: "Duel with Dooku"},
+                {id: "1.5.5", title: "Saving Vos", sub3: [
+                  {id: "1.5.5.1", title: "Operation on Serenno"},
+                  {id: "1.5.5.2", title: "Plan to save Vos"},
+                  {id: "1.5.5.3", title: "Rescue of her lover"}
+                ]},
+                {id: "1.5.6", title: "Sacrifice"},
+                {id: "1.5.7", title: "Her story is not yet over"}
+              ]},
+              {id: "1.6", title: "Return to bounty hunting", sub2: [
+                {id: "1.6.1", title: "The clones"},
+                {id: "1.6.2", title: "Before sunset"},
+                {id: "1.6.3", title: "Waves"}
+              ]},
+              {id: "1.7", title: "A new life", sub2: [
+                {id: "1.7.1", title: "Peace and quiet"},
+                {id: "1.7.2", title: "Helping Strata"}
+              ]},
+              {id: "1.8", title: "Legacy"}
             ]}
-          /> */}
+          />
           <Collapse 
             id="2"
             item="Personality and traits"
