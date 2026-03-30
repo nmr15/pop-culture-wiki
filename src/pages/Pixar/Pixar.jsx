@@ -66,7 +66,7 @@ const Pixar = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://1000logos.net/wp-content/uploads/2023/01/Pixar-logo-1536x864.png" alt="Pixar logo" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pixar_logo.svg/960px-Pixar_logo.svg.png" alt="Pixar logo" />
                 </span>
               </td>
             </tr>
@@ -81,6 +81,38 @@ const Pixar = () =>
             <b>Pixar</b>, doing business as <b>Pixar Animation Studios</b>, is an American animation studio based in Emeryville, California, known for
             its critically and commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of
             Disney Entertainment segment of the Walt Disney Company.
+          </p>
+          <p>
+            The studio started in 1979 as part of the <Link>Lucasfilm</Link> computer division. It was known as the <b>Graphics Group</b> before its spin-off as a
+            corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. The studio's mascot is Luxo Jr., a desk lamp
+            from the studio's 1986 short film of the same name. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is
+            best known for its feature films, technologically powered by its RenderMan software. RenderMan began as Pixar's implementation of the industry-standard
+            RenderMan Interface Specification (RISpec) image-rendering API, which came out in 1988; support for RISpec was dropped in 2016. RenderMan became fully
+            path-traced and physically based (PBR).
+          </p>
+          <p>
+            In addition to producing short films, Pixar has produced 30 feature films, with its first film being
+            <Link to="/toy_story/toy_story_film"> Toy Story</Link> (1995), which is also the first fully computer-animated feature film. As of July 2023, its
+            feature films have earned over $17 billion at the worldwide box office with an average gross of $589 million per film.
+            <Link to="/toy_story/toy_story_3"> Toy Story 3</Link> (2010), <Link to="/finding_nemo/finding_dory">Finding Dory</Link> (2016),
+            <Link to="/the_incredibles/the_incredibles_2"> The Incredibles 2</Link> (2018), <Link to="/toy_story/toy_story_4">Toy Story 4</Link> (2019), and
+            <Link to="/inside_out/inside_out_2"> Inside Out 2</Link> all grossed over $1 billion and are among the 50 highest grossing films of all time. Moreover,
+            13 of Pixar's films are in the 50 highest grossing animated films of all time. As of August 2025, Inside Out 2 was the second highest grossing
+            animated film of all time.
+          </p>
+          <p>
+            Pixar has earned 23 Academy Awards, 10 Golden Globe Awards, and 11 Grammy Awards, along with numerous other awards and acknowledgments. Since its
+            inauguration in 2001, eleven Pixar films have won the Academy Awards for Best Animated Feature, including
+            <Link to="/finding_nemo/finding_nemo_film"> Finding Nemo</Link> (2003), <Link to="/the_incredibles/the_incredibles_film">The Incredibles</Link> (2004),
+            <Link to="/pixar/ratatouille"> Ratatouille</Link> (2007), <Link to="/pixar/wall_e">WALL-E</Link> (2008), <Link to="/pixar/up">Up</Link> (2009),
+            Toy Story 3 and Toy Story 4, <Link to="/pixar/brave">Brave</Link> (2012), <Link to="/inside_out/inside_out_film">Inside Out</Link> (2015),
+            <Link to="/coco/coco_film"> Coco</Link>, and <Link to="/pixar/soul">Soul</Link> (2020). Toy Story 3 and Up were also nominated for the Academy Award for
+            Best Picture.
+          </p>
+          <p>
+            In February 2009, Pixar executives <Link>John Lasseter</Link>, <Link>Brad Bird</Link>, <Link>Pete Docter</Link>, <Link>Andrew Stanton</Link>, and
+            <Link> Lee Unkrich</Link> were presented with the Golden Lion for Lifetime Achievement by the Venice Film Festival. The physical award was ceremonially
+            handed to Lucasfilm's founder, <Link>George Lucas</Link>.
           </p>
         </div>
         <div>
