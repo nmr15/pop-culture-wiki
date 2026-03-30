@@ -1,5 +1,8 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
+import TableStarWars from '../../../components/TableStarWars'
 
 const EzraBridger = () =>
 {
@@ -13,6 +16,14 @@ const EzraBridger = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Creation and development"
+            sub={[
+              {id: "1.1", title: "Concept"},
+              {id: "1.2", title: "Voice acting"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -39,8 +50,12 @@ const EzraBridger = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data"><Link>Taylor Gray</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Eman Esfandi</Link></td>
             </tr>
           </tbody>
         </table>
