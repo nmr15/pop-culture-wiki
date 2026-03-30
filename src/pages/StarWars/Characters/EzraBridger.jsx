@@ -152,6 +152,24 @@ const EzraBridger = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#5">Equipment</a></li>
+          <Collapse 
+            id="6"
+            item="Appearances"
+            sub={[
+              {id: "6.1", title: "Television", sub2: [
+                {id: "6.1.1", title: "Star Wars Rebels"},
+                {id: "6.1.2", title: "Forces of Destiny"},
+                {id: "6.1.3", title: "Ahsoka"}
+              ]},
+              {id: "6.2", title: "Novels"},
+              {id: "6.3", title: "Video games"},
+              {id: "6.4", title: "Lego", sub2: [
+                {id: "6.4.1", title: "Lego Star Wars: Droid Tales"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Merchandise</a></li>
+          <li className="sidebar-list-item"><a href="#8">Critical reception</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
