@@ -17,7 +17,40 @@ const RiseOfSkywalker = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Opening crawl</a></li>
-
+          <Collapse 
+            id="2"
+            item="Plot"
+            sub={[
+              {id: "2.1", title: "The hidden Emperor"},
+              {id: "2.2", title: "A vital mission"},
+              {id: "2.3", title: "A Jedi rises"},
+              {id: "2.4", title: "Dark tidings"},
+              {id: "2.5", title: "The Supreme Leader's court"},
+              {id: "2.6", title: "Mission to Pasaana"},
+              {id: "2.7", title: "Desert pursuit"},
+              {id: "2.8", title: "Lair of the veis"},
+              {id: "2.9", title: "A narrow escape"},
+              {id: "2.10", title: "Setback for Rey's team"},
+              {id: "2.11", title: "A new mission"},
+              {id: "2.12", title: "C-3PO's sacrifice"},
+              {id: "2.13", title: "Saving Chewbacca"},
+              {id: "2.14", title: "Glimpses of Rey's past"},
+              {id: "2.15", title: "A new revelation"},
+              {id: "2.16", title: "Mission to Kef Bir"},
+              {id: "2.17", title: "Light vs. darkness"},
+              {id: "2.18", title: "Ben returns"},
+              {id: "2.19", title: "A show of force"},
+              {id: "2.20", title: "Passing the torch"},
+              {id: "2.21", title: "Preparing for war"},
+              {id: "2.22", title: "Into the thick of battle"},
+              {id: "2.23", title: "Sith machinations"},
+              {id: "2.24", title: "A dyad in the Force"},
+              {id: "2.25", title: "Friends to the rescue"},
+              {id: "2.26", title: "Victory and sacrifice"},
+              {id: "2.27", title: "Triumph of the Resistance"},
+              {id: "2.28", title: "Heir to the Skywalkers"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#3">Cast</a></li>
           <Collapse 
             id="4"
