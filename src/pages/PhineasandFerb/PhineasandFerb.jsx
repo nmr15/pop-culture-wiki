@@ -465,6 +465,41 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.2">Crossovers and short series</h3>
+            <p>
+              Disney produced Take Two with Phineas and Ferb, a live-action talk show in which the two titular characters (as cartoons) interview celebrities,
+              similar to Space Ghost Coast to Coast. It aired from December 2010 to November 25, 2011 as a two-minute talk show format featuring real life
+              celebrities. Several other local guests have appeared in countries outside the United States. 
+            </p>
+            <p>
+              Dr. Heinz Doofenshmirtz, pitched his invention on the 2013 season finale of Shark Tank in a crossover episode.
+            </p>
+            <p>
+              "<Link>Phineas and Ferb: Mission Marvel</Link>", a crossover episode with characters from Marvel Entertainment, aired in August 2013 as the 22nd
+              episode of the fourth season. It features <Link to="/marvelcomics">Marvel Comics</Link> superheroes
+              <Link to="/marvelcomics/iron_man"> Iron Man</Link>, <Link to="/marvelcomics/spider_man">Spider-Man</Link>, the
+              <Link to="/marvelcomics/hulk"> Hulk</Link>, and <Link to="/marvelcomics/thor">Thor</Link>, and the villains the <Link>Red Skull</Link>,
+              <Link>Whiplash</Link>, <Link>Venom</Link>, and <Link>M.O.D.O.L.</Link>. It is the first major animated crossover between Marvel and Disney since the
+              acquisition of Marvel Entertainment by Disney in 2009.
+            </p>
+            <p>
+              "<Link>Phineas and Ferb: Star Wars</Link>", a crossover episode with <Link to="/starwars">Star Wars</Link>, aired on July 26, 2014 as the 41st episode
+              of the fourth season, taking place as a periodical sidebar to the events of <Link to="/starwars/a_new_hope">Episode IV: A New Hope</Link> (1977).
+            </p>
+            <p>
+              Povenmire had stated that he would like to do a crossover with his and Marsh's follow up show, Milo Murphy's Law, which takes place in the same
+              universe as Phineas and Ferb. The crossover eventually took place in Milo Murphy's Law's second season premiere, titled "The Phineas and Ferb Effect".
+              The entire Phineas and Ferb cast reprised their roles for the episode, with the exception of Thomas Sangster, the original voice of Ferb, who was
+              instead voiced by David Errigo, Jr. Before the crossover aired, Dr. Heinz Doofenshmirtz cameod at the end of the episode "Fungus Among Us"; following
+              the crossover, the characters Dr. Doofenshmirtz, Perry, Major Monogram, and Carl joined the cast of Milo Murphy's Law in a recurring capacity.
+            </p>
+            <p>
+              In August 2022, Povenmire expressed interest in a crossover between Hamster & Gretel, Phineas and Ferb, and Milo Murphy's Law.
+            </p>
+            <p>
+              In April 2025, two further short-form series spin-offs were announced, including Cartoonified with Phineas and Ferb, and Agent P, Under C, which follows
+              Agent P as he infiltrates rival agency the Alliance of Nefarious Animals That Has an Exceptionally Memorable Acronym (A.N.A.T.H.E.M.A.).
+            </p>
+
             <h3 className="article-heading-3" id="7.3">Fireside Girls scrapped and unconfirmed spinoff series</h3>
             <h3 className="article-heading-3" id="7.4">Video games</h3>
             <h3 className="article-heading-3" id="7.5">Live tour</h3>
