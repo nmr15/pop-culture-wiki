@@ -501,9 +501,59 @@ const PhineasandFerb = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.3">Fireside Girls scrapped and unconfirmed spinoff series</h3>
+            <p>
+              On June 22, 2010, the co-creators of the series revealed that they wish to make a spin-off series about Isabella and the Fireside Girls. Whether
+              this show will happen was still unconfirmed as of late 2011. However, the show later got scrapped in which, is expalained with more details in an online
+              interview by Dan Povenmire in 2020 on Youtube.
+            </p>
+
             <h3 className="article-heading-3" id="7.4">Video games</h3>
+            <p>
+              In 2009, Disney licensed a Nintendo DS video game titled Phineas and Ferb. The game's story follows the title characters as they try to build a
+              rollercoaster. The player controls Phineas, Ferb, and occasionally Perry the Platypus. Phineas scavenges for spare parts for the rollercoaster while
+              Ferb fixes various objects around town, gaining access to new areas as a result. Ferb can also consruct new parts of the coaster and its
+              vehicle-themed carts. Each activity features a short mini-game. The game was well received and garners a 76.67% on GameRankings. A sequel entitled
+              Phineas and Ferb: Ride Again was released on September 14, 2010. Another game, Phineas and Ferb: Across the 2nd Dimension, was released for the Wii and
+              <Link> PlayStation 3</Link>platforms in 2011.
+            </p>
+            <p>
+              In 2012, Walt Disney World opened an interactive game based on the series at Epcot, titled Agent P's World Showcase Adventure, which centered around
+              Perry and Dr. Doofenshmirtz, based on the previous attraction Kim Possible World Showcase Adventure.
+            </p>
+            <p>
+              Also in 2012, Disney Mobile launched a mobile game titled Where's My Perry? for iOS and <Link>Android</Link>. It was based on Disney's popular
+              Where's My Water? game, using similar physics.
+            </p>
+            <p>
+              In 2013, Disney commissioned Majestic Entertainment to create Phineas and Ferb: Quest for Cool Stuff, which was released for the <Link>Xbox 360</Link>,
+              Wii U, Wii, Nintendo 3DS, and Nintendo DS platforms.
+            </p>
+            <p>
+              Phineas and Agent P appear as playable characters n all the video games of the Disney Infinity series. As with the other playable character in the
+              games, tie-in figures for them were also released.
+            </p>
+
             <h3 className="article-heading-3" id="7.5">Live tour</h3>
+            <p>
+              Phineas and Ferb: The Best LIVE Tour Ever was a touring two-act adaptation of the TV show. A projection system played video in the same style as the
+              TV show on the resr of the stage; the characters were first inroduced there in their cartoon forms, but they used a backyard slide that continued into
+              a physical slide, out of which the live cast members emerged into the real world. The performers wore prosthetics to make their characters resemble
+              their cartoon counterparts, mostly head pieces, but a full body suit in the cases of Buford and Perry. The 2011-2012 season of the tour began on
+              August 21, 2011, in Lakeland, Florida and ended on April 22, 2012, in East Rutherford, New Jersey. The 2012-2013 season began on August 23, 2012, in
+              Wheeling, West Virginia and ran until February 18, 2013, in Chattanooga, Tennessee. 
+            </p>
+
             <h3 className="article-heading-3" id="7.6">Merchandise</h3>
+            <p>
+              Disney had licensed a number of products from the show, including figures and plush toys of characters Perry, Ferb, Phineas, and Candace. As with
+              the othe playable characters in the Disney Infinity games, tie-in figures for Phineas and Agent P were also released. Disney released several T-shirts
+              for the show and launched a "Make your own T-shirt" program on its website.
+            </p>
+            <p>
+              Two Season 1 DVDs, entitled The Fast and the Phineas and The Daze of Summer, have been released; the discs include episodes never previously
+              broadcast in the U.S. A third DVD was released on October 5, 2010, called A Very Perry Christmas. Some reviewers were displeased that the discs
+              covered selected episodes rather than the entire series, but noted that Diseny does not generally release full season DVD sets.
+            </p>
           </div>
         </div>
       </main>
