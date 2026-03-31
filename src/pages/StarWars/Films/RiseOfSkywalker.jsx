@@ -28,7 +28,7 @@ const RiseOfSkywalker = () =>
               {id: "2.5", title: "The Supreme Leader's court"},
               {id: "2.6", title: "Mission to Pasaana"},
               {id: "2.7", title: "Desert pursuit"},
-              {id: "2.8", title: "Lair of the veis"},
+              {id: "2.8", title: "Lair of the vexis"},
               {id: "2.9", title: "A narrow escape"},
               {id: "2.10", title: "Setback for Rey's team"},
               {id: "2.11", title: "A new mission"},
@@ -131,6 +131,108 @@ const RiseOfSkywalker = () =>
         </table>
         <div className="div-top">
           
+        </div>
+        <div>
+          <Heading2 id={1} title={"Opening crawl"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Plot"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">The hidden Emperor</h3>
+            <h3 className="article-heading-3" id="2.2">A vital mission</h3>
+            <h3 className="article-heading-3" id="2.3">A Jedi rises</h3>
+            <h3 className="article-heading-3" id="2.4">Dark tidings</h3>
+            <h3 className="article-heading-3" id="2.5">The Supreme Leader's court</h3>
+            <h3 className="article-heading-3" id="2.6">Mission to Pasaana</h3>
+            <h3 className="article-heading-3" id="2.7">Desert pursuit</h3>
+            <h3 className="article-heading-3" id="2.8">Lair of the vexis</h3>
+            <h3 className="article-heading-3" id="2.9">A narrow escape</h3>
+            <h3 className="article-heading-3" id="2.10">Setback for Rey's team</h3>
+            <h3 className="article-heading-3" id="2.11">A new mission</h3>
+            <h3 className="article-heading-3" id="2.12">C-3PO's sacrifice</h3>
+            <h3 className="article-heading-3" id="2.13">Saving Chewbacca</h3>
+            <h3 className="article-heading-3" id="2.14">Glimpses of Rey's past</h3>
+            <h3 className="article-heading-3" id="2.15">A new revelation</h3>
+            <h3 className="article-heading-3" id="2.16">Mission to Kef Bir</h3>
+            <h3 className="article-heading-3" id="2.17">Light vs. darkness</h3>
+            <h3 className="article-heading-3" id="2.18">Ben returns</h3>
+            <h3 className="article-heading-3" id="2.19">A show of force</h3>
+            <h3 className="article-heading-3" id="2.20">Passing the torch</h3>
+            <h3 className="article-heading-3" id="2.21">Preparing for war</h3>
+            <h3 className="article-heading-3" id="2.22">Into the thick of battle</h3>
+            <h3 className="article-heading-3" id="2.23"Sith machinations></h3>
+            <h3 className="article-heading-3" id="2.24">A dyad in the Force</h3>
+            <h3 className="article-heading-3" id="2.25">Friends to the rescue</h3>
+            <h3 className="article-heading-3" id="2.26">Victory and sacrifice</h3>
+            <h3 className="article-heading-3" id="2.27">Triumph of the Resistance</h3>
+            <h3 className="article-heading-3" id="2.28">Heir to the Skywalkers</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Cast"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Development</h3>
+
+
+            <h3 className="article-heading-3" id="4.2">Casting</h3>
+
+
+            <h3 className="article-heading-3" id="4.3">Filming</h3>
+
+
+            <h3 className="article-heading-3" id="4.4">Post-production</h3>
+
+
+            <h3 className="article-heading-3" id="4.5">Music</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Marketing"} />
+          <div>
+            <h3 className="article-heading-3" id="5.1">Promotion</h3>
+
+
+            <h3 className="article-heading-3" id="5.2">Tie-in literature and merchandise</h3>
+
+
+            <h3 className="article-heading-3" id="5.3">Video game</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Release"} />
+          <div>
+            <h3 className="article-heading-3" id="6.1">Theatrical</h3>
+
+
+            <h3 className="article-heading-3" id="6.2">Home media</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={7} title={"Reception"} />
+          <div>
+            <h3 className="article-heading-3" id="7.1">Box office</h3>
+
+
+            <h3 className="article-heading-3" id="7.2">Critical response</h3>
+
+
+            <h3 className="article-heading-3" id="7.3">Audience response</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={8} title={"Future"} />
+          <div>
+            
+          </div>
         </div>
       </main>
     </>
