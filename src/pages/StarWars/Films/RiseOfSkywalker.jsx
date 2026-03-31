@@ -135,7 +135,10 @@ const RiseOfSkywalker = () =>
             produced, co-written, and directed by <Link>J. J. Abrams</Link>. Produced by <Link>Lucasfilm</Link> and Bad Robot, and distributed by Walt Disney
             Studios Motion Pictures, it is the third installment of the <Link to="/starwars">Star Wars</Link> <Link>sequel trilogy</Link>, following
             <Link to="/starwars/the_force_awakens"> The Force Awakens</Link> (2015) and <Link to="/starwars/the_last_jedi">The Last Jedi</Link> (2017), and the final
-            episode of the nine part "<Link>Skywalker saga</Link>." Its cast includes <Link>Carrie Fisher</Link>, <Link>Mark Hamill</Link>, 
+            episode of the nine part "<Link>Skywalker saga</Link>." Its cast includes <Link>Carrie Fisher</Link>, <Link>Mark Hamill</Link>,
+            <Link>Adam Driver</Link>, <Link>Daisy Ridley</Link>, <Link>John Boyega</Link>, <Link>Oscar Isaac</Link>, <Link>Anthony Daniels</Link>, Naomi Ackie,
+            Domhnall Gleeson, Richard E. Grant, <Link>Lupita Nyong'o</Link>, Keri Russell, Joonas Suotamo, Kelly Marie Tran, <Link>Ian McDiarmid</Link>,
+            <Link>Billy Dee Williams</Link>, and <Link>Harrison Ford</Link>.
           </p>
         </div>
         <div>
