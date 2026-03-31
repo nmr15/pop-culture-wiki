@@ -130,7 +130,13 @@ const RiseOfSkywalker = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Star Wars: The Rise of Skywalker</b> (also known as <b>Star Wars: Episode IX - The Rise of Skywalker</b>) is a 2019 American epic space opera film
+            produced, co-written, and directed by <Link>J. J. Abrams</Link>. Produced by <Link>Lucasfilm</Link> and Bad Robot, and distributed by Walt Disney
+            Studios Motion Pictures, it is the third installment of the <Link to="/starwars">Star Wars</Link> <Link>sequel trilogy</Link>, following
+            <Link to="/starwars/the_force_awakens"> The Force Awakens</Link> (2015) and <Link to="/starwars/the_last_jedi">The Last Jedi</Link> (2017), and the final
+            episode of the nine part "<Link>Skywalker saga</Link>." Its cast includes <Link>Carrie Fisher</Link>, <Link>Mark Hamill</Link>, 
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Opening crawl"} />
