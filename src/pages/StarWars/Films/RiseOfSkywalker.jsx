@@ -136,9 +136,26 @@ const RiseOfSkywalker = () =>
             Studios Motion Pictures, it is the third installment of the <Link to="/starwars">Star Wars</Link> <Link>sequel trilogy</Link>, following
             <Link to="/starwars/the_force_awakens"> The Force Awakens</Link> (2015) and <Link to="/starwars/the_last_jedi">The Last Jedi</Link> (2017), and the final
             episode of the nine part "<Link>Skywalker saga</Link>." Its cast includes <Link>Carrie Fisher</Link>, <Link>Mark Hamill</Link>,
-            <Link>Adam Driver</Link>, <Link>Daisy Ridley</Link>, <Link>John Boyega</Link>, <Link>Oscar Isaac</Link>, <Link>Anthony Daniels</Link>, Naomi Ackie,
+            <Link> Adam Driver</Link>, <Link>Daisy Ridley</Link>, <Link>John Boyega</Link>, <Link>Oscar Isaac</Link>, <Link>Anthony Daniels</Link>, Naomi Ackie,
             Domhnall Gleeson, Richard E. Grant, <Link>Lupita Nyong'o</Link>, Keri Russell, Joonas Suotamo, Kelly Marie Tran, <Link>Ian McDiarmid</Link>,
-            <Link>Billy Dee Williams</Link>, and <Link>Harrison Ford</Link>.
+            <Link> Billy Dee Williams</Link>, and <Link>Harrison Ford</Link>. The film follows <Link>Rey</Link>, <Link>Finn</Link>, and <Link>Poe Dameron</Link> as
+            they lead the remnants of the <Link>Resistance</Link> in a final stand against Supreme Leader <Link>Kylo Ren</Link> and the <Link>First Order</Link>,
+            who are now allied by the resurrected <Link>Sith</Link> Lord, <Link to="/starwars/sheev_palpatine">Emperor Palpatine</Link>, Rey's paternal grandfather.
+          </p>
+          <p>
+            Following initial reports that The Last Jedi director <Link>Rian Johnson</Link> would write the script for Episode IX, in August 2015, Colin Trevorrow
+            was hired to direct and to write a script with his collaborator Derek Connolly; both ultimately retain story credit with Abrams and Chris Terrio. In
+            September 2017, Trevorrow left the project following creative differences with producer Kathleen Kennedy, and Abrams returned as director.
+            <Link> John Williams</Link>, composer for the previous episodic films, returned to compose the score, making it his final score for the franchise.
+            Principal photography began in August 2018 at Pinewood Studios in England and wrapped in February 2019, with post-production completed in November 2019.
+            With a net budget of approximately $490.2 million, it is the second most expensive film ever made.
+          </p>
+          <p>
+            The Rise of Skywalker premiered in Hollywood, Los Angeles, on December 16, 2019, and was released in the United States on December 20. The film received
+            mixed reviews from critics and grossed $1.077 billion, making it the seventh highest grossing film of 2019, but also the lowest grossing of the sequel
+            trilogy. It received three nominations at the 92nd Academy Awards (Best Original Score, Best Visual Effects, and Best Sound Editing) as well as three at
+            the 73rd British Academy Film Awards (also Best Visual Effects, Best Original Music, and Best Sound). It won five awards at the 46th Saturn Awards,
+            including Best Science Fiction Film.
           </p>
         </div>
         <div>
