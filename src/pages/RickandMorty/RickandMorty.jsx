@@ -170,6 +170,31 @@ const RickandMorty = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              Rick and Morty was created by Justin Roiland and Dan Harmon. The duo first met at Channel 101, a non-profit monthly short film festival in Los
+              Angeles co-founded by Harmon. At Channel 101, participants submit a short film in the format of a pilot, and a live audience decides which pilots
+              continue as a series. Roiland, then a producer on reality programming, began submitting content to the festival a year after its launch, in 2004.
+              His pilots typically consist of shock value, "sick and twisted" elements that received a confused reaction from the audience. Nevertheless, Harmon
+              took a liking to his humor and the two began collaborating. In 2006, Roiland was fired from working on a television series he regardes as creatively
+              stifling, and funneled his creative energies into creating a webisode for Channel 101. The result was The Real Animated Adventures of Doc and Mharti,
+              an animated short starring parodies of Doc Brown and Marty McFly, characters from the Back to the Future film trilogy. In the short, which Harmon
+              would dub "a bastardization, a pornographic vandalization", Doc Smith urges Mharti to perform oral sex on him in order to get back in time. The
+              audience reacted to it wildly, and Roiland began creating more shorts involving the characters, which soon evolved beyond his original intentions and
+              their obvious origin within the film from which it was cullen. Harmon would later create and produce <Link to="/community">Community</Link>, an NBC
+              sitcom, while Roiland would work primarily in voice acting for Disney's Fish Hooks and Cartoon Network's
+              <Link to="/adventuretime"> Adventure Time</Link>.
+            </p>
+            <p>
+              In 2012, Harmon was briefly fired from Community. Adult Swim, searching for a more primetime, "hit" show, shortly afterward approached Harmon, who
+              initially viewed the channel as unfit for his style. He was also unfamiliar with animation and his process for creating television focused more
+              heavily on dialogue, characters, and story. Instead, he phoned Roiland to inquire if he had any ideas for an animated series. Roiland immediately
+              brought up the idea of using the Doc and Mharti characters, renamed Rick and Morty. At first, Roiland wanted the show's run to consist of one
+              eleven-minute segment, but Adult Swim pushed for a half-hour program. Harmon felt the best way to etend the voices into a program would be to build a
+              family around the characters, while Adult Swim development executive Nick Weidenfeld suggested that Rick be Morty's grandfather. Having pitched multiple
+              television programs that did not get off the ground, Roiland was initially very unreceptive to others attempting to give notes on his pitch. Prior to
+              developing Rick and Morty, he had created three failed animated pilots for Fox, and he had begun to feel "burned out" with developing television.
+            </p>
+
             <h3 className="article-heading-3" id="3.2">Writing</h3>
             <h3 className="article-heading-3" id="3.3">Animation and voice recording</h3>
             <h3 className="article-heading-3" id="3.4">Roiland's firing</h3>
