@@ -119,7 +119,21 @@ const RickandMorty = () =>
             grandson into hijinks.
           </p>
           <p>
-            Roiland initially voiced Morty and Rick with <Link>Christ Parnell</Link> as 
+            Roiland initially voiced Morty and Rick with Chris Parnell as <Link to="/rick_and_morty/jerry_smith">Jerry</Link>, Spencer Grammer as
+            <Link to="/rick_and_morty/summer_smith"> Summer</Link> and Sarah Chalke as <Link to="/rick_and_morty/beth_smith">Beth</Link> also star. The series
+            originated from an animated short parody film of Back to the Future created by Roiland for Channel 101, a short film festival Harmon co-founded. A seventh
+            season was confirmed as part of a long-term deal with Cartoon Network that ordered 70 new episodes, and by 2024 renewed the series through a twelfth
+            season. 
+          </p>
+          <p>
+            Adult Swim cut ties with Roiland in 2023 amid allegations of domestic abuse and recast his roles with Ian Cardoni and Harry Belden taking over beginning
+            with the seventh season premiering in October 2023. 
+          </p>
+          <p>
+            Since its debut, the series has received critical acclaim for its writing, originality, creativity, and humor. It has been nominated for three Primetime
+            Emmy Awards for Outstanding Animated Program and won the award in 2018 and 2020. The series has also received two Annie Awards. At times, the series has
+            been the most viewed television comedy for adults between 18 and 24. The popularity of Rick and Morty has made it a hundred-million dollar merchandising
+            and media franchise. 
           </p>
         </div>
         <div>
