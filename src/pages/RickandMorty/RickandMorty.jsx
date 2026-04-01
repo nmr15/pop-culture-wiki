@@ -194,8 +194,38 @@ const RickandMorty = () =>
               television programs that did not get off the ground, Roiland was initially very unreceptive to others attempting to give notes on his pitch. Prior to
               developing Rick and Morty, he had created three failed animated pilots for Fox, and he had begun to feel "burned out" with developing television.
             </p>
+            <p>
+              The first draft was completed in six hours on the Paramount Pictures lot in Dan Harmon's unfurnished Community office. The duo had worked out the
+              basics of the story that day, sold the pilot, and then sat down to write. Roiland, while acknowledging a tendency for procastination, encouraged
+              Harmon to stay and write the entire first draft. "We were sitting on the floor, cross-legged with laptops and I was about to get up and go home and he
+              said, 'Wait, if you go home, it might take us three months to thing. Stay here right now and we can write it in six hours.' He just had a premonition
+              about that," recalled Harmon. In the beginning, Adult Swim was unsure of Roiland doing both voices, partially due to the undeveloped nature of the
+              character of Morty. Harmon wrote four short premises in which Morty took a more assertive role and sent it to Mike Lazzo. For the first season, Adult
+              Swim placed a tamer-than-usual TV-14 rating on the program, which was initially met with reluctance from the show's staff. The network's reason behind
+              the rating was that it would soon begin broadcasting in primetime, competing with major programs. Many later episodes have received TV-MA ratings, with
+              the first being the episode "Interdimensional Cable 2: Tempting Fate" in season 2.
+            </p>
+            <p>
+              The theme song for Rick and Morty by Ryan Elder was originally used in a rejected Cartoon Network pilot Roiland made called "Dog World", which was
+              referenced in the episode "Lawnmower Dog."
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Writing</h3>
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:Mike_McMahan_by_Gage_Skidmore.jpg" alt="Mike McMahan" />
+              <p>Mike McMahan at 2019 San Diego Comic-Con</p>
+            </div>
+            <p>
+              Harmon noted that the writers' room at the show's studio bears a striking resemblance to the one used for Community. In comparing the two, he noted that
+              the writing staff of Rick and Morty was significantly smaller, and more "rough and tumble verbally." The first season writing staff consisted of Roiland,
+              Harmon, Tom Kauffman, Ryan Ridley, Wade Randolph, and Eric Acosta, while writer's assistant Mike McMahan was also given writing credit. Described as a
+              "very, very tiny little writers' room with a lot of heavy lifting from everybody," the show's writing staff, like many Adult Swim productions, is not
+              unionized with the Writers Guild of America, though in 2022 production staff at Rick & Morty filed a petition for a union election with the National
+              Labor Relations Board in a bid to join The Animation Guild. The writing staff first meets and discusses ideas, which evolve into a story. Discussions
+              often include anecdotes from personal life as well as thoughts on the science fiction genre. After breaking the story, which consists of developing its
+              consistency and logical beginning, middle, and conclusion, a writer is assigned to create an outline.
+            </p>
+
             <h3 className="article-heading-3" id="3.3">Animation and voice recording</h3>
             <h3 className="article-heading-3" id="3.4">Roiland's firing</h3>
           </div>
