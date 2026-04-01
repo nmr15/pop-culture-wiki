@@ -219,6 +219,15 @@ const RiseOfSkywalker = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.2">A vital mission</h3>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/c/cc/Finn-Falcon-Gunner.jpg" alt="Finn in the Falcon" />
+              <p>Finn manning one of the Millennium Falcon's cannons.</p>
+            </div>
+            <p>
+              Meanwhile, on the <Link>Millennium Falcon</Link>, Finn and Poe Dameron engage <Link to="/starwars/chewbacca">Chewbacca</Link> in an intense game of
+              dejarik. Chewbacca takes some time considering his 
+            </p>
+
             <h3 className="article-heading-3" id="2.3">A Jedi rises</h3>
             <h3 className="article-heading-3" id="2.4">Dark tidings</h3>
             <h3 className="article-heading-3" id="2.5">The Supreme Leader's court</h3>
