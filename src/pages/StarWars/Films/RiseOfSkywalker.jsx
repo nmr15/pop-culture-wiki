@@ -200,6 +200,23 @@ const RiseOfSkywalker = () =>
               Lightning dances around the young dark side adept as he listens to the taunting words, spken in a voice transitioning from that of the Emperor to that
               of Snoke and, finally, to that of Vader: "I have been every voice... you have ever heard... inside your head."
             </p>
+            <p>
+              Ren, unshaken, proceeds further into the citadel, walking for some time among the towering effigies. His path lit by his blade, he eventually wanders
+              into a maze of unfamiliar equipment tended to by robed acolyts. Tall cylinders filled with a sickly golden liquid hold motionless, incomplete bodies
+              with the mutilated visage of the dead Snoke, confirming the Sith Lord's earlier words. Among these machines, bound by innumerable tubes and wires to
+              machines of support and sustenance, is the emaciated and decaying figure of Darth Sidious, the true identity of the former Emperor Palpatine himself.
+            </p>
+            <p>
+              Sidious speaks, explaining to Ren that he has died before, and that the dark side is a pathway to many abilities that some consider unnatural. Ren
+              raises his lightsaber, but the threat seems to leave Sidious unfazed. Ren asks the Emperor what he could give him, and Sidious replies that he can give
+              him everything: a new Empire.
+            </p>
+            <p>
+              At the surface of Exegol, the icy ground cracks and yields as innumerable Xyston-class <Link>Star Destroyers</Link> emerge from the frozen sea into the
+              tempestuous sky. As the fleet rises, Sidious offers to give Ren command of what he calls the Final Order in return for killing Rey, the last Jedi, and
+              thus ending the Jedi Order and becoming what his grandfather, Vader, could not. He tells Ren that he will rule all the galaxy as the new Emperor, but
+              he also issues a warning that Rey is not who he thinks she is. Ren asks Sidious who Ren is as thunder crackles.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">A vital mission</h3>
             <h3 className="article-heading-3" id="2.3">A Jedi rises</h3>
