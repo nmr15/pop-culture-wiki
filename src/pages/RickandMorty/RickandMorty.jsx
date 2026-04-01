@@ -109,7 +109,18 @@ const RickandMorty = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Rick and Morty</b> is an American adult animated science fiction sitcom created by <Link>Justin Roiland</Link> and <Link>Dan Harmon</Link> for
+            <Link> Cartoon Network</Link>'s nighttime programming block <Link>Adult Swim</Link>. The series follows the misadeventures of
+            <Link to="/rick_and_morty/rick_sanchez"> Rick Sanchez</Link>, a cynical mad scientist, and his good-hearted but fretful grandson
+            <Link to="/rick_and_morty/morty_smith"> Morty Smith</Link>, who split their time between domestic life and interdimensional adventures that take
+            place across an infinite number of realities, often traveling to other planets and dimensions through portals and on Rick's <Link>flying saucer</Link>.
+            The general concept of Rick and Morty relies on two conflicting scenarios: domestic family drama and a misanthropic grandfather dragging his
+            grandson into hijinks.
+          </p>
+          <p>
+            Roiland initially voiced Morty and Rick with <Link>Christ Parnell</Link> as 
+          </p>
         </div>
         <div>
           <Heading2 id={1} title={"Premise"} />
