@@ -161,13 +161,46 @@ const RiseOfSkywalker = () =>
         <div>
           <Heading2 id={1} title={"Opening crawl"} />
           <div>
-
+            <div className="article-quote">
+              <p>
+                The dead speak! The galaxy has heard a mysterious broadcast, a threat of REVENGE in the sinister voice of the late EMPEROR PALPATINE.
+              </p>
+              <p>
+                GENERAL LEIA ORGANA dispatches secret agents to gather intelligence, while REY, the last hope of the Jedi, trains for battle against the diabolical
+                FIRST ORDER.
+              </p>
+              <p>
+                Meanwhile, Supreme Leader KYLO REN rages in search of the phantom Emperor, determined to destroy any threat to his power....
+              </p>
+            </div>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Plot"} />
           <div>
             <h3 className="article-heading-3" id="2.1">The hidden Emperor</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/a/a8/SidiousandKyloRen-TROS.jpg" alt="Palpatine" />
+              <p>Kylo Ren confronts the Emperor.</p>
+            </div>
+            <p>
+              One year after the events of The Last Jedi, a broadcast using the voice of the presumed deceased Emperor Palpatine is transmitted across the galaxy,
+              which threatens revenge. Supreme Leader Kylo Ren leads a vicious assault against Alazmec colonists on a healing <Link>Mustafar</Link>, seeking a
+              Sith wayfinder owned by Ren's grandfather, the Sith Lord <Link to="/starwars/anakin_skywalker">Darth Vader</Link>. Ren wants to use the device as a
+              guide in his hunt for the source of the broadcast, which he perceives as a threat to his power. The Supreme Leader slaughters many Alazmec cultists
+              alongside his <Link>stormtroopers</Link> before retrieving the device and slotting it into his TIE whisperer, allowing its dark powers to lead him
+              through the crimson nebula that surrounds the fabled Sith world of <Link>Exegol</Link>.
+            </p>
+            <p>
+              Landing at the base of an enormous citadel, Ren ignites his blade and enters. He descends down a floating platform into a vast chamber lined with worn
+              statues of Sith legends. As he descends into its depths, he hears the voice of Palpatine telling him that <Link>Snoke</Link> trained him well. Ren
+              responds that he had killed Snoke, but the voice replies that he "made" Snoke. 
+            </p>
+            <p>
+              Lightning dances around the young dark side adept as he listens to the taunting words, spken in a voice transitioning from that of the Emperor to that
+              of Snoke and, finally, to that of Vader: "I have been every voice... you have ever heard... inside your head."
+            </p>
+
             <h3 className="article-heading-3" id="2.2">A vital mission</h3>
             <h3 className="article-heading-3" id="2.3">A Jedi rises</h3>
             <h3 className="article-heading-3" id="2.4">Dark tidings</h3>
