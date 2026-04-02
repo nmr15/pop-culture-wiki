@@ -223,10 +223,41 @@ const RickandMorty = () =>
               unionized with the Writers Guild of America, though in 2022 production staff at Rick & Morty filed a petition for a union election with the National
               Labor Relations Board in a bid to join The Animation Guild. The writing staff first meets and discusses ideas, which evolve into a story. Discussions
               often include anecdotes from personal life as well as thoughts on the science fiction genre. After breaking the story, which consists of developing its
-              consistency and logical beginning, middle, and conclusion, a writer is assigned to create an outline.
+              consistency and logical beginning, middle, and conclusion, a writer is assigned to create an outline, and from there the episode undergoes several
+              more drafts. The final draft of the script is last approved by either of the co-creators. Harmon has admitted that his perfectionism can sometimes be
+              disruptive and cause writing schedule delays. For the most part, this was the reason why the third season of the show consisted of only 10 episodes
+              instead of 14, as was initially intended.
+            </p>
+            <p>
+              Many episodes are structured with use of a story circle, a Harmon creation based largely on Joseph Campbell's monomyth, or The Hero's Journey. It's
+              two-act structure places the act break at an odd location in the stages of the monomyth: after The Meeting with the Goddess, instead of Atonement with
+              the Father. Roiland has stated his and Harmon's intentions for the series to lack traditional continuity, opting for discontinuous storylines "not
+              bound by rules." He has also confirmed that the writers avoid revisiting old tropes from the show's past, "in fears of that coming off as disingenuous
+              fan service." In producing the series' first season, episodes were occasionally written out of order. For example, "Rick Potion #9" was the second
+              episode written for the seris, but was instructed to be animated as the fifth, as it would make more sense with the series' continuity.
             </p>
 
             <h3 className="article-heading-3" id="3.3">Animation and voice recording</h3>
+            <p>
+              Animation for the show is done using Toon Boom Harmony, a vector-based 2D puppet software, which is a more economical option than traditional
+              hand-darawn animation. The post-production work is done in Adobe After Effects, and background art is done in Adobe Photoshop. Production of
+              animation was handled by Bardel Entertainment in Vancouver, Canada for the first eightt seasons, Mercury Filmworks in Ottawa, Canada since the
+              ninth season, and by Lighthouse Studios in Kilkenny, Ireland since the seventh season.
+            </p>
+            <p>
+              Roiland's cartooning style is heavily indebted to The Simpsons, a factor he acknowledged in a 2013 interview, while also comparing his style to that
+              of <Link>Pendleton Ward</Link> (Adventure Time) and <Link>J. G. Quintel</Link> (Regular Show): "You'll notice mouths are kind of similar and teeth are
+              similar, but I think that's also a stylistic thing that... all of us are kind of the same age, and we're all inspired by The Simpsons and all these
+              other shows we're kind of subconsciously tapping into."
+            </p>
+            <p>
+              John Kricfalusi's The Ren & Stimpy Show was another strong influence for Rick and Morty, which is why, according to Roiland, the small "w-shaped mouths"
+              that the characters occasionally make is a reference to a similar expression that Ren frequently makes. Talking about the style guide the animatiors of
+              the show have to follow, season three art director Jeffrey Thompson explained that the characters are often drawn with odd or asymmetrical features, in
+              order to avoid looking "too normal to live in the Rick and Morty universe." When recording dialogue, Roiland does a considerable amount of improvisation,
+              in order to make the characters feel more natural.
+            </p>
+
             <h3 className="article-heading-3" id="3.4">Roiland's firing</h3>
           </div>
         </div>
