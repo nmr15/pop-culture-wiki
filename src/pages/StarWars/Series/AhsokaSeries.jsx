@@ -51,11 +51,13 @@ const TableAhsokaEps = () =>
               <tr>
                 <td>{ahsEps.season}</td>
                 <td>{ahsEps.episode}</td>
-                <td>{ahsEps.img}</td>
+                <td>
+                  <img src={ahsEps.img} alt="" />
+                </td>
                 <td>{ahsEps.title}</td>
               </tr>
               <tr>
-                <td rowSpan={4}>{ahsEps.description}</td>
+                <td colSpan={4}>{ahsEps.description}</td>
               </tr>
             </>
           ))}
