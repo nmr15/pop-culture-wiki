@@ -223,6 +223,15 @@ const AhsokaSeries = () =>
                   </li>
                 </ul>
               </li>
+              <li>
+                <Link>Natasha Liu Bordizzo</Link> as <Link to="/starwars/sabine_wren">Sabine Wren</Link>: <br />
+                A <Link>Mandalorian</Link> warrior with a creative and rebellious spirit who fought the Galactic Empire in Rebels. The series reveals that Ahsoka took
+                Sabine on as her <Link>Padawn</Link> learner after Rebels, but they parted ways when Sabine's family were killed during the purge of Mandalore. Filoni
+                wanted to show someone training to be a Jedi who does not have a strong connection to the Force, feeling that would differentiate the story from
+                previous Star Wars projects. Bordizzo found Sabine's challenges with learning to use the Force relatable to her own life. She watched Rebels to
+                prepare for the role, describing it as a "memory book" for Sabine, and trained for three months to fight with a lightsaber. Bordizzo wore wigs for
+                Sabine's colorful hair: first, a long wig that was made purple and orange with hair dye, then a short wig made purple with fabric dye.
+              </li>
             </ul>
 
             <h3 className="article-heading-3" id="2.2">Recurring</h3>
