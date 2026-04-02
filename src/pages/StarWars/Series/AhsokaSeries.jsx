@@ -184,6 +184,13 @@ const AhsokaSeries = () =>
             viewership, generally positive reviews from critics, and several accolades including a Primetime Creative Arts Emmy Award. A second season was onfirmed in January 2024.
           </p>
         </div>
+        <div>
+          <Heading2 id={3} title={"Episodes"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Season 1</h3>
+            <TableAhsokaEps />
+          </div>
+        </div>
         <TableAhsoka />
       </main>
     </>
