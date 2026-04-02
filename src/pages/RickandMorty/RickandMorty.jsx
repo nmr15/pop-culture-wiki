@@ -259,6 +259,20 @@ const RickandMorty = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.4">Roiland's firing</h3>
+            <p>
+              In January 2023, it was reported that Roiland was charged with felony domestic battery and false imprisonment in Orange County, California, in
+              connection with an alleged incident in January 2020 toward an unarmed woman he was reportedly dating at the time. A hearing was scheduled for April 27,
+              2023. Following the public revelation of the incident, allegations were made against Roiland's personal conduct regarding his behavior to minors on
+              social media. The same month, Adult Swim announced that they had cut ties with Roiland and fire him from the show stating that the seventh season's
+              production would continue and that his roles would be recast. In March 2023, the Orange County District Attorney's office sroped all criminal charges
+              against Roiland due to insufficient evidence.
+            </p>
+            <p>
+              During San Diego Comic-Con 2023, producer Steve Levy stated that Roiland's voice work will be replaced by "soundalikes" but there will otherwise be no
+              change in the character. Adult Swim revealed the new voices of Rick and Morty with its seventh season trailer in September 2023, but the new actors
+              were not announced until the season's premiere in October. When the seventh season premiered on October 15, 2023, it was revealed that the new actors
+              were Ian Caroni as Rick and Harry Belden as Morty.
+            </p>
           </div>
         </div>
         <div>
