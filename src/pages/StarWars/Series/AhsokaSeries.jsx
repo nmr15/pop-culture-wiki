@@ -32,6 +32,39 @@ export const TableAhsoka = () =>
   )
 }
 
+const TableAhsokaEps = () =>
+{
+  return(
+    <div>
+      <table className="table-center">
+        <thead>
+          <tr>
+            <th>Season</th>
+            <th>Episode</th>
+            <th>Image</th>
+            <th>Title</th>
+          </tr>
+        </thead>
+        <tbody>
+          {starwarsAhsokaEps.map((ahsEps) => (
+            <>
+              <tr>
+                <td>{ahsEps.season}</td>
+                <td>{ahsEps.episode}</td>
+                <td>{ahsEps.img}</td>
+                <td>{ahsEps.title}</td>
+              </tr>
+              <tr>
+                <td rowSpan={4}>{ahsEps.description}</td>
+              </tr>
+            </>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )
+}
+
 const AhsokaSeries = () =>
 {
   useEffect(() =>
