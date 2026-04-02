@@ -187,6 +187,50 @@ const AhsokaSeries = () =>
           </p>
         </div>
         <div>
+          <Heading2 id={1} title={"Premise"} />
+          <div>
+            <p>
+              After the fall of the <Link>Galactic Empire</Link> in the film Return of the Jedi (1983), former Jedi apprentice Ahsoka Tano joins with her own former
+              apprentice, Sabine Wren, and other characters from the animated series Star Wars Rebels (2014-2018) to prevent Grand Admiral Thrawn, who is stranded in
+              another galaxy, from returning and uniting the remnants of the Empire against the fledging New Republic. The first season ends with Thrawn returning
+              from the other galaxy, leaving Ahsoka and Sabine stranded there. In the second season, Ahsoka and Sabine go on a journey related to the mysterious
+              Mortis gods and confront the fallen Jedi Baylan Skoll while Thrawn leads the Empire against the New Republic.
+            </p>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Cast and characters"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">Starring</h3>
+            <ul className="article-list">
+              <li>
+                <Link>Rosario Dawson</Link> as <Link to="/starwars/ahsoka_tano">Ahsoka Tano</Link>: <br />
+                The <Link>Togruta</Link> former Jedi apprentice of Anakin Skywalker. She leaves the Jedi Order in the animated series
+                <Link to="/starwars/the_clone_wars_series">Star Wars: The Clone Wars</Link> (2008-2020), and learns that Anakin has fallen to the dark side of the
+                Force in the follow-up animated series Star Wars Rebels (2014-2018). The repercussions of this are explored in Ahsoka, which begins with the character
+                as a wandering ronin similar to the character of Akira Kurosawa's film Yojimbo (1961). Borrowing from J. R. R. Tolien's novel The Lord of the Rings
+                (1954-55), in which the wandering Gandalf the Grey is reborn as the wise and powerful Gandalf the White, showrunner Dave Filoni depicted Ahsoka's
+                development as "Ahsoka the Gray" becoming "Ahsoka the White". Dawson praised The Clone Wars and Rebels voice actor <Link>Ashley Eckstein</Link> and
+                said she was building on that animated history. She emraced the training required to replicate the animated character's fighting abilities, and the
+                makeup and prosthetics needed o adapt the character's alien appearance; Ahsoka has orange skin, white markings on her face, and blue-andwhite
+                montrails (horns) and lekku (head tails). New technology was developed to create the montrails and lekku, allowing them to be bigger and more
+                realistic than in previous Star Wars series.
+                <ul>
+                  <li>
+                    <Link>Ariana Greenblatt</Link> as young Ahsoka, appearing as part of a flashback that Ahsoka has to her time in the <Link>Clone Wars</Link> while
+                    inside the mysterious "World Between Worlds." To prepare for the role, Greenblatt watched many The Clone Wars episodes and also visited the set of
+                    Ahsoka to see Dawson's performance, hoping to combine the character's portrayal in The Clone Wars with Dawson's version.
+                  </li>
+                </ul>
+              </li>
+            </ul>
+
+            <h3 className="article-heading-3" id="2.2">Recurring</h3>
+
+            <h3 className="article-heading-3" id="2.3">Guests</h3>
+          </div>
+        </div>
+        <div>
           <Heading2 id={3} title={"Episodes"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Season 1</h3>
