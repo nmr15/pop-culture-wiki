@@ -232,6 +232,31 @@ const AhsokaSeries = () =>
                 prepare for the role, describing it as a "memory book" for Sabine, and trained for three months to fight with a lightsaber. Bordizzo wore wigs for
                 Sabine's colorful hair: first, a long wig that was made purple and orange with hair dye, then a short wig made purple with fabric dye.
               </li>
+              <li>
+                <Link>Mary Elizabeth Winstead</Link> as <Link to="/starwars/hera_syndulla">Hera Syndulla</Link>: <br />
+                A <Link>Twi'lek</Link> general of the New Republic who is the pilot of the <Link>Ghost</Link>. She fought the Empire in Rebels. Winstead described
+                Hera as a strong leader and fighter with maternal instinct, and felt this was uniue compared to the usual depiction of army generals in media as
+                "very masculine, hard figures." She added that it was a luxury to be able to see Hera's story told in Rebels when developing her portrayal. Hera has
+                green skin and lekku, which took around three hours to apply to Winstead in the initial test. This was eventually reduced to an hour, which Winstead
+                noted was a normal amount of time to get make-up applied for a series.
+              </li>
+              <li>
+                <Link>Ray Stevenson</Link> (season 1) and <Link>Rory McCann</Link> (season 2) as <Link>Baylan Skoll</Link>: <br />
+                A former Jedi who survived the organization's destruction during <Link>Order 66</Link> at the end of the Clone Wars. He has deemed the Jedi Order a
+                failure and is now searching for a new power, related to the Mortis gods from The Clone Wars, to end the cycle of destruction between the light and
+                dark sides of the Force. Despite being an antagonist in the series, Stevenson did not consider Baylan to be a villain and debated whether he was
+                with Filoni during filming. Filoni wanted Baylan's fighting style to be like a medieval knight, wielding his lightsaber like a claymore. Episodic
+                director Peter Ramsay felt this suited Stevenson's physically and differentiate him from the Jedi characters. The character is named after the wolf
+                Skoll from Norse mythology. The series premiere is dedicated to Stevenson, who died in May 2023 after completing his work on the first season. McCann
+                felt it was the right decision to recast the role and continue the character's story. He said his experience sword fighting on the series Game of
+                Thrones (2011-2019) helped with his lightsaber training for the role.
+              </li>
+              <li>
+                Ivanna Sakhno as Shin Hati: <br />
+                Baylan's apprentice, who he is teaching to be "something more" than a Jedi. Sakhno said Hati was calculated but impatient, and just finding her own
+                voice in the series. She was encouraged by Filoni to help develop elements of the character's backstory. Sakhno said she and Stevenson were
+                inseparable during filming and he had a big impact on her life. The character's named after the wolf Hati from Norse mythology.
+              </li>
             </ul>
 
             <h3 className="article-heading-3" id="2.2">Recurring</h3>
