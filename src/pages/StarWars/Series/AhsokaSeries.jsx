@@ -257,6 +257,48 @@ const AhsokaSeries = () =>
                 voice in the series. She was encouraged by Filoni to help develop elements of the character's backstory. Sakhno said she and Stevenson were
                 inseparable during filming and he had a big impact on her life. The character's named after the wolf Hati from Norse mythology.
               </li>
+              <li>
+                Diana Lee Inosanto as Morgan Elsbeth: One of the last remaining <Link>Nightsister</Link> witches of <Link>Dathomir</Link> who is allied with Grand
+                Admiral Thrawn.
+              </li>
+              <li>
+                <Link>David Tennant</Link> as the voice of <Link>Huyang</Link>: A lightsaber-crafting droid that has been instructing Jedi for thousands of years.
+              </li>
+              <li>
+                Eman Esfandi as <Link to="/starwars/ezra_bridger">Ezra Bridger</Link>: A former thief from <Link>Lothal</Link> who was trained as a Jedi by
+                <Link to="/starwars/kanan_jarrus"> Kanan Jarrus</Link> and disappeared with Thrawn at the end of Rebels.
+              </li>
+              <li>
+                Evan Whitten as <Link>Jacen Syndulla</Link>: The son of Hera Syndulla and Kanan Jarrus who hopes to become a Jedi like his father.
+              </li>
+              <li>
+                <Link>Genevieve O'Reilly</Link> as <Link to="/starwars/mon_mothma">Mon Mothma</Link>: The Chancellor of the New Republic who was a leader of the
+                <Link> Rebel Alliance</Link>.
+              </li>
+              <li>
+                <Link>Hayden Christensen</Link> as <Link to="/starwars/anakin_skywalker">Anakin Skywalker / Darth Vader</Link>: <br />
+                Ahsoka Tano's former Jedi master who fell to the dark side of the Force and became the Sith lord Darth Vader, before being redeemed with his
+                death in film Return of the Jedi (1983). Anakin appears as a <Link>Force ghost</Link> to finish Ahsoka's training. Filoni prioritized seeing
+                Christensen's performance over the Darth Vader costume, which is only seen in brief flashes. Filoni kept the focus in these scenes on Ahsoka's
+                character development, feeling that Star Wars creator <Link>George Lucas</Link> had already resolved Anakin's character arc in the Star Wars films
+                and not wanting to change that. Christensen was digitally de-aged for the role. Hair designer Maria Sandoval closely studied
+                <Link to="/starwars/revenge_of_the_sith"> Star Wars: Episode III - Revenge of the Sith</Link> (2005) to replicate Christensen's mullet hairstyle from
+                that film. For the Clone Wars flashback, she wanted to show what Christensen's hair would realistically look like if it grew from its appearance in
+                <Link to="/starwars/attack_of_the_clones"> Star Wars: Episode II - Attack of the Clones</Link> (2002) to the Revenge of the Sith look, rather than
+                directly adapt the "straighter and sort of chunkier" style seen in The Clone Wars.
+              </li>
+              <li>
+                <Link>Lars Mikkelsen</Link> as <Link to="/starwars/grand_admiral_thrawn">Grand Admiral Thrawn</Link>: <br />
+                A Chiss high-ranking officer of the Empire who is known for his tactical cunning. He has been missing for years after disappearing with Ezra Bridger
+                at the end of Rebels. Mikkelsen said Thrawn was "always seven paces ahead of anybody else", only ruthless when he had to be, and took advantage of
+                others' creativity. He chose not to revisit his own performance as Thrawn in Rebels, instead focusing on creating "something new." Thrawn has blue
+                skin and red eyes, and Mikkelsen spent two to three hours in make-up each day. His black hair is a wig because Mikkelsen did not have the right
+                hairline for the character.
+              </li>
+              <li>
+                <Link>Anthony Daniels</Link> as <Link to="/starwars/c3po">C-3PO</Link>: A protocol droid who serves New Republic senator
+                <Link to="/starwars/leia_organa"> Leia Organa</Link>.
+              </li>
             </ul>
 
             <h3 className="article-heading-3" id="2.2">Recurring</h3>
