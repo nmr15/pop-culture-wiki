@@ -302,6 +302,33 @@ const AhsokaSeries = () =>
             </ul>
 
             <h3 className="article-heading-3" id="2.2">Recurring</h3>
+            <ul className="article-list">
+              <li>
+                Paul Darnell as Marrok:A Jedi-hunting Imperial Inquisitor. He is named for a lesser known Knight of the Round Table from Arthurian legend who is
+                turned into a werewolf.
+              </li>
+              <li>
+                <Link>Dave Filoni</Link> as <Link to="/starwars/chopper">Chopper</Link>: Hera's astromech droid.
+              </li>
+              <li>
+                Nican Robinson as Vic Hawkins: An officer of the New Republic fleet.
+              </li>
+              <li>
+                <Link>Paul Sun-Hyung Lee</Link> as <Link>Captain Teva</Link>: A captain in the New Repulic fleet.
+              </li>
+              <li>
+                Jeryl Prescott Gallien as Aktropaw: One of the Nightsister Great Mothers on Peridea. She is named after Atropos from Greek mythology.
+              </li>
+              <li>
+                Claudia Black as Klothow: One of the Nightsister Great Mothers on Peridea. She is named after Clotho from Greek mythology.
+              </li>
+              <li>
+                Jane Edwina Seymour as Lakesis: One of the Nightsister Great Mothers on Peridea. She is named after Lachesis from Greek mythology.
+              </li>
+              <li>
+                Wes Chatham as Enock: An elite Stormtrooper who is Thrawn's Captain of the Guard.
+              </li>
+            </ul>
 
             <h3 className="article-heading-3" id="2.3">Guests</h3>
           </div>
