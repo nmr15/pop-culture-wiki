@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import Card from '../../components/Card'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
+import { TableSpiderManFilms } from '../../components/TableSpiderManFilms'
 import { spidermanFilms } from '../../data/dataSpidermanFilms'
 
 const SpidermanFilms = () =>
@@ -141,6 +142,7 @@ const SpidermanFilms = () =>
             effects and animation.
           </p>
         </div>
+        <TableSpiderManFilms />
       </main>
     </>
   )
