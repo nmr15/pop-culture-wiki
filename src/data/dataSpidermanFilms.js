@@ -104,3 +104,8 @@ export const spidermanFilms = [
     "route": "/spiderman_films/kraven_the_hunter"
   }
 ]
+
+export const raimiFilms = spiderManFilms.filter((ra) => ra.franchise == "raimi");
+export const webbFilms = spiderManFilms.filter((we) => we.franchise == "webb");
+export const spiderverseFilms = spiderManFilms.filter((verse) => verse.franchise == "verse")
+export const ssuFilms = spiderManFilms.filter((ssu) => ssu.franchise == "ssu")
