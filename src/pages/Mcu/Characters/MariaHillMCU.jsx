@@ -125,7 +125,27 @@ const MariaHillMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Maria Hill</b> was a former Commander and Deputy Director of <Link>S.H.I.E.L.D.</Link> who was appointed by <Link to="/mcu/nick_fury">Nick Fury</Link>
+            as his right-hand. In 2012, she oversaw the Avengers Initirative and the resurrection of <Link to="/mcu/phil_coulson">Phil Coulson</Link>. Two years
+            later, Hill helped fake Fury's death when he was attacked by <Link>Hydra</Link>, and worked alongside <Link to="/mcu/steve_rogers">Captain America</Link>,
+            <Link to="/mcu/natasha_romanoff"> Black Widow</Link>, and <Link to="/mcu/sam_wilson">Falcon</Link> to expose Hydra's existence and terminate Project
+            Insight.
+          </p>
+          <p>
+            In the immediate aftermath of the fall of S.H.I.E.L.D., Hill joined Stark Industries to protect hersel from legal prosecution. However, she stayed in
+            touch with Phil Coulson and aided him in his mission to hunt <Link>Grant Ward</Link> and <Link>John Garrett</Link>. The following year, she was informed
+            by Coulson that <Link>Loki</Link>'s Scepter was taken by List to Sokovia, and passed the information on to the <Link>Avengers</Link>. Following an attack
+            by <Link>Ultron</Link>, Hill rejoined Fury as his second-in-command and assisted during the Battle of Sokovia to thwart Ultron's plan to destroy humanity.
+          </p>
+          <p>
+            Following the Avengers civil war, Hill left Stark Industries and joined Fury's new crew. In 2018, Hill and Fury were among those killed during Thanos'
+            snap. Five years later, Hill was resurrected by <Link to="/mcu/bruce_banner">Bruce Banner</Link> and attended <Link to="/mcu/tony_stark">Tony
+            Stark</Link>'s funeral. While Fury relocated to space, Hill chose to resume her spy career on Earth and became acquainted with Fury's <Link>Skrull</Link>
+            friend <Link>Talos</Link>, who informed her of the secret invasion of humanity by the Skrull Resistance, led by <Link>Gravik</Link>, shich caused her to
+            summon Fury to Eath. Hill worked Fury and Talos to prevent the Unity Day bombing in Moscow intended by Gravik to spark World War III, although they failed.
+            In the midst of the bombings, Hill was killed by Gravik, who shot her while having shapeshifted as Fury.
+          </p>
         </div>
       </main>
     </>
