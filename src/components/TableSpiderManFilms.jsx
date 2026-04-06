@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { spidermanFilms } from '../data/dataSpidermanFilms'
+import { raimiFilms, webbFilms, spiderverseFilms, ssuFilms } from '../data/dataSpidermanFilms'
 
 const TableSpiderManFilms = () =>
 {
