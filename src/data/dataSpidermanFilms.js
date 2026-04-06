@@ -105,7 +105,7 @@ export const spidermanFilms = [
   }
 ]
 
-export const raimiFilms = spiderManFilms.filter((ra) => ra.franchise == "raimi");
-export const webbFilms = spiderManFilms.filter((we) => we.franchise == "webb");
-export const spiderverseFilms = spiderManFilms.filter((verse) => verse.franchise == "verse")
-export const ssuFilms = spiderManFilms.filter((ssu) => ssu.franchise == "ssu")
+export const raimiFilms = spidermanFilms.filter((ra) => ra.franchise == "raimi");
+export const webbFilms = spidermanFilms.filter((we) => we.franchise == "webb");
+export const spiderverseFilms = spidermanFilms.filter((verse) => verse.franchise == "verse")
+export const ssuFilms = spidermanFilms.filter((ssu) => ssu.franchise == "ssu")
