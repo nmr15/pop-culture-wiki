@@ -1,5 +1,8 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse2 from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
+import TableStarWars from '../../../components/TableStarWars'
 
 const GarazebOrrellos = () =>
 {
@@ -39,8 +42,15 @@ const GarazebOrrellos = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data"><Link>Steve Blum</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/starwars/rebels_series">Star Wars Rebels</Link> <br />
+                <Link to="/starwars/the_mandalorian">The Mandalorian</Link> (1 episode)
+              </td>
             </tr>
           </tbody>
         </table>
