@@ -10,6 +10,7 @@ import { hpbooks, hpchars } from "./data/dataHarryPotter"
 import { marvel } from "./data/dataMarvel"
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
 import { simpsonsChars } from "./data/dataSimpsons"
+import { spidermanFilms } from "./data/dataSpidermanFilms";
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
 
 export const routesTopics = topics.map(topic => ({
@@ -105,6 +106,12 @@ export const routesMcuMeta = mcuMeta.map(mcumeta => ({
 export const routesSimpsonsChars = simpsonsChars.map(simpsonsChar => ({
   path: simpsonsChar.route,
   Component: lazy(() => import(`./pages/Simpsons/Characters/${simpsonsChar.file}.jsx`))
+}));
+
+// SPIDER-MAN FILMS
+export const routeSpidermanFilms = spidermanFilms.map(spFilm => ({
+  path: spFilm.route,
+  Component: lazy(() => import(`./pages/SpidermanFilms/Films/${spFilm.file}.jsx`))
 }));
 
 // STAR WARS
