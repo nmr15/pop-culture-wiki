@@ -150,6 +150,22 @@ const IronMan3 = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              Following the release of Iron Man 2, a conflict between Paramount Pictures, which had distribution rights to certain Marvel Comics properties, and
+              The Walt Disney Company, Marvel Entertainment's then new corporate parent, clouded the timing and the distribution of a possible third film. On
+              October 18, 2010, Walt Disney Studios agreed to pay Paramount at least $115 million for the worldwide distribution rights to Iron Man 3, with Disney,
+              Marvel, and Paramount announcing a May 3, 2013 release date for the film.
+            </p>
+            <p>
+              Iron Man and Iron Man 2 director Jon Favreau said in December 2010 that he would not direct Iron Man 3, opting to direct Magic Kingdom instead. He
+              remained an executive producer of director <Link>Joss Whedon</Link>'s crossover film The Avengers and also served as an executive producer of Iron
+              Man 3. Also in 2010, Downey reached out to Shane Black, who directed him in Kiss Kiss Bang Bang (2005), to write and direct the film. In February
+              2011, Black entered final negotiations to join the project, and in March it was announced that Drew Pearce, who Marvel had orifinally hired for a
+              Runaways script, would work with Black on the script. Downey said, "Bringing in Shane Black to write and direct Iron Man 3 to me is basically the
+              only transition from Favreau to a 'next thing' that Favreau and the audience and Marvel and I could ever actually sign off on." Black was initially
+              hesitaant to work with Pearce on the film, preferring to work with a writing partner of his own, but after a week of discussing the film and getting
+              to know one another, agreed to write the film with Pearce.
+            </p>
             <h4 className="article-heading-4" id="3.1.1">Writing</h4>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
