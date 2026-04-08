@@ -146,6 +146,35 @@ const DruigMCU = () =>
               In 400 BC, in the Gupta Empire, Druig attended the wedding of <Link to="/mcu/ikaris">Ikaris</Link> and <Link to="/mcu/sersi">Sersi</Link>.
             </p>
 
+            <h4 className="article-heading-4" id="1.2.2">Battle of Helen-Kyo</h4>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e7/MakkariVsKappa.png" alt="Makkari vs. Kappa" />
+              <p>Druig watches Makkari fight.</p>
+            </div>
+            <p>
+              In 1084, Druig and Makkari arrived in Helen-Kyo to help the city with violent Deviants. Upon arrival, Makkari engaged in a battle with a Deviant named
+              Kappa while Druig watched from the sidelines. A finishing punch was delivered after a man named Yoshiie Minamoto shot the deviant with an arrow.
+            </p>
+            <p>
+              After, the three of them devised a plan to eradicate the deviants. However, Kappa returned and leapt towards Minamoto. Druig jumped in front of him and
+              got badly bitten by the deviant. Seeing no other way, Druig apologized to Minamoto before controlling him to use his katana to severe Kappa's arms.
+              Druig assumed that Kappa died from his wounds. To show his gratitude, Minamoto giften Druig the katana, called the Onikirimaru.
+            </p>
+
+            <h4 className="article-heading-4" id="1.2.3">Hide and seek</h4>
+
+
+            <h4 className="article-heading-4" id="1.2.4">Defeating Kapa</h4>
+
+
+            <h4 className="article-heading-4" id="1.2.5">Retelling Helen-Kyo</h4>
+
+
+            <h4 className="article-heading-4" id="1.2.6">Fall of Tenochtitian</h4>
+
+
+            <h4 className="article-heading-4" id="1.2.7">Starting a community</h4>
+
             <h3 className="article-heading-3" id="1.3">The Emergence</h3>
 
             <h3 className="article-heading-3" id="1.4">Finding other Eternals</h3>
