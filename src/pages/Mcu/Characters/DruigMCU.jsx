@@ -107,6 +107,50 @@ const DruigMCU = () =>
             in order to search for other Eternals across the galaxy. In space, the trio encountered <Link>Thanos</Link>' adoptive brother, Starfox.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Bioraphy"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">Creation</h3>
+            <p>
+              Druig was built and programmed by Arishem the Judge, and was presumably sent to multiple planets to protect and help evolve sentient life forms from
+              the Deviants, powering a Celestial seed inside the planet, which would absorb the energy from the sentient lifeforms. Eventually, the Emergence would
+              occur, destroying the planet in the process. Upon finishing their mission, the Eternals would be sent back to the World Forge to have their memories
+              erased and reset.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2">Protecting humanity</h3>
+            <h4 className="article-heading-4" id="1.2.1">Arriving on Earth</h4>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b4/DruigControls.png" alt="Druig 5000 BC" />
+              <p>Druig arrives on Earth 5000 BC.</p>
+            </div>
+            <p>
+              Druig, alongside the rest of the Eternals, was sent to Earth on the Domo. Once awoken, the Eternals were provided with suits to wear before arriving
+              at the planet. Not being one of the Eternal's main fighters, Druig waited as the others fought the Deviants. When the Deviants attacking the humans
+              were defeated, Druig came down, using his powers to calm the humans, and the Eternals presented themselves to the race they were assigned to protect.
+              Over the course of history, Druig continued to assist the Eternals in the extermination of the Deviants.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/83/DruigControlsBabylonians.png" alt="Druig tries to control Babylon" />
+              <p>Druig tries to control Babylon.</p>
+            </div>
+            <p>
+              Like the other Eternals, Druig resided in Babylon in 575 BC. He witnessed <Link to="/mcu/phastos">Phastos</Link> designing the steam engine to be used
+              by the Babylonians, joking that humans only knew the wheel for a thousand years and that such a sophisticated invnetion was too soon to be given to
+              humanity. Later, Druig was present at a party held to celebrate the victory of the Eternals against other Deviants such as Enkidu. During the party, he
+              conversed with two Babylonians who claimed to be able to help Makkari find the Emerald Tablet, before using his powers to stop a brawl, although
+              Makkari reminded him that he was not supposed to. Druig then agreed to not tell anyone about Makkari stealing items if she kept silent to
+              <Link to="/mcu/ajak"> Ajak</Link> regarding what he had done.
+            </p>
+            <p>
+              In 400 BC, in the Gupta Empire, Druig attended the wedding of <Link to="/mcu/ikaris">Ikaris</Link> and <Link to="/mcu/sersi">Sersi</Link>.
+            </p>
+
+            <h3 className="article-heading-3" id="1.3">The Emergence</h3>
+
+            <h3 className="article-heading-3" id="1.4">Finding other Eternals</h3>
+          </div>
+        </div>
       </main>
     </>
   )
