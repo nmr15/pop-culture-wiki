@@ -94,7 +94,18 @@ const DruigMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Druig</b> is a member of the genetically engineered <Link>Eternals</Link>, which came to Earth around 5000 BC. He possesses the ability to control
+            minds. Despite developing a close relationship with fellow Eternal <Link to="/mcu/makkari">Makkari</Link>, he grew disillusioned with their mission and
+            chose to leave the Eternals, forming a society of mind-controlled humans. Living in a self imposed exile for centuries, Druig led his secret society,
+            keeping them safe from what he saw as the horrors of the outside world.
+          </p>
+          <p>
+            When the Eternals reformed in 2024 to stop the Emergence, they traveled to Druig's compound to convince him to join them once again. While he was
+            initially unwilling, the Deviants attack on his people forced him to reconsider, and he reconciled with his old friends. Following their victory, Druig
+            and the remaining Eternals went their separate ways, with Druig joining Makkari and <Link to="/mcu/thena">Thena</Link> in leaving Earth aboard the Domo
+            in order to search for other Eternals across the galaxy. In space, the trio encountered <Link>Thanos</Link>' adoptive brother, Starfox.
+          </p>
         </div>
       </main>
     </>
