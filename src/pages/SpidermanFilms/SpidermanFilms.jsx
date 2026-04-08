@@ -142,6 +142,37 @@ const SpidermanFilms = () =>
             effects and animation.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Early adaptations"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">TV films</h3>
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:1977_Nicholas_Hammond.JPG" alt="Nicholas Hammond" />
+            </div>
+            <p>
+              In the 1970s, Marvel partnered with CBS to produce a TV adaptation of the character. The Marvel-CBS partnership yielded three Spider-Man films
+              starring Nicholas Hammond for the live-action program The Amazing Spider-Man, which aired sporadically for thirteen episodes. The first film,
+              Spider-Man (1977), follows the character's quest to thwart an extorionist's plot to kill a group of civillians with a mind control device. Two
+              sequels, Spider-Man Strikes Back (1979), and Spider-Man: The Dragon's Challenge (1981), were composites of individual episodes of The Amazing
+              Spider-Man. Each film received minor distribution in theaters outisde of the United States.
+            </p>
+            <p>
+              A Japanese Spider-Man adaptation was conceived in the same period. Part of a four-year licensing deal with Marvel, Toei Company developed a
+              theatrical film, Spider-Man (1978), as a spin-off to the live-action tokusatsu series of the same name, commonly referred to by its Japanese
+              pronunciation Supaidaman. The film's origin story is a significant departure from the source material, portraying Spider-Man as the alter ego of a
+              motorcyclist seeking to avenge his deceased father with powers inherited from Garia, the lone survivor of the extinct Spider Planet.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2">Feature film development</h3>
+            <p>
+              After the success of Superman (1978), Marvel began a concerted effort to produce more feature film projects. They abandoned several early Spider-Man
+              proposals, including a musical and another concept culimating in a battle against Nazis and a 100-foot robot. By 1982, Roger Corman, an experienced
+              producer of low-budget B films, optioned the rights to develop an adaptaion with Orion Pictures from Lee's film treatment. Lee's original treatment
+              featured <Link>Doctor Octopus</Link> as the primary antagonist and a subplot of nuclear war with the Soviet Union. However, Lee and Corman ended their
+              collaboration when they could not agree on a budget.
+            </p>
+          </div>
+        </div>
         <TableSpiderManFilms />
       </main>
     </>
