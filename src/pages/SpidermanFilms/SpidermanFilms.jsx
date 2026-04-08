@@ -180,7 +180,19 @@ const SpidermanFilms = () =>
               Communications purchased Cannon, Galon and Globus split, and the Spider-Man film rights transferred to Golan's 21st Century Film Corporation through a
               severance package, before being sold to Carolco Pictures for $5 million in 1988. Carolco hired <Link>James Cameron</Link> as director and screenwriter
               with a stipulation that granted him authority over producing credits, similar to his contract for another stuido production, Terminator 2: Judgment
-              Day (1991). Cmaeron's scripment, which was about 57 pages long,
+              Day (1991). Cmaeron's scripment, which was about 57 pages long, concentrating on Spider-Man as a morally ambiguous character. In the meantime, Carolco
+              extended Cannon's original deal with Marvel to May 1996, but the total cost of production rose to $50 million from its initial $15 million budget,
+              leading the company to abandon the project by 1992.
+            </p>
+            <p>
+              Protracted litigation ensued over the disposition of the Spider-Man copyrights, with Golan suing Carolco in 1993 over the claim that it had violated
+              his contractual guaranteed credit as producer in the Cannon-Marvel agreement. Carolco then sued Viacom and Sony subsidiary Columbia Pictures over the
+              syndication and home video rights, which Golan had sold them in separate sales, and the two studios countersued in lawsuits that, additionally, disputed
+              Marvel's ownership stakes. 20th Century Fox, though not a main party in the litigation, contested Cameron's participation with a claim of exclusivity
+              on his services as a director. By the mid-1990s, Carolco, 21st Century, and Marvel filed for bankruptcy, complicating the dispute. Metro-Goldwyn-Mayer
+              (MGM) purchased all 21st Century-owned assets and Carolco's film rights during the proceedings, and instigated another lawshuit alleging fraud in the
+              Cannon-Marvel deal. According to a Los Angeles Times report, legal inquiries found that Marvel's licensing agreements overlapping, at times on terms
+              that were dubious and poorly documented.
             </p>
           </div>
         </div>
