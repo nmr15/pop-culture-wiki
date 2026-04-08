@@ -171,6 +171,17 @@ const SpidermanFilms = () =>
               featured <Link>Doctor Octopus</Link> as the primary antagonist and a subplot of nuclear war with the Soviet Union. However, Lee and Corman ended their
               collaboration when they could not agree on a budget.
             </p>
+            <p>
+              The Cannon Group executives Menahem Golan and Yoram Globus acquired the film rights to Spider-Man for $225 in 1985, with a provision that would restore
+              ownership to Marvel should a film not be made within five years. They brought Tobe Hooper to outline an origin story with screenwriter Leslie Stevens,
+              the result being one depicting Spider-Man as a literal spider. Lee, upset with the changes, persuaded Cannon to discard the work and begin anew. Joseph
+              Zito replaced Hooper as director, and the script was concocted from a pitch developed by Ted Newsom and John Brancato. In total, Canon spent $2
+              million on a script and subsequent rewrites, but financial woes and disputes over the artistic direction frustrated the development. After Pather
+              Communications purchased Cannon, Galon and Globus split, and the Spider-Man film rights transferred to Golan's 21st Century Film Corporation through a
+              severance package, before being sold to Carolco Pictures for $5 million in 1988. Carolco hired <Link>James Cameron</Link> as director and screenwriter
+              with a stipulation that granted him authority over producing credits, similar to his contract for another stuido production, Terminator 2: Judgment
+              Day (1991). Cmaeron's scripment, which was about 57 pages long,
+            </p>
           </div>
         </div>
         <TableSpiderManFilms />
