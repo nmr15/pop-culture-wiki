@@ -218,10 +218,27 @@ const DruigMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.7">Starting a community</h4>
+            <p>
+              Over the next five hundred years, Druig founded and managed to run a community controlled by his powers within the Peruvian Amazonia. He started a
+              settlement and managed a peacful lifestyle off the shores of Lake Junin, running a camp composed of farmers, woodworkers, and fishermen, among
+              others. 
+            </p>
 
             <h3 className="article-heading-3" id="1.3">The Emergence</h3>
+            <h4 className="article-heading-4" id="1.3.1">Reuniting with the Eternals</h4>
+
+
+            <h4 className="article-heading-4" id="1.3.2">Ambush at the compound</h4>
+
+
+            <h4 className="article-heading-4" id="1.3.3">Returning to the Domo</h4>
+
+
+            <h4 className="article-heading-4" id="1.3.4">Stopping the Emergence</h4>
+
 
             <h3 className="article-heading-3" id="1.4">Finding other Eternals</h3>
+            <h4 className="article-heading-4" id="1.4.1">Meeting Starfox</h4>
           </div>
         </div>
       </main>
