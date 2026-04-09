@@ -131,7 +131,26 @@ const GamoraMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Gamora Zen Whoberi Ben Titan</b> was a former Zehoberei assassin and a former member of the <Link>Guardians of the Galaxy</Link>. She became the
+            adopted daughter of <Link>Thanos</Link> and adopted sister of <Link to="/mcu/nebula">Nebula</Link> after Thanos killed half of her race. Gamora served
+            him for years before betraying him in an attempt to free herself from his ways. She was hired to steal the Orb, and after becoming involved, she
+            brefriended the other members of the Guardians of the Galaxy. After the Battle of Xandar, she left work with them all. Having made a deal with the
+            Sovereign to kill the Abilisk, Gamora was able to regain custody of Nebula with the intention of finally bringing her to justice in Xandar.
+          </p>
+          <p>
+            However, her mission to punish Nebula was delayed when she and the Guardians came into contact with <Link>Ego</Link>, the long-lost father of
+            <Link to="/mcu/peter_quill"> Peter Quill</Link>. While Ego claimed he simply wanted to bond with his son, Gamora was suspicious and, alongside Nebula who
+            had freed herself, discovered Ego's evil intentions to destroy and rebuild the universe. Upon this discovery, the Guardians teamed up to destroy the
+            living planet, succeeding with the help of <Link to="/mcu/mantis">Mantis</Link>, who joined the group, but at the cost of <Link>Yondu Udonta</Link>
+            sacrificing his life. After Yondu's death, Gamora finally confessed that she had romantic feelings for Peter and started a relationship with him.
+          </p>
+          <p>
+            Four years later, Gamora and the Guardians intercepted a distress call sent by Asgardians: <Link to="/mcu/thor">Thor</Link> warned them that Thanos
+            had begun searching for the <Link>Infinity Stones</Link> himself. Realizing what Thanos intended to do with them, Gamora led her friends to Knowhere to
+            procure the <Link>Aether</Link>, only for both it and Gamora to be captured by Thanos himself. Thanos took Gamora to <Link>Vormir</Link>, where he
+            sacrificed her against her will in order to obtain the <Link>Soul Stone</Link>, a process that trapped Gamora's soul inside the Soulworld.
+          </p>
         </div>
       </main>
     </>
