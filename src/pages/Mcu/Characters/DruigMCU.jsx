@@ -184,7 +184,38 @@ const DruigMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.6">Fall of Tenochtitian</h4>
-
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1c/City_on_flames.png" alt="Tenochtitian burning" />
+              <p>Druig facing Tenochtitian on flames</p>
+            </div>
+            <p>
+              Druig was present in the Aztec capital of Tenochtitian as it was attacked by the Spanish conquistadors. Since a group of Deviants was also there at
+              the time, he waited with other Eternals in a nearby forest while the fighting Eternals disposed of the creatures. Upon witnessing the fights between
+              the Spanish and the Aztecs, Druig attempted to mind control them to end the war, only to be stopped by Ajak who reminded him that the Eternals were
+              not supposed to interfere in human wars, Druig replied that what they were watching was not a true war but rather a genocide. Druig then blamed
+              Phastos for having hekped humans to develop firearms which were now used to fuel their wars.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/84/Druig_%28Eternals%29.png" alt="Druig" />
+              <p>Druig yells at Ajak</p>
+            </div>
+            <p>
+              However, before the argument could escalate further, Thena suffered from a Mahd Wy'ry episode, which caused her to attack the other Eternals. Druig
+              knelt beside Phastos after he was wounded, and was nearly struck by Thena's spear before Makkari drove her away, even though she was severely hurt
+              in the process. Later, once Thena had been knocked unconscious, Druig and the other Eternals stood beside her, waiting for her to regain
+              consciousness. As Ajak explained that she had to erase her memories, Druig criticized this decision, stating that this would wipe out Thena's identity.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/92/DruigLeaves.png" alt="Druig leaves" />
+              <p>Druig leaves the Eternals</p>
+            </div>
+            <p>
+              A devastated Druig then proceeds to let go of all his frustration, as he was upset at the loss of his home and the humans he grew to love and he
+              wanted to be able to save the place from devastation. Nevertheless, he was instructed by Ajak to abstain from human affairs, but he ignored her
+              command and used his powers to stop the fights between the Spanish and the Aztecs, defying Ikaris who ordered him to stop. Refusing to obey Ajak any
+              longer, Druig deserted from the Eternals and ended the Spanish conflict himself, taking a group of humans with him and successfully leading them into
+              a life of isolation.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.7">Starting a community</h4>
 
