@@ -162,13 +162,26 @@ const DruigMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.3">Hide and seek</h4>
-
+            <p>
+              Druig and Makkari decided to play a global game of hide and seek, so Druig hid in a village in the Mediterranean region. Druig saw Makkari asking if
+              the villagers had seen him, so he used his mind control abilities to make them say they had not, but only after they had already said they did. Druig
+              snickered as he saw Makkari express confusion at the situtation. Makkari evacuated the village and began running around it, using her super speed to
+              create multiple sonic booms. Overcome by the sound, Druig came out of hiding and declared that Makkari won. While Makkari returned everyone to their
+              home village, Druig left and went to hide in Africa, beginning a new round.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.4">Defeating Kapa</h4>
-
+            <p>
+              Nearly 500 years later, in 1520 while dicovering a Deviants Nest, Druig realized that Kappa was still alive and took his controlling powers. He then
+              used his powers to control many deviants to attack the Eternals. This was going on for 500 years. The Eternals then defeated Kappa and the others once
+              and for all.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.5">Retelling Helen-Kyo</h4>
-
+            <p>
+              Later, Druig saw Makkari and Sersi ask <Link to="/mcu/sprite">Sprite</Link> where the Onikirimaru came from. Sprite created an illusion to retell the
+              story about how Druig obtained it while Makkari and Druig narrated.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.6">Fall of Tenochtitian</h4>
 
