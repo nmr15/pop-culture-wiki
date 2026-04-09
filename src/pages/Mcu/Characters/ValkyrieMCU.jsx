@@ -38,8 +38,17 @@ const ValkyrieMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Tessa Thompson</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/thor_ragnarok">Thor: Ragnarok</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/thor_love_and_thunder">Thor: Love and Thunder</Link> <br />
+                <Link to="/mcu/the_marvels">The Marvels</Link>
+              </td>
             </tr>
           </tbody>
         </table>

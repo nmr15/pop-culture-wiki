@@ -105,7 +105,7 @@ const AlexeiShostakov = () =>
             <tr>
               <th className="infobox-data">Appearances</th>
               <td className="infobox-data">
-                <Link to="/mcu/black_widow_film">Eternals</Link> <br />
+                <Link to="/mcu/black_widow_film">Black Widow</Link> <br />
                 <Link to="/mcu/thunderbolts">Thunderbolts</Link>
               </td>
             </tr>

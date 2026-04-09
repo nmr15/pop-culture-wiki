@@ -42,8 +42,25 @@ const NatashaRomanoffMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">
+                <Link>Scarlett Johanson</Link> <br />
+                Ever Anderson (young)
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/iron_man_2">Iron Man 2</Link> <br />
+                <Link to="mcu/the_avengers_film">The Avengers</Link> <br />
+                <Link to="/mcu/captain_america_the_winter_soldier">Captain America: The Winter Soldier</Link> <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/captain_marvel_film">Captain Marvel</Link> (mid-credits scene) <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/black_widow_film">Black Widow</Link>
+              </td>
             </tr>
           </tbody>
         </table>
