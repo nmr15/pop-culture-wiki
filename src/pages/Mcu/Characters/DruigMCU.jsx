@@ -227,10 +227,40 @@ const DruigMCU = () =>
 
             <h3 className="article-heading-3" id="1.3">The Emergence</h3>
             <h4 className="article-heading-4" id="1.3.1">Reuniting with the Eternals</h4>
-
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/40/Druig_opening_doors.png" alt="Druig opening door" />
+              <p>Druig welcoming the arrival of the Eternals</p>
+            </div>
+            <p>
+              In 2024, Druig was visited in his compound by Sersi, Ikaris, Gilgamesh, Thena, Sprite, and Kingo. He was then informed of what they had
+              recently found out: Ajak had been killed by returning Deviants, and the true mission of the Eternals was to ensure the Emergence of a new Celestial,
+              Tiamut the Communicator, which would cause the destruction of the Earth, unless Druig was able to halt the Emergence with his mind control abilities
+              and put Tiamut to sleep. Upset by this reveal, Druig initially refused to help them stop the Emergence and mocked his fellow Eternals, especially
+              Ikaris, taunting him for not having been chosen by Ajak to lead the Eternals after her, losing that role to Sersi.
+            </p>
 
             <h4 className="article-heading-4" id="1.3.2">Ambush at the compound</h4>
-
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d2/DruigStopsControlling.png" alt="Druig stops control" />
+              <p>Druig releases the villagers.</p>
+            </div>
+            <p>
+              Later, Druig's compound was attacked by a pack of Deviants led by Kro. Drui mind controlled his followers to fire guns at the Deviants, but it
+              ultimately did not do any significant damage, forcing Druig himself to enter the fray. Druig then reluctantly followed Sersi's advice and released
+              his followers from his control, instructing them to seek refuge by the river. He then watched as Sersi was able to turn the Deviant attacking them
+              into a tree. Along with the other Eternals, Druig then discovered that Gilgamesh had been killed by Kro.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5a/Gilgameshfuneral.png" alt="Gilgamesh's funeral" />
+              <p>Gilgamesh's funeral</p>
+            </div>
+            <p>
+              Druig attended Gilgamesh's funeral held by Karun Patel, after which he observed Thena spreading Gilgamesh's ashes into the river. He was approached by
+              Sersi, to whom he confessed his early plan to take over the mind of every human on Earth to eliminate free will as the source of violence, but
+              abandoned the idea since he had understood that their flaws were a defining trait of humanity. Commenting that the Deviants were becoming similar to
+              Eternals as they grew their own consciousness, Druig agreed to follow Sersi in her attempt to stop the Emergence of Tiamut. However, he insisted that
+              his powers remained limited and, when Sersi told him that they would seek help from Phastos, Druig warned her that he would be hard to convince.
+            </p>
 
             <h4 className="article-heading-4" id="1.3.3">Returning to the Domo</h4>
 
