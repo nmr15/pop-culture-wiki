@@ -20,6 +20,7 @@ const ShuriMCU = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>Shuri (MCU)</li>
         </ul>
         <div>
@@ -40,8 +41,17 @@ const ShuriMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Leticia Wright</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/black_panther">Black Panther</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/black_panther_wakanda_forever">Black Panther: Wakanda Forever</Link>
+              </td>
             </tr>
           </tbody>
         </table>

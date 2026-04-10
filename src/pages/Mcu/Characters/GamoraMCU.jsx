@@ -95,6 +95,7 @@ const GamoraMCU = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/mcu">Marvel Cinematic Universe</Link></li>
           <li>Gamora (MCU)</li>
         </ul>
         <div>
