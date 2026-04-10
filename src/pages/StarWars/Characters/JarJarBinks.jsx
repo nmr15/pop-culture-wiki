@@ -1,5 +1,8 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import Collapse from '../../../components/Collapse'
+import Heading2 from '../../../components/Heading2'
+import TableStarWars from '../../../components/TableStarWars'
 
 const JarJarBinks = () =>
 {
@@ -39,8 +42,16 @@ const JarJarBinks = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data"><Link>Ahmed Best</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data">
+                Ahmed Best <br />
+                <Link>Phil LaMarr</Link> <br />
+                Trevor Devall
+              </td>
             </tr>
           </tbody>
         </table>
