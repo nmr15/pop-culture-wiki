@@ -33,12 +33,25 @@ const JabbaTheHutt = () =>
               {id: "2.2", title: "The High Republic", sub2: [
                 {id: "2.2.1", title: "The Hynestian Treaty"}
               ]},
-              {id: "2.3", title: "Later years of the Republic"},
-              {id: "2.4", title: "Age of the Empire"},
+              {id: "2.3", title: "Later years of the Republic", sub2: [
+                {id: "2.3.1", title: "Boonta Eve Classic"},
+                {id: "2.3.2", title: "Alliance with the Republic"},
+                {id: "2.3.3", title: "Eliminating Ziro"},
+                {id: "2.3.4", title: "Forced into the Shadow Collective"}
+              ]},
+              {id: "2.4", title: "Age of the Empire", sub2: [
+                {id: "2.4.1", title: "Crime amid tyranny"},
+                {id: "2.4.2", title: "The thirteen crates"},
+                {id: "2.4.3", title: "Tusken wine affair"},
+                {id: "2.4.4", title: "Getting back at Han Solo"},
+                {id: "2.4.5", title: "The only leader"},
+                {id: "2.4.6", title: "Discovering a spy"},
+                {id: "2.4.7", title: "Slaying of the Hutt"}
+              ]},
               {id: "2.5", title: "Legacy"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#3">Characterization</a></li>
+          <li className="sidebar-list-item"><a href="#3">Personality and traits</a></li>
           <Collapse 
             id="4"
             item="Appearances"
@@ -114,7 +127,57 @@ const JabbaTheHutt = () =>
           </p>
         </div>
         <div>
-          <Heading2 id={2} title={"Personality and traits"} />
+          <Heading2 id={2} title={"Biography"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">Tatooine crime lord</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/6/6a/JabbasPalace-TCWfilm.png" alt="Jabba's palace" />
+              <p>Jabba ruled over the planet Tatooine as its Daimyo from his palace.</p>
+            </div>
+            <p>
+              Jabba was a Hutt who hailed from <Link>Nal Hutta</Link>. He was born in 600 BBY. He was the grandson of Mama and Papa the Hutts, and the nephew of
+              Ziro and Ebor, as they were the siblings of his father. His mother left enough of a mark on him that, years later, he would force the Askajian dancer
+              Yarna d'al; Gargan to wear special makeup to make her look more like his genitrix. He also had a cousin named Crakka and a nephew named Gorga.
+            </p>
+            <p>
+              Several centuries before the <Link>Galactic Civil War</Link>, he became the reigning crime lord in the <Link>Outer Rim</Link>, owning several criminal
+              enterprises which included smuggling, glitterstim spice dealing, slave trading, assassination and piracy. At some point, Jabba became affiliated with
+              the Crymorah Syndicate. As a result of his collaboration with the Crymorah, he gained a position on the Grand Hutt Council. As a crime lord, Jabba based
+              his illicit operation out of his palace in the Northern Dune Sea of the desert world Tatooine, from where he spread his operations and influence across
+              the Outer Rim by employing a network of sumgglers who moved his goods across the galaxy.
+            </p>
+            <p>
+              Forming a powerful criminal empire, his operations grew to include slavery, arms dealing, spice smuggling, and gambling. Gambling was a prominent
+              feature of the Mos Espa Grand Arena, where Jabba controlled the gambling and conessions during the popular podraces. The spice trade was a major part
+              of Jabba's empire, becoming one of the primary ways he made money. To those who respected his authority, very few, he was formally styled as
+              "His Excellency Jabba Desilijic Tiure of Nal Hutta, Eminence of Tatooine."
+            </p>
+
+            <h3 className="article-heading-3" id="2.2">The High Republic</h3>
+            <h4 className="article-heading-4" id="2.2.1">The Hynestian Treaty</h4>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/c/c1/StellanAndVernestra-FirstMission.png" alt="" />
+              <p>Jabba worked with other Hutts to incite a skirmish on Hypnestia, though they were stopped by the Jedi.</p>
+            </div>
+            <p>
+              Years before the Great Disaster, Jabba, along with other Hutts, attended a banquet on Hypnestia as part of a treaty negotiation between the Hypnestian
+              royal family and the Grand Hutt Council. The Hutts planted Povo Punch in the drink menu as a means of inciting a diplomatic incident. When Jedi Master
+              Lynela Kabe-Oyu, Stellan Gios, and his padawan Vernestra Rwoh, noticed the Povo Punch and attempted to save the Hutts, the Hutts opened fire on the
+              banquet, claiming that the incident was an insult that justified violent action against Hypnestia.
+            </p>
+            <p>
+              After the Jedi settled the situation, Jabba and his fellow Hutts attempted to escape, only to be stopped by the Jedi themselves. Queen Nyla, Ruler of
+              Hypnestia, stepped in to officially capture Jabba and his fellow Hutt conspirators for attempting to distrup the treaty and to assassinate attendees
+              of the diplomatic banquet, putting him for ransom to the Hutt Council.
+            </p>
+
+            <h3 className="article-heading-3" id="2.3">Later years of the Republic</h3>
+            <h3 className="article-heading-3" id="2.4">Age of the Empire</h3>
+            <h3 className="article-heading-3" id="2.5">Legacy</h3>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Personality and traits"} />
           <div>
             <div className="img-right img-card">
               <img src="https://static.wikia.nocookie.net/starwars/images/2/20/JabbaHasASnack-RotJAVA.png" alt="Jabba eating" />
