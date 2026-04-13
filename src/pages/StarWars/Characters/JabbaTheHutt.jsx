@@ -185,6 +185,26 @@ const JabbaTheHutt = () =>
             </p>
 
             <h4 className="article-heading-4" id="2.3.2">Alliance with the Republic</h4>
+            <p>
+              Ten years after the Naboo crisis, the galaxy was plunged into the chaos of the Clone Wars, a massive galactic conflict between the Grand Army of the
+              Republic and the droid armies of the Confederacy of Independent Systems. Shortly after the outbreak of the war, Jabba's infant son, Rotta, was
+              kidnapped. Though Jabba did not know who the kidnapper was. It was carried out by his uncle Ziro, and the Separatist Alliance, both of whom had their
+              own schemes at play. Jabba requested the assistance of anyone who could help, and the Republic and the <Link>Jedi Order</Link> answered the call. It
+              was te hope of the Supreme Chancellor Palpatine that the Republic would be able to negotiate an alliance with Jabba for use of Hutt hyperspace lanes
+              in the Outer Rim, as the Separatists controlled the major lanes.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/5/53/Jabba_confers.png" alt="Jabba requests aid" />
+              <p>Jabba requested the Republic's aid in finding his kidnapped son, Rotta.</p>
+            </div>
+            <p>
+              The Jedi sent General Anakin Skywalker, who had become a Jedi Knight in the years since his victory in the Boonta Eve Classic, and his
+              <Link> Padawan</Link>, <Link to="/starwars/ahsoka_tano">Ahsoka Tano</Link>, to the Teth system to find Rotta. Meanwhile, General
+              <Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link> traveled to Tatooine to personally negotiate a treaty with Jabba. While Obi-Wan was en
+              route, Jabba was presented with the heads of bounty hunters he had sent to Teth to find his son. Infuriated by the lack of progress, Jabba contacted
+              Chancellor Palpatine and, through his translator droid, TC-70, demanded to know why the Jedi were not searching for his son. The chacellor assured Jabba
+              that the Jedi were on their way, of which Jabba said the treaty with him depended on it.
+            </p>
 
             <h4 className="article-heading-4" id="2.3.3">Eliminating Ziro</h4>
 
