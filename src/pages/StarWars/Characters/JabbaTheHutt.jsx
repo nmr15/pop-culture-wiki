@@ -38,6 +38,18 @@ const JabbaTheHutt = () =>
               {id: "2.5", title: "Legacy"}
             ]}
           />
+          <li className="sidebar-list-item"><a href="#3">Characterization</a></li>
+          <Collapse 
+            id="4"
+            item="Appearances"
+            sub={[
+              {id: "3.1", title: "Films"},
+              {id: "3.2", title: "The Clone Wars"},
+              {id: "3.3", title: "Other"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#5">Star Wars Legends</a></li>
+          <li className="sidebar-list-item"><a href="#6">Reception</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -100,6 +112,30 @@ const JabbaTheHutt = () =>
             killed and usurped him. Fett sought to rebuild Jabba's criminal empire in his own image, intending to rule with respect rather than the fear that the
             Hutt instilled in his followers.
           </p>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Personality and traits"} />
+          <div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/2/20/JabbaHasASnack-RotJAVA.png" alt="Jabba eating" />
+              <p>Jabba was known for his gluttonous appetites.</p>
+            </div>
+            <p>
+              Leader of one of the most famous cartels in the galaxy, Jabba technically controlled Tatooine's underworld. He was legendary for his vicious temper,
+              endless greed, gruesome appetite, and fondess for violent entertainment. Because of this, it was common for people to avoid irritating him in any way.
+              On one occasion, when they tried to play Kessel Sabacc at Jabba's Palace, the game was canceled when Jabba appeared, as they preferred not to risk
+              winning against him by betting on the game. Jabba was an animal collector, interested in acquiring specimen of rare species. The Hutt's sadistic side
+              also extended to droids, with torture being employed. The Hutt was also known to collect various trophies that signified his power. One of the most
+              prominent examples was when he hung Han Solo's carbonite-frozen body on the wall of his throne room as a decoration. Unlike his uncle Ebor, Jabba had
+              remarkably poor table manners. Jabba had a tatoo of the Desilijic kajidic symobl on his right arm.
+            </p>
+            <p>
+              Jabba had an affinity for young female humanoids, often enslaving them as dancers or companions. He would chain his favorite slave girl to his
+              throne and force them to sit with him when they weren't dancing, as was the case with Oola and Leia Organa. According to Jess, Jabba's favorite slave
+              was better protected from harassment from the palace guards and guests, though that protection came at the cost of dealing with Jabba's advances.
+              Jabba's penchant for female humanoids would eventually become his downfall when Leia used her proximity to the Hutt to kill him.
+            </p>
+          </div>
         </div>
       </main>
     </>
