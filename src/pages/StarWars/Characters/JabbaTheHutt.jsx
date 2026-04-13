@@ -172,7 +172,27 @@ const JabbaTheHutt = () =>
             </p>
 
             <h3 className="article-heading-3" id="2.3">Later years of the Republic</h3>
+            <h4 className="article-heading-4" id="2.3.1">Boonta Eve Classic</h4>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/e/e5/Jabba_Boonta_Eve.jpg" alt="Jabba Boonta Eve" />
+              <p>Jabba hosted the Boonta Eve Classic podrace in 32 BBY.</p>
+            </div>
+            <p>
+              Shortly after the start of the Invasion of Naboo in 32 BBY, Jabba presided over the Boonta Eve Classic podrace, where his entrance in the stands was
+              greeted with cheers from the spectators who came to watch the race from all corners of the Outer Rim Territories. Jabba signaled the start of the race,
+              and the podraceers begain their laps, at the end of which Anakin Skywalker, a young slave from Mos Espa, emerged victorious. Jabba had to be awoken
+              after falling asleep during the race, as podracing did not entertain him, aside from the gambling involved.
+            </p>
+
+            <h4 className="article-heading-4" id="2.3.2">Alliance with the Republic</h4>
+
+            <h4 className="article-heading-4" id="2.3.3">Eliminating Ziro</h4>
+
+            <h4 className="article-heading-4" id="2.3.4">Forced into the Shadow Collective</h4>
+
             <h3 className="article-heading-3" id="2.4">Age of the Empire</h3>
+
+
             <h3 className="article-heading-3" id="2.5">Legacy</h3>
           </div>
         </div>
