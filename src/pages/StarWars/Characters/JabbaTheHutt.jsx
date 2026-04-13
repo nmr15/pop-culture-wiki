@@ -135,6 +135,25 @@ const JabbaTheHutt = () =>
               was better protected from harassment from the palace guards and guests, though that protection came at the cost of dealing with Jabba's advances.
               Jabba's penchant for female humanoids would eventually become his downfall when Leia used her proximity to the Hutt to kill him.
             </p>
+            <p>
+              Jabba didn't tolerate liars. When Lando Calrissian was brought before him by the Harlok Gang by saying that he had arranged a deal with Jabba for
+              tibanna gas, Jabba made him know that he perfectly knw that no such deal had ever taken place, leading Jabba to threaten Lando to feed him to his rancor
+              for daring to obtain an audience with him under false pretenses. Nor did he tolerate those who rebelled against him, placing severe punishments
+              against them, like when he threw Oola into the rancor pit for disobeying him during a dance.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/c/c3/DarkInk-JabbaBountyHunter.png" alt="Boba Fett and Jabba" />
+              <p>Boba Fett worked for Jabba as a bounty hunter and pondered if the Hutt saw him as a friend of sorts.</p>
+            </div>
+            <p>
+              Despite his ruthless reputation and cruel personality, Jabba nevertheless had a caring side: he loved his son Rotta very much and became furious when he
+              was kidnapped by the Separatists, willing to punish those responsible with death. His tender love for his son is specifically shown when he was
+              willing to work with the Jedi despite their mutual resentment and as such endanger himself to see to it they successfully rescue him. Jabba had a
+              friend, his only friend in fact, in Ephant Mon. However, Boba Fett pondered if he was the closest person Jabba saw as a friend. Some nights in the
+              Palace, Jabba told Boba incredibly personal things that Boba believed ate at the crime lord's soul, although Boba was unsure if Jabba had a soul.
+              Boba also did not understand what Jabba said to him. However, he enjoyed the drink offered during such moments and, taking into account how much
+              Jabba paid him, respected the company as tolerable.
+            </p>
           </div>
         </div>
       </main>
