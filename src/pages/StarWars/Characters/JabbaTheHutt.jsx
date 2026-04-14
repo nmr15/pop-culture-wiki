@@ -216,6 +216,29 @@ const JabbaTheHutt = () =>
               Teth, harming the child, when in reality they were caring for it after he had fallen ill. Dooku told Jabba that the Separatist Droid Army was
               initiating a rescue mission and would soon deliver Rotta to his father. All Dooku asked in return was that Jabba join the Separatist cause.
             </p>
+            <p>
+              Dooku's <Link>Sith</Link> acolyte, <Link to="/starwars/asajj_ventress">Asajj Ventress</Link>, contacted the count, who played her message in front of
+              Jabba and his court. Ventress claimed that Anakin killed Rotta and was on his way to Tatoonie. Jabba questioned why the Jedi would come to
+              Tatooine, to which Dooku said that the Jedi plot had become clear and that Anakin would soon arrive to kill the crime lord and wipe out the entire Hutt
+              Clan. Dooku promised Jabba that he would personally deal with Anakin and, despite fighting the Jedi Knight in a lightsaber duel in the desert, Anakin
+              managed to reach Jabba's palace. Once there, Anakin found that Ahsoka, who had Rotta and from whom he had become separated, had not yet reached the
+              palace. Jabba's henchmen draw their weapons on Anakin, so the Jedi Knight drew his lightsaber and pointed at at Jabba, seemingly confirming Dooku's
+              claims. Jabba said that this was proof that Anakin had arrived to kill him, but the Jedi said he had only come to negotiate. Just as Jabba's henchmen
+              prepare to kill Skywalker, Ahsoka arrived and delivered Rotta to his father.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/9/9c/Padme_talks_to_Jabba.png" alt="Padme talks to Jabba" />
+              <p>Jabba uncovers the truth behind his son's kidnapping from Republic Senator Padme Amidala</p>
+            </div>
+            <p>
+              Despie the happy reunion with his son, Jabba ordered Anakin and Ahsoka's execution due to believing they kidnapped his son. They were saved, however,
+              by a message from <Link to="/starwars/padmé_amidala">Senator Padmé Amidala</Link> of <Link>Naboo</Link>, who had discovered Ziro's involvment in the
+              plot. Ziro entered the holographic transmission and admitted to conspiring with Dooku to kidnap Rotta and frame the Jedi, so Jabba told the senator
+              that the Hutt Clan would severely punish Ziro. Padmé asked him if the hostilities between Jabba and the Jedi could cease and if he would open his
+              hyperspace lanes to the Republic, to which Jabba agreed. The two sides signed a treaty allowing the Grand Army of the Republic through Jabba's
+              territories, a decision Padmé assured him he would not regret. <Link to="/starwars/yoda">Grand Master Yoda</Link> and clone forces soon arrived at
+              Jabba's palace, signaling a new era of cooperation between the Republic and Jabba.
+            </p>
 
             <h4 className="article-heading-4" id="2.3.3">Eliminating Ziro</h4>
 
