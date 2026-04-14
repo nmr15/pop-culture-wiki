@@ -205,6 +205,17 @@ const JabbaTheHutt = () =>
               Chancellor Palpatine and, through his translator droid, TC-70, demanded to know why the Jedi were not searching for his son. The chacellor assured Jabba
               that the Jedi were on their way, of which Jabba said the treaty with him depended on it.
             </p>
+            <p>
+              Obi-Wan soon arrived at Jabba's palace and was taken before the Hutt's court. Obi-Wan told Jabba that Anakin, who he described as one of the Order's
+              most powerful Jedi, was on his way to Teth to rescue Rotta and that the Jedi would not let the Hutt down. Jabba attached one additional condition to
+              the proposal, that the Jedi deliver him the kidnapper as well, dead or alive. Jabba also leveled a threat against the Jedi: if they did not
+              succeed, the Separatist leader <Link to="/starwars/count_dooku">Count Dooku</Link> and the Separatist Droid Army would, still not knowing that
+              Dooku himself was behind the kidnapping, in a plot to turn the Hutt Clan an enemy of the Republic. Obi-Wan departed the palace, which was followed by
+              the arrival of Count Dooku himself. Dooku claimed that it was the Jedi who kidnapped Rotta and that the Jedi were plotting to destroy Jabba. Jabba
+              demanded proof, which Dooku delivered in the form of a manipulated holographic recording allegedly showing Anakin and Ahsoka, who had found Rotta on
+              Teth, harming the child, when in reality they were caring for it after he had fallen ill. Dooku told Jabba that the Separatist Droid Army was
+              initiating a rescue mission and would soon deliver Rotta to his father. All Dooku asked in return was that Jabba join the Separatist cause.
+            </p>
 
             <h4 className="article-heading-4" id="2.3.3">Eliminating Ziro</h4>
 
