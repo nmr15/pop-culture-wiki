@@ -117,11 +117,22 @@ const HomerSimpson = () =>
               {id: "9.1", title: "Future"},
               {id: "9.2", title: "Treehouse of Horror VI"},
               {id: "9.3", title: "Treehouse of Horror deaths"},
-              {id: "9.4", title: ""},
-              {id: "9.5", title: ""},
-              {id: "9.6", title: ""},
+              {id: "9.4", title: "Role in video games"},
+              {id: "9.5", title: "Family Guy"},
+              {id: "9.6", title: "Fortnite"},
             ]}
           />
+          <li className="sidebar-list-item"><a href="#10">Lego Dimensions (The Simpsons)</a></li>
+          <Collapse 
+            id="11"
+            item="Reeption"
+            sub={[
+              {id: "11.1", title: "Cultural influence and commendations"},
+              {id: "11.2", title: "Analysis"},
+              {id: "11.3", title: "D'oh!"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#12">Merchandising</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -148,8 +159,8 @@ const HomerSimpson = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Voiced by</th>
+              <td className="infobox-data"><Link>Dan Castellaneta</Link></td>
             </tr>
           </tbody>
         </table>

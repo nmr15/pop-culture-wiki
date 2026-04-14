@@ -241,6 +241,22 @@ const JabbaTheHutt = () =>
             </p>
 
             <h4 className="article-heading-4" id="2.3.3">Eliminating Ziro</h4>
+            <p>
+              Later in the war, Jabba was visited by Baron Notluwiski Papanoida, the chairman of the moon Pantora, whose daughters, Che Amanwe Papanoida and Chi
+              Eekway Papanoida, had been kidnapped by <Link>Greedo</Link>, a bounty hunter in Jabba's employ. The chairman was able to reason with the Hutt crime
+              lord, who, like Papanoida, knew all too well what it was like to have his child taken from him. Greedo insisted that he was not responsible, but Jabba
+              allowed a blood sample to be taken from his bounty hunter so it could be compared to blood found at the scene of the crime. Greedo admitted to
+              kidnapping the chairman's daughters at the behest of the Separatists, who wanted leverage against the Pantorans, and Papanoida was soon reunited with
+              his children.
+            </p>
+            <p>
+              Shortly thereafter, the Grand Hutt Council became concerned that Ziro, who was in Galactic Republic custody, was planning on turning over incriminating
+              evidence about the council's illicit activity, as the imprisoned Hutt had a journal secretly hidden on Teth that contained the evidence. Jabba hired
+              bounty hunter <Link>Cad Bane</Link> to free Ziro from prison, so he could be imprisoned by the Hutt Clan instead. Cad Bane took members of the
+              Galactic Senate hostage inside the Senate building, offering their safety in return for Ziro's freedom. Chancellor Palpatine refused the demands, but
+              he soon changed his mind and allowed Ziro to be freed. Cad Bane brought Ziro to the Grand Hutt Council on Nal Hutta, where Ziro was imprisoned once
+              more, though Jabba himself was not present, Gardulia Besadii the Elder instead acted as a representative.
+            </p>
 
             <h4 className="article-heading-4" id="2.3.4">Forced into the Shadow Collective</h4>
 
