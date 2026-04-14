@@ -95,9 +95,19 @@ const AhsokaTano = () =>
               ]},
               {id: "2.6", title: "Shattered", sub2: [
                 {id: "2.6.1", title: "The last meeting"},
-                {id: "2.6.2", title: "Sige of Mandalore"},
+                {id: "2.6.2", title: "Sige of Mandalore", sub3: [
+                  {id: "2.6.2.1", title: "Air assault"},
+                  {id: "2.6.2.2", title: "The Undercity"},
+                  {id: "2.6.2.3", title: "Conference with Kenobi"},
+                  {id: "2.6.2.4", title: "Integrating Almec"},
+                  {id: "2.6.2.5", title: "The final confrontation"}
+                ]},
                 {id: "2.6.3", title: "Aftermath"},
-                {id: "2.6.4", title: "Order 66"},
+                {id: "2.6.4", title: "Order 66", sub3: [
+                  {id: "2.6.4.1", title: "Saving Rex"},
+                  {id: "2.6.4.2", title: "Escaing the Tribunal"},
+                  {id: "2.6.4.3", title: "Fight in the hangar"}
+                ]},
                 {id: "2.6.5", title: "Burying the dead"}
               ]},
               {id: "2.7", title: "Age of the Empire"},
