@@ -294,6 +294,21 @@ const RiseOfSkywalker = () =>
               Poe be shor for Episode VIII - The Last Jedi. After the success of The Force Awakens, which became the highest grossing film of 201, Episode IX was
               put into production in February 2016, which Disney chief executive Bob Iger vaguely reported.
             </p>
+            <p>
+              In late April 2017, Disney announced that the film would be released on May 24, 2019. A month later, filming was expected to begin in January 2018. In
+              August 2017, it was announced that Jack Thhorne, would rewrite the script. On September 5, 2017, Lucasfilm stated that Trevorrow had left the
+              production following creative differences. Trevorrow's place as director was supposedly on ice since June 2017. The Hollywood Reporter reported that
+              his working relationship with Kathleen Kennedy had become unmanageable after failing to deliver a satisfying script, despite writing several drafts,
+              nor were either happy with Thorne's revisions. Johnson was rumored as the top choice to replace Trevorrow as director, but stated "it was never in the
+              plan for me to direct Episode IX." David Fincher had discussions with the studio but would ultimately decline from directing the film.
+            </p>
+            <p>
+              On September 12, it was announced that J.J. Abrams, the director of Star Wars: The Force Awakens, would return to direct the film, and that the film's
+              release date would be moved to December 20, 2019. The story team met with George Lucas before writing the new script to help find a way to conclude the
+              saga. Abrams co-wrote the script with Chris Terrio, though Trevorrow and Connolly retain story credits. The story was rewritten to some extenet before
+              filming was completed. Terrio had written off working on large-scale films at the time and did not socially know Abrams prior to agreeing to co-write
+              the film with him.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Casting</h3>
 
