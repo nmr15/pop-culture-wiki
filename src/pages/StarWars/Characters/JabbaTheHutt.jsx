@@ -257,11 +257,41 @@ const JabbaTheHutt = () =>
               he soon changed his mind and allowed Ziro to be freed. Cad Bane brought Ziro to the Grand Hutt Council on Nal Hutta, where Ziro was imprisoned once
               more, though Jabba himself was not present, Gardulia Besadii the Elder instead acted as a representative.
             </p>
-
-            <h4 className="article-heading-4" id="2.3.4">Forced into the Shadow Collective</h4>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/7/78/Jabba_receives_the_records.png" alt="Jabba receives the record" />
+              <p>Sy Snooties hands over Ziro's records over to Jabba</p>
+            </div>
+            <p>
+              Jabba instead planned Ziro's elimination. He hired Ziro's old girlfriend, the singer Sy Snooties, to find the records and eliminate Ziro. Snooties freed
+              Ziro from his imprisonment and tricked him into believing that she was on his side, so he brought her to Teth where he planned to recover his records.
+              Once there, however, Snooties killed the crime lord and brought the records to Jabba, who expressed his gratitude for her work.
+            </p>
 
             <h3 className="article-heading-3" id="2.4">Age of the Empire</h3>
-
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/starwars/images/4/4c/HanJabbaDockingBay94.png" alt="Han and Jabba" />
+              <p>Jabba and Han discuss the smuggler's debt in Mos Eisley.</p>
+            </div>
+            <p>
+              At the end of the Clone Wars, the Republic was transformed into the <Link>Galactic Empire</Link>, and the chancellor declared himself Emperor. Jabba
+              continued his illicit operations during this time, continuing to hold influence as a crime lord. Around one year into the Empire's reign, former
+              Padawan Ahsoka Tano decided against going to Jabba for help while avoiding the Impertial Military, deciding the Hutt would not help her despite her
+              role in saving his son during the Clone Wars
+            </p>
+            <p>
+              While the human Jaylen Vrax ran a smuggling ring on Nar Shadda, he prospered for years, delivering a portion of the profits as tribute to Grakkus the
+              Hutt, a very powerful figure on the moon. Hoever, this brought a change for ND-5, a BX-series commando droid under his control, when Jabba appeared,
+              as they used his hyperlines. To repay Jabba, who was impressed when ND-5 blasted two of his guards when the Hutt threatened Vrax, Jaylen sold ND-5's
+              service to him. ND-5 worked for Jabba until Jaylen began planning his score on Sliro Barsha. However, the debt that now belonged to the droid was still
+              unpaid.
+            </p>
+            <p>
+              During a particularly bad drought on Tatooine, Jabba began collecting a heft water tax from local moisture farmers. This earned his thugs an
+              unpleasant encounter with Obi-Wan Kenobi, who was watching and protecting a young <Link to="/starwars/luke_skywalker">Luke Skywalker</Link>. When
+              Luke attempted to steal the thugs' collections for the day, they caught and threatened to kill him. It was at that moment that Obi-Wan took down the
+              thugs with the Force. Under cover of darkness, the gangsters were unable to identify Obi-Wan. Most displeased with his loss of tax revenue, Jabba
+              hired the <Link>Wookiee</Link> bounty hunter Krrsantan to track down and identify the former Jedi Master.
+            </p>
 
             <h3 className="article-heading-3" id="2.5">Legacy</h3>
           </div>
