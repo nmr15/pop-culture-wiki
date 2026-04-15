@@ -266,7 +266,34 @@ const RiseOfSkywalker = () =>
           <Heading2 id={4} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Development</h3>
-
+            <p>
+              In October 2012, Star Wars creator George Lucas sold his production company Lucasfilm to the Walt Disney Company. Disney subsequently announced the
+              Star Wars sequel trilogy. The next month, Lawrence Kasdan and Simon Kinberg entered negotiations to write and produce either Episode VIII or Episode IX.
+              Kinberg, Kasan, and Michael Amdt worked in a writers' room to discuss and map out the trilogy. However, these plans did not come to fruition and
+              instead Kasdan co-wrote Episode VII - Star Wars: The Force Awakens, with Kinberg seving as a creative consultant. In June 2014, it was announced that
+              Rian Johnson, writer and director of Star Wars: The Last Jedi, would write a story treatment for Episode IX. However, in April 2017, Johnson later
+              denied involvement in writing the film, claiming the information was outdated.
+            </p>
+            <p>
+              In August 2015, Colin Trevorrow was announced as the director of the film; he was to write the script with frequent collaborator Derek Connolly.
+              Trevorrow and Connolly's script, titled Star Wars: Duel of the Fates after the theme of the same name from
+              <Link to="/starwars/the_phantom_menace">Star Wars: Episode I - The Phantom Menace</Link>, included elements which were utilized to some extent in the
+              final film, such as Kylo Ren finding a Sith holocron in Darth Vader's castle on <Link>Mustafar</Link>, the transference of Force energy, the
+              concept of a superlaser-equipped Star Destroyer, Lando leading a galaxy-wide fleet of spaceships to save the day, and Chewbacca receiving a medal.
+              An original idea of Trevorrow and his design team, the First Order TIE Echelon, survived in the Star Wars: Galaxy's Edge theme park, whose ship was
+              supposed to appear in the original film.
+            </p>
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:J._J._Abrams_by_Gage_Skidmore.jpg" alt="J.J. Abrams" />
+              <p>J. J. Abrams returned to direct the final film.</p>
+            </div>
+            <p>
+              In January 2016, Trevorrow revealed he was considering shooting on film and that he had wanted to shoot "on location" in outer space with IMAX
+              cameras. Trevorrow and cinematographer John Schwartzman had planned to shoot the project entirely on 65mm film, using a new processing facility
+              Kodak had developed in the UK. Trevorrow collaborated closely with Johnson while developing his script and even requested a scene featuring Rey and
+              Poe be shor for Episode VIII - The Last Jedi. After the success of The Force Awakens, which became the highest grossing film of 201, Episode IX was
+              put into production in February 2016, which Disney chief executive Bob Iger vaguely reported.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Casting</h3>
 
