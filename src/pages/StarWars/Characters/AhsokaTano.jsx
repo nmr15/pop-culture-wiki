@@ -234,6 +234,7 @@ const AhsokaTano = () =>
               ]}
             ]}
           />
+          <li className="sidebar-list-item"><a href="#7">Critical response</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
