@@ -1670,6 +1670,265 @@ export const starwarsSeriesEps = [
   }
 ]
 
+export const starwarsLore = [
+  {
+    "id": "starwarsLore1",
+    "title": "Galactic Republic",
+    "file": "GalacticRepublic",
+    "img": "https://static.wikia.nocookie.net/starwars/images/d/de/Republic_Emblem.svg",
+    "type": "organization",
+    "route": "/starwars/galactic_republic"
+  },
+  {
+    "id": "starwarsLore2",
+    "title": "Galactic Empire",
+    "file": "GalacticEmpire",
+    "img": "https://static.wikia.nocookie.net/starwars/images/2/2e/Imperial_Emblem.svg",
+    "type": "organization",
+    "route": "/starwars/galactic_empire"
+  },
+  {
+    "id": "starwarsLore3",
+    "title": "Rebel Alliance",
+    "file": "RebelAlliance",
+    "img": "https://static.wikia.nocookie.net/starwars/images/7/71/Redstarbird.svg",
+    "type": "organization",
+    "route": "/starwars/rebel_alliance"
+  },
+  {
+    "id": "starwarsLore4",
+    "title": "Confederacy of Independent Systems",
+    "file": "ConfederacyIndependent",
+    "img": "https://static.wikia.nocookie.net/starwars/images/3/34/CIS_roundel.svg",
+    "type": "organization",
+    "route": "/starwars/confederacy_of_independent_systems"
+  },
+  {
+    "id": "starwarsLore5",
+    "title": "Jedi Order",
+    "file": "JediOrder",
+    "img": "https://static.wikia.nocookie.net/starwars/images/9/9d/Jedi_symbol.svg",
+    "type": "organization",
+    "route": "/starwars/jedi_order"
+  },
+  {
+    "id": "starwarsLore6",
+    "title": "Sith Order",
+    "file": "SithOrder",
+    "img": "https://static.wikia.nocookie.net/starwars/images/b/bf/Sith_canon.svg",
+    "type": "organization",
+    "route": "/starwars/sith_order"
+  },
+  {
+    "id": "starwarsLore7",
+    "title": "Jedi",
+    "file": "Jedi",
+    "img": "https://static.wikia.nocookie.net/starwars/images/e/e9/Jedi-of-the-High-Republic.png",
+    "type": "person",
+    "route": "/starwars/jedi"
+  },
+  {
+    "id": "starwarsLore8",
+    "title": "Sith",
+    "file": "Sith",
+    "img": "https://static.wikia.nocookie.net/starwars/images/e/e7/Sidious_and_Vader_on_Ryloth.png",
+    "type": "person",
+    "route": "/starwars/sith"
+  },
+  {
+    "id": "starwarsLore9",
+    "title": "The Force",
+    "file": "TheForce",
+    "img": "https://static.wikia.nocookie.net/starwars/images/f/f7/YodaForceLift.jpg",
+    "type": "other",
+    "route": "/starwars/the_force"
+  },
+  {
+    "id": "starwarsLore10",
+    "title": "Lightsaber",
+    "file": "Lightsaber",
+    "img": "https://static.wikia.nocookie.net/starwars/images/c/cc/Lightsabers-SWYBYNE.png",
+    "type": "weapon",
+    "route": "/starwars/lightsaber"
+  },
+  {
+    "id": "starwarsLore11",
+    "title": "CloneWars",
+    "file": "CloneWars",
+    "img": "https://static.wikia.nocookie.net/starwars/images/1/1a/RotS_FC_BG_art.png",
+    "type": "event",
+    "route": "/starwars/clone_wars"
+  },
+  {
+    "id": "starwarsLore12",
+    "title": "Galactic Civil War",
+    "file": "GalacticCivilWar",
+    "img": "https://static.wikia.nocookie.net/starwars/images/d/da/SW_Legion_Box_art_Alex_Kim.png",
+    "type": "event",
+    "route": "/starwars/galactic_civil_war"
+  },
+  {
+    "id": "starwarsLore13",
+    "title": "Alderaan",
+    "file": "Alderaan",
+    "img": "https://static.wikia.nocookie.net/starwars/images/4/4a/Alderaan.jpg",
+    "type": "planet",
+    "route": "/starwars/alderaan"
+  },
+  {
+    "id": "starwarsLore14",
+    "title": "Bespin",
+    "file": "Bespin",
+    "img": "https://static.wikia.nocookie.net/starwars/images/1/11/Bespin-SWCT.png",
+    "type": "planet",
+    "route": "/starwars/bespin"
+  },
+  {
+    "id": "starwarsLore15",
+    "title": "Concord Dawn",
+    "file": "ConcordDawn",
+    "img": "https://static.wikia.nocookie.net/starwars/images/8/84/Concord_Dawn_system.png",
+    "type": "planet",
+    "route": "/starwars/concord_dawn"
+  },
+  {
+    "id": "starwarsLore16",
+    "title": "Corellia",
+    "file": "Corellia",
+    "img": "https://static.wikia.nocookie.net/starwars/images/f/fe/Corellia-2025ToppsSWHyperspace.png",
+    "type": "planet",
+    "route": "/starwars/corellia"
+  },
+  {
+    "id": "starwarsLore17",
+    "title": "Coruscant",
+    "file": "Coruscant",
+    "img": "https://static.wikia.nocookie.net/starwars/images/8/84/CoruscantGlobeE1.png",
+    "type": "planet",
+    "route": "/starwars/coruscant"
+  },
+  {
+    "id": "starwarsLore18",
+    "title": "Dagobah",
+    "file": "Dagobah",
+    "img": "https://static.wikia.nocookie.net/starwars/images/7/7d/Dagobah-CGSWG.png",
+    "type": "planet",
+    "route": "/starwars/dagobah"
+  },
+  {
+    "id": "starwarsLore19",
+    "title": "Dathomir",
+    "file": "Dathomir",
+    "img": "https://static.wikia.nocookie.net/starwars/images/3/34/DathomirJFO.jpg",
+    "type": "planet",
+    "route": "/starwars/dathomir"
+  },
+  {
+    "id": "starwarsLore20",
+    "title": "Endor",
+    "file": "Endor",
+    "img": "https://static.wikia.nocookie.net/starwars/images/1/1d/Endor_BF2.png",
+    "type": "planet",
+    "route": "/starwars/endor"
+  },
+  {
+    "id": "starwarsLore21",
+    "title": "Geonosis",
+    "file": "Geonosis",
+    "img": "https://static.wikia.nocookie.net/starwars/images/6/6d/Geonosis_AotC.png",
+    "type": "planet",
+    "route": "/starwars/geonosis"
+  },
+  {
+    "id": "starwarsLore22",
+    "title": "Hoth",
+    "file": "Hoth",
+    "img": "https://static.wikia.nocookie.net/starwars/images/a/a1/Hoth-2024SWHyperspace.png",
+    "type": "planet",
+    "route": "/starwars/hoth"
+  },
+  {
+    "id": "starwarsLore23",
+    "title": "Kamino",
+    "file": "Kamino",
+    "img": "https://static.wikia.nocookie.net/starwars/images/1/1c/Kamino-SWCT.png",
+    "type": "planet",
+    "route": "/starwars/kamino"
+  },
+  {
+    "id": "starwarsLore24",
+    "title": "Kashyyk",
+    "file": "Kashyyk",
+    "img": "https://static.wikia.nocookie.net/starwars/images/e/ea/Kashyyyk-SW-MTHC.png",
+    "type": "planet",
+    "route": "/starwars/kashyyk"
+  },
+  {
+    "id": "starwarsLore25",
+    "title": "Lothal",
+    "file": "Lothal",
+    "img": "https://static.wikia.nocookie.net/starwars/images/a/ac/Lothal-SM.png",
+    "type": "planet",
+    "route": "/starwars/lothal"
+  },
+  {
+    "id": "starwarsLore26",
+    "title": "Mandalore",
+    "file": "Mandalore",
+    "img": "https://static.wikia.nocookie.net/starwars/images/3/34/Mandalore-2025ToppsSWHyperspace.png",
+    "type": "planet",
+    "route": "/starwars/mandalore"
+  },
+  {
+    "id": "starwarsLore27",
+    "title": "Mustafar",
+    "file": "Mustafar",
+    "img": "https://static.wikia.nocookie.net/starwars/images/6/61/Mustafar-TROSGG.png",
+    "type": "planet",
+    "route": "/starwars/mustafar"
+  },
+  {
+    "id": "starwarsLore28",
+    "title": "Naboo",
+    "file": "Naboo",
+    "img": "https://static.wikia.nocookie.net/starwars/images/f/f0/Naboo_planet.png",
+    "type": "planet",
+    "route": "/starwars/naboo"
+  },
+  {
+    "id": "starwarsLore29",
+    "title": "Ryloth",
+    "file": "Ryloth",
+    "img": "https://static.wikia.nocookie.net/starwars/images/9/96/Ryloth-Homecoming.png",
+    "type": "planet",
+    "route": "/starwars/ryloth"
+  },
+  {
+    "id": "starwarsLore30",
+    "title": "Tatooine",
+    "file": "Tatooine",
+    "img": "https://static.wikia.nocookie.net/starwars/images/b/b0/Tatooine_TPM.png",
+    "type": "planet",
+    "route": "/starwars/tatooine"
+  },
+  {
+    "id": "starwarsLore31",
+    "title": "Utapau",
+    "file": "Utapau",
+    "img": "https://static.wikia.nocookie.net/starwars/images/c/ce/UtapauRotS.png",
+    "type": "planet",
+    "route": "/starwars/utapau"
+  },
+  {
+    "id": "starwarsLore32",
+    "title": "Yavin 4",
+    "file": "Yavin4",
+    "img": "https://static.wikia.nocookie.net/starwars/images/d/d4/Yavin-4-SWCT.png",
+    "type": "planet",
+    "route": "/starwars/yavin_4"
+  }
+]
+
 export const starwarsFilms = starwars.filter((sw) => sw.media == "film");
 export const starwarsSeries = starwars.filter((swSeries) => swSeries.media == "series");
 export const starwarsSeriesAnimated = starwars.filter((swSeriesAnimated) => swSeriesAnimated.media == "series" && swSeriesAnimated.type == "animated");
