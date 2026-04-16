@@ -241,7 +241,17 @@ const AhsokaTano = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ahsoka Tano</b> was a female <Link>Rogruta</Link> who was a Force-sensitive outcast from the <Link>Jedi order</Link>. After the <Link>Clone Wars</Link>,
+            she helped establish a network of various rebel cells against the <Link>Galactic Empire</Link>. Ahsoka was discovered on her homeworld of Shill by
+            <Link>Jedi Master</Link> <Link>Plo Koon</Link>, who brought her to the <Link>Jedi Temple</Link> on <Link>Coruscant</Link> to receive Jedi training.
+            Following the outbreak of the CloneWars, Jedi Grand Master <Link to="/starwars/yoda">Yoda</Link> assigned the young Ahsoka to be the <Link>Padawan</Link>
+            learner of <Link>Jedi Knight</Link> <Link to="/starwars/anakin_skywalker">Anakin Skywalker</Link>, who nicknamed her "<b>Snips</b>" when she joined him
+            at the Battle of Christophsis. Whereas Ahsoka was eager to prove herself, Anakin had a reputation for recklessness, and they had a rather
+            difficult start as master and apprentice. Yet they worked together to rescue Rotta, the son of crime lord
+            <Link to="/starwars/jabba_the_hutt">Jabba the Hutt</Link>, and returned Rotta to his father, thus facilitating a crucial alliance between the Hutt Clan and
+            the <Link>Galactic Republic</Link>.
+          </p>
         </div>
       </main>
     </>
