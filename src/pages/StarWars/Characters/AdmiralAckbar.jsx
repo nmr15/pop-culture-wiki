@@ -159,7 +159,35 @@ const AdmiralAckbar = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Gial Ackbar</b> was a male <Link>Mon Calamari</Link> veteran soldier and prominent revolutionary leader during the <Link>Clone Wars</Link>, the
+            <Link> Galactic Civil War</Link>, the Cold War, and the war between the <Link>Resistance</Link> and the <Link>First Order</Link>. Throughout his
+            sixty years of service, Ackbar was regarded as a brilliant tactician.
+          </p>
+          <p>
+            Ackbar hailed from the planet <Link>Mon Cala</Link> and served as the captain of the Mon Calamari Guard. During the Clone Wars, Ackbar fought in the
+            Battle of Mon Cala, in which he helped to secure Prince Lee-Char's ascent as King of Mon Cala and repel the
+            <Link> Confederacy of Independent Systems</Link>. After the rise of the <Link>Galactic Empire</Link>, Ackbar became the foremost military commander in
+            the Alliance to Restore the Republic, emerging as a symbol of defiance against the Empire's subjugation of non-humans. His presence attracted Mon
+            Calamari support for the Alliance, thus supplying the Mon Calamari star cruiser that made up a bulk of the Alliance Fleet.
+          </p>
+          <p>
+            From his command ship of Home One, supreme commander Ackbar acted as the fleet commander during the Battle of Endor, in which the Alliance successfully
+            mounted an attack that led to the destruction of the Empire's <Link>second Death Star</Link> and the death of
+            <Link to="/starwars/sheev_palpatine">Emperor Palpatine</Link>. After the Battle of <Link>Endor</Link>, the Alliance formed the <Link>New Republic</Link>.
+            Ackbar became a fleet admiral of the New Republic Defense Fleet and led the New Republic to its victory over the Empire during the Battle of Jakku.
+            After the battle on <Link>Jakku</Link> ended, the Empire retreated into the Unknown Region and Ackbar retired on Mon Cala.
+          </p>
+          <p>
+            By 34 ABY, the emerging threat of the First Order, which arose from the ashes of the Empire, led Princess <Link to="/starwars/leia_organa">Leia
+            Organa</Link> to form the Resistance without the support of the New Republic that had turned a blind eye to the First Order. Leia, the general of the
+            Resistance, coaxed Ackbar out of his retirement to serve in the Resistance. After reclaiming his commission as an Admiral, Ackbar served in the
+            Resistance base on D'Qar, where he helped oversee the battle to destroy the First Order superweapon known as <Link>Starkiller Base</Link>.
+          </p>
+          <p>
+            Ackbar was later present on the bridge of the Resistance's flagship the Raddus when the Resistance evacuated from D'Qar, but he was killed when two
+            First Order TIE/sf space superiority fighters, as well as <Link>Kylo Ren</Link>'s TIE silencer attacked the ship after it exited <Link>hyperspace</Link>.
+          </p>
         </div>
       </main>
     </>
