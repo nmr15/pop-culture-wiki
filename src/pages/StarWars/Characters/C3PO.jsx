@@ -48,7 +48,30 @@ const C3PO = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>C-3P0</b> (<b>See-Threepio</b>) was a 3P0-series <Link>protocol droid</Link> designed to interact with organics, programmed primarily for etiquette and
+            protocol. Sometimes referred to as <b>Threepio</b>, he was fluent in over six million forms of communication, and developed a fussy and worry-prone
+            personality through his many decades of operation. Along with his counterpart, the <Link>astromech droid</Link> <Link to="/starwars/r2d2">R2-D2</Link>,
+            C-3P0 constantly found himself directly involved in pivotal moments of galactic history, and aided in saving the galaxy on many occasions.
+          </p>
+          <p>
+            C-3P0 was rebult from spare parts by <Link to="/starwars/anakin_skywalker">Anakin Skywalker</Link>, an enslaved human who lived in Mos Espa, a city on
+            the <Link to="/starwars/outer_rim">Outer Rim</Link> world of <Link to="/starwars/tatooine">Tatooine</Link>. During the
+            <Link to="/starwars/clone_wars"> Clone Wars</Link>, he would serve the <Link to="/starwars/naboo">Naboo</Link> Senator
+            <Link to="/starwars/padmé_amidala"> Padmé Amidala</Link>. Shortly fater the Clone Wars, C-3P0's memory was erased, though R2-D2's memory was not. C-3P0
+            and R2-D2 were assigned to the <Link to="/starwars/alderaan">Aldraan</Link> cruiser <Link to="/starwars/tantive_iv">Tantive IV</Link>, where they
+            served senator <Link to="/starwars/bail_organa">Bail Organa</Link> for nineteen years, assisting in his fledging resistance movement against the
+            <Link to="/starwars/galactic_empire"> Galactic Empire</Link>. At some point during this time, C-3P0's right leg was fitted with mismatched plating.
+          </p>
+          <p>
+            C-3P0 remained constant companions with R2, and in 1 BBY, the pair became emroiled in the <Link to="/starwars/galactic_civil_war">Galactic Civil War</Link>
+            when <Link to="/starwars/leia_organa">Leia Organa</Link> of the <Link to="/starwars/rebel_alliance">Rebel Alliance</Link> entrusted them to bring a copy
+            of the <Link to="/starwars/death_star">Death Star</Link> plans to the <Link to="/starwars/jedi_master">Jedi Master</Link>
+            <Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link> on Tatooine. After meeting Anakin's son, <Link to="/starwars/luke_skywalker">Luke</Link> and
+            the smuggler <Link to="/starwars/han_solo">Han Solo</Link>, the droids helped rescue Leia from the Empire's Death Star. They became directly attached to
+            the three humans, helping them and their rebellion defeat the Empire and restore freedom to the galaxy, most notably when he convinced the
+            <Link to="/starwars/ewok"> Ewoks</Link> to aid the Rebels at the Battle of Endor.
+          </p>
         </div>
       </main>
     </>
