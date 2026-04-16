@@ -209,6 +209,31 @@ const AhsokaTano = () =>
               ]}
             ]}
           />
+          <Collapse 
+            id="6"
+            item="Appearances"
+            sub={[
+              {id: "6.1", title: "Film", sub2: [
+                {id: "6.1.1", title: "The Clone Wars (2008)"},
+                {id: "6.1.2", title: "The Rise of Skywalker (2019)"}
+              ]},
+              {id: "6.2", title: "Television", sub2: [
+                {id: "6.2.1", title: "Animated series", sub3: [
+                  {id: "6.2.1.1", title: "The Clone Wars (2008-2014; 2020)"},
+                  {id: "6.2.1.2", title: "Rebels (2014-2018)"},
+                  {id: "6.2.1.3", title: "Tales of the Jedi (2022)"}
+                ]},
+                {id: "6.2.2", title: "Live-action series", sub3: [
+                  {id: "6.2.2.1", title: "The Mandalorian (2020)"},
+                  {id: "6.2.2.2", title: "The Book of Boba Fett (2022)"},
+                  {id: "6.2.2.3", title: "Star Wars: Ahsoka (2023)"}
+                ]}
+              ]},
+              {id: "6.3", title: "Other media", sub2: [
+                {id: "6.3.1", title: "Ahsoka (2016)"}
+              ]}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
