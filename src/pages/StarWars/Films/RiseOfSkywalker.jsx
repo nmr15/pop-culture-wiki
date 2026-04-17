@@ -309,9 +309,39 @@ const RiseOfSkywalker = () =>
               filming was completed. Terrio had written off working on large-scale films at the time and did not socially know Abrams prior to agreeing to co-write
               the film with him.
             </p>
+            <p>
+              The film was produced by Abrams' company Bad Robot, Kathleen Kennedy, and Michelle Rejwan. According to Terrio, the film's script had to include
+              certain narrative beats provided by Kennedy and Rejwan, including the redemption of the character Kylo Ren. Abrams had also consulted with Johnson on
+              making a film that both stood on its own but built upon previous established ideas and story elements.
+            </p>
+            <p>
+              Before filming, Episode IX was initially given the working title Black Diamond, which was then changed to TriXie in 2018, so that the roman numeral
+              "IX" would be included in the working title. The film's title, The Rise of Skywalker, was announced at April 2019's Star Wars Celebration in
+              Chicago. Until its official reveal, only Abrams knew the title of the film.
+            </p>
 
             <h3 className="article-heading-3" id="4.2">Casting</h3>
-
+            <p>
+              Carrie Fisher, who played General Leia Organa, died on December 27, 2016. Variety and Reuters reported that she had been planned for a key role in
+              Episode IX. In January 2017, Lucasfilm stated that there were no plans to digitally generate Fisher's performance as they had for
+              <Link to="/starwars/rogue_one"> Rogue One</Link>. The following April, Carrie Fisher's brother Todd Fisher revealed that Fisher's daughter, Billie
+              Lourd, had granted Disney the rights to use recent footage of Fisher. However, a week later, Kathleen Kennedy stated that Fisher would not appear in
+              the film. In July 2018, J. J. Abrams announced that unused footage of Fisher from The Force Awakens would be used to help complete the story. In
+              flashback scenes, digital de-aging was used for the appearance of Luke and Leia through the use of facial shots of both characters from the
+              Empire Strikes Back, and Return of the Jedi respectively. In November 2019, prior to the release of the film, Fisher's brother Todd, who planned
+              before her death for her character to appear in the film, revealed that "she was going to be the big payoff in the final film" and "she was going to
+              be the last Jedi, so to speak."
+            </p>
+            <p>
+              In July 2018, Keri Russell was in talks to play a part with some "action-heavy fight scenes", and it was confirmed that Billy Dee Williams would
+              return as Lando Calrissian, onscreen for the first time since 1983's Return of the Jedi, marking one of the longest intervals between portrayals of
+              a character by the same actor in American film history. At the end of July, Russell was confirmed to have been cast, and there was an
+              announcement of returning and additional new cast members. In late August, Deadline Hollywood announced that Dominic Monaghan and
+              <Link> Matt Smith</Link> has been cast in unspecified roles; in 2019, Smith deined his involvement, but he later clarified that he had been in talks
+              for an unrealized "transformation" part. Early rumors from Making Star Wars claimed Smith was set to portray a "dark side acolyte" who gets
+              possessed by Palpatine. Shawn Levy eventually confirmed the veracity of Smith's casting, hence why he described it as "destiny fulfilled" when he cast
+              Smith in another part for his film <Link>Star Wars: Starfighter</Link>. Greg Grunberg reprises his role as Temmin "Snap" Wexley.
+            </p>
 
             <h3 className="article-heading-3" id="4.3">Filming</h3>
 
