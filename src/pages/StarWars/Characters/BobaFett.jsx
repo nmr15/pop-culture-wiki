@@ -25,7 +25,81 @@ const BobaFett = () =>
               ]}
             ]}
           />
-          
+          <Collapse 
+            id="2"
+            item="Biography"
+            sub={[
+              {id: "2.1", title: "Early life", sub2: [
+                {id: "2.1.1", title: "Creation and life on Kamino"},
+                {id: "2.1.2", title: "Trained by Jango Fett"},
+                {id: "2.1.3", title: "Escape from Kamino"},
+                {id: "2.1.4", title: "Jango's death"}
+              ]},
+              {id: "2.2", title: "Clone Wars", sub2: [
+                {id: "2.2.1", title: "Quest for vengeance"},
+                {id: "2.2.2", title: "Captured by the Jedi"},
+                {id: "2.2.3", title: "Becoming a bounty hunter"},
+                {id: "2.2.4", title: "Running a synicate"}
+              ]},
+              {id: "2.3", title: "The ensuing years", sub2: [
+                {id: "2.3.1", title: "Assuming the mantle"},
+                {id: "2.3.2", title: "The Corellian job"},
+                {id: "2.3.3", title: "Capturing Vanda"},
+                {id: "2.3.4", title: "The go-to hunter"}
+              ]},
+              {id: "2.4", title: "Galactic Civil War", sub2: [
+                {id: "2.4.1", title: "The Carajam jobs"},
+                {id: "2.4.2", title: "Bounty for the Dark Lord"},
+                {id: "2.4.3", title: "Duel with Skywalker"},
+                {id: "2.4.4", title: "Informing Vader of Skywalker"},
+                {id: "2.4.5", title: "Rescuing a Wookiee"},
+                {id: "2.4.6", title: "The Tusken Wind"},
+                {id: "2.4.7", title: "The hunt for Han Solo"},
+                {id: "2.4.8", title: "Deal with the Empire"},
+                {id: "2.4.9", title: "Hunt for Nakano Lash"},
+                {id: "2.4.10", title: "War of the Bounty Hunters", sub3: [
+                  {id: "2.4.10.1", title: "Disguised gladiator"},
+                  {id: "2.4.10.2", title: "Betrayed by Jabba"},
+                  {id: "2.4.10.3", title: "Auction for Han Solo"},
+                  {id: "2.4.10.4", title: "Uneasy alliance"},
+                  {id: "2.4.10.5", title: "Reclaiming Han Solo"}
+                ]},
+                {id: "2.4.11", title: "Joinging T'onga's crew"},
+                {id: "2.4.12", title: "Into the sarlaac"}
+              ]},
+              {id: "2.5", title: "Interregnum"},
+              {id: "2.6", title: "Survival", sub2: [
+                {id: "2.6.1", title: "Escaping the sarlaac"},
+                {id: "2.6.2", title: "Prisoner of the Tuskens"},
+                {id: "2.6.3", title: "Living among the Tuskens"},
+                {id: "2.6.4", title: "Vision quest"},
+                {id: "2.6.5", title: "Journey to Mos Eisley"},
+                {id: "2.6.6", title: "Saving Fennec Shand"},
+                {id: "2.6.7", title: "Finding his armor"}
+              ]},
+              {id: "2.7", title: "Indebted to Djarin", sub2: [
+                {id: "2.7.1", title: "Confrontation on Tython"},
+                {id: "2.7.1", title: "The Morak affair"},
+                {id: "2.7.1", title: "Meeting Bo-Katan Kryze"},
+                {id: "2.7.1", title: "Attack on Gideon's cruiser"}
+              ]},
+              {id: "2.8", title: "Daimyo of Mos Espa", sub2: [
+                {id: "2.8.1", title: "Scum and villainy"},
+                {id: "2.8.2", title: "Power struggle"},
+                {id: "2.8.3", title: "Preparing for war"},
+                {id: "2.8.4", title: "War for Mos Espa", sub3: [
+                  {id: "2.8.4.1", title: "Ruins of the sanctuary"},
+                  {id: "2.8.4.2", title: "Unexpected reunion"},
+                  {id: "2.8.4.3", title: "Standing with Djarin"},
+                  {id: "2.8.4.4", title: "Turning the tide"},
+                  {id: "2.8.4.5", title: "Stand-off with Bane"},
+                  {id: "2.8.4.6", title: "A town at peace"}
+                ]},
+                {id: "2.8.5", title: "Missions on Batuu"}
+              ]},
+              {id: "2.9", title: "Legacy"}
+            ]}
+          />
           <Collapse 
             id="3"
             item="Personality and traits"
