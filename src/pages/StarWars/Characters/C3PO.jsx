@@ -72,6 +72,19 @@ const C3PO = () =>
             the three humans, helping them and their rebellion defeat the Empire and restore freedom to the galaxy, most notably when he convinced the
             <Link to="/starwars/ewok"> Ewoks</Link> to aid the Rebels at the Battle of Endor.
           </p>
+          <p>
+            Following the Battle of Endor, C-3P0 continued serving the Skywalkers and Solo during the time of the <Link to="/starwars/new_republic">New
+            Republic</Link>. About thirty years after the events of <Link to="/starwars/endor">Endor</Link>, C-3P0 was still an aide to Leia, who had become a
+            general in the <Link to="/starwars/resistance">Resistance</Link>, a private military group opposed to the <Link to="/starwars/first_order">First
+            Order</Link>, a military juntathat emulated the Old Empire. By that time, C-3P0 was fitted with a new set of gold plating, which had a more symmetrical
+            design than his previous coverings, with the exception of his head. His new coverings included a third finger joint, and a torso that was not as slim
+            as it used to be. Because of his new plating, he no longer had a mismatched right lower leg. Although, he did end up wearing a red left arm for a
+            very short time. By that time, C-3P0's language database had also been updated so that he could understand and communicate in over seven million
+            different forms of communication, including ancient Sith dialect. He would assist <Link>Rey</Link> in translating Sith riting in order to locate
+            <Link to="/starwars/sheev_palpatine"> Darth Sidious</Link> and the Sith Eternal's fleet, the Final Order, on Exegol, allowing his memory to be wiped in
+            order to carry out the task. However, his friend R2 backed up a large portion of his memories, and after the Resistance defeated Sidious and the Sith
+            Eternal in the Battle of Exegol, his memory was restored.
+          /p>
         </div>
       </main>
     </>
