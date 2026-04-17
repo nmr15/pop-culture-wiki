@@ -342,12 +342,38 @@ const RiseOfSkywalker = () =>
               possessed by Palpatine. Shawn Levy eventually confirmed the veracity of Smith's casting, hence why he described it as "destiny fulfilled" when he cast
               Smith in another part for his film <Link>Star Wars: Starfighter</Link>. Greg Grunberg reprises his role as Temmin "Snap" Wexley.
             </p>
+            <p>
+              At Star Wars Celebration in April 2019, it was revealed via the film's teaser trailer that Ian McDiarmid would return to portray Palpatine. Since
+              the event was held after principal photography wrapped, Abrams was thrilled that news of McDiarmid on the set never leaked. Kathleen Kennedy said they
+              decided to reveal Palpatine's return ahead of the film's release because of the character playing a larger role in the story, having them
+              differentiated from <Link to="/starwars/grogu">Grogu</Link>, the character from <Link to="/starwars/the_mandalorian">The Mandalorian</Link>. Abrams
+              had initially considered Palptaine returning while developing The Force Awakens.
+            </p>
 
             <h3 className="article-heading-3" id="4.3">Filming</h3>
-
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:JOR-2017-Wadi_Rum_02.jpg" alt="Wadi Rum, Jordan" />
+              <p>Wadi Rum in Jordan served as the location for the desert planet Pasaana.</p>
+            </div>
+            <p>
+              Principal photography began on August 1, 2018, at Pinewood Studios in Buckinghamshire, England. Filming also took place in Wadi Rum, Jordan. Oscar
+              Isaac stated that Abrams was allowing more improvised acting than in the previous two films. Due to the tight schedule, some editing took place on
+              set. The crew on The Rise of Skywalker had three fewer months than they had to work on The Force Awakens leading to Maryann Brandon being sent in to
+              cut on set a third of the way through production. Scenes detailing Palpatine's return were altered and changed during production as they were felt
+              to "go off topic." The scene where Ben is dying and he and Rey kiss was filmed with and without the kiss. It was going to be excluded from the film,
+              until Abrams decided to include it at the last minute. Principal photography wrapped on February 15, 2019. Footage from the film was shown at The
+              Walt Disney Company's annual shareholders meeting on March 7, 2019. Two weeks of reshoots took place at Pinewood involving Hamill, Ridley, and
+              Isaac in July 2019. Another round of reshoots took place at Bad Robot between late September and mid-October, Abrams stated that the film had fewer
+              reshoots and story adjustments than Episode VII.
+            </p>
 
             <h3 className="article-heading-3" id="4.4">Post-production</h3>
-
+            <p>
+              The visual effects were created by <Link>Industrial Light & Magic</Link> and supervised by Roger Guyett. Last minute ADR was recorded with Adam
+              Driver, in which he recorded his lines in a closet. The film finished post-production on November 25, 2019. After John Boyega accidentally left a
+              copy of the script in his hotel room, it was listed on eBay for around £65. A Disney employee identified the script as authentic and purchased it
+              from the seller for an undisclosed sum.
+            </p>
 
             <h3 className="article-heading-3" id="4.5">Music</h3>
           </div>
