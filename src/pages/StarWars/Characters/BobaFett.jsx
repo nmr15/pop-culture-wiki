@@ -25,7 +25,28 @@ const BobaFett = () =>
               ]}
             ]}
           />
-
+          
+          <Collapse 
+            id="3"
+            item="Personality and traits"
+            sub={[
+              {id: "3.1", title: "The young bounty hunter"},
+              {id: "3.2", title: "Adult life", sub2: [
+                {id: "3.2.1", title: "Imperial era"},
+                {id: "3.2.2", title: "After the Empire"}
+              ]}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Skills and abilities</a></li>
+          <Collapse 
+            id="5"
+            item="Equipment"
+            sub={[
+              {id: "5.1", title: "Vehicles of choice"},
+              {id: "5.2", title: "Mandalorian armor"},
+              {id: "5.3", title: "Tusken garb and weapons"}
+            ]}
+          />
           <Collapse 
             id="6"
             item="Appearances"
@@ -139,6 +160,44 @@ const BobaFett = () =>
             and the expansion of the Pyke Syndicate's spice trade. Ultimately, though, Boba overcame all obstacles, including a confrontation with his old mentor,
             Cad Bane, and emerged victorious with the help of his associates, gaining the appreciation and approval of Mos Espa's denizens.
           </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Concept and development"} />
+          <div>
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:Clint_Eastwood_-_1960s.JPG" alt="Clint Eastwood" />
+              <p>
+                Boba Fett was inspired by the character The Man with No Name portrayed by Clint Eastwood in the Dollars Trilogy, including his mannerisms,
+                tacticurn demeanor, and green-on-white armor color after the Man's poncho.
+              </p>
+            </div>
+            <p>
+              <Link to="/starwars">Star Wars</Link> creator <Link to="/people/george_lucas">George Lucas</Link> created Boba Fett in his April 1978 screenplay
+              draft of <Link to="/starwars/the_empire_strikes_back">The Empire Strikes Back</Link>, basing the character on Italian filmmaker Sergio Leone's Man with
+              No Name (Clint Eastwood) from the Dollars Trilogy. The character needed to be designed quickly, as Lucas had agreed for him to be featured in the
+              Star Wars Holiday Special later that year. The character's design stemmed from initial concepts for
+              <Link to="/starwars/anakin_skywalker"> Darth Vader</Link>, who was orifinally conceived as a rogue bounty hunter. While Vader became less of a
+              mercenary and more of a dark knight, the bounty hunter concept remained, and Boba became "an equally villainous" but "less conspicuous" character.
+              Concept artist Ralph McQuarrie influenced Boba's design, which was finalized by and is credited to <Link>Joe Johnston</Link>.
+            </p>
+            <p>
+              Norman Reynolds and the film's art depatment built the costume. Boba's armor was originally designed for "super troopers", and was adapted to Boba as
+              the script developed. Screen-tested in all-white, Boba's armor eventually garnered a subdued color scheme intended to visually place him between
+              white-armored "rank-and-file" <Link to="/starwars/stormtrooper">Imperial stormtroopers</Link> and Vader, who wears black. This color scheme had the
+              bonus of conveying the "gray morality" of his character. The character's armor was designed to appear to have been scavenged from multiple sources,
+              and it is adorned with trophies. A description of Boba's armor in the mid-1979 Bantha Tracks newsletter catalyzed "rampant speculation" about his
+              origins. By 1979, Boba's backstory includedhaving served in an army of Imperial shock troops which had battled the
+              <Link to="/starwars/clonetrooper"> clonetroopers</Link> of the <Link to="/starwars/galactic_republic">Galactic Republic</Link> during the
+              <Link to="/starwars/clone_wars"> Clone Wars</Link>.
+            </p>
+            <p>
+              Despite two years of widespread publicity about Boba's appearance in The Empire Strikes Back, script rewrites significantly reduced the character's
+              presence in the film.
+            </p>
+
+            <h3 className="article-heading-3" id="1.1">Film casting and production</h3>
+            <h4 className="article-heading-4" id="1.1.1">Other portrayals</h4>
+          </div>
         </div>
       </main>
     </>
