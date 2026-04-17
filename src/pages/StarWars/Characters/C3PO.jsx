@@ -84,7 +84,7 @@ const C3PO = () =>
             <Link to="/starwars/sheev_palpatine"> Darth Sidious</Link> and the Sith Eternal's fleet, the Final Order, on Exegol, allowing his memory to be wiped in
             order to carry out the task. However, his friend R2 backed up a large portion of his memories, and after the Resistance defeated Sidious and the Sith
             Eternal in the Battle of Exegol, his memory was restored.
-          /p>
+          </p>
         </div>
       </main>
     </>
