@@ -39,6 +39,30 @@ const PhilosophersStoneBook = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="2">Characters</a></li>
+          <Collapse 
+            id="3"
+            item="Development, publication, and reception"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Publication and reception in the United Kingdom"},
+              {id: "3.3", title: "US publication and reception"},
+              {id: "3.4", title: "Translations"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="4">Style and themes</a></li>
+          <Collapse 
+            id="5"
+            item="Legacy"
+            sub={[
+              {id: "5.1", title: "Sequels"},
+              {id: "5.2", title: "Illustrated version"},
+              {id: "5.3", title: "Audio books"},
+              {id: "5.4", title: "Podcast version"},
+              {id: "5.5", title: "Film adaptation"},
+              {id: "5.6", title: "Video games"},
+              {id: "5.7", title: "Uses in education and business"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
