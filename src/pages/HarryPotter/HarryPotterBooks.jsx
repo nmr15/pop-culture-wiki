@@ -449,12 +449,60 @@ const HarryPotterBooks = () =>
             </p>
 
             <h3 className="article-heading-3" id="4.3">Cover art</h3>
+            <p>
+              For cover art, Bloomsbury chose painted art in a classic style of design, with the first cover a watercolor and pencil drawing by illustrator Thomas
+              Taylor, showing Harry boarding the Hogwarts Express, and a title in the font Cochin Bold. The first release of the successive books in the series
+              followed in the same style but somewhat more realistic, illustrating scenes from the books. These covers were created by first Cliff Wright and then
+              Jason Cockroft.
+            </p>
+            <p>
+              Due to the appeal of the books among an adult audience, Bloomsbury commissioned a second line of editions in an 'adult' style. These initially used
+              black-and-white photographic art for the covers showing objects from the books (including a very American Hogwarts Express) without depicting
+              people, but later shifted to partial colorization with a picture of Slytherin's locket on the cover of the final book.
+            </p>
+            <p>
+              International and later editions have been created by a range of designs, including Mary GrandPre for US audiences and Mike Launis in Finland. For a
+              later American release, Kazu Kibuishi created covers in a somewhat anime-influenced style.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={5} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Commercial success</h3>
+            <div className="img-left img-card">
+              <img src="https://en.wikipedia.org/wiki/File:Harry_Potter_lines.jpg" alt="Lines for the Half-Blood Prince" />
+              <p>Crowd outside a bookstore for the midnight release of Harry Potter and the Half-Blood Prince.</p>
+            </div>
+            <p>
+              The popularity of the Harry Potter series has translated into substantial financial success for Rowling, her publishers, and other Harry Potter
+              related license holders. This success has made Rowling the first and thus far only billionaire author. The books have sold more than 600 million
+              copies worldwide and have also given rise to the popular <Link>film adaptations</Link> produced by <Link>Warner Bros. Pictures</Link>, all of which
+              have been highly successful in their own right. The total revenue from the book sales is estimated, as of November 2018, to be around $7.7 billion.
+              The first novel in the series, Harry Potter and the Philosopher's Stone, has sold in excess of 120 million copies, making it one of the bestselling
+              books in history. The films have in turn spawned eight video games and have led to the licensing of more than 400 additional Harry Potter products.
+              The Harry Potter brand has been estimated to be worth as much as $25 billion.
+            </p>
+            <p>
+              The great demand for Harry Potter novels motivated The New York Times to create a separate best-selling list for children's literature in 2000, just
+              before the release of Harry Potter and the Goblet of Fire. By June 24, 2000, Rowling's novel had been on the list for 79 straight weeks; the first
+              three novels were each on the hardcover best-seller list. On April 12, 2007, Barnes & Noble declared that Deathly Hallows had broken its pre-order
+              record, with more than 500,000 copies pre-ordered through its site. For the release of Goblet of Fire, 9,000 FedEx trucks were used with no other
+              purpose than to deliver the book. Together, Amazon.com and Barnes & Noble pre-sold more than 700,000 copies of the book. In the United States, the
+              book's initial printing run was 3.8 million copies. This record statistic was broken by Harry Potter and the Order of the Phoenix, with 8.5 million,
+              which was then shattered by Half-Blood Prince with 10.8 million copies. Within the first 24 hours of its release, 6.9 million copies of Half-Blood
+              Prince were sold in the US; in the UK more than two million copies were sold on the first day. The initial US print run for Deathly Hallows was 12
+              million copies, and more than a million were pre-ordered through Amazon and Barnes & Noble.
+            </p>
+            <p>
+              Fans of the series were so eager for the latest installment that bookstores around the world began holding events to coincide with the midnight
+              release of the books, beginning with the 2000 publication of Goblet of Rire. The events, commonly featuring mock sorting, games, face painting, and
+              other live entertainment have achieved popularity with Potter fans and have been highly successful in attracting fans and selling books with nearly
+              nine million of the 10.8 million intial print copies of Half-Blood Prince sold in the first 24 hours. The final book in the series, Deathly Hallows,
+              became the fastest selling book in history, moving 11 million units in the first 24 hours of release. The book sold 2.7 million copies in the UK and
+              8.3 million in the US. The series has also gathered adult fans, leading to the release of two editions of each Harry Potter book, identical in text
+              but with one editor's cover artwork aimed at children and the other aimed at adults.
+            </p>
 
             <h3 className="article-heading-3" id="5.2">Literary criticism</h3>
 
