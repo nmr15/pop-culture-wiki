@@ -312,6 +312,12 @@ const TheAvengersFilm = () =>
               </p>
             </div>
             <div className="flex">
+              <p>
+                Meanwhile, the World Security Council attempts to end the invasion by launching a nuclear missile at Manhattan. Iron Man intercepts the missle and
+                takes it though the portal towards the Chitauri fleet before running out of power and plummeting back to Earth. The Hulk catches Tony as he falls,
+                while the Chitauri fleet is decimated by the nuclear explosion, effectively disabling the Chitauri forces on Earth. Natasha then closes the portal,
+                the battle finally won.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d0/One_way_trip.PNG" alt="Iron Man nuke portal" />
                 <p>Iron Man makes a sacrifice</p>
@@ -322,8 +328,19 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/12/The_Avengers_Assembled.jpg" alt="Loki is defeated" />
                 <p>Loki is defeated</p>
               </div>
+              <p>
+                The world, changed forever, is taken over by the idea of a superhero team. The Avengers become the center of media attention, admired by the
+                public as heroes, but are also met with some concerns and fear. Some find their appearance during the battle to be too coincidental. Joining in
+                Central Park afterwards, the Avengers diverge, though Fury notes that at such a time that a new world-threatening menace emerges, the team will
+                reassemble.
+              </p>
             </div>
             <div className="flex">
+              <p>
+                Meanwhile, the Other meets with his master and informs him of Loki's failure. He shares his concerns over the strength of Earth's heroes, commenting
+                that attemtping to rechallenge them would be deasly. The warlord smiles sadistically at this idea. Before disassembling, the Avengers gather at an
+                empty Shawarma Palace and ate in silence.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/26/Shawarma_Palace.png" alt="Avengers eat shawarma" />
                 <p>The Avengers go for shawrma</p>
