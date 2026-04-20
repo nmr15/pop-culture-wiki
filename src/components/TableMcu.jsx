@@ -36,7 +36,7 @@ const TableMcu = () =>
                             <td>
                                 <div className="table-list">
                                     {phaseTwo.map((p2) => (
-                                        <a href="#" className="table-list-link" key={p2.id}>{p2.title}</a>
+                                        <Link to={p2.route} className="table-list-link" key={p2.id}>{p2.title}</Link>
                                     ))}
                                 </div>
                             </td>
@@ -46,7 +46,7 @@ const TableMcu = () =>
                             <td>
                                 <div className="table-list">
                                     {phaseThree.map((p3) => (
-                                        <a href="#" className="table-list-link" key={p3.id}>{p3.title}</a>
+                                        <Link to={p3.route} className="table-list-link" key={p3.id}>{p3.title}</Link>
                                     ))}
                                 </div>
                             </td>
