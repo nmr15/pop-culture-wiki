@@ -505,6 +505,40 @@ const HarryPotterBooks = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.2">Literary criticism</h3>
+            <p>
+              Early in its history, Harry Potter received positive reviews. On publication, the first book, Harry Potter and the Philosopher's Stone, attracted
+              attention from the Scottish newspapers, such as The Scotsman, which said it had "all the makings of a classic", and The Glasgow Herald, which called
+              it "Magic stuff." Soon, the English newspapers joined in, with The Sunday Times comparing it to Roald Dahl's work ("comparisons to Dahl are, this
+              time, justifued"), while The Guardian called it "a richly textured novel given lift-off by an inventive wit."
+            </p>
+            <p>
+              By the time of the release of the fifth book, Harry Potter and the Order of the Phoenix, the books began to receive strong criticism from literary
+              scholars. Yale professor, literary scholar, and critic Harold Bloom raised criticism of the book's literary merits, saying, "Rowling's mind is so
+              governed by clichés and dead metaphors that she has no other style of writing." A. S. Byatt authored an op-ed article in The New York Times calling
+              Rowling's universe a "secondary secondary world, made up of intelligently patchworked derivative motifs from all sorts of children's literarure...
+              written for people whose imaginative lives are confined to TV cartoons, and the exaggerated (more exciting, not threatening) mirror-worlds of soaps,
+              reality TV, and celebrity gossip."
+            </p>
+            <p>
+              Michawl Rosen, a novelist and poet, held the opinion that the books were not suited for children, as they would be unable to grasp the complex
+              themes. Rosen also stated that "J. K. Rowling is more of an adult writer." The critic Anthony Holden wrote in The Observer on his experience of
+              jugding Harry Potter and the Prisoner of Azkaban for the 1999 Whittbread Awards. His overall view of the series was negative, "the Potter saga was
+              essentially patronising, conservative, highly derivative, dispiriting nostalgic for a bygone Britain", and he speaks of "a pedestrian,
+              ungrammatical prose style." Ursula K. Le Guin said, "I have no great opinion of it ... It seemed a lively kid's fantasy crossed with a 'school novel',
+              good fare to its age group, but stylistically ordinary, imaginatively derivative, and ethically rather mean-spirited." By contrast, author Fay Weldon,
+              while admitting that the series is "not what the poets hoped for", nevertheless goes on to say, "but this is not poetry. It is readable, saleable,
+              everyday, useful prose."
+            </p>
+            <p>
+              The literary critic A. N. Wilson praised the Harry Potter series in The Times, stating, "There are not many writers who have JK's Dickensian ability to
+              make us turn the pages, to weep—openly, with tears splashing—and a few pages later to laugh, at invariably good jokes ... We have lived through a decade
+              in which we have followed the publication of the liveliest, funniest, scariest and most moving children's stories ever written." Charles Taylor of
+              Salon.com, who is primarily a movie critic, took issue with Byatt's criticisms in particular. While he conceded that she may have "a valid cultural
+              point—a teeny one—about the impulses that drive us to reassuring pop trash and away from the troubling complexities of art", he rejected her claims that
+              the series is lacking in serious literary merit and that it owes its success merely to the childhood reassurances it offers. Stephen King called the
+              series "a feat of which only a superior imagination is capable", and declared "Rowling's punning, one-eyebrow-cocked sense of humor" to be "remarkable".
+              However, he wrote that he is "a little tired of discovering Harry at home with his horrible aunt and uncle", the formulaic beginning of all seven books.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Themes critique</h3>
 
