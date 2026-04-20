@@ -238,6 +238,11 @@ const TheAvengersFilm = () =>
               </p>
             </div>
             <div className="flex">
+              <p>
+                The Avengers confront Fury with their discoveries, to which he reveals that S.H.I.E.L.D. began using the Tesseract to manufacture weapons in
+                response to the incident with the Destroyer in New Mexico. A massive argument ensues, during which the brainwashed Barton, accompanied by various
+                soldiers also working for Loki, attacks the Helicarrier, crippling one of its engines.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Hill_%26_Fury.png" alt="Nick Fury and Maria Hill defend the Helicarrier" />
                 <p>Nick Fury and Maria Hill defend the Helicarrier</p>
@@ -248,8 +253,22 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/28/HulkBlackWidow.png" alt="Hulk chases Black Widow" />
                 <p>Hulk chases Black Widow</p>
               </div>
+              <p>
+                The resulting explosion destroys the lab where the group is arguing, causing Natasha and Bruce to fall into the boiler area, trapped by wreckage.
+                Despire Natasha's attempts at calming him down, the injured Bruce transforms into the Hulk and chases Natasha throughout the Helicarrier. Thor comes
+                to her rescue and brawls with the Hulk, only to be outclassed in strength. A S.H.I.E.L.D. jet attempts to lure the Hulk away from Thor, only for
+                the Hulk to leap at the jet and tear it apart. The jet explodes, and the Hulk is sent careening towards the ground.
+              </p>
             </div>
             <div className="flex">
+              <p>
+                Steve and Tony try to repair the damaged engine, but Loki's underlings hinder their efforts. Natasha confronts Clint, and after an intense fight,
+                she is able to break Loki's control by delivering a concussive blow to Clint's head. Thor attempts to prevent Loki from escaping, but is tricked by
+                an illusion of Loki and trapped in his former prison cell. Coulson tries to save Thor, but Loki stabs him through the chest with his scepter and
+                then jettisons Thor from the Helicarrier. Thor breaks free from the cell at the last second, landing in a field. Steve and Tony eventually
+                overcome their aggressors and get the Helicarrier airborne again. However, the victory is bittersweet as Loki escapes and Coulson dies from his
+                injury.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/95/CoulsonOnlyMostlyDead-Avengers.png" alt="Phil Coulson dies" />
                 <p>Phil Coulson dies</p>
@@ -260,8 +279,21 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9a/Hawkeye%2C_Captain_America_%26_Black_Widow.jpg" alt="Hawkeye, Captain America, Black Widow" />
                 <p>The team suit up</p>
               </div>
+              <p>
+                Fury attempts to use Coulson's death to motivate the Avengers into cooperating as a team, but Steve and Tony get into another argument. However, the
+                two realize that Loki plans to open the portal above Stark Tower, at the center of New York City, in an attempt to satisfy his ego. Steve, Natasha,
+                and Clint take a Quinjet to New York City, following Tony in his suit. Tony arrives first, failing to stop the brainwashed Selvig from using the
+                Tesseract to open the portal in conjunction with a device he built.
+              </p>
             </div>
             <div className="flex">
+              <p>
+                Tony confronts Loki, the two engage in a brief banter of wits, with Tony failing to intimidate Loki with his threats regarding the Avengers. Loki
+                unsuccessfully tries to posses Tony as his <Link>arc reactor</Link> physically blocks the scepter's power, and instead throws Tony through a
+                window. Fortunately, Tony manages to activate his <Link>Mark VII armor</Link>, which attaches to Stark before he hits the ground. Tony then
+                attempts to incapacitate Loki, but Selvig's device initiates, opening a portal above New York. The Chitauri fleet emerge, beginning Loki's
+                invasion.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/26/Loki_%26_Iron_Man.png" alt="Loki and Iron Man" />
                 <p>Loki and Iron Man</p>
@@ -272,6 +304,12 @@ const TheAvengersFilm = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Avengers.png" alt="The Avengers" />
                 <p>The Avengers</p>
               </div>
+              <p>
+                Clint, Natasha, Steve, and Thor join Tony to destroy many Chitauri, but more poured from the portal. Bruce arrives on a motorbike and uses a
+                special technique to willingly transform into the Hulk. Hulk smashes a huge Chitauri ship and proceeds to beat Loki into submission. Meanwhile, the
+                team fights hordes of Chitauri. Natasha makes her way to Selvig's device. Selvig, now freed of Loki's control, reveals that Loki's scepter can
+                close the portal.
+              </p>
             </div>
             <div className="flex">
               <div className="img-card ml-1">
