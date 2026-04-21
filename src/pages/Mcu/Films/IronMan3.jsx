@@ -191,6 +191,63 @@ const IronMan3 = () =>
                 <p>Pepper Potts says goodbye to Aldrich Killian.</p>
               </div>
             </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cc/ChineseTheatreExplosion2.jpg" alt="Chinese Theater explosion" />
+                <p>Jack Taggart accidentally explodes.</p>
+              </div>
+              <p>
+                <Link to="/mcu/happy_hogan">Happy Hogan</Link>, who has been promoted to Stark Industries' head of security (since Iron Man is hardly in need of a
+                bodyguard at this point), becomes suspicious of Killian's bodyguard, Eri Savin, and investigates him at the Chinese Theatre. When he witnesses Jack
+                Taggart unexpectedly combust. It destroys the Chinese Theatre, and puts Happy into the Cedars-Sinai hospital: Savin escapes, mysteriously
+                regenerating from his injuries.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                When leaving the hospital
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Tony_armor.jpg" alt="Pepper using the armor" />
+                <p>Pepper Potts using the XLII Armor to save Tony Stark.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d0/Armor_Tony.jpg" alt="Tony sitting with his armor" />
+                <p>Tony Stark relaxes beside his Mark XLII armor.</p>
+              </div>
+              <p>
+                Tony uses his apparent death
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Extremis, however
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/TonyandHarley-IM3.jpg" alt="Tony and Harley" />
+                <p>Tony Stark befriends Harley Keener.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Aldrich_Killian.jpg" alt="Aldrich Killian" />
+                <p>Aldrich Killian is updated about the attack on Tony Stark.</p>
+              </div>
+              <p>
+                Further investigation
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                With Keener's help
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/98/Trevor-Slattery-BloodyEll.jpg" alt="Trevor Slattery" />
+                <p>Trevor Slattery being confronted by Tony Stark.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
