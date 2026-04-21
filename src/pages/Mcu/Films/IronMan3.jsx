@@ -137,7 +137,60 @@ const IronMan3 = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-            
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/TStark-MeetingAKillian.jpeg" alt="Tony and Aldrich" />
+                <p>Tony Stark meets Aldrich Killian.</p>
+              </div>
+              <p>
+                Tony Stark begins narrating the story of how he lost everything, starting how it all started at a New Year's Eve party in 1999; Tony meets the
+                eccentric and physically disabled <Link to="/mcu/aldrich_killian">Aldrich Killian</Link>, who promotes his company,
+                <Link to="/mcu/aim"> Advanced Idea Mechanics</Link>. However, Tony, deciding to research another operation, <Link to="/mcu/extremis">Extremis</Link>
+                with <Link to="/mcu/maya_hansen">Maya Hansen</Link> misleads Killian into believing he was interested in his ideas. He sends him to wait on the
+                roof, never intending to show up. Tony witnesses the powers of Extremis first-hand, as it can genetically manipulate living organisims. As the year
+                2000 begins, New Year's fireworks go off, and Killian is left alone on the roof.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Thirteen years later, following the Battle of New York, Tony has spent all his time building dozens of new powered suits. It is clear that his near
+                death experience while destorying the <Link>Chitauri</Link> has had a deep effect on him, as he starts showing signs of post traumatic stress
+                disorder. Not helping is the emergence of a new threat; a powerful terrorist leader named the
+                <Link to="/mcu/trevor_slattery"> Mandarin</Link> has been responsible for multiple bombings. In order to assure the public that the US government
+                is capable of handling the threat, they have given <Link to="/mcu/james_rhodes">James hodes</Link>' War Machine armor a Captain America-inspired
+                paint job and renamed him "Iron Patriot", to a mixed reception across the United States.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ee/Mark4p.jpg" alt="Mark 42 armor" />
+                <p>Tony Stark tests the Mark XLII Armor.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/Trevor_Slattery_%28Mandarin%29.jpg" alt="The Mandarin" />
+                <p>Trevor Slattery portrays the "Mandarin".</p>
+              </div>
+              <p>
+                Tony meets Rhodes in a diner and the two discuss the Mandarin. Rhodes reveals there have been more bombings than have been reported on the news,
+                and intelligence agencies have been left mystified by the lack of physical evidence left behind. Rhodes insists that Tony not get involved, as the
+                US government is keen to handling this themselves to reassure people who have been left nervous following the Chitauri invasion. The discussion is
+                interrupted when two children ask Tony to sign a drawing of him carrying the nuclear missile through the wormhole, and the image clearly puts
+                Stark on edge. When one of the children asks how he escaped the wormhole, this triggered a severe panic attack and Tony leaves abruptly,
+                concerning Rhodes.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                That night, Tony has a nightmare about his near death causing one of his suits to nearly attack <Link to="/mcu/pepper_potts">Pepper Potts</Link>,
+                when it detects he is in distress. Pepper gets ready to leave, so Tony finally admits that something about him has changed since he left New York
+                City. The situation becomes even worse when Pepper is visited by Killian, who happens to be an old love interest. Killian is now far more suave and
+                confident, and no longer shows any signs of his previous handicap. Pepper rejects Killian's invitation into Advanced Idea Mechanics.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6f/Aldrich_Killian_%26_Pepper_Potts.jpg" alt="Killian and Pepper" />
+                <p>Pepper Potts says goodbye to Aldrich Killian.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
