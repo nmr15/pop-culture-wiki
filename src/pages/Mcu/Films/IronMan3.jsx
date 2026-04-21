@@ -205,7 +205,12 @@ const IronMan3 = () =>
             </div>
             <div className="flex">
               <p>
-                When leaving the hospital
+                When leaving the hospital after visiting Happy, a pointed question by a reporter causes a furious Tony to make an impromptu statement towards the
+                Mandarin, promising revenge and giving him his home address as a challenge. Later, Tony is unexpctedly visited by Hansen, and the same time, Tony's
+                home is attacked and destroyed by the Mandarin's helicopters. Tony survives the attack, but is left stranded in rural Rose Hill, Tennessee when
+                <Link to="/mu/jarvis">J.A.R.V.I.S.</Link> follows a flight plan left in his system, and Tony's experimental armor does not have sufficient power to
+                return to California. The world believes Tony to be dead as the Mandarin starts issuing more threats of violence. Unfortunately, after landing,
+                J.A.R.V.I.S. powers down as the suit runs out of charge, leaving Tony with nothing but a dead suit and the clothes on his back.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Tony_armor.jpg" alt="Pepper using the armor" />
@@ -218,12 +223,19 @@ const IronMan3 = () =>
                 <p>Tony Stark relaxes beside his Mark XLII armor.</p>
               </div>
               <p>
-                Tony uses his apparent death
+                Tony uses his apparent death to his advantage, conducting an investigation into an explosion that bears the same hallmarks as one of the
+                Mandarin's attacks, but which the Mandarin did not claim responsibility for. Tony befriends a local boy named
+                <Link to="/mcu/harley_keener"> Harley Keener</Link>, and hides out in his garage where he begins slowly charging his suit. Using what little
+                information he has, Tony discovers that each of the Mandarin's explosions was triggered by soldiers that were infected with Extremis, the same
+                experimental treatment engineered by Maya Hansen.
               </p>
             </div>
             <div className="flex">
               <p>
-                Extremis, however
+                Extremis, however, has a fatal flaw; in the event a user is unable to regulate their internal body temperature, they will start to gain heat at an
+                exponential rate and explode. Tony witnesses the power of Extremis first-hand when he is attacked by Ellen Brandt and Eric Savin. Tony sets fire to
+                a building that blows up Brandt, and even though Savin had set a water tower on fire using his thermal abilities and had brought the tower down on
+                Tony, Tony survives and after shooting Savin he steals his car keys. Savin survives, while Tony abandons Harley and flees Rose Hill.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/TonyandHarley-IM3.jpg" alt="Tony and Harley" />
@@ -246,6 +258,17 @@ const IronMan3 = () =>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/98/Trevor-Slattery-BloodyEll.jpg" alt="Trevor Slattery" />
                 <p>Trevor Slattery being confronted by Tony Stark.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/StarkKillian-HansensThreat.jpeg" alt="Maya betrays Aldrich" />
+                <p>Maya betrays Aldrich.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/Iron_Patriot.png" alt="Iron Patriot" />
               </div>
             </div>
           </div>
