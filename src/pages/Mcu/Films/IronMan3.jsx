@@ -248,12 +248,18 @@ const IronMan3 = () =>
                 <p>Aldrich Killian is updated about the attack on Tony Stark.</p>
               </div>
               <p>
-                Further investigation
+                Further investigation into the Mandarin, he realizes that all the soldiers were once members of Advanced Idea Mechanics, Killian's company. Tony
+                dedues that Killian had updated Extremis, and distributed the program to the Mandarin for his terror attacks. Hansen confirms working with
+                Killian to Pepper, in an attempt to have Tony fix Extremis' flaws. However, unbeknownst to them, Killian arrives and kidnaps Pepper, after
+                learning that Hansen visited Tony prior to the attack on his mansion.
               </p>
             </div>
             <div className="flex">
               <p>
-                With Keener's help
+                With Keener's help, Tony traces the Mandarin to Miami, where he infiltrates the Mandarin's headquarters with a variety of home-made weapons. There,
+                he discovers that the Mandarin is actually a British actor named Trevor Slattery, who is completely oblivious to the acts the Mandarin has
+                carried out. The Mandarin is Killian's creation, who used Hansen's research to cure his own disability and expanded the program to include
+                injured war veterans.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/98/Trevor-Slattery-BloodyEll.jpg" alt="Trevor Slattery" />
@@ -265,10 +271,73 @@ const IronMan3 = () =>
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/StarkKillian-HansensThreat.jpeg" alt="Maya betrays Aldrich" />
                 <p>Maya betrays Aldrich.</p>
               </div>
+              <p>
+                After veterans started growing unstable and exploding, Killian used their deaths to cover up the flaws in Extremis and manufacture a terrorist
+                plot. Realizing Killian's motivations, Tony blames himself for setting Killian on the path that would ultimately see him create the Mandarin.
+                Killian reveals he has kidnapped Pepper and subjected her to the Extremis treament, using her as leverage against Tony. When Hansen reneges against
+                Killian, and threatens to sabotage the Extremis program, Killian shoots her dead.
+              </p>
             </div>
             <div className="flex">
+              <p>
+                As he controls the Mandarin, Killian has also manipulated the American intelligence agencies as to the Mandarin's location. He uses this falsified
+                intelligenceto lure Rhodey with the Iron Patriot armor. Tony escapes captivity, just as Killian sends Savin to commandeer an attack on President
+                Matthew Ellis aboard Air Force One. Saving plants a bomb on the plane, and kills multiple Secret Service agents, before abducting Ellis; Tony
+                intervenes and kills Savin, but the bomb goes off, sucking out multiple passengers. Tony saves the passengers and crew from their deaths, but Ellis
+                is nonetheless captured by Killian.
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/Iron_Patriot.png" alt="Iron Patriot" />
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/James_Rhodes_%26_Tony_Stark.jpg" alt="Tony and Rhodey" />
+                <p>Tony and Rhodey witness the Iron Legion's arrival.</p>
+              </div>
+              <p>
+                They follow him to a container terminal, where he intends to kill Ellis on live television. Vice President Gil Rodriguez will assume control of the
+                country, following Killian's orders in exchange for a sample of Extremis to cure his daughter's disability. With the Mandarin and the President
+                under his control, Killian will be able to manipulate global events for his own profit. Tony and Rhodey infilitrate the container terminal, with
+                Tony going to save Pepper and Rhodey the President. Tony summons each of the Iron Man suits he has created, controlled remotely by J.A.R.V.I.S., to
+                support them from the air. Rhodey secures President Ellis and leads him to safety, whilst Stark discovers that Pepper has survived the Extremis
+                procedure. However, before he can save her, the rig collapses around them and Pepper falls to her apparent death.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Tony has not time to process this as he is forced into a fierce fight with Killian whilst wearing various Iron Man suits. Tony successfully traps
+                him in one of the suits and has it self-destruct. He starts searching Pepper, who survived her fall cortesy of the abilities she received from
+                Extremis. A deformed Killian emerges from the wreckage and reveals to Stark that he is the real Mandarin, before attempting to kill Tony, but is
+                instead killed by Pepper.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/05/Aldrich_killian.jpg" alt="Aldrich Killian Extremis" />
+                <p>Killian declaring himself as the Mandarin.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e1/Dum-E_Saved.png" alt="Tony's mansion" />
+                <p>Tony leaves his mansion.</p>
+              </div>
+              <p>
+                In the aftermath of the events on the container terminal, Tony makes a promise to Pepper that he'll find a cure for her Extremis condition and
+                orders J.A.R.V.I.S. to remotely destroy each of the Iron Man suits. Both Vice President Rodriguez and Trevor are taken into police custody, while
+                Tony is able to reverse Pepper's Extremis condition. Afterwards, Tony decides to undergo surgery to remove the pieces of shrapnel embedded in
+                his hear, and also rewards Harley for his help by filling his garage with cool and expensive items. Returning to the spot his mansion once stood,
+                Tony throws the Arc Reactor into the sea as he remarks that even when he has nothing, he will always be Iron Man.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Tony finishes telling this story, and it is revealed he was telling it to <Link to="/mcu/bruce_banner">Bruce Banner</Link>, who had fallen asleep
+                near the beginning. As Bruce insists he isn't a psychiatrist as he hasn't got the temperament for the job, Tony starts telling the story again,
+                much to Bruce's annoyance.
+              </p>
+              <div className="img-csrd ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/92/Bruce_as_Tony%27s_therapist.jpg" alt="Tony and Bruce" />
+                <p>Tony tells Bruce his story.</p>
               </div>
             </div>
           </div>
