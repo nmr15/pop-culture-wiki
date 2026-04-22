@@ -345,7 +345,36 @@ const IronMan3 = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <ul className="article-list">
+              <li>
+                <Link>Robert Downsy Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>: <br />
+                An Avenger amd a self-described genius, billionaire, playboy, and philanthropist with mechanical suits of armor of his own invention. Tony now
+                struggles to come to terms with his near-death experience in <Link to="/mcu/the_avengers_film">The Avengers</Link>, suffering from anxiety
+                attacks. On making a third Iron Man film, Downey said, "My sense of it is that we need to leave it all on the field, whatever that means in the
+                end. You can pick several different oints of departure from that." On following up The Avengers, Downey said they "tried to be practical, in a
+                post-Avengers world. What are his challenges now? What are some limitations that might be placed on him? And what sort of threat would have him, as
+                usual, ignore those limitations?" Screenwriter Drew Pearce compared Tony to an American James Bond for both being "heroes with a sense of danger to
+                them, and unpredictable" evein if Stark was a "free agent" instead of an authority figure like Bond. He also likened Tony to the protagonists of
+                1970s films such as The French Connection (1971), where "the idiosyncrasies of the heroes is what made them exciting."
+              </li>
+              <li>
+                <Link>Gwyneth Paltrow</Link> as <Link to="/mcu/pepper_potts">Pepper Potts</Link>: <br />
+                Tony's girlfriend, longtime associate, and the current CEO of Stark Industries. Paltrow says of her character's relationship to Tony, "She still
+                adores Tony, but she absolutely gets fed up with him. He gets caught in a feedback loop." Kevin Feige commented on Pepper's role in the film: "The
+                love triangle in this movie is really between Tony, Pepper, and the suits. Tony, Pepper, and his obsession with those suits, and the obsession
+                with technology." Feige also stated the film uses the character to play with the damsel in distress trope, and posits the question, "is Pepper in
+                danger or is Pepper the savior?"
+              </li>
+              <li>
+                <Link>Don Cheadle</Link> as <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes / War Machine</Link>: <br />
+                Tony's best friend and the liaison between Stark Industries and the U.S. Air Force in the department of acquisitions. Rhodes operates the
+                redesigned/upgraded War Machine armor, taking on an American flag-inspired color scheme similar to the Iron Patriot armor from the comics. Feige
+                said of Rhodes and the armor, "The notion in the movie is that a red, white, and blue suit is a bold statement, and it's meant to be. With Rhodey,
+                he's very much the foil to Tony's eccentricities, and in this one you get to see this and be reminded of the trust and friendship between them in
+                that great Shane Black buddy-cop fashion." In the film, the president asks Rhodey to up the moniker "Iron Patriot", and don the red, white, and blue
+                suit, in order to be the government's "American hero" in response to the events in The Avengers.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
