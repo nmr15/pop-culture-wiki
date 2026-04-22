@@ -421,6 +421,15 @@ const IronMan3 = () =>
                 and director on the previous two Iron Man films, said participating in the new film was "like being a proud grandfather who doesn't have to change
                 the diapers but gets to play with the baby."
               </li>
+              <li>
+                <Link>Ben Kingsley</Link> as <Link to="/mcu/trevor_slattery">Trevor Slattery</Link>: <br />
+                A British actor who Killian hired to portray the Mandarin, a terrorist persona in jammed television broadcasts in which he is depicted as the
+                leader of the international terroirst organization the <Link>Ten Rings</Link>. Kingsley was filming Ender's Game (2013) when he was cast, and
+                said that, "Quite soon I'll be with everybody and we'll be discussing the look and the feel and the direction of the character. It's very early days
+                yet, but I'm so thrilled to be on board." On his performance, Kingsley stated: "I wanted a voice that would disconnect a Western audience. I wanted
+                a voice that would sound far more homegrown and familiar, a familiarity like a teacher's voice or a preacher's voice." The rhythm and tones of an
+                earnest, almost benign, teacher, trying to educate people for their own good
+              </li>
             </ul>
           </div>
         </div>
@@ -445,6 +454,25 @@ const IronMan3 = () =>
               to know one another, agreed to write the film with Pearce.
             </p>
             <h4 className="article-heading-4" id="3.1.1">Writing</h4>
+            <p>
+              Black described his take on the film as not being "two men in inron suits fighting each other," and more like a "Tom Clancy thriller", with Iron Man
+              fighting real-world type villains. Pearce added that they would avoid magic and space, with Iron Man 3 being "a techno-thriller set in a more real
+              world than even The Avengers." The duo spent some time discussing themes and images and ideas before starting the script. While writing, the focus was
+              to avoid scenes of pure exposition, making every moment propel other narrative points forward. Some elements from the comics were used even if in
+              different connotations, such as making Rhodes wear <Link to="/marvelcomics/norman_osborn">Norman Osborn</Link>'s Iron Patriot armor and naming some
+              characters with names from unrelated people in the Marvel Universe such as Eric Savin and Jack Taggart.
+            </p>
+            <p>
+              The film's plot is influenced primarily by the "Extremis" (2005-2006) comic storyline, written by Warren Ellis. The first two acts would remain
+              character-centric, albeit in Black's words "more hectic, frenetic, and large scale" to fulfill its sequel obligations, with the third act going for
+              more over-the-top action to what Pearce described as "giving a sense of opera." The middle act was compared to Sullivan's Travels (1941) in having
+              Tony meeting various people on his journey, and the writers made sure to not make the characters too similar. The initial draft had Maya Hansen
+              leading the villainous operation, with the Mandarin and Killian emerging as antagonists in later versions of the script. During one of the writing
+              sessions, Pearce suggested that the Mandarin was a fake, and Black agreed by going with making him an actor, which in turn Pearce detailed as an
+              overacting British stage performer. Black explained; "Who would be foolish enough to declare that he is an international terrorist? If you're smart,
+              whatever regime you're part of, you'd put a puppet commitee and remain your house." In turn Killian would hide Trevor Slattery in "his own frat
+              house, in kind of a drug-related house arrest" to keep the secret alive.
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
 
