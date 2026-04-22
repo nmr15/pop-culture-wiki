@@ -374,6 +374,53 @@ const IronMan3 = () =>
                 that great Shane Black buddy-cop fashion." In the film, the president asks Rhodey to up the moniker "Iron Patriot", and don the red, white, and blue
                 suit, in order to be the government's "American hero" in response to the events in The Avengers.
               </li>
+              <li>
+                <Link>Guy Pearce</Link> as <Link to="/mcu/aldrich_killian">Aldrich Killian</Link>: <br />
+                The creator of the Extremis virus and the founder and owner of the science and developmnt organization Advanced Idea Mechanics who adopts the
+                mantle of the Mandarin as his own. Killian develops Extremis to cure his own debilitating disability; in addition to his regenerative healing
+                qualities, he has superhuman strength and the ability to generate extreme heat. Prolonged exposure to Extremis also grants him the ability to
+                breathe fire. Pearce felt he was "a little more experimental" in the roles he was taking in his career, and was not keen on appearing in a
+                superhero film, but felt his role in this film was "cameo stuff" which was a more enjoyable experience because he was "working in concentrated
+                spurts." Pearce described Killian as a man with physical disabilities who has "never been able to accept those limitations" and works to overcome
+                them, continuing, "His tenacity and blind dtermination in fighting for a better life are seen by some as irritating, as he often comes across as
+                obnoxious." Black felt that Perace ultimately is the Mandarin in the film, and that Marvel worked with him "to come up with these crazy things,
+                these far out ideas" that divert from established expectations from the comics.
+              </li>
+              <li>
+                <Link>Rebecca Hall</Link> as <Link to="/mcu/maya_hansen">Maya Hansen</Link>: <br />
+                A geneticist whose work helped Killian create Extremis. Hall said Hansen would be a "strong female character," and described her decision to
+                take the role, saying, "I decided to do Iron Man 3 because I've never done the 'hurry up and wait' movie before. Even the studio movies I've done
+                have been small studio movies, or indie film that we made on a wing and a prayer. I love these, but Iron Man is refreshing in a way because it's
+                something out of my realm of experiences." Hall confirmed her character's role was greatly reduced in the final film, saying, "I signed on to do
+                something that was a substantial role. She wasn't entirely the villain, there have been several phases of this, but I signed on to do something
+                very different to what I ended up doing."
+              </li>
+              <li>
+                <Link>Stéphanie Szostak</Link> as Ellen Brandt: <br />
+                A war veteran who becomes an assassin after her exposure to Extremis. Describing Brandt, Szostak says, "...Extremis was a second chance at life.
+                We talked about what you fell like and I think it almost makes you a fuller version of who you are, all your weakness and your qualities, just
+                everything gets enhanced. I saw it as very freeing, almost you become your true-self and your fantasy-self all at once." The writers originally
+                envisioned Brandt as Killian's mainhenchman, who would return throughout the film to fight Tony, but eventually, that role was reassigned to Erik
+                Savin.
+              </li>
+              <li>
+                <Link>JJames Badge Dale</Link> as Eric Savin: <br />
+                Killian's Extremis-powered henchman. Dale stated that his character in the film was "loosely based on" the comic version of the character.
+                According to Dale, "Ben Kingsley is the mouthpiece. Guy Pearce is the brain. I'm the muscle."
+              </li>
+              <li>
+                <Link>William Sadler</Link> as Matthew Ellis: The President of the United States, named after Warren Ellis, who wrote the "Extremis" comics arc
+                that primarily influenced the film's story.
+              </li>
+              <li>
+                <Link>Miguel Ferrer</Link> as Rodriguez: The Vice President of the United States.
+              </li>
+              <li>
+                <Link>Jon Favreau</Link> as <Link to="/mcu/happy_hogan">Happy Hogan</Link>: <br />
+                Tony Stark's former bodyguard and chauffeur who now serves as Stark Industries' head of security department. Favreau, who served as both actor
+                and director on the previous two Iron Man films, said participating in the new film was "like being a proud grandfather who doesn't have to change
+                the diapers but gets to play with the baby."
+              </li>
             </ul>
           </div>
         </div>
