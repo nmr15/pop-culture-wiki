@@ -427,8 +427,16 @@ const IronMan3 = () =>
                 leader of the international terroirst organization the <Link>Ten Rings</Link>. Kingsley was filming Ender's Game (2013) when he was cast, and
                 said that, "Quite soon I'll be with everybody and we'll be discussing the look and the feel and the direction of the character. It's very early days
                 yet, but I'm so thrilled to be on board." On his performance, Kingsley stated: "I wanted a voice that would disconnect a Western audience. I wanted
-                a voice that would sound far more homegrown and familiar, a familiarity like a teacher's voice or a preacher's voice." The rhythm and tones of an
-                earnest, almost benign, teacher, trying to educate people for their own good
+                a voice that would sound far more homegrown and familiar, a familiarity like a teacher's voice or a preacher's voice. The rhythm and tones of an
+                earnest, almost benign, teacher, trying to educate people for their own good." The Mandarin was initially set to appear in the first Iron Man film,
+                but he was put off for a sequel as the filmmakers felt that he was "tooo ambitious for a first film." On the character, Feige stated, "The
+                Mandarin is Iron Man's most famous foe in the comics mainly because he's been around the longest. If you look, there's not necessarily a
+                definitive Mandarin storyline in the comics. So it was really about having an idea." Black explained Kingsley's Mandarin is not Chinese in the
+                film as he is in the comics in order to avoid the Fu Manchu stereoteype: "We're not saying he's Chinese, we're saying he, in fact, draws a cloak
+                around him of Chinese symbols and dragons because it represents his obsession with Sun Tzu in various ancient arts of warfare that he studied." The
+                filmmakers also cited Colonel Kurtz from Apocalypse Now (1979) as an influence for the character. The videos where the Mandarin gives historical
+                background to the attacks expressed how it emerged as the product of "a think tank of people trying to create a modern terrorist." Thus, the
+                Mandarin "represents every terrorist in a way", from South American insurgency tactics to the videos of Osama bin Laden.
               </li>
             </ul>
           </div>
