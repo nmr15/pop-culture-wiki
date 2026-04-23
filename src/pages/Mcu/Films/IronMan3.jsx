@@ -525,7 +525,14 @@ const IronMan3 = () =>
               <Link to="/mcu/sam_wilson"> Sam Wilson</Link> in the MCU, also auditioned for. The following week, producer Kevin Feige revealed that Iron Man 3 would
               begin shooting in North Carolina "in five weeks", and said that it "is a full-on Tony Stark-centric movie ... very much inspired by the first half of
               Iron Man ... He's stripped of everything, he's backed up against a wall, and he's gotta use his intelligence to get out of it. He can't call
-              "
+              <Link to="/mcu/thor"> Thor</Link>, he can't call <Link to="/mcu/steve_rogers">Cap</Link>, he can't call <Link to="/mcu/nick_fury">Nick Fury</Link>,
+              and he can't look for the <Link to="/mcu/helicarrier">Helicarrier</Link> in the sky." A few days later, The Walt Disney Company China, Marvel
+              Studios, and DMG Entertainment announced an agreement to co-produce Iron Man 3 in China. DMG partly financed, produced in China with Marvel, and
+              handled co-prodution matters. DMG also distributed the film in China in tandem with Disney. DMG had been pitching Marvel Studios on collaboration
+              oportunities to enhance the film for the Chinese market. Initially, they suggested that Harley Keener be a Chinese exchange student, something Marvel
+              Studios co-president Louis D'Esposito shot down since they did not want the film to feature "the sidekick from Indian Jones and the Temple of Doom."
+              Instead, Feige suggested a doctore named Doctor Wu (in reference to the Steely Dan song) who could remove the shrapnel from Stark's chest. Chinese
+              star Andy Lau became involved in negotiations to join the film in that role. Lau would later turn down the role, and Wang Xueqi was cast instead.
             </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
