@@ -439,6 +439,21 @@ const IronMan3 = () =>
                 Mandarin "represents every terrorist in a way", from South American insurgency tactics to the videos of Osama bin Laden.
               </li>
             </ul>
+            <p>
+              <Link>Paul Bettany</Link> reprises his role from previous films as J.A.R.V.I.S., Stark's AI system. Ty Simpkins portrays Harley Keener, a child who
+              lives in Rose Hill, Tennessee, who assists Stark when the latter breaks into his garage in order to repair his suit. He later helps Star
+              investiage various incidents associated with the Extremis project, and afterwards he is rewarded by Stark with a garage full of modern
+              engineering tools and equipment. Simpkins reprises his role as Harley in a cameo appearance in
+              <Link to="/mcu/avengers_endgame"> Avengers: Endgame</Link>. Simpkins has stated that he had a three-picture deal with Marvel Studios. Ashley Hamilton
+              portrays Taggart, one of the Extremis soldiers. Adam Pally plays Gary, a cameraman who helps Stark. Shaun Toub reprises his role as
+              <Link to="/mcu/ho_yinsen"> Ho Yinsen</Link> from the first Iron Man film in a brief cameo, and <Link>Stan Lee</Link> makes a cameo appearance as a
+              beauty pageant judge. Dale Dickey plays Mrs. Davis, mother of an Extremis subject that is framed as a terrorist. Wang Xueqi breifly plays Dr. Wu in
+              the general release version of the film. A cut of the film produced for release exclusively in China includes additional scenes featuring Wang and
+              an appearance by Fan Bingbing as one of his assistants. jenna Ortega briefly appears uncredited as the vice president's daughter, her lines were cut
+              from the final film. <Lin>Mark Ruffalo</Lin> makes an uncredited cameo appearance, reprising his role as Bruce Banner from The Avengers, in a
+              post-credits scene. Comedian Bill Maher and Joan Rivers, and Fashion Police co-host George Kotsiopoulos have cameo appearances as themselves on
+              their respective real-world television programs, as do newscasters Josh Elliott, Megan Henderson, Pat Kiernan, and Thomas Roberts.
+            </p>
           </div>
         </div>
         <div>
@@ -480,6 +495,26 @@ const IronMan3 = () =>
               overacting British stage performer. Black explained; "Who would be foolish enough to declare that he is an international terrorist? If you're smart,
               whatever regime you're part of, you'd put a puppet commitee and remain your house." In turn Killian would hide Trevor Slattery in "his own frat
               house, in kind of a drug-related house arrest" to keep the secret alive.
+            </p>
+            <p>
+              According to Black, the reveal of the actual villain being Hansen was "like Remington Steele, you think it's the man but at the end, the woman has
+              been running the whole show." The role was eventually shifted to Killian because of objections by Marvel Entertainment executives, who were
+              concerned with apparent merchandising losses that could come with having a female villain. The roles of several other major female characters
+              were also made smaller in the final film compared to earlier drafts.
+            </p>
+            <p>
+              Both the opening and the ending of the film were reworked in various ways. First it would begin with a flashback to Tony's childhood. Then like Iron
+              Man it would begin in medias res, with Tony crashing in Tennessee before a voice-over that would lead to how he got there, until it got changed to
+              the final version. For the climactic tanker battle, it was originally considered that Brandt would show up in the James Bond tradition of the
+              henchman coming back for the heroes. Instead they chose to use Killian himself, and have Pepper, whom he abused earlier, cause his downfall as a way
+              of poetic justice. The final dialogue was originally written as "I am Tony Stark" to tbe a response to the first film's ending, but eventually it
+              changed to "I am Iron Man" to enhance the mythical qualities. On setting the fllm around Christmas, Black said "I think it's a sense of if you're doing
+              something on an interesting scale that involves an entire universe of characters, one way to unite them is to have them all undergo a common
+              experience. There's something at Christmas that unites everybody and it already sets a stage within the stage, that wherever you are, you're
+              experiencing this world together. I think that also there's something just pleasing about it to me." Pearce added that he would have wanted to see
+              a third Iron Man film set at Christmas, adding that "when you're telling a story about taking characters apart, it almost has more resonance if you
+              put it at Christmas and if you're also telling a story about lonelier characters as well. That loneliness is heightened at Chrismas." Black also felt
+              the character Harley Keener embodied the Ghost of Christmas Past for Stark.
             </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
