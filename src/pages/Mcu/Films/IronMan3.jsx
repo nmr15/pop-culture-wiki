@@ -518,6 +518,15 @@ const IronMan3 = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              In September 2011, Marvel Studios reached an agreement to shoot the film primarily out of EUE/Screen Gems Studios in Wilmington, North Carolina.
+              Michigan was also in contention to land the production, but the Michigan Film Office could not match North Carolina's tax incentives. In April 2012,
+              Ben Kingsley entered into negotiations to play a villain in Iron Man 3, a part which Anthony Mackie, who later portray
+              <Link to="/mcu/sam_wilson"> Sam Wilson</Link> in the MCU, also auditioned for. The following week, producer Kevin Feige revealed that Iron Man 3 would
+              begin shooting in North Carolina "in five weeks", and said that it "is a full-on Tony Stark-centric movie ... very much inspired by the first half of
+              Iron Man ... He's stripped of everything, he's backed up against a wall, and he's gotta use his intelligence to get out of it. He can't call
+              "
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
 
