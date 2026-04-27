@@ -133,7 +133,41 @@ const ThorTheDarkWorld = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bf/Malekithaethertdw.jpg" alt="Malekith takes the Aether" />
+                <p>Malekith takes the Aether from the Chamber.</p>
+              </div>
+              <p>
+                Five thousand years ago, a cosmic event known as the Convergence occurs, opening a portal between the Nine Realms. A sinister race called the
+                Dark Elves attempts to use the Convergence as a way of unleashing the <Link to="/mcu/reality_stone">Aeither</Link>, a force of destruction with the
+                capability of destroying the entire galaxy. The exact origin of the Aether is unknown, but it is known that it is one of
+                <Link to="/mcu/infinity_stones"> six powerful objects</Link> that predate the universe itself. The leader of the Dark Elves,
+                <Link to="/mcu/malekith"> Malekith</Link>, nearly succeeds in using the Aether to cause the instantaneous destruction of the Nine Realms under the
+                misguided belief that he can recreate them in his own image. He is opposed by Bor, the then-king of Asgard and the father of
+                <Link to="/mcu/odin"> Odin</Link>, who uses the Bifrost to rip the Aether from Malekith's grasp just as he attempted to enact his plan, robbing the
+                Dark Elves of their most potent weapon. Driven back to their homeworld, Svartalftheim, it becomes apparent that the Dark Elves cannot defeat the
+                Asgardians and are all but wiped out in the battle. While the Asgardians, unable to destroy the Aether, seal it away in a place it can never be
+                found. Malekith, his lieutenant Algrim, and various survivors managed to escape into a suspended animation, vowing to one day return and finish
+                their plan.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                In 2012, after the Chitauri invasion, <Link to="/mcu/loki">Loki</Link> is brought befor Odin in shackles. Odin gives Loki a life-sentence in
+                prison for his crimes against humanity, promising him that Thor will be made king one day after he's cleaned up the damage Loki has caused. One year
+                later, in Vanaheim, home of the Vanir. Thor, alongside warriors <Link>Fandral</Link>, <Link>Volstagg</Link>, <Link>Hogun</Link>, and <Link>Sif</Link>,
+                fight against the Marauders, a ragtag group of invaders that have been systematically terrorizing the Nine Realms for the past two years. The
+                Asgardians win the battle, and while Hogun remains on Vanaheim to help his people rebuild, Thor and his friends return to Asgard via the Bifrost
+                Bridge, which was repaired by the power of the <Link to="/mcu/space_stone">Tesseract</Link>. A party is held in celebration for Thor's victory, but
+                he leaves quickly. He visits <Link to="/mcu/heimdall">Hemidall</Link> daily, asking each time how <Link to="/mcu/jane_foster">Jane Foster</Link> is
+                faring. Odin clearly does not approve of Thor's affections for Jane as she will be dead long before him.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/df/Thor-2.jpg" alt="Thor" />
+                <p>Thor battling the invading Marauders army.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
