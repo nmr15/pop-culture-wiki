@@ -168,6 +168,37 @@ const ThorTheDarkWorld = () =>
                 <p>Thor battling the invading Marauders army.</p>
               </div>
             </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Jane_London_date.jpg" alt="Jane Foster on a date" />
+                <p>Jane Foster on a date with Richard Madison.</p>
+              </div>
+              <p>
+                Back on Earth, Jane Foster is in London, having been called there by <Link to="/mcu/erik_selvig">Erik Selvig</Link> to investigate readings of an
+                unkonwn nature. After having not heard from Thor for some time, she goes on a date with a man named Richard Madison. Their date is quickly
+                interrupted by <Link to="/mcu/darcy_lewis">Darcy Lewis</Link>, who explains that Foster's scientific equipment has been picking up strange
+                signals, signals that have not been detected since the events that took place in New Mexico two years prior. They get in a car where Darcy's
+                own intern, Ian Boothby, is waiting for them, and drive to where the signal is the highest and end up at an abandoned storage house. They find
+                that a number of portals have opened, linking the Earth to several different worlds and altering the laws of physics, causing gravity to shift
+                without warning.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                While Darcy and Ian continue to play around with the portals, Jane is swallowed up by one of them and transported to an unknown planet. She finds
+                herself in a dark chasm, where a strange vault is located. Uon touching the vault, a red substance, the Aether, emerges from it and infests her
+                body. Passing out, Jane is teleported back to Earth, waking up five hours later. She walks outside where Darcy and Ian have been waiting. The
+                police had been called there by Darcy and consequently attempt to arrest the three for trespassing on private property; a policeman tries to touch
+                Jane, but the Aether forces him away. Prior to that, Thor suddenly arrives, seeking to investigate Jane's well-being, as Heimdall lost sight of her
+                after she disappeared. While overjoyed to see him, Jane slaps Thor in the face for taking two years to visit her even though he was on Earth
+                during the battle of New York. Thor apologizes to her and she quickly forgives him, but then takes her to Asgard to investigate the nature of the
+                Aether knowing that it was beyond mortal ability to handle.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/ce/Jane_Aether.jpg" alt="The Aether and Jane" />
+                <p>The Aether is fused with Jane Foster's body.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
