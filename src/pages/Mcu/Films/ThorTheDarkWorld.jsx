@@ -199,6 +199,38 @@ const ThorTheDarkWorld = () =>
                 <p>The Aether is fused with Jane Foster's body.</p>
               </div>
             </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Thor-1.jpg" alt="Jane and Thor in Asgard" />
+                <p>Thor and Jane walking through Asgard.</p>
+              </div>
+              <p>
+                Once there, Heimdall greets them, but Jane is quickly taken to the healing chamber so that they can learn what's wrong with her. They find the
+                Aether in her body but they don't know what it is. A physician named Eir tries to remove the Aether from Jane but fails. Odin, angered that a
+                human has entered Asgard, orders for her to be taken back to Earth, but when a guard touches her wrist, the Aether reacts defensively just as it did
+                with the police. Odin, recognzing the Aether, tells Jane of its many possible origins using the Book of Yggdrasil, and how the Dark Elves nearly
+                used it to destroy the realms. While Odin works to find a way to remove the Aether without killing Jane, <Link to="/mcu/frigga">Frigga</Link>
+                befriends and protects her. Frigga has secretly been attempting to convey her disappointment to Loki regarding his actions, but he has rebuffed her
+                every time.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Meanwhile, alerted by Jane's use of the Aether, Malekith, and his ilk awake from their long sleep. Consumed with vengeance and eager to procure the
+                Aether to once again transform the universe into darkness, the Dark Elves plotted their next offensive against Asgard. Under Malekith's orders,
+                Algrim allows himself to be captured by the Asgardians while in disguise as a Marauder and, using vile technology, turns himself into Kurse, a
+                superpowered warrior that the Dark Elves used frequently in their war against the Asgardians. He frees all the prisoners except Loki and they start
+                a prison riot, distracting the Asgardians so that Malekith can lead his squadron of ships into Asgard with little opposition. A battle takes place,
+                during which the palace is breached and heavily damaged. Frigga, having suspected the diversion, lures Malekith into a duel by creating a hologram
+                replica of Jane. Frigga nearly succeeds in besting Malekith, but Kurse intervenes and mortally wounds her when she refuses to give up Jane and the
+                Aether's location. In retaliation, an enraged Thor disfigures Malekith's face with a bolt of lightning, forcing the Dark Elves to retreat. Frigga
+                then dies from her injury.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/Malekith_white_face.jpg" alt="Malekith" />
+                <p>Malekith finally awakens from his hibernation.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
