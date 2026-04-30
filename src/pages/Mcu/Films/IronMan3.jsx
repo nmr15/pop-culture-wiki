@@ -450,7 +450,7 @@ const IronMan3 = () =>
               beauty pageant judge. Dale Dickey plays Mrs. Davis, mother of an Extremis subject that is framed as a terrorist. Wang Xueqi breifly plays Dr. Wu in
               the general release version of the film. A cut of the film produced for release exclusively in China includes additional scenes featuring Wang and
               an appearance by Fan Bingbing as one of his assistants. jenna Ortega briefly appears uncredited as the vice president's daughter, her lines were cut
-              from the final film. <Lin>Mark Ruffalo</Lin> makes an uncredited cameo appearance, reprising his role as Bruce Banner from The Avengers, in a
+              from the final film. <Link>Mark Ruffalo</Link> makes an uncredited cameo appearance, reprising his role as Bruce Banner from The Avengers, in a
               post-credits scene. Comedian Bill Maher and Joan Rivers, and Fashion Police co-host George Kotsiopoulos have cameo appearances as themselves on
               their respective real-world television programs, as do newscasters Josh Elliott, Megan Henderson, Pat Kiernan, and Thomas Roberts.
             </p>
