@@ -231,6 +231,33 @@ const ThorTheDarkWorld = () =>
                 <p>Malekith finally awakens from his hibernation.</p>
               </div>
             </div>
+            <div>
+              <div className="img-left img-card">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/Thor_Heimdall.jpg" alt="Thor and Heimdall" />
+                <p>Thor and Heimdall discuss Malekith's attack.</p>
+              </div>
+              <p>
+                A funeral is later held for the dead Asgardians and Frigga, and a grief-stricken Odin has Jane confined. Thor knows that Malekith will return for
+                Jane, but Odin, blinded by hate and grief, refuses to release her and intends to destroy Malekith through whatever it takes. So, Thor comes up with
+                a plan to move her, even though he would be committing treason. With Heimdall distracting Odin from them, Thor has Loki freed from his cell, as
+                Loki knows of secret portals that could transport Jane to another world, drawing Malekith away from Asgard. With help from Sif, Fandral, and
+                Volstagg, Thor, Jane, and Loki hijack a downed Dark Elf ship and make their way out of Asgard and to a hidden portal that teleports them to
+                Svartalfheim. As they make their escape, however, Jane's body is slowly being infested by the Aether, draining her of life.
+              </p>
+            </div>
+          </div>
+          <div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6e/JaneFoster-Aether.jpg" alt="Malekith extracts the Aether" />
+              <p>Malekith exracting the Aether from Jane.</p>
+            </div>
+            <p>
+              The three land in the wasteland of Svartalfheim and by then, Jane's body has completely channeled the Aether, enhancing her perception but
+              weakening her physically. Malekith senses the Aether's transfer and confronts the three on Svartalfheim, and at that moment, Loki appears to betray
+              Thor, cutting of his hand and giving Jane to Malekith willingly. Loki tells Malekith that in return for the Aether, he wants a frotn row seat to
+              watch Asgard's destruction. Malekith then proceeds to drain the Aether from Jane's body and into himself, but Loki's betrayal is revealed to be a
+              ruse, and Thor's injury is revealed to have been nothing more than a holographic projection meant to lull Malekith into a false sense of security.
+            </p>
           </div>
         </div>
         <div>
