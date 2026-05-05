@@ -290,7 +290,8 @@ const ThorTheDarkWorld = () =>
             </p>
           </div>
           <div>
-            <div className="img-card mr-1">
+            <div className="flex">
+              <div className="img-card mr-1">
               <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/ThorMalekith-WindowSlide.jpg" alt="Thor and Malekith slide down window" />
               <p>Thor and Malekith both fall down a building.</p>
             </div>
@@ -300,6 +301,7 @@ const ThorTheDarkWorld = () =>
               portals throughout the city, transporting them to different worlds. While the two are fighting, the scientists use Erik's devices to deal with the
               Dark Elf soldiers, accidentally summoning a Frost Beast in the process. 
             </p>
+            </div>
           </div>
           <div>
             <div className="img-right img-card">
@@ -315,7 +317,8 @@ const ThorTheDarkWorld = () =>
             </p>
           </div>
           <div>
-            <div className="img-card mr-1">
+            <div className="flex">
+              <div className="img-card mr-1">
               <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Loki_the_king.jpg" alt="Loki on throne" />
               <p>Loki proudly reclaims the throne of Asgard.</p>
             </div>
@@ -324,6 +327,7 @@ const ThorTheDarkWorld = () =>
               Thor will make a great king, but Thor responds by saying he is not ready to bear the weight of the throne. Thor leaves Asgard to reunite with Jane on
               Earth, butt as he leaves, Odin is revealed to be Loki, having faked his death and usurped Odin's throne.
             </p>
+            </div>
           </div>
           <div>
             <div className="img-right img-card">
