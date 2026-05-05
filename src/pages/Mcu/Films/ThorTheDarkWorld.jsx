@@ -289,6 +289,55 @@ const ThorTheDarkWorld = () =>
               two together, Jane theorizes that Malekith plans to spread the Aether through the portals so that he may destroy all of the worlds at once. 
             </p>
           </div>
+          <div>
+            <div className="img-card mr-1">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/ThorMalekith-WindowSlide.jpg" alt="Thor and Malekith slide down window" />
+              <p>Thor and Malekith both fall down a building.</p>
+            </div>
+            <p>
+              They travel to Greenwich the next morning, and when they arrive, they find that a number of portals have opened up above the city, a sign that the
+              Convergence is nearing its peak. Malekith soon arrives, and Thor engages him in battle, with both evenly matched. The fight takes them through various
+              portals throughout the city, transporting them to different worlds. While the two are fighting, the scientists use Erik's devices to deal with the
+              Dark Elf soldiers, accidentally summoning a Frost Beast in the process. 
+            </p>
+          </div>
+          <div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e2/Thor-darkworld_5113.jpg" alt="Malekith dies" />
+              <p>Malekith is crushed under the Ark.</p>
+            </div>
+            <p>
+              Thor and Malekith are soon separated by one of the portals, and Malekith, now unopposed, unleashes the Aether into the portal. Thor soon regroups with
+              his friends and takes Erik's device, noting that while the Aether might be indestructible, Malekith himself is not. Using the devices, Thor impales
+              Malekith with them, allowing Jane to teleport him back to Svartalfheim, stopping his attack. However, Malekith's damaged Ark starts to crash, and
+              nearly crushes Thor and Jane, when Erik uses the last of his devices to teleport it away; it ends up on Svartalfheim and lands on Malekith, killing
+              the Dark Elf leader. The portals then close, and the ordeal is finally over.
+            </p>
+          </div>
+          <div>
+            <div className="img-card mr-1">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Loki_the_king.jpg" alt="Loki on throne" />
+              <p>Loki proudly reclaims the throne of Asgard.</p>
+            </div>
+            <p>
+              Some time later, Thor returns to Asgard, where Odin congratulates him on his victory despite the crimes he committed to do so. Odin comments that
+              Thor will make a great king, but Thor responds by saying he is not ready to bear the weight of the throne. Thor leaves Asgard to reunite with Jane on
+              Earth, butt as he leaves, Odin is revealed to be Loki, having faked his death and usurped Odin's throne.
+            </p>
+          </div>
+          <div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d8/Normal_thor-darkworld_5351.jpg" alt="The Collector" />
+              <p>The Collector being given the Aether for safe-keeping.</p>
+            </div>
+            <p>
+              Later, Sif and Volstagg hand over the captured Aether to Taneleer Tivan, The Collector. Taneleer appears eager to take it but is curious as to why
+              Asgardians don't just keep it secured in their own vault. Volstagg explains that the <Link to="/mcu/space_stone">Tesseract</Link> is already on Asgard
+              and that to keep two <Link to="/mcu/infinity_stones">Infinity Stones</Link> in the same place would be unwise. As they leave, the Collector remarks
+              "One down, five to go." Thor returns to Earth, where he happily reunites with Jane, unaware that the Frost Beast that was teleported to Earth during
+              the Convergence is still running rampant through London chasing a flock of birds.
+            </p>
+          </div>
         </div>
         <div>
           <Heading2 id={2} title={"Cast"} />
