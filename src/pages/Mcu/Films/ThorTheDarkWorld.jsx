@@ -259,6 +259,30 @@ const ThorTheDarkWorld = () =>
               ruse, and Thor's injury is revealed to have been nothing more than a holographic projection meant to lull Malekith into a false sense of security.
             </p>
           </div>
+          <div>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/01/ThorLoki-DeathScene-TTDW.jpg/" alt="Loki dies" />
+              <p>Thor holds Loki as he dies in his arms.</p>
+            </div>
+            <p>
+              Calling for Mjølnir, Thor tries to destroy the Aether, but fails as it is indestructible. Kurse then battle Thor while Malekith and his minions
+              leave the planet, and Kurse quickly gains the upper hand against Thor. Loki comes to Thor's aid, stabbing Kurse through the chest with the sword,
+              but this has no effect on Kurse, who seizes Loki and drives the sword into his own body. Loki manages to press one of Kurse's implosion bombs,
+              however, and sets off, destroying Kurse. Loki then apologizes to Thor for his actions, and seems to die in his arms. After mourning Loki, Thor and
+              Jane then enter a cave, believing that they have failed in stopping Malekith. Suddenly, Foster's cell phone gains reception and they venture
+              deeper into the cave, finding a portal. The portal teleports them safely back to London. Meanwhile, an Einherjar Guard appears in the same area
+              where Loki died, and returns to Asgard to inform Odin of what transpired.
+            </p>
+          </div>
+          <div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Selvig_convergence.jpg" alt="Erik, Darcy, and Ian" />
+              <p>Erik, Darcy, and Ian watch as the Convergence unfolds.</p>
+            </div>
+            <p>
+              
+            </p>
+          </div>
         </div>
         <div>
           <Heading2 id={2} title={"Cast"} />
