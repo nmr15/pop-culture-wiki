@@ -645,6 +645,11 @@ const IronManFilm = () =>
               <li>
                 Harry Gregson Williams was approached to score the film, but turned it down due to scheduling conflicts with Prince Caspian.
               </li>
+              <li>
+                When the film was officially set up at Marvel Studios as the start of the Marvel Cinematic Universe, the Mandarin was originally set to be the main
+                antagonist. Mark Millar convinced Jon Favreay to go with Iron Monger instead, arguing that the Mandarin was a poor tonal fir for an origin movie.
+                Eventually, a Mandarin appeared in Iron Man 3, even if it turned out to be a fraud, and
+              </li>
             </ul>
           </div>
         </div>
