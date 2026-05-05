@@ -48,6 +48,13 @@ const IronManFilm = () =>
             ]}
           />
           <li className="sidebar-list-item"><a href="#8">Sequels</a></li>
+          <Collapse 
+            id="9"
+            item="Trivia"
+            sub={[
+              {id: "9.1", title: "What Could Have Been"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -608,6 +615,37 @@ const IronManFilm = () =>
               as Happy Hogan. Downey, Platrow, and Cheadle also return while Shane Black took over directing, from a screenplay by Drew Pearce.
               <Link>Guy Pearce</Link> also starred as <Link>Aldrich Killian</Link>, and <Link>Ben Kingsley</Link> as <Link>Trevor Slattery</Link>.
             </p>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={9} title={"Trivia"} />
+          <div>
+            <h3 className="article-heading-3" id="9.1">What Could Have Been</h3>
+            <ul className="article-list">
+              <li>
+                Tom Cruise was originally approached for the role of Tony Stark before Robert Downey Jr. was cast. However, Cruise turned down the offer due to his
+                prior commitment to the Mission Impossible film series.
+                <ul>
+                  <li>
+                    Leonardo DiCaprio, Timothy Olyphant, Jim Caviezel, Clive Owen, Nicolas Cage, Hugh Jackman, and Sam Rockwell were considered for the parrt of
+                    Tony Stark as well. Cage and Jackson previously portrayed <Link>Johnny Blaze</Link> and <Link>Wolverine</Link> in two Ghost Rider movie and the
+                    <Link> X-Men film series</Link> respecively. Cage would eventually go on to voice <Link>Spider-Man Noir</Link> in
+                    <Link to="/spiderman_films/into_the_spiderverse"> Spider-Man: Into the Spider-Verse</Link>, while Rockwell would go on to play
+                    <Link to="/mcu/justin_hammer"> Justin hammer</Link> in Iron Man 2.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <Link>Rachel McAdams</Link> was approached for the part of Pepper Potts before casting Gwyneth Paltrow. McAdams would later go on to play
+                <Link> Christine Palmer</Link> in the Marvel Cinematic Universe.
+              </li>
+              <li>
+                Len Wiseman had discussions about directing the movie before Jon Favreau was hired.
+              </li>
+              <li>
+                Harry Gregson Williams was approached to score the film, but turned it down due to scheduling conflicts with Prince Caspian.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
