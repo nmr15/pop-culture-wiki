@@ -625,7 +625,7 @@ const IronManFilm = () =>
               <li>
                 Tom Cruise was originally approached for the role of Tony Stark before Robert Downey Jr. was cast. However, Cruise turned down the offer due to his
                 prior commitment to the Mission Impossible film series.
-                <ul>
+                <ul className="article-sublist">
                   <li>
                     Leonardo DiCaprio, Timothy Olyphant, Jim Caviezel, Clive Owen, Nicolas Cage, Hugh Jackman, and Sam Rockwell were considered for the parrt of
                     Tony Stark as well. Cage and Jackson previously portrayed <Link>Johnny Blaze</Link> and <Link>Wolverine</Link> in two Ghost Rider movie and the
