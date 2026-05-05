@@ -280,7 +280,13 @@ const ThorTheDarkWorld = () =>
               <p>Erik, Darcy, and Ian watch as the Convergence unfolds.</p>
             </div>
             <p>
-              
+              While Jane has been in Asgard, Darcy has been fruitlessly trying to reach <Link to="/mcu/shield">S.H.I.E.L.D.</Link> when she and Ian see on the news
+              that Erik Selvig has been running around nude at Stonehenge, and has now been put in a retirement home for psychiatric care. They go there to get
+              him out, with Ian pretending he is Erik's son, and the latter tells the pair his sanity was shaken after being hypnotized by Loki during the
+              Chitauri Invasion. For the past several months, Selvig has studied the effects of the Convergence and has developed devices which can teleport people
+              to different worlds. They meet up with Thor and Jane, and Erik tells them that the people who lived in England after the previous Convergence had built
+              certain objects to create a secret map to where the Convergence would reach its peak. The location is revealed to be Greenwich. After putting two and
+              two together, Jane theorizes that Malekith plans to spread the Aether through the portals so that he may destroy all of the worlds at once. 
             </p>
           </div>
         </div>
