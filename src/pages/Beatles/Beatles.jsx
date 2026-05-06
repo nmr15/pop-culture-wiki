@@ -274,6 +274,24 @@ const Beatles = () =>
               "just writing songs <i>à la Everly Brothers à la Buddy Holly</i>, pop songs with nore more thought of them than that, to create a sound. And the words were almost
               irrelevant."
             </p>
+            <p>
+              Released in March 1963, Please Please Me was the first of eleven consecutive Beatles albums released in the United Kingdom to reach number one. The
+              band's third single, "<Link to="/beatles/from_me_to_you">From Me to You</Link>", came out in April and began an almost unbroken string of
+              seventeen British number-one singles, including all but one of the eighteen they released over the next six years. Issued in August, their fourth
+              single, "<Link to="/beatles/she_loves_you">She Loves You</Link>", achieved the fastest sales of any record in the UK up to that time, selling
+              three-quarters of a million copies in under four weeks. It became their first single to sell a million copies and remained the biggest-selling record
+              in the UK until 1978.
+            </p>
+            <p>
+              The success brought increased media exposure, to which the Beatles responded with an irreverent and comical attitude that defied the expectations of
+              pop musicians at the time, inspiring even more interest. The band toured the UK three times in the first half of the year; a four-week tour that
+              began in February, the Beatles' first nationwide, preceded three-week tours in March and May-June. As their popularity spread, a frenzied adulation of
+              the group took hold.On October 13, the Beatles starred on Sunday Night at the London Palladium, the UK's top variety show. Their performance was
+              televised live and watched by 15 million viewers. One national paper's headlines in the following days coined the term "Beatlemania" to describe the
+              riotous enthusiasm by screaming fans who greeted the band, and it stuck. Although not billed as tour leaders, the Beatles overshadowed American acts
+              Tommy Roe and Chris Montez during the February engagements and assumed top billing "by audience demand", something no British act had previously
+              accomplished while touring with artists from the US. A similar situtation arose during their May-June tour with Roy Orbison.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
 
