@@ -15,6 +15,26 @@ const NebulaMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <Collapse 
+            id="2"
+            item="Poers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Cybernetic enhancements"},
+              {id: "3.2", title: "Weapons"},
+              {id: "3.3", title: "Other equipment"},
+              {id: "3.4", title: "Vehicles"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#4">Facilities</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -41,8 +61,20 @@ const NebulaMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">Karen Gillian</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/guardians_of_the_galaxy_film">Guardians of the Galaxy</Link> <br />
+                <Link to="/mcu/guardians_of_the_galaxy_vol_2">Guardians of the Galaxy Vol. 2</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/thor_love_and_thunder">Thor: Love and Thunder</Link> <br />
+                <Link to="/mcu/the_guardians_of_the_galaxy_holiday_special">The Guardians of the Galaxy Holiday Special</Link>
+                <Link to="/mcu/guardians_of_the_galaxy_vol_3">Guardians of the Galaxy Vol. 3</Link>
+              </td>
             </tr>
           </tbody>
         </table>

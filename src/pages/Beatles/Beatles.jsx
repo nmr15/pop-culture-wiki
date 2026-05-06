@@ -352,6 +352,33 @@ const Beatles = () =>
               After the Beatles' US trip, MGM Records released the single "My Bonnie" backed with "The Saints" in the US on January 27, 1964 as a Beatles single,
               and Atco followed in issuing the recordings the Beatles had made in Germany with Tony Sheridan in 1961 and 1962.
             </p>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Beatles_with_Ed_Sullivan.jpg/500px-Beatles_with_Ed_Sullivan.jpg" alt="Beatles and Ed Sullivan" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Beatles_performing_at_The_Ed_Sullivan_Show_%28cropped_2%29.jpg/500px-The_Beatles_performing_at_The_Ed_Sullivan_Show_%28cropped_2%29.jpg"
+              alt="Beatles Ed Sullivan show colored" />
+              <p>The Beatles performing on The Ed Sullivan Show, February 1964.</p>
+            </div>
+            <p>
+              On February 7, 1964, the Beatles departed from Heathrow with an estimated 4,000 fans waving and screaming as the aircraft took off. Upon landing at New York's
+              John F. Kennedy Airport, an uproarious crowd estimated at 3,000 greeted them. They gave their first live US television performance two days later on The Ed
+              Sullivan Show, watched by approximately 73 million viewers in over 23 million hoouseholds, or 34 percent of the American population. Biographer Jonathan
+              Gould writes that, according to the Nielsen rating service, it was "the largest audience that had ever been recorded for an American television program." The
+              next morning, the Beatles awoke to a large negative critical consensus in the US, but a day later at their first US concert, Beatlemania erupted at the
+              Washington Coliseum. Back in New York the following day, the Beatles met with another strong reception during two shows at Carnegie Hall. The band flew to
+              Florida, where they appeared on The Ed Sullivan Show a second time, again before 70 million viewers, before returning to the UK on February 22.
+            </p>
+            <p>
+              The Beatles' first visit to the US took place when the nation was still mourning the assassination of President John F. Kennedy the previous November.
+              Commentators often suggest that for many, particularly the young, the Beatles' performances reignited the sense of excitement and possibility that had
+              momentarily faded in the wake of the assassination and helped pave the way for the revolutionary social changes to come later in the decade. Their hairstyle,
+              unusually long for the era and mocked by many adults, became an emblem of rebellion to the burgeoning youth culture.
+            </p>
+            <p>
+              The group's popularity generated unprecedented interest in British music, and many other UK acts subsequently made their American debuts, successfully touring
+              over the next three years in what was termed the British Invasion. The Beatles' success in the US opened the door for a successive string of British beat
+              groups and pop acts such as the Dave Clark Five, the Animals, Herman's Hermits, Petula Clark, the Kinks, and the Rolling Stones to achieve success in America.
+              During the week of April 4, 1964, the Beatles held twelve positions on the Billboard Hot 100 singles chart, including the top five.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">A Hard Day's Night</h4>
 
