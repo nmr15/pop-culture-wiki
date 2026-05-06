@@ -70,7 +70,7 @@ const GFS1E1 = () =>
           Disney Channel.
         </div>
         <div>
-          <h2 className="article-heading-2" id="1">Official overview</h2>
+          <Heading2 id={1} title={"Official overview"} />
           <div>
             <p>
               When <Link>Dipper</Link> and <Link>Mabel</Link> Pines arrive to spend their summer break in the remote town of
@@ -80,7 +80,7 @@ const GFS1E1 = () =>
           </div>
         </div>
         <div>
-          <h2 className="article-heading-2" id="2">Synopsis</h2>
+          <Heading2 id={2} title={"Synopsis"} />
           <div>
             <div className="img-left img-card">
               <img 
