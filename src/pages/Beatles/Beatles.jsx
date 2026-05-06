@@ -293,7 +293,7 @@ const Beatles = () =>
               accomplished while touring with artists from the US. A similar situtation arose during their May-June tour with Roy Orbison.
             </p>
             <div className="img-left img-card">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Beatles_and_Lill-Babs_1963.jpg" alt="The Beatles and Lili-Babs" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Beatles_and_Lill-Babs_1963.jpg/500px-The_Beatles_and_Lill-Babs_1963.jpg" alt="The Beatles and Lili-Babs" />
               <p>McCartney, Harrison, Swedish pop singer Lili-Babs, and Lennon on the set of the Swedish television show Drop In, October 30, 1963</p>
             </div>
             <p>
