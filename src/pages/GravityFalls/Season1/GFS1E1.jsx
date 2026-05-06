@@ -23,8 +23,9 @@ const GFS1E1 = () =>
             sub={[
               { id: "3.1", title: "Series continuity" },
               { id: "3.2", title: "Character Revelations" },
-              { id: "3.3", title: "Trivia" },
-              { id: "3.4", title: "Cryptograms" }
+              { id: "3.3", title: "Allusions" },
+              { id: "3.4", title: "Trivia" },
+              { id: "3.5", title: "Cryptograms" }
             ]}
           />
         </ul>
@@ -179,6 +180,68 @@ const GFS1E1 = () =>
                 that he may have something to hide. During the end credits, the clip of a gnome barfing a rainbow loops.
               </p>
             </div>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production notes"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Series continuity</h3>
+            <ul className="article-list">
+              <li>
+                <Link to="/gravityfalls/blendin_blandin">Blendin Blandin</Link>, intoduced in the episode
+                "<Link to="/gravityfalls/the_time_travelers_pig">The Time Traveler's Pig</Link>", appears in the bushes when the giant gnome monster crushes the
+                shovel Dipper thorows at it.
+              </li>
+            </ul>
+
+            <h3 className="article-heading-3" id="3.2">Character revelations</h3>
+            <p>Many things are revealed about the main characters:</p>
+            <ul className="article-list">
+              <li>
+                Dipper:
+                <ul className="article-sublist">
+                  <li>He is smart.</li>
+                  <li>He is adventurous.</li>
+                  <li>He has teraphobia, a fear of monsters.</li>
+                </ul>
+              </li>
+              <li>
+                Mabel:
+                <ul className="article-sublist">
+                  <li>She flirts with every boy she meets.</li>
+                  <li>She is not aware that she often embarrasses herself.</li>
+                  <li>She is often goofy and immature.</li>
+                </ul>
+              </li>
+              <li>
+                Stan:
+                <ul className="article-sublist">
+                  <li>He owns a gift shop called the Mystery Shack.</li>
+                  <li>
+                    He lies to Dipper to think there's nothing weird goung on, foreshadowing the events of 
+                    "<Link to="/gravityfalls/scary-oke">Scary-oke</Link>."
+                  </li>
+                  <li>He always picks on Dipper to do stuff, foreshadowing the events of "<Link to="/gravityfalls/dreamscapers">Dreamscapers</Link>."</li>
+                  <li>His demeanor is gruff.</li>
+                </ul>
+              </li>
+              <li>
+                Soos:
+                <ul className="article-sublist">
+                  <li>He is a handyman at the Mystery Shack.</li>
+                  <li>He does everything to win Stan's trust foreshadowing the series finale.</li>
+                  <li>He doesn't have evidence to prove Gravity Falls has secrets.</li>
+                </ul>
+              </li>
+              <li>
+                Wendy:
+                <ul className="article-sublist">
+                  <li>She is a cashier at the Mystery Shack.</li>
+                  <li>She is irresponsible.</li>
+                </ul>
+              </li>
+              <li>Dipper, Mabel, and Stan's last names is Pines.</li>
+            </ul>
           </div>
         </div>
       </main>
