@@ -292,6 +292,34 @@ const Beatles = () =>
               Tommy Roe and Chris Montez during the February engagements and assumed top billing "by audience demand", something no British act had previously
               accomplished while touring with artists from the US. A similar situtation arose during their May-June tour with Roy Orbison.
             </p>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Beatles_and_Lill-Babs_1963.jpg" alt="The Beatles and Lili-Babs" />
+              <p>McCartney, Harrison, Swedish pop singer Lili-Babs, and Lennon on the set of the Swedish television show Drop In, October 30, 1963</p>
+            </div>
+            <p>
+              In late October, the Beatles began a five-day tour of Sweden, their first time abroad since the final Hamburg engagement of December 1962. On their
+              return to the UK on October 31, several hundred screaming fans greeted them in heavy rain at Heathrow Airport. Around 50 to 100 journalists and
+              photographers, as well as representatives from the BBC also joined the airport reception, the first of more than 100 such events. The next day, the
+              band began its fourth tour of Britain within nine months, this one scheduled for six weeks. In mid-November, as Beatlemania intensified, police
+              resorted to using high pressure water hoses to control the crowd before a concert in Plymouth. On November 4, they played in front of The Queen Mother
+              and Princess Margaret during the Royal Variety Performance at the Prince of Wales Theatre.
+            </p>
+            <p>
+              Please Please Me maintained the top position on the Record Retailer chart for 30 weeks, only to be displaced by its follow-up,
+              <Link to="/beatles/with_the_beatles"> With the Beatles</Link>, which EMI released on November 25 to record advance orders of 270,000. The LP topped
+              a half-million albums sold for one week. Recorded between July and October, With the Beatles made better use studio production techniques than its
+              predecessor. It held the top spot for 21 weeks with a chart life of 40 weeks. Eriewine described the LP as "a sequel of the highest order, one that
+              betters the original."
+            </p>
+            <p>
+              In a reversal of then standard practices, EMI released the album ahead of the impending single
+              "<Link to="/baatles/i_want_to_hold_your_hand">I Want to Hold Your Hand</Link>", with the song excluded to maximize the single's sales. The album
+              caught the attention of music critic William Mann of The Times, who suggested that Lennon and McCartney were "the outstanding English composers of
+              1963." The newspaper published a series of articles in which Mann offered detailed analyses of the music, lending it respectability. With the Beatles
+              became the second album in UK chart history to sell a million copies, a figure previously reached only by the 195 South Pacific soundtrack. When
+              writing the sleeve notes for the album, the band's press officer, Tony Barrow, used the superlative the "fabulous foursome", which the media widely
+              adopted as "the Fab Four."
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
 
