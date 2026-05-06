@@ -38,20 +38,36 @@ const GFS1E1 = () =>
         <div>
           <h1 className="article-heading">Tourist Trapped</h1>
         </div>
-        <div className="img-flex">
-          <div className="div-top">
-            <b>Tourist Trapped</b> is the first episode of the <Link>Disney XD</Link> show <Link to="/gravityfalls">Gravity Falls</Link> and the
-            first episode of the <Link>first season</Link> as well. It aired as the series preview of the show, after the premiere of the
-            <Link> Disney Channel</Link> Original Movie, Let It Shine, on June 15, 2012. Gravity Falls officially premiered on June 29, 2012 on
-            Disney Channel.
-          </div>
-          {/* <div className="img-top">
-            <p>Tourist Trapped</p>
-            <img
-              src="https://static.wikia.nocookie.net/gravityfalls/images/a/a1/S1e1_Book_3_eyepiece_2.png"
-              alt="Tourist Trapped"
-            />
-          </div> */}
+        <table className="infobox">
+          <tbody>
+            <tr>
+              <th colSpan={2}>
+                Tourist Trapped
+              </th>
+            </tr>
+            <tr>
+              <td colSpan={2}>
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/a/a1/S1e1_Book_3_eyepiece_2.png" alt="Tourist Trapped" />
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Episode no.</th>
+              <td className="infobox-data">
+                Season 1 <br />
+                Episode 1
+              </td>
+            </tr>
+             <tr>
+              <th className="infobox-data">Next episode</th>
+              <td className="infobox-data"><Link to="/gravityfalls/the_legend_of_the_gobberwonkle">The Legend of the Gobblewonker</Link></td>
+            </tr>
+          </tbody>
+        </table>
+        <div className="div-top">
+          <b>Tourist Trapped</b> is the first episode of the <Link>Disney XD</Link> show <Link to="/gravityfalls">Gravity Falls</Link> and the
+          first episode of the <Link>first season</Link> as well. It aired as the series preview of the show, after the premiere of the
+          <Link> Disney Channel</Link> Original Movie, Let It Shine, on June 15, 2012. Gravity Falls officially premiered on June 29, 2012 on
+          Disney Channel.
         </div>
         <div>
           <h2 className="article-heading-2" id="1">Official overview</h2>
