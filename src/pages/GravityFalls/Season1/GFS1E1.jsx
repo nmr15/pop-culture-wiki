@@ -130,6 +130,55 @@ const GFS1E1 = () =>
               interrupts him in mid-sentence, chucking him to the side with his shovel. He then uses the shovel to free Mabel from the ground and they begin to
               drive back to the Mystery Shack. 
             </p>
+            <div>
+              <div className="img-left img-card">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/6/62/S1e1_gnome_monster_arms_up.png" alt="Gnome monster" />
+                <p>The gnomes chase after the twins.</p>
+              </div>
+              <p>
+                Once Jeff and the gnomes realize that Dipper and Mabel are getting away, they assemble together, becoming one big monster gnome. Mabel worries that
+                they will catch up to them, but Dipper isn't because gnomes have tiny legs. They then realize that the gnomes formed a big monster (controlled by
+                Jeff). The monster begins to chase after Dipper and Mabel. The army of gnomes begins launching gnomes at the Myster Cart. Dipper and Mabel fight them
+                off one by one and Dipper bashes a gnome named <Link>Shmebulock</Link> on the Myster Cart's horn three times. One of the gnomes lands on Dipper's
+                face, shredding him, and Mabel punches it several times to get it to let go, and the gnome soared backwards, taking Dipper's old hat with it. After
+                Dipper thanks Mabel for saving him, the monster then picks up a tree and throws it in the middle of the road. Dipper and Mabel closely slide under
+                it and crash the Mystery Cart on its side in front of the Mystery Shack. Dipper and Mabel crawl from the cart. Dipper warns the gnomes to stay back
+                and throws a shovel at them, but they smash it to the ground. The twins both scream and Dipper wonders where Grunkle Stan is (inside showing tourists
+                "The world's most distracting object," distracting himself in the process).
+              </p>
+            </div>
+            <div>
+              <div className="img-right img-card">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/a/a9/S1e1_mabel_using_leaf_blower_on_gnome.png/revision/latest?cb=20120621203934" alt="Mabel uses a leaf blower on Jeff" />
+                <p>Mabel sucks Jeff into the leaf blower.</p>
+              </div>
+              <p>
+                Mabel then tells Dipper that she has to do it. Dipper doesn't trust her plan, but she tells him to trust her, just this once and then agrees to
+                marry Jeff. Jeff gets excited, climbs down from the giant gnome monster and goes to put the ring on Mabel's finger. Once Jeff successfully places the
+                ring on Mabel's finger, he wants to hurry and get Mabel back into the forest, but Mabel says that he must kiss her first. Jeff puckers up, but to his
+                surprise, Mabel uses a leaf blower against him. Eventually, Mabel sucks and shoots Jeff out of the leaf blower for revenge because he lied to her,
+                broker her heart, and messed with Dipper. As he flies through the air, he crashes into the gnome monster and says that he will have his revenge.
+                Without their leader, the rest of the gnomes are consfused as to what they should do next. Mabel then begins blowing thmm with the leaf blower,
+                forcing them back into the forest. One of the gnomes gets caught in the plastic from a 6-pack soda and is carried away by Gompers. Mabel feels sad
+                that her first boyfriend turned out to be a bunch of gnomes, so Dipper tries to cheer her up by saying that her next boyfriend might be a
+                vampire. They then proceed to do an "awkward sibling hug."
+              </p>
+            </div>
+            <div>
+              <div className="img-left img-card">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/a/ad/S1e1_stans%27s_secret.png" alt="Stan and the hidden vending machine entrance" />
+                <p>Stan disappears mysteriously behind the vending machine.</p>
+              </div>
+              <p>
+                Dipper and Mabel walk into the Mystery Shack, and Grunkle Stan tells them they can each take anything they want from the gift shop because he
+                "overstocked some inventory." Dipper chooses his now-signature blue pine tree hat, and, despite Stan suggesting her to take "a doll or something",
+                Mabel acquires a grappling hook. She is later seen jumping on the bed, playing with the grappling hook while Dipper writes about the events that
+                happened that day in the mysterious journal he found. At the end, Dipper tells Mabel to turn off the light, but instead, she shoots it out of the
+                window with the grappling hook, and they laugh about it. Meanwhile, Stan opens a secret door downstairs by punching in a secret code on the
+                vending machine, which leads to a secret room in the basement. He mysteriously closes the door, making sure no one is following him, which hints
+                that he may have something to hide. During the end credits, the clip of a gnome barfing a rainbow loops.
+              </p>
+            </div>
           </div>
         </div>
       </main>
