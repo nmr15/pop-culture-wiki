@@ -182,7 +182,7 @@ const Beatles = () =>
             <h4 className="article-heading-4" id="1.1.2">Early residencies and UK popularity</h4>
             <div className="img-right img-card">
               <img 
-                src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Beatles_in_Hamburg.webp/408px-The_Beatles_in_Hamburg.webp.png" 
+                src="https://upload.wikimedia.org/wikipedia/en/7/74/The_Beatles_in_Hamburg.webp" 
                 alt="The_Beatles_in_Hamburg" 
               />
               <p>
@@ -322,7 +322,36 @@ const Beatles = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.1">First visit to the United States and the British Invasion</h4>
-
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Beatles_arrive_at_JFK_Airport.jpg/500px-The_Beatles_arrive_at_JFK_Airport.jpg"
+              alt="The Beatles at JFK airport" />
+              <p>The Beatles arrive at John F. Kennedy International Airport, February 7, 1964.</p>
+            </div>
+            <p>
+              EMI's American subsidiary, Capitol Records, hindered the Beatles' releases in the United States for more than a year by initially declining to issue
+              their music, including their first three singles. Concurrent negotiations with the independent US label Vee-Jay led to the release of some, but not
+              all, of the songs in 1963. Vee-Jay finished preparation for the album Introducing... The Beatles, compising most of the songs of Parlophone's
+              Please Please Me, but a managament shake-up led to the album not being released. After it emerged that the label did not report royalties on their
+              sales, the license that Vee-Jay had signed with EMI was voided. A new license was granted to the Swan label for the single "She Loves You." The
+              record received some airplay in the Tidewater area of Virginia from Gene Loving of radio station WGH and was featured on the "Rate-a-Record" segment of
+              American Bandstand, but it failed to catch on nationally.
+            </p>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beatlemania_fan_-_Press_and_Sun-Bulletin_%281964%29.jpg/500px-Beatlemania_fan_-_Press_and_Sun-Bulletin_%281964%29.jpg"
+              alt="Newspaper clipping of Beatlemania" />
+              <p>A newspaper clipping from February 8, 1964 covering "Beatlemania".</p>
+            </div>
+            <p>
+              Epstein brought a demo copy of "I Want to Hold Your Hand" to Capitol's Brown Meggs, who signed the band and arranged for a $40,000 US marketing campaign.
+              American chart success began after disc jockey Carroll James on AM radio station WWDC, in Washington, DC, obtained a copy of the British single "I
+              Want to Hold Your Hand" in mid-December 1963 and began playing it on-air. Taped copies of the song soon circulated among other radio stations
+              throughout the US. This caused an increase in demand, leading Capitol to bring forward the release of "I Want to Hold Your Hand" by three weeks.
+              Issued on December 26 with the band's previously scheduled debut there just weeks away. "I Want to Hold Your Hand" sold a million copies, becoming a
+              number-one hit in the US by mid-January. In its wake Vee-Jay released Introducing... The Beatles along with Capitol's debut album, Meet the Beatles,
+              while Swan reactivated production of "She Loves You." The Odeon label, an EMI subsidiary, pressed Beatles LPs to be shipped out and distributed abroad.
+              After the Beatles' US trip, MGM Records released the single "My Bonnie" backed with "The Saints" in the US on January 27, 1964 as a Beatles single,
+              and Atco followed in issuing the recordings the Beatles had made in Germany with Tony Sheridan in 1961 and 1962.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">A Hard Day's Night</h4>
 
