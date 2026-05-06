@@ -149,7 +149,7 @@ const GFS1E1 = () =>
             </div>
             <div>
               <div className="img-right img-card">
-                <img src="https://static.wikia.nocookie.net/gravityfalls/images/a/a9/S1e1_mabel_using_leaf_blower_on_gnome.png/revision/latest?cb=20120621203934" alt="Mabel uses a leaf blower on Jeff" />
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/a/a9/S1e1_mabel_using_leaf_blower_on_gnome.png" alt="Mabel uses a leaf blower on Jeff" />
                 <p>Mabel sucks Jeff into the leaf blower.</p>
               </div>
               <p>
