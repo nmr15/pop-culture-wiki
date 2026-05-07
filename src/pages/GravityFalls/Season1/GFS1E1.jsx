@@ -242,6 +242,39 @@ const GFS1E1 = () =>
               </li>
               <li>Dipper, Mabel, and Stan's last names is Pines.</li>
             </ul>
+
+            <h3 className="article-heading-3" id="3.3">Allusions</h3>
+            <ul className="article-list">
+              <li>
+                A poster resembling Justin Bieber is seen in the attic.
+              </li>
+              <li>
+                Stan wears a Gill-man mask to scare Dipper. The Gill-man is from the 1954 film, Creature from the Black Lagoon.
+              </li>
+              <li>
+                The gnomes tie down Mabel in a similar way to how the Liliputians tie down Gulliver in Gulliver's Travels by Jonathan Swift.
+              </li>
+              <li>
+                The way Mabel takes the grappling hook out of the box and spins around is a reference to the Legend of Zelda video game series
+              </li>
+            </ul>
+
+            <h3 className="article-heading-3" id="3.4">Trivia</h3>
+            <ul className="article-list">
+              <li>
+                This episode was watched by 3.4 million viewers on its premieree night.
+              </li>
+              <li>
+                "Tourist Trapped" is a play on words, because the Mystery Shack is a tourist trap and Dipper and Mabel are trapped there for the summer.
+              </li>
+              <li>
+                This marks the debut of all the main characters.
+              </li>
+              <li>
+                This episode was available as a free download on iTunes for a limited time: iTunes gift cards were codes to watch the episode for free were also
+                sold for a limited time at Starbucks.
+              </li>
+            </ul>
           </div>
         </div>
       </main>
