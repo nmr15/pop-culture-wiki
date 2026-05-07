@@ -2,6 +2,7 @@ import { useEffect } from 'react'
 import { Link } from "react-router-dom";
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
+import TableGravityFalls from '../../../components/TableGravityFalls'
 
 const GFS1E1 = () =>
 {
@@ -371,6 +372,9 @@ const GFS1E1 = () =>
               "<b>WELCOME TO GRAVITY FALLS</b>."
             </p>
           </div>
+        </div>
+        <div>
+          <TableGravityFalls />
         </div>
       </main>
     </>
