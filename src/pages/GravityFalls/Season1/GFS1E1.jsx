@@ -301,16 +301,75 @@ const GFS1E1 = () =>
                 <img src="https://static.wikia.nocookie.net/gravityfalls/images/7/7f/S1e1_cut_scene.gif" alt="Cut scene" />
                 <p>Brief cut scene from the gnome chase.</p>
               </div>
-              <p>
+              <li>
                 In the trailer for the series released by Disney Channel a month prior to the premiere, there is a 2 second scene in which we see the tree thrown
                 by the gnomes fallen and coming up fast, as Dipper (who is realizing he lost his hat) and Mabel scream. The scene was not in the final cut of the
                 episode, likely due to time.
-              </p>
-              <p>
+              </li>
+              <li>
                 Episod 1 was developed out of the unaired pilot, which features some different plot points but keeps the core Norman investigation to Gnome reveal
                 arc essentially the same. "Tourist Trapped" uses some dialogue from that earlier pilot.
-              </p>
+              </li>
+              <li>
+                Alex Hirsch kept a series of notes for himself while working on Tourist Trapped. Excerpts include:
+                <ul className="article-sublist">
+                  <li>
+                    Strenghen theme of Dipper not [indiscernible] Mabel.
+                  </li>
+                  <li>
+                    Make sure Mabel is actively/understandably quirky, rather than just a slap happy baby/dope.
+                  </li>
+                  <li>
+                    Rethink Popsicle bit @ start.
+                  </li>
+                  <li>
+                    Make Norman less zombie-like?
+                  </li>
+                  <li>
+                    Maintain Comic momentum. This above all else. Give it a bite. That beans bit proves its possible.
+                  </li>
+                  <li>
+                    One solid laugh in.
+                  </li>
+                  <li>
+                    More how-we-got-to-this-town @ top.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                In the original script, Mabel referred to the mark left on her cheek by the leaf blower as a hickey. Disney's Standards and Practices deemed the
+                term inappropriate, and in the final episode she instead calls it a "smooch mark."
+              </li>
+              <li>
+                When Mabel grabs the grappling hook from the box that contains some of the stuff in the shack, she makes a spin that is followed by raising her
+                grappling hook upward as she says, "Grappling hook!". This is a nod to Nintendo's The Legend of Zelda franchise when Link grabs an item in a
+                treasure chest, and raises an item and a dialog box appears at the bottom of the screen that will tell what it is. Unironically, the grappling hook
+                is a recurring item in the Legend of Zelda series.
+              </li>
+              <li>
+                In the behind the scenes special Between the Pines, Alex Hirsch reveals that the red substance on Jeff's face when he was pretending to be human
+                <i>was</i> jam, as the previous Gnome Queen had died and the Gnomes ate bereavement jam as part of her funeral ceremony.
+              </li>
+              <li>
+                Dipper's final narration from Weirdmageddon 3: Take Back the Falls can be seen when he is writing in the journal in the final scene.
+              </li>
+              <li>
+                When Dipper is warning Mabel about Norman, he intended to show her the article on zombies, but accidentally opens to the entries on gnomes
+                before correcting himself. This foreshadows that Norman is a bunch of gnomes in disguise.
+              </li>
+              <li>
+                This episode shows the twins have a pet cat, but this is the only episode for the cat to appear and it isn't mentioned at all.
+              </li>
             </ul>
+
+            <h3 className="article-heading-3" id="3.5">Cryptogram</h3>
+            <div className="img-right">
+              <img src="https://static.wikia.nocookie.net/gravityfalls/images/0/0d/S1e1_barf_gnome_code.png" alt="Gnome puking" />
+            </div>
+            <p>
+              During the end credits of the episode, there is a cryptogram that reads "<b>ZHOFRPH WR JUDYLWB IDOOV</b>." Once decode, it reads
+              "<b>WELCOME TO GRAVITY FALLS</b>."
+            </p>
           </div>
         </div>
       </main>
