@@ -267,6 +267,10 @@ const GFS1E1 = () =>
               <li>
                 "Tourist Trapped" is a play on words, because the Mystery Shack is a tourist trap and Dipper and Mabel are trapped there for the summer.
               </li>
+              <div className="img-right img-card">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/1/1e/Tourist_Trapped_Free_iTunes_Card.jpg" alt="iTunes card for Tourist Trapped" />
+                <p>Free iTunes card for "Tourist Trapped."</p>
+              </div>
               <li>
                 This marks the debut of all the main characters.
               </li>
@@ -274,6 +278,38 @@ const GFS1E1 = () =>
                 This episode was available as a free download on iTunes for a limited time: iTunes gift cards were codes to watch the episode for free were also
                 sold for a limited time at Starbucks.
               </li>
+              <li>
+                "Tourist Trapped" received two nominations for the 40th Annie Awards, including Ian Worrel for Best Production Design in a Television/Broadcast
+                Production, and Kristen Schaal for Best Voice Acting in an Animated Televison/Broadcast Production.
+              </li>
+              <li>
+                For unspecified reasons, in the Philippines, this episode is played at a slightly faster speed. The runtime (not counting commercial breaks) is
+                reduced from 22 minutes to only 20 minutes.
+              </li>
+              <li>
+                Aside from flashbacks, this is the first of the only two episodes in the series to feature narration, the other being
+                "<Link to="/gravityfalls/weirdmageddon_3_take_back_the_falls">Weirdmageddon 3: Take Back the Falls</Link>."
+              </li>
+              <li>
+                The mosquitoes who spell "BEWARB" on Dipper's arm are revealed in <Link to="/gravityfalls/journal_3">Journal 3</Link> to be "Soothsquitos", whose
+                bites spell out warnings, which are frequnetly misspelled.
+              </li>
+              <li>
+                While this is canonically the first episode, six other episodes were produced before it.
+              </li>
+              <div className="img-right img-card">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/7/7f/S1e1_cut_scene.gif" alt="Cut scene" />
+                <p>Brief cut scene from the gnome chase.</p>
+              </div>
+              <p>
+                In the trailer for the series released by Disney Channel a month prior to the premiere, there is a 2 second scene in which we see the tree thrown
+                by the gnomes fallen and coming up fast, as Dipper (who is realizing he lost his hat) and Mabel scream. The scene was not in the final cut of the
+                episode, likely due to time.
+              </p>
+              <p>
+                Episod 1 was developed out of the unaired pilot, which features some different plot points but keeps the core Norman investigation to Gnome reveal
+                arc essentially the same. "Tourist Trapped" uses some dialogue from that earlier pilot.
+              </p>
             </ul>
           </div>
         </div>
