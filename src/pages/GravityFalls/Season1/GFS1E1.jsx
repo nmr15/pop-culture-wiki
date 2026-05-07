@@ -364,13 +364,17 @@ const GFS1E1 = () =>
             </ul>
 
             <h3 className="article-heading-3" id="3.5">Cryptogram</h3>
-            <div className="img-right">
-              <img src="https://static.wikia.nocookie.net/gravityfalls/images/0/0d/S1e1_barf_gnome_code.png" alt="Gnome puking" />
+            <div>
+              <p>
+                During the end credits of the episode, there is a cryptogram that reads "<b>ZHOFRPH WR JUDYLWB IDOOV</b>." Once decode, it reads
+                "<b>WELCOME TO GRAVITY FALLS</b>."
+              </p>
+               <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/gravityfalls/images/0/0d/S1e1_barf_gnome_code.png" alt="Gnome puking" />
+              </div>
             </div>
-            <p>
-              During the end credits of the episode, there is a cryptogram that reads "<b>ZHOFRPH WR JUDYLWB IDOOV</b>." Once decode, it reads
-              "<b>WELCOME TO GRAVITY FALLS</b>."
-            </p>
+           
+            
           </div>
         </div>
         <div>
