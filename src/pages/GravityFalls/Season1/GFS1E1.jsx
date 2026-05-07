@@ -364,7 +364,7 @@ const GFS1E1 = () =>
             </ul>
 
             <h3 className="article-heading-3" id="3.5">Cryptogram</h3>
-            <div>
+            <div className="flex">
               <p>
                 During the end credits of the episode, there is a cryptogram that reads "<b>ZHOFRPH WR JUDYLWB IDOOV</b>." Once decode, it reads
                 "<b>WELCOME TO GRAVITY FALLS</b>."
