@@ -160,6 +160,30 @@ const Template = () =>
             </p>
           </div>
         </div>
+        <div>
+          <Heading2 id={3} title={"Production notes"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Series continuity</h3>
+            <ul className="article-list">
+              <li>
+                Dipper mentions their encounter with the gnomes in "Tourist Trapped", and mabel presents some gnome beard hair she saved from that same
+                encounter.
+              </li>
+              <li>
+                An advertisement for the Tent of Telepathy displaying <Link to="/gravityfalls/gideo_gleeful">Giedon Gleeful</Link> is shown on the back of
+                Dipper's magazine, foreshadowing his debut in "<Link to="/gravityfalls/the_hand_that_rocks_the_mabel">The Hand That Rocks the Mabel</Link>."
+              </li>
+              <li>
+                Stan states that Mabel's drawing of Ben Franklin looks like a woman, foreshadowing the secret documents found in
+                "<Link to="/gravityfalls/irrational_treasure">Irrational Treasure"</Link>" that confirms that Franklin was, in fact a woman.
+              </li>
+              <li>
+                <Link to="/gravityfalls/blendin_blandin">Blendin Blandin</Link> from "<Link to="/gravityfalls/the_time_travelers_pig">The Time Traveler's Pig</Link>"
+                is seen picking up Mabel's calculator.
+              </li>
+            </ul>
+          </div>
+        </div>
       </main>
     </>
   )
