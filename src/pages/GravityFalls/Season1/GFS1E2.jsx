@@ -181,6 +181,53 @@ const Template = () =>
                 <Link to="/gravityfalls/blendin_blandin">Blendin Blandin</Link> from "<Link to="/gravityfalls/the_time_travelers_pig">The Time Traveler's Pig</Link>"
                 is seen picking up Mabel's calculator.
               </li>
+              <li>
+                Xyler and Craz, the boys that appear in Mabel's imagination of the human-sized hamster ball, later appear in
+                "<Link to="/gravityfalls/dreamscapers">Dreamscapers</Link>."
+              </li>
+              <li>
+                The Gravity Falls Gossiper, which later appears in "<Link to="/gravityfalls/headhunters">Headhunters</Link>", reports on Old Man McGucket's homicidal
+                pterodactyl-tron.
+              </li>
+            </ul>
+
+            <h3 className="article-heading-3" id="3.2">Allusions</h3>
+            <ul className="article-list">
+              <li>
+                The Gobblewonker is an allusion to the Loch Ness Monster.
+              </li>
+              <li>
+                Soos' pose when Dipper asks him to pretend to be Bigfood is an allusion to the famous film of Bigfoot.
+              </li>
+              <li>
+                A few notes from "Yankee Doodle" plays when Dipper and Mabel look at Stan's boat when deciding whether to go fishing with Stan or to search for the
+                Gobblewonker.
+              </li>
+              <li>
+                During Dipper's fantasy, his outfit is based on the outfit worn by Indiana Jones in the film franchise of the same name.
+              </li>
+            </ul>
+
+            <h3 className="article-heading-3" id="3.3">Trivia</h3>
+            <ul className="article-list">
+              <li>
+                This episode was watched by 3.136 million viewers on its premiere night.
+              </li>
+              <li>
+                This was the first episode of the series produced.
+              </li>
+              <li>
+                On the Disney Channel website, the episode's title is shortened to "The Gobblewonker."
+              </li>
+              <li>
+                According to Michael Rianda in the commentary track for it, this episode was rewritten up to 8 times before bing finalized.
+                <ul className="article-sublist">
+                  <li>
+                    One scrapped version of the episode had the characters on a party boat with a guy named Kreggy G playing steel drums planned to be a major
+                    character in it.
+                  </li>
+                </ul>
+              </li>
             </ul>
           </div>
         </div>
