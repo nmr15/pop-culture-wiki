@@ -426,6 +426,44 @@ const GtaIV = () =>
           </p>
           <div>
             <h3 className="article-heading-3" id="4.1">Promotion</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mural_ad_GTA_IV_NYC.jpg/500px-Mural_ad_GTA_IV_NYC.jpg" alt="GTA IV mural" />
+              <p>The game was promoted through posters and murals on billboards and buildings, including Chinatown, New York City.</p>
+            </div>
+            <p>
+              Industry analysts found Grand Theft Auto IV's marketing more subtle than Microsoft's marketing of Halo 3, identifying Rockstar's interest in
+              controlling the output at all times. The debut trailer was released on March 29, 2007. Narrated by Niko, it depicts the open world accompanied by the
+              song "Pruit-lgoe" by Philip Glass, originally composed for Godfrey Reggio's documentary Koyaanisqatsi (1982). The trailer is credited for starting the
+              Rickrolling meme; after the high viewrship crashed Rockstar's website, several users re-posted the trailer, but some misleadingly played the music video
+              for Rick Astley's "Never Gonna Give You Up." The second trailer was released on June 28, showcasing the physical engine and featuring "Arm in Arm (Shy
+              Child Remix)" by the Boggs. Dan Houser noted that the game was "still rough" when the first trailer was released but cutscenes were "coming on board" by the
+              second trailer.
+            </p>
+            <p>
+              To unveil the game's cover art, Rockstar contracted artists to paint a mural on a wall at a secluded warehouse location, showcasing the art in a video on
+              November 28, 2007. A third trailer was released on December 6, introducing some of the game's characters, such as Roman and Michelle. The trailer features
+              the song "King Ring" by Russian rap artist Seryoga, which Rockstar felt captured the "melting pot mentality" of Liberty City. Dan Houser wanted the third
+              trailer to capture the "visceral qualities" of the game, but focus less on the story, as the first two trailers had done. On February 8, 2008, five
+              teaser trailers for the game were released, each showcasing a particular character or service within the game. Similar teaser trailers for the game were
+              later released in pairs on February 21, March 7, and April 11. Another trailer, relased on March 27, showcases some scenes from the game, such as a bank
+              robbery and police chase. A television commercial from GameStop debuted on April 1, focusing on the activities in Liberty City.
+            </p>
+            <p>
+              Viral marketing strategies were used to promote the game. Wanted posters were placed around New York City promoting the game's character and website;
+              billboard versions were also posted throughout the city. Murals and posters advertising the game were placed on buildings and publi transport. The Chicago
+              Transit Authority (CTA) removed advertisements promoting the game from their property in April 2008; Take-Two filed a lawsuit in response, claiming that the
+              CTA had violated a contract. Visitors to the website of <Link to="/gta/wktt_talk_radio">WKTT Talk Radio</Link>, a fictional radio station within the game,
+              wwere offered a chance to leave a voice mail message stating their problems. Prior to leaving the message, callers were asked to read the terms and
+              conditions, which revealed that some of the voice mail messages would be selected for use in the game.
+            </p>
+            <p>
+              In the month prior to launch, Rockstar and GameStop held a competition offering up to $10,000 and a trip to New York City for the game's launch event.
+              Microsoft held a similar sweepstakes competition, offering consoles, games, Microsoft Points, a baseball bat, and an invitation to the launch event as
+              rewards. The official Grand Theft Auto IV website was redesigned on February 8, 2008 to show a preview of activities and locales within the game's
+              world. To encourage pre-order sales, Rockstar collaborated with several retail outlets to provide a special edition version of the game. It includes a
+              metal safe deposit box, an art book, and the soundtrack CD. The publisher also collaborated with <Link to="/sony">Sony</Link> to release a 40 GB
+              PlayStation 3 console with a copy of the game. GameStop hosted midnight launch events at over 3,500 of its American stores, with contests and giveaways.
+            </p>
           </div>
         </div>
         <div>
