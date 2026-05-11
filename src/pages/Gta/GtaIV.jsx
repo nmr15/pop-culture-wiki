@@ -382,10 +382,48 @@ const GtaIV = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.5">Music production</h3>
+            <p>
+              When selecting music for the in-game radio stations, music supervisor Ivan Pavlovich said "we had to pick the songs that make New York
+              today what it is, but make sure they won't feel dated by the time the game comes out." The developers contacted over 2,000 people to
+              obtain recording and publishing rights; they hired a private investigator to locate the relatives of late Skatt Bros. member Sean
+              Delaney to license the band's song, "Walk the Night." Billboard reported that Rockstar pad as much as $5,000 per composition and
+              another $5,000 per master recording per track. Developers originally considered letting players purchase music in an in-gaame record
+              shop and for Niko to have an MP3 player, but both ideas were cut. DJ Green Lantern produced tracks exclusively for the game's hip-hop
+              readio station <Link to="/gta/the_bean_102.7">The Bean 102.7</Link>. Record producer Bobby Konders, who owns the record label Massive
+              B and hosts the in-game radio station <Link to="/gta/massive_b_soundsystem_96.9">Massive B Soundsystem 96.9</Link>, flew to Jamaica
+              to get dancehall artists to re-record tracks to make references toe the boroughs of Liberty City. The Housers' father, jazz musician
+              Walter Houser, provided several classic music tracks for the game.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={4} title={"Release"} />
+          <div className="img-right img-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Grand_Theft_Auto_IV_GameSpot_launch_%28Las_Vegas%29.jpg"
+            alt="GTA IV Gamestop midnight release" />
+            <p>Midniht launch of Grand Theft Auto IV at a Gamestop in Las Vegas.</p>
+          </div>
+          <p>
+            <Link to="/microsoft">Microsoft</Link>'s Peter Moore announced Grand Theft Auto IV at E3 2006 by rolling up his sleeve to reveal a temporary tattoo
+            of its logo. The game became widely anticipated. Wedbush Morgan analyst Michael Pachter suggested Take-Two may delay the game from its October 16, 2007
+            release date to boost 2008 financial results and avoid competing with games like <Link to="/halo/halo_3">Halo 3</Link>; Rockstar responded it was still on
+            track for "late October." In August 2007, Take-Two announced the game would miss its date, delayed to their second fiscal quarter (February-Aptil) of 2008,
+            citing technical difficulties with the PlayStation 3 version. IGN predicted the delay would benefit other publishers, particularly
+            <Link to="/activision"> Activision</Link> with <Link to="/call_of_duty/call_of_duty_4:_modern_warfare">Call of Duty 4: Modern Warfare</Link>. On
+            January 24, 2008, Rockstar announced the April 29 release date. Some gameplay features were censored for the Australian and New Zealand versions but the
+            restrictions were subsequently removed. Capcom published the game in Japan on October 30, 2008.
+          </p>
+          <p>
+            In August 2008, Rockstar announced that the game would be coming to Windows on November 18, 2008 in North America and November 21 in Europe, with
+            additional development work by Rockstar Toronto. Microsoft partered with Rockstar in a $50 million deal to bring two episodic downloadable content packs
+            to the Xbox 360; <Link to="/gta/grand_theft_auto_iv_the_lost_and_damned">The Lost and Damned</Link> on February 17, 2009, and
+            <Link to="/gta/grand_theft_auto_iv_the_ballad_of_gay_tony"> The Ballad of Gay Tony</Link> on October 29, 2009. Dan Houser wanted the episodes to show
+            "a different side of Liberty City." In January 2010, Rockstar announced that the DLC would be bundled as Episodes from Liberty City, released for
+            PlayStation 3 and Windows on April 13, 2010 in North America and April 16 in Europe. Episodes from Liberty City was also bundled with the main game in
+            The Complete Edition, released on October 26, 2010 in North America and October 29 in Europe. The Xbox 360 version of the game and its DLC were made
+            backwards compatible with the <Link to="/xbox/xbox_one">Xbox One</Link> on February 9, 2017. In 2026, a beta build from 2007 was acquired from an Xbox 360
+            development kit for £5 at a car boot sale in Edinburgh. The files were posted online, revealing some unfinished, alternative, and cut content.
+          </p>
           <div>
             <h3 className="article-heading-3" id="4.1">Promotion</h3>
           </div>
