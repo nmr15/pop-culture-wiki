@@ -335,7 +335,7 @@ const IronMan3 = () =>
                 near the beginning. As Bruce insists he isn't a psychiatrist as he hasn't got the temperament for the job, Tony starts telling the story again,
                 much to Bruce's annoyance.
               </p>
-              <div className="img-csrd ml-1">
+              <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/92/Bruce_as_Tony%27s_therapist.jpg" alt="Tony and Bruce" />
                 <p>Tony tells Bruce his story.</p>
               </div>
@@ -566,8 +566,44 @@ const IronMan3 = () =>
               had been cast in the film, and was currently shooting her scenes. The following day, production was halted when Downey suffered an ankle injury.
               During the break, Black and Pearce made more script revisions before shooting resumed by August 24.
             </p>
+            <p>
+              Cast and crew began arriving in Florida on October 1, to shoot scenes on Dania Beach and around South Florida. That same day, Downey returned to the
+              set after his ankle injury. In early October, scenes were shot at a replica of the Malibu restaurant Neptune's Net, and filming took place on location
+              at Vizcaya Museum and Gardens. Scenes were shot during the daytime inside the Miami Beach Resort at Miami Beach on October 10 and 11. The production
+              returned to Wilmington in mid-October for additional filming. On November 1, scenes were shot at the Vizcaya Museum and Fardens. Filming the United
+              States wrapped on November 7 in Wilmington.
+            </p>
+            <p>
+              Filming began in Beijing, China on Deember 10. Filming was scheduled to wrap a week later on December 17, 2012. The China filming did not include the
+              main cast and crew. In January 2013, it was reported that a film crew led by Shane Black would begin location scouting in Hyderabad and Bengaluru,
+              India between January 20 and 24. Also in January, Cheadle confirmed that re-shooting was taking place in Manhattan Beach. Shooting also took place
+              on the week of January 23, 2013, at TCL Chinese Theatre in Hollywood. A major part of the content filmed in the reshoots regarded the Mandarin, with
+              Drew Pearce saying that in early cuts, the character "didn't feel real enough, there wasn't a sense of him being part of the real world, mostly
+              because he was just looking down a lens and threatening the world." A report on actual production costs for films from FilmL.A. Inc., indicated a
+              gross budget of $200 million, with a net of $178.4 million for Iron Man 3 after tax incentives from North Carolina and Florida.
+            </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Iron_Man_Mark_42_armor_VFX_in_Iron_Man_3.jpg" alt="Iron Man 3 VFX" />
+              <p>Previsualization of the Mark 42 armor (top) and the completed shot (bottom).</p>
+            </div>
+            <p>
+              Chris Townsend served as visual effects supervisor for the film, which featured over 2,000 visual effects shots and was worked on by 17 studios,
+              including Weta Digital, Digital Domain, Scanline VFX, Trixter, Framestore, Luma Pictures, Fuel VFX, Cantina Creative, Cinesite, The Embassy Visual
+              Effects, Lola Visual Effects, Capital T. Prologue and Rise FX. Townsend said that from January 2013 through the end of filming in April, the collective
+              crew had one day of downtime, otherwise working seven days a week and 14 to 18 hours a day.
+            </p>
+            <p>
+              Digital Domain, Scanline VFX, and Trixter each worked on separate shots featuring the Mark 42 armor, working with different digital models. The
+              studios shared some of their files to ensure consistency between the shots. For the Mark 42 and Iron Patriot armors, Legacy Effects constructed
+              partial suits that were worn on set. Townsend explained that "invariably we'd shoot a soft-suit with Robert then we'd also put tracking markers on
+              his trousers. He would also wear lifts in his shoes or be up in a box so he'd be the correct height, Iron is 6'5". During shooting we used
+              multiple witness cams, Canon C300s, and we had two or three tunning whenever there was an Iron Man or Extremis character." The artists studied time
+              lapse photography of decaying fruit and vegetables and actual phenomenon such as aurora borealis as reference for the effect of the glowing Extremis
+              characters. The heads-up display features of the helmet were inspired by visualization techniques from MRI diagnostic pattern recognition and graph
+              theory, particularly by the connectiogram, a circular graph that maps all of the white-matter connections of the human brain.
+            </p>
             
           </div>
         </div>
