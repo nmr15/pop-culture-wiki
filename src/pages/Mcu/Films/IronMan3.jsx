@@ -534,8 +534,38 @@ const IronMan3 = () =>
               Instead, Feige suggested a doctore named Doctor Wu (in reference to the Steely Dan song) who could remove the shrapnel from Stark's chest. Chinese
               star Andy Lau became involved in negotiations to join the film in that role. Lau would later turn down the role, and Wang Xueqi was cast instead.
             </p>
+            <p>
+              The next week, Guy Pearce entered into final talks to play Aldrich Killian, a character who is featured in the "Extremis" comic book story arc.
+              Jessica Chastain entered into duscussions for a role in the film, but bowed out due to scheduling conflicts. In May, Rebecca Hall was cast in her
+              place, and her role was described as "a scientist who plays a pivotal role in the creation of a nanotechnology, known as Extremis." Over the next
+              few weeks, James Badge Dale was cast as Eric Savin, Ashley Hamilton was cast as Firepower, and Favreau returned to reprise his role as Happy Hogan
+              from the first two films. Stephanie Szostak and William Sadler were also cast in the film, with Sadler playing the President of the United States.
+              Despite early reports that <Link to="/cobie_smulders">Cobie Smulders</Link> would reprise her role as <Link to="/mcu/maria_hill">Maria Hill</Link>
+              from The Avengers in the film, Smulders wrote on her verified Twitter page that this was not true, and the confusion may have been due to the fact
+              that she was filming for Safe Haven, also in North Carolina. According to Drew Pearce, Emilia Clarke was initially cast for an unknown role, before
+              the script was changed. 
+            </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <p>
+              Filming began in Wilmington, North Carolina, on May 23, 2012, at EUE/Screen Gems Studio, with the working title Caged Heart. Cinematographer John
+              Toll opted to work with digital cameras for the first time in his career, as he found them more convenient for a visual effects-heavy production.
+              Toll shot the film primarily on the Arri Alexa camera. From June 4 through June 6, 2012, filming took place in Cay, North Carolina, at the Epic Games
+              headquarters and SAS Institute, with a large Christas tree set up on the front law. A scene was also shot at the Wilmington International Airport. The
+              Port of Wilmington served as a location for the oil tanker in the climactic battle, along with a soundstage recreation of the dock. The crumbling
+              house itself was filmed in a hydraulic-powered glubo platform that could bend and split into two pieces. All the interior footage had practical effects
+              including debris and explosions, with computer graphics used only to add exteriors and Iron Man's armor.
+            </p>
+            <p>
+              From July 19 to August 1, 2012, filming took place on Oak Island, North Carolina, to "film aerial drops over the Atlantic Ocean." They were done for
+              the scene where Iron Man rescuces the people falling from the Air Force One over Miami, which were originally envisioned done with green screen
+              effects, but were changed to using actual skydivers as second unit director Brian Smrz knew the Red Bull skydiving team. Computer graphics were
+              employed only to add clouds, the destroyed plane, and matte paitnings of the Florida coastline in the background, replace a stand-in with the
+              Iron Man armor, and some digital compositing to combine different takes of the skydivers together. Filming took place in Rose Hill, North Carolina, in
+              early August 2012, and the town's name was incorporated into the script as the Tennessee city Stark visits. On August 14, actress Dale Dickey said she
+              had been cast in the film, and was currently shooting her scenes. The following day, production was halted when Downey suffered an ankle injury.
+              During the break, Black and Pearce made more script revisions before shooting resumed by August 24.
+            </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
             
