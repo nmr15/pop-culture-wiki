@@ -604,6 +604,19 @@ const IronMan3 = () =>
               characters. The heads-up display features of the helmet were inspired by visualization techniques from MRI diagnostic pattern recognition and graph
               theory, particularly by the connectiogram, a circular graph that maps all of the white-matter connections of the human brain.
             </p>
+            <p>
+              The film's production was delayed following Downey's leg injury, and for certain shots they were forced to create a double for him. Townsend explained
+              that "The collective VFX supervisors and unit leads ran into a room as soon as the incident happened to try to ascertain what sequences could they
+              shoot." Certain shots were filmed with a body double on set, and Weta Digital created a digital body double for others.
+            </p>
+            <p>
+              A total of three hours and 15 minutes of footage were shot before editing, where it was brought down to 130 minutes (119 without the credits),
+              marking the longest stand-alone Iron Man film. Post-production also had a 3D conversion and a digital remaster for the IMAX release.
+              Todd-AO mixed the sound in Dolby Atmos to enhance the immersive experience Trevor Slattery was originally meant to die in the film, appearing during
+              the climactic oil rig battle with an Extremis injector and promptly blowing up after taking it. Pearce said that was "the most Monty Python of all of
+              the beats" in the film. During the editing process, it was determined to keep Slattery alive, with new material shot during the reshoots to
+              accommodate this.
+            </p>
             
           </div>
         </div>
