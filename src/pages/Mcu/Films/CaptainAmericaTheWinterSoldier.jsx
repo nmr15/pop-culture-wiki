@@ -133,7 +133,49 @@ const CaptainAmericaTheWinterSoldier = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/17/Steve_Rogers_and_Sam_Wilson.jpg" alt="Steve and Sam" />
+                <p>Steve introduces himself to Sam Wilson.</p>
+              </div>
+              <p>
+                Two years after the Battle of New York, Steve Rogers continues working as an agent of S.H.I.E.L.D. While out on a morning jog in Washington, D.C.,
+                Steve frequently passes a man who later introduces himself as <Link to="/mcu/sam_wilson">Sam Wilson</Link>, a veteran United States Air Force
+                pararescue trooper who now works as a counselor at the U.S. Department of Veteran Affairs. After the jog, Sam and Steve share and bond over their
+                common experiences in adapting to life after each sserving tours in the armed forces.
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                <Link to="/mcu/natasha_romanoff">Natasha Romanoff</Link> arrives to take Steve with her on a mission to rescue the hostages of the S.H.I.E.L.D.
+                vessel Lemurian Star, which had been taken over by a group of hired pirates led by Georges Batroc. Steve, Natasha, and
+                <Link to="/mcu/brock_rumlow"> Brock Rumlow</Link>, along with other members of the STRIKE, eliminate the pirates and rescue the hostages. Hoever,
+                mid-mission Steve disovers that Natasha had gotten her own secret mission from <Link to="/mcu/nick_fury">Nick Fury</Link> to extract the
+                S.H.I.E.L.D. intelligence from the ship onto a USB drive. A suspicious Steve remarks that Natasha's disappearance nearly jeopardized the mission.
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/Captainamerica252ea9d2d006f4.jpg" alt="Steve and Natasha" />
+                <p>Steve confronts Natasha</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/76/Cap_and_Nick_Fury.jpg" alt="Steve and Fury" />
+                <p>Steve and Nick Fury with the Helicarriers.</p>
+              </div>
+              <p>
+                Back at the Triskelion, Stev is angry with Fury for lying to him. Fury, as a sign of trust, takes Steve to the basement where he introduces him
+                to Project Insight. Project Insight consists of three next generation S.H.I.E.L.D. Helicariers that will be launched into the air and connected to
+                Project Insight satellites at 3000 feet in the air to neutralize enemy hostile targets. Fury tells Steve that "S.H.I.E.L.D. takes the world as it is,
+                not as we like it to be", but Steve responds that, "This isn't freedom. This is fear."
+              </p>
+            </div>
+            <div className="flex">
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Old_Peggy_Full.png" alt="Steve visits Peggy" />
+                <p>Steve visits Peggy Carter.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
