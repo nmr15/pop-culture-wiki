@@ -490,6 +490,32 @@ const GtaIV = () =>
               his enjoyment of the story. The morality choices faced by players throughout the narrative were also welcomed. 1UP.com's Boyer felt that they gave the
               game an element of "replayability." Eurogamer's Tom Bramwell considered the morality choices a fair substitute over "bosses with large health bars."
             </p>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/GTAIV_Niko_and_Dimitri.jpg" alt="Niko Bellic with Dimitri Rascalov" />
+              <p>
+                The game's protagonist, Niko Bellic, with the main antagonist, Dimitri Rascalov. Reviewers praised the story and characters, commending the
+                morality choices faced by players.
+              </p>
+            </div>
+            <p>
+              The game's characters, particularly Niko, received positive ractions from critics. Hicks of Official Xbox Magazine and Andy Robinson of Computer and
+              Video Games both called Niko "charismatic" and "likeable", stating that they preer him over previous protagonists of the series. George Walter of
+              GamesRadar praised the depth of the character, and IGN's Goldsein felt that the character of Niko feels relatable when faced with different
+              decisions. Jeff Gerstmann of Giant Bomb felt that Niko was "the only thing that mattered to him" as he progresed through the story, with the
+              character becoming one of his favorite features of the game. Schiessel of The New York Times named Niko one of the most realised video game
+              characters attributing this to the game's script, while 1UP.com's Boyer commended the use of character bonding during missions.
+            </p>
+            <p>
+              Many reviewers found the combat system was more responsive than in previous games, particularly praising the addition of the cover system. Justin
+              Calvert of GameSpot wrote that the cover system makes the game's combat a "huge improvement" over previous games. Reiner of Game Informer agreed,
+              writing that the targeting system makes players feel responsible for all deaths. IGN's Goldstein praised the fluidity of the cover system, and felt
+              that the auto aim mechanic is a "great help in larger battles." GamesRadar's Walter wrote that the cover system has "paved the way to a new style of
+              mission." David McComb of Empire called the combat "sharp and instinctive", and Hicks of Official Xbox Magazine felt that the cover system allows
+              players to execute an attack plan. In addition to the combat system, most reviewers noted the vehicles handling was more realistic than in previous
+              games. Robinson of Computer and Video Games felt that the vehicle handling echoed realism, while Hickas at Offical Xbox Magazine called the vehicle
+              selection "excellent." Constantino of GameRevolution praised the improvement of the game's mechanics, particularly the physics engine's advanced
+              vehicle and character animations.
+            </p>
 
             <h4 className="article-heading-4" id="5.1.1">Windows version</h4>
             <h3 className="article-heading-3" id="5.2">Awards</h3>
