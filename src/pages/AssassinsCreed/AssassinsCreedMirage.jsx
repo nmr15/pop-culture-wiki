@@ -1,13 +1,22 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import Collapse from '../../components/Collapse'
+import Heading2 from '../../components/Heading2'
 import TableAssassinsCreed from '../../components/TableAssassinsCreed'
 
 const AssassinsCreedMirage = () =>
 {
+  useEffect(() =>
+  {
+    document.title = "Assassin's Creed Mirage - Pop Culture Wiki";
+  }, []);
+
   return(
     <>
       <aside className="sidebar">
-        <ul className="sidebar-list"></ul>
+        <ul className="sidebar-list">
+          <li className="sidebar-list-item"><a href="#top">Top</a></li>
+        </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
@@ -18,13 +27,38 @@ const AssassinsCreedMirage = () =>
         <div>
           <h1 className="article-heading">Assassin's Creed Mirage</h1>
         </div>
-        <div className="img-right img-top">
-          <img 
-            src="https://upload.wikimedia.org/wikipedia/en/2/23/Assassin%27s_Creed_Mirage_cover.jpeg" 
-            alt="Assassin's Creed Mirage logo" 
-            className="article-heading-img"
-          />
-        </div>
+         <table className="infobox">
+          <tbody>
+            <tr>
+              <th colspan="2">
+                <span>Assassin's Creed Mirage</span>
+              </th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Assassin%27s_Creed_Mirage_cover.jpeg" alt="Assassin's Creed Mirage cover" />
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Developers</th>
+              <td className="infobox-data"><Link>Ubisoft Montreal</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data">Ubisoft</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Previous Assassin's Creed game</th>
+              <td className="infobox-data"><Link to="/assassinscreed/assassins_creed_valhalla">Assassin's Creed Valhalla</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next Assassin's Creed game</th>
+              <td className="infobox-data"><Link to="/assassinscreed/assassins_creed_shadows">Assassin's Creed Shadows</Link></td>
+            </tr>
+          </tbody>
+        </table>
       </main>
     </>
   )
