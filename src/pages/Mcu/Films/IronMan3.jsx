@@ -623,13 +623,35 @@ const IronMan3 = () =>
         <div>
           <Heading2 id={4} title={"Music"} />
           <div>
-            
+            <p>
+              The film is scored by Brian Tyler, who signed on in October 2012. According to Tyler, he was approached more for his "thematic" score such as The
+              Greatest Game Ever Played, Annapolis, and Partition rather than his "modern" action scores such as The Fast and Furious films, with Kevin Feige
+              asking for a theme that was recognizable and featured those dramatic tones. To employ the "deeply thematic component with a strong melody", the
+              score employs mostly orchestra sounds. The main theme for Iron Man focuses on horn and trumpets, to be "both a march and anthem." Tyler mentioned
+              that <Link to="/john_williams">John Williams</Link>' work on Raiders of the Lost Ark was the first thing he thought of as an influence, and the cue
+              for the Well of Souls in Raiders influenced the Extremis motif, as Tyler felt it should enhance a spiritual side for having a "technology so
+              advanced that nears magic." Echoing the Mandarin's amalgamated personality, his theme was religious music "that borrows from many cultures", from
+              "Monatic, Gothic, and Christian chants to music from the Middle-East." The score was recorded with the London Philharmonic Orchestra at
+              Abbey Road Studios.
+            </p>
+            <p>
+              Along with Tyler's soundtrack album, Hollywood records released a concept album inspired by the film, Heroes Fall. It features twelve original
+              alternative rock and indie rock songs, with only one appearing in the film itself, Awoination's "Some Kind of Joke."
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={5} title={"Marketing"} />
           <div>
-            
+            <p>
+              In July 2012, at San Diego Comic-Con, a new Iron Man armor from the film, the Mark XLII, was on display on the convention floor, along with the Marks
+              I-VII from the first two Iron Man films and The Avengers. A panel was held, during which Shane Black, Robert Downey Jr., Don Cheadle, Jon Favreau, and
+              Kevin Feige discussed making the film, and several minutes of footage from the film were shown. The first television advertisement aired during Super
+              Bowl XLVII on the CBS network in the United States. On March 25. 2013, Marvel and Disney revealed on the official Iron Man Facebook page, "Iron Man 3:
+              Armor Unlock", to reveal suits Stark has made before the events of the film. In January 2013, Marvel Comics released a two-issue comic book prelude by
+              writer Christos Gage and Will Corona Pilgrim with art by Steve Kurth and Drew Geraci. The story set between the second and third Iron Man films
+              centers on War Machine, revealing why he was absent during the battle in New York of The Avengers.
+            </p>
           </div>
         </div>
         <div>
