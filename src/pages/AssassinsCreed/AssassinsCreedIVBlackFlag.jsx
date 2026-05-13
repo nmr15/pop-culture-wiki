@@ -26,6 +26,44 @@ const AssassinsCreedIVBlackFlag = () =>
               {id: "2.3", title: "Plot"}
             ]}
           />
+          <Collapse 
+            id="3"
+            item="Development"
+            sub={[
+              {id: "3.1", title: "Music"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Marketing and release"
+            sub={[
+              {id: "4.1", title: "Downloadable content"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Reception"
+            sub={[
+              {id: "5.1", title: "Sales"},
+              {id: "5.2", title: "Awards"},
+              {id: "5.3", title: "PETA criticism"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Future"
+            sub={[
+              {id: "6.1", title: "Series continuation"},
+              {id: "6.2", title: "Remake"}
+            ]}
+          />
+          <Collapse 
+            id={"7"}
+            item="Trivia"
+            sub={[
+              {id: "7.1", title: "What Could Have Been"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
