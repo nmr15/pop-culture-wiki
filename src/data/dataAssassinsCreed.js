@@ -126,7 +126,7 @@ export const assassinsCreedChars = [
     "title": "Ratonhnhake:ton",
     "file": "Ratonhnhake:ton",
     "img": "https://static.wikia.nocookie.net/assassinscreed/images/d/d6/ACI-Connor.png",
-    "route": "/assassinscreed/Ratonhnhake:ton"
+    "route": "/assassinscreed/ratonhnhake:ton"
   },
   {
     "id": "acChar5",
