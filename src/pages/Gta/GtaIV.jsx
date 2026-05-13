@@ -470,6 +470,27 @@ const GtaIV = () =>
           <Heading2 id={5} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Critical response</h3>
+            <p>
+              Grand Theft Auto IV received "universal acclaim" from critics, according to review aggregator Metacritic. It is the second-highest-rated game on the
+              site, and highst-rated PlayStation 3 and Xbox 360 game. Reviewers praised the narrative, open world design, and combat system. Hilary Goldstein of IGN
+              felt that the game "sets a new benchmark for open-world games", and Andrew Reiner of Game Informer wrote that the game "completely changes the
+              landscape of gaming."
+            </p>
+            <p>
+              Reviewers lauded the open world design, some further complimenting the freedom that it allows the player. Seth Schiesel of The New York Times named
+              the city the "real star" of the game. Official Xbox Magazine's Jon Hicks was impressed by the city, attributing this to the game's artificial
+              intelligence. Robinson of Computer and Video Games considered the environment believable, and felt that the world was "utterly unmatched." Goldsten of
+              IGN felt that, although Liberty City is inspired by New York, it is not beholden to it. He wrote that the city "exists in its own universe and
+              rightfully so." Crispin Boyer of 1UP.com directed praise at the city's "breathtaking vistas, incredibly varied scenery, and lived-in look."
+              Conversely, Jesse Constantino of GameRevolution felt that the game lacked important features common in other open world games.
+            </p>
+            <p>
+              Reviewers praised the narrative, IGN's Goldstein accepted that the darker tone to the story were a break from series tradition. Hicks of Official
+              Xbox Magazine felt surprised by the amount of depth to the story. Reiner of Game Informer wrote that the level of freedom in the game contributed to
+              his enjoyment of the story. The morality choices faced by players throughout the narrative were also welcomed. 1UP.com's Boyer felt that they gave the
+              game an element of "replayability." Eurogamer's Tom Bramwell considered the morality choices a fair substitute over "bosses with large health bars."
+            </p>
+
             <h4 className="article-heading-4" id="5.1.1">Windows version</h4>
             <h3 className="article-heading-3" id="5.2">Awards</h3>
           </div>
