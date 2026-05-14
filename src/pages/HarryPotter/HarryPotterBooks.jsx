@@ -149,7 +149,7 @@ const HarryPotterBooks = () =>
             <h3 className="article-heading-3" id="1.1">Early years</h3>
             <div className="img-left img-card">
               <img
-                src="https://en.wikipedia.org/wiki/File:The_Elephant_House.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Elephant_House.jpg"
                 alt="The Elephant House"
               />
             </div>
@@ -471,7 +471,7 @@ const HarryPotterBooks = () =>
           <div>
             <h3 className="article-heading-3" id="5.1">Commercial success</h3>
             <div className="img-left img-card">
-              <img src="https://en.wikipedia.org/wiki/File:Harry_Potter_lines.jpg" alt="Lines for the Half-Blood Prince" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Harry_Potter_lines.jpg/500px-Harry_Potter_lines.jpg" alt="Lines for the Half-Blood Prince" />
               <p>Crowd outside a bookstore for the midnight release of Harry Potter and the Half-Blood Prince.</p>
             </div>
             <p>
@@ -539,8 +539,29 @@ const HarryPotterBooks = () =>
               series "a feat of which only a superior imagination is capable", and declared "Rowling's punning, one-eyebrow-cocked sense of humor" to be "remarkable".
               However, he wrote that he is "a little tired of discovering Harry at home with his horrible aunt and uncle", the formulaic beginning of all seven books.
             </p>
+            <p>
+              Sameer Rahim of The Daily Telegraph disagreed, saying "it depresses me to see 16 and 17 year olds reading the series when they could be reading the
+              great novels of childhood such as Oliver Twist or A House for Mr. Biswas." The Washington Post book critic Ron Charles opined in July 2007 that
+              "through no fault of Rowling's", the cultural and marketing "hysteria" marked by the publication of the later books "trains children and adults to
+              expect the roar of the coliseum, a mass-media experience that no other novel can possibly provide." Jenny Sawyer wrote in The Christian Science
+              Monitor on July 25, 2007, that Harry Potter neither faces a "moral struggle" nor undergoes any ethical growth and is thus "no guide in
+              circumstances in which right and wrong are anything less than blak and white." In contrast, Emily Griesinger described Harry's first passage through
+              Platform 9 3/4 as an application of faith and hope, and his encounter with the <Link to="/harry_potter/sorting_hat">Sorting Hat</Link> as the first
+              of many in which Harry is shaped by the choices he makes.
+            </p>
+            <p>
+              In a November 8, 2002 Slate article, Chris Suellentrop likened Potter to a "trust-fund kid whose success at school is largely attributed to the gifts
+              of his friends and relatives lavish upon him." In an August 12, 2007 review of Deathly Hallows in The New York Times, however, Christopher Hitchens
+              praised Rowling for "unmooring" her "English school story" from literary precedents "bound up with dreams of wealth and class and snobbery",
+              arguing that she had instead created "a world of youthful democracy and diversity." In 2016, an article written by Diana C. Murtz compared the
+              politics of Harry Potter to the 2016 Donald Trump presidential campaign. She suggests that these themes are also present in the presidential
+              election and it may play a significant role in how Americans have responded to the campaign.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Themes critique</h3>
+            <p>
+
+            </p>
 
             <h3 className="article-heading-3" id="5.4">Controversies</h3>
           </div>
