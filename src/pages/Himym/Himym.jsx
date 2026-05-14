@@ -592,6 +592,30 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.9">Season 9</h3>
+            <p>
+              With the exception of the series' 200th episode and the last episode, the entirety of season nine takes place in the 56 hours leading up to Barney and
+              Robin's wedding.
+            </p>
+            <p>
+              Marshall, who is stuck in Minnesota, desperately tries to find a way to get to the wedding in time. Meanwhile, in Farhampton, the time is slowly
+              counting down to the wedding, with a new problem arising in almost every episode. It is revealed that Lily is pregnant and that she and Marshall will
+              have a daughter. It is also revealed that Ted's children are named Penny and Luke. In the 200th episode, the Mother's eight years before meeting Ted are
+              revealed, while later episodes give viewers a glimpse of Ted and the Mother together in flash forward scenes. Also, Marshall uses his final two slaps
+              from the slap bet: the first being used as an apology present for missing the rehearsal dinner, and the second when Barney begins to panic just
+              before the beginning of the wedding ceremony.
+            </p>
+            <p>
+              In the series finale, it is revealed that after three years of marriage, Barney and Robin decided to divorce. Barney ends up later fathering a child
+              during a one-night stand. Marshall eventually becomes a judge, and he and Lily have three children. Ted's wife, whose name is revealed to be Tracy
+              McConnell, dies of an unkown illness in 2024, six years prior to the time of Ted telling his children the full story of how they met. Upon finishing
+              the story, at the urging of his kids, Ted decides to ask Robin out. Alluding to the first episode, the finale ends with Robin, as she looks out of her
+              apartment window to see Ed holding the blue French horn, smiling with tears in her eyes.
+            </p>
+            <p>
+              Following backlash from fans over the ending of the series, an alternate ending was cut together and released on the Season 9 DVD, in which future
+              Ted narrates over the scene in which Ted and Tracy meet at the train station, recapping all major events from the series. He delivers the final line
+              "and that kids is how I met your mother", and the episode ends, completely cutting the final scene with Penny and Luke.
+            </p>
           </div>
         </div>
         <div>
@@ -664,6 +688,27 @@ const Himym = () =>
           <Heading2 id={7} title={"Subplots"} />
           <div>
             <h3 className="article-heading-3" id="7.1">The Slap Bet</h3>
+            <p>
+              It is in Season 2, episode 9, named "<Link to="/himym/slap_bet">Slap Bet</Link>" when viewers are introduced o what is a slap bet, as explained by
+              Marshall to Lily. The first slap bet of the series is made in this episode when Ted is adamant on discovering why Robin refuses to to malls. In
+              response, Barney is positive that Robin is hiding pornography that she has starred in, while Marshall believes Robin is married. This is when Barney
+              suggests a slap bet instead of betting money, Marshall explains that "whoever is right gets to slap the other person in the face as hard as they can,
+              but no rings." Lily initially believes it is immature until Marshall states she can be slap bet commissioner. Ted continues to badger Robin about
+              why she refuses to go to malls, and when trying to figure out if she was married, Robin lies and says she was married. When Ted tells the group that
+              Robin is married, Marshall preemptively slaps Barney. Marshall then tries to look up Robin's marital records at his law school library, and it is
+              revealed that Robin lied. Eventually, Marshall tells Lily, so Lily as slap bet commissioner imparts a slap penalty allowing Barney to slap Marshall
+              three times, one for lying about finding out the truth, and two for the premature slap. Barney then discovers someone that has the tape with proof of
+              Robin's secret, a man in Malaysia, and he has posted the video onto MySpace. When Barney plays the video, he stops the video at a seemingly suggestive
+              part and believing he has won the bet and slaps Marshall. Robin, to show that her secret was not pornography, then plays the entire video, revealing
+              to the group that she was Robin Sparkle, a teenage pop star in Canada. Viewers and the group are introduced to Robin's song
+              "<Link to="/himym/let's_go_to_the_mall">Let's Go to the Mall</Link>". Lily allows Barney to choose between two punishments, ten slaps at that moment
+              or five slaps that be doled out any time from then to eternity. Although Ted states that Barney should just take the ten slaps, Barney chooses the
+              five slaps. When Ted apologizes for forcing the secret out of her, Robin tells Ted that she is glad he knows her better and they kiss, Marshall then
+              slaps Barney, using the first slap stating "That's one." The slaps won by Marshall are an ongoing trope within the series and last through to the
+              twenty second episode of season 9 "<Link to="/himym/the_end_of_the_aisle">The End of the Aisle</Link>", the last episode before the two-episode
+              series finale "<Link to="/himym/last_forever">Last Forever</Link>."
+            </p>
+
             <h3 className="article-heading-3" id="7.2">The Pineapple Incident</h3>
             <h3 className="article-heading-3" id="7.3">Robin Sparkles</h3>
             <h3 className="article-heading-3" id="7.4">The Doppelgangers</h3>
