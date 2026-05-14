@@ -710,7 +710,23 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.2">The Pineapple Incident</h3>
+            <p>
+              Introduced in <Link to="/himym/the_pineapple_incident">The Pineapple Incident</Link> (Season 1, Epiode 10), this mystery begins when Ted wakes up
+              after a drunken night with a woman in his bed, a sprained ankle, and a pineapple on his nightstand. The gang tries to piece together the events of
+              the night, but the origin of the pineapple remains unkown as they eat the pineapple in the end of the episode. It is later revealed in a deleted
+              scene from <Link to="/himym/daisy">Daisy</Link> (Season 9, Episode 20) that the pineapple came from the Captain's home, as part of a naval tradition.
+            </p>
+            
             <h3 className="article-heading-3" id="7.3">Robin Sparkles</h3>
+            <p>
+              First revealed in Slap Bet (Season 2, Episode 9), Robin's secret past as a Canadian teen pop star emerges when Barney and Ted try to uncover her
+              biggest secret. Over multiple episodes, more details surface, including her second song, "Sandcastles in the Sand" in
+              <Link to="/himym/sandcastles_in_the_sand"> Sandcastles in the Sand</Link> (Season 3, Episode 16), which sets off Barney and Robin's relationship, and
+              her dark post-pop phase with "P.S. I Love You" in <Link to="/himym/ps_i_love_you">P.S. I Love You</Link> (Season 8, Episode 15), when Barney is in
+              search for it and seems to become "obsessed" over it. In a deleted scene from The End of the Aisle (Season 9, Episode 22), Robin sings "Let's Go to
+              the Mall" for the gang at her wedding reception, with Ted, Marshall, Lily, and Barney joining in.
+            </p>
+
             <h3 className="article-heading-3" id="7.4">The Doppelgangers</h3>
             <h3 className="article-heading-3" id="7.5">The Playbook</h3>
             <h3 className="article-heading-3" id="7.6">Marshall vs. Machines</h3>
