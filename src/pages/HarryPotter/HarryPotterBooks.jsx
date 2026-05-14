@@ -594,6 +594,36 @@ const HarryPotterBooks = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Controversies</h3>
+            <p>
+              The books have been the subject of legal proceedings, stemming from various conflicts over copyright and trademark infringements. The popularity and
+              high market value of the series has led Rowling, her publishers, and film distributor Warner Bros. Pictures to take legal measures to protect their
+              copyright, which have included banning the sale of Harry Potter imitations, targeting the owners of websites over the "Harry Potter" domain name, and
+              suing author nancy Stouffer to counter her accusations that Rowling had plagiarised her work.
+            </p>
+            <p>
+              Various religious fundamentalists have claimed that the books promote witchcraft and religions such as Wicca and are therefore unsuitable for children,
+              while critics have criticized the books for promoting various political agendas. The series has landed the American Library Associations' Top 10
+              Banned Book List in 2001, 2002, 2003, and 2019 with claims it was anti-family, discussed magic and witchcraft, contained actual spells and curses,
+              referenced the occult/Satanism, violence, and had characters who use "nefarious means" to attain goals, as well as conflicts with religious viewpoints.
+            </p>
+            <p>
+              The books also aroused controversies in the literary and publishing worlds. From 1997 to 1998, Harry Potter and the Philosopher's Stone won almost all
+              the United Kingsom awards judged by children, but none of the children's books awards judged by adults, and Sandra Beckett suggested the reason was
+              intellectual snobbery towards books that were popular among children. In 1999, the winner of the Whitbread Book of the Year award children's division
+              was entered for the first time on the shortlist for the main award, and one judge threatened to resign if Harry Potter and the Prisoner of Azkaban
+              was declared the overall winner; it finished second, very close behing the winner of the poetry prize, Seamus Heaney's translation of the
+              AnglpSaxon epic Beowulf.
+            </p>
+            <p>
+              In 2000, shortly before the publication of Harry Potter and the Goblet of Fire, the previous three Harry Potter books topped The New York Times fiction
+              best-seller list and a third of the entries were children's books. The newspaper created a new children's section covering children's books,
+              including both fiction and non-fiction, and initially counting only hardback sales. The move was supported by publishers and booksellers. In 2004,
+              The New York Times further split the children's list, which was still dominated by Harry Potter books, into sections for series and individual books
+              and removed the Harry Potter books from the section for individual books. The split in 2000 attracted condemnation, praise, and some comments that
+              presented both benefits and disadvantages of the move. Time suggested that, on the same principle, Billboard should have created a separate
+              "mop-top" list in 1964 when <Link to="/beatles">The Beatles</Link> held the top five places in its list, and Nielsen should have created a
+              separate game-show list when Who Wants to Be a Millionaire? dominated the ratings.
+            </p>
           </div>
         </div>
         <div>
