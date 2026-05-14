@@ -557,10 +557,40 @@ const HarryPotterBooks = () =>
               politics of Harry Potter to the 2016 Donald Trump presidential campaign. She suggests that these themes are also present in the presidential
               election and it may play a significant role in how Americans have responded to the campaign.
             </p>
+            <p>
+              There is ongoing discussions regarding the extent to which the series was inspired by Tolkien's Lord of the Rings books.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Themes critique</h3>
             <p>
-
+              The portrayal of women in Harry Potter has been described as complex and varied, but nonetheless conforming to stereotypical and patriarchal
+              depictions of gender. Gender divides are ostensibly absent in the books: Hogwarts is coeducational and women hold positions of power in the wizarding
+              society. However, the setting obscures the typecasting of female characters and the geneeral depiction of conventional gender roles. According to
+              scholars Elizabeth Heilman and Trevor Donaldson, the subordination of female characters goes further early in the series. The final three books
+              "showcased richer roles and more powerful females": for instance, the series' "most matriarchal character", Molly Weasley, engages substantially in the
+              final battle of Deathly Hallows, while other women are shown as leaders. Hermione Granger, in particular, becomes an active and independent
+              character essential to the protagonists' battle against evil. Yet, even particularly capable female characters such as Hermione and Minerva
+              McGonagall are placed in supporting roles, and Hermione's status as a feminist model is debated. Girls and women are more frequnelty shown as
+              emotional, more often defined by their appearance, and less often given agency in family settings.
+            </p>
+            <p>
+              The social hierarchy of wizards in Rowling's world has drawn debate among critics. "<Link>Purebloods</Link>" have two wizard parents:
+              "<Link>half-bloods</Link>" have one; and "Muggle-born" wizards have magical abilities, although neither of their parents is a wizard. Lord
+              Voldemort and his followers believe that blood purity is paramount and that Muggles are subhuman. According to the literary scholar Andrew Blake,
+              Harry Potter rejects blood purity as a basis for social division. Suman Dupta agrees that Voldemort's philosophy represents "absolute evil"; and
+              Nel and Eccleshare agree that advocates of racial or blood-based hierarchies are antagonists. Gupta, following Blake, suggests that the essential
+              superiority of wizards over Muggles, wizards can use magic and Muggles cannot, means that the books cannot coherently reject anti-Muggle prejudice by
+              appealing to equality between wizards and Muggles. Rather, according to Gupta, Harry Potter models a form of tolerance based on the "charity and
+              altruism of those belonging to superior races" towards lesser races.
+            </p>
+            <p>
+              Harry Potter's depiction of race, specifically the slavery of house-elves, has recived varied responses. Scholars such as Bycohan Carey have
+              praised the books' abolitionist sentiment, viewing Hermione's <Link to="/harry_potter/spew">Society for the Promotion of Elfish Welfare</Link>
+              as a model for younger readers' political engagement. Other critics including Farah Mendlesohn find the portrayal of house elves "most difficult to
+              accept"; the elves are denied the right to free themselves and rely on the benevolence of others like Hermione. Pharr terms the house-elves a
+              disharmonious element of the series, writing that Rowling leaves their fate hanging at the end of Deathly Hallows, the elves remain enslaved and
+              cheerful. The goblins of the world of Harry Potter have also received criticism for following antisemitic caricatures, particularly for their
+              grotesque "hook-nosed" portrayal in the films, an appearance associated with Jewish stereotypes.
             </p>
 
             <h3 className="article-heading-3" id="5.4">Controversies</h3>
