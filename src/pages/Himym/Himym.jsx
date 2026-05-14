@@ -728,6 +728,29 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.4">The Doppelgangers</h3>
+            <p>
+              First introduced in <Link to="/himym/double_date">Double Date</Link> (Season 5, Episode 2), the gang begins spotting doppelgangers of themselves:
+              <ul className="article-list">
+                <li>
+                  Lesbian Robin is the first to be found.
+                </li>
+                <li>
+                  Moustache Marshall is spotted in Double Date, and seen again when Ted goes on a date with Jen after seven years in the same episode.
+                </li>
+                <li>
+                  Stripper Lily also appears in Double Date.
+                </li>
+                <li>
+                  Mexican Wrestler Ted is seen in <Link to="/himym/robots_versus_wrestlers">Robots Versus Wrestlers</Link> (Season 5, Episode 22).
+                </li>
+                <li>
+                  Doctor Stangel is (not) discovered in <Link to="/himym/doppelgangers">Doppelgangers</Link> (Season 5, Episode 24), but it leads Marshall and Lily
+                  to believe it's a sign to start a family. However, it turns out to actually be Barney in disguise. The real doppelganger is finally spotted in
+                  <Link to="/himym/big_days"> Big Days</Link> (Season 6, Episode 1).
+                </li>
+              </ul>
+            </p>
+
             <h3 className="article-heading-3" id="7.5">The Playbook</h3>
             <h3 className="article-heading-3" id="7.6">Marshall vs. Machines</h3>
           </div>
