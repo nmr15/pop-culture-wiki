@@ -115,23 +115,136 @@ const AjakMCU = () =>
           <div>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
             <h4 className="article-heading-4" id="1.1.1">Aiding the Celestials for millenia</h4>
+            <p>
+              Ajak was genetically
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Earth mission</h3>
             <h4 className="article-heading-4" id="1.2.1">Arriving on Earth</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/ca/Ajak_glowing_eyes.png" alt="Ajak wakes up" />
+                <p>Ajak being awoken by the Celestial Communication Sphere.</p>
+              </div>
+              <p>
+                Eventually, Arishem instructed
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Once the Domo
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b1/Ajak_Heals_Ikaris.png" alt="Ajak healing Ikaris" />
+                <p>Ajak healing Ikaris on Earth in 5000 BC.</p>
+              </div>
+            </div>
 
             <h4 className="article-heading-4" id="1.2.2">Battle of Babylon</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/74/AjakCloseUp.png" alt="Ajak communicates with Arishem" />
+                <p>Ajak communicates with Arishem the Judge.</p>
+              </div>
+              <p>
+                In Babylon, within
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Ajak then went
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/31/Ajak_Eternals_Trailer.png" alt="Ajak observing Phastos's work" />
+                <p>Ajak observing Phastos's work.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f7/AjakAtCelebration.png" alt="Ajak speaks with Ikaris" />
+                <p>Ajak speaks with Ikaris.</p>
+              </div>
+              <p>
+                Later that night
+              </p>
+            </div>
+            <p>
+              After the Eternals
+            </p>
 
             <h3 className="article-heading-3" id="1.3">500 year war</h3>
             <h4 className="article-heading-4" id="1.3.1">Mission in Spain</h4>
+            <div className="flex">
+              <p>
+                Ajak and Phastos
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6d/Ambush_in_Cordoba.png" alt="Ajak and Phastos fighting a Deviant" />
+                <p>Ajak and Phastos fighting a Deviant in Cordoba.</p>
+              </div>
+            </div>
 
             <h4 className="article-heading-4" id="1.3.2">Ending the war</h4>
+            <p>
+              Ajak was contacted
+            </p>
 
             <h3 className="article-heading-3" id="1.4">Distracting Phastos</h3>
+            <p>
+              Ajak became concerned
+            </p>
+            <p>
+              Phastos backed away
+            </p>
 
             <h3 className="article-heading-3" id="1.5">Victory</h3>
             <h4 className="article-heading-4" id="1.5.1">Defeating the Deviants</h4>
+            <p>
+              Ajak and the
+            </p>
+            <div className="flex">
+              <p>
+                During the fall
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/ThenaHurtsAjak.png" alt="Thena stabs Ajak" />
+                <p>Thena stabs Ajak.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/AjakStopsThena.png" alt="Ajak assures Thena" />
+                <p>Ajak assures Thena.</p>
+              </div>
+              <p>
+                They all took
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                This resulted in
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ab/DruigScoldsAjak.png" alt="Druig argues with Ajak" />
+                <p>Druig argues with Ajak.</p>
+              </div>
+            </div>
+            <p>
+              Gilgamesh then volunteers
+            </p>
             
             <h4 className="article-heading-4" id="1.5.2">Splitting up the Eternals</h4>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Ajak_splits_the_Team.png" alt="Ajak splits up the Eternals" />
+                <p>Ajak splits up the Eternals in Tenochtitian.</p>
+              </div>
+              <p>
+                In the same
+              </p>
+            </div>
+            
+            
 
             <h3 className="article-heading-3" id="1.6">Emergence</h3>
             <h4 className="article-heading-4" id="1.6.1">Changing her mind</h4>
