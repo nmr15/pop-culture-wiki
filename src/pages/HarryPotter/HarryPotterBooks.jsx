@@ -748,7 +748,41 @@ const HarryPotterBooks = () =>
           <Heading2 id={8} title={"Adaptations"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Films</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/GWR_%27Hall%27_5972_%27Olton_Hall%27_at_Doncaster_Works.JPG" 
+              alt="Hogwarts Express train used in the films" />
+              <p>The locomotive that featured as the "Hogwarts Express" in the film series.</p>
+            </div>
+            <p>
+              In 1999, Rowling sold the film rights for Harry Potter to Warner Bros. for a reported £1 million ($2,000,000). Rowling had creative control on the
+              film series, observing the filmmaking process of Philosopher's Stone and serving as producer on the two-part Deathly Hallows, alongside David
+              Heyman and David Barron. Rowling demanded the principal cast be kept strictly British and Irish, nonetheless allowing for the inclusion or French
+              and Eastern European actors where characters from the book are specified as such.
+            </p>
+            <p>
+              Chris Columbus was selected as the firector for <Link to="/harry_potter/harry_potter_and_the_philosophers_stone_film">Harry Potter and the
+              Philosopher's Stone</Link> (titled "Harry Potter and the Sorcerer's Stone" in the United States). Philosopher's Stone was released on November 14,
+              2001. Just three days after film's release, production for <Link to="/harry_potter/harry_potter_and_the_chamber_of_secrets_film">Harry Potter
+              and the Chamber of Secrets</Link>, also directed by Columbus, began and the film was released on November 15, 2002. Columbus decline to direct
+              <Link to="/harry_potter/harry_potter_and_the_prisoner_of_azkaban_film"> Harry Potter and the Prisoner of Azkaban</Link>, only acting as producer
+              Mexican director Alfonso Cuaron took over the job, and after shooting in 2003, the film was released in June 4, 2004. Due to the fourth film
+              beginning its production before the third's release. Mike Newell was chosen as the director for
+              <Link to="/harry_potter/harry_potter_and_the_goblet_of_fire_film"> Harry Potter and the Goblet of Fire</Link>, released on November 18, 2005.
+              Newell became the first British director of the series, with television David Yates following suit after he was chosen to helm
+              <Link to="/harry_potter/harry_potter_and_the_order_of_the_phoenix_film"> Harry Potter and the Order of the Phoenix</Link>. Production began in
+              January 2006 and the film was released the following year in July 2007. Yates was selected to direct
+              <Link to="/harry_potter/harry_potter_and_the_half_blood_prince_film"> Harry Potter and the Half-Blood Prince</Link>, which was released on July 15,
+              2009. The final installment in the series, Harry Potter and the Deathly Hallows was released in two cinmeatic parts:
+              <Link to="/harry_potter/harry_potter_and_the_deathly_hallows_part_1"> Part 1</Link> on November 19, 2010, and
+              <Link to="/harry_potter/harry_potter_and_the_deathly_hallows_part_2"> Part 2</Link> on July 15, 2011.
+            </p>
+
             <h4 className="article-heading-4" id="8.1.1">Spin-off prequels</h4>
+            <p>
+              A prequel series was planned to consist of five films, taking place before the main series. The first film, Fantastic Beasts and Where to Find Them
+              was released in November 2016, followed by the second Fantastic Beasts: The Crimes of Grindelwald in November 2018, and Fantastic Beasts: The
+              Secrets of Dumbledore in Apeil 2022. Rowling wrote the screenplays for all three films, marking her foray into screenwriting.
+            </p>
 
             <h3 className="article-heading-3" id="8.2">Games</h3>
 
