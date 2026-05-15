@@ -719,7 +719,29 @@ const HarryPotterBooks = () =>
         <div>
           <Heading2 id={7} title={"Awards, honors, and recognition"} />
           <div>
-
+            <p>
+              The Harry Potter series has been recognized by a host of awards since the initial publication of Philosopher's Stone, including a platinum award
+              from the Whitaker Gold and Platinum Book Awards (2001), three Nestle Smarties Book Prizes (1997-1999), two Scottish Arts Council Book Awards (1998
+              and 2001), the inaugural Whitbread children's book of the year award (1999), and the WHSmith book of the year (2006), among others. In 2000, Harry
+              Potter and the Prisoner of Azkaban was nominated for a Hugo Award for Best Novel, and in 2001, Harry Potter and the Goblet of Fire won said award.
+              Honors include a commendation for the Carnegie Medal (1997), a short listing for the Guardian Children's Award (1998), and numberous listings on the
+              notable books, editors' choice, and best books lists of the American Library Association, The New York Times, Chicago Public Library, and
+              Publishers Weekly.
+            </p>
+            <p>
+              In 2002, sociologist Andrew Blake named Harry Potter a British pop culture icon along with the likes of James Bond and Sherlock Holmes. In 2003,
+              four of the books were named in the top 24 of the BBC's The Big Read survey of the best loved novels in the UK. A 2004 study found that books in the
+              series were commonly read aloud in elementary schools in San Diego County, California. Based on a 2007 online poll, the US National Education
+              Association listed the series in its "Teachers' Top 100 Books for Children." Time magazine named Rowling as a runner-up for the 2007 Person of the
+              Year award, noting the social, moral, and political inspiration she has given her fandom. Three of the books placed among the "Top 100 Chapter Books"
+              of all time, or children's novels, in a 2013 survey published by School Library Journal: Sorcerer's Stone ranked number three, Prisoner of Azkaaban
+              12th, and Goblet of Fire 98th.
+            </p>
+            <p>
+              In 2007, the seven Harry Potter book covers were depicted on a seriss of UK postage stamps issued by Royal Mail. In 2012, the opening ceremony of the
+              2012 Summer Olympics in London featured a 100-foot tall rendition of Lord Voldemor in a segment designed to showcase the UK's cultural icons. In
+              November 2019, the BBC listed the Harry Potter series on its list of the 100 most influential novels.
+            </p>
           </div>
         </div>
         <div>
