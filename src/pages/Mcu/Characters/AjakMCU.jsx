@@ -116,7 +116,10 @@ const AjakMCU = () =>
             <h3 className="article-heading-3" id="1.1">Creation</h3>
             <h4 className="article-heading-4" id="1.1.1">Aiding the Celestials for millenia</h4>
             <p>
-              Ajak was genetically
+              Ajak was genetically programmed by Arishem the Judge, the leader of the Celestials, and was sent to multiple planets to protect and help evolve
+              sentient life forms from the Deviants, powering a Celestial seed inside the planet, which would absorb the energy made from the sentient lifeforms.
+              Eventually, the Emergence would occur, destroying the planet in the process. Upon finishing their mission, the Eternals would be sent back to the
+              World Forge to have their memories erased and reset. Ajak herself helped the Celestials in many planets, ensuring the Emergence to happen.
             </p>
 
             <h3 className="article-heading-3" id="1.2">Earth mission</h3>
@@ -243,7 +246,7 @@ const AjakMCU = () =>
                 In the same
               </p>
             </div>
-            
+
             
 
             <h3 className="article-heading-3" id="1.6">Emergence</h3>
