@@ -673,6 +673,47 @@ const HarryPotterBooks = () =>
               merchandise that accompanies the book launches. However, the assumption that Harry Potter books have increased literacy among young people is
               "largely a folk legend."
             </p>
+            <p>
+              Research by the National Endowment for the Arts (NEA) has found no increase in reading among children coinciding with the Harry Potter publishing
+              phenomenon, nor has the broader downward trend in reading among Americans been arrested during the rise in the popularity of the Harry Potter books.
+              The research also found that children who read Harry Potter books were not more likely to go on to read outside the fantasy and mystery genres. NEA
+              chairman Dana Giola said the series, "got millions of kids to read a long and reasonably complex series of books. The trouble is that one Harry Potter
+              novel every few years is not enough to reverse the decline in reading."
+            </p>
+            <p>
+              Many fan fiction and fan art works about Harry Potter have been made. In March 2007, "Harry Potter" was the most commonly searched fan fiction
+              subject on the internet. Jennifer Conn used Snape's and Quidditch coach Madame Hooch's teaching methods as examples of what to avoid and what to
+              emulate in clinical teaching, and Joyce Fields wrote that the books illustrate four of the five main topics in typical first-year sociology class:
+              "sociological concepts including culture, society, and socialisation; stratification and social ineequality; social institutions; and social theory."
+            </p>
+            <p>
+              From the early 2000s onwards, several news reports appeared in the UK of the Harry Potter book and movie series driving demand for pet owls, and even
+              reported that after the end of the movie series these same pet owls were not being abandoned by their owners. This led J. K. Rowling to issue
+              several statements urging Harry Potter fans to refrain from purchasing pet owls. Despite the media flurry, research into the popularity of Harry
+              Potter and sales of owls in the UK failed to find any evidence that the Harry Potter franchise had influenced the buying of owls in the country or
+              the number of owls reaching animal shelters and sanctuaries.
+            </p>
+            <p>
+              By 2003, a sign marking Platform 9 3/4 was put up at London King's Cross railway station, with a trolley fixed to the wall added by the year 2005.
+              The location of the trolley moved after renovations, and a Harry Potter-themed shop opened nearby in 2012. Prince Charles visited the location in
+              2013.
+            </p>
+            <p>
+              September 1, the day Harry Potter generally started school at Hogwarts, became known to fans as "Back to Hogwarts Day", gaining more prominent
+              starting in 2015 when J. K. Rowling suggested on social media that it was the year Harry Potter would be starting to send off his own children to
+              Hogwarts, though in 2016 she later acknowledged that she was wrong by a year regarding the Kign's Cross events in the epilogue. On the date in 2024,
+              fans showed up at King's Cross Station even though no event was held and fans were discouraged from attending, reportedly due to crowding issues the
+              year before, and booed when no Hogwarts Express announcement was made at 11 a.m. as in previous years. Organizers had encouraged fans to
+              participate in virtual events, while in-person events were held at other locations like Grand Central Terminal in New York City and Hamburg,
+              Germany.
+            </p>
+            <p>
+              British book publisher Bloomsbury announced the launch of "Harry Potter Book Night" and associated promotional events in 2014, first held in
+              February 2015. In 2023, the event was rebranded to "Harry Potter Book Day" and moved to October.
+            </p>
+            <p>
+              After Rowling began making trans-exclusionary remarks on social media from 2019 onwards, many former fans rejected the series.
+            </p>
           </div>
         </div>
         <div>
