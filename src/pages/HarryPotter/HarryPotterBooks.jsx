@@ -630,8 +630,49 @@ const HarryPotterBooks = () =>
           <Heading2 id={6} title={"Legacy"} />
           <div>
             <h3 className="article-heading-3" id="6.1">Influence on literature</h3>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_sculpture_in_Leicester_Square_%2850725720988%29.jpg"
+              alt="Harry Potter statue" />
+              <p>Sculpture of Harry Potter in Leicester Square, London</p>
+            </div>
+            <p>
+              Harry Potter transformed children's literature. In the 1970s, children's books were generally realistic as opposed to fantastic, while adult fantasy
+              became popular because of the influence of The Lord of the Rings. The next decade saw an increasing interest in grim, realist themes, with an outflow
+              of fantasy readers and writers to adult works.
+            </p>
+            <p>
+              The commercial success of Harry Potter reversed this trend. The scale of its growth had no precedent in the children's market: within four years of
+              the series' inception, it occupied 28% of that field by revenue. Children's literature rose in cultural status, and fantasy became a dominant genre.
+              Other works in the genre, including Diana Wynne Jones's Cherestomanci series and Diane Duane's Young Wizards, were reprinted and rose in popularity;
+              soon authors re-established their careers. In the following decades, many Harry Potter imitators and subversive responses grew popular.
+            </p>
+            <p>
+              Rowling had been compared to Enid Blyton, who also wrote in simple language about groups of children and long held sway over the British children's
+              market. She has also been described as an heir to Roald Dahl. Some critics view Harry Potter's rise, along with the concurrent sucess of Philip
+              Pullman's His Dark Materials, as part of a broader shift in reading tastes: a rejection of literacy fiction in favor of plot and adventure. This is
+              reflected in the BBC's 2003 "Big Read" survey of the UK's favoite books, where Pullman and Rowling ranked at number 3 and 5, respectively, with very
+              few British literary classics in the top 10.
+            </p>
 
             <h3 className="article-heading-3" id="6.2">Cultural impact</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/King's_Cross_train_station_2013-09-10.jpg/500px-King's_Cross_train_station_2013-09-10.jpg"
+              alt="Platform 9 3/4" />
+              <p>Platform 9 3/4 sign on London King's Cross railway station.</p>
+            </div>
+            <p>
+              Harry Potter has been described as a cultural phenomenon. The word "Muggle" has spread beyond its origins in the books, entering the Oxford English
+              Dictionary in 2003. A real-life version of the sport <Link to="/harry_potter/quidditch">Quidditch</Link> was created in 2005 and featured as an
+              exhibition tournament in the 2012 London Olympics. Characters and elements from the series have inspired scientific names of several organisms, including
+              the dinosaur Dracorex hogwartsia, the spider Eriovixia gryffindori, the wasp Ampulex dementor, and the crab Harryplex severus.
+            </p>
+            <p>
+              Librarian Nancy Knapp pointed out the books' potential to improve literacy by motivating children to read much more than they otherwise would. The
+              seven-book series has a word count of 1,083,594 (US edition). Agreeing about the motivating effects, Diane Penrod also praised the books' blending
+              of simple entertainment with "the qualities of highbrow literary fiction", but expressed concern about the distracting effect of the prolific
+              merchandise that accompanies the book launches. However, the assumption that Harry Potter books have increased literacy among young people is
+              "largely a folk legend."
+            </p>
           </div>
         </div>
         <div>
