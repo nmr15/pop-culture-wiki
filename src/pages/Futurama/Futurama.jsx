@@ -555,6 +555,16 @@ const Futurama = () =>
           <Heading2 id={5} title={"Cancellations, syndications, and revivals"} />
           <div>
             <h3 className="article-heading-3" id="5.1">Fox cancellation</h3>
+            <p>
+              Groening and Cohen wanted Futurama to be shown at 8:30 pm on Sunday, following The Simpsons. The Fox network disagreed, opting instead to show
+              two episodes in the Sunday night lineup before moving the show to a regular time slot on Tuesday. Beginning with its second broadcast season,
+              Futurama was again placed in the 8:30 pm Sunday spot, but by mid-season the show was moved again, this time to 7:00 pm on Sunday, its third position
+              in less than a year. Even by the fourth season, Futurama was being aired erratically. Because the show was regularly pre-empted by sporting events, it
+              became difficult to predict when new episodes would air. The erratic schedule resulted in Fox not airing several episodes that had been produced for
+              seasons three and four, instead holding them for a fifth broadcast season. According to Groening, Fox executives were not supporters of the show.
+              Although Futurama was never officially cancelled, midway through the production of the fourth season, Fox decided to stop buying episodes of
+              Futurama, letting it go out of production before the fall 2003 lineup.
+            </p>
 
             <h3 className="article-heading-3" id="5.2">Adult Swim reruns</h3>
 

@@ -15,7 +15,35 @@ const NebulaMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
-
+          <Collapse 
+            id="1"
+            item="Biography"
+            sub={[
+              {id: "1.1", title: "Early life", sub2: [
+                {id: "1.1.1", title: "Trained for Thanos"}
+              ]},
+              {id: "1.2", title: "Quest for the Orb", sub2: [
+                {id: "1.2.1", title: "Family conquests"},
+                {id: "1.2.1", title: "Following Ronan's orders"},
+                {id: "1.2.3", title: "Meeting with Thanos"},
+                {id: "1.2.4", title: "Cleansing the Kyln"},
+                {id: "1.2.5", title: "Skirmish on Knowhere"},
+                {id: "1.2.6", title: "Betraying Thanos"},
+                {id: "1.2.7", title: "Battle of Xandar"},
+                {id: "1.2.8", title: "Dueling Gamora"}
+              ]},
+              {id: "1.3", title: "Finding acceptance"
+              },
+              {id: "1.4", title: "Keeping a Log"},
+              {id: "1.5", title: "Infinity War"},
+              {id: "1.6", title: "Aftermath"},
+              {id: "1.7", title: "Time Heist"},
+              {id: "1.8", title: "Member of the Guardians"},
+              {id: "1.9", title: "Operating from Knowhere"},
+              {id: "1.10", title: "Saving Rocket"},
+              {id: "1.11", title: "Protector of Knowhere"}
+            ]}
+          />
           <Collapse 
             id="2"
             item="Poers and abilities"
