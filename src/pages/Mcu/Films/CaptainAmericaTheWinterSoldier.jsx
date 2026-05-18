@@ -244,7 +244,11 @@ const CaptainAmericaTheWinterSoldier = () =>
             </div>
             <div className="flex">
               <p>
-                While in the
+                While in the elevator, Steve is joined by Rumlow and several STRIKE operatives, and soon realizes that they are there to capture him. He fights the
+                attackers and successfully knocks them all out, before jumping out of the eleveator to avoid arrest. After landing, he drives away on his motorcycle
+                and disables an attaking <Link to="/mcu/quinjet">Quinjet</Link>. Pierce then declares Steve a fugitive to be taken out by S.H.I.E.L.D. for
+                withholding information on Fury's death. Later, Pierce turns out to be working with the masked man and shoots his house cleaner Renata for
+                accidentally seeing the two men talking together in his home.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/Cap_owns.jpg" alt="Elevator fight" />
@@ -257,7 +261,11 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Natasha tells the history of the Winter Soldier.</p>
               </div>
               <p>
-                Steve arrives later
+                Steve arrives later at the hospital, where he notices that the flash drive is gone. Natasha appears from behind and reveals that she had taken it,
+                and he angrily asks her what she knows about all that has happened. She tells him that the masked man is an assassin known as the Winter Soldier, and
+                she had encountered him once before. She decides to follow Steve. They go to an Apple store to see if they can access any of the valuable information
+                on the drive. But they, as Fury did, find nothing. However, they are able to trace the location where the program on the drive was written. Rumlows
+                and his team arrive and try to find them but fail to do so.
               </p>
             </div>
             <div>
@@ -266,7 +274,16 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Arnim Zola displayed on a computer screen.</p>
               </div>
               <p>
-                They steal a
+                They steal a truck and drive to the location while talking about each other's past. When they arrive, Steve realizes that they are at Camp Lehigh
+                where he trained during World War II. They find a secret storage room full of old computers inside an early S.H.I.E.L.D. office. There they find a
+                more modern-looking USB slot and they put the drive in. The computers power up and someone starts to talk to them. That someone is
+                <Link to="/mcu/arnim_zola"> Arnim Zola</Link>, who tells them that he was recruited by S.H.I.E.L.D. after World War II and that he helped to rebuild
+                <Link to="/mcu/hydra"> Hydra</Link> inside S.H.I.E.L.D. However, in the 1970s, when he received the news that his body was dying (and with
+                S.H.I.E.L.D. still needing his help), he had his mind transferred into computers. He had been working on an algorithm that Hydra wanted. He told
+                Steve and Natasha that some of the deaths of S.H.I.E.L.D. leaders had been due to Hydra while showing them a picture of
+                <Link to="/mcu/howard_stark"> Howard Stark</Link> and implying that Stark's death might not have been an accident. He was also involved in the
+                Winter Soldier program. But before Steve and Natasha can get any more information out of Zola, a S.H.I.E.L.D. missile shows up and destroys the
+                bunker.
               </p>
             </div>
             <div>
@@ -275,7 +292,14 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Sam calmly threatening Jasper Sitwell.</p>
               </div>
               <p>
-                Steve and Natasha
+                Steve and Natasha are able to survive the explosion and seek refuge with Sam. Sam tells them that he can offer them assistance as he is part of a
+                military project involving advanced personal flight suits. Steve and Natasha then go back to Washington D.C., to capture
+                <Link to="/mcu/jasper_sitwell"> Jasper Sitwell</Link>, who is working for Hydra. Sitwell had just finished a meeting with Senator Sterns,
+                another Hydra conspirator, when Sam calls Sitwell and forces him up on the roof of a tall building. Sam, working with Natasha and Steve, gets
+                Sitwell to inform them that Zola's algorithm could calculate if a person would be a threat in the future based on their past actions. Sitwell also
+                tells the three that Hydra is going to use Project Insight as a weapon to elimiate what they view as threats agains themselves and the world,
+                mentioning <Link to="/mcu/tony_stark">Tony Stark</Link>, <Link to="/mcu/bruce_banner">Bruce Banner</Link>, and
+                <Link to="/mcu/stephen_strange"> Stephen Strange</Link>, though this would also mean that millions of innocent people would die.
               </p>
             </div>
             <div>
@@ -284,7 +308,11 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>The Winter Soldier fighting against Steve.</p>
               </div>
               <p>
-                The group heads
+                The group heads toward the Triskelion, but are attacked by the Winter Soldier and his men. A battle breaks out, and as Captain America and the
+                Winter Soldier fight, the Winter Soldier's mask is torn off, revealing himself as Steve's former comrade and best friend, Bucky Barnes, who Steve
+                thought was killed during World War II. When Steve calls out to him, he does not recognize the name, and escapes, and Steve, Natasha, and Sam are
+                taken into custody by Rumlow and his men. While they are in the prison van, one of their guards stuns the other, revealing herself to be Maria Hill.
+                She then uses a Mouse Hole to cut a hole in the van and escape with the group.
               </p>
             </div>
             <div className="flex">
