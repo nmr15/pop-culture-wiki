@@ -652,12 +652,40 @@ const IronMan3 = () =>
               writer Christos Gage and Will Corona Pilgrim with art by Steve Kurth and Drew Geraci. The story set between the second and third Iron Man films
               centers on War Machine, revealing why he was absent during the battle in New York of The Avengers.
             </p>
+            <p>
+              Like with the first two films, Audi again provided product placement with various vehicles. Oracle also returned from Iron Man 2, showcasing both the
+              Oracle Cloud and the Oracle Exadata server. Verizon FiOS and TCL's flat panel televisions and Alcatel One Touch smartphones are also featured in the
+              film, and the Chinese cut also shows a Zoomlion crane and Yili milk. Promotional deals were arranged with Subway and the Schwan Food Company, and
+              tie-ins included Lego sets, Hasbro action fitures, and a mobile phone game by Gameloft.
+            </p>
+            <p>
+              Disney also promoted the film at its domestic theme parts. Disneyland's Innovations attraction received a Stark Industries exhibit beginning April 13,
+              and Monorail Black of the Walt Disney World Monorail System was given an exterior Iron Man scheme. The exhibit, entitled Iron Man Tech Presented by
+              Stark Industries, features the same armor display that was shown at the 2012 San Diego Comic-Con, with the Marks I-VII and the new Mark XLII. In
+              addition, there is a simulator game, titled "Become Iron Man," that uses Kinect-like technology to allow the viewers to be encased in an animated Mark
+              XLII armor and take part in a series of "tests." in which you fire repulsor rays and fly through Tony Stark's workshop. The game is guided by
+              J.A.R.V.I.S., who is voiced again by Paul Bettany. The exhibit also has smaller displays that include helments and chest pieces from the earlier films
+              and the gauntlet and boot from an action sequence in Iron Man 3. Al-in-all, Disney spent $131 million marketing the film worldwide.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={6} title={"Release"} />
           <div>
-            
+            <h3 className="article-heading-3" id="#6.1">Theatrical</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Robert_Downey_Jr_avp_Iron_Man_3_Paris.jpg" alt="Robert Downey Jr. and Gwyneth Paltrow" />
+              <p>Robert Downey Jr. and Gwyneth Paltrow in Paris at the film's French premiere at the Grand Rex, April 2013.</p>
+            </div>
+            <p>
+              Iron Man 3 was distributed worldwide by Walt Disney Studios Motion Pictures with the exception of China, where it was released by DMG Entertainment, and
+              Germany and Austria, where it was released by Tele München Group. The Chinese version of the film offers specially prepared bonus footage made
+              exclusively for the Chinese audience. This version features a four-minute longer cut of the film, featuring product placement for various Chinese
+              products, as well as an extended scene of Dr. Wu preparing to operate on Stark with his unnamed assistant played by Fan Bingbing. The film was titled
+              onscreen as Iron Man Three.
+            </p>
+
+            <h3 className="article-heading-3" id="#6.2">Home media</h3>
           </div>
         </div>
         <div>
