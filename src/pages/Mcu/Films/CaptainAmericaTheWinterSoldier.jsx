@@ -360,6 +360,78 @@ const CaptainAmericaTheWinterSoldier = () =>
                 Rumlow and his
               </p>
             </div>
+            <div className="flex">
+              <p>
+                Fury, another person
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6b/Still6.jpg" alt="Nick Fury" />
+                <p>Fury back at the Triskelion.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_America_%26_Sam_Wilson.jpg" alt="Captain America and Falcon" />
+                <p>Captain America and Falcon attack the Helicarriers.</p>
+              </div>
+              <p>
+                Steve and Sam
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                At Pierce's office
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/75/Cap2_1080p_6661.jpg" alt="Pierce kills the World Security Council" />
+                <p>Pierce kills the World Security Council members.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/Cap2_1080p_6986.jpg" alt="Pierce dead" />
+                <p>Pierce is killed by Fury.</p>
+              </div>
+              <p>
+                During this time,
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Sam, still fighting
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Winter_Soldier_begins_to_remember.jpg" alt="The Winter Soldier beating Captain America" />
+                <p>The Winter Soldier beating Captain America nearly to death.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f7/FuryGlasses.png" alt="Fury burns his possessions" />
+                <p>Fury burns his possessions.</p>
+              </div>
+              <p>
+                Rumlow is buried
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Because all of
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/23/003cap_ons_inl_06_0.jpg" alt="Natasha and Steve" />
+                <p>Natasha gives Steve the files on the Winter Soldier.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/Von_Strucker.jpg" alt="Baron strucker looking at the Scepter" />
+                <p>Baron Strucker closely looking at the Scepter.</p>
+              </div>
+              <p>
+                Sometime later, Baron
+              </p>
+            </div>
           </div>
         </div>
         <div>
