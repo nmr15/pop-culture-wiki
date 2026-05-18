@@ -752,7 +752,19 @@ const Himym = () =>
             </p>
 
             <h3 className="article-heading-3" id="7.5">The Playbook</h3>
+            <p>
+              Introduced in <Link to="/himym/the_playbook">The Playbook</Link> (Season 5, Episode 8), Barney reveals a book containing elaborate pick-up schemes. The
+              book becomes a recurring element in the series, with Barney frequently using its strategies. It plays a major role in The Final Page (Season 8,
+              Episode 12), where Barney burns it as part of an elaborate final play to propose to Robin.
+            </p>
+
             <h3 className="article-heading-3" id="7.6">Marshall vs. Machines</h3>
+            <p>
+              First heard in <Link to="/himym/subway_wars">Subway Wars</Link> (Season 6, Episode 4), Marshall develops a fear of technology because he thought he
+              could not get Lily pregnant and it was his fault. The theme motif is teased in <Link to="/himym/bedtime_stories">Bedtime Stories</Link> (Season 9,
+              Episode 12) at the end of the episode, and a second rendition of the song is heard in <Link to="/himym/bass_player_wanted">Bass Player Wanted</Link>
+              (Season 9, Episode 13).
+            </p>
           </div>
         </div>
         <div>
@@ -762,10 +774,34 @@ const Himym = () =>
             <ul className="article-list">
               <li>
                 The Bro Code, cited by Barney many times throughout the series, is a set of rules for bros to follow, and has been published as a tie-in
-                novel, an audiobook, an iPhone application and an Android application.
+                novel, an audiobook, an iPhone application and an Android application and an Android application. Barney alleges it was written by Barnabus
+                Stinson, a contemporary of George Washington and Benjamin Franklin. Many of the rules listed in this book also appear in the show's closing vanity
+                cards in syndication.
+              </li>
+              <li>
+                Bro on the Go, a companion to The Bro Code, released in 2009.
+              </li>
+              <li>
+                Bro Code for Parents: What to Expect When You're Awesome, released in 2012.
+              </li>
+              <li>
+                The Playbook, based on the fifth season episode of te same name, by Barney Stinson and Matt Kuhn.
+              </li>
+              <li>
+                How I Met Your Mother and Philosophy, released in 2013.
               </li>
             </ul>
+
             <h3 className="article-heading-3" id="8.2">Podcasts</h3>
+            <ul className="article-list">
+              <li>
+                In addition to the television series, How I Met Your Mother has inspired various discussions and analyses through podcasts. Several fan-driven and
+                one official podcast called "How We Made Your Mother" delve into the show's themes, characters, and cultural impact. Some explore the intricate
+                storytelling and the long-running myster of the mother's identity, while others focus on the humor and life lessons embedded in the series. Notable
+                podcast episodes have featured interviews with cast members, writers, and creators, offering behind-the-scenes insights into how the show was made.
+              </li>
+            </ul>
+
             <h3 className="article-heading-3" id="8.3">Music Volume</h3>
             <h3 className="article-heading-3" id="8.4">Soundtracks</h3>
             <h3 className="article-heading-3" id="8.5">Pineapple incident explained</h3>
