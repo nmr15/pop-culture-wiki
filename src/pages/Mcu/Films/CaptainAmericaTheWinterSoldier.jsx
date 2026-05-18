@@ -171,10 +171,76 @@ const CaptainAmericaTheWinterSoldier = () =>
               </p>
             </div>
             <div className="flex">
+              <p>
+                Later, Steve visits
+              </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Old_Peggy_Full.png" alt="Steve visits Peggy" />
                 <p>Steve visits Peggy Carter.</p>
               </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ad/Nick_Fury_%26_Alexander_Pierce.jpg" alt="Fury with Alexander Pierce" />
+                <p>Fury speaks with Alexander Pierce.</p>
+              </div>
+              <p>
+                Meanwhile, Fury discovers
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Fury leaves the
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7e/Winter_Soldier_%28CATWS%29.jpg" alt="The Winter Soldier" />
+                <p>The Winter Soldier tracking down Nick Fury.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Agent13scrubs.jpg" alt="Sharon Carter holding a gun" />
+                <p>Sharon Carter reveals she is a S.H.I.E.L.D. agent.</p>
+              </div>
+              <p>
+                Steve arrives at
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                He then pursues
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/23/Winter_Soldier.png" alt="The Winter Soldier catches the shield" />
+                <p>The Winter Soldier encounters Steve.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Alexander_Pierce_and_Captain_America.jpg" alt="Pierce meets Steve" />
+                <p>Pierce personally greeting Steve.</p>
+              </div>
+              <p>
+                Fury is taken
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                While in the
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/Cap_owns.jpg" alt="Elevator fight" />
+                <p>Steve defeats the STRIKE operatives.</p>
+              </div>
+            </div>
+            <div>
+              <div className="img-left img-card">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/24/Natasha_looks_at_Steve.jpg" alt="Natasha and Steve" />
+                <p>Natasha tells the history of the Winter Soldier.</p>
+              </div>
+              <p>
+                Steve arrives later
+              </p>
             </div>
           </div>
         </div>
