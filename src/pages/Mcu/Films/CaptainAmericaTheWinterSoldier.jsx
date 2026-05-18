@@ -172,7 +172,9 @@ const CaptainAmericaTheWinterSoldier = () =>
             </div>
             <div className="flex">
               <p>
-                Later, Steve visits
+                Later, Steve visits the Captain America exhibit at the Smithsonian Institution, and also visits an elderly
+                <Link to="/mcu/peggy_carter"> Peggy Carter</Link> (who is suffering from a form of dementia) in a retirement home. He also meets Sam again after
+                watching him speak during the end of a session for veterans with PTSD.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Old_Peggy_Full.png" alt="Steve visits Peggy" />
@@ -185,12 +187,17 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Fury speaks with Alexander Pierce.</p>
               </div>
               <p>
-                Meanwhile, Fury discovers
+                Meanwhile, Fury discovers that the data on the flash drive is inaccessible. He informs <Link to="/mcu/alexander_pierce">Alexander Pierce</Link>, who
+                had just concluded a meeting with the World Security Council about the hijacking of the Lemurian Star. Fury asks Pierce to make a formal request to
+                the Council to delay Project Insight due to Fury's rising suspicions.
               </p>
             </div>
             <div className="flex">
               <p>
-                Fury leaves the
+                Fury leaves the Triskelion and is in-route to meet with <Link to="/mcu/maria_hill">Maria Hill</Link> when he is attacked by assassins impersonating
+                policemen. He gets away, suffering a broken forearm, but is then soon stopped by a masked man in the middle of the road who shoots a disc grenade
+                under Fury's SUV, fliping it. However, before the masked man gets to Fury, he manages to use a hi-tech device to cut through the vehicle and street
+                and escape into the sewers.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7e/Winter_Soldier_%28CATWS%29.jpg" alt="The Winter Soldier" />
@@ -203,12 +210,19 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Sharon Carter reveals she is a S.H.I.E.L.D. agent.</p>
               </div>
               <p>
-                Steve arrives at
+                Steve arrives at his apartment and, after talking to his <Link to="/mcu/sharon_carter">neighbor</Link>, he becomes suspicious when he hears that his
+                stereo is still on. He sneaks in through the window and finds the injured Fury sitting in a chair in the dark. He tells Steve that his wife kicked
+                him out, while communicating through written text on his phone that his story is a misdirection because they are being eavesdropped on. Fury tells
+                Steve that S.H.I.E.L.D. has been compromised, before being shot several times by the assassin from earlier, standing on the adjacent building. Fury
+                gives the USB drive to Steve and tells him not to trust anyone, before failling unconscious. Steve's neighbor smashes in the door, revealing
+                herself to be Agent 13, who had been tasked by Fury to keep an eye on Steve.
               </p>
             </div>
             <div className="flex">
               <p>
-                He then pursues
+                Steve then pursues the masked man, jumping through the window into the next-door office building. He throws his shielf at the masked man on the
+                rooftop, but is surprised when the man is able to catch the shield with his cybernetic arm, and throws it back before jumping off of the building
+                and disappearing.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/23/Winter_Soldier.png" alt="The Winter Soldier catches the shield" />
@@ -221,7 +235,11 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Pierce personally greeting Steve.</p>
               </div>
               <p>
-                Fury is taken
+                Fury is taken to a hospital in critical condition. His heart stops during surgery. After the doctors fail to revive him, his body is collected by
+                Hill. Rumlow tells Steve he is wanted at the Triskelion for an urgent meeting. Feeling suspicious, Steve quickly hides the drive in a vending
+                machine and leaves. At the Triskelion, he is questioned by Pierce, who says he is one of Fury's oldest friends and wants to know who killed him.
+                Steve does not trust Pierce and says nothing about the drive or the circumstances of Fury's death, merely reiterating that Fury said not to trust
+                anyone. He leaves Pierce to go to the hospital.
               </p>
             </div>
             <div className="flex">
@@ -240,6 +258,78 @@ const CaptainAmericaTheWinterSoldier = () =>
               </div>
               <p>
                 Steve arrives later
+              </p>
+            </div>
+            <div>
+              <div className="img-right img-card">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/67/Arnim_Zola.png" alt="Arnim Zola" />
+                <p>Arnim Zola displayed on a computer screen.</p>
+              </div>
+              <p>
+                They steal a
+              </p>
+            </div>
+            <div>
+              <div className="img-left img-card">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Samuel_Wilson_%282014%29.jpg" alt="Sam Wilson on the phone" />
+                <p>Sam calmly threatening Jasper Sitwell.</p>
+              </div>
+              <p>
+                Steve and Natasha
+              </p>
+            </div>
+            <div>
+              <div className="img-right img-card">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Winter_Soldier_%28Captain_America%27s_Shield%29.jpg" alt="The Winter Soldier fights Steve" />
+                <p>The Winter Soldier fighting against Steve.</p>
+              </div>
+              <p>
+                The group heads
+              </p>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Catwssteve.jpg" alt="Steve in secret base" />
+                <p>Steve talks to Fury in the secret base.</p>
+              </div>
+              <p>
+                Hill takes them
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Later, Steve recalls
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e8/Captain_America%27s_Golden_Age_Uniform.png" alt="Captain America outside the Triskelion" />
+                <p>Captain America arrives outside the Triskelion.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Cap-TWS2512.jpg" alt="The Winter Soldier's mind being wiped" />
+                <p>The Winter Soldier going through mind wiping.</p>
+              </div>
+              <p>
+                Bucky is being
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                The members of
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Steve-Rogers-Speech-CATWS.jpg" alt="Steve tells the S.H.I.E.L.D. agents the truth" />
+                <p>Steve tells the S.H.I.E.L.D. agents the truth.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Black_Widow%27s_Mask.png" alt="Natasha wearing disguise" />
+                <p>Natasha wearing the Photostatic Veil.</p>
+              </div>
+              <p>
+                Rumlow and his
               </p>
             </div>
           </div>
