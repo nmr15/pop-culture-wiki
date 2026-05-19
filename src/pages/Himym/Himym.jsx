@@ -921,7 +921,56 @@ const Himym = () =>
 
             <h3 className="article-heading-3" id="8.7">Spin-offs</h3>
             <h4 className="article-heading-4" id="8.7.1">How I Met Your Dad</h4>
+            <p>
+              On November 15, 2013, it was announced that CBS and the series' producer 20th Television would launch How I Met Your Dad, a woman-centric variation
+              executively-produced by Bays, Thomas, and Emily Spivey. The new series would possibly have featured a new bar and would not have tied into the original
+              series. The primary cast of the series was revealed on March 14, 2014, to be Greta Gerwig, Drew Tarver, Nicholas D'Agnosto, Krysta Rodriguez, and
+              Andrew Santino. Tiya Sircar was cast not long after on March 26, 2014, replacing Krysta Rodriguez's role in the series. On April 23, 2014, Meg Ryan
+              was announced to voice future Sally.
+            </p>
+            <p>
+              On May 14, 2014, CBS passed on picking up How I Met Your Dad since show creators Craig Thomas and Carter Bays did not want to reshoot the pilot.
+              Nina Tassler, the entertainment president of CBS, stated that "there were elements of the pilot that didn't work out." Talks of the series being
+              "shopped" to other networks emerged. Netflix, FOX, and NBC were named as possible candidates for picking up the show.
+            </p>
+            <p>
+              Ultimately, nothing came of those talks. It was reported that the options on the cast contracts had expired and they had been released from their
+              contracts and co-creator Carter Bays denied any rumors that the spin-off pilot will be reshot. On July 11, 2014, Bays confiremd that the spin-off
+              project was officiallydead. Six days later, Nina Tassler said that CBS would "love the opportunity to take another shot" at the pilot and that she
+              would continue to "hound" Carter Bays and Craig Thomas, even though they shot down the idea of a new version of the project, stating that they had
+              both moved on.
+            </p>
+            <p>
+              In 2016, two years after the project was announced "dead", a full script of the pilot episode was leaked online. In 2020, the full pilot episode was
+              also leaked by a Reddit user on the How I Met Your Mother subreddit, which included a modified ending compared to the leaked script from 2016.
+            </p>
+
             <h4 className="article-heading-4" id="8.7.2">How I Met Your Father</h4>
+            <p>
+              On December 14, 2016, it was reported that Isaac Aptaker and Elizabeth Berger were set to write a new version of the previous spin-off pilot,
+              re-titled How I Met Your Father, with Bays and Thomas serving as executive producers. On March 6, 2017, it was announced that following signing
+              new contracts with 20th Television that would see both Aptaker and Berger being promoted to executive producers and co-showrunners on This Is Us
+              alongside Dan Fogelman, their completed spec script for How I Met Your Father would be placed on the back burner in light of their new duties.
+            </p>
+            <p>
+              On August 8, 2017, Fox chairman Dana Walden told Deadline that the studio was set to try a third attempt at a spin-off with different writers due to
+              the unavailability of Aptkael and Berger. It was also stated that all ideas from the previous two attempts are not carried over and the new
+              attempt are created from scratch. On August 11, 2017, Deadline reported that Alison Bennett had been selected to write the spin-off. It was also
+              confirmed that this incarnation would be developed under the title used for the Aptaker and Berger project, and that Bays and Thomas are once
+              again attached as executive producers.
+            </p>
+            <p>
+              On April 21, 2021, it was announced that the spin-off series was ordered by Hulu, with Hilary Duff attached to play lead character Sophie. Aptaker
+              and Berger would helm the project as creators, writers, and executive producers. On June 16, 2021, Chris Lowell was announced to have joined the cast
+              in a starring role. On August 10, 2021 Francis Raisa, Tom Ainsley, Tien Tran, and Suraj Sharma joined the cast in starring roles. On August 30,
+              2021, Daniel Augustin joined the cast in a recurring role, replacing Brandon Michael Hall, who exited the project due to scheduling conflicts.
+            </p>
+            <p>
+              On January 18, 2022, How I Met Your Father began streaming on Hulu in the US, Disney+ internationally, and Star+ in Latin America.
+            </p>
+            <p>
+              In September 2023, the show as cancelled after 2 seasons.
+            </p>
           </div>
         </div>
         <div>
