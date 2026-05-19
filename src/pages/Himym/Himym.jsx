@@ -803,9 +803,122 @@ const Himym = () =>
             </ul>
 
             <h3 className="article-heading-3" id="8.3">Music Volume</h3>
+            <ul className="article-list">
+              <li>
+                The music of How I Met Your Mother played a crucial role in setting the tone for the series. From original songs performed by the characters to
+                carefully curated indie and pop tracks, the show's soundtrack helped define key moments.
+              </li>
+              <li>
+                The series featured memorable original songs such as Let's Go to the Mall by Robin Sparkles and Nothing Suits Me Like a Suit performed by Barney
+                Stinson. Additionally, licensed music selections, including Downtown Train by Everything But The Girl, Simple Song by The Shins and The Funeral
+                by Band of Horses, played during pivotal emotional moments. During the teaser scenes from the Season 5 finale involving Barney's wedding,
+                <Link to="/beatles/george_harrison"> George Harrison</Link>'s Ballad of Sir Frankie Crisp (Let it Roll) was used, and during the scene where
+                Barney teaches the Playbook to two wayward college kids in Season 9, The Bangles' "Eternal Flame" plays.
+              </li>
+              <li>
+                Two official soundtrack albums, How I Met Your Music and How I Met Your Music: Volume 2, were released, featuring some of the most iconic songs
+                from the show.
+              </li>
+              <li>
+                The show's creators, Carter Bays and Craig Thomas, were heavily involved in selecting music as stated in many interviews. This attention to detail
+                helped cement the show's status as a series with a strong musical identity.
+              </li>
+              <li>
+                A 12-second clip from the song "Hey, Beautiful" by The Solids is the theme song for the show, which was created by band members Bay and Thomas.
+              </li>
+            </ul>
+
             <h3 className="article-heading-3" id="8.4">Soundtracks</h3>
+            <ul className="article-list">
+              <li>
+                A soundtrack album entitled How I Met Your Music: Original Songs from the Hit Series was released digitally to iTunes on September 24, 2012,
+                featuring songs from the first seven seasons.
+              </li>
+              <li>
+                A second soundrack album entitled How I Met Your Music: Deluxe was released digitally to iTunes on September 23, 2014, featuring songs from the
+                final two seasons.
+              </li>
+            </ul>
+
             <h3 className="article-heading-3" id="8.5">Pineapple incident explained</h3>
+            <p>
+              After the end of the series, the officials released a short video, explaining the running mystery of the pineapple in "The Pineapple Incident", the
+              tenth episode of the first season. The extra footage revealed that a character featured in the 6th season, the Captain (Kyle MacLachlan), had put a
+              pineapple in front of his door as a tradition and Ted took the pineapple while he was drunk.
+            </p>
+
             <h3 className="article-heading-3" id="8.6">Websites</h3>
+            <p>
+              Websites were consistently mentioned throughout the How I Met Your Mother series. Many of the websites directly tie in to running gags on the show.
+              CBS turned nearly every website mentioned in the series into a real functioning website. Since the show's ending in 2014, a majority of the websites
+              remain active.
+            </p>
+            <ul className="article-list">
+              <li>
+                The first instance of a website tie-in on How I Met Your Mother was in Season 3, Eisode 14 "The Bracket" with one of Barney's one-night stands
+                creating both http://tedmosbyisajerk.com and http://tedmosbyisnotajerk.com.
+              </li>
+              <li>
+                In Season 3, Episode 19, "Everything Must Go", Lily is forced to sell her clothes on the internet because she is in serious credit card debt. She
+                jokes they should the website http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com.
+              </li>
+              <li>
+                Goliath National Bank (GNB) is first introduced in Season 4, Episode 2 "The Best Burger in New York" and is consistently mentioned throughout the
+                show's run. Barney, Marshall, and Ted have all worked for GNB, http://www.goliathbank.com/.
+              </li>
+              <li>
+                In Season 4, Episode 7 "Not a Father's Day", as a form of celebration, Barney creates a fake holiday called "Not a Father's Day" as well as a
+                subsequent website to promote it: "http://www.notafathersday.com".
+              </li>
+              <li>
+                In Season 4, Episode 14 "The Possimpible", Ted's alter-ego Doctor X was introduced. The episode explained Doctor X's origins and shared his
+                website http://mysteriousdrx.com.
+              </li>
+              <li>
+                In Season 4, Episode 14 "The Possimbiple", Robin is facing deportation due to unemployment, and so Barney attempts to help her by sharing his
+                video resume website: http://www.barneysvideoresume.com.
+              </li>
+              <li>
+                In Season 4, Episode 18 "Old King Clancy", the gang is attempting to guess facts about Robin's sexual history with the help of
+                http://canadiansexacts.org. This website is now inactive.
+              </li>
+              <li>
+                In Season 5, Episode 4 "The Sexless Innkeeper", Marshall creates http://www.itwasthebestnightever.com to celebrate "the best night ever."
+              </li>
+              <li>
+                In Season 5, Episode 8 "The Playbook", Barney creates http://extremitiesquarterly.com, http://balloonexplorersclub.com,
+                http://www.lorenzovonmatterhorn.com, and http://bigbusinessjournal.com to solidify his fake identity as Lorenzo Von Matterhorn as a part of a play.
+              </li>
+              <li>
+                In Season 5, Episode 23 "The Wedding Bride", Ted's ex-fiance Stella's new husband releases a successful movie about Ted and Stella's relationship.
+                The website http://www.weddingbridemovie.com was created to promote the fictional movie.
+              </li>
+              <li>
+                In Season 6, Episode 4 "Subway Wars", Ted uses http://grademyteacher.net to see what his college students are writing about him as a professor.
+              </li>
+              <li>
+                In Season 7, Episode 4 "Stinson Missile Crisis", Barney creates two websites: http://stinsonbreastreduction.com and
+                http://www.linsonbreastlawsuit.com as part of a play in The Playbook.
+              </li>
+              <li>
+                In Season 7, Episode 9 "Disaster Averted", Marshall creates the countdown website: http://www.theslapbetcountdown.com to warn Barney of his next
+                slap as a part of their Slap Bet, which was creted five season earlier.
+              </li>
+              <li>
+                In Season 7, Episode 13 "Tailgate", Barney and Ted start a bar named Puzzles and uses http://www.puzzlesthebar.com to promote the bar.
+              </li>
+              <li>
+                In Season 7, Episode 23 "The Magician's Code Part 1" Ted creates http://www.lilysinlabor.com to announce that Lily is in labor.
+              </li>
+              <li>
+                In Season 8, Episode 3 "Nannies", Marshall and Lily use http://heynannynanny.com to find a nanny.
+              </li>
+              <li>
+                In Season 8, Episode 9 "Lobster Crawl", Barney starts a new business called "Bro Bibs" and uses the website http://www.brobibs.com to sell his
+                product. Barney's company is challenged by the competing brand http://www.dudeaprons.com.
+              </li>
+            </ul>
+
             <h3 className="article-heading-3" id="8.7">Spin-offs</h3>
             <h4 className="article-heading-4" id="8.7.1">How I Met Your Dad</h4>
             <h4 className="article-heading-4" id="8.7.2">How I Met Your Father</h4>
