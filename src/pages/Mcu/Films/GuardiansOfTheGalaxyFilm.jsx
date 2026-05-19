@@ -148,7 +148,78 @@ const GuardiansOfTheGalaxyFilm = () =>
         <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/32/Kidnapping_of_Peter_Quill.png" alt="Peter Quill abducted" />
+                <p>Peter Quill is abducted by the Ravagers.</p>
+              </div>
+              <p>
+                In Missouri, 1988
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Twenty-six years later
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/99/Star-Lord_finds_the_Orb.jpg" alt="Peter and the Orb" />
+                <p>Peter steals the Orb.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a1/Gamora%2C_Ronan_%26_Nebula.jpg" alt="Gamora, Ronan, and Nebula" />
+                <p>Gamora, Ronan, and Nebula</p>
+              </div>
+              <p>
+                Although Quill escapes
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                On Xandar, Quill
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/Star-Lord_and_Gamora.jpg" alt="Quill and Gamora" />
+                <p>Quill tries to sell the Orb.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/94/13.jpg" alt="Quill, Gamora, Rocket, and Groot in the Kyln" />
+                <p>Quill, Gamora, Rocket, and Groot are arrested and sent to the Kyln.</p>
+              </div>
+              <p>
+                On the Kyln
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                Learning of Gamora's
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/TDW1235_comp_v019.1127.jpg" alt="Thanos on throne" />
+                <p>Ronan speaks to Thanos about Gamora's betrayal.</p>
+              </div>
+            </div>
+            <div className="flex">
+              <div className="img-card mr-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5a/Guardians_of_the_Galaxy_escape_from_prison.jpg" alt="The group escapes" />
+                <p>The group escapes from the Kyln.</p>
+              </div>
+              <p>
+                Quill and his
+              </p>
+            </div>
+            <div className="flex">
+              <p>
+                While Drax furiously
+              </p>
+              <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5e/Guardians_Of_The_Galaxy_NOM0330_comp_v073_grade.1110_R.jpg" alt="The Collector" />
+                <p>The group meet the Collector.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div>
