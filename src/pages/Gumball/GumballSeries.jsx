@@ -96,6 +96,42 @@ const GumballSeries = () =>
         <div className="div-top">
           
         </div>
+        <div>
+          <Heading2 id={1} title={"Premise"} />
+          <div>
+
+          </div>
+        </div>
+        <div>
+          <Heading2 id={2} title={"Episodes"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={4} title={"Reception"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={5} title={"Related media"} />
+          <div>
+            
+          </div>
+        </div>
+        <div>
+          <Heading2 id={6} title={"Future"} />
+          <div>
+            
+          </div>
+        </div>
       </main>
     </>
   )
