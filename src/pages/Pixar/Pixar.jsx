@@ -151,6 +151,29 @@ const Pixar = () =>
               Michael Rubin, the author of Droidmaker: George Lucas and the Digital Revolution, Smith and three other employees came up with the name during a
               restaurant visit in 1981, but when interviewing them he got four different versions about the origin of the name.
             </p>
+            <p>
+              In 1982, the Pixar team began working on special-effects film sequences with <Link>Industrial Light & Magic</Link>. After years of research, and key
+              milestones such as the Genesis Effect in Star Trek II: The Wrath of Khan and the Stained Glass Knight in Young Sherlock Holmes, the group, which
+              then numbered 40 individuals, was spun out as a cororation in February 1986 by Catmull and Smith. Among the 38 remaining employees were Malcolm
+              Blanchard, David DiFrancisco, Ralph Guggenheim, and Bill Reeves, who had been part of the team since the days of NYIT. Tom Duff, also an NYIT
+              member, would later join Pixar after is formation. With Lucas's 1983 divorce, which coincided with the sudden dropoff in revenue from Star Wars
+              licenses following the release of <Link to="/starwars/return_of_the_jedi">Return of the Jedi</Link>, they knew he would most likely sell the whole
+              Graphics Group. Worried that the employees would be lost to them if that happened, which would prevent the creation of the first computer-animated
+              movie, they concluded that the best way to keep the team together was to turn the group into an independent company. But Moore's Law also
+              suggested that sufficient computing power for the first film was still some years away, and they needed to focus on a proper product until then.
+              Eventually, they decided they should be a hardware company in the meantime, with their Pixar Image Computer as the core product, a system
+              primarily sold to governmential, scientific, and medical markets. They also used SGI computers.
+            </p>
+            <p>
+              In 1983, Nolan Bushnell founded the new computer-guided animation studio called Kadabrasope as a subsidiary of his Chuck E. Cheese's Pizza Time
+              Theatres company (PTT), which was founded in 1977. Only one major project was made out of the new studio, an animated Christmas special for NBC
+              starring Chuck E. Cheese and other PTT mascots; known as "Chuck E. Cheese: The Christmas That Almost Wasn't." The animation movement would be made
+              using tweening instead of traditional cel animation. After the video game crash of 1983, Bushnell started selling some subsidiaries of PTT to keep
+              the business afloat. Sente Technologies (another division, was founded to have games distributed in PTT stores) was sold to Bally Games and
+              Kadabrascope was sold to Lucasfilm. The Kadabrascope assets were combined with the Computer Division of Lucasfilm. Coincidentally, one of Steve Job's
+              first jobs was under Bushnell in 1973 as a technician at his other company Atari, which Bushnell sold to Warner Communications in 1976 to focus on
+              PTT. PTT would later go bankrupt in 1984 and be acquired by ShowBiz Pizza Place.
+            </p>
 
             <h3 className="article-heading-3" id="1.2">Independent company (1986-1999)</h3>
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
