@@ -119,6 +119,39 @@ const Pixar = () =>
           <Heading2 id={1} title={"History"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Early history</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pixar_Computer_-_computer_history_museum_2013-04-11_23-46.jpg/500px-Pixar_Computer_-_computer_history_museum_2013-04-11_23-46.jpg"
+              alt="Pixar computer" />
+              <p>A Pixar computer at the Computer History Museum in Mountain View with the 1986-95 logo on it.</p>
+            </div>
+            <p>
+              Pixar got its start in 1974, when New York Institute of Technology's founder, Alexander Schure, who was also the owner of a traditional animation
+              studio, established the Computer Graphics Lab (CGL) and recruited computer scientists who shared his ambitions about creating the world's first
+              computer-animated film. Edwin Catmull and Malcolm Blanchard were the first to be hired and were soon joined by Alvy Ray Smith and David DiFrancisco
+              some months later, who were the four original members of the Computer Graphics Lab, located in a converted two-story garage acquired from the former
+              Vanderbilt-Whitney estate. Schure invested significant funds into the computer graphics lab, approximately $15 million, providing the resources the
+              group needed but contributing to NYIT's financial difficulties. Eventually, the group realized they needed to work in a real film studio to reach
+              thei goal. Francis Ford Coppola then invited Smith to his house for a three-day media conference, where Coppola and George Lucas shared their visions
+              for the future of digital moviemaking.
+            </p>
+            <p>
+              When Lucas approached the group and offered them jobs at his studio, six employees moved to Lucasfilm. During the following months, they gradually
+              resigned from CGL, found temporary jobs for about a year to avoid making Schure suspicious, and joined the Graphics Group at Lucasfilm. The Graphics
+              Group, which was one-third of the Computer Division of Lucasfilm, opened in 1979 with the hiring of Catmull from NYIT, where he was in charge of the
+              Computer Graphics Lab. He was then reunited with Smith, who also made the journey from NYIT to Lucasfilm, and was made the director of the Graphics
+              Group. At NYIT, the researchers pioneered many of the CG foundation techniques, in particular, the invention of the alpha channel by Catmull and Smith.
+              Over the next several years, the CGL would produce a few frames of an experimental film called The Works. After moving to Lucasfilm, the team worked on
+              creating the precursor to RenderMan, called REYES (for "renders everything you ever saw"), and developed several critical technologies for CG,
+              including particle effects and various animation tools.
+            </p>
+            <p>
+              John Lasseter was hired to the Lucasfilm team for a week in late 1983 with the title "interface designer"; he animated the short film The
+              Adventures of Andre & Wally B. In the next few years, a designer suggested naming a new digital compositing computer the "Picture Maxer". Smith
+              suggested that the laser-based device have a catchier name, and came up with "Pixer", which after a meeting was changed to "Pixar". According to
+              Michael Rubin, the author of Droidmaker: George Lucas and the Digital Revolution, Smith and three other employees came up with the name during a
+              restaurant visit in 1981, but when interviewing them he got four different versions about the origin of the name.
+            </p>
+
             <h3 className="article-heading-3" id="1.2">Independent company (1986-1999)</h3>
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
             <h3 className="article-heading-3" id="1.4">Walt Disney Studios subsidiary (2006-present)</h3>
