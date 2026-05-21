@@ -243,6 +243,19 @@ const Pixar = () =>
               The company continued to make the television commercials during the production of Toy Story, which came to an end on July 9, 1996, when Pixar
               announced they would shut down its television commercial unit, which counted 18 employees, to focus on longer projects and interactive entertainment.
             </p>
+            <p>
+              During the 1990sand 200s, Pixar gradually developed the "Pixar Braintrust", the studio's primary creative development process in which all of its
+              directors, writers, and lead storyboard artists regularly examine each other's projects and give very candid "notes", the industry term for
+              constructive criticism. The Braintrust operates under a philosophy of a "filmmaker-driven studio", in which creatives help each other move their films
+              forward through a process somewhat like peer review, as opposed to the traditional Hollywood approach of an "executive-driven studio" in which directors
+              are micromanaged through "mandatory notes" from development executives outranking the producers. According to Catmull, it evolved out of the working
+              relationship between Lasseter, <Link to="/andrew_stanton">Andrew Stanton</Link>, <Link to="pete_docter">Pete Docter</Link>,
+              <Link to="/lee_unkrich"> Lee Unkrich</Link>, and <Link to="/joe_ranft">Joe Ranft</Link> on Toy Story.
+            </p>
+            <p>
+              As a result of the success of Toy Story, Pixar built a new studio at the Emeryville campus which was designed by PWP Landscape Architecture and
+              opened in November 2000.
+            </p>
 
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
             <h3 className="article-heading-3" id="1.4">Walt Disney Studios subsidiary (2006-present)</h3>
