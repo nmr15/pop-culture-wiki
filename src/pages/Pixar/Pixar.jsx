@@ -176,6 +176,41 @@ const Pixar = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.2">Independent company (1986-1999)</h3>
+            <div className="img-right img-card">
+              <img
+                rc="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg/500px-Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg"
+                alt="Luxo Jr. statue" 
+              />
+              <p>A Luxo Jr. figure displayed in Hong Kong.</p>
+            </div>
+            <p>
+              In 1986, the newly independent Pixar was headed by President Edwin Catmull and Executive Vice President Alvy Ray Smith. Lucas's search for investors
+              led to an offer from Steve Jobs, which Lucas initially found too low. He eventually accepted after determining it impossible to find other
+              investors. At that point, Smith and Catmull had been declined by 35 venture capitalists and ten large corporations, including a deal with
+              General Motors which fell through three days before signing the contracts. Jobs, who had been edged out of Apple in 1985, was now founder and CEO of
+              the new computer company NeXT. On February 3, 1986, he paid $5 million of his own money to George Lucas for technology rights and invested $5 million
+              cash as capital into the company, joining the board of directors as chairman.
+            </p>
+            <p>
+              In 1985, while still at Lucasfilm, they had made a deal with the Japanese publisher Shogakukan to make a computer-animated movie called Monkey, based
+              on the Monkey King. The project continued sometime after they became a separate company in 1986, but it became clear that the technology was not
+              sufficiently advanced. The computers were not powerful enough and the budget would be too high. As a result, they focused on the computer hardware
+              business for years until a computer-animated feature became feasible according to Moore's law.
+            </p>
+            <p>
+              At the time, Walt Disney Studios made the decision to develop more efficient ways of producing animation. They reached out to Graphics Group at
+              Lucasfilm and to Digital Productions. Because of the Graphic Group's deeper understanding of animation, and Smith's experience with paint programs at
+              NYIT, it convinced Disney they were the right choice. In May 1986, Pixar signed a contract with Disney, who eventually bought and used the Pixar
+              Image Computer and custom software written by Pixar as part of its Computer Animation Production System (CAPS) project, to migrate the laborous ink
+              and paint part of the 2D animation process to a more automatic method. The company's first feature film to be released using this new animation method
+              was <Link to="/disney/the_rescuers_down_under">The Rescuers Down Under</Link> (1990).
+            </p>
+            <p>
+              In a bid to drive sales of the system and increase the company's capital, Jobs suggested releasing the product to the mainstream market. Pixar
+              employee John Lasseter, who had long been working on not-for-profit short demonstration animations, such as Luxo Jr. (1986) to show off the device's
+              capabilities, premiered his creation to great fanfare at SIGGRAPH, the computer graphics industry's largest convention.
+            </p>
+
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
             <h3 className="article-heading-3" id="1.4">Walt Disney Studios subsidiary (2006-present)</h3>
             <h4 className="article-heading-4" id="1.4.1">Expansion and John Lasseter's exit (2010-2018)</h4>
