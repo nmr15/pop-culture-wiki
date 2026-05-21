@@ -32,16 +32,60 @@ const NebulaMCU = () =>
                 {id: "1.2.7", title: "Battle of Xandar"},
                 {id: "1.2.8", title: "Dueling Gamora"}
               ]},
-              {id: "1.3", title: "Finding acceptance"
-              },
+              {id: "1.3", title: "Finding acceptance", sub2: [
+                {id: "1.3.1", title: "Captured by the Sovereign"},
+                {id: "1.3.2", title: "Escape from the Sovereign Fleet"},
+                {id: "1.3.3", title: "Meeting Ego"},
+                {id: "1.3.4", title: "Attack on Berhert"},
+                {id: "1.3.5", title: "Ravager Mutiny"},
+                {id: "1.3.6", title: "Fight with Gamora"},
+                {id: "1.3.7", title: "Battle on Ego's Planet"},
+                {id: "1.3.8", title: "Reconciling with Gamora"}
+              ]},
               {id: "1.4", title: "Keeping a Log"},
-              {id: "1.5", title: "Infinity War"},
-              {id: "1.6", title: "Aftermath"},
-              {id: "1.7", title: "Time Heist"},
-              {id: "1.8", title: "Member of the Guardians"},
-              {id: "1.9", title: "Operating from Knowhere"},
-              {id: "1.10", title: "Saving Rocket"},
-              {id: "1.11", title: "Protector of Knowhere"}
+              {id: "1.5", title: "Infinity War", sub2: [
+                {id: "1.5.1", title: "Futile vengeance"},
+                {id: "1.5.2", title: "Battle of Titan"},
+                {id: "1.5.3", title: "Thanos' victory"}
+              ]},
+              {id: "1.6", title: "Aftermath", sub2: [
+                {id: "1.6.1", title: "Trapped in Space"},
+                {id: "1.6.2", title: "Locating Thanos"},
+                {id: "1.6.3", title: "Ambush on Thanos"},
+                {id: "1.6.4", title: "Joining the Avengers"}
+              ]},
+              {id: "1.7", title: "Time Heist", sub2: [
+                {id: "1.7.1", title: "Discussing the Infinity Stones"},
+                {id: "1.7.2", title: "Arriving on Morag"},
+                {id: "1.7.3", title: "Theft of the Power Stone"},
+                {id: "1.7.4", title: "Evil Nebula strikes"},
+                {id: "1.7.5", title: "Freed by Gamora"},
+                {id: "1.7.6", title: "Battle of Earth"}
+                
+              ]},
+              {id: "1.8", title: "Member of the Guardians", sub2: [
+                {id: "1.8.1", title: "Team reassembled"},
+                {id: "1.8.2", title: "Adventures in the galaxy"},
+                {id: "1.8.3", title: "Time on Indigarr"},
+                {id: "1.8.4", title: "Answering distress calls"}
+              ]},
+              {id: "1.9", title: "Operating from Knowhere", sub2: [
+                {id: "1.9.1", title: "Buying Knowhere"},
+                {id: "1.9.2", title: "Celebrating Christmas"},
+                {id: "1.9.3", title: "New upgrades"},
+                {id: "1.9.4", title: "Taking charge"},
+                {id: "1.9.5", title: "Adam Warlock's attack"}
+              ]},
+              {id: "1.10", title: "Saving Rocket", sub2: [
+                {id: "1.10.1", title: "Reuniting with Gamora"},
+                {id: "1.10.2", title: "Infiltrating the Orgoscope"},
+                {id: "1.10.3", title: "Visiting Counter-Earth"},
+                {id: "1.10.4", title: "Captured by the High Evolutionary"},
+                {id: "1.10.5", title: "Fighting the High Evolutionary"}
+              ]},
+              {id: "1.11", title: "Protector of Knowhere", sub2: [
+                {id: "1.11.1", title: "Leaving the Guardians"}
+              ]}
             ]}
           />
           <Collapse 
