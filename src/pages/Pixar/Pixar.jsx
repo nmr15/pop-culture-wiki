@@ -178,7 +178,7 @@ const Pixar = () =>
             <h3 className="article-heading-3" id="1.2">Independent company (1986-1999)</h3>
             <div className="img-right img-card">
               <img
-                rc="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg/500px-Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg/500px-Luxo_Jr_in_Pixar_Fest_Hong_Kong_2021.jpg"
                 alt="Luxo Jr. statue" 
               />
               <p>A Luxo Jr. figure displayed in Hong Kong.</p>
@@ -209,6 +209,39 @@ const Pixar = () =>
               In a bid to drive sales of the system and increase the company's capital, Jobs suggested releasing the product to the mainstream market. Pixar
               employee John Lasseter, who had long been working on not-for-profit short demonstration animations, such as Luxo Jr. (1986) to show off the device's
               capabilities, premiered his creation to great fanfare at SIGGRAPH, the computer graphics industry's largest convention.
+            </p>
+            <p>
+              However, the Image Computer had inadequate sales which threatened to end the company as financial losses grew. Jobs increased investment in exchange
+              for an increased stake, reducing the proportion of management and employee ownership until eventually, his total investment of $50 million gave him
+              control of the entire company. In 1989, Lasseter's growing animation department which was originally composed of just four people (Lasseter, Bill
+              Reeves, Eben Ostby, and Sam Leffler), was turned into a division that produced compute-animated commercials for outside companies. In April 1990,
+              Pixar sold its hardware division, including all proprietary hardware technology and imaging software, to Vicom Systems, and transferred 18 of Pixar's
+              approximately 100 employees. In the same year, Pixar moved from San Rafael to Richmond, California. Pixar relased some of its software tools on the
+              open market for Macintosh and Windows systems. RenderMan is one of the leading 3D packages of the early 1990s, and Typestry is a special-purpose 3D
+              text renderer that competed with RayDream.
+            </p>
+            <p>
+              During this period of time, Pixar continued its successful relationship with Walt Disney Feature Animation, s stuido whose corporate parent would
+              ultimately become its most important partner. As 1991 began, however, the layoff of 30 employees in the company's computer hardware department
+              (including the company's president, Chuck Kolstad), reduced the total number of employees to just 42, approximately its original number. On March 6,
+              1991, Steve Jobs bought the company from its employees and became the full owner. He contemplated folding it into NeXT, but the NeXT's co-founder
+              refused. A few months later Pixar made a historic $26 million deal with Disney to produce three computer-animated feature films, the first of which was
+              Toy Story (1995), the product of the technological limitations that challenged CGI. By then the software programmers working on RenderMan and IceMan,
+              and Lasseter's animation department, which made television commercials (and four Luxo Jr. shorts for Sesame Street the same year), were all that
+              remained of Pixar.
+            </p>
+            <p>
+              Despite the income from these projects, the company still continued to lose money, and Steve Jobs, as chairman of the board and now owner, often
+              considered selling it. As late as 1994, Jobs contemplated selling Pixar to other companies such as Hallmark Cards, Microsoft co-founder Paul Allen, and
+              Oracle CEO and co-founder Larry Ellison. After learning from New York critics that Toy Story would probably be a hit, and confirming that Disney would
+              distribute it for the 1995 Christmas season, he decided to give Pixar another chance. Also, for the first time, he took an active leadership role in the
+              company and made himself CEO. Toy Story grossed more than $448 million worldwide and, when Pixar held its initial public offering on November 29, 1995,
+              trading as "PIXR" on NASDAQ, it exceeded Netscape's as the biggest IPO of the year. In its first half-hour of trading, Pixar stock shot from $26 to $45,
+              delaying trading because of unmatched buy orders. Shares climbd to $50 and closed the day at $42.
+            </p>
+            <p>
+              The company continued to make the television commercials during the production of Toy Story, which came to an end on July 9, 1996, when Pixar
+              announced they would shut down its television commercial unit, which counted 18 employees, to focus on longer projects and interactive entertainment.
             </p>
 
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
