@@ -258,7 +258,67 @@ const Pixar = () =>
             </p>
 
             <h3 className="article-heading-3" id="1.3">Collaboration with Disney (1999-2006)</h3>
+            <p>
+              Pixar and Disney had disagreements over the production of <Link to="/toy_story/toy_story_2">Toy Story 2</Link>. Originally intended as a
+              direct-to-video release (and thus not part of Pixar's three-picture deal), the film was eventually upgraded to a theatrical release during production.
+              Pixar demanded that the film then be counted toward the three-picture agreement, but Disney refused. Though profitable for both, Pixar later
+              complained that the arrangement was not equitable. Pixar was responsible for creation and production, while Disney handled marketing and distribution.
+              Profits and production costs were split equally, but Disney exclusively owned all story, characters, and sequel rights and also collected a 10%-15%
+              distribution fee.
+            </p>
+            <p>
+              The two companies attempted to reach a new agreement for ten months and failed on January 26, 2001, July 26, 2002, April 22, 2003, January 16, 2004,
+              July 22, 2004, and January 14, 2005. The proposed distribution deal meant Pixar would control production and own the resulting story, character,
+              and sequel rigts, while Disney would own the right of first refusal to distribute any sequels. Pixar also wanted to finance its own films and collect
+              100% profit, paying Disney the 10%-15% distribution fee. In addition, as part of any distribution agreement with Disney, Pixar demanded control over
+              films already in production under the old agreement, including <Link to="/the_incredibles/the_incredibles_film">The Incredibles</Link> and
+              <Link to="/cars/cars_film"> Cars</Link>. Disney considered these conditions unacceptable, but Pixar would not concede.
+            </p>
+            <p>
+              Disagreements between Steve Jobs and Disney chairman and CEO Michael Eisner caused the negotiations to cease in 2004, with Disney forming Circle
+              Seven Animation and Jobs declaring that Pixar was actively seeking partners other than Disney. Despite this announcement and several talks with
+              Warner Bros. Pictures, Sony Pictures, and 20th Century Fox, Pixard did not enter negotiations with other distributors, although a Warner Bros.
+              spokesperson told CNN, "We would love to be in business with Pixar. They are a great company." After a lengthy hiatus, negotiations between the two
+              companies resumed following the departure of Eisner from Disney in September 2005. In preparation for potential fallout between Pixar and Disney, Jobs
+              announced in late 2004 that Pixar would no longer release movies at the Disney-dictated November time frame, but during the more lucrative early
+              summer months. This would also allow Pixar to release DVDs for its major releases during the Christmas shopping season. An added benefit of delaying
+              Cars from November 4, 2005, to June 9, 2006, was to extend the time frame remaining on the Pixar-Disney contract, to see how things would play out
+              between the two companies.
+            </p>
+            <p>
+              Pending the Disney acquisition of Pixar, the two companies created a distribution deal for the intended 2007 release of
+              <Link to="/pixar/ratatouille"> Ratatouille</Link>, to ensure that if the acquisition failed, this one film would be released through Disney's
+              distribution channels. In contrast to the earlier Pixar deal, Ratatouille was meant to remain a Pixar property and Disney would have receieved a
+              distribution fee. The competition of Disney's Pixar acquisition, however, nullified this distribution arrangement.
+            </p>
+
             <h3 className="article-heading-3" id="1.4">Walt Disney Studios subsidiary (2006-present)</h3>
+            <p>
+              After extended negotiations, Disney ultimately agreed on January 24, 2006, to buy Pixar for approximately $7.4 billion in an all-stock deal.
+              Following Pixar shareholder approval, the acquisition was completed on May 5, 2006. The transaction catapulted Jobs, who owned 49.65% of total share
+              interest in Pixar, to Disney's largest individual shareholder with 7%, valued at $3.9 billion, and a new seat on the board of directors. Jobs' new
+              Disney holdings exceeded holdings belonging to Eisner, the previous top shareholder, who still held 1.7$; and Disney Director Emeritus Roy E. Disney,
+              who held almost 1% of the corporation's shares. Pixar shareholders received 2.3 shares of Disney common stock for each share of Pixar common stock
+              redeemed.
+            </p>
+            <p>
+              As part of the deal, John Lasseter, by then Executive Vice President, became Chief Creative Officer (reporting directly to president and CEO Bob Iger
+              and consulting with Disney Director Roy E. Disney) of both Pixar and Walt Disney Animation Studios (including its division Disneytoon Studios), as well
+              as the Principal Creative Adviser at Walt Disney Imagineering, which designs and builds the company's theme parks. Catmull retained his position as
+              President of Pixar, while also becoming President of Walt Disney Animation Studios, reporting to Iger and Dick Cook, chairman of the Walt Disney Studios.
+              Jobs' position as Pixar's chairman and chief executive officer was abolished, and instead, he took a place on the Disney board of directors.
+            </p>
+            <p>
+              After the deal closed in May 2006, Lasseter revealed that Iger had felt that Disney needed to buy Pixar while watching a parade at the opening of
+              Hong Kong Disneyland in September 2005. Iger noticed that of all the Disney characters in the parade, none were characters that Disney had created
+              within the last ten years since all the newer ones had been created by Pixar. Upon returning to Burbank, Iger commissioned a financial analysis that
+              confirmed that Disney had actually lost money on animation for the past decade, then presented that information to the board of directors at his
+              first board meeting after being promoted from COO to CEO, and the board, in turn, authorized him to explore the possibility of a deal with Pixar.
+              Lasseter and Catmull were wary when the topic of Disney buying Pixar first came up, but Jobs asked them to give Iger a chance (based on his own
+              experience negotiating with Iger in summer 2005 for the rights to ABC shows for the fifth-generation iPod Classic), and in turn, Iger convinced them
+              of the sincerity of his feeling that Disney needed to re-focus on animation.
+            </p>
+
             <h4 className="article-heading-4" id="1.4.1">Expansion and John Lasseter's exit (2010-2018)</h4>
             <h4 className="article-heading-4" id="1.4.2">Sequels and financial success (2018-2019)</h4>
             <h4 className="article-heading-4" id="1.4.3">COVID-19, Disney+ releases, and some financial struggles (2020-present)</h4>
