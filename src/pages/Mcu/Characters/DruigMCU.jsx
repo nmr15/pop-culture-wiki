@@ -55,7 +55,7 @@ const DruigMCU = () =>
             sub={[
               {id: "3.1", title: "Weapons"},
               {id: "3.2", title: "Other equipment"},
-              {id: "3.3", title: "Vehicles"},
+              {id: "3.3", title: "Vehicles"}
             ]}
           />
           <li className="sidebar-list-item"><a href="#4">Facilities</a></li>
