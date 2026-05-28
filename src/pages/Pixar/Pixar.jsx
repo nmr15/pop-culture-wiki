@@ -318,9 +318,62 @@ const Pixar = () =>
               experience negotiating with Iger in summer 2005 for the rights to ABC shows for the fifth-generation iPod Classic), and in turn, Iger convinced them
               of the sincerity of his feeling that Disney needed to re-focus on animation.
             </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/John_Lasseter-Up-66th_Mostra.jpg/500px-John_Lasseter-Up-66th_Mostra.jpg"
+                alt="John and Nancy Lasseter, Venice Film Festival"
+              />
+              <p>John Lasseter and his wife Nancy appear with characters from Up at the 2009 Venice Film Festival.</p>
+            </div>
+            <p>
+              Lasseter and Catmull's oversight of both the Disney Feature Animation and Pixar studios did not mean that the two studios were merging, however. In fact,
+              additional conditions were laid out as part of the deal to ensure that Pixar remained a separate entity, a concern that analysts had expressed about the
+              Disney deal. Some of those conditions were that Pixar HR policies would remain intact, including the lack of employment contracts. Also, the Pixar name was
+              guaranteed to continue, and the studio would remain in its current Emeryville, California location with the "Pixar" sign. Finally, branding of films made
+              post-merger would be "Disney•Pixar" (beginning with Cars).
+            </p>
+            <p>
+              Jim Morris, producer of <Link to="/pixar/wall_e">WALL-E</Link>, became general manager of Pixar. In this new position, Morris took charge of the day-to-day
+              running of the studio facilities and products.
+            </p>
+            <p>
+              After a few years, Lasseter and Catmull were able to successfully transform the basic principles of the Pixar Brantrust to Disney Animation, although
+              meetings of the Disney Story Trust are reportedly "more polite" than those of the Pixar Braintrust. Catmull later explained that after the merger, to maintain
+              the studios' seperate identities and cultures (notwithstanding the fact of common ownership and common senior management), he and Lasseter "drew a hard line"
+              that each studio was solely responsible for its own projects and would not be allowed to borrow personnel from or lend tasks out to the other. The rule
+              ensures that each studio maintains "local ownership" of projects and can be proud of its own work. Thus for example, when Pixar had issues with Ratatouille
+              and Disney Animation had issues with Bolt, "nobody bailed them out" and each studio was required "to solve the problem on its own" despite knowing that there
+              were personnel at the other studio who theoretically could have helped.
+            </p>
 
             <h4 className="article-heading-4" id="1.4.1">Expansion and John Lasseter's exit (2010-2018)</h4>
+            <p>
+              On April 20, 2010, Pixar opened Pixar Canada in the downtown area of Vancouver, British Columbia, Canada. The roughly 2,000 square meters studio produced
+              seven short films based on <Link to="/toystory">Toy Story</Link> and <Link to="/cars">Cars</Link> characters. In October 2013, the studio was closed down to
+              refocus Pixar's efforts at its main headquarters.
+            </p>
+            <p>
+              In November 2014, Morris was promoted to president of Pixar, while his counterpart at Disney Animation, general manager Andrew Millstein, was also promoted to
+              president of that studio. Both continued to report to Catmull, who retained the title of president of both Disney Animation and Pixar.
+            </p>
+            <p>
+              On November 21, 2017, Lasseter announced that he was taking a six-month leave of absence after acknowledging what he called "missteps" in his behavior with
+              employees in a memo to staff. According to The Hollywood Reporter and The Washington Post, Lasseter had a history of alleged sexual misconduct towards
+              employees. On June 8, 2018, it was announced that Lasseter would leave Disney Animation and Pixar at the end of the year, but would take on a consulting role
+              until then. Pete Docter was announced as Lasseter's replacement as chief creative officer of Pixar on June 19, 2018.
+            </p>
+
             <h4 className="article-heading-4" id="1.4.2">Sequels and financial success (2018-2019)</h4>
+            <p>
+              On June 15, 2018, <Link to="/the_incredibles/the_incredibles_2">The Incredibles 2</Link> was released, setting a record for widest opening weekend worldwide
+              and domestic for an animated film. The film would eventually gross $1.2 billion worldwide. On October 23, 2018, it was announcd that Catmull would be
+              retiring. He stayed in an adviser role until July 2019. On January 18, 2019, it was announced that Lee Unkrich would be leaving Pixar after 25 years although
+              he would return to the studio a few years later. On June 21, 2019, <Link to="/toy_story/toy_story_4">Toy Story 4</Link> was released, surpassing the
+              widest opening worldwide weekend record that Incredibles 2 set. The film would make over $1 billion and win the Academy Award for Best Animated Feature.
+              During the 2019 D23 Expo, Pixar announced that their next film, <Link to="/pixar/soul">Soul</Link>, would release in 2020. Ahead of the launch of
+              <Link> Disney+</Link>, Pixar debuted SparkShorts, experimental shorts done by Pixar staff.
+            </p>
+
             <h4 className="article-heading-4" id="1.4.3">COVID-19, Disney+ releases, and some financial struggles (2020-present)</h4>
           </div>
         </div>
