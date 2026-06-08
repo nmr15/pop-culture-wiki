@@ -567,8 +567,47 @@ const Futurama = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.2">Adult Swim reruns</h3>
+            <p>
+              In 2003, Cartoon Network acquired syndication rights to Futurama and Family Guy, another animated show Fox had cancelled, for the Adult Swim block.
+              Both shows proved to be successful immediately, leading to sister network TBS picking up the show later in 2003. The run on Adult Swim revived interest
+              in both series, and when Family Guy found success in direct-to-DVD production, Futurama's producers decided to try the same. In 2005, Comedy Central
+              entered negotiations to take over the syndication rights, during which they discussed the possibility of producing new episodes. In 2006, it was
+              announced that four straight-to-DVD films would be produced, and later split into 16 episodes comprising a fifth season of the show. Since no new
+              Futurama projects were in production at the time of release, the final movie release Into the Wild Green Yonder was designed to stand as the Futurama
+              series finale. However, Groening had expressed a desire to continue the franchise in some form, including a theatrical film. In an interview with CNN,
+              Groening said that "we have a great relationship with Comedy Central and we would love to do more episodes for them, but I don't know... We're having
+              discussions and there is some enthusiasm but I can't tell if it's just me." Futurama left Adult Swim's lineup on December 31, 2007, following a
+              week-long marathon of the entire series. Comedy Central began airing the show the next day, with season 5 making its broadcast debut on March 23, 2008.
+            </p>
 
             <h3 className="article-heading-3" id="5.3">Comedy Central revival</h3>
+            <p>
+              In June 2009, 20th Century Fox Television announced that Comedy Central had picked up the show for 26 new half-hour episodes that began airing on
+              June 24, 2010. The returning writing crew was smaller than the original crew. It was originally announced that main voice actors West, DiMaggio, and
+              Segal would return as well, but on July 17, 2009, it was announced that a casting notice was posted to replace the entire cast when 20th Century Fox
+              Television would not meet their salary demands. The situation was later resolved, and the entire original voice-cast returned for the new episodes.
+            </p>
+            <p>
+              Near the end of a message from Maurice LaMarche sent to members of the "Save the Voices of Futurama" group on Facebook, LaMarche announced that the
+              original cast would be returning for the new episodes. The Toronto Star confirmed, announcing on their website that the original cast of Futurama
+              signed contracts with Fox to return for 26 more eisodes. Similarly, an email sent to fans from Cohen and Groening reported that West, Sagal, DiMaggio,
+              LaMarche, MacNeille, Tom, LaMarr, and Herman would all be returning for the revival.
+            </p>
+            <p>
+              Cohen told Newsday in August 2009 that the reported 26-episode order means "It will be up to 26, I can't guarantee it will be 26. But I think there's
+              a pretty good chance it'll be exactly 26. Fox has been a little bit cagey about it, even internally. But nobody's too concerned. We're plunging ahead."
+              Two episodes were in the process of being voice-recorded at that time, with an additional "six scripts ... in the works, ranging in scale from 'it's a
+              crazy idea that someone's grandmother though of' to 'it's all on paoer'."
+            </p>
+            <p>
+              When Futurama aired Juen 24, 2010, on Comedy Central, it helped the network to its highest-rated night in 2010 and its highest-rated Thursday primetime
+              in the network's history. In March 2011, it was announced that Futurama had been renewd for a seventh season, consisting of at least 26 episodes,
+              scheduled to air in 2012 and 2013. The first episode of season 7 premiered June 20, 2012, on Comedy Central.
+            </p>
+            <p>
+              Due to the uncertain future of the series, there have been four designated series finales. "The Devil's Hands Are Idle Playthings", Into the Wild
+              Green Yonder, "Overclockwise", and "Meanwhile" have all been written to serve as a final episode for the show.
+            </p>
 
             <h3 className="article-heading-3" id="5.4">Comedy Central cancellation</h3>
 
