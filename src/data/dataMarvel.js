@@ -24,7 +24,7 @@ export const marvel = [
     "id": "marvel4",
     "title": "The Hulk (Bruce Banner)",
     "file": "TheHulk",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Hulk_%28circa_2019%29.png/220px-Hulk_%28circa_2019%29.png",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
     "route": "/marvelcomics/hulk"
   },
   {
