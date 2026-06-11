@@ -15,6 +15,48 @@ const TheHulk = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Concept and creation</a></li>
+          <Collapse 
+            id="2"
+            item="Publication history"
+            sub={[
+              {id: "2.1", title: "1960s"},
+              {id: "2.2", title: "1970s"},
+              {id: "2.3", title: "1980s"},
+              {id: "2.4", title: "1990s and after"}
+            ]}
+          />
+
+          <li className="sidebar-list-item"><a href="#4">Personality</a></li>
+          <li className="sidebar-list-item"><a href="#5">Incarnations</a></li>
+          <Collapse 
+            id="6"
+            item="Attributes"
+            sub={[
+              {id: "6.1", title: "Powers"},
+              {id: "6.2", title: "Abilities"},
+              {id: "6.3", title: "Weaknesses"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Paraphernalia"
+            sub={[
+              {id: "7.1", title: "Equipment"},
+              {id: "7.2", title: "Weapons"},
+              {id: "7.3", title: "Transportation"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#8">Supporting characters</a></li>
+          <Collapse 
+            id="9"
+            item="Cultural impact"
+            sub={[
+              {id: "9.1", title: "Analysis"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#10">In other media</a></li>
+          <li className="sidebar-list-item"><a href="#11">Reception</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
@@ -36,7 +78,7 @@ const TheHulk = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Hulk_%28circa_2019%29.png/220px-Hulk_%28circa_2019%29.png" alt="The Hulk" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png" alt="The Hulk" />
                 </span>
               </td>
             </tr>
