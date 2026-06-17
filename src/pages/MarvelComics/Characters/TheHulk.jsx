@@ -26,7 +26,76 @@ const TheHulk = () =>
               {id: "2.4", title: "1990s and after"}
             ]}
           />
-
+          <Collapse 
+            id="3"
+            item="Fictional history"
+            sub={[
+              {id: "3.1", title: "Early years"},
+              {id: "3.2", title: "Education"},
+              {id: "3.3", title: "Desert Base"},
+              {id: "3.4", title: "Becoming the Hulk"},
+              {id: "3.5", title: "The early adventures"},
+              {id: "3.6", title: "Ultron Forever"},
+              {id: "3.7", title: "The Sentry"},
+              {id: "3.8", title: "The Avengers"},
+              {id: "3.9", ti8tle: "Back at Desert Base"},
+              {id: "3.10", title: "Outed as the Hulk"},
+              {id: "3.11", title: "A menace once more"},
+              {id: "3.12", title: "Hunted by everyone"},
+              {id: "3.13", title: "Many unhappy returns"},
+              {id: "3.14", title: "No happiness for Bruce Banner"},
+              {id: "3.15", title: "Have Hulk, Will Travel"},
+              {id: "3.16", title: "Project Greenskin"},
+              {id: "3.17", title: "The Defenders"},
+              {id: "3.18", title: "Other adventures"},
+              {id: "3.19", title: "The birth of the She-Hulk"},
+              {id: "3.20", title: "One mind, two bodies"},
+              {id: "3.21", title: "Secret Wars"},
+              {id: "3.22", title: "Separated from the Hulk"},
+              {id: "3.23", title: "Ground zero"},
+              {id: "3.24", title: "Joe Fixit"},
+              {id: "3.25", title: "Multiple personas"},
+              {id: "3.26", title: "The Pantheon"},
+              {id: "3.27", title: "The Maestro"},
+              {id: "3.28", title: "Betty moves in"},
+              {id: "3.29", title: "The trial of Agamemnon"},
+              {id: "3.30", title: "The first death and resurrection of Betty Ross Banner"},
+              {id: "3.31", title: "Living in Florida"},
+              {id: "3.32", title: "Ghosts of the future"},
+              {id: "3.33", title: "Onslaught/Heroes reborn"},
+              {id: "3.34", title: "Back on Earth"},
+              {id: "3.35", title: "A Horseman of Apocalypse"},
+              {id: "3.36", title: "Mercy"},
+              {id: "3.37", title: "Heroes Reborn: The Return"},
+              {id: "3.38", title: "Self-destruction"},
+              {id: "3.39", title: "The second death of Betty Ross Banner"},
+              {id: "3.40", title: "A mental cure"},
+              {id: "3.41", title: "The Order"},
+              {id: "3.42", title: "Planet Hulk"},
+              {id: "3.43", title: "World War Hulk"},
+              {id: "3.44", title: "The Red Hulk incident"},
+              {id: "3.45", title: "Skaar the son of the Hulk"},
+              {id: "3.46", title: "The Defenders vs. the Offenders"},
+              {id: "3.47", title: "The Hulk no more"},
+              {id: "3.48", title: "Training Skaar"},
+              {id: "3.49", title: "Scorched Earth"},
+              {id: "3.50", title: "The Hulk family"},
+              {id: "3.51", title: "Heart of the Monster"},
+              {id: "3.52", title: "Fear Itself"},
+              {id: "3.53", title: "Asunder"},
+              {id: "3.54", title: "A weapon of S.H.I.E.L.D."},
+              {id: "3.55", title: "The Incursions"},
+              {id: "3.56", title: "Becoming Doc Green"},
+              {id: "3.57", title: "Time Runs Out"},
+              {id: "3.58", title: "The Immortal Hulk"},
+              {id: "3.59", title: "Shadow Base"},
+              {id: "3.60", title: "The ascension of the Leader"},
+              {id: "3.61", title: "On the run"},
+              {id: "3.62", title: "A Titanic problem"},
+              {id: "3.63", title: "Imperial"},
+              {id: "3.64", title: "Dealing with Eldest"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#4">Personality</a></li>
           <li className="sidebar-list-item"><a href="#5">Incarnations</a></li>
           <Collapse 
