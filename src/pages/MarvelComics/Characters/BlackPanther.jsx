@@ -143,18 +143,72 @@ const BlackPanther = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Black_Panther_OS_Vol_1_2.png/220px-Black_Panther_OS_Vol_1_2.png" alt="Black Panther" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Black_Panther_%28T%27Challa%29.png" alt="Black Panther" />
                 </span>
               </td>
             </tr>
+           <tr>
+              <th colspan="2">Publication information</th>
+            </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link to="/marvelcomics">Marvel Comics</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data">
+                <Link>Stan Lee</Link> <br />
+                <Link>Jack Kirby</Link>
+              </td>
+            </tr>
+            <tr>
+              <th colspan="2">In-story information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Full name</th>
+              <td className="infobox-data">T'Challa</td>
             </tr>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Black Panther</b> is a superhero appearing in American comic books published by <Link to="/marvelcomics">Marvel Comics</Link>. Created by
+            writer-editor <Link>Stan Lee</Link> and artist <Link>Jack Kirby</Link>, the character first appeared in <Link>Fantastic Four</Link> #52
+            (July 1966). Born <b>T'Challa</b>, son of the previous Black Panther <Link to="/marvelcomics/t'chaka">T'Chaka</Link>, he is the king and
+            protector of the fictional nation of <Link to="/marvelcomics/wakanda">Wakanda</Link>, a technologically advanced society sustained by
+            deposits of the fictional metal <Link to="/marvelcomics/vibranium">vibranium</Link>. Along with enhanced abilities achieved through the
+            Wakandan ritual of drinking the essence of the heart-shaped herb, T'Challa relies on his proficiency in science, expertise in his nation's
+            traditions, rigorous physical training, hand-to-hand combat skills, and access to wealth and advanced Wakandan technology to combat his
+            enemies. The character became a member of the <Link to="/marvelcomics/avengers">Avengers</Link> in 1968, and has continued that affiliation
+            off and on in subsequent decades.
+          </p>
+          <p>
+            The storylines of the 1970s written by Don McGregor were critically acclaimed and introduced T'Challa's nemesis
+            <Link to="/marvelcomics/erik_killmonger"> Erik Killmonger</Link>. These atories also engage with significant social issues of the time, such
+            as the resurgence of the Ku Klux Klan in the U.S. state of Georgia. A subsequent story addressed the issue of apartheid in South Africa. In
+            the late 1990s, Christopher Priest re-invented the character and emphasized the importance of Wakanda as an independent and technologically
+            advanced African nation. Priest also introduced the <Link to="/marvelcomics/dora_milaje">Dora Milaje</Link>, Black Panther's female
+            bodyguards. In subsequent series written by Reginald Hudlin, T'Challa married <Link to="/marvelcomics/storm">Storm</Link> of the
+            <Link to="/marvelcomics/x-men"> X-Men</Link>. Hudlin's stories emphasize Black culture pride and achieved greater commercial success. In
+            Hudlin's era, the role of Black Panther and leadership of Wakanda was also temprarily given to T'Challa's sister
+            <Link to="/marvelcomics/shuri"> Shuri</Link> while he was briefly in a coma. While T'Challa and Storm's marriage was annulled in a
+            subsequent storyline, their relationship has continued in other narratives. The Black Panther comics became particularly commercially
+            successful in 2016, partly as a result of the literary fame of their writer, the journalist and essayist Ta-Nehisi Coates. The first
+            issue of his series was the best-selling comic book of that month. Coates's series call into question the legitimacy of monarchy in
+            Wakanda and articulate a more democratic vision.
+          </p>
+          <p>
+            Black Panther is the first Black superhero in American mainstream comics. The character is also an early example of the Afrofuturist
+            aesthetic. He has made numerous appearances in various television shows, animated films, and video games.
+            <Link> Chadwick Boseman</Link> portrayed <Link to="/mcu/t'challa">T'Challa</Link> in <Link to="/mcu/phase_three">Phase Three</Link>
+            of the <Link to="/mcu">Marvel Cinematic Universe</Link>'s films: <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link>,
+            <Link to="/mcu/black_panther"> Black Panther</Link>, <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link>,
+            and <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>. He also voiced alternate versions of the character in the first season of the
+            animated series <Link to="/mcu/what_if">What If...?</Link>, which was released after his death. The Black Panther film was a notable
+            critical and popular success. <Link>Letitia Wright</Link>'s character <Link to="/mcu/shuri">Shuri</Link>, who had appeared in previous MCU
+            films, took on the Black Panther mantle in <Link to="/mcu/black_panther_wakanda_forever">Black Panther: Wakanda Forever</Link>, following
+            Boseman's death in 2020.
+          </p>
         </div>
       </main>
     </>
