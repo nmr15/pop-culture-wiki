@@ -123,11 +123,11 @@ const BlackWidow = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Black_Widow_1.png/220px-Black_Widow_1.png" alt="Black Widow" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/3/37/Natasha_Romanova_incarnations.jpg" alt="Black Widow" />
                 </span>
               </td>
             </tr>
-             <tr>
+            <tr>
               <th colspan="2">Publication information</th>
             </tr>
             <tr>
