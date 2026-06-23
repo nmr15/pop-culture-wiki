@@ -202,6 +202,57 @@ const TheHulk = () =>
             battling villains such as the <Link to="/marvelcomics/leader">Leader</Link>, the <Link to="/marvelcomics/abomination">Abomination</Link>, the
             <Link to="/marvelcomics/absorbing_man"> Absorbing Man</Link>, and many more.
           </p>
+          <p>
+            One of the most iconic characters in popular culture, the character has appeared on a variety of merchandise, such as clothing and
+            collectable items that was inspired by real-world structures (such as theme park attractions), and been referenced in several media. Banner
+            and the Hulk have been adapted into live-action, animated, and video game incarnations. The character was first played in live-action by
+            Bill Bixby and Lou Ferrigno in the 1978 television series The Incredible Hulk and its subsequent television films The Incredible Hulk
+            Returns, The Trial of the Incredible Hulk, and The Death of the Incredible Hulk. In the 2003 film <Link>Hulk</Link>, the character was
+            played by <Link>Eric Bana</Link>. In the <Link to="/mcu">Marvel Cinematic Universe</Link>,
+            <Link to="/mcu/bruce_banner"> the character</Link> was first portrayed by <Link>Edward Norton</Link> in the film
+            <Link to="/mcu/the_incredible_hulk_film"> The Incredible Hulk</Link> and then by <Link>Mark Ruffalo</Link> in later appearances in the
+            franhise.
+          </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Concept and creation"} />
+          <div>
+            <p>
+              The Hulk was created by Stan Lee and Jack Kirby. Lee cited influence from Frankenstein and Dr. Jekyll and Mr. Hyde in the Hulk's creation:
+            </p>
+            <div className="article-quote">
+              <p>
+                It was patently apparent that [the monstrous character the] <Link to="/marvelcomics/thing">Thing</Link> was the most popular
+                character in [Marvel's recently created superhero team the] <Link to="/marvelcomics/fantastic_four">Fantastic Four</Link>. ... For a
+                long time, I'd been aware of the fact that people were more likely to favor someone who was less than perfect. ... It's a safe bet that
+                you remember Quasimodo, but how easily can you name any of the heroic, handsome, more glamorous characters in The Hunchback of Notre
+                Dame? And then there's Frankenstein ... I've always had a soft spot in my heart for the Frankenstein monster. No one could ever
+                convince me that he was the bad guy. ... He never wanted to hurt anyone; he merely groped his torurous way through a second life
+                trying to defend himself, trying to come to terms with those who sought to destroy him. ... I decided I might as well borrow from Dr.
+                Jekyll and Mr. Hyde as well, our protagonist would constantly change from his normal identity to his superhuman alter ego and back
+                again.
+              </p>
+            </div>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hulk-logo.svg/960px-Hulk-logo.svg.png" alt="The Incredible Hulk logo" />
+              <p>Hulk comic logo</p>
+            </div>
+            <p>
+              Kirby also stated the Frankenstein inspiration stating, "I did a story called 'The Hulk', a small feature, and it was quite different
+              from the Hulk that we know. But I felt that the Hulk had possiblities, and I took this little character from the small feature and I
+              transformed it into the Hulk that we know today. Of course, I was experimenting with it. I thought the Hulk might be a good-looking
+              Frankenstein. I felt there's a Frankenstein in all of us; I've seen it demonstrated. And I felt that the Hulk had the element of truth in
+              it, and anything to me with the element of truth is valid and the reader relates to that. And if you dramatize it, the reader will enjoy
+              it." Kirby also commented upon his influence in drawing the character, and recalled his inspiration of witnessing the hysterical strength
+              of a mother lifting a car off her trapped child.
+            </p>
+            <p>
+              Lee had also compared Hulk to the golem of Jewish mythology. In The Science of Superheroes, Gresh and Weinberg see the Hulk as a
+              reaction to the Cold War and the threat of nuclear attack, an interpretation shared by Weinstein in Up, Up and Oy Vey. This interpretation
+              corresponds with other popularized fictional media created during the time period, which took advantage of the prevailing sense among
+              Americans that nuclear power could produce monsters and mutants.
+            </p>
+          </div>
         </div>
       </main>
     </>
