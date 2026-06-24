@@ -306,6 +306,44 @@ const TheHulk = () =>
               until 1999, when Marvel canceled the series and launched Hulk #1. Marvel filed for a trademark for "The Incredible Hulk" in 1967, and
               the United States Patent and Trademark Office issued the registration in 1970.
             </p>
+
+            <h3 className="article-heading-3" id="2.2">1970s</h3>
+            <p>
+              Len Wein wrote the series from 1974 through 1978, working first with Herb Trimpe, then, as of issue #194 (December 1975), with Sal Buscema,
+              who was the regular artist for ten years. Issues #180–181 (Oct.–Nov. 1974) introduced Wolverine as an antagonist, who would go on to
+              become one of Marvel Comics' most popular characters. In 1977, Marvel launched a second title, The Rampaging Hulk, a black-and-white comics
+              magazine. This was originally conceived as a flashback series, set between the end of his original, short-lived solo title and the beginning
+              of his feature in Tales to Astonish. After nine issues, the magazine was retitled The Hulk! and printed in color.
+            </p>
+            <p>
+              In 1977, two Hulk television films were aired to strong ratings, leading to an Incredible Hulk TV series that aired from 1978 to 1982. A
+              huge ratings success, the series introduced the popular Hulk catchphrase "Don't make me angry. You wouldn't like me when I'm angry", and
+              broadened the character's popularity from a niche comic book readership into the mainstream consciousness.
+            </p>
+
+            <h3 className="article-heading-3" id="2.3">1980s</h3>
+            <p>
+              Bill Mantlo became the series' writer for five years beginning with issue #245 (March 1980). Mantlo's "Crossroads of Eternity" stories
+              (#300–313 (Oct. 1984 – Nov. 1985)) explored the idea that Banner had suffered child abuse. Later Hulk writers Peter David and Greg Pak
+              have called these stories an influence on their approaches to the character. Mantlo left the series for Alpha Flight and that series' writer
+              John Byrne took over The Incredible Hulk. The final issue of Byrne's six issue run featured the wedding of Bruce Banner and Betty Ross.
+              David began a 12-year run with issue #331 (May 1987). He returned to the Roger Stern and Mantlo abuse storylines, expanding the damage
+              caused, and depicting Banner as suffering dissociative identity disorder (DID).
+            </p>
+
+            <h3 className="article-heading-3" id="2.4">1990s and after</h3>
+            <p>
+              In 1998, David killed off Banner's long-time love Betty Ross. Marvel executives used Ross' death as an opportunity to pursue the return of
+              the Savage Hulk. David disagreed, leading to his parting ways with Marvel. Also in 1998, Marvel relaunched The Rampaging Hulk as a standard
+              comic book rather than as a comics magazine. The Incredible Hulk was again cancelled with issue #474 of its second volume in March 1999
+              and was replaced with a new series, Hulk the following month, with returning writer Byrne and art by Ron Garney. New series writer Paul
+              Jenkins developed the Hulk's multiple dissociative identities, and his run was followed by Bruce Jones with his run featuring Banner being
+              pursued by a secret conspiracy and aided by the mysterious Mr. Blue. Jones appended his 43-issue Incredible Hulk run with the limited
+              series Hulk/Thing: Hard Knocks #1–4 (Nov. 2004 – Feb. 2005), which Marvel published after putting the ongoing series on hiatus. Peter David,
+              who had initially signed a contract for the six-issue Tempest Fugit limited series, returned as writer when it was decided to make that
+              story the first five parts of the revived (vol. 3). After a four-part tie-in to the "House of M" storyline and a one-issue epilogue, David
+              left the series once more, citing the need to do non-Hulk work for the sake of his career.
+            </p>
           </div>
         </div>
       </main>
