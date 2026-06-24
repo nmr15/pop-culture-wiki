@@ -272,6 +272,42 @@ const TheHulk = () =>
             </p>
           </div>
         </div>
+        <div>
+          <Heading2 id={2} title={"Publication history"} />
+          <div>
+            <h3 className="article-heading-3" id="2.1">1960s</h3>
+            <p>
+              The character first appeared in The Incredible Hulk #1 (cover dated May 1962), written by writer-editor Stan Lee, penciled and coplotted
+              by Jack Kirby, and inked by Paul Reinman. The series lasted six issues until March 1963. Lee had written each story, with Kirby
+              penciling the first five issues and Steve Ditko penciling and inking the sixth. The character immediately guest-starred in The
+              Fantasti Four #12 (March 1963). Months later, Hulk became a founding member of the superhero team the Avengers, appearing in the first two
+              issues of the team's eponymous series (Sept. and Nov. 1963). Jose Alaniz argues that the most striking feature of these issues is "the
+              Hulk's utter alienation." The character returned to Avengers as an antagonist in issue #3 and as an ally in #5 (Jan.-May 1964). He then
+              guest-starred in Fantastic Four #25-26 (April-May 1964), which revealed Banner's full name as Robert Bruce Banner, and The Amazing
+              Spider-Man #14 (July 1964).
+            </p>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/9/93/The_Incredible_Hulk_1_%28May_1962%29.jpg" alt="The Incredible Hulk #1" />
+              <p>The Incredible Hulk #1 (May 1962). Cover art by Jack Kirby and Paul Reinman.</p>
+            </div>
+            <p>
+              Around this time, co-creator Jack Kirby received a letter from a college dormitory stating the Hulk had been chosen as its official mascot.
+              Kirby and Lee realized their character had found an audience in college-age readers.
+            </p>
+            <p>
+              A year and a half after The Incredible Hulk was canceled, the Hulk became one of the two features in Tales to Astonish, beginning in
+              issue #60 (Oct. 1964).
+            </p>
+            <p>
+              This new Hulk feature was initially scripted by Lee, with pencils by Steve Ditko and inks by George Roussos. Other artists later in this
+              run included Jack Kirby, Gil Kane, Bill Everett, John Buscema, and marie Severin. The Tales to Astonish run inroduced the super-villains
+              the Leader, who could become the Hulk's nemesis, and the Abomination, another gamma-irradiated being. Marie Severin finished out the
+              Hulk's run in Tales to Astonish. Beginning with issue #102 (April 1968), the book was retitled The Incredible Hulk vol. 2, and ran
+              until 1999, when Marvel canceled the series and launched Hulk #1. Marvel filed for a trademark for "The Incredible Hulk" in 1967, and
+              the United States Patent and Trademark Office issued the registration in 1970.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
