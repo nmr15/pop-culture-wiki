@@ -417,6 +417,25 @@ const TheHulk = () =>
             </p>
           </div>
         </div>
+
+        <div>
+          <Heading2 id={9} title={"Cultural impact"} />
+          <div>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Museo_Madame_Tussauds_%2825%29.jpg/500px-Museo_Madame_Tussauds_%2825%29.jpg"
+                alt="Hulk-figure Madame Tussauds" 
+              />
+              <p>Hulk-figure at Madame Tussaudes in Las Vegas.</p>
+            </div>
+            <p>
+              The Hulk character and the concepts behind it have been raised to the level of iconic status by many within and outside the comic book
+              industry. In 2003, Official U.S. PlayStation Magazine claimed the character had "stood the test of time as a genuine icon of American pop
+              culture." In 2008, the Hulk was listed as the 19th greatest comic book character by Wizard magazine. Empire magazine named him as the
+              14th-greatest comic-book character and the fifth-greatest Marvel character. In 2011, the Hulk placed No. 9 on IGN's list of "Top 100 Comic
+              Book Heroes", and fourth on their list of "The Top 50 Avengers" in 2012.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
