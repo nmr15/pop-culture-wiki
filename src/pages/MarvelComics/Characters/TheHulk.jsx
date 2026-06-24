@@ -139,7 +139,39 @@ const TheHulk = () =>
               {id: "9.1", title: "Analysis"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#10">In other media</a></li>
+          <Collapse 
+            id="10"
+            item="In other media"
+            sub={[
+              {id: "10.1", title: "Animation", sub2: [
+                {id: "10.1.1", title: "1960s"},
+                {id: "10.1.2", title: "1980s"},
+                {id: "10.1.3", title: "1990s"},
+                {id: "10.1.4", title: "2000s"},
+                {id: "10.1.5", title: "2010s"},
+                {id: "10.1.6", title: "2020s"},
+                {id: "10.1.7", title: "Films"}
+              ]},
+              {id: "10.2", title: "Live-action", sub2: [
+                {id: "10.2.1", title: "1970s"},
+                {id: "10.2.2", title: "Bill Bixby/Lou Ferrigno TV films"},
+                {id: "10.2.3", title: "Hulk (2003 film)"},
+                {id: "10.2.4", title: "Marvel Cinematic Universe"}
+              ]},
+              {id: "10.3", title: "Comic strips"},
+              {id: "10.4", title: "Fine arts"},
+              {id: "10.5", title: "Novels"},
+              {id: "10.6", title: "Video games", sub2: [
+                {id: "10.6.1", title: "Standalone games"},
+                {id: "10.6.2", title: "Related games"},
+                {id: "10.6.3", title: "Canceled games"}
+              ]},
+              {id: "10.7", title: "Podcasts"},
+              {id: "10.8", title: "Live performances"},
+              {id: "10.9", title: "Miscellaneous"},
+              {id: "10.10", title: "Popular culture references"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#11">Reception</a></li>
         </ul>
       </aside>
