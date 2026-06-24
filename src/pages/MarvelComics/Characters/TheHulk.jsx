@@ -252,6 +252,24 @@ const TheHulk = () =>
               corresponds with other popularized fictional media created during the time period, which took advantage of the prevailing sense among
               Americans that nuclear power could produce monsters and mutants.
             </p>
+            <p>
+              In the debut, Lee chose gray for the Hulk because he wanted a color that did not suggest any particular ethnic group. Colorist Stan
+              Goldberg, however, had problems with the gray coloring, resulting in different shades of gray, and even green, in the issue. After
+              seeing the first published issue, Lee chose to change the skin color to green. Green was used in retelling of the origin with even
+              reprints of the original story being recolored for the next two decades, until The Incredible Hulk vol. 2, issue 302 reintroduced
+              the gray Hulk in flashbacks set close to the origin story. An exception is the early trade paperback, Origins of Marvel Comics, from
+              1974, which explains the difficulty in keeping the gray color consistent in a Stan Lee-written prologue, and reprints the origin story
+              keeping the gray coloration. Since December 1984, reprints of the first issue have displayed the original gray coloring, with the
+              fictional canon specifying that the Hulk's skin had initially been gray.
+            </p>
+            <p>
+              Lee gave the Hulk's alter ego the alliterative name "Bruce Banner" because he found he had less difficulty remembering alliterative names.
+              Despite this, in later stories he misremembered the character's name and referred to him as "<b>Bob Banner</b>", an error which readers
+              quickly picked up on. The discrepancy was resolved by giving the character the offical full name "<b>Robert Bruce Banner</b>."
+            </p>
+            <p>
+              The Hulk got his name from a comic book character named The Heap, who was a large green swamp monster.
+            </p>
           </div>
         </div>
       </main>
