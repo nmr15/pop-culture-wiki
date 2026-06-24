@@ -116,7 +116,22 @@ const TheHulk = () =>
               {id: "7.3", title: "Transportation"}
             ]}
           />
-          <li className="sidebar-list-item"><a href="#8">Supporting characters</a></li>
+          <Collapse 
+            id="8"
+            item="Supporting characters"
+            sub={[
+              {id: "8.1", title: "Family", sub2: [
+                {id: "6.1.1", title: "Parents"},
+                {id: "6.1.2", title: "Wife and children"},
+                {id: "6.1.3", title: "Extended family"}
+              ]},
+              {id: "8.2", title: "Allies"},
+              {id: "8.3", title: "Enemies"},
+              {id: "8.4", title: "Group enemies"},
+              {id: "8.5", title: "Neutral rivals"},
+              {id: "8.6", title: "Other enemies"}
+            ]}
+          />
           <Collapse 
             id="9"
             item="Cultural impact"
@@ -343,6 +358,30 @@ const TheHulk = () =>
               who had initially signed a contract for the six-issue Tempest Fugit limited series, returned as writer when it was decided to make that
               story the first five parts of the revived (vol. 3). After a four-part tie-in to the "House of M" storyline and a one-issue epilogue, David
               left the series once more, citing the need to do non-Hulk work for the sake of his career.
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <Heading2 id={8} title={"Supporting characters"} />
+          <div>
+            <p>
+              Over the long publication history of the Hulk's adventures, many recurring characters have featured prominently, including his best friend
+              and sidekick Rick Jones, love interest and wife Betty Ross and her father, the often adversarial General "Thunderbolt" Ross. Both Banner and
+              Hulk have families created in their respective personas. Banner is son to Brian, an abusive father who killed Banner's mother while she
+              tried to protect her son from his father's delusional attacks, and cousin to Jennifer Walters, the She-Hulk, who serves as his frequent
+              ally. Banner had a stillborn child with Betty, while the Hulk has two sons with his deceased second wife Caiera, Skaar and Hiro-Kala, and
+              his DNA was used to create a daughter named Lyra with Thundra.
+            </p>
+            <p>
+              The Fantastic Four #12 (March 1963), featured the Hulk's first battle with the Thing. Although many early Hulk stories involve Ross trying
+              to capture or destroy the Hulk, the main villain is often a radiation-based character, like the Gargoyle or the Leader, along with other
+              foes such as the Toad Men, or Asian warlord General Fang. Ross' daughter Betty loves Banner and criticizes her father for pursuing the
+              Hulk. General Ross' right-hand man, Major Glenn Talbot, also loves Betty and is torn between pursuing Hulk and trying to gain Betty's love
+              more honorably. Rick Jones serves as the Hulk's friend and sidekick in these early tales. The Hulk's archenemies are the Abomination and
+              the Leader. The Abomination is more monstrous-looking, twice as strong as the Hulk at normal levels (however, the Abomination's strength
+              levels do not increase when he gets angry) and wreaks havoc for fun and pleasure. The Leader is a gamma-irradiated super-genius who has
+              tried plan after plan to take over the world.
             </p>
           </div>
         </div>
