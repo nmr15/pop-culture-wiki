@@ -434,6 +434,53 @@ const TheHulk = () =>
               14th-greatest comic-book character and the fifth-greatest Marvel character. In 2011, the Hulk placed No. 9 on IGN's list of "Top 100 Comic
               Book Heroes", and fourth on their list of "The Top 50 Avengers" in 2012.
             </p>
+
+            <h3 className="article-heading-3" id="9.1">Analysis</h3>
+            <p>
+              The Hulk is often viewed as a reaction to war. As well as being a reaction to the Cold War, the character has been a cipher for the
+              frustrations the Vietnam War raised, and Ang Lee said that the Iraq War influenced his direction. In the Michael Nyman edited edition of
+              The Guardian, Stefanie Diekmann explored Marvel Comics' reaction to the September 11 attacks. Diekmann discussed The Hulk's appearance in the
+              9/11 tribute comic Heroes, claiming that his greater prominence, alongside Captain America, aided in "stressing the connection between anger
+              and justified violence without having to depict anything more than a well-known and well-respected protagonist." In Marvel: Five Fabulous
+              Decades of the World's Greatest Comics, Les Daniels addresses the Hulk as an embodiment of cultural fears of radiation and nuclear science.
+              He quotes Jack Kirby thus: "As long as we're experimenting with radioactivity, there's no telling what may happen, or how much our
+              advancements in science may cost us." Daniels continues, "The Hulk became Marvel's most disturbing embodiment of the perils inherent in the
+              atomic age."
+            </p>
+            <p>
+              In Comic Book Nation, Bradford Wright alludes to Hulk's counterculture status, referring to a 1965 Esquire magazine poll amongst college students
+              which "revealed that student radicals ranked Spider-Man and the Hulk alongside the likes of Bob Dylan and Che Guevara as their favorite revolutionary
+              icons." Wright goes on to cite examples of his anti-authority symbol status. Two of these are "The Ballad of the Hulk" by Jerry Jeff Walker, and the
+              Rolling Stone cover for September 30, 1971, a full color Herb Trimpe piece commissioned for the magazine. The Hulk has been caricatured in such
+              animated television series as The Simpsons, Robot Chicken, and Family Guy, and such comedy TV series as The Young Ones. The character is also used as
+              a cultural reference point for someone displaying anger or agitation. For example, in a 2008 Daily Mirror review of an EastEnders episode, a character
+              is described as going "into Incredible Hulk mode, smashing up his flat." In September 2019, British Prime Minister Boris Johnson likened himself to
+              The Hulk in an interview with the Mail On Sunday, as political pressure built on him to request an extension to the date of the UK's withdrawal from
+              the European Union.
+            </p>
+            <p>
+              The Hulk, especially his alter ego Bruce Banner, is also a common reference in hip-hop. The term was represented as an analogue to marijuana
+              in Dr. Dre's 2001, while more conventional references are made in Ludacris and Jermaine Dupri's popular single "Welcome to Atlanta".
+            </p>
+            <p>
+              The 2003 Ang Lee-directed Hulk film saw discussion of the character's appeal to Asian Americans. The Taiwanese-born Ang Lee commented on
+              the "subcurrent of repression" that underscored the character of The Hulk, and how that mirrored his own experience: "Growing up, my
+              artistic leanings were always repressed—there was always pressure to do something 'useful,' like being a doctor." Jeff Yang, writing for the
+              San Francisco Chronicle, extended this self-identification to Asian American culture, arguing that "the passive-aggressive streak runs deep
+              among Asian Americans—especially those who have entered creative careers, often against their parents' wishes."
+            </p>
+            <p>
+              There have been explorations about the real-world possibility of Hulk's gamma-radiation-based origin. In The Science of Superheroes, Lois
+              Grest and Robert Weinberg examined Hulk's powers, explaining the scientific flaws in them. Most notably, they point out that the level of
+              gamma radiation Banner is exposed to at the initial blast would induce radiation sickness and kill him, or if not, create significant
+              cancer risks for Banner, because hard radiation strips cells of their ability to function. They go on to offer up an alternate origin, in
+              which a Hulk might be created by biological experimentation with adrenal glands and GFP. Charles Q. Choi from LiveScience.com further
+              explains that, unlike the Hulk, gamma rays are not green; existing as they do beyond the visible spectrum, gamma rays have no color at all
+              that we can describe. He also explains that gamma rays are so powerful (the most powerful form of electromagnetic radiation and 10,000
+              times more powerful than visible light) that they can even convert energy into matter – a possible explanation for the increased mass that
+              Bruce Banner takes on during transformations. "Just as the Incredible Hulk 'is the strongest one there is,' as he says himself, so too are
+              gamma-ray bursts the most powerful explosions known."
+            </p>
           </div>
         </div>
       </main>
