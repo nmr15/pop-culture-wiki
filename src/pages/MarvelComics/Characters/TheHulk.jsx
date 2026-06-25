@@ -438,6 +438,37 @@ const TheHulk = () =>
               with his standard personality and leading to the unfolding of a potential large-scale event. It was later revealed that Banner's radical
               conduct was a result of the manifestation of a malefic Hulk personality.
             </p>
+            <p>
+              Banner and the Hulk are frequently portrayed as mutually hating each other, but at times Banner strategically acts in full synchrony and
+              consonance with his Hulk persona, thus giving the Hulk a purpose. This underlying dichotomy was confirmed by Banner himself. During the
+              Planet Hulk and World War Hulk story arcs, for example, both acted in full cooperation, and the Devil Hulk even admitted that he actually
+              cherished and cared for the Banner persona after all. Banner has also stated that the Hulk's reasoning and intelligence tend to fluctuate
+              depending upon a number of factors at the moment of transformation, resulting in the Hulk's standard persona varying from a raging monster
+              to a more calculating fighter.
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <Heading2 id={5} title={"Incarnations"} />
+          <div>
+            <div className="article-quote">
+              <p>
+                "<i>You... can't... break... a... man... who's... already... been... broken..</i>" <br />
+                -<b>Robert Bruce Banner</b>
+              </p>
+            </div>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marveldatabase/images/5/50/Hulk_Incarnations_from_Immortal_Hulk_Vol_1_18_001.jpg" alt="List of Hulk incarnations" />
+              <p>A simplified list of the Hulk's incarnations.</p>
+            </div>
+            <p>
+              The Hulk initially is characterized as a separate entity from Banner, a distillation of his human anger that gradually develops its own
+              personality and memories separate from Banner's. Banner suffers from dissociative identity disorder (DID), which stems from the physical 
+              abuse that he suffered as a child. Banner also has developed anger issues from said physical abuse. The Hulk has many incarnations, each
+              representing a different aspect of Banner's psyche; there are hundreds or possibly thousands of other personalities of the Hulk, but only a
+              few major versions have been seen to date.
+            </p>
           </div>
         </div>
 
