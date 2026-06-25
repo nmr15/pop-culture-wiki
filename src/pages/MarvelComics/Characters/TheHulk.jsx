@@ -395,6 +395,53 @@ const TheHulk = () =>
         </div>
 
         <div>
+          <Heading2 id={4} title={"Personality"} />
+          <div>
+            <div className="article-quote">
+              <p>
+                "
+                <i>
+                  When I was four, I saw my father kill my mother. And years later, I killed him. I didn't mean to. But I did it. I've got that kind of
+                  anger inside. That kind of capacity. But you... you have your own problems. And your Hulk's gonna have his own problems as a result.
+                  And you may not love everything you learn about yourself. But you're not a... you're not a monster. You're not me, Amadeus. You're not
+                  me.
+                </i>
+                "
+                <br />
+                -<b>Robert Bruce Banner</b>
+              </p>
+            </div>
+            <p>
+              Robert Bruce Banner suffered severe trauma as a child that was inflicted by his father and repressed it in his subconsciousness. This
+              physical abuse resulted in the young Banner developing both anger issues and dissociative identity disorder (DID), and the early emergence
+              of several alternate personalities. Indeed, each aspect of his complex mind, concerning at least three primary Hulk identities, represents
+              a peculiar manifestation of Banner's multifaceted Freudian psyche. This condition was compounded later in life by the traumatic explosion
+              of the Gamma Bomb that triggered his initial transformation into the Incredible Hulk, and further stimulated the emergence of other aspects
+              of his personality. Following his gamma accident, many of his alters now take Hulk forms, though some, like Joe Fixit, can remain in human
+              form when they switch.
+            </p>
+            <p>
+              It was revealed by Doc Samson that exposure to concentrated levels of gamma energy brings about the expression of the deepest parts of the
+              collective unconscious. In this process, the darkest, most deeply buried sense of self dictates the subject's mutation. Particularly in the
+              case of Banner, it stimulated the expression of a repressed fury that played an essential role in his transformation into the Hulk. Banner
+              became an obsessive-compulsive person. He finally sublimated his grief and rage over his physically abusive childhood, diverting the drives
+              that were spawned by his suffering into the relative safety of science.
+            </p>
+            <p>
+              Because of that, Banner is often trying to hide his emotional damage, resulting predominantly in social isolation. Banner became a highly withdrawn intellectual who was unable to cope with his emotions. In the course of his life, Banner has also been pursued by the destruction that the Hulk causes, which culminates in more complications in his life. However, Banner is a self-sacrificing and heroic person; for example, he was willing to sacrifice himself along with Earth's heroes to suppress the menace of Onslaught. Endowed with a super-genius intellect, he is also one of the most brilliant and resourceful minds on Earth. Banner has constantly undertaken a career as a super-hero while also trying to find a cure for his condition.
+            </p>
+            <p>
+              However, an obscure and a malevolent side of Banner's persona has also been explored; for example, when Banner was temporarily separated
+              from the Hulk, he was demonstrated to be extremely sadistic and insane. When Banner and the Hulk were reunited, Banner's standard
+              personality came into effect again, with no trace of this morally distorted side. More recently, Banner's psyche was fractured into
+              several domains following a particular incident involving the Hulk. As a result, Banner's behavior was drastically altered, contrasting
+              with his standard personality and leading to the unfolding of a potential large-scale event. It was later revealed that Banner's radical
+              conduct was a result of the manifestation of a malefic Hulk personality.
+            </p>
+          </div>
+        </div>
+
+        <div>
           <Heading2 id={8} title={"Supporting characters"} />
           <div>
             <p>
