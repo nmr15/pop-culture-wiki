@@ -483,6 +483,41 @@ const TheHulk = () =>
             </p>
           </div>
         </div>
+        <div>
+          <Heading2 id={10} title={"In other media"} />
+          <div>
+            <p>
+              The character has been played in live-action and animation by a variety of actors. The character was first played in live-action by Bill
+              Bixby and Lou Ferrigno in the 1978 television series The Incredible Hulk and its subsequent television films The Incredible Hulk Returns
+              (1988), The Trial of the Incredible Hulk (1989), and The Death of the Incredible Hulk (1990), and Eric Bana in the film Hulk (2003). In the
+              Marvel Cinematic Universe (MCU), the character was first portrayed by Edward Norton in the film The Incredible Hulk (2008) and by Mark 
+              Ruffalo in later appearances, including the films <Link to="/mcu/the_avengers_film">The Avengers</Link>,
+              <Link to="/mcu/iron_man_3">Iron Man 3</Link>, <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link>,
+              <Link to="/mcu/thor_ragnarok"> Thor: Ragnarok</Link>, <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link>,
+              <Link to="/mcu/captain_marvel_film"> Captain Marvel</Link>, <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>,
+              <Link to="/mcu/shangchi_and_the_legends_of_the_ten_rings"> Shang-Chi and the Legend of the Ten Rings</Link>, and
+              <Link to="/mcu/spider_man:_brand_new_day"> Spider-Man: Brand New Day</Link>, and the television series
+              <Link to="/mcu/shehulk_attorney_at_law"> She-Hulk: Attorney at Law</Link>, and <Link to="/mcu/what_if">What If... ?</Link>. Fred
+              Tatasciore has voice Hulk in various televison series and video games, including <Link>The Avengers: Earth's Mightiest Heroes</Link>
+              and <Link>Avengers Assemble</Link>.
+            </p>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={11} title={"Reception"} />
+          <div>
+            <p>
+              The Hulk was ranked #1 on a listing of Marvel Comics' monster characters in 2015.
+            </p>
+            <p>
+              In 2018, CBR.com ranked The Thing (Bruce Banner) 2nd in their "Age of Apocalyse: The 30 Strongest Characters in Marvel's Coolest Alternate
+              World" list.
+            </p>
+            <p>
+              In 2022, Screen Rant included Hulk in their "10 Most Powerful Hercules Villains in Marvel Comics" list.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
