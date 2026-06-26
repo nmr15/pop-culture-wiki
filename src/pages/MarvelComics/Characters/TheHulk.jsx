@@ -458,17 +458,37 @@ const TheHulk = () =>
                 -<b>Robert Bruce Banner</b>
               </p>
             </div>
-            <div className="img-right img-card">
-              <img src="https://static.wikia.nocookie.net/marveldatabase/images/5/50/Hulk_Incarnations_from_Immortal_Hulk_Vol_1_18_001.jpg" alt="List of Hulk incarnations" />
-              <p>A simplified list of the Hulk's incarnations.</p>
+            <div className="flex">
+              <p>
+                The Hulk initially is characterized as a separate entity from Banner, a distillation of his human anger that gradually develops its own
+                personality and memories separate from Banner's. Banner suffers from dissociative identity disorder (DID), which stems from the physical 
+                abuse that he suffered as a child. Banner also has developed anger issues from said physical abuse. The Hulk has many incarnations, each
+                representing a different aspect of Banner's psyche; there are hundreds or possibly thousands of other personalities of the Hulk, but only a
+                few major versions have been seen to date.
+              </p>
+               <div className="img-card ml-1">
+                <img src="https://static.wikia.nocookie.net/marveldatabase/images/5/50/Hulk_Incarnations_from_Immortal_Hulk_Vol_1_18_001.jpg" alt="List of Hulk incarnations" />
+                <p>A simplified list of the Hulk's incarnations.</p>
+              </div>
             </div>
-            <p>
-              The Hulk initially is characterized as a separate entity from Banner, a distillation of his human anger that gradually develops its own
-              personality and memories separate from Banner's. Banner suffers from dissociative identity disorder (DID), which stems from the physical 
-              abuse that he suffered as a child. Banner also has developed anger issues from said physical abuse. The Hulk has many incarnations, each
-              representing a different aspect of Banner's psyche; there are hundreds or possibly thousands of other personalities of the Hulk, but only a
-              few major versions have been seen to date.
-            </p>
+            <ul className="article-list">
+              <li>
+                <b>Robert Bruce Banner</b> - Robert Bruce Banner is the emotionally repressed core personality, possessed of a genius-level intellect.
+                Banner can transform into the different versions of the Hulk, whereas his alter egos seem to be able only to transform into Banner.
+              </li>
+              <div className="flex">
+                <div className="img-card mr-1">
+                  <img src="https://static.wikia.nocookie.net/marveldatabase/images/1/1e/Bruce_Banner_%28Earth-616%29_from_Secret_Empire_Vol_1_6_001.jpg/revision/latest?cb=20170721171007"
+                    alt="Unnamed Hulk"
+                  />
+                  <p>An "Unnamed" Hulk</p>
+                </div>
+                <li>
+                  <b>An Unnamed Hulk</b> - After being resurrected, a previously unseen Hulk persona emerged, full of mindless rage and bloodlust. He was
+                  defeated by the Avengers and was suppressed by the Devil Hulk, who imprisoned him in the depths of Banner's subconscious. However, due to the Devil Hulk having been recently imprisoned himself, this unnamed Hulk persona may now be free.
+                </li>
+              </div>
+            </ul>
           </div>
         </div>
 
