@@ -487,6 +487,38 @@ const TheHulk = () =>
                   <b>An Unnamed Hulk</b> - After being resurrected, a previously unseen Hulk persona emerged, full of mindless rage and bloodlust. He was
                   defeated by the Avengers and was suppressed by the Devil Hulk, who imprisoned him in the depths of Banner's subconscious. However, due to the Devil Hulk having been recently imprisoned himself, this unnamed Hulk persona may now be free.
                 </li>
+                <li>
+                  <b>The Devil Hulk/The Immortal Hulk</b> - This variation of the Hulk persona originated as a response to Banner's need for a protective
+                  father figure. Due to his physically abusive childhood, he was unable to imagine the idea of love without pain, so the Devil Hulk took
+                  the form of a demonic reptilian monster within Banner's mind. The trauma of Banner's death during the Second Superhuman Civil War and
+                  subsequent resurrection allowed the Devil Hulk to suppress the other Hulk personas and become the "dominant" Hulk; though the Savage
+                  Hulk persona could still resurface if he was enraged enough. He is extremely articulate, smart, and cunning. For the most part, he acts
+                  in response to people that cause harm to others, and dispenses judgment on them mercilessly. Unlike previous Hulks, he is content to
+                  wait inside Banner, possessing a measure of power over Banner that previous Hulks did not have. When Banner is in control, the Devil
+                  Hulk manifests as a gut feeling that guides him to his objectives. In addition to the Devil Hulk's transformation period being limited to
+                  nighttime, Banner cannot transform into him whenever he wants to, or even at the first sign of trouble. The Devil Hulk always manifests
+                  when Banner is fatally injured, but only once the Sun is down, though he eventually overcame this weakness with help from Banner. Like
+                  every Hulk incarnation, the Devil Hulk possesses enormous strength, but is proportionately stronger than ever. Examples of his strength
+                  include fracturing Thor's skull with only one punch following a severe concussion that left him out of the fight, sending a
+                  Celestial-enhanced She-Hulk flying for at least two miles away with only one punch, tearing apart the latest Hulkbuster armor that was
+                  devised by Iron Man, and overloading Black Panther's Vibranium-based Panther Habit, which was previously believed to be impossible. Thor
+                  even stated that the Hulk was stronger than ever. He also was previously able to defeat another group of Avengers which included
+                  incredibly powerful heroes such as Thor and Hercules. The Devil Hulk also has incredible regenerative power. He quickly healed a large
+                  hole blown through his torso, as well as put his body back together after it was cut into its individual pieces. In order for a part of
+                  his body to heal, though, it seemingly needed to be in close proximity to other parts, and despite being segmented, the Hulk was still
+                  able to move the separate parts of his body in a manner similar to Deadpool. The Devil Hulk also has a desire to completely destroy
+                  human civilization, arguing that it is just one misstep away from annihilation anyway. When Xemnu the Living Titan mentally attacked
+                  Banner, the Green Scar persona took advantage of the chaos that was created to chain up the Devil Hulk, as he found the Devil Hulk to be
+                  bossy like Banner's father, Brian. It was later revealed that the Green Scar was being controlled by the Leader at the time. Despite
+                  expressing regret for letting the Devil Hulk take him over, Banner still wanted to free the Devil Hulk. The Devil Hulk eventually broke
+                  free of his prison after being angered by the mistreatment that the Leader gave to Banner and the Savage Hulk, but was later devoured by
+                  the Leader. However, some time later in the Below-Place, while Banner was within the mouth of the transformed Leader, who had been
+                  possessed by the One Below All, Banner started talking to the Hulk and, as he was bonded with the seeming remains of the Devil Hulk, it
+                  is implied that the Devil Hulk is not completely gone. Banner learned that the Devil Hulk "left some room" in Joe Fixit because he had a
+                  hunch about Joe, which led to Joe being able to absorb and incorporate cosmic radiation into his body to become a new version of the
+                  Red Hulk and smash through the Red Door that was previously barring them from returning to the living world. After Banner reunited with
+                  his other alters, he mentioned one other persona that was still active beyond Joe or the Big Guy, potentially referring to the Devil Hulk.
+                </li>
               </div>
             </ul>
           </div>
