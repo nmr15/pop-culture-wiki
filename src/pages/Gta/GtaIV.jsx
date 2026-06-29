@@ -591,6 +591,25 @@ const GtaIV = () =>
           <h2 className="article-heading-2" id="7">Controversies</h2>
           <div>
             <h3 className="article-heading-3" id="7.1">Pre-release</h3>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/JackThompsonAttorney_crop.jpg/500px-JackThompsonAttorney_crop.jpg"
+                alt="Jack Thompson"
+              />
+              <p>
+                Former attorney Jack Thompson, known for campaigning against titles from Rockstar Games, heavily criticized Grand Theft Auto IV prior to
+                its release.
+              </p>
+            </div>
+            <p>
+              In 2007, then-Florida lawyer Jack Thompson, known for his campaigns against the series, stated he would take measures to prevent the sale of
+              Grand Theft Auto IV to minors. On March 14, Take-Two filed a lawsuit against Thompson to preemptively restrict his attempts to ban the game
+              from sale. Thompson responded by filing a countersuit accusing Take-Two of violating federal RICO statutes, committing perjury and obstruction
+              of justice, and conspiring to deprive him of his civil rights. On April 20, both parties reached a settlement agreeing to drop their lawsuits:
+              Thompson was barred from suing to ban the sale or distribution of Take-Two's games but able to act as counsel in lawsuits by other parties,
+              while Take-Two agreed to drop the contempt of court lawsuit against Thompson regarding alleged improper conduct during the court hearings for
+              Rockstar's game Bully.
+            </p>
+
             <h3 className="article-heading-3" id="7.2">Post-release</h3>
           </div>
         </div>
