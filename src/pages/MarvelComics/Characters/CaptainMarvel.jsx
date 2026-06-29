@@ -29,7 +29,41 @@ const CaptainMarvel = () =>
               {id: "2.7", title: "2020s"}
             ]}
           />
-
+          <Collapse 
+            id="3"
+            item="Fictional history"
+            sub={[
+              {id: "3.1", title: "Brave and mighty"},
+              {id: "3.2", title: "Air Force"},
+              {id: "3.3", title: "Cape Canaveral"},
+              {id: "3.4", title: "Ms. Marvel, the Female Fury"},
+              {id: "3.5", title: "This woman, this warrior"},
+              {id: "3.6", title: "All-New Ms. Marvel"},
+              {id: "3.7", title: "Rogue"},
+              {id: "3.8", title: "Binary"},
+              {id: "3.9", title: "Starjammer"},
+              {id: "3.10", title: "Carol Danvers redux"},
+              {id: "3.11", title: "Kree/Shi'ar War"},
+              {id: "3.12", title: "Warbird"},
+              {id: "3.13", title: "Second chances"},
+              {id: "3.14", title: "Disassembled"},
+              {id: "3.15", title: "Earth's mightiest heroine"},
+              {id: "3.16", title: "The Initiative"},
+              {id: "3.17", title: "Skrull invasion"},
+              {id: "3.18", title: "Outlaw"},
+              {id: "3.19", title: "The Legacy of Captain Marvel"},
+              {id: "3.20", title: "The enemy within"},
+              {id: "3.21", title: "Higher, futher, faster"},
+              {id: "3.22", title: "Alpha Flight Space Program"},
+              {id: "3.23", title: "Civil War II"},
+              {id: "3.24", title: "Alien nation"},
+              {id: "3.25", title: "Infinity wars"},
+              {id: "3.26", title: "Falling star"},
+              {id: "3.27", title: "Accuser"},
+              {id: "3.28", title: "Trials"},
+              {id: "3.29", title: "Marvelous"}
+            ]}
+          />
           <Collapse 
             id="4"
             item="Attributes"
@@ -48,7 +82,30 @@ const CaptainMarvel = () =>
               {id: "5.3", title: "Transportation"}
             ]}
           />
-          
+          <Collapse 
+            id="6"
+            item="Cultural impact and legacy"
+            sub={[
+              {id: "6.1", title: "Critical response"},
+              {id: "6.2", title: "Fandom"},
+              {id: "6.3", title: "Impact"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Other versions</a></li>
+          <Collapse 
+            id="8"
+            item="In other media"
+            sub={[
+              {id: "8.1", title: "Television"},
+              {id: "8.2", title: "Film"},
+              {id: "8.3", title: "Marvel Cinematic Universe"},
+              {id: "8.4", title: "Video games"},
+              {id: "8.5", title: "Motion comics"},
+              {id: "8.6", title: "Merchandise"},
+              {id: "8.7", title: "Theme parks"},
+              {id: "8.8", title: "Miscellaneous"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">

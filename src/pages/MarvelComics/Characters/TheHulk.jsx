@@ -395,6 +395,26 @@ const TheHulk = () =>
         </div>
 
         <div>
+           <Heading2 id={3} title={"Fictional history"} />
+           <div>
+            <h3 className="article-heading-3" id="3.1">Early years</h3>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Bruce_Banner_%28Earth-616%29%2C_Brian_Banner_%28Earth-616%29%2C_and_Rebecca_Banner_%28Earth-616%29_from_Incredible_Hulk_Vol_3_603_001.jpg"
+                alt="Banner's mother killed"
+              />
+              <p>Banner's mother killed by his father in a blind fury.</p>
+            </div>
+            <p>
+              Robert Bruce Banner was the only son of Dr. Brian Banner, an atomic physicist, and his wife, Rebecca. Although Rebecca deeply loved Bruce,
+              who returned her affection, Brian deeply hated Bruce, and was driven by an insane jealousy of Bruce for being an object of Rebecca's love.
+              Furthermore, Brian believed that his work in radiation had altered his DNA and given him a mutant son. These factors led to Brian abusing
+              Bruce physically. One of the people who helped Bruce cope with Brian's tantrums was his paternal cousin, Jennifer Walters, with whom Bruce
+              used to spend summers in the public library reading for hours, both of them losing themselves in books.
+            </p>
+           </div>
+        </div>
+
+        <div>
           <Heading2 id={4} title={"Personality"} />
           <div>
             <div className="article-quote">
