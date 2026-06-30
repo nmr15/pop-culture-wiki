@@ -111,8 +111,26 @@ const AntMan = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th colspan="2">Publication information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link to="/marvelcomics">Marvel Comics</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data">
+                <Link>Stan Lee</Link> (co-writer/editor) <br />
+                Larry Lieber (co-writer) <br />
+                <Link>Jack Kirby</Link> (artist)
+              </td>
+            </tr>
+            <tr>
+              <th colspan="2">In-story information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Full name</th>
+              <td className="infobox-data">Dr. Henry Jonathan Pym</td>
             </tr>
           </tbody>
         </table>

@@ -41,8 +41,32 @@ const Gambit = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th colspan="2">Publication information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Publisher</th>
+              <td className="infobox-data"><Link to="/marvelcomics">Marvel Comics</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Created by</th>
+              <td className="infobox-data">
+                Chris Claremont (writer) <br />
+                <Link>Jim Lee</Link> (artist)
+              </td>
+            </tr>
+            <tr>
+              <th colspan="2">In-story information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Full name</th>
+              <td className="infobox-data">Elektra Natchios</td>
+            </tr>
+            <tr>
+              <th colspan="2">In-story information</th>
+            </tr>
+            <tr>
+              <th className="infobox-data">Full name</th>
+              <td className="infobox-data">Remy Etienne LeBeau</td>
             </tr>
           </tbody>
         </table>
