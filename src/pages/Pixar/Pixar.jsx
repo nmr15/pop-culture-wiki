@@ -375,6 +375,22 @@ const Pixar = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.4.3">COVID-19, Disney+ releases, and some financial struggles (2020-present)</h4>
+            <p>
+              Pixar released <Link to="/pixar/onward">Onward</Link> on March 6, 2020. However, due to the start of the COVID-19 pandemic, the film
+              underperformed at the box office and was released onto rental digital services on March 20, and later on Disney+ on April 3. Due to the
+              pandemic, <Link to="/pixar/soul">Soul</Link> was moved to November 2020, and ultimately released on December 25, 2020, on Disney+ at no
+              additional cost to subscribers, and later became the first animated streaming film to win the Academy Award for Best Animated Feature.
+              Pixar's next two features, <Link to="/pixar/luca">Luca</Link> and <Link to="/pixar/turning_red">Turning Red</Link>, were also released free
+              on Disney+ in June 2021 and March 2022, respectively. In 2021, several Pixar employees anonymously criticized Disney's decision to release
+              their films direct to Disney+.
+            </p>
+            <p>
+              <Link to="/toy_story/lightyear">Lightyear</Link>, Pixar's first movie to return to theaters, was released in June 2022. The film became a
+              box-office failure with Deadline Hollywood calculating the film lost the studio $136 million, when factoring together all expenses and
+              revenues. In September 2022, Jonas Rivera was promoted to Executive VP of Film Production at Pixar overseeing all film and streaming
+              production. In December 2022, Disney CEO Bob Iger noted that they would rely more on the Pixar brand. In June 2023, Disney laid off 75
+              employees including the director of Lightyear Angus MacLane, and the film's producer Galyn Susman.
+            </p>
           </div>
         </div>
          <div>
