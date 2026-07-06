@@ -130,12 +130,20 @@ const AjakMCU = () =>
                 <p>Ajak being awoken by the Celestial Communication Sphere.</p>
               </div>
               <p>
-                Eventually, Arishem instructed
+                Eventually, Arishem instructed Ajak alongside a group of Eternals to travel to the planet called Earth to protect life forms from the
+                Deviants. He privately informed her that they would also be secretly fostering the birth of a Celestial within the planet around 5000 BC.
+                Before their arrival on Earth, Ajak and the other Eternals were assigned to the Domo, and she was awoken by the Celestial Communication
+                Sphere to instruct the others to prepare for arrival. She and the other Eternals entered their own stations where they were given proper
+                uniforms and then arrived at the planet.
               </p>
             </div>
             <div className="flex">
               <p>
-                Once the Domo
+                Once the Domo had gone through Earth's atmosphere, <Link to="/mcu/ikaris">Ikaris</Link>, <Link to="/mcu/thena">Thena</Link>,
+                <Link to="/mcu/gilgamesh"> Gilgamesh</Link>, <Link to="/mcu/makkari">Makkari</Link>, and <Link to="/mcu/kingo">Kingo</Link> went to the
+                ground to protect the humans from Deviants. Ajak and the others stayed in the Domo until all the present Deviants were killed. She and
+                the others levitated down onto the ground where they were joined by the other Eternals, Ajak used her power to heal Ikaris, who had a
+                contusion on his shoulder, and then presented themselves to the race they were assigned to protect.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b1/Ajak_Heals_Ikaris.png" alt="Ajak healing Ikaris" />
