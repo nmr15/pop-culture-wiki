@@ -70,11 +70,49 @@ const SamWilsonMCU = () =>
                 {id: "1.7.6", title: "Battle of Earth"},
                 {id: "1.7.7", title: "Receiving the shield"}
               ]},
-              {id: "1.8", title: "Return to the military"},
-              {id: "1.9", title: "Chasing super soldiers"},
-              {id: "1.10", title: "Tough decisions"},
-              {id: "1.11", title: "Becoming Captain America"},
-              {id: "1.12", title: "Fighting SERPENT"},
+              {id: "1.8", title: "Return to the military", sub2: [
+                {id: "1.8.1", title: "Rescue of Captain Vassant"},
+                {id: "1.8.2", title: "Learning of the Flag Smashers"},
+                {id: "1.8.3", title: "Donating the shield"},
+                {id: "1.8.4", title: "Returning home"}
+              ]},
+              {id: "1.9", title: "Chasing super soldiers", sub2: [
+                {id: "1.9.1", title: "Reunion with Bucky Barnes"},
+                {id: "1.9.2", title: "Chase of the Flag Smashers"},
+                {id: "1.9.3", title: "Introduced to John Walker"},
+                {id: "1.9.4", title: "Meeting Isaiah Bradley"},
+                {id: "1.9.5", title: "Session with Bucky Barnes"},
+                {id: "1.9.6", title: "Freeing Helmut Zemo"},
+                {id: "1.9.7", title: "Undercover in Madripoor"},
+                {id: "1.9.8", title: "Deal with Sharon Carter"},
+                {id: "1.9.9", title: "Ambush at Buccaneer Bay"},
+                {id: "1.9.10", title: "Jorney to Latvia"},
+                {id: "1.9.11", title: "Search for Donya Madani"},
+                {id: "1.9.12", title: "Talks of peace"},
+                {id: "1.9.13", title: "Skirmish with the Dora Milaje"},
+                {id: "1.9.14", title: "Flag Smashers ambush"},
+                {id: "1.9.15", title: "Battle for the shield"},
+                {id: "1.9.16", title: "Passing the mantle"},
+              ]},
+              {id: "1.10", title: "Tough decisions", sub2: [
+                {id: "1.10.1", title: "Reunion with Isaiah Bradley"},
+                {id: "1.10.2", title: "Time with family"},
+                {id: "1.10.3", title: "Training with Bucky Barnes"},
+                {id: "1.10.4", title: "Accepting the mantle"}
+              ]},
+              {id: "1.11", title: "Becoming Captain America", sub2: [
+                {id: "1.11.1", title: "Serving the GRC members"},
+                {id: "1.11.2", title: "Final fight with the Flag Smashers"},
+                {id: "1.11.3", title: "Public message"},
+                {id: "1.11.4", title: "Isaiah Bradley's legacy"},
+                {id: "1.11.5", title: "Louisiana cookout"},
+                {id: "1.11.6", title: "Reviewing Scott Lang's book"}
+              ]},
+              {id: "1.12", title: "Fighting SERPENT", sub2: [
+                {id: "1.12.1", title: "Theft of the solar-battery drones"},
+                {id: "1.12.2", title: "Skirmish at Catedral de Santo Ramos"},
+                {id: "1.12.3", title: "Training with Isaiah Bradley"}
+              ]},
               {id: "1.13", title: "Ruination of Thaddeus Ross' legacy"},
               {id: "1.14", title: "Reassembling the Avengers"}
             ]}
