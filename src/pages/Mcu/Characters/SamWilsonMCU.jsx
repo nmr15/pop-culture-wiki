@@ -210,6 +210,15 @@ const SamWilsonMCU = () =>
             were loyal to Steve, were defeated by <Link to="/mcu/tony_stark">Iron Man</Link>, and locked into the Raft, until Steve freed them as they
             became fugitives.
           </p>
+          <p>
+            While the Avengers were still disbanded, Earth had come under attack by <Link to="/mcu/thanos">Thanos</Link> and his Black Order, bringing
+            Sam and his allies out of hiding. Learning that Thanos intended to steal the <Link to="/mcu/mind_stone">Mind Stone</Link> from
+            <Link to="/mcu/vision"> Vision</Link>, Sam joined the Avengers in taking Vision to <Link to="/mcu/wakanda">Wakanda</Link> for his
+            protection. However, they were eventually defeated as Thanos claimed the Infinity Stones and used them to cause the Snap, killing
+            trillions including Sam. Five years later, the victims of the Snap were resurrected by the surviving Avengers, and Sam rejoined the
+            battle against Thanos. In the aftermath of the battle, Sam learned that Steve returned to the past and had lived a full life with 
+            <Link to="/mcu/peggy_carter"> Peggy Carter</Link>, and seeing him return as an old man, was given the shield by Steve.
+          </p>
         </div>
       </main>
     </>
