@@ -113,8 +113,26 @@ const SamWilsonMCU = () =>
                 {id: "1.12.2", title: "Skirmish at Catedral de Santo Ramos"},
                 {id: "1.12.3", title: "Training with Isaiah Bradley"}
               ]},
-              {id: "1.13", title: "Ruination of Thaddeus Ross' legacy"},
-              {id: "1.14", title: "Reassembling the Avengers"}
+              {id: "1.13", title: "Ruination of Thaddeus Ross' legacy", sub2: [
+                {id: "1.13.1", title: "President Ross' proposal"},
+                {id: "1.13.2", title: "Celestial Island world summit"},
+                {id: "1.13.3", title: "Questioning Isaiah Bradley"},
+                {id: "1.13.4", title: "Attacked by Sidewinder"},
+                {id: "1.13.5", title: "Going rogue"},
+                {id: "1.13.6", title: "Infilitration into Camp Echo One"},
+                {id: "1.13.7", title: "Interrogating Sidewinder"},
+                {id: "1.13.8", title: "Confronting President Ross"},
+                {id: "1.13.9", title: "Battle of Celestial Island"},
+                {id: "1.13.10", title: "Doubting himself"},
+                {id: "1.13.11", title: "Duel of Washington, D.C."},
+                {id: "1.13.12", title: "Isaiah Brdley's release"},
+                {id: "1.13.13", title: "Visiting Thaddeus Ross"}
+              ]},
+              {id: "1.14", title: "Reassembling the Avengers", sub2: [
+                {id: "1.14.1", title: "Checking on Joaquin Torres"},
+                {id: "1.14.2", title: "Leader's warning"},
+                {id: "1.14.3", title: "Trademark dispute"}
+              ]}
             ]}
           />
           <Collapse 
@@ -176,11 +194,21 @@ const SamWilsonMCU = () =>
             <b>Samuel Thomas "Sam" Wilson</b> is a former United States Air Force pararescue airman who wielded an experimental military wingsuit,
             operating under the callsign Falcon. Wilson decided to leave active duty when his wingman Ronald Riley was killed in action, instead choosing
             to help other veterans suffering from post-traumatic stress disorder. At this time, Wilson met <Link to="/mcu/steve_rogers">Steve Rogers</Link>
-            and was drawn to his conflict with <Link to="/mcu/hydra">Hydra</Link>, as Rogers needed help from anyone not associated with
+            and was drawn to his conflict with <Link to="/mcu/hydra">Hydra</Link>, as Steve needed help from anyone not associated with
             <Link to="/mcu/shield"> S.H.I.E.L.D.</Link> since they had been infiltrated by Hydra. Retaking his old wings, Wilson had then assisted with
             destroying all of <Link to="/mcu/alexander_pierce">Alexander Pierce</Link>'s schemes of world domination. Following their victory against
-            Pierce's Hydra units, Falcon then agreed to assist Rogers in tracking down the Winter Soldier, who was in fact Rogers' close friend who had
+            Pierce's Hydra units, Falcon then agreed to assist Steve in tracking down the Winter Soldier, who was in fact Steve's close friend who had
             been brainwashed by Hydra.
+          </p>
+          <p>
+            As Sam continued searching for the Winter Soldier, he was recruited into the <Link to="/mcu/avengers">Avengerse</Link>. During his time with
+            them, Sam briefly encountered <Link to="/mcu/scott_lang">Ant-Man</Link> before assisting in defeating
+            <Link to="/mcu/brock_rumlow">Crossbones</Link>. In the aftermath of several incidents that caused civilian casualties, the Avengers were then
+            forced into following the <Link to="/mcu/sokovia_accords">Sokovia Accords</Link>, putting them all under the government's full control.
+            However, as the Winter Soldier was blamed for terrorist attacks by <Link to="/mcu/baron_zemo">Helmut Zemo</Link>, Sam stood by Steve with
+            protecting the Winter Soldier, which had then caused the Avengers civil war. In the wake of this clash, Sam, and several other Avengers who
+            were loyal to Steve, were defeated by <Link to="/mcu/tony_stark">Iron Man</Link>, and locked into the Raft, until Steve freed them as they
+            became fugitives.
           </p>
         </div>
       </main>

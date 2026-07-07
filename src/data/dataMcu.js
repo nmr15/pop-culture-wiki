@@ -768,7 +768,7 @@ export const mcuChar = [
   },
   {
     "id": "mcuchar22",
-    "title": "Scott Land",
+    "title": "Scott Lang",
     "file": "ScottLangMCU",
     "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/46/Ant-Man_Infobox.png",
     "route": "/mcu/scott_lang"
