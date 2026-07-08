@@ -184,8 +184,21 @@ const SamWilsonMCU = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Portrayed by</th>
+              <td className="infobox-data">Anthony Mackie</td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Appearances</th>
+              <td className="infobox-data">
+                <Link to="/mcu/captain_america_the_winter_soldier">Captain America: The Winter Soldier</Link> <br />
+                <Link to="/mcu/avengers_age_of_ultron">Avengers: Age of Ultron</Link> <br />
+                <Link to="/mcu/antman_film">Ant-Man</Link> <br />
+                <Link to="/mcu/captain_america_civil_war">Captain America: Civil War</Link> <br />
+                <Link to="/mcu/avengers_infinity_war">Avengers: Infinity War</Link> <br />
+                <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link> <br />
+                <Link to="/mcu/the_falcon_and_the_winter_soldier">The Falcon and the Winter Soldier</Link> <br />
+                <Link to="/mcu/captain_america_brave_new_world">Captain America: Brave New World</Link>
+              </td>
             </tr>
           </tbody>
         </table>
@@ -218,6 +231,27 @@ const SamWilsonMCU = () =>
             trillions including Sam. Five years later, the victims of the Snap were resurrected by the surviving Avengers, and Sam rejoined the
             battle against Thanos. In the aftermath of the battle, Sam learned that Steve returned to the past and had lived a full life with 
             <Link to="/mcu/peggy_carter"> Peggy Carter</Link>, and seeing him return as an old man, was given the shield by Steve.
+          </p>
+          <p>
+            Initially declining the shield and giving it up to the Smithsonian Institution under the impression that it would remain a display piece,
+            Sam was disgusted when the government had then appointed <Link to="/mcu/john_walker">John Walker</Link> as their next Captain America.
+            Sam instead refocused on fighting the <Link to="/mcu/flag_smashers">Flag Smashers</Link>, forming an unlikely alliance with Bucky and
+            Zemo to track them down. However, as Walker began to lose control, due to taking the
+            <Link to="/mcu/super_soldier_serum"> super soldier serum</Link>, and brutally murdered one of the Flag Smashers in public, Sam retook
+            the shield. Following some soul searching and a discussion with Isaiah Bradley, Sam had finally taken up the mantle of Captain America
+            in time to intervene with the Flag Smashers' attack on the GRC, stopping Karli Morgenthau, as he convinced the GRC to treat refugee
+            communities created by the Blip fairly, inspiring a new generation of heroes.
+          </p>
+          <p>
+            Three years later, Sam, now working with the government, was invited to the Celestial Island World Summit at the White House by
+            newly elected U.S. President <Link to="/mcu/thaddeus_ross">Thaddeus Ross</Link>. Sam was wrapped up in a nefarious plot when Isaiah
+            was mind-controlled to attack Ross and tensions continued to rise as an arms race between Japan and the United States began over the
+            use of <Link to="/mcu/adamantium">adamantium</Link>. Sam, along with his partner
+            <Link to="/mcu/joaquin_torres"> Joaquin Torres</Link>, who was the new Falcon, discovered the conspiracy was set in place by
+            <Link to="/mcu/samuel_sterns"> Samuel Sterns</Link> as a way to destroy Ross' legacy, and were unable to stop his plans from
+            coming to fruition when Ross turned into the Red Hulk at a press conference and had gone on a rampage. Sam battled against Ross and
+            got him to calm down, after which, Ross chose to turn himself in. Motivated by Ross' idea to restart the Avengers, Sam began by
+            recruiting Torres.
           </p>
         </div>
       </main>
