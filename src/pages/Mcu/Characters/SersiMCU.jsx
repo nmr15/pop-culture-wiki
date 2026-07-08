@@ -85,7 +85,7 @@ const SersiMCU = () =>
                 </span>
               </td>
             </tr>
-             <tr>
+            <tr>
               <th className="infobox-data">Portrayed by</th>
               <td className="infobox-data">Gemma Chan</td>
             </tr>
