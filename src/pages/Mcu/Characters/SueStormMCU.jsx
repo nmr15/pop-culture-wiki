@@ -74,7 +74,7 @@ const SueStormMCU = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Sam_Wilson_Infobox.jpg" alt="Susan Storm" />
+                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/69/Invisible_Woman_Infobox.png" alt="Susan Storm" />
                 </span>
               </td>
             </tr>
@@ -89,7 +89,28 @@ const SueStormMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            Doctor Susan "Sue" Storm is the wife of <Link to="/mcu/reed_richards">Reed Richards</Link>, the older
+            sister of <Link to="/mcu/johnny_storm">Johnny Storm</Link>, the leader of the Future Foundation and a
+            founding member of the <Link to="/mcu/fantastic_four">Fantastic Four</Link> known as the Invisible Woman,
+            having the ability to become invisible and generate powerful fields of invisible force. While she was
+            pregnant, the <Link to="/mcu/silver_surfer">Silver Surfer</Link> arrived and announced that
+            <Link to="/mcu/galactus">Galactus</Link> would consume Earth. Searching for a way to prevent this, the
+            Fantastic Four traced her energy to LHS-275 where they met Galactus, who informed Susan that her son
+            possessed the Power Cosmic and that Galactus sought to make him his successor. Refusing to give up
+            her child, the team managed to escape, although Galactus forced Susan into premature labor, and she
+            gave birth to <Link to="/mcu/franklin_richards">Franklin Richards</Link>.
+          </p>
+          <p>
+            Upon returning to Earth, her decision to keep her child caused the general public to criticize the
+            Fantastic Four. However, Susan managed to quell their anger and unrest by introducing them to her child
+            publicly and assuring them that they would make it through this as a family. When their plan to teleport
+            Earth away was thwarted by the Silver Surfer, Susan ultimately agreed to use Franklin as bait to lure
+            Galactus into their Teleportation Bridge to teleport him across the universe. Unfortunately, Galactus saw
+            through their trap, and captured Franklin. Susan pushed her powers to their limits and forced Galactus
+            into the bridge, sacrificing herself so Reed could save their child. However, Franklin used his powers
+            for the first time to resurrect her.
+          </p>
         </div>
       </main>
     </>
