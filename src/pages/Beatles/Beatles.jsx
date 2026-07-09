@@ -381,7 +381,21 @@ const Beatles = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.1">A Hard Day's Night</h4>
-
+            <p>
+              Capitol Records' lack of interest throughout 1963 did not go unnoticed, and a competitor, UnitedArtists Records, encouraged its film
+              division to offer the Beatles a three-motion-picture deal, primarily for the commercial potential of the soundtracks in the US. Directed by
+              Richard Lester, A Hard Day's Night involved the band for six weeks in March–April 1964 as they played themselves in a musical comedy. The film
+              premiered in London and New York in July and August, respectively, and was an international success, with some critics drawing a comparison
+              with the Marx Brothers.
+            </p>
+            <p>
+              United Artists released a full soundtrack album for the North American market, combining Beatles songs and Martin's orchestral score;
+              elsewhere, the group's third studio LP, A Hard Day's Night, contained songs from the film on side one and other new recordings on side two.
+              According to Erlewine, the album saw them "truly coming into their own as a band. All of the disparate influences on their first two albums
+              coalesced into a bright, joyous, original sound, filled with ringing guitars and irresistible melodies." That "ringing guitar" sound was
+              primarily the product of Harrison's 12-string electric Rickenbacker, a prototype given to him by the manufacturer, which made its debut on the
+              record.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">1964 world tour, meeting Bob Dylan and stand on civil rights</h4>
 

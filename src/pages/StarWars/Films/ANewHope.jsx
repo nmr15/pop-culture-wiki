@@ -475,6 +475,18 @@ const ANewHope = () =>
               to be involved with all aspects of the production. Taylor claimed that Lucas avoided contact with
               him, which motivated the cinematographer to make his own decisions about how to shoot the film.
             </p>
+            <div className="img-right img-card">
+              <img src="https://en.wikipedia.org/wiki/File:Hotel-sididriss.jpg" alt="Hotel Sidi Driss" />
+              <p>Hotel Sidi Driss, the underground building used as Luke's Tatooine home.</p>
+            </div>
+            <p>
+              Originally, Lucas envisioned Tatooine as a jungle planet, and Kurtz traveled to the Philippines to scout locations. However, the thought of
+              spending months filming in the jungle made Lucas uncomfortable, so he made Tatooine a desert planet instead. Kurtz then researched various
+              desert locales around the globe. He ultimately decided that Southern Tunisia, on the edge of the Sahara, would make an ideal Tatooine.
+              Principal photography began in Chott el Djerid in March 1976. Meanwhile, a construction crew in nearby Tozeur spent eight weeks creating
+              additional Tatooine locations. The scenes of Luke's Tatooine home were filmed at the Hotel Sidi Driss, in Matmata. Additional Tatooine scenes
+              were shot at Death Valley in the United States.
+            </p>
 
             <h3 className="article-heading-3" id="4">Post-production</h3>
 
