@@ -25,9 +25,24 @@ const SpriteMCU = () =>
                 {id: "1.1.2", title: "Shaping Earth's mythology"},
                 {id: "1.1.3", title: "Eternal wedding"}
               ]},
-              {id: "1.1", title: "500 Year War"},
-              {id: "1.1", title: "Splitting up"},
-              {id: "1.1", title: "The Emergence"}
+              {id: "1.2", title: "500 Year War", sub2: [
+                {id: "1.2.1", title: "Rescue of Kim Bu-Sik"},
+                {id: "1.2.2", title: "Ending the war"},
+                {id: "1.2.3", title: "Retelling of the 500 Year War"}
+              ]},
+              {id: "1.3", title: "Splitting up", sub2: [
+                {id: "1.3.1", title: "Defeating the Deviants"},
+                {id: "1.3.2", title: "Pranking Kingo"},
+                {id: "1.3.3", title: "Life on Earth"}
+              ]},
+              {id: "1.4", title: "The Emergence", sub2: [
+                {id: "1.4.1", title: "Return of the Deviants"},
+                {id: "1.4.2", title: "Reuniting the Eternals"},
+                {id: "1.4.3", title: "Amubsh at Druig's compound"},
+                {id: "1.4.4", title: "Returning to the Domo"},
+                {id: "1.4.5", title: "Siding with Ikaris"},
+                {id: "1.4.6", title: "Becoming human"}
+              ]}
             ]}
           />
           <Collapse 
