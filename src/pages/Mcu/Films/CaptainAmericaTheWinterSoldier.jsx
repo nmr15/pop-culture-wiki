@@ -321,12 +321,18 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Steve talks to Fury in the secret base.</p>
               </div>
               <p>
-                Hill takes them
+                Hill takes them to a secret facility where Fury is resting: the director didn't die, although he was severely injured. Fury had taken an
+                anti-stress serum developed by Banner that lowered his heartbeat to only one beat per minute so that he would appear dead. Hill and Fury
+                tell them that Project Insight is only hours away and that they have to act quickly. The Helicarriers would reach 3000 feet, connect to the
+                Insight Satellites, and zero all their targets before firing. The only way to prevent this is to use three special chips that would take
+                away S.H.I.E.L.D.'s control over the Helicarriers.
               </p>
             </div>
             <div className="flex">
               <p>
-                Later, Steve recalls
+                Later, Steve recalls how after the death of his mother, Bucky offered him a place to stay so he wouldn't have to cope alone, promising to be
+                there 'until the end of the line'. Sam warns Steve that Bucky may not be able to be taken alive, but Steve vows to save his friend. As Steve
+                had lost his suit earlier, he breaks into the Smithsonian and steals his old uniform.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e8/Captain_America%27s_Golden_Age_Uniform.png" alt="Captain America outside the Triskelion" />
@@ -339,12 +345,18 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>The Winter Soldier going through mind wiping.</p>
               </div>
               <p>
-                Bucky is being
+                Bucky is being prepared for battle, but he starts to ask who "Bucky" is. He sees memories showing how Hydra found him after falling off the
+                train. Bucky then was taken to Zola who amputated his destroyed left arm and replaced it with a cybernetic one. He also remembers how he was
+                put in cryostasis between missions so that he would not age. Pierce decides he is beginning to remember too much about his past, and they
+                brainwash him again.
               </p>
             </div>
             <div className="flex">
               <p>
-                The members of
+                The members of the World Security Council arrive at the Triskelion. They are each given badges to wear on their collar that will grant them
+                access to anywhere in the Triskelion. They then meet in Pierce's office. Steve, Sam, and Hill break into the Triskelion and take control of
+                the communication systems. Steve reveals to the staff that there are Hydra infiltrators in S.H.I.E.L.D., led by Pierce, and that they cannot
+                be allowed to initiate Project Insight.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Steve-Rogers-Speech-CATWS.jpg" alt="Steve tells the S.H.I.E.L.D. agents the truth" />
@@ -357,12 +369,18 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Natasha wearing the Photostatic Veil.</p>
               </div>
               <p>
-                Rumlow and his
+                Rumlow and his men enter the control room and threaten an agent named Cameron Klein unless he launches the Helicarriers. However, Sharon
+                Carter intervenes, beginning a gunfight, but Rumlow still manages to get the Helicarriers in the air. Pierce pulls a gun on Councilman Singh,
+                but Natasha, using a Photostatic Veil reveals herself to be disguised as Councilwoman Hawley, and stops him. Natasha begins to upload all of
+                S.H.I.E.L.D. and Hydra's secure files to the Internet. Pierce, held at gunpoint, informs Natasha that two Alpha Level clearance members are
+                required to disable the encryption so the files can be uploaded, and there is only one present (Pierce).
               </p>
             </div>
             <div className="flex">
               <p>
-                Fury, another person
+                Fury, another person with an Alpha Level clearance, arrives on the scene. Fury notes that Pierce probably erased all traces of Fury being
+                the director of S.H.I.E.L.D., but he had made a backup retinal scan using his damaged eye instead of his normal, working one. Fury and
+                Pierce then scan their retinas and use their two Alpha Level clearances to disable the encryption, allowing Natasha to upload the files.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6b/Still6.jpg" alt="Nick Fury" />
@@ -375,12 +393,17 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Captain America and Falcon attack the Helicarriers.</p>
               </div>
               <p>
-                Steve and Sam
+                Steve and Sam manage to put in the chips, with some hardship, for two of the Helicarriers, but when Sam is going for the last one, his
+                jetpack is damaged by Bucky, and he is forced to skydive down to the Triskelion. Hill notifies Sam that Rumlow is heading to the council.
+                Sam intercepts him and the two begin to fight. Steve attempts to place the final chip, but he is confronted by Bucky. Steve and Bucky fight,
+                and during the conflict, Steve tries to remind Bucky of his past as his friend.
               </p>
             </div>
             <div className="flex">
               <p>
-                At Pierce's office
+                At Pierce's office, the upload has finished. However, Pierce refuses to be taken in and uses his mobile device to trigger a small device in
+                the security badges that had been given to the World Security Council members' collars, instantly killing them by burning a hole in their
+                sternums. Natasha is spared, and Pierce uses the device on the security badge to threaten Fury and Natasha into lowering their weapons.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/75/Cap2_1080p_6661.jpg" alt="Pierce kills the World Security Council" />
@@ -393,12 +416,20 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Pierce is killed by Fury.</p>
               </div>
               <p>
-                During this time,
+                During this time, the Helicarriers have connected with the satellites and are beginning to run Zola's algorithm, scanning for targets. Steve
+                manages to place the final chip on the Helicarrier seconds before they fire, changing their targets to each other and causing them to shoot
+                each other down. Pierce witnesses the destruction of the Helicarriers. He decides to use the device on the security badge to threaten
+                Natasha to fly him out of the Triskelion. Natasha activates a Taser Disk on herself, temporarily disabling the device on the security badge
+                and giving Fury enough time to shoot Pierce and kill him.
               </p>
             </div>
             <div className="flex">
               <p>
-                Sam, still fighting
+                Sam, still fighting with Rumlow, sees the crashing Helicarrier and jumps out of the 41st floor through the window. He is saved by Fury and
+                Natasha. The chamber where Steve and Bucky are fighting is severely damaged by the crossfire. Before he passes out, Steve says he is not
+                going to fight any longer and promises Bucky to be with him 'til the end of the line, reciprocating the promise Bucky gave decades ago.
+                Steve then falls into the water beneath and is about to drown, when a hand grabs him and drags him from the water. It is Bucky, who then
+                disappears.
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Winter_Soldier_begins_to_remember.jpg" alt="The Winter Soldier beating Captain America" />
@@ -411,12 +442,19 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Fury burns his possessions.</p>
               </div>
               <p>
-                Rumlow is buried
+                Rumlow is buried under rubble but is later seen being attended to by doctors. When Steve wakes up sometime later, a lot of new events have
+                happened. S.H.I.E.L.D. is now unstable due to Hydra. Fury is officially dead and he has destroyed all evidence of being alive, even ditching
+                the eye-patch for sunglasses. If somebody would ask what happened to him, Fury wants Steve to answer that he is dead. Natasha appears in a
+                Congressional hearing at the United States Capitol with the high ranking members of the Department of Defense to discuss who was responsible
+                for S.H.I.E.L.D.'s downfall.
               </p>
             </div>
             <div className="flex">
               <p>
-                Because all of
+                Because all of S.H.I.E.L.D.'s secure files were uploaded to the internet, along with Natasha's past, she sets out to find herself a new
+                identity, first handing Steve a file with information on Bucky and his recreation by Hydra experimentation. When Steve looks at the file,
+                Sam realizes that he is going to look for Bucky so that he can convince him of who he really is. Steve tells him that he doesn't have to go
+                with him. Sam replies, "I know. When do we start?"
               </p>
               <div className="img-card ml-1">
                 <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/23/003cap_ons_inl_06_0.jpg" alt="Natasha and Steve" />
@@ -429,7 +467,13 @@ const CaptainAmericaTheWinterSoldier = () =>
                 <p>Baron Strucker closely looking at the Scepter.</p>
               </div>
               <p>
-                Sometime later, Baron
+                Sometime later, <Link to="/mcu/baron_strucker">Baron Strucker</Link> is holding the Scepter inside a Hydra Research Base in
+                <Link to="/mcu/sokovia"> Sokovia</Link>, stating that there are Hydra agents worldwide. He then walks over to a pair of cells. He stops in
+                front of them and says, "This is the age of miracles..." One of the cells contains a <Link to="/mcu/piertro_maximoff">man</Link> who is
+                running around at a tremendous speed. The other one contains a <Link to="/mcu/wanda_maximoff">woman</Link> who levitates a few blocks
+                before she causes one to explode. The two are said to be the only survivors of a group of volunteers that were subjected to Strucker's
+                experiments. Meanwhile, Bucky, dressed in civilian clothing, is at the Smithsonian Institution where he finds a whole section of the Captain
+                America display dedicated to him.
               </p>
             </div>
           </div>
