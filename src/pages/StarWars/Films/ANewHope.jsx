@@ -494,6 +494,45 @@ const ANewHope = () =>
               he wore the costume for an entire day. A rare winter rainstorm struck the country, which further disrupted filming. After two and a half weeks
               in Tunisia, production moved to Elstree Studios in London for interior scenes.
             </p>
+            <p>
+              Kurtz has described Lucas as a shy loner who does not enjoy working with a large cast and crew. According to Fisher, he gave very little
+              direction to the actors, and when he did, it usually consisted of the words "faster" and "more intense". British union rules required that
+              filming finish by 5:30 pm, unless Lucas was in the middle of a shot, in which case the crew could vote on whether to continue an extra 15
+              minutes. Lucas's request to continue was usually voted down. Most of the British crew considered Star Wars a children's film, and the actors
+              sometimes did not take the project seriously. Kenny Baker later confessed that he thought the film would be a failure.
+            </p>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tikal_Temple1_2006_08_11.JPG/250px-Tikal_Temple1_2006_08_11.JPG"
+                alt="Mayan temple in Tikal, Guatemala"
+              />
+              <p>Scenes of the rebel base on Yavin 4 were filmed in Tikal, Guatemala.</p>
+            </div>
+            <p>
+              According to Taylor, it was impossible to light the Elstree sets in the conventional way. He was forced to break open the walls, ceilings, and
+              floors, placing quartz lamps inside the openings he created. This lighting system gave Lucas the ability to shoot in almost any direction
+              without extensive relighting. In total, filming in Britain took fourteen and a half weeks.
+            </p>
+            <p>
+              While visiting an English travel agency, Lucas saw a poster depicting Tikal, Guatemala, and decided to use the location for the moon Yavin 4.
+              The scenes of the rebel base on Yavin were filmed in the local Mayan temples. The animation of the Death Star plans shown at the base were
+              created by the computer programmer Larry Cuba, using the GRASS programming language. It is the only digital computer animation utilized in the
+              original version of Star Wars. The visual simulation of Yavin 4 orbiting its mother planet was created on the Scanimate analog computer. All
+              the other computer monitors and targeting displays in the film featured simulated computer graphics, which were generated using pre-digital
+              animation methods, such as hand-drawn backlit animation.
+            </p>
+            <p>
+              While in Tunisia, Lucas changed the script to kill off Obi-Wan Kenobi. Lucas said he added the death of a main character to emphasize the
+              danger of the Death Star; Obi-Wan was chosen because he served little narrative purpose after his duel with Vader. In May 1976, Guinness
+              wrote in his diary "...I regret having embarked on the film. ...the dialogue, which is lamentable, keeps being changed and only slightly
+              improved." In 1999, Guinness claimed that he persuaded Lucas to kill Obi-Wan as he disliked the "awful" dialogue.
+            </p>
+            <p>
+              The screenplay featured a human Jabba the Hutt, but the character was removed due to time constraints. The narrative information was
+              incorporated into the cantina scene with Greedo. The idea of Jabba being an alien did not arise until work began on the 1979 Star Wars
+              re-release. Lucas later claimed he had wanted to superimpose a stop-motion creature over a human actor, a feat he accomplished with
+              computer-generated imagery (CGI) for the 1997 Special Edition.
+            </p>
             
             <h3 className="article-heading-3" id="4">Post-production</h3>
 
