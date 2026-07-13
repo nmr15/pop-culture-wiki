@@ -487,7 +487,14 @@ const ANewHope = () =>
               additional Tatooine locations. The scenes of Luke's Tatooine home were filmed at the Hotel Sidi Driss, in Matmata. Additional Tatooine scenes
               were shot at Death Valley in the United States.
             </p>
-
+            <p>
+              The filmmakers experienced many problems in Tunisia. Production fell behind schedule in the first week due to malfunctioning props and
+              electronic breakdowns. The radio-controlled R2-D2 models functioned poorly. The left leg of Daniels' C-3PO costume shattered, injuring his foot.
+              At the end of his first day of filming in March, Daniels was covered in scars and scratches from the costume; this was the first and only time
+              he wore the costume for an entire day. A rare winter rainstorm struck the country, which further disrupted filming. After two and a half weeks
+              in Tunisia, production moved to Elstree Studios in London for interior scenes.
+            </p>
+            
             <h3 className="article-heading-3" id="4">Post-production</h3>
 
           </div>

@@ -17,7 +17,37 @@ const C3PO = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Creation and portrayal</a></li>
-
+          <Collapse 
+            id="2"
+            item="Fictional biography"
+            sub={[
+              {id: "2.1", title: "Early incarnation"},
+              {id: "2.2", title: "Serving the maker"},
+              {id: "2.3", title: "Beyond Tatooine"},
+              {id: "2.4", title: "The Clone Wars", sub2: [
+                {id: "2.4.1", title: "Serving Senator Amidala"},
+                {id: "2.4.2", title: "Mission to Rodia"},
+                {id: "2.4.3", title: "Mission to Orto Plutonia"},
+                {id: "2.4.4", title: "The Blue Shadow Virus crisis"},
+                {id: "2.4.5", title: "The Senate hostage crisis"},
+                {id: "2.4.6", title: "The Separatist spy"},
+                {id: "2.4.7", title: "Serving a peacekeeper"},
+                {id: "2.4.8", title: "The Zillo beast"},
+                {id: "2.4.9", title: "Staying behind"},
+                {id: "2.4.10", title: "Mission to Aleen"},
+                {id: "2.4.11", title: "Further adventures"}
+              ]},
+              {id: "2.5", title: "Rise of the Empire"},
+              {id: "2.6", title: "Age of the Empire"},
+              {id: "2.7", title: "Galactic Civil War"},
+              {id: "2.8", title: "New Republic"},
+              {id: "2.9", title: "Resistance"},
+              {id: "2.10", title: "Aboard the Falcon"},
+              {id: "2.11", title: "Time on Anoat and mission to Mon Cala"},
+              {id: "2.12", title: "Defeating the First Order"},
+              {id: "2.13", title: "Reflecting on the past"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#3">Characteristics</a></li>
           <li className="sidebar-list-item"><a href="#4">Equipment</a></li>
           <Collapse 
