@@ -16,6 +16,33 @@ const C3PO = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Creation and portrayal</a></li>
+
+          <li className="sidebar-list-item"><a href="#3">Characteristics</a></li>
+          <li className="sidebar-list-item"><a href="#4">Equipment</a></li>
+          <Collapse 
+            id="5"
+            itemm="Appearances"
+            sub={[
+              {id: "5.1", title: "Overview"},
+              {id: "5.2", title: "Original trilogy"},
+              {id: "5.3", title: "Prequel trilogy"},
+              {id: "5.4", title: "Sequel trilogy"},
+              {id: "5.5", title: "Series"},
+              {id: "5.6", title: "Others"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Star Wars Legends"
+            sub={[
+              {id: "6.1", title: "Novels"},
+              {id: "6.2", title: "Comics"},
+              {id: "6.3", title: "Animated series"},
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#7">Other appearances</a></li>
+          <li className="sidebar-list-item"><a href="#8">Analysis</a></li>
         </ul>
       </aside>
       <main className="main" id="top">
