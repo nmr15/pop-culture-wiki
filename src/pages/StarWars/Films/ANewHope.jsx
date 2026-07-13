@@ -533,8 +533,28 @@ const ANewHope = () =>
               re-release. Lucas later claimed he had wanted to superimpose a stop-motion creature over a human actor, a feat he accomplished with
               computer-generated imagery (CGI) for the 1997 Special Edition.
             </p>
+            <p>
+              At Fox, Alan Ladd endured scrutiny from board members over the film's complex screenplay and rising budget. After the filmmakers requested
+              more than the original $8 million budget, Kurtz said the executives started worrying. According to Kurtz, the filmmaking team spent two weeks
+              drafting a new budget. With the project behind schedule, Ladd told Lucas he had to finish production within a week or it would be shut down.
+              The crew split into three units, led by Lucas, Kurtz, and production supervisor Robert Watts. Under the new system, they met the studio's
+              deadline.
+            </p>
+            <p>
+              During production, the cast attempted to make Lucas laugh or smile, as he often appeared depressed. At one point, the project became so
+              demanding that Lucas was diagnosed with hypertension and exhaustion and was warned to reduce his stress level. Another obstacle arose when
+              Hamill's face became visibly scarred after a car accident, which restricted the re-shoots featuring Luke.
+            </p>
             
             <h3 className="article-heading-3" id="4">Post-production</h3>
+            <p>
+              Star Wars was originally slated for release on December 25, 1976, but production delays pushed it back to mid-1977. Editor John Jympson began
+              cutting the film while Lucas was still filming in Tunisia; as Lucas noted, the editor was in an "impossible position" because Lucas had not
+              explained any of the film's material to him. When Lucas viewed Jympson's rough cut, he felt the editor's selection of takes was questionable.
+              He felt Jympson did not fully understand the film nor Lucas' style of filmmaking, and he continued to disapprove of Jympson's editing as time
+              went by. Halfway through production, Lucas fired Jympson and replaced him with Paul Hirsch, Richard Chew, and his then-wife, Marcia Lucas. The
+              new editing team felt Jympson's cut lacked excitement, and they sought to inject more dynamism into the film.
+            </p>
 
           </div>
         </div>
