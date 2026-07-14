@@ -484,6 +484,25 @@ const Beatles = () =>
               "Yesterday" has inspired the most cover versions of any song ever written. With Help!, the Beatles became the first rock roup to be
               nominated for a Grammy Award for Album of the Year.
             </p>
+            <div className="img-left img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Beatles_press_conference_1965.jpg/330px-Beatles_press_conference_1965.jpg"
+                alt="Beatles press conference"
+              />
+              <p>The Beatles at a press conference in Minnesota in August 1965, shortly after playing at Shea Stadium in New York.</p>
+            </div>
+            <p>
+              The group's third US tour opened with a performance before a world-record crowd of 55,600 at New York's Shea Stadium on August 15, "perhaps
+              the most famous of all Beatles' concerts", in Lewisohn's description. A further nine successful concerts followed in other American cities.
+              At a show in Atlanta, the Beatles gave one of the first live performances ever to make use of a foldback system of on-stage monitor
+              speaers. Towards the end of the tour, they met with Elvis Presley, a foundational musical influence on the band, who invited them to his home
+              in Beverly Hills. Presley later said the band was an example of a trend of anti-Americanism and drug abuse.
+            </p>
+            <p>
+              Steptember 1965 saw the launch of an American Saturday-morning cartoon series, The Beatles, that echoed A Hard Day's Night's slapstick
+              antics over its two-year original run. The series was the first weekly television series to feature animated versions of real, living
+              people.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">Controversies, Revolver, and final tour</h4>
 
