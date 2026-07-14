@@ -174,7 +174,9 @@ const CarolDanversMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            Captain Carol Susan Jane Danvers, Princess of Aladna, is a former United States Air Force pilot who, upon being exposed to the energy of the Tesseract via the destruction of the Light-Speed Engine, obtained cosmic powers. She gained further powers when she was made into a Kree-human hybrid via a blood transfusion from Yon-Rogg and had all of her old memories removed, turning her into the Kree's weapon and a member of Starforce. Now operating as Vers, she was captured by Skrulls during the Kree-Skrull War, resulting in her returning to Earth and beginning to recall her past, with help from Nick Fury and Maria Rambeau. Carol subsequently discovered that Yon-Rogg and the Kree Empire had been manipulating her for years, learning from Talos that the Skrulls were merely seeking to find a new home. With this information, Carol, rejecting her Vers persona, unlocked her true powers and defeated the Kree invasion onto Earth that was being led by Ronan the Accuser, before setting off out to the far reaches of the galaxy to finish what her late mentor Mar-Vell had previously started, honoring her by becoming known as Captain Marvel.
+          </p>
         </div>
       </main>
     </>

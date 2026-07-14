@@ -150,6 +150,15 @@ const HopeVanDyneMCU = () =>
             she could give it to Rocket as a Christmas gift. By 2027, Bucky entered into politics and began a campaign to get elected into the United
             States Congress.
           </p>
+          <p>
+            Halfway through his term in Congress, Bucky worked to gather incriminating information against
+            <Link to="/mcu/valentina_allegra_de-fontaine"> Valentina Allegra de Fontaine</Link> for her upcoming impeachment hearing. This pitted Bucky against
+            Valentina’s former assassins, although he would eventually work with them against de Fontaine. With them, he would go on to confront de Fontaine
+            in the Watchtower, only to be forced to retreat by the genetically modified Sentry. As soon as New York was attacked by the Void, Bucky worked
+            with his newfound team to stop the threat, letting themselves be engulfed by the void to aid Yelena Belova in trying to convince Sentry to fight
+            the Void, his dark ego, for control. They eventually succeded and returned, where, in an attempt to confront de Fontaine, Bucky and the others
+            were tricked into being announced as the New Avengers.
+          </p>
         </div>
       </main>
     </>
