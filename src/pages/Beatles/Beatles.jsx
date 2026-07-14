@@ -434,7 +434,56 @@ const Beatles = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.1">Beatles for Sale, Help!, and Rubber Soul</h4>
-
+            <p>
+              According to Gould, the Beatles' fourth studio LP, <Link to="/beatles/beatles_for_sale">Beatles for Sale</Link>, evidenced a growing
+              conflict between the commercial pressures of their global success and their creative ambitions. They had intended the album, recorded
+              between August and October 1964, to continue the format established by A Hard Day's Night which, unlike the first two LPs, contained only
+              original songs. They had nearly exhausted their backblog of songs on the previous album, however, and given the challenges constant
+              international touring posed to their songwriting efforts, Lennon admitted, "Material's becoming a hell of a problem." As a result, six
+              covers from their extensive repertoire were chosen to complete the album. Released in early December, its eight original composition stood
+              out, demonstrating the growing maturity of the Lennon-McCartney songwriting partnership.
+            </p>
+            <p>
+              In early 1965, following a dinner with Lennon, Harrison and their weives, Harrison's dentist, John Riley, secretly added LSD to their
+              coffee. Lennon described the experience: "It was just terrifying, but it was fantastic. I was pretty stunned for a month or two." He and
+              Harrison subsequently became regular users of the drug, joined by Starr on at least one occasion. Harrison's use of psychedelic drugs
+              encouraged his path to meditation and Hinduism. He commented: "For me, it was like a flash. The first time I had acid, it just opened up
+              something in my head that was inside of me, and I realised a lot of things. I didn't learn them beause I already knew them, but that 
+              happened to be the key that opened the door to reveal them. From the moment I had that, I wanted to have it all the time, these thoughts about
+              he yogis and the Himalayas, and Ravi's music." McCartney was initially reluctant to try it, but eventually did so in late 1966. He beame the
+              first Beatle to discuss LSD publicly, declaring in a magazine interview that "it opened my eyes" and "made me a better, more honest, more
+              tolerant member of society."
+            </p>
+            <div className="img-right img-card">
+              <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TrailerUSHelp.jpg/250px-TrailerUSHelp.jpg"
+                alt="US trailer for Help!" 
+              />
+              <p>The US trailer for Help! with (from the rear) Harrison, McCartney, Lennon, and (largely obscured) Starr.</p>
+            </div>
+            <p>
+              Controversy erupted in June 1965 when Queen Elizabeth II appointed all four Beatles Members of the Order of the British Empire (MBE) after
+              Prime Minister Harold Wilson nominated them for the award. In protests, the honor was at that time primarily bestowed upon miliary veterans
+              and civic leaders, some conservative MBE recipients returned their insignia.
+            </p>
+            <p>
+              In July, the Beatles' second film, Help!, was released, again directed by Lester. Described as "mainly a relentless spoof of Bond", it
+              inspired a mixed response among both reviewers and the band. McCartney said: "Halp! was great but it wasn't our film, we were sort of
+              guest stars. It was fun, but basically, as an idea for a film, it was a bit wrong." The soundtrack was dominated by Lennon, who wrote and
+              sang lead on most of its songs, including the two singles: "<Link to="/beatles/help_song">Help!</Link>" and
+              "<Link to="/beatles/ticket_to_ride">Ticket to Ride</Link>."
+            </p>
+            <p>
+              The <Link to="/beatles/help_album">Help!</Link> album, the group's fifth studio LP, mirrored A Hard Day's Night by featuring soundtrack
+              songs on side one and additional songs from the same sessions on side two. The LP contained all original material save for two covers,
+              "<Link to="/beatles/act_naturally">Act Naturally</Link>" and "<Link to="/beatles/dizzy_miss_lizzy">Dizzy Miss Lizzy</Link>"; they were the
+              last covers the band would include on an album until <Link to="/beatles/let_it_be_album">Let It Be</Link>'s brief rendition of the
+              traditional Liverpool folk song "<Link to="/beatles/maggie_mae">Maggie Mae</Link>." The band expanded their use of vocal overdubs on Help!
+              and incorporated classical insruments into some arrangements, including a string quartet on the pop ballad
+              "<Link to="/beatles/yesterday">Yesterday</Link>." Composed and sung by McCartney, none of the other Beatles perform on the recording.
+              "Yesterday" has inspired the most cover versions of any song ever written. With Help!, the Beatles became the first rock roup to be
+              nominated for a Grammy Award for Album of the Year.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">Controversies, Revolver, and final tour</h4>
 
