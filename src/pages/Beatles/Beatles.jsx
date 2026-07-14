@@ -398,7 +398,40 @@ const Beatles = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.1">1964 world tour, meeting Bob Dylan and stand on civil rights</h4>
-
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Paul%2C_George_%26_John.png/330px-Paul%2C_George_%26_John.png"
+                alt="Paul, George, and John on Dutch TV" 
+              />
+              <p>McCartney, Harrison, and Lennon performing on Dutch TV in 1964.</p>
+            </div>
+            <p>
+              Touring internationally in June and July, the Beatles staged 37 shows over 27 days in Denmark, the Netherlands, Hong Kong, Australia, and
+              New Zealand. In August and September, they returned to the US, with a 30-concert tour of 23 cities. Generating intense interest once again,
+              the month-long tour attracted between 10,000 and 20,000 people to each 30-minute performance in cities from New York to San Francisco.
+            </p>
+            <p>
+              In August, journalist Al Aronwitz arranged for the Beatles to meet Bob Dylan. Visiting the band in their New York hotel suite, Dylan
+              introduced them to cannabis. Gould points out the musical and cultrual significance of the meeting, before which the musicians' respective
+              fan bases were "perceived as inhabiting two separate subcultural worlds": Dylan's audience of "college kids with artistic or intellectual
+              leanings, a dawning political and social idealism, and a mildly bohemian style" contrasted with their fans, "veritable 'teenyboppers', kids in
+              high school or grade school whose lives were totally wrapped up in the commercialised popular culture of television, radio, pop records, fan
+              magazines, and teen fashion. To many of Dylan's followers in the folk music scene, the Beatles were seen as idolaters, not idealists."
+            </p>
+            <p>
+              Within six months of the meeting, according to Gould, "Lennon would be making records on which he openly imitated Dylan's nasal drone, brittle
+              strum, and introspective vocal persona"; and six months after that, Dylan began performing with a backing band and electric instrumentation,
+              and "dressed in the height of Mod fasion." As a result, Gould continues, the traditional division between folk and rock enthusiats
+              "nearly evaporated", as the Beatles' fans began to mature in their outlook and Dylan's audienc embraces the new, youth-driven pop culture.
+            </p>
+            <p>
+              During the 1964 US tour, the group were confronted with racial segregation in the country at the time. When informed that the venue for their
+              September 11 concert, the Gator Bowl in Jacksonville, Florida, was segregated, the Beatles said they would refuse to perform unless the
+              audience was integrated. Lennon stated: "We never play to segregated audinences and we aren't going to start now... I'd sooner lose our
+              appearance money." City officials relented and agreed to allow an integrated show. The group also cancelled their reservations at the
+              white-only Hotel George Washington in Jacksonville. For their subsequent US tours in 1965 and 1966, the Beatles included clauses in contracts
+              stipulating that shows be integrated.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.1">Beatles for Sale, Help!, and Rubber Soul</h4>
 
