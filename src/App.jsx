@@ -1,6 +1,6 @@
 import { useLayoutEffect, Suspense, lazy } from "react"
 import { Routes, Route, useLocation } from "react-router-dom"
-import { routesTopics, routesAssassinsCreed, routeBeatlesAlbums, routesCommunityChars, routesCommunityEps, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routeSpidermanFilms, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
+import { routesTopics, routesAssassinsCreed, routeBattlefield, routeBeatlesAlbums, routesCommunityChars, routesCommunityEps, routeGfChars, routeGfS1, routesGta, routesGtaChars, routesHpBooks, routesHpChars, routesMarvelChars, routesMcu, routesMcuChars, routesMcuMeta, routesSimpsonsChars, routeSpidermanFilms, routesSWFilms, routesSWSeries, routeSWCharacters } from "./articles"
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home"
 import AllArticles from "./pages/AllArticles"
@@ -121,6 +121,12 @@ function App() {
         ))}
 
         {routesHpChars.map(({ path, Component }, index) => (
+          <Route key={index} path={path} element={<Component />} />
+        ))}
+
+        {/* Routes for Battlefield */}
+
+        {routeBattlefield.map(({ path, Component }, index) => (
           <Route key={index} path={path} element={<Component />} />
         ))}
 

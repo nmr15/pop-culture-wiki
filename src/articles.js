@@ -2,6 +2,7 @@ import { useLayoutEffect, Suspense, lazy } from "react"
 
 import { topics } from "./data";
 import { assassinscreed } from "./data/dataAssassinsCreed";
+import { battlefield } from "./data/dataBattlefield";
 import { beatlesAlbums } from "./data/dataBeatles";
 import { communitychars, communityEps } from "./data/dataCommunity";
 import { gravityFallsCharacters, gravityFallsS1 } from "./data/dataGravityFalls";
@@ -12,6 +13,7 @@ import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
 import { simpsonsChars } from "./data/dataSimpsons"
 import { spidermanFilms } from "./data/dataSpidermanFilms";
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
+import { Component } from "react";
 
 export const routesTopics = topics.map(topic => ({
     path: topic.route,
@@ -23,6 +25,13 @@ export const routesTopics = topics.map(topic => ({
 export const routesAssassinsCreed = assassinscreed.map(ac => ({
     path: ac.route,
     Component: lazy(() => import(`./pages/AssassinsCreed/${ac.file}.jsx`))
+}));
+
+// BATTLEFIELD
+
+export const routeBattlefield = battlefield.map(bf => ({
+  path: battlefield.route,
+  Component: lazy(() => import(`./pages/Battlefield/Games/${battlefield.file}.jsx`))
 }));
 
 // BEATLES
