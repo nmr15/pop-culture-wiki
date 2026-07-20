@@ -30,8 +30,8 @@ export const routesAssassinsCreed = assassinscreed.map(ac => ({
 // BATTLEFIELD
 
 export const routeBattlefield = battlefield.map(bf => ({
-  path: battlefield.route,
-  Component: lazy(() => import(`./pages/Battlefield/Games/${battlefield.file}.jsx`))
+  path: bf.route,
+  Component: lazy(() => import(`./pages/Battlefield/Games/${bf.file}.jsx`))
 }));
 
 // BEATLES
