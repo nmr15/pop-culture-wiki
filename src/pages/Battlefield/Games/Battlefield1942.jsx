@@ -88,7 +88,33 @@ const Battlefield1942 = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Battlefield 1942</b> is a 2002 <Link to="first_person_shooter">first-person shooter</Link> game developed by <Link to="/dice">DICE</Link> and
+            published by <Link to="/electronic_arts">Electronic Arts</Link> for Microsoft Windows and MAC OS X. It is the first installment in the
+            <Link to="/battlefield"> Battlefield</Link> series. The game can be played in single-player mode against the video game AI or in multiplayer mode
+            against players on the internet or in local area network. It is a popular platform for mod developers, with many released modifications that
+            alter the gameplay and theme.
+          </p>
+          <p>
+            In-game, players assume the role of one of five classes of infantry: <Link to="/battlefield/scout">Scout</Link>,
+            <Link to="/battlefield/assault"> Assault</Link>, <Link to="/battlefield/anti-tank">Anti-Tank</Link>, <Link to="/battlefield/medic">Medic</Link>,
+            and <Link to="/battlefield/engineer">Engineer</Link>. Players can also have the ability to fly various World War II fighter aircarft and
+            bombers, navigate capital ships, submarines, and aircraft carriers, man coastal artillery defenses, drive tanks, APCs, and jeeps, and take
+            control of anti-aircraft guns and mounted machine guns.
+          </p>
+          <p>
+            Each battle takes place on one of several maps located in a variety of places and famous battlefields in all of the major theaters of World
+            War II: the Pacific, European, North African, Eastern, and Italian Fronts. Combat is between the Axis powers and the Allies. The location
+            determines which nation-specific armies are used (for example, on the Wake Island map, it is Japan versus the United States, while on the El
+            Alamein map, it is Germany versus the United Kingdom). The maps in Battlefield 1942 are based on real battles are somewhat realistically
+            portrayed.
+          </p>
+          <p>
+            Upon release, Battlefield 1942 received generally favorable reviews, with particular praise directed toward the innovative gameplay,
+            multiplayer, and World War II theme. The game went on to perform well commercially, with over 3 million copies sold by 2004. Since its
+            release, the game has spawned numerous sequels and spin-offs, which ultimately turned into the Battlefield series. Battlefield 1942 is
+            retrospectively considered to be one the best video games of all time.
+          </p>
         </div>
       </main>
     </>
