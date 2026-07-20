@@ -202,22 +202,29 @@ const Battlefield1942 = () =>
                 of the map. On <Link to="/battlefield/wake_island">Wake Island</Link>, for instance, US forces always engage with Japanese forces as it
                 takes place in the Pacific Theater.
               </p>
-              <h4 className="article-heading-4">Allies</h4>
-              <ul className="article-list">
-                <li><Link to="/battlefield/british_army">British Army</Link></li>
-                <li><Link to="/battlefield/red_army">Red Army</Link></li>
-                <li><Link to="/battlefield/united_states_army">United States Army</Link></li>
-                <li><Link to="/battlefield/united_states_marine_corps">United States Marine Corps</Link></li>
-                <li><Link to="/battlefield/canadian_army">Canadian Army</Link></li>
-                <li><Link to="/battlefield/free_french_forces">Free French Forces</Link></li>
-                <li><Link to="/battlefield/british_commandos">British Commandos</Link></li>
-              </ul>
-              <h4 className="article-heading-4">Axis</h4>
-              <ul className="article-list">
-                <li><Link to="/battlefield/german_army">German Army</Link></li>
-                <li><Link to="/battlefield/imperial_japanese_navy">Imperial Japanese Navy</Link></li>
-                <li><Link to="/battlefield/royal_italian_army">Royal Italian Army</Link></li>
-                <li><Link to="/battlefield/german_elite_forces">German Elite Forces</Link></li>
+
+              <ul className="article-list article-list__column">
+                <li>
+                  Allies
+                  <ul>
+                    <li><Link to="/battlefield/british_army">British Army</Link></li>
+                    <li><Link to="/battlefield/red_army">Red Army</Link></li>
+                    <li><Link to="/battlefield/united_states_army">United States Army</Link></li>
+                    <li><Link to="/battlefield/united_states_marine_corps">United States Marine Corps</Link></li>
+                    <li><Link to="/battlefield/canadian_army">Canadian Army</Link></li>
+                    <li><Link to="/battlefield/free_french_forces">Free French Forces</Link></li>
+                    <li><Link to="/battlefield/british_commandos">British Commandos</Link></li>
+                  </ul>
+                </li>
+                <li>
+                  Axis
+                  <ul>
+                    <li><Link to="/battlefield/german_army">German Army</Link></li>
+                    <li><Link to="/battlefield/imperial_japanese_navy">Imperial Japanese Navy</Link></li>
+                    <li><Link to="/battlefield/royal_italian_army">Royal Italian Army</Link></li>
+                    <li><Link to="/battlefield/german_elite_forces">German Elite Forces</Link></li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
