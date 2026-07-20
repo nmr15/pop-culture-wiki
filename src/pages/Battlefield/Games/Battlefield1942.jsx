@@ -116,6 +116,36 @@ const Battlefield1942 = () =>
             retrospectively considered to be one the best video games of all time.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Gameplay"} />
+          <div>
+            <div className="img-left img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/BF1942_screencap2.jpg/250px-BF1942_screencap2.jpg" alt="Gameplay screenshot" />
+              <p>Battlefield 1942 features combat both as infantry and in vehicles.</p>
+            </div>
+            <p>
+              The gameplay of Battlefield 1942 generally has a more co-operative focus than previous games of this nature, as it is not only
+              important to kill the opposition but to also hold certain "control points" around the map. Capturing control points allows the team to
+              reinforce itself by enabling players and vehicles to spawn in a given area. Additionally, capturing and controlling control points also
+              reduces enemy reinforcements. Battlefield 1942 was one of the first mainstream FPS games to actively encourage teamwork and coordination
+              over individual "lone wolf" style gameplay.
+            </p>
+            <p>
+              The default gameplay mode, <Link to="/battlefield/conquest">Conquest</Link>, centers on capturing "control points" which serve as
+              locations for respawning, often referred to as "spawn points." Rounds have a time limit and each team stats the round with a set number
+              of tickets which are consumed when members of that team respawn. If a team does not control and spawn oints, members cannot spawn unless the
+              remaining living members capture one. If a team reaches zero tickets, members of that team cannot respawn for the rest of the match.
+            </p>
+            <p>
+              A team loses tickets when its members are killed, but also at a fixed rate when the other team holds a greater number of capture points;
+              the greater the disparity in held capture points, the greater the rate of ticket loss to the disadvantaged side, which encourages teams
+              to focus on taking and defending control points. A match is won by killing all members of the opposing team when they either have no
+              remaining tickets, or no available spawn points. Sometimes, players on a losing team may hide instead of fight when their team's tickets
+              and respawn points are reduced to zero, forcing the winning team to methodically search for them in order to end the round before the
+              round timer expires.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
