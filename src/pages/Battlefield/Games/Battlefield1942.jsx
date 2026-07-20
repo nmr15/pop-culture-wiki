@@ -144,6 +144,54 @@ const Battlefield1942 = () =>
               and respawn points are reduced to zero, forcing the winning team to methodically search for them in order to end the round before the
               round timer expires.
             </p>
+
+            <h3 className="article-heading-3" id="1.1">Roles</h3>
+            <p>
+              The player can choose to play as wither the Allied team or the Axis team. The Allies consist of the United States, the United Kingdom,
+              Canda, and the Soviet Union, while the Axis consists of Nazi Germany and Imperial Japan. Regardless of which nation is chosen by the
+              player, there are five different infrantry roles the player can select from: Scout, Assault, Medic, Anti-Tank, and Engineer.
+            </p>
+            <p>
+              Each roles has its own strength and weakness. For example, the scout role has long-range surveillance, high stopping power and the
+              ability to provide spotting for artillery shelling by another player. Assault is the primary anti-infantry role, focused on directly
+              engaging other players at short and medium range. The Anti-tank role specializes in attacking tanks and other vehicles, but their main
+              weapon is inaccurate against moving enemy infantry. The Medic role has the ability to heal players including themselves, but their
+              sub-machine gun has less stopping power than the Assault class's rifle. The Engineer has the ability to repair damanged vehicles and
+              stationary weapons, and they also have the ability to deploy explosives, which are highly effective against both enemy infantry and
+              vehicles, and land mines, which destroy enemy vehicles on contact.
+            </p>
+          </div>
+
+          <div>
+            <Heading2 id={2} title={"Development"} />
+            <div>
+              <p>
+                In 2000, DICE acquired Refraction Games (developers of Codename Eagle) and inherited the in-development Battlefield 1942. The game was
+                originally proposed by DICE as a GameCube exclusive. Though satisfied with the proposal, negotiations never made it further because
+                Nintendo had no online strategy. Thegame was developed by a team of 14 people at Digital Illusions. Battlefield 1942 was built on the formula
+                of the less well-known and successful Codename Eagle video game, set in an alternate history World War I. It featured single and
+                multiplayer modes. The earlier Refractor 1 engine had more arcade-style physics and a less realistic focus than its successor,
+                Refractor 2, which was used in Battlefield 2. A Macintosh-compatible version of Battlefield 1942 was made and reelased by Aspyr Media in
+                mid-2004. An Xbox version of the game was also announced in early 2001 but was cancelled almost two years later so Electronic Arts could
+                more closely work on an expansion pack for the PC.
+              </p>
+            </div>
+          </div>
+
+          <div>
+            <Heading2 id={3} title={"Classes"} />
+            <div>
+              <p>
+                Battlefield 1942 features a class-based system, with a total of five classes. Each class has their respective role on the battlefield.
+              </p>
+              <ul className="article-list">
+                <li><Link to="/battlefield/scout">Scout</Link></li>
+                <li><Link to="/battlefield/assault">Assault</Link></li>
+                <li><Link to="/battlefield/anti-tank">Anti-Tank</Link></li>
+                <li><Link to="/battlefield/medic">Medic</Link></li>
+                <li><Link to="/battlefield/engineer">Engineer</Link></li>
+              </ul>
+            </div>
           </div>
         </div>
       </main>
