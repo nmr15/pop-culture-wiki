@@ -193,6 +193,45 @@ const Battlefield1942 = () =>
               </ul>
             </div>
           </div>
+
+          <div>
+            <Heading2 id={4} title={"Factions"} />
+            <div>
+              <p>
+                Different Allies and Axis forces are always pitted against each other, with specific factions facing each other based on the location
+                of the map. On <Link to="/battlefield/wake_island">Wake Island</Link>, for instance, US forces always engage with Japanese forces as it
+                takes place in the Pacific Theater.
+              </p>
+              <h4 className="article-heading-4">Allies</h4>
+              <ul className="article-list">
+                <li><Link to="/battlefield/british_army">British Army</Link></li>
+                <li><Link to="/battlefield/red_army">Red Army</Link></li>
+                <li><Link to="/battlefield/united_states_army">United States Army</Link></li>
+                <li><Link to="/battlefield/united_states_marine_corps">United States Marine Corps</Link></li>
+                <li><Link to="/battlefield/canadian_army">Canadian Army</Link></li>
+                <li><Link to="/battlefield/free_french_forces">Free French Forces</Link></li>
+                <li><Link to="/battlefield/british_commandos">British Commandos</Link></li>
+              </ul>
+              <h4 className="article-heading-4">Axis</h4>
+              <ul className="article-list">
+                <li><Link to="/battlefield/german_army">German Army</Link></li>
+                <li><Link to="/battlefield/imperial_japanese_navy">Imperial Japanese Navy</Link></li>
+                <li><Link to="/battlefield/royal_italian_army">Royal Italian Army</Link></li>
+                <li><Link to="/battlefield/german_elite_forces">German Elite Forces</Link></li>
+              </ul>
+            </div>
+          </div>
+
+          <div>
+            <Heading2 id={5} title={"Maps and Gamemodes"} />
+            <div>
+              <p>
+                All maps are based on the actual battles of the war. The base game originally featured a total of sixteen maps, but this was later
+                expanded to twenty-one through later patches. The game features a total of five game types, all of which promote the use of teamwork
+                to complete objectives.
+              </p>
+            </div>
+          </div>
         </div>
       </main>
     </>
