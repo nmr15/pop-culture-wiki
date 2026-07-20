@@ -237,6 +237,55 @@ const Battlefield1942 = () =>
                 expanded to twenty-one through later patches. The game features a total of five game types, all of which promote the use of teamwork
                 to complete objectives.
               </p>
+
+              <ul className="article-list">
+                <li>
+                  Battlefield 1942
+                  <ul>
+                    <li>
+                      Pacific:
+                      <ul>
+                        <li><Link to="/battlefield/wake_island">Wake Island</Link></li>
+                        <li><Link to="/battlefield/battle_of_midway">Battle of Midway</Link></li>
+                        <li><Link to="/battlefield/guadalcanal">Guadalcanal</Link></li>
+                        <li><Link to="/battlefield/iwo_jima">Iwo Jima</Link></li>
+                        <li><Link to="/battlefield/coral_sea">Coral Sea</Link></li>
+                        <li><Link to="/battlefield/invasion_of_the_philippines">Invasion of the Philippines</Link></li>
+                      </ul>
+                    </li>
+                    <li>
+                      Western Europe
+                      <ul>
+                        <li><Link to="/battlefield/omaha_beach">Omaha Beach</Link></li>
+                        <li><Link to="/battlefield/bocage">Bocage</Link></li>
+                        <li><Link to="/battlefield/operation_market_garden">Operation Market Garden</Link></li>
+                        <li><Link to="/battlefield/battle_of_the_bulge">Battle of the Bulge</Link></li>
+                        <li><Link to="/battlefield/battle_of_britain">Battle of Britain</Link></li>
+                        <li><Link to="/battlefield/liberation_of_coen">Liberation of Coen</Link></li>
+                      </ul>
+                    </li>
+                    <li>
+                      Eastern Europe
+                      <ul>
+                        <li><Link to="/battlefield/kursk">Kursk</Link></li>
+                        <li><Link to="/battlefield/stalingrad">Stalingrad</Link></li>
+                        <li><Link to="/battlefield/kharkov">Kharkov</Link></li>
+                        <li><Link to="/battlefield/berlin">Berlin</Link></li>
+                      </ul>
+                    </li>
+                    <li>
+                      North Africa
+                      <ul>
+                        <li><Link to="/battlefield/operation_battleaxe">Operation Battleaxe</Link></li>
+                        <li><Link to="/battlefield/gazala">Gazala</Link></li>
+                        <li><Link to="/battlefield/tobruk">Tobruk</Link></li>
+                        <li><Link to="/battlefield/el_alamein">El Alamein</Link></li>
+                        <li><Link to="/battlefield/operation_aberdeen">Operation Aberdeen</Link></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
