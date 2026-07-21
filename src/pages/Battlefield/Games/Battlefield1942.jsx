@@ -206,7 +206,7 @@ const Battlefield1942 = () =>
               <ul className="article-list article-list__column">
                 <li>
                   Allies
-                  <ul>
+                  <ul className="article-sublist">
                     <li><Link to="/battlefield/british_army">British Army</Link></li>
                     <li><Link to="/battlefield/red_army">Red Army</Link></li>
                     <li><Link to="/battlefield/united_states_army">United States Army</Link></li>
@@ -218,7 +218,7 @@ const Battlefield1942 = () =>
                 </li>
                 <li>
                   Axis
-                  <ul>
+                  <ul className="article-sublist">
                     <li><Link to="/battlefield/german_army">German Army</Link></li>
                     <li><Link to="/battlefield/imperial_japanese_navy">Imperial Japanese Navy</Link></li>
                     <li><Link to="/battlefield/royal_italian_army">Royal Italian Army</Link></li>
@@ -241,10 +241,10 @@ const Battlefield1942 = () =>
               <ul className="article-list">
                 <li>
                   Battlefield 1942
-                  <ul>
+                  <ul className="article-sublist">
                     <li>
                       Pacific:
-                      <ul>
+                      <ul className="article-sublist-2">
                         <li><Link to="/battlefield/wake_island">Wake Island</Link></li>
                         <li><Link to="/battlefield/battle_of_midway">Battle of Midway</Link></li>
                         <li><Link to="/battlefield/guadalcanal">Guadalcanal</Link></li>
@@ -255,7 +255,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       Western Europe
-                      <ul>
+                      <ul className="article-sublist-2">
                         <li><Link to="/battlefield/omaha_beach">Omaha Beach</Link></li>
                         <li><Link to="/battlefield/bocage">Bocage</Link></li>
                         <li><Link to="/battlefield/operation_market_garden">Operation Market Garden</Link></li>
@@ -266,7 +266,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       Eastern Europe
-                      <ul>
+                      <ul className="article-sublist-2">
                         <li><Link to="/battlefield/kursk">Kursk</Link></li>
                         <li><Link to="/battlefield/stalingrad">Stalingrad</Link></li>
                         <li><Link to="/battlefield/kharkov">Kharkov</Link></li>
@@ -275,7 +275,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       North Africa
-                      <ul>
+                      <ul className="article-sublist-2">
                         <li><Link to="/battlefield/operation_battleaxe">Operation Battleaxe</Link></li>
                         <li><Link to="/battlefield/gazala">Gazala</Link></li>
                         <li><Link to="/battlefield/tobruk">Tobruk</Link></li>
