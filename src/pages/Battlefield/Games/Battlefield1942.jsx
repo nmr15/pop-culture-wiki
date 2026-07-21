@@ -238,6 +238,7 @@ const Battlefield1942 = () =>
                 to complete objectives.
               </p>
 
+              <h4 className="article-heading-4">Maps</h4>
               <ul className="article-list">
                 <li>
                   Battlefield 1942
@@ -310,6 +311,18 @@ const Battlefield1942 = () =>
                     <li><Link to="/battlefield/raid_of_agheila">Raid of Agheila</Link></li>
                   </ul>
                 </li>
+              </ul>
+
+              <h4 className="article-heading-4">Gamemodes</h4>
+              <ul className="article-list article-list__colmuns2">
+                <li><Link to="/battlefield/conquest">Conquest</Link></li>
+                <li><Link to="/battlefield/conquest_assault">Conquest Assault</Link></li>
+                <li><Link to="/battlefield/double_assault">Double Assault</Link></li>
+                <li><Link to="/battlefield/team_deathmatch">Team Deathmatch</Link></li>
+                <li><Link to="/battlefield/capture_the_flag">Capture the Flag</Link></li>
+                <li><Link to="/battlefield/conquest_co-op">Conquest Co-op</Link></li>
+                <li><Link to="/battlefield/campaign">Campaign</Link></li>
+                <li><Link to="/battlefield/objective_mode">Objective Mode</Link></li>
               </ul>
             </div>
           </div>

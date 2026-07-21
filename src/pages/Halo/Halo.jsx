@@ -124,6 +124,22 @@ const Halo = () =>
               from the <Link>Ark</Link>, a repository of sentient life outside the range of the Halos. Exhausting all other options, the Array was
               activated, ending the Flood outbreak. The surviving Forerunners reseeded life and left the Milky Way galaxy.
             </p>
+            <div className="img-right img-card">
+              <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Halo3_ark-and-halo-reborn.png/250px-Halo3_ark-and-halo-reborn.png" alt="Human ship approaches a Halo structure" />
+              <p>A human ship approaches a Halo megastructure under construction. Portions of the Ark are visible at the bottom. From the video game Halo 3.</p>
+            </div>
+            <p>
+              Nearly a hundred thousand years later, in the 26th century, humanity, under the auspices of the United Earth Government, or UEG, and their
+              United Nations Space Command, or <Link to="/halo/unsc">UNSC</Link>, colonizes many worlds thanks to the development of faster-than-light
+              "slipstream space" (i.e., hyperspace) travel. Tensions between the government and colonies desiring independence sparks violence. The
+              UNSC's <Link to="/halo/oni">Office of Naval Intelligence</Link> (ONI) creates the <Link to="/halo/spartan_ii">SPARTAN-II</Link> Project to
+              create an elite group of enhanced supersoldiers to suppress the rebellions. In the year 2525, human worlds come under attack by a
+              theocratic alliance of alien races known as the <Link to="/halo/covenant">Covenant</Link>, whose leadership declares humanity an affront to
+              their gods, the <Link to="/halo/forerunner">Forerunners</Link>. The Covenant began a genocidal holy war. Their superior technology and numbers
+              prove to be deisive advantages; although effective, the Spartans are too few to turn the tide of battle in humanity's favor. After the
+              Covenant invaded <Link to="/halo/reach">Reach</Link> in 2552, the UNSC's last major stronghold besides Earth,
+              <Link to="/halo/master_chief"> Master Chief Petty Officre John-117</Link> was left as one of the few remaining Spartans.
+            </p>
           </div>
         </div>
         <div>
