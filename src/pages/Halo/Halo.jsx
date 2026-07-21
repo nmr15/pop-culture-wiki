@@ -140,6 +140,22 @@ const Halo = () =>
               Covenant invaded <Link to="/halo/reach">Reach</Link> in 2552, the UNSC's last major stronghold besides Earth,
               <Link to="/halo/master_chief"> Master Chief Petty Officre John-117</Link> was left as one of the few remaining Spartans.
             </p>
+            <p>
+              The rediscovery of the Halo rings prompts a desperate battle against the Covenant, who believe they are instruments of transcendence, not
+              destruction. Master Chief and his artificial intelligence <Link to="/halo/cortana">Cortana</Link> are instrumental in the destruction of a
+              Halo ring to stop the Covenant and the threat of the Flood. Turmoil within the Covenant and the revelation of the Halo Array's true purpose
+              leads to the Covenant splintering into civil war. The disgraced former Covenant commander known as the
+              <Link to="/halo/arbiter"> Arbiter</Link>, along with many of his species, helps the humans stop the Covenant leadership from activating the
+              Halo Array via the <Link to="/halo/ark">Ark</Link>. The Human-Covenant War ends.
+            </p>
+            <p>
+              In the post-war era, the UNSC trains a new generation of Spartans, and tensions between the UNSC and rebels resumes. The Master Chief and
+              Cortana accidentally free the Forerunner commander Didact and he briefly returns to assert supremacy over humanity. Master Chief and Cortana
+              halt his plans, although Cortana is initially believed dead in the attempt. Cortana's survival through the Domain leads her to break with the
+              UNSC and assert a new hegemony over the galaxy, with artificial intelligence (the "Creator") in control. After two years of a scattered war
+              between Cortana and the UNSC, Cortana attacks the Banished, a mercenary organization of former Covenant races. The Banished win the
+              resultant conflict, terminating Cortana and battling the UNSC for control of Zeta Halo.
+            </p>
           </div>
         </div>
         <div>
