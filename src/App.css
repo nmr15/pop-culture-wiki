@@ -356,6 +356,11 @@ p
   padding: .5rem 0
 }
 
+.article-list__columns2
+{
+  column-count: 2;
+}
+
 .article-sublist
 {
   margin-left: 1.5rem;

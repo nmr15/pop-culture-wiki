@@ -203,10 +203,10 @@ const Battlefield1942 = () =>
                 takes place in the Pacific Theater.
               </p>
 
-              <ul className="article-list article-list__column">
+              <ul className="article-list">
                 <li>
                   Allies
-                  <ul className="article-sublist">
+                  <ul className="article-sublist article-list__columns2">
                     <li><Link to="/battlefield/british_army">British Army</Link></li>
                     <li><Link to="/battlefield/red_army">Red Army</Link></li>
                     <li><Link to="/battlefield/united_states_army">United States Army</Link></li>
@@ -218,7 +218,7 @@ const Battlefield1942 = () =>
                 </li>
                 <li>
                   Axis
-                  <ul className="article-sublist">
+                  <ul className="article-sublist article-list__columns2">
                     <li><Link to="/battlefield/german_army">German Army</Link></li>
                     <li><Link to="/battlefield/imperial_japanese_navy">Imperial Japanese Navy</Link></li>
                     <li><Link to="/battlefield/royal_italian_army">Royal Italian Army</Link></li>
@@ -244,7 +244,7 @@ const Battlefield1942 = () =>
                   <ul className="article-sublist">
                     <li>
                       Pacific:
-                      <ul className="article-sublist-2">
+                      <ul className="article-sublist-2 article-list__columns2">
                         <li><Link to="/battlefield/wake_island">Wake Island</Link></li>
                         <li><Link to="/battlefield/battle_of_midway">Battle of Midway</Link></li>
                         <li><Link to="/battlefield/guadalcanal">Guadalcanal</Link></li>
@@ -255,7 +255,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       Western Europe
-                      <ul className="article-sublist-2">
+                      <ul className="article-sublist-2 article-list__columns2">
                         <li><Link to="/battlefield/omaha_beach">Omaha Beach</Link></li>
                         <li><Link to="/battlefield/bocage">Bocage</Link></li>
                         <li><Link to="/battlefield/operation_market_garden">Operation Market Garden</Link></li>
@@ -266,7 +266,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       Eastern Europe
-                      <ul className="article-sublist-2">
+                      <ul className="article-sublist-2 article-list__columns2">
                         <li><Link to="/battlefield/kursk">Kursk</Link></li>
                         <li><Link to="/battlefield/stalingrad">Stalingrad</Link></li>
                         <li><Link to="/battlefield/kharkov">Kharkov</Link></li>
@@ -275,7 +275,7 @@ const Battlefield1942 = () =>
                     </li>
                     <li>
                       North Africa
-                      <ul className="article-sublist-2">
+                      <ul className="article-sublist-2 article-list__columns2">
                         <li><Link to="/battlefield/operation_battleaxe">Operation Battleaxe</Link></li>
                         <li><Link to="/battlefield/gazala">Gazala</Link></li>
                         <li><Link to="/battlefield/tobruk">Tobruk</Link></li>
@@ -283,6 +283,31 @@ const Battlefield1942 = () =>
                         <li><Link to="/battlefield/operation_aberdeen">Operation Aberdeen</Link></li>
                       </ul>
                     </li>
+                  </ul>
+                </li>
+                <li>
+                  Road to Rome
+                  <ul className="article-sublist article-list__columns2">
+                    <li><Link to="/battlefield/battle_for_anzio">Battle for Anzio</Link></li>
+                    <li><Link to="/battlefield/battle_for_solerno">Battle for Solerno</Link></li>
+                    <li><Link to="/battlefield/monte_cassino">Monte Cassino</Link></li>
+                    <li><Link to="/battlefield/monte_santa_croce">Monte Santa Croce</Link></li>
+                    <li><Link to="/battlefield/operation_baytown">Operation Baytown</Link></li>
+                    <li><Link to="/battlefield/operation_husky">Operation Husky</Link></li>
+                  </ul>
+                </li>
+                <li>
+                  Secret Weapons of WWII
+                  <ul className="article-sublist article-list__columns2">
+                    <li><Link to="/battlefield/eagle's_nest">Eagle's Nest</Link></li>
+                    <li><Link to="/battlefield/essen">Essen</Link></li>
+                    <li><Link to="/battlefield/gothic_line">Gothic Line</Link></li>
+                    <li><Link to="/battlefield/hellendoorn">Hellendoorn</Link></li>
+                    <li><Link to="/battlefield/kbely_airfield">Kbely Airfield</Link></li>
+                    <li><Link to="/battlefield/mimoyecques">Mimoyeques</Link></li>
+                    <li><Link to="/battlefield/Peenemunde">Peenemunde</Link></li>
+                    <li><Link to="/battlefield/telemark_research_base">Telemark Research Base</Link></li>
+                    <li><Link to="/battlefield/raid_of_agheila">Raid of Agheila</Link></li>
                   </ul>
                 </li>
               </ul>
