@@ -15,6 +15,56 @@ const RocketMCU = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+
+          <Collapse 
+            id="2"
+            item="Powers and abilities"
+            sub={[
+              {id: "2.1", title: "Powers"},
+              {id: "2.2", title: "Abilities"}
+            ]}
+          />
+          <Collapse 
+            id="3"
+            item="Equipment"
+            sub={[
+              {id: "3.1", title: "Weapons"},
+              {id: "3.2", title: "Other Equipment"},
+              {id: "3.3", title: "Vehicles"}
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Facilities"
+            sub={[
+              {id: "4.1", title: "Prisons"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Alternate versions"
+            sub={[
+              {id: "5.1", title: "Thor's party"},
+              {id: "5.2", title: "Cyborg Rocket"},
+              {id: "5.3", title: "Zombie Apocalypse"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Concept and creation</a></li>
+          <li className="sidebar-list-item"><a href="#7">Characterization</a></li>
+          <Collapse 
+            id="8"
+            item="In other media"
+            sub={[
+              {id: "8.1", title: "Theme parks"}
+            ]}
+          />
+          <Collapse 
+            id="9"
+            item="Reception"
+            sub={[
+              {id: "9.1", title: "Critical reception"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
