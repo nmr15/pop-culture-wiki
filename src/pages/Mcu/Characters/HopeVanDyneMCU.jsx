@@ -82,7 +82,7 @@ const HopeVanDyneMCU = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Sam_Wilson_Infobox.jpg" alt="Hope Van Dyne" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Evangeline_Lilly_as_Wasp.jpeg/250px-Evangeline_Lilly_as_Wasp.jpeg" alt="Hope Van Dyne" />
                 </span>
               </td>
             </tr>
