@@ -102,7 +102,34 @@ const HopeVanDyneMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Hope van Dyne</b> is a fictional character portrayed primarily by <Link to="/evangeline_lilly">Evangeline Lilly</Link> in the
+            <Link to="/mcu"> Marvel Cinematic Universe</Link>, loosely based on the <Link to="/marvelcomics">Marvel Comics</Link> character
+            <Link to="/marvelcomics/hope_pym"> Hope Pym</Link>. Portrayed as the daughter of <Link to="/mcu/hank_pym">Hank Pym</Link> and
+            <Link to="/mcu/janey_van_dyne"> Janet van Dyne</Link>, she was a senior board member of her father's company,
+            <Link to="/mcu/pym_technologies"> Pym Technologies</Link>, and later inherits the <b>Wasp</b> alias from her mother, using a suit
+            containing <Link to="/mcu/pym_particles">her father's technology</Link> to shrink and fly with insect-themed wings. Her appearances have
+            been praised for their authentic and relatable portrayal of the superheroine.
+          </p>
+          <p>
+            After rekindling her relationship with her father, Hope works with him to rescue her mother who was previously lost to the
+            <Link to="/mcu/quantum_realm"> Quantum Realm</Link>, and defeat various supervillains including
+            <Link to="/mcu/darren_cross"> Yellowjacket</Link>, and <Link to="/mcu/ava_starr">Ghost</Link>. Hope later falls victim to
+            <Link to="/mcu/the_blip"> The Blip</Link>, but is later restored to life and joins the <Link to="/mcu/avengers">Avengers</Link> in a battle
+            against <Link to="/mcu/thanos">Thanos</Link>. Afterwards, she buys back her father's company, renaming it the Pym van Dyne Foundation and
+            continues her relationship with <Link to="/mcu/scott_lang">Scott Lang</Link>, becoming a mothe figure to his daughter,
+            <Link to="/mcu/cassie_lang"> Cassie Lang</Link>. She is later trapped in the Quantum Realm alongisde her family and assists them in
+            defeating <Link to="/mcu/kang_the_conqueror">Kang the Conqueror</Link>.
+          </p>
+          <p>
+            Lilly first appeared as Hope in the 2015 film <Link to="/mcu/antman_film">Ant-Man</Link> and later in
+            <Link to="/mcu/antman_and_the_wasp"> Ant-Man and the Wasp, <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>, and
+            <Link to="/mcu/antman_and_the_wasp_quantumania"> Ant-Man and the Wasp: Quantumania. Madeleine McGraw portrayed a younger version of
+            Hope. Alternate versions of Hope appear in the <Link to="/disney/disney+">Disney+</Link> animated series
+            <Link to="/mcu/what_if"> What If...?</Link>, also voiced by Lilly and McGraw. Hope is noted for being the first titular superheroine in an
+            MCU film, preceding <Link to="/mcu/carol_danvers">Captain Marvel</Link>, <Link to="/mcu/natasha_romanoff">Black Widow</Link>, and
+            <Link to="/mcu/shuri"> Black Panther</Link>, and for inspiring the creation of comic superheroine Nadia van Dyne.
+          </p>
         </div>
       </main>
     </>
