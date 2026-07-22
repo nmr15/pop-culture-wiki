@@ -99,7 +99,24 @@ const IkarisMCU = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Ikaris</b> (portrayed by Richard Madden) is an Eternal who can fly and project cosmic energy beams from his eyes. He also has
+            superhuman strength and durability. Throughout history, Ikaris was <Link to="/mcu/sersi">Sersi</Link>'s romantic partner before leaving her
+            thousands of years ago. In 2024, after discovering that the Eternals' leader <Link to="/mcu/ajak">Ajak</Link> plans to stop the Emergence,
+            Ikaris feeds her to the Deviants before reuniting with the rest of the Eternals on Earth, betraying the team to uphold Arishem's instructions.
+            However, he is unable to bring himself to kill Sersi, and joins his fellow Eternals to form the Uni-Mind and stop the Emergence of Tiamut.
+            Guilt-ridden, Ikaris commits suicide by flying into the Sun.
+          </p>
+          <p>
+            Madden described the relationship between Ikaris and Sersi as having "a deep level of romance", and they are "two opposing sides of how they
+            connect with the world", referencing Sersi's growing love for humanity compared to Ikaris's indifference. Madden sought to portray the
+            character in a way that would not come across as being "bored of everything." Director Chloe Zhao was influenced by Zack Snyder's
+            interpretation of <Link>Superman</Link> in the film Man of Steel for its authenticity and realness.
+          </p>
+          <p>
+            As of 2026, the character has appeared in one project: the film <Link to="/mcu/eternals">Eternals</Link>. An alternate universe variant of
+            Ikaris appeared in one project: the Disney+ animated series <Link to="/mcu/marvel_zombies">Marvel Zombies</Link>.
+          </p>
         </div>
       </main>
     </>
