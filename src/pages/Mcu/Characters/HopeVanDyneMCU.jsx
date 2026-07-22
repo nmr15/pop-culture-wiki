@@ -123,8 +123,8 @@ const HopeVanDyneMCU = () =>
           </p>
           <p>
             Lilly first appeared as Hope in the 2015 film <Link to="/mcu/antman_film">Ant-Man</Link> and later in
-            <Link to="/mcu/antman_and_the_wasp"> Ant-Man and the Wasp, <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>, and
-            <Link to="/mcu/antman_and_the_wasp_quantumania"> Ant-Man and the Wasp: Quantumania. Madeleine McGraw portrayed a younger version of
+            <Link to="/mcu/antman_and_the_wasp"> Ant-Man and the Wasp</Link>, <Link to="/mcu/avengers_endgame">Avengers: Endgame</Link>, and
+            <Link to="/mcu/antman_and_the_wasp_quantumania"> Ant-Man and the Wasp: Quantumania</Link>. Madeleine McGraw portrayed a younger version of
             Hope. Alternate versions of Hope appear in the <Link to="/disney/disney+">Disney+</Link> animated series
             <Link to="/mcu/what_if"> What If...?</Link>, also voiced by Lilly and McGraw. Hope is noted for being the first titular superheroine in an
             MCU film, preceding <Link to="/mcu/carol_danvers">Captain Marvel</Link>, <Link to="/mcu/natasha_romanoff">Black Widow</Link>, and
