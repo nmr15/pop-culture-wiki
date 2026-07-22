@@ -205,11 +205,11 @@ const SamWilsonMCU = () =>
         <div className="div-top">
           <p>
             <b>Samuel Thomas "Sam" Wilson</b> is a fictional character portrayed by <Link to="/people/anthony_mackie">Anthony Mackie</Link> in the
-            
+            <Link to="/mcu"> Marvel Cinematic Universe</Link>, based on the 
           </p>
 
 
-          <p>
+          {/* <p>
             <b>Samuel Thomas "Sam" Wilson</b> is a former United States Air Force pararescue airman who wielded an experimental military wingsuit,
             operating under the callsign Falcon. Wilson decided to leave active duty when his wingman Ronald Riley was killed in action, instead choosing
             to help other veterans suffering from post-traumatic stress disorder. At this time, Wilson met <Link to="/mcu/steve_rogers">Steve Rogers</Link>
@@ -258,7 +258,7 @@ const SamWilsonMCU = () =>
             coming to fruition when Ross turned into the Red Hulk at a press conference and had gone on a rampage. Sam battled against Ross and
             got him to calm down, after which, Ross chose to turn himself in. Motivated by Ross' idea to restart the Avengers, Sam began by
             recruiting Torres.
-          </p>
+          </p> */}
         </div>
       </main>
     </>
