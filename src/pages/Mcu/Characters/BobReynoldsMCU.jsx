@@ -104,16 +104,18 @@ const BobReynoldsMCU = () =>
         </table>
         <div className="div-top">
           <p>
-            <b>Robert "Bob" Reynolds</b> is a former meth addict who took part in Project Sentry, an operation by <Link>O.X.E.</Link> designed to create the ultimate
-            superhero. Unlike the project's other test subjets, Reynolds survived the experiments and gained immense power, but he was deemed a failure due to the
-            instability caused by a combination of his new state coupled with his prior mental health issues and stored in the O.X.E. Vault with his memory partially
-            wiped. He was later freed during a conflict between <Link to="/mcu/yelena_bolova">Yelena Belova</Link>, <Link>U.S. Agent</Link>, and
-            <Link> Ghost</Link>, and had to join forces with them to escape. Reynolds soon discovered his abilities and was brought before
-            <Link> Valentina Allegra de Fontaine</Link>, who provided him with a suit and dubbed him <b>Sentry</b>. At Valentina's behest, he easily defeated
-            Yelena and the <Link>Thunderbolts</Link>; however, he soon grew uncontrollable, and his dark alter ego, <b>Void</b>, was unleashed, spreading darkness
-            across Manhattan and trapping the residents in pocket realms based on their individual negative memories. The Thunderbolts manage to help Bob free
-            himself from Void and return to normal, releasing Manhattan's residents. In the aftermath, Bob stayed with the Tunderbolts as they were redubbed the
-            New Avengers by Valentina, though he abstained from continuing to use his powers out of a worry that becoming Sentry again might allow Void to return.
+            <b>Robert "Bob" Reynolds</b> (portrayed by <Link to="/people/lewis_pullman">Lewis Pullman</Link>), also known as <b>Sentry</b>, is a
+            superpowered individual suffering from amnesia who is believed to be stronger than all of the <Link to="/mcu/avengers">Avengers</Link>
+            combined. He gained his powers from <Link to="/mcu/valentina_allegra_de_fontaine">Valentina Allegra de Fontaine</Link> and the
+            <Link to="/mcu/o.x.e."> O.X.E. Group</Link> after volunteering for their experimentation due to having developed a drug addiction. Initially
+            intending for him to replace the Avengers, his poor mental health leads him to develop and alter ego known as the <b>Void</b>, causing
+            everything to start being absorbed into a growing darkness until the <Link to="/mcu/thunderbolts_(team)">Thunderbolts</Link> talk him down
+            and help him regain control.
+            and help him regain control.
+          </p>
+          <p>
+            As of 2026, the character has appeared in one project: the film <Link to="/mcu/thunderbolts">Thunderbolts*</Link>. He will return in the film
+            <Link to="/mcu/avengers_doomsday"> Avengers: Doomsday</Link>.
           </p>
         </div>
       </main>
