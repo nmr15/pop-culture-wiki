@@ -684,8 +684,39 @@ const IronMan3 = () =>
               products, as well as an extended scene of Dr. Wu preparing to operate on Stark with his unnamed assistant played by Fan Bingbing. The film was titled
               onscreen as Iron Man Three.
             </p>
+            <p>
+              The film's premiere happened at the Grand Rex in Paris, on April 14, 2013, with Robert Downy Jr. and Gwyneth Paltrow in attendance. While the
+              UK premiere of the film was originally set for Aptil 17, the funeral of former British Prime Minister Margaret Thatcher taking place on that
+              date made the event be pushed to the following day. Downey, Ben Kingsley, andRebecca Hall were present for the advanced screening at London's
+              Odeon Leicester Square. The El Capitan theater in Hollywood, Los Angeles, hosted the United States premiere of Iron Man 3 on April 24. The
+              film opened in 46 countries through April 22-24, with the United States release, on 4,253 screens, happening one week later. Regal Cinema,
+              AMC Theatres, and Carmike Cinemas put presale tickets on hold, two weeks before the US premire, the cinemas were in a contract dispute with
+              Disney, who wished to receive more of the ticket sale profit than they currently did, largely based on the projected premiere-weekend intake
+              Iron Man 3 was expected to have. Carmike was the first to come to terms with Disney. It was later reported that Cinemark Theatres had also
+              stopped selling presale tickets, and Regal Cinemas had removed all marketing material for the film from its locations. On April 25, 2013,
+              Regal, AMC, and Disney ended their dispute, which allowed Regal and AMC to proceed with selling presale tickets again.
+            </p>
+            <p>
+              IMAX screenings began on April 25, 2013, internationally and May 3 in the United States. The film was shown in the 4DX format,
+              featuring strobe lights, tilting seats, blowing wind, fog, and odor effects in selected countries. In Japan, the technology opened its
+              first room at the Korona World theater in Nagoya, Japan with the release of the film. Iron Man 3 was the first film released in the
+              <Link to="/mcu/phase_two"> Phase Two</Link> of the MCU.
+            </p>
 
             <h3 className="article-heading-3" id="#6.2">Home media</h3>
+            <p>
+              Iron Man 3 was released by Walt Disney Studios Home Entertainment in digital download form on September 3, 2013. This was followed by the
+              film's release on Blu-ray, 3D Blu-ray, DVD, digital copy, and on demand on September 24, 2013. The home video release includes a
+              <Link to="/mcu/marvel_one-shot"> Marvel One-Shot</Link> short film titled <Link to="/mcu/agent_carter_(short_film)">Agent Carter</Link>
+              starring <Link to="/people/hayley_atwell">Hayley Atwell</Link> as <Link to="/mcu/peggy_carter">Peggy Carter</Link> from
+              <Link to="/mcu/captain_america_the_first_avenger"> Captain America: The First Avenger</Link>. It debuted atop the DVD and Blu-ray charts in
+              the United States, and second in the rental charts behind <Link to="/world_war_z/world_war_z_(film)">World War Z</Link>. Iron Man 3 has 
+              earned more than $82 million in home media sales in the U.S.
+            </p>
+            <p>
+              The film was also collected in a 13-disc box set titled "Marvel Cinematic Universe: Phase Two Collection", which includes all of the Phase
+              Two films in the Marvel Cinematic Universe. It was released on December 8, 2015.
+            </p>
           </div>
         </div>
         <div>
