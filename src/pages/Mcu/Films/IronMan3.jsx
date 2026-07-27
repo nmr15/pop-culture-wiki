@@ -765,6 +765,50 @@ const IronMan3 = () =>
               2013, and the country is the film's highest-grossing market after North America, followed by South Korea ($64.2 million) and the UK,
               Ireland, and Malta ($57.1 million).
             </p>
+
+            <h3 className="article-heading-3" id="7.2">Critical response</h3>
+            <p>
+              The review aggregator Rotten Tomatoes reported an approval rating of 79%, with an average score of 7/10, based on 327 reviews. The website's
+              critical consensus reads, "With the help of its charismatic lead, some impressive action sequences, and even a few surprises, Iron Man 3 is a
+              witty, entertaining adventure and a strong addition to the Marvel canon." Metacritic gave a weighted average score of 62 out of 100, based on
+              44 critics, indicating "generally favorable" reviews. Audiences polled by CinemaScore gave the film an average grade of "A" on an A+ to F
+              scale, the same score as both its predecessors.
+            </p>
+            <p>
+              In an early review by the trade magazine The Hollywood Reporter, Todd McCarthy said that, "After nearly crashing and burning on his last solo
+              flight in 2010, Iron Man returns refreshed and ready for action in this spirited third installment ... [that] benefits immeasurably from the
+              irreverent quicksilver humor of co-writer and director Shane Black. Calling the film "darker and more serious than its predecessors," Kenneth
+              Turan of the Los Angeles Times credited Black for "chang[ing] this billion-dollar-plus franchise's tone for the better while keeping the same
+              actor as Tony Stark. ... There is quite a bit of Black's trademark attitude and humor here as well, things like a throwaway reference to the
+              sci-fi classic Westworld and a goofy character who has Tony Stark's likeness tattooed on his forearm. Black and company throw all kinds of
+              stuff at the audience, and though it doesn't all work, a lot of it does and the attempt to be different and create unguessable twists is always
+              appreciated." Rafer Guzman of Newsday characterized Iron Man as "the anti-Batman, all zip and zingers. He's also, suddenly, rather
+              family-friendly. Some of the movie's best moments are shared by Stark and latchkey kid Harley (Ty Simpkins), who mock their budding father-son
+              relationship while acting it out." Psychology Today concluded that the film presented an accurate portrayal of Tony Stark's posttraumatic
+              stress disorder symptoms. Michael Arbeiter of Hollywood.com praised the film as "Marvel's First True Action-Comedy", commenting that "Tony's
+              camaraderie with preteen tech geek Harley Keener is one gigantic superhero/'90s-kid-sidekick laugh riot (the friggin' kid's name is Harley
+              Keener ... is there anything more '90s-kid-sidekick-sounding than that?!)."
+            </p>
+            <p>
+              Nick De Semlyen of the UK film magazine Empire had criticisms, even while giving the film four of five stars. Finding it "a swinging caper with
+              wit, balls, heart and exploding baubles," he said the villainous "super-soldiers who can regenerate body parts and survive astounding damage
+              [are] visually interesting ... but their motivation is murky and unconvincing." Likewise Joshua Rothkopf of Time Out New York bestowed 3 of 5
+              stars, saying, "Black has massively upped the verbal sparring and kept the broad inventiveness of comic-book malleability in mind. ... The most
+              wonderful of Black's surprises harkens back to his '80s reputation for character revision and is simply too good to ruin here." But, he asked,
+              "[W]hy, finally, are we down at the docks—in the dark, no less—for one of those lumbering climaxes involving swinging shipping cranes? The
+              energy bleeds out of the film; it's as if the producers were scared the crowd would riot over not enough digital fakeness."
+            </p>
+            <p>
+              Reacting more negatively, Stephen Whitty of The Star-Ledger found the film "slickly enjoyable" for the visual effects, but said, "[T]here's
+              something empty about the film. Like Tony's suits, it's shiny and polished. But this time, there's nobody inside ... This movie has neither
+              the emotionalism of the first film, nor the flashy villains of the second ... Tony's relationship with girlfriend Pepper Potts is in
+              inexplicable jeopardy—and then simply fixes itself. A supposedly cute kid sidekick—a true sign of authorial desperation—is introduced, and
+              then dropped." Michael Phillips of the Chicago Tribune echoed this, saying, "[I]n a gleefully cynical bid for a preteen audience (a few years
+              too young for the violence in Iron Man 3, I'd say), Stark befriends a bullied 8-year-old [sic] (Ty Simpkins) who becomes his tag-along and
+              sometime savior ... Stark no longer needs to be in the Iron Man suit. He's able to operate the thing remotely when needed. The movie's like
+              that too. It's decent superhero blockbustering, but rather remote and vaguely secondhand. At this point, even with Black's flashes of black
+              humor, the machinery is more or less taking care of itself, offering roughly half of the genial wit and enjoyment of the first Iron Man."
+            </p>
           </div>
         </div>
         <div>
