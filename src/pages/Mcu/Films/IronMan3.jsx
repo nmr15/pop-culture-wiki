@@ -814,13 +814,51 @@ const IronMan3 = () =>
         <div>
           <Heading2 id={8} title={"Themes and analysis"} />
           <div>
-            
+            <p>
+              Iron Man 3 focuses on contemporary U.S. foreign policy and its consequences. Like the first Iron Man film, it is about the military
+              industry complex. The main antagonist, Killian, tries to take over the US government and capitalize on the war on terror with a decoy
+              villain actor, the Mandarin; the supposed looming menace distracts the public from Killian's actions with a narrative of the constant threat
+              that also makes the war profitable. Using Stark as a metaphor of American society, Charlie Jane Anders of Gizmodo notes that the film differs
+              in the portrayal of the country from the previous two entries; whereas the previous films were about the guilt of ruining the areas in
+              foreign countries, Iron Man 3 is about the feeling of powerlessness, in that a trusted, wealthy, and individualistic celebrity like Stark
+              is unable to find a powerful terrorist such as the Mandarin.
+            </p>
+            <p>
+              The Mandarin, a cover-up adversary that is otherwide non-threatening, is a take on American's xenophobia towards Middle Easterns, and how
+              people's fear is taken advantage of to create and pass harmful policies. The Mandarin's characteristics are what the population expects from
+              a terrorist, such as a large beard, army pants, and comments he gives to the media that condemn the US. The twist that the Mandarin is fake
+              also plays on audiences' availability heuristics that make them think if someone is a danger or not.
+            </p>
+            <p>
+              Iron Man 3 is part of a trend in post-9/11 superhero films consisting of vulnerable, weak superheroes and complex antagonists with
+              realistic motivations. Psychologist and author Dr. Travis Langley believed Stark meets all of the Diagnostic and Statistical Manual of
+              Mental Disorders's criteria for post-traumatic stress disorder, and Star, like those with PTSD in real life, denies he could have it.
+              Stark enacts its symptoms, such as anxiety attacks, hypervigilance, frequent nightmares, and an inability to be in the public; this
+              deviation from most portrayals of not only superheroes but also strong male leads in general, where they are not traumatized from
+              perilous situations.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={9} title={"Future"} />
           <div>
-            
+            <h3 className="article-heading-3" id="9.1">Potential sequel</h3>
+            <p>
+              In March 2013, Black stated that Downey's original contract with Marvel Studios, which expired after the release of Iron Man 3, might be
+              extended in order for the actor to appear in a second Avengers film and at least one more Iron Man film. That April, Cheadle said that
+              Iron Man 3 could be the final film in the series, but acknowledged that he was open to reprise in further Iron Man or other MCU projects.
+              Although Downey said in 2014 that there was no plan for a fourth Iron Man film, he later stated that he was open to reprise his role.
+              After the death of Tony Stark in Avengers: Endgame, co-screenwriter Stephen McFeely said, "You would've already had Iron Man 4 if it was any
+              othe studio", remarking that it was a bold move by Marvel to kill off the character.
+            </p>
+
+            <h3 className="article-heading-3" id="9.2">Marvel One-Shot</h3>
+            <p>
+              In February 2014, Marvel released the One-Shot film, <Link to="/mcu/all_hail_the_king">All Hail the King</Link>, on
+              <Link to="/mcu/thor_the_dark_world"> Thor: The Dark World</Link>'s home media, featuring Kingsley reprising his role as Trevor Slattery. It
+              continues Slattery's story from the end of the film, revealing that the <Link to="/mcu/xu_wenwu">real Mandarin</Link> actually exists in
+              the MCU.
+            </p>
           </div>
         </div>
       </main>
