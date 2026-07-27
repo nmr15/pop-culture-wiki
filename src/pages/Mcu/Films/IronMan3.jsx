@@ -861,6 +861,54 @@ const IronMan3 = () =>
             </p>
           </div>
         </div>
+        <div>
+          <div className="table-center">
+            <thead>
+              <tr>
+                <th colspan="2">Iron Man 3</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Characters</td>
+              </tr>
+              <tr>
+                <td>Locations</td>
+                <td>
+                  <div className="table-list">
+                    <Link to="/mcu/tony_stark's_mansion">Tony Stark's Mansion</Link>
+                    <Link to="/mcu/stark_industries_headquarters">Stark Industries Headquarters</Link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>Items</td>
+                <td>
+                  <div className="table-list">
+                    <Link to="/mcu/war_machine_armor_mark_ii">War Machine Armor Mark II</Link>
+                    <Link to="/mcu/arc_reactor">Arc Reactor</Link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>Iron Man armors</td>
+              </tr>
+              <tr>
+                <td>Organizations</td>
+                <td>
+                  <div className="table-list">
+                    <Link to="/mcu/stark_industries">Stark Industries</Link>
+                    <Link to="/mcu/a.i.m.">A.I.M.</Link>
+                    <Link to="/mcu/roxxon_corporation">Roxxon Corporation</Link>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </div>
+        </div>
+        <div>
+          <TableMcu />
+        </div>
       </main>
     </>
   )
