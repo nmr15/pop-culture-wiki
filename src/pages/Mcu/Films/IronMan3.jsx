@@ -876,8 +876,8 @@ const IronMan3 = () =>
                 <td>Locations</td>
                 <td>
                   <div className="table-list">
-                    <Link to="/mcu/tony_stark's_mansion">Tony Stark's Mansion</Link>
-                    <Link to="/mcu/stark_industries_headquarters">Stark Industries Headquarters</Link>
+                    <Link to="/mcu/tony_stark's_mansion" className="table-list-link">Tony Stark's Mansion</Link>
+                    <Link to="/mcu/stark_industries_headquarters" className="table-list-link">Stark Industries Headquarters</Link>
                   </div>
                 </td>
               </tr>
@@ -885,8 +885,8 @@ const IronMan3 = () =>
                 <td>Items</td>
                 <td>
                   <div className="table-list">
-                    <Link to="/mcu/war_machine_armor_mark_ii">War Machine Armor Mark II</Link>
-                    <Link to="/mcu/arc_reactor">Arc Reactor</Link>
+                    <Link to="/mcu/war_machine_armor_mark_ii" className="table-list-link">War Machine Armor Mark II</Link>
+                    <Link to="/mcu/arc_reactor" className="table-list-link">Arc Reactor</Link>
                   </div>
                 </td>
               </tr>
@@ -897,9 +897,9 @@ const IronMan3 = () =>
                 <td>Organizations</td>
                 <td>
                   <div className="table-list">
-                    <Link to="/mcu/stark_industries">Stark Industries</Link>
-                    <Link to="/mcu/a.i.m.">A.I.M.</Link>
-                    <Link to="/mcu/roxxon_corporation">Roxxon Corporation</Link>
+                    <Link to="/mcu/stark_industries" className="table-list-link">Stark Industries</Link>
+                    <Link to="/mcu/a.i.m." className="table-list-link">A.I.M.</Link>
+                    <Link to="/mcu/roxxon_corporation" className="table-list-link">Roxxon Corporation</Link>
                   </div>
                 </td>
               </tr>
