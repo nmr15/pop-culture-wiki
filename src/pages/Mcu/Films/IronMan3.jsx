@@ -861,7 +861,7 @@ const IronMan3 = () =>
             </p>
           </div>
         </div>
-        <div>
+        {/* <div>
           <div className="table-center">
             <thead>
               <tr>
@@ -905,7 +905,7 @@ const IronMan3 = () =>
               </tr>
             </tbody>
           </div>
-        </div>
+        </div> */}
         <div>
           <TableMcu />
         </div>
