@@ -452,6 +452,15 @@ const ThorTheDarkWorld = () =>
               entered early negotiations to direct the Thor sequel. The film would have marked Kirk's first time directing a big-budget motion picture,
               after having directed television series for HBO, Showtime, and the BBC, including Game of Thrones.
             </p>
+            <p>
+              In September 2011, Tom Hiddleston confirmed he would return in the sequel, speculating that in the film, "Loki will have to take
+              responsibility for what he's done." Patty Jenkins, the director of Monster, and the pilot episode of AMC's The Killing, entered early
+              negotiations with Marvel Studios and Disney to direct the film, after Kirk had passed due to contractual sticking points that arose during
+              negotiations. Later in the month, Feige stated the sequel would "take Thor literally to other worlds" and would "primarily be the journey
+              of that character, of he and Jane Foster and how the new dynamic with his father is working out, as well as what are the broader stakes
+              for The Nine Worlds." On October 13, 2011, Marvel confirmed that Jenkins would direct the sequel and Natalie Portman would return to star.
+              Disney also moved the release date for the film to November 15, 2013.
+            </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>

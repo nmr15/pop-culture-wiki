@@ -308,6 +308,38 @@ const TonyStarkMCU = () =>
             {/* 1.1 */}
             <h3 className="article-heading-3" id="1.1">Early life</h3>
             <h4 className="article-heading-4" id="1.1.1">Troubled childhood</h4>
+            <div className="img-left img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/14/IMPUBID002_int_LR-6.jpg" alt="Howard yells at Tony" />
+              <p>Tony is yelled at by his father.</p>
+            </div>
+            <p>
+              Tony Stark was born on Friday, May 29, 1970, in Manhattan, New York City, to <Link to="/mcu/howard_stark">Howard</Link> and
+              <Link to="/mcu/maria_stark"> Maria</Link> Stark. Tony's early life was often dominated by the absence of his father, who he would later
+              describe as both 'cold' and 'calculating'. Growing up, Tony had issues with Howard, who never told his son that he loved, or even liked him.
+              Since Tony was so young, Howard could not tell his son his plans for him. Howard constantly talked about his admiration for
+              <Link to="/mcu/steve_rogers"> Captain America</Link>, which caused Tony to develop hatred and resentment towards the super soldier. On one
+              occasion, a young Tony was playing with a remote control car when he accidentally drove the toy into Howard's foot. Howard slapped it out of
+              his hand in a fit of rage and told him to not have him deal with any nonsense. Tony ran outside and repeated that he wanted to back to school.
+              His butler, <Link to="/mcu/edwin_jarvis">Edwin Jarvis</Link>, comforted him, saying that a father and son relationship is difficult to
+              maneuver from both sides. On another occasion, his father scolded him for playing with his toys on the Stark Expo map during Howard's filming
+              of the advertisement. However, Tony had a loving relationship with his mother, who was more gentle and nurturing; he enjoyed hearing Maria
+              play the piano.
+            </p>
+            <p>
+              At a young age, Tony quickly stole the spotlight with his brilliant and unique mind. When he was four years olf, he designed his first
+              circuit board. When he was almost seven, he built a V8 motorbike engine. One thing about Tony's childhood that annoyed him was the nanny who
+              cared for him until he was fourteen. Tony attended Phillips Academy in Andover from 1977 to 1984. While he was in high school, Tony hacked
+              into the Pentagon on a dare by some friends. In 1984, he was admitted early into the Massachusetts Institute of Technology, where he met
+              <Link to="/mcu/james_rhodes"> James Rhodes</Link> and they became lifelong best friends.
+            </p>
+            <p>
+              At sixteen, Tony won the 4th Annual MIT Robot Design Award, which was his fourth consecutive time winning, after inventing robots which he
+              named <Link to="/mcu/dum-e">Dum-E</Link> and U. In 1987, when he was seventeen, Tony graduated at the top of his class from MIT and was
+              awarded summa cum laude. Twelve hourse after arriving home from graduation, Howard talked with Tony, who was outside getting a tan in the
+              pool. Howard pushed his son to start doing things in life, but Tony pushed him away, saying that he has a new plan. Jarvis reminded him
+              that he and Maria needed to go. As Howard left, Tony slipped off his raft into the pool. Sometime later, Tony's long serving family
+              butler died.
+            </p>
 
             <h4 className="article-heading-4" id="1.1.2">Losing his parents</h4>
 
