@@ -342,10 +342,35 @@ const TonyStarkMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.1.2">Losing his parents</h4>
+            <div className="img-right img-card">
+              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/17/The_last_time_stark.png" alt="Tony's final moments with his parents." />
+              <p>Tony in his final moments with his parents.</p>
+            </div>
+            <p>
+              In December 1991, when Tony was just twenty-one years old, he arrived home for Christmas after studying abroad. Howard and Maria
+              prepared to go on vacation to the Bahamas for a few days over the Christmas holiday and leave Tony home alone, although his father
+              remained skeptical about how responsible Tony would be while they were gone. The two were assassinated by the
+              <Link to="/mcu/bucky_barnes"> Winter Soldier</Link> in Long Island and <Link to="/mcu/hydra">Hydra</Link> covered up the incident to be a
+              car crash, leaving Tony in grief and struggling to process this tragedy. Tony was notified of the event the following morning and
+              cooperated with the authorities. As he stood before his parents' caskets, he said that this wasn't part of his plan. For a short while,
+              <Link to="/mcu/obadiah_stane"> Obadiah Stane</Link> took over as interim CEO of <Link to="/mcu/stark_industries">Stark Industries</Link>.
+            </p>
 
             {/* 1.2 */}
             <h3 className="article-heading-3" id="1.2">CEO of Stark Industries</h3>
             <h4 className="article-heading-4" id="1.2.1">Rebuilding the company</h4>
+            <p>
+              In January 1992, a month after the death of his parents, Tony inherited Stark Industries and took over from Obadiah Stane, becoming the
+              youngest CEO of a Fortune 500 company in history. Having built himself a custom mansion, Tony created an A.I. system that helped out in the
+              house. He named the system "Just a Rather Very Intelligent System", shortened <Link to="/mcu/J.A.R.V.I.S.">J.A.R.V.I.S.</Link>, in
+              tribute to Edwin Jarvis, whom Tony had often credited for helping to raise him.
+            </p>
+            <p>
+              Eventually, Rhodey, now a member of the United States Air Force, became the liaison between Stark Industries and the United States Armed
+              Forces, successfully earning Tony billions of dollars with military contracts. Under Tony's leadership with the aid of Stane. Stark
+              Industries quickly thrived and became one of the most advanced companies in the world, creating new forms of weapons technology that
+              seemed highly futuristic to most looking on at the weapons.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.2">Creating demons</h4>
 
