@@ -346,7 +346,31 @@ const ThorTheDarkWorld = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <ul className="article-list">
+              <li>
+                <Link to="/people/chris_hemsworth">Chris Hemsworth</Link> as <Link to="/mcu/thor">Thor</Link>: <br />
+                An Avenger and the crown prince of Asgard, based on the Norse mythological deity of the same name. Hemsworth stated that the film
+                addresses unresolved issues regarding Thor's relationships from previous films, "For Thor and Jane, there are some unanswered
+                questions now, since obviously he didn't stop in and catch up with her in The Avengers. Thor might have some explaining to do in
+                this one. And with Loki, we get down to the major bones of our conflict with everything that's come from Thor to Avengers to now."
+                Hemsworth added, "Thor's journey I think picks more so up from where we left the first one. About to take on the throne... and now
+                coming to the realization of what responsibility comes with that. Also, Alan Taylor keeps talking about the dark side of that
+                responsibility, and the secrets of being king or becoming sort of very political about what people need to know and what they want
+                to know." Hemsworth especially enjoyed the role of Thor in this film as he was able to, "... break him down and find his human
+                qualities and his vulnerable side."
+              </li>
+              <li>
+                <Link to="/people/natalie_portman">Natalie Portman</Link> as <Link to="/mcu/jane_foster">Jane Foster</Link>: <br />
+                An astrophysicist and Thor's love interest who is brought from Earth to Asgard by Thor after she is infected with a mysterious
+                energy. Producer <Link to="/people/kevin_feige">Kevin Feige</Link> said, "While Thor was a fish out of water on Earth in the first
+                two films (Thor and The Avengers), this time Jane is very much a fish out of water in Asgard." Portman added, "It was a whole
+                different adventure this time. Because Jane is the fish out of water. I didn't want to make it like Bill & Ted, or like a valley girl
+                dumped into Shakespeareland." Portman also said the film finds Jane at a different place in her life, "Jane has moved, so she's now in
+                London, not in Santa Fe anymore. Obviously she has gone through missing Thor and also being upset at him because he didn't come
+                knocking on her door when he was on her planet. She's definitely been getting over that and trying to move on." Hemsworth's wife Elsa
+                Pataky stood in for Portman during the post-credits kissing scene due to a scheduling conflict.
+              </li>
+            </ul>
           </div>
         </div>
         <div>
