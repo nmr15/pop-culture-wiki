@@ -370,6 +370,56 @@ const ThorTheDarkWorld = () =>
                 knocking on her door when he was on her planet. She's definitely been getting over that and trying to move on." Hemsworth's wife Elsa
                 Pataky stood in for Portman during the post-credits kissing scene due to a scheduling conflict.
               </li>
+              <li>
+                <Link to="/people/tom_hiddleston">Tom Hiddleston</Link> as <Link to="/mcu/loki">Loki</Link>: <br />
+                Thor's adoptive brother and nemesis, based on the deity of the same name, who forms an uneasy alliance with Thor against the Dark Elves.
+                On where he wished to take the character in the film, Hiddleston said, "I'd like to take Loki to his absolute rock bottom. I'd like to
+                see him yield, essentially, to his darkest instincts. Then, having hit rock bottom, maybe come back up.I think the fascination for me
+                about playing Loki is that, in the history of the mythology and the comic books and the Scandinavian myths, is he's constantly dancing
+                on this fault line of the dark side and redemption." Hiddleston recalled, "When I met Alan Taylor, he asked me how I thought I could do
+                Loki again without repeating myself and I remembered talking with Kevin Feige when we were on the Avengers promotional tour. I said, 'OK,
+                you've seen Thor and Loki be antagonistic for two films now. It would be amazing to see them fight side by side. I've been the bad guy
+                now twice, so I can't be again, or otherwise I shouldn't be in the film. So we have to find a new role for me to play."
+              </li>
+              <li>
+                <Link to="/people/stellan_skarsgard">Stellan Skarsgard</Link> as <Link to="/mcu/erik_selvig">Erik Selvig</Link>: <br />
+                Jane's mentor and colleague. Skarsgard said, the film finds Selvig in a "disrupted mode" explaining, "Having a god in your head for a
+                while creates some psychological problems", referring to the character's ordeal following The Avengers.
+              </li>
+              <li>
+                <Link to="/people/idris_elba">Idris Elba</Link> as <Link to="/mcu/heimdall">Hemidall</Link>: <br />
+                The all-seeing, all-hearing Asgardian sentry of the Bifrost Bridge, based on the mythological deity of the same name. Elba said he has
+                a larger role in the sequel, "In the new film we're going to get to know Heimdall the Asgardian a bit better, and we're going to get to
+                know Asgard a bit better. I can't say too much, but the expansion of Thor in his world is going to be huge. My part was very small and
+                functional in the first film."
+              </li>
+              <li>
+                <Link to="/people/christopher_eccleston">Christopher Eccleston</Link> as <Link to="/mcu/malekith">Malekith</Link>: <br />
+              </li>
+              <li>
+                Adewale Akinnuoye-Agbaje as Algrim / Kurse: <br />
+              </li>
+              <li>
+                <Link to="/people/kat_dennings">Kat Dennings</Link> as <Link to="/mcu/darcy_lewis">Darcy Lewis</Link>: <br />
+              </li>
+              <li>
+                <Link to="/people/ray_stevenson">Ray Stevenson</Link> as <Link to="/mcu/volstagg">Volstagg</Link>: <br />
+              </li>
+              <li>
+                <Link to="/people/zachary_levi">Zachary Levi</Link> as <Link to="/mcu/fandral">Fandral</Link>: <br />
+              </li>
+              <li>
+                Tadanobu Asano as <Link to="/mcu/hogun">Hogun</Link>: <br />
+              </li>
+              <li>
+                <Link to="/people/jammie_alexander">Jaimie Alexander</Link> as <Link to="/mcu/sif">Sif</Link>: <br />
+              </li>
+              <li>
+                <Link to="/people/rene_russo">Rene Russo</Link> as <Link to="/mcu/frigga">Frigga</Link>: <br />
+              </li>
+              <li>
+                <Link to="/people/anthony_hopkins">Anthony Hopkins</Link> as <Link to="/mcu/odin">Odin</Link>: <br />
+              </li>
             </ul>
           </div>
         </div>
@@ -377,6 +427,32 @@ const ThorTheDarkWorld = () =>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Development</h3>
+            <p>
+              In April 2011, before the release of Thor, Marvel Studios president Kevin Feige slated that following The Avengers, "Thor will go off into
+              a new adventure." Kenneth Branagh, director of Thor, responded to his comments, saying, "it is kind of news to me. Here's what I would
+              say to that: It's that I'm thrilled they're that confident. I shall wait for the audience to tell us whether there should be a second
+              one, and then if that's a nice conversation to be had among all of us, that'd be thrilling. But if Marvel says so, thenI guess it must be
+              true." Feige later explained that Marvel Studios woruld gauge how well Thor did at the box office before announcing sequels, but stated,
+              "Don Payne is working on story ideas for a part two. We've got various options with Kenneth Branagh to discuss coming back, but right now
+              the focus is on the first one. Don is, slowly but surely, thinking about where to take the character next should we be so lucky."
+            </p>
+            <p>
+              In June 2011, Walt Disney Studios set a July 26, 2013 release date for the Thor sequel with Chris Hemsworth reprising his role as the
+              title hero. It was also reported that Branagh would not be returning as diretor but would likely be involved in a producing capacity. The
+              Los Angeles Times cited the long commitment necessary for a special effects-heavy epic and the pressure to start the script process right
+              away as reason for Branagh's departure, although hewas initially enthused by the chance to direct the sequel. Branagh noted, "It was a long
+              time making the first film and they were way too quick for me to get straight back into another, but it was a pleasureable experience and a
+              film I'm very proud of." Branagh had actually wanted to direct the sequel, but not right after the first film due to Marvel's shoots and
+              post-productions being intense whereas Marvel wanted production to start immediately right then and there, so he told Feige that he didn't
+              "have it" in himself and both Feige and the cast were very understanding that Branagh needed a break, letting him go from the project, who
+              understood Marvel's need to start with the project as soon as possible. The following day, Marvel formally hired Payne, one of the credited
+              writers of the first film, to script the sequel. An early version of the film planned to feature Hela as the film's antagonist. However,
+              Marvel Studios producer Craig Kyle explained that the Creative Committee from Marvel Entertainment was driving most of the decisions for the
+              film and did not want a female villain because they did not believe they could sell toys based on her to young boys. In August, Brian Kirk
+              entered early negotiations to direct the Thor sequel. The film would have marked Kirk's first time directing a big-budget motion picture,
+              after having directed television series for HBO, Showtime, and the BBC, including Game of Thrones.
+            </p>
+
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
