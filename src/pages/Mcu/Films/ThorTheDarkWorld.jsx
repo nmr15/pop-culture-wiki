@@ -395,9 +395,34 @@ const ThorTheDarkWorld = () =>
               </li>
               <li>
                 <Link to="/people/christopher_eccleston">Christopher Eccleston</Link> as <Link to="/mcu/malekith">Malekith</Link>: <br />
+                The ruler of the Dark Elves of Svartalfheim. About Malekith's motivation, Eccleston said, "There is a kind of tragic quality to his quest.
+                Because he's lost his wife, he's lost his children. He's lost everything. And he returns for revenge. And the agent for his revenge is
+                the Aether. If he gets hold of that, he is omnipotent." Eccleston continued, "What I thought about a great deal was revenge, there's
+                huge amounts of revenge. One quote is: 'When you seek revenge, be sure to dig two graves.' I did a film called Revengers Tragedy where I
+                played a guy called Vindici, from the word 'vindictive', and he is the distillation of revenge. So, in a way, that was what I had to
+                think of: how revenge can make you absolutely monomanaiacal, though you're still trying to make it recognizably motive-led. It's just the
+                personificcation of movie evil."  However, Taylor stated that many scenes involving Malekith's backstory had to be cut from the film to
+                make it more efficient. Eccleston revealed that he speaks an invented language for the film explaining, "The Elvish language is
+                definitely based on European languages. I think there's probably some Finnish in there. It does have its logic and it rhythms. It also
+                has many syllables and it's very difficult to do while remaining naturalistic. It's been a particular challenge for us byt
+                hopefully it gives the film some complexity and variety." Eccleston also said the role required six hours of make-up and 45 minutes of
+                wardrobe.
               </li>
               <li>
                 Adewale Akinnuoye-Agbaje as Algrim / Kurse: <br />
+                A Dark Elf and Malekith's trusted and loyal lieutenant who is transformed into a monstrous creature in order to destroy Thor.
+                Akinnuoye-Agbaje described Kurse as "an amalgamation of a bull and a lava-like creature. He has very animalistic tendencies but
+                with this insatiable and unstoppable power. As an actor, that's one of the hardest things to embody. You have to realize you are
+                probably the most powerful thing you could imagine. And you have to be that. You can't pretend, so that when you face Thor, it's
+                real." Akinnuoye-Agbaje stated that the role required three hours of make-up a day and had to put on heavy duty prosthetics
+                explaining, "The outfit weighed about 40 pounds. I'm sure there will be a certain amount of CGI but a good 80% was me in that suit.
+                About the character Akinnuoye-Agbaje said, "I suppose Algrim and Kurse woulbe be the quintessential baddies, but in reality they are
+                what I perceive as the scorn and the victims of the story. They are the elves who have basically lost their planet and their race to
+                another race, the Asgardians. Here is a man/alien who places a noble objective beyond his own life and I think there is something
+                extremely inspiring about that because he looks at the bigger picture and sees himself as a means to that end." Akinnuoye-Agbaje added,
+                "I worked with director Alan Taylor in trying to maintain Algrim's humanity all the way throughout Kurse's transformation, so that
+                even when you see Kurse the beast, you can still relate to him as being Algrim inside. And symbolically we did that by keeping the
+                same piercing blue eyes throughut."
               </li>
               <li>
                 <Link to="/people/kat_dennings">Kat Dennings</Link> as <Link to="/mcu/darcy_lewis">Darcy Lewis</Link>: <br />
