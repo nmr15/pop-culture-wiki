@@ -426,12 +426,29 @@ const ThorTheDarkWorld = () =>
               </li>
               <li>
                 <Link to="/people/kat_dennings">Kat Dennings</Link> as <Link to="/mcu/darcy_lewis">Darcy Lewis</Link>: <br />
+                A political sciene major who is interning for Foster. Her role in the film was expanded from the comic relief sidekick role she played
+                in the first Thor film. Dennings said her character is "really bad at real science in the first movie. In the second movie, she's
+                more interested, but she still doesn't know anything about it. She loves Jane, she really wants Jane and Thor to be together. It's
+                almost like her own little soap opera that she watches."
               </li>
               <li>
                 <Link to="/people/ray_stevenson">Ray Stevenson</Link> as <Link to="/mcu/volstagg">Volstagg</Link>: <br />
+                A member of the Warriors Three, a group of three Asgardian adventurers who are among Thor's closest comrades, known for both his
+                hearty appetite and wide girth. About the character, Stevenson said, "He's got a heart the size of a planet that he wears on his
+                sleeve, so he's like a big kid." Regarding Volstagg's role in the film, Stevenson said, "Volstagg is struggling, he has a brood, the
+                Warriors Three are fighting for hearth and home as much as for the idea of Asgard itself. That's where he has trouble." Explaining,
+                "He's all too aware of how potentially threatning this new enemy is on both the home front and the battlefield."
               </li>
               <li>
                 <Link to="/people/zachary_levi">Zachary Levi</Link> as <Link to="/mcu/fandral">Fandral</Link>: <br />
+                A member of the Warriors Three, characterized as an irrepressible swashbuckler and romantic. Levi replaced Joshua Dallas in the role due
+                to Dallas's commitment on Once Upon a Time. levi had been up for the role in the first film, but bowed out due to to his commitment on
+                Chuck. Levi compared the character to Flynn Rider, the character he played in the animated feature, Tangled, "Fandrall is a little
+                similar to Rider in some ways... He's liek this Lothario. He's like Errol Flynn. He loves ladies, as do I." Regarding the dynamic of the
+                Warriors Three, levi said, "The Warriors Three are ehre to support Thor. We are his confidants, his bes friends. We've all grown up together
+                in a lot of ways and fought many a battle together, escaped death. To me it's the way best friendsought to be, they're there when you
+                need to talk and they're there if you don't want to talk, and they're there if you need to escape from your father's place in a flying
+                skiff."
               </li>
               <li>
                 Tadanobu Asano as <Link to="/mcu/hogun">Hogun</Link>: <br />
