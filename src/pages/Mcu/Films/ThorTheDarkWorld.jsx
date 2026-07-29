@@ -505,6 +505,53 @@ const ThorTheDarkWorld = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.2">Pre-production</h3>
+            <p>
+              In December 2011, Jenkins exited the project, citing "creative differences." She stated, "I have had a great time working at Marvel. We
+              parted on very good terms, and I look forward to working with them again." Jenkins felt she could not have made a good film "out of Thor 2
+              because I wasn't the right director... I could have made a great Thor if I could have done the story that I was wanting to do. But I don't
+              think I was the right person to make a great Thor out of the story they wanted to do." Jenkins had intended to create a film based on the
+              premise of Romeo and Juliet, where Jane was stuck on Earth with Thor forbidden to come save her. After Thor eventually does travel to Earth,
+              he and Jane would have discovered that Malekith was "hiding the dark energy inside of Earth because he knows that Odin doesn't care about
+              Earth, and so he's using Odin's disinterest in Earth to trick him."
+            </p>
+            <p>
+              Three days, it was reported that Marvel was looking at Alan Taylor and Daniel Minahan as prospective directors to replace Jenkins, and
+              were also in the midst of hiring a writer to rewrite Don Payne's script, with the shotlist of possible writers consisting of John Collee,
+              Robert Rodat, and Roger Avary. At the end of the month, Alan Taylor, best knwon for directing episodes of the HBO fantasy series Game of
+              Thrones, was chosen to direct the sequel. Feige mentioned Taylor's work on the series Mad Men, Boardwalk Empire, and Game of Thrones as
+              reasons for his hiring, saying "With Alan's direction we got a few more layers of patina, of texture, of reality into out golden realm." As
+              Feige looked at what worked for the first Thor film and thought what he could retool from that, Taylor decided to "bring some Game of
+              Thrones to it" in order to make a darker and more grounded sequel in comparison to Branagh's work in the previous film. By January 10,
+              Marvel Studios had commissioned screenwriter Rodat to rewrite the sequel and Hiddleston stated that filming was expected to begin in
+              London in the summer of 2012. Hemsworth later confirmed that filming was scheduled to begin in August. Hemsworth also revealed that the
+              film would have a more Viking-influenced feel, elaborating "I think the science fiction element to Thor ...the danger is it falls a little
+              bit into the world of it's 'tough to throw a light to.' I think of big waterfalls and mountains and a Viking influence, where the Norse
+              mythology kind of grew from. Having that in Asgard is going to make it all the more special and that's what Alan Taylor wants to bring to
+              it." Feige said "while the relationship between Loki and Thor certainly has changed [after the events of the movie The Avengers] and has
+              progressed, a lot of Thor 2 is picking up where it left off in terms of Jane, who you just saw for a moment on a computer monitor, and
+              also what's been going on in the Nine Realms without the Asgardians being able to use the Bifrost." Feige also said that while Loki has a
+              part, "there will be a different villain, another big villain."
+            </p>
+            <p>
+              In May 2012, Mads Mikkelsen began talks to play one of the villains in the film and Anthony Hopkins, who played Odin in the first film,
+              committed to returning in the sequel. Benedict Cumberbatch, who eventually joined the film series as
+              <Link to="/mcu/stephen_strange"> Stephen Strange / Doctor Strange</Link>, was also in the running to play Malekith the Accursed. At the
+              end of the month, Disney moved up the release date for the film a week ahead of the previous date to November 8, 2013. By June 2012, much
+              of the first film's supporting cast was confirmed to return, including Idris Elba, Jaimie Alxander, Ray Stevenson, and Stellan Skarsgard.
+              Also in June, Joshua Dallas announced that he would not be reprising the role of Fandrall. Dallas had initially intended to return, but had
+              to bow out due to his commitment on the television show, Once Upon a Time, and Zachary Levi was cast in his place. Levi was originally
+              up for the role in the first film but scheduling conflicts with Chuck forced him to drop out.
+            </p>
+            <p>
+              In July 2012, Mikkelsen stated he would not be appearing in the sequel due to prior commitments, "That's not happening unfortunately. I had a
+              meeting with the filmmakers, but it was a bit too late and then Hannibal came in...It's just not happening." At the 2012 San Diego
+              Comic-Con, it was announced that the film would be titled Thor: The Dark World. At the end of the month, residents near Bourne Wood in
+              Surrey, England were notified that a film going by the working title, Thursday Mourning would be filming in the area. In August of that
+              year, Christopher Eccleston entered final negotiations to play Malekith, and the film was scheduled to shoot in Iceland, where Taylor shot
+              parts of Game of Thrones. By August 22, Kat Dennings was hired to reprise her role as Darcy Lewis, and Adewale Akinnuoye-Agbaje was cast
+              as Algrim. At the end of the month, film crews for Thursday Mourning began set construction at Stonehenge near Amesbury, England.
+            </p>
+
             <h3 className="article-heading-3" id="3.3">Filming</h3>
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
