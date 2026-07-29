@@ -553,6 +553,41 @@ const ThorTheDarkWorld = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.3">Filming</h3>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bourne_Wood_Thor_2_film_set_crop.jpg/250px-Bourne_Wood_Thor_2_film_set_crop.jpg"
+                alt="Film set at Bourne Wood, Surrey, England." 
+              />
+              <p>Film set for Thor: The Dark World at Bourne Wood, Surrey, England.</p>
+            </div>
+            <p>
+              Principal photography began on September 10, 2012, in Bourne Wood, Surrey, England, under the working title Thursday Mourning. A few weeks
+              later, Clive Russell was cast as Tyr, and Richard Brake was cast as an Einherjar captain. At the end of the month, Jaimie Alexander was
+              injured on the London film set, after she slipped while walking in the rain. On October 12, 2012, production moved to Iceland with filming
+              taking place in Domadalur, Skogafoss, Fjaorargljufur and Skeioarasanur. Iceland Review described the shoot as bening among the most
+              extensive film projects to have ever taken place in Iceland. The film's official synopsis was released, which revealed that Christopher
+              Yost and Christopher Markus and Stephen McFeely had also contributed to the screenplay. Markus and McFeely said Feige had approached
+              them in between writing drafts for <Link to="/mcu/captain_america_the_winter_soldier">Captain America: The Winter Soldier</Link> to work
+              on the Dark World script. Three days later, Disney announced that the film would be released in 3D. In later October, filming commenced at
+              the Old Royal Naval College in Greenwich, London. Filming also took place at Shepperton Studios and Longcross Studios in Surrey between
+              October and December 2012. Other filming locations included Wembley, Borough Market, Hayes, and Stonehenge. Alexander tweeted that
+              principal photography wrapped on December 14, 2012. In a 2013 report on film production costs for films from FilmL.A. Inc., indicated a
+              gross budget of $140 million, with a UK tax offset of $17.3 million for Thor: The Dark World. In 2016, Disney company accounts stated the
+              budget spend wad $237.6 million on Thor: The Dark World but $37 million of this was offset by payments from the UK tax authority.
+            </p>
+            <p>
+              Kramer morgenthau, who worked with Taylor on Game of Thrones, was brought in as the director of photography. Morganthau said, "We wanted
+              a grittier, boots-on-the-ground feeling, inspired by what Alan and I had done on Game of Thrones. We wanted the realms to feel grounded,
+              like a real place,  while at the same time respecting the magical 'planet of the Gods' feeling and theme." Thor: The Dark World was
+              Morganthau's first time shooting a feature film digitally. For the film, Morganthau chose the Arri Alexa Plus, although he tested with the
+              Sony F65 but found the Alexa to be more pleasing. In addition to the Alexa, Red Epic and Canon EOS 4D Mark II cameras were used for
+              second unit filming. With the Alexa, Morganthauused Panavision anamorphic lenses. Morgenthau said, "The leneses brought some of the magic
+              and mystery of photochemical back to digital, that big-movie look." Morgenthau also tated that Thor: The Dark World was easily the most
+              technically complex project that he has worked on but said, "it's all the same concept and the same principles as in a smaller film. You
+              just scale it up. You do a lot more prep. We had three months of prep and loads of time to pre-rig stages. Part of it is having a really
+              good crew, it's definitely not a one-man show."
+            </p>
+
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
           </div>
         </div>
