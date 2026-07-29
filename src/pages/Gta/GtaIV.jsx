@@ -220,19 +220,15 @@ const GtaIV = () =>
             </p>
             <h3 className="article-heading-3" id="2.2">Plot</h3>
             <p>
-              Niko Bellic, an Eastern European ex-soldier, arrives in Liberty City aboard the cargo ship <Link>Platypus</Link> to escape his criminal past, pursue the
-              American Dream, and search for a man who betrayed his unit to an ambush ten years prior. Reuniting with his cousin Roman, he discovers that the stories
-              of riches and success he was told of were embellished. Instead of living a life of luxury with nice cars and pretty women, Roman lives in a small, dirty
-              apartment, owns an unprofitable taxi company, has gambling debts, and often disputes with loan sharks. Niko begins assisting Roman with his problems and
-              makes criminal contacts in the city. He befriends <Link>Yardies</Link> second-in-command Little Jacob and is forced to work for <Link>Vlad Giebov</Link>,
-              Roman's Russian loan shark. Niko eventually kills Vlad upon learning he had slept with Roman's girlfriend, <Link>Mallorie</Link>.
-            </p>
-            <p>
-              In retaliation, Niko and Roman are kidnapped by <Link>Russian mobsters</Link> on orders of their boss <Link>Mikhail Faustin</Link> and his lieutenant,
-              <Link> Dimitri Rascalov</Link>. Indifferent to Vlad's murder, Faustin releases them and employs Niko as a hitman, ordering him to kill the son of
-              Russian crime lord Kenny Petrović. When Petrović threatens retaliation, Dimitri persuades Niko to assassinate Faustin and satisfy Petrović. However,
-              Dimitri betrays him after the killing and brings Niko to his former employer, <Link>Ray Bulgarin</Link>, who accuses him of stealing from him during a
-              failed human trafficking job years earlier. Niko denies the allegation and a firefight ensues, allowing Dimitri and Bulgarin to escape.
+              In 2008, Niko Bellic, an Eastern European war veteran and former human trafficker, arrives in Liberty City aboard a cargo ship called the
+              Platypus, for multiple reasons: to avoid an <Link to="/gta/ray_bulgarin">old rival</Link>, find the man who sold out his unit during the
+              war, and reunite with his cousin Roman Bellic, who invited him to come to the city in the first place, and in his letters told him that he
+              was living a life full of riches, women, sports cars, mansions, and luxury. However, as soon as he arrives and meets with Roman, he
+              discovers that all of his cousin's stories were lies: in reality, Roman lives in a heavily-cramped apartment and runs a small taxi
+              service. Niko begins working for Roman's company, soon meeting his girlfriend <Link to="/gta/mallorie">Mallorie</Link>, who introduces
+              him to her friend <Link to="/gta/karen_daniels">Michelle</Link>, whom he quickly begins to date. Niko also discovers that Roman is heavily
+              in debt and has problems with the loan sharks. He protects him on several occasions, eventually killing Dardan Petrela, the head of the
+              Albanian Mob in Broker, after ha and his associates attack Roman.
             </p>
           </div>
         </div>
