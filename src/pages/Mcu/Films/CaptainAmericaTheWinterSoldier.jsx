@@ -481,7 +481,26 @@ const CaptainAmericaTheWinterSoldier = () =>
         <div>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Captain_America_The_Winter_Soldier_cast_by_Gage_Skidmore.jpg/250px-Captain_America_The_Winter_Soldier_cast_by_Gage_Skidmore.jpg"
+                alt="The cast at SDCC 2013"
+              />
+              <p>
+                The cast and crew of Captain America: The Winter Soldier at the 2013 San Diego Comic-Con (L-R: producer Kevin Feige, VanCamp, Mackie,
+                Smulders, Jackson, Johansson, directors Anthony and Joe Russo, Evans, Grillo, Stan).
+              </p>
+            </div>
+            <ul className="article-list">
+              <li>
+                <Link to="/people/chris_evans">Chris Evans</Link> as <Link to="/mcu/steve_rogers">Steve Rogers / Captain America</Link>: <br />
+                An <Link to="/mcu/avengers_(team)">Avenger</Link> and a World War II veteran who was enhanced to the peak of human physicality by an
+                experimental serum, frozen in suspended animation, and is now struggling to adjust to the 21st century. Describing his character's
+                adjustment to the modern world, Evans said, "It's not so much about his shock with technology... It's more about the societal
+                differences. He's gone from the '40s to today; he comes from a world where people were a little more trusting, the threats not as deep. Now,
+                it's harder to tell who's right and wrong. Actions you take"
+              </li>
+            </ul>
           </div>
         </div>
         <div>
