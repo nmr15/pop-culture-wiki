@@ -373,6 +373,38 @@ const TonyStarkMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.2">Creating demons</h4>
+            <div className="img-left img-card">
+              <img
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/af/Ho_Yinsen_meets_Tony_Stark.png/revision/latest?cb=20141203013212"
+                alt="Tony meets Yinsen"
+              />
+              <p>Tony meets Ho Yinsen in Berin in 1999.</p>
+            </div>
+            <p>
+              On New Year's Eve in 1999, Tony, with his scientist paramour <Link to="/mcu/maya_hansen">Maya Hansen</Link>, attended the Bern 2000 science
+              conference in Bern, Switzerland. There, Tony got so drunk he could barely give his speech on integrated circuits and rejoined the party as
+              soon as possible. While celebrating, he met a scientist named <Link to="/mcu/ho_yinsen">Ho Yinsen</Link> who introduced Tony to Doctor Wu,
+              although he swiftly dismissed them both.
+            </p>
+            <p>
+              While moving through the hotel with his bodyguard <Link to="/mcu/happy_hogan">Happy Hogan</Link>, Hansen, and a group of female
+              attendees, Tony then arrogantly avoided a gifted but crippled scientist. <Link to="/mcu/aldrich_killian">Aldrich Killian</Link>, who
+              wanted his financial backing for a scientific think tank. <Link to="/mcu/A.I.M.">Advanced Idea Mechanics</Link>. Once they were alone
+              in an elevator together, Tony then purposely told the excited Killian to meet him on the rooftop of the building to discus him working
+              with Stark Industries with the intention of never turning up, wanting to continue spending time with Hansen.
+            </p>
+            <p>
+              Backin Hansen's hotel room, Tony looked at her new research into a project known as <Link to="/mcu/extremis">Extremis</Link>, which had the
+              potential to regrow human limbs if she could get enough funding. Tony was amazed by the concept, although Happy was less impressed and
+              played with a nearby plant despite being told not to. Tony and Hansen then went to her bedroom where they continued flirting with each
+              other before then leaning towards one another for a passionate kiss.
+            </p>
+            <p>
+              However, Happy inadvertently caused a small explosion by breaking a plant stem, causing a brief moment of panic. Tony sent Happy away and
+              then slwpt with Hansen, leaving Killian freezing and humiliated on the rooftop. Tony was unaware of Killian's suffering and woke up the
+              next morning while Hansen was working. He completed her formula for her to fix the combustible glitch in Extremis, before discreetly
+              walking out and returning home, leaving Hansen behind.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.3">Testing weapons in Arizona</h4>
 
