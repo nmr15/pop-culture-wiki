@@ -688,13 +688,55 @@ const ThorTheDarkWorld = () =>
         <div>
           <Heading2 id={4} title={"Music"} />
           <div>
-            
+            In August 2012, Patrick Doyle said that he had discussions with the director about potentially returning to score the film. By April 2013,
+            Carter Burwell had been hired to compose the score, but by the following month he left the film over creative differences. In June 2013,
+            Marvel hired Brian Tyler, who scored <Link to="/mcu/iron_man_3">Iron Man 3</Link>, to replace Burwell. Tyler said the previous film had an
+            "attitude and was grounded in limitations" whereas the Thor film allowed for "all-out-regal themes that could be as epic as I could make them."
+            The composer described The Dark World as "science fiction meeting classic medieval war", leading to a score that drew from works of both
+            genres such as <Link to="/starwars">Star Wars</Link> and The Lord of the Rings. Azam Ali is a featured vocalist on the score. The
+            soundtrack was released gitially on October 28, 2013.
           </div>
         </div>
         <div>
           <Heading2 id={5} title={"Marketing"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Tom_Hiddleston_by_Gage_Skidmore.jpg/250px-Tom_Hiddleston_by_Gage_Skidmore.jpg"
+                alt="Tom Hiddleston SDCC 2013"
+              />
+              <p>Hiddleston as Loki at the 2013 San Diego Comic-Con to promote the film.</p>
+            </div>
+            <p>
+              In March 2013, Marvel announced the release of a two-issue comic book prelude by writers Craig kyle and Christopher Yost and artist Scot
+              Eaton in June 2013. In April 2013, Marvel released the first trailer for Thor: The Dark World. Forbes said, "This trailer fits nicely into
+              that larger markeing push for Marvel's brand. It puts all of the recognizable characters from the first film front and center, presents
+              the action as a team event reminiscent of the Avengers, and once again Loki, who was quite popular with audiences, makes an appearance."
+              The Los Angeles Times said, "Evident throughout the trailer is director Alan Taylor's influence; the Game of Thrones director's hand can be
+              seen in the battle sequences, and Asgard, a bright and shiny kingdom under Thor director Kenneth Branagh, seems grittier in the sequel." In
+              July at the 2013 San Diego Comic-Con, Hiddleston introduced footage from the film to audiences in character as loki. Also in July,
+              Gameloft announced that a mobile video game titled, Thor the Dark World: The Official Game, would be released in conjunction with the
+              release of the film in November.
+            </p>
+            <p>
+              The theatrical poster for the film was released in early August 2013. Kirsten Acuna of Business Insider criticized the poster for its
+              lack of originality, noting its similarities to one of the posters of Iron Man 3, both of which included the female lead clinging to the
+              male lead, with both looking in opposite directions, antagonists prominently displayed in the background and supporting characters
+              featured "on the side." Additionally, Marvel released a second trailer for the film as part of YouTube's Geek Week. Forbes said, "this
+              150-second trailer is basically just an extended version of last April's 105-second teaser" and that "this trailer fails to showcase what's
+              new this time around... making audiences question if they really don't have much else to offer." The Los Angeles Times said, that the
+              trailer suggests "an ominous, epic scale for the sequel" and that "the collaboration between Thor and Loki promises to be especially
+              interesting." Later in the month, producer Kevin Feige and cast member Tom Hiddleston, Natalie Portman, and Anthony Hopkins presented
+              additional footage at Disney's D23 Expo.
+            </p>
+            <p>
+              Also in August, Disney announced plans to promote the film with an attraction at Disneyland. The attraction called Thor: Treasures of
+              Asgard, located next to the Stark Industries exhibit insie Innoventions in Tomorrowland, opened on November 1, 2013, and featured
+              displays of Asgardian relics and transports guests to Odin's throne room, where they are greeted by Thor. The eighth episode of
+              <Link to="/mcu/agents_of_shield"> Marvel's Agents of S.H.I.E.L.D.</Link>, titled "The Well", takes place in the aftermath of the events of
+              Thor: The Dark World. It first aired on November 19, 2013. Jaimie Alexander reprised her role as Sif in the Agents of S.H.I.E.L.D.
+              episode "Yes Men", which aired on March 11, 2014.
+            </p>
           </div>
         </div>
         <div>
