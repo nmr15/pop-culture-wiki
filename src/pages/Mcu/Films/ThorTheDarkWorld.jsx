@@ -452,17 +452,46 @@ const ThorTheDarkWorld = () =>
               </li>
               <li>
                 Tadanobu Asano as <Link to="/mcu/hogun">Hogun</Link>: <br />
+                A member of the Warriors Three, native of Vanaheim, primarily identified by his grim demeanor.
               </li>
               <li>
                 <Link to="/people/jammie_alexander">Jaimie Alexander</Link> as <Link to="/mcu/sif">Sif</Link>: <br />
+                An Asgardian warrior, Thor's childhood friend and Jane's romantic rival, based on the deity of the same name. Alexander said there is
+                more character development for Sif and the film explores the Sif-Thor relationship. Alexander elaborated, "I really tried to bring a
+                little bit more vulnerability in this film. Sif is very much in love with Thor and very much cares about his well being. So she kicks a
+                lot of butt in this movie but she also opens her heart a lot."
               </li>
               <li>
                 <Link to="/people/rene_russo">Rene Russo</Link> as <Link to="/mcu/frigga">Frigga</Link>: <br />
+                <p>
+                  The wife of Odin, queen of Asgard, mother of Thor, and adoptive mother of Loki, based on the mythological deity of the same name. Russo
+                  said that her role was expanded and explores Frigga's relationship with Loki, "You know, they cut me down in the first film.
+                  Kenneth Branagh sent me a nice note, because he understood, he's an actor. You move on, what are you going to do? But I think they're
+                  going to need a good mom in the next film. Loki needs his mom. I have a lot of compassion for Loki. But we might have to have a
+                  conversation about what he just did."
+                </p>
               </li>
               <li>
                 <Link to="/people/anthony_hopkins">Anthony Hopkins</Link> as <Link to="/mcu/odin">Odin</Link>: <br />
+                The king of Asgard, father of Thor, and adoptive father of Loki, based on the deity of the same name, who disapproves of Jane Foster
+                being in Asgard. Regarding Thor's relationship with his father, Hemsworth said, "The conflict between Thor and Odin was so great in the
+                first one... so, certainly they disagree as I think they always will at times but there' a far greater respect from each other. So it
+                becomes, I guess, a more mature conversation, but there's more at stake this time, too. It's not sort of just their individual egos, the
+                whole universe is at stake." As to his approach Hopkins said, "I just play Odin like a human being, with maybe a little more dimension.
+                I geow a beard, looke hopefully impressive and keep it as real as possible."
               </li>
             </ul>
+            <p>
+              Additionally, Alice Krige portrays Eir, an Asgardian physician, while Talulah Riley plays an Asgardian nurse. Chris O'Dowd plays Richard,
+              a suitor of Jane. <Link to="/people/benicio_del_toro">Benicio del Toro</Link>, who plays
+              <Link to="/mcu/taneleer_tivan"> Taneleer Tivan / The Collector</Link> in
+              <Link to="/mcu/guardians_of_the_galaxy_film"> Guardians of the Galaxy</Link>, appears in a mid-credits scene with Ophelia Lovibond, who
+              plays his aide <Link to="/mcu/carina">Carina</Link>. Jonathan Howard plays Ian Boothby, Darcy's intern. Tony Curran plays Bor, Odin's
+              father, based on the deity of the same name. Clive Russell plays Tyr, based on the deity of the same name. Richard Brake portrays a
+              captain in the Einherjar. <Link to="/people/chris_evans">Chris Evans</Link> makes an uncredited cameo appearance as Loki masquerading as
+              <Link to="/mcu/steve_rogers"> Captain America</Link>, while Thor co-creator <Link to="/people/stan_lee">Stan Lee</Link> makes a cameo
+              appearance as a patient in a mental ward.
+            </p>
           </div>
         </div>
         <div>
