@@ -618,6 +618,71 @@ const ThorTheDarkWorld = () =>
             </p>
 
             <h3 className="article-heading-3" id="3.4">Post-production</h3>
+            <p>
+              In April 2013, McFeely said that "a lot" of writers had contributed to the film's script, and he and Markus were uncertain if they would
+              receive final screenwriting credit on the film. Markus and McFeely along with Yost received final screenwriting credit, with Payne and
+              Rodat receiving story credit. In July 2013, Dennings told reporters that the film was about to head into reshoots. In August, Taylor said
+              he shot extra scenes with Hiddleston and was about to shoot more with Hopkins. Taylor explained that it was all a part of the "Marvel
+              process" saying, "We're doing full scenes, scenes that were not in the movie before. Ww're adding scenes, creating scenes, writing
+              scenes for the first time. The on involving Loki was a fun connective scene... We realized how well Loki was working in the movie, and we
+              wanted to do more with him. So it was that kind of thing, it was like, 'Oh, we could do this, we could jam this in here' because he's such
+              a wonderful guy to watch him do his stuff." Also in August, IMAX Corporation and Marvel Entertainment announced that the film would be
+              digitally re-mastered into the IMAX 3D format and released into IMAX 3D theaters internationally beginning October 30, 2013.
+            </p>
+            <p>
+              Taylor said The Avengers writer/director <Link to="/people/joss_whedon">Joss Whedon</Link> rewrote several scenes in the film
+              explaining, "Joss came in to save our lives a couple of times. We had a major scene that was not working on the page at all in London,
+              and he basically got airlifted in, like a SWAT team or something. He came down, rewrote the scene, and before he got back to his plane I
+              sort of grabbed him and said, 'And this scene and this scene?' And he rewrote two other scenes that I thought had problems." In
+              October 2013, Tony Curran tweeted that he would be portraying Odin's father, Bor, in a flashback sequence. In November 2013, Feige stated
+              that the film was intended to be the conclusion of the "Loki trilogy", which examined the relationship of Thor and Loki throughout Thor,
+              The Avengers, and this film. Loki was originally intended to die in the film, however, after test audiences did not believe he was
+              actually dead, Marvel Studios decided to alter the character's ending. The film's mid-credits scene was directed by
+              <Link to="/people/james_gunn"> James Gunn</Link>, the director of Marvel Studios' Guardians of the Galaxy. The film underwent multiple
+              changes during the reshoots and editing process, with Taylor believing his initial version "had more childish wonder", including
+              starting the film with children, and an overall "more magical quality." He noted the reshoots "inverted" the original plot in certain
+              ways, such as Loki no longer dying.
+            </p>
+            <div className="img-left img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Reine_fr%C3%A5_Reinebringen_crop.jpg/250px-Reine_fr%C3%A5_Reinebringen_crop.jpg"
+                alt="Lofoten Island"
+              />
+              <p>Photo of the Lofoten islands off the coast of Norway, taken in July 2008.</p>
+              <img
+                src="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Asgard_in_Thor_The_Dark_World.jpg/250px-Asgard_in_Thor_The_Dark_World.jpg"
+                alt="Same island in the film with CGI."
+              />
+              <p>The same island used in the film with CG Asgardian structures added by Double Negative.</p>
+            </div>
+            <p>
+              The film's viusal effects were completed by seven visual effects studios, including Double Negative and Luma Pictures. Blur Studio was the main
+              visual effects studio behind the film's prologue sequence waking place 5,000 years before the start of the film, on the Dark Elves homeworld of
+              Svaralfheim. The sequence consisted mostly of computer graphics with live-action shots interwoven throughout. The use of CGI allowed for greater
+              freedom of movement by the characters as the live-action costumes were too constrictive.
+            </p>
+            <p>
+              Taylor wanted Asgard in this film to have a more natural look than its predecessor. To achieve this, crews filmed the coast of Norway with an
+              Arri Alexa camera for three days in a helicopter, capturing six hours of footage. Double Negative then embedded their CG rendering of Asgard
+              on shots of the natural landscape. Double Negative visual effects supervisor Alex Wuttke said, "The benefit of that is that you have some
+              real-world terrain to work with, so you have buildings that have to convey natural features. Then from there we went in there populating the
+              terrain with different buildings." For scenes taking place on Svartalfheim, production filmed in Iceland with Double Negative adding ruins,
+              mountains, Dark Elf ships, and skies.
+            </p>
+            <p>
+              For the shot of the levitating truck, wich was used in the film to demonstrate the strange phenomena brought on by the coming of the alignment
+              of the worlds, filmmakers attached a cement truck to a large hydraulic rig, which could be programmed to change speed and movement. In
+              order to create Algrim's transformation into Kurse, Double Negative morphed live-action performances of Adewale Akinnuoye-Agbaje as both Algrim
+              and Kurse. Double Negative then added in smoke and lava-like effects.
+            </p>
+            <p>
+              The film's climactic battle sequence takes place through the nine worlds by the use of portals. Visual effects supervisor Jake Morrison said,
+              "We ended up calling this 'time toffee', so as you punch through from one realm to another it's almost like cling film or a slightly
+              gelatinous membrane you have to pass through. It bends a little bit then rips and spits the person out. The other thing we wanted to do was to
+              make sure it was quite fast from an editorial point of view. In the fight scenes there are times when Thor and Malekith are portalingall over
+              the place, quite frankly. We made sure we always kept up the momentum and never stopped the fight. It was a way of making sure the audience
+              weren't conscious there was an effect going on."
+            </p>
           </div>
         </div>
         <div>
