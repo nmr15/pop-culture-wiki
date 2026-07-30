@@ -375,7 +375,7 @@ const TonyStarkMCU = () =>
             <h4 className="article-heading-4" id="1.2.2">Creating demons</h4>
             <div className="img-left img-card">
               <img
-                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/af/Ho_Yinsen_meets_Tony_Stark.png/revision/latest?cb=20141203013212"
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/af/Ho_Yinsen_meets_Tony_Stark.png"
                 alt="Tony meets Yinsen"
               />
               <p>Tony meets Ho Yinsen in Berin in 1999.</p>
@@ -407,8 +407,30 @@ const TonyStarkMCU = () =>
             </p>
 
             <h4 className="article-heading-4" id="1.2.3">Testing weapons in Arizona</h4>
+            <p>
+              In January 2008, Tony accepted an offer to appear on Wired. A magazine about him eventually released in January. Tony and Rhodey went to a
+              weapons demonstration at the Yuma Proving Grounds, where Tony showed off his product's accelerated wave explosion capability, or "AWE."
+              <Link to="/mcu/pepper_potts"> Pepper Potts</Link>, then gave the weapon's specifics to the generals while Tony and Rhodey went to a
+              nightlub. Tony enjoyed the company of two girls, Celeste and Eloise, while Rhodey tried to convince him not to go to Afghanistan for the
+              demonstration of Jericho. While dancing, Tony was attacked by a man whose girlfriend he had previously seduced, but Rhodey was able to
+              defeat the attacker. Tony declared that he would be alright in Afghanistan thanks to his friend having his back. Tony, Rhodey and the girls
+              then went to his mansion to continue the party.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.4">Apogee award</h4>
+            <div className="img-right img-card">
+              <img
+                src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Rhodey_Tony_casino.jpg"
+                alt="Tony and Rhodey argue."
+              />
+              <p>Tony and Rhodey argue.</p>
+            </div>
+            <p>
+              A month later, Tony accepted the Apogee Award which was accompanied by a celebration of his life thus far. Therefore, Tony went to Las
+              Vegas to go to the ceremony at Caesars Palace. While the presentation went on, Tony sneaked off from the banque hall and soon found
+              himself at the craps table. With a cluster of on-lookers, Tony rolled a good number and celebrated with two women before proceeding to
+              head butt Happy's chest.
+            </p>
 
             <h4 className="article-heading-4" id="1.2.5">Interview with Christine Everhart</h4>
 
