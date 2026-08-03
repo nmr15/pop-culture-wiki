@@ -610,10 +610,48 @@ const Futurama = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.4">Comedy Central cancellation</h3>
+            <p>
+              Comedy Central announced in April 2013 that they would be airing the then final episode "Meanwhile" on September 4, 2013. The producers
+              said that they are exploring options for the future of the series as "they have many more stories to tell", but would gauge fan reaction
+              to the news. Groening and Cohen had previously expressed a desire to produce a theatrical film or another direct-to-video film upon
+              conclusion of the series.
+            </p>
+            <p>
+              In an August 2013 interview with Milwaukee Journal Sentinel, Katey Sagal said regarding the series finale, "So I don't believe it... I
+              just hold out hope for it because it has such a huge fanbase, it's such a smart show, and why wouldn't somebody want to keep making that
+              show; so that's my thought, I'm just in denial that it's over." Sagal also mentioned during the same interview that Groening told er at
+              Comic-Con that "we'll find a place" and "don't worry, it's not going to end."
+            </p>
 
             <h3 className="article-heading-3" id="5.5">Simpsorama</h3>
+            <p>
+              The Simpsons episode "<Link to="/simpsons/simpsorama">Simpsorama</Link>" is an official crossover with Futurama. It originally aired
+              during the <Link to="/simpsons/season_26">twenty-sixth season</Link> of The Simpsons on Fox on November 9, 2014, over a year after the
+              Futurama series finale aired on Comedy Central.
+            </p>
 
             <h3 className="article-heading-3" id="5.6">Syndication</h3>
+            <p>
+              In July 2011, it was reported that the show had been picked up for syndication by both local affiliates and WGN America. Broadcast of old
+              episodes began in September 2011. On September 19, 2011, WGN America began re-running Futurama, carrying it until 2014. Futurama doubled
+              its viewership in syndication in 2012.
+            </p>
+            <p>
+              In October 2017, Syfy announced that they had acquired syndication rights to all 140 episodes of Futurama, adding it to its lineup on
+              November 11, 2017, with a weekend long marathon. Futurama was Syfy's first American animated series (the network had an anime programming
+              block in the past), and eventually became paired with Syfy's TZGZ block of animated original series on Satruday nights. Comedy Central
+              continued to air the series concurrently with Syfy, usually in the morning and early afternoon. Syfy aired episodes from the first four
+              seasons cropped to 16:9 instead of airing them in their original 4:3 aspect ratio; Comedy Central (since 2017) and FXX would do the same.
+            </p>
+            <p>
+              In September 2021, FXX, which already carries The Simpsons and other 20th Television animated programming, announced that it would be
+              airing Futurama that November. Syfy stopped airing the show on November 10, 2021, and FXX began airing the show on November 15, 2021.
+              Adult Swim then picked the show back up on December 27, 2021. Unlike FXX, Adult Swim airs the first four seasons in their original 4:3
+              aspect ratio, pillarboxed. However, seasons 5 through 7, which were produced in 16:9, are cropped to 4:3. Comedy Central held the rights
+              to the series, usually airing it in the early morning, but was since dropped as of September 19, 2025, with The Cleveland Show aired in
+              its place at the beginning and then later by South Park, while Adult Swim dropped the show off the lineup as well after December 27, 2025,
+              remaining on FXX in exclusive on the meantime.
+            </p>
 
             <h3 className="article-heading-3" id="5.7">Hulu revival</h3>
           </div>
