@@ -654,6 +654,16 @@ const Futurama = () =>
             </p>
 
             <h3 className="article-heading-3" id="5.7">Hulu revival</h3>
+            <p>
+              In February 2022, Hulu revived the series with a 20-episode order to premiere in 2023. At the time of the announcment, the majority of
+              the main voice cast was set to return, while John DiMaggio was still in negotiations. The next day,
+              <Link to="/disney/disney+"> Disney+</Link> (Hulu's partner streaming service) announced in a press release that the new season would
+              stream internationally as a Star Original. DiMaggio stated that he had not accepted the role in mid-February 2022 because he believed the
+              entire cast of Futurama should be paid more. He stated, "Bender is part of my soul and nothing about this meant to be disrespectful to
+              the fans or my Futurama family. It's about self-respect. And honestly, it's about being tired of an industry that's become far too
+              corporate and takes advantage of artists' time and talent... I wish I could give you every detail so you would understand, but it's not
+              my place."
+            </p>
           </div>
         </div>
         <div>
