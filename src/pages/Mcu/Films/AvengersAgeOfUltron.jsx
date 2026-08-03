@@ -137,7 +137,36 @@ const AvengersAgeOfUltron = () =>
          <div>
           <Heading2 id={1} title={"Plot"} />
           <div>
-            
+            <p>
+              In the Eastern European country of <Link to="/mcu/sokovia">Sokovia</Link>, the <Link to="/mcu/avengers_(team)">Avengers</Link> storm a
+              Hydra fortress with the mission to retrieve <Link to="/mcu/loki">Loki</Link>'s <Link to="/mcu/loki's_scepter">scepter</Link> from
+              <Link to="/mcu/baron_strucker"> Baron Strucker</Link>. Meanwhile, the drones of the Iron Legion are on crowd control duty. Strucker
+              decides to surrender, seeing there was no chance of victory. Doctor List protests the decision, suggesting they release the enhanced
+              twins, <Link to="/mcu/wanda_maximoff">Wanda Maximoff</Link>, who possesses telekinetic and telepathic abilities, and
+              <Link to="/mcu/piertro_maximoff"> Pietro Maximoff</Link>, who possesses superhuman speed. Struckr refuses to risk them, unaware that the
+              twins have already mobilized. Pietro confronts the Avengers outside the base, distracting
+              <Link to="/mcu/clint_barton"> Haekeye</Link> ashe comes under fire from one of Hydra's bunkers, while Wanda remains inside the
+              fortress, which Iron Man and <Link to="/mcu/steve_rogers">Captain America</Link> were able to penetrate. Captain America then confronts
+              Strucker and subdues him.
+            </p>
+            <p>
+              In the outer base, <Link to="/mcu/thor">Thor</Link> takes the injured Hawkeye back to the Quinjet, while
+              <Link to="/mcu/natasha_romanoff"> Black Widow</Link> calms down the Hulk. Inside the base, Iron Man finds the scepter inside a secret
+              chamber containing Strucker's experiments as he downloads the Hydra scientist's records. As he explores the chamber, Wanda sneaks behind
+              him and uses her powers to make him envision his greatest fear: the bodies of the Avengersstrewn about somewhere in deep space as the
+              Earth again comes under attack from the Chitauri: with Captain America's dying breath spent scolding Tony for not saving them, and for
+              not doing his best. Tony eventually snaps out of the vision, and retrieves the scepter.
+            </p>
+            <p>
+              The Avengers return to the <Link to="/mcu/avengers_tower">Avengers Tower</Link> in New York. Doctor
+              <Link to="/mcu/helen_cho"> Helen Cho</Link>, an expert in cellular regeneration, takes a look at Clint's injuries. Tony asks Thor if he
+              could study the scepter before it's taken to <Link to="/mcu/asgard">Asgard</Link>, and agrees, giving Tony three days before he
+              departs. Tony starts to study the gem inside the scepter, and discovers it possesses some kind of artificial intelligence far more
+              advanced than his own A.I., <Link to="/mcu/J.A.R.V.I.S.">J.A.R.V.I.S.</Link> Tony convinces Bruce to resume thier work on Project Ultron,
+              a peacekeeping program meant to control the drones of the Iron Legion, which could help create peace on the planet in ways the Avengers
+              could not. During the party in celebration of the Avengers' latest victory. Tony leaves the rest of Ultron's syncing process to
+              J.A.R.V.I.S.
+            </p>
           </div>
         </div>
         <div>
