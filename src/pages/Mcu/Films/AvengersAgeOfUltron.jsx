@@ -167,6 +167,44 @@ const AvengersAgeOfUltron = () =>
               could not. During the party in celebration of the Avengers' latest victory. Tony leaves the rest of Ultron's syncing process to
               J.A.R.V.I.S.
             </p>
+            <p>
+              As the party begins, the Avengers are joined by their allies, including <Link to="/mcu/sam_wilson">Sam Wilson</Link>,
+              <Link to="/mcu/maria_hill"> Maria Hill</Link>, and <Link to="/mcu/james_rhodes">James Rhodes</Link>. During the celebration, Natasha
+              flirts with Bruce, and Tony and Thor argue over who has the better girlfriend. Meanwhile, the syncing process finishes, and
+              <Link to="/mcu/ultron"> Ultron</Link> awakens, confused by its state of existence. Even though J.A.R.V.I.S. tries to assist Ultron
+              during its first moments of consciousness, the assimilation of all the information on the present world and humanity's history causes it
+              to go haywire. Ultron attacks and seemingly destroys J.A.R.V.I.S. before building itself a body using damaged parts of the Iron Legion.
+            </p>
+            <p>
+              The party has since wound down, and only the Avengers, Maria Hill, Rhodey, and Helen Cho remain. They entertain themselves by taking turns
+              trying to lift Thor's hammer <Link to="/mcu/mjolnir">Mjolnir</Link>. Though everyone falls, Steve manages to make it budge. Ultron
+              suddenly interrupts the friendly competition, and accuses the Avengers of preventing the world from achieving peace by not allowing it to
+              evolve. Ultron believes that the Avengers must be destroyed in order to establish world peace. Ultron then sets numerous Iron Legion
+              drones to attack the Avengers, one of which escapes with Loki's scepter. Even though Thor destroyed Ultron's body, it used the internet
+              to escape, taking on all of Strucker's data with it.
+            </p>
+            <p>
+              Ultron travels to Sokovia and takes over the inner workings of Strucker's now-abandoned base, and builds itself a new body. Using
+              Strucker's data, Ultron learns about the Maximoff twins, and lures them to the church in the center of the country. Wanda tries to read
+              Ultron's mind, but the twins soon discover Ultron is not human. Ultron then convinces the wins to join his cause to destroy the Avengers.
+            </p>
+            <p>
+              Back in New York, the team confronts Tony for creating Ultron without their knowledge. Thor scolds Tony for meddling with the scepter, but
+              Tony claims that they needed Ultron, because no matter how good they do to the world, something like the Chitauri invasion can happen
+              again, and the world needs something as powerful as Ultron was intended to be. All the while, Ultron and the twins have been on the move,
+              building their army, and even killing Strucker, writing the word "PEACE" in his blood on his cell wall. The Avengers deduce that Ultron
+              killed Strucker because he would know what Ultron would do next. The Avengers start investigating the physical copies of Strucker's files,
+              and infer Ultron will want to use <Link to="/mcu/vibranium">vibranium</Link> to build itself a stronger body. They soon find out that
+              vibranium can be found in <Link to="/mcu/wakanda">Wakanda</Link>, and that one of its biggest black market dealers,
+              <Link to="/mcu/ulysses_klaue"> Ulysses Klaue</Link>, operates out of South Africa.
+            </p>
+            <p>
+              In a salvage yard close to South Africa, the Maximoff twins approach Klaue in his office inside one of the scrapped ships. They try to
+              intimidate him, but as soon as Klaue mentions he would only talk to whomever was in charge of them. Ultron flies up to the office and
+              throws Klaue out of the window, and demands vibranium. When Klaue claims that the vibranium was worth billions, Ultron uses his control
+              over the internet to transfer large amounts of money to Klaue's different accounts. Ultron is enraged when Klaue compares him to Tony,
+              and cuts off Klaue's arm while venting frustration. The Avengers arrive, and a battle breaks out.
+            </p>
           </div>
         </div>
         <div>
