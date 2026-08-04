@@ -205,6 +205,20 @@ const AvengersAgeOfUltron = () =>
               over the internet to transfer large amounts of money to Klaue's different accounts. Ultron is enraged when Klaue compares him to Tony,
               and cuts off Klaue's arm while venting frustration. The Avengers arrive, and a battle breaks out.
             </p>
+            <p>
+              Ultron and Iron Man both fly out and continue their fight outside the ship. Inside, Pietro attacks the other Avengers, giving Wanda the
+              chance to affect them with her powers. The only one who doesn't succumb to her powers is Hawkeye, who pre-empts her attack with an
+              electronically charged arrow, forcing Pietro to go help her and flee the scene. When he makes a move to get back at Clint, Wanda
+              insists that they continue their mission, and the pair find their next target in the form of Bruce Banner, who is waiting on the Quinjet
+              outisde the shipyard.
+            </p>
+            <p>
+              Inside the ship, the Avengers suffer from visions of their fears: Natasha remembers her training in the Red Room, and the way in which
+              she was weaponized and turned into an assassin; Steve sees himself in the 1940s, in a party celebrating the end of the war, where he
+              reunites with <Link to="/mcu/peggy_carter">Peggy Carter</Link>; and Thor envisions himself at a feast in Asgard, where a blinded
+              <Link to="/mcu/heimdall"> Heimdall</Link> blames him for their destruction. The group eventually snaps out of their visions, albeit
+              traumatized.
+            </p>
           </div>
         </div>
         <div>
