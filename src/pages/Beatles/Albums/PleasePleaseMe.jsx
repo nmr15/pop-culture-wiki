@@ -171,6 +171,47 @@ const PleasePleaseMe = () =>
               added later. Mark Lewisohn later wrote: "There can scarcly have been 585 more productive minutes in the history of recorded music."
               Martin oversaw each session on the day, with Norman Smith as first engineer and Richard Langham as second engineer
             </p>
+            <p>
+              On February 11, 1963, the Beatles arrived with John Lennon suffering from a bad cold, which he attempted to treat with a steady supply of
+              throat lozanges. They began their morning session at 10 am with "<Link to="/beatles/theres_a_place">There's a Place</Link>" and
+              "Seventeen" (the working title of what became "<Link to="/beatles/i_saw_her_standing_there">I Saw Her Standing There</Link>"). The band
+              rehearsed during their lunch break and then proceeded with their afternoon session. In that session, Paul McCartney recorded a
+              double-tracked vocal for "<Link to="/beatles/a_taste_of_honey">A Taste of Honey</Link>" (a standard later covered by renowneed soul
+              artists such as The Supremes, Four Tops, and Mel Carter), George Harrison sang lead on
+              "<Link to="/beatles/do_you_want_to_know_a_secret">Do You Want to Know a Secret</Link>", and Lennon and McCartney sang co-lead on
+              "<Link to="/beatles/misery">Misery</Link>." During the evening session, the band recorded covers of
+              "<Link to="/beatles/anna_go_to_him">Anna (Go to Him)</Link>", "<Link to="/beatles/boys">Boys</Link>"
+              (<Link to="/beatles/ringo_starr">Ringo Starr</Link>'s sole vocal). "<Link to="/beatles/chains">Chains</Link>", and "Baby, It's You." The
+              song "<Link to="/beatles/hold_me_tight">Hold Me Tight</Link>" was also recorded during the evening session, but proved "surplus to
+              requirements" and was not included on the album.
+            </p>
+            <p>
+              At 10 pm, with the studio set to close soon, the day ended with a cover of "<Link to="/beatles/twist_and_shout">Twist and Shout</Link>".
+              The song was picked after a discussion in the studio canteen in which numerous songs were suggested before "Twist and Shout" was
+              chosen. The performance, caight on the first take, prompted Martin to say: "I don't know how they do it. We've been recording all day but
+              the longer we go on the better they get." Lennon later remarked, "The last song nearly killed me. My voice wasn't the same for a long time
+              after; every time I swallowed, it was like sandpaper."
+            </p>
+            <p>
+              At the end of the evening session at 10:30 pm, the Beatles attended a full tape playback in the studio control room. Lennon reflected,
+              "Waiting to hear that LP played back was one of our most worrying experiences. ...As it happens, we were very happy with the result. The
+              Beatles were not present during an overdub session on February 20, during which Martin overdubbed piano on "Misery" and celesta on
+              "Baby It's You."
+            </p>
+            <p>
+              The day of recording cost approximately £400 (equivalent to £7,300 in 2025). Martin said: "There wasn't a lot of money at Parlophone. I was
+              working to an annual budget of £55,000." This budget had to cover all of the artists on Martin's roster. Individually, under a contract
+              with the Musicians' Union, each Beatle collected a session fee of £7 10s (£7.50; equivalent to £137 in 2025) for each three-hour
+              session (10:00 am - 1:00 pm / 2:30 pm - 5: 30 pm / 7:30 pm - 10:30 pm).
+            </p>
+            <p>
+              Before deciding on the title Please Please Me, Martin considered calling the album Off the Beatle Track, a title he would later use for
+              his own orchestral album of Beatles songs. The album was recorded on a two-track BTR tape machine with most of the instruments on one
+              track and the vocals on the other, allowing Martin to better balance the two in the final mono mix. A stereo mix was also made with one
+              track on the left channel and the other on the right, as well as an added layer of reverb to better blend the two tracks together. The
+              two tracks generally divided the instrumental track from the vocals, with the exception of "Boys", in which the close proximity of
+              Ringo's drums to his vocal microphone placed the drums (but not the other instruments) on the vocal channel.
+            </p>
           </div>
         </div>
         <div>
