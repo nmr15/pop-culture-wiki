@@ -131,12 +131,46 @@ const PleasePleaseMe = () =>
               "<Link to="/beatles/ps_i_love_you">P.S. I Love You</Link>", which became the B-side to "Love Me Do". They also recorded a sped-up version
               of "Please Please Me", which Martin believed had hit potential but required more work.
             </p>
+            <p>
+              Martin doubted the commercial appeal of "Love Me Do" and was surprised when it reached No. 17 on the British charts in November. Now
+              convinced that the Beatles could write hits, Martin met the Beatles on November 16 and made two suggestions for their upcoming work. First,
+              he suggested that they re-record "Please Please Me" and issue it as the Beatles' second single. Next, he proposed that they record a full
+              album, a recommendation Beatles historian Mark Lewisohn deemed "geninly mind-boggling" because the Beatles were so new to the music scene
+              and because the album market was dominated by adult buyers, not teenagers. On November 26, the Beatles held another session for "Please
+              Please Me" (to be backed with "<Link to="/beatles/ask_me_why">Ask Me Why</Link>"), after which Martin predicted that they had just made
+              their first number one record.
+            </p>
+            <p>
+              As the Beatles had extensive stage experience and a large following of local fans in Liverpool, Martin proposed the band could record a
+              live album, primarily of Lennon-McCartney songs at their resident venue, the Cavern Club, in December. Martin planned to attend the
+              Beatles' November 18 Cavern concert to gauge its suitability for recording, though he postponed the visit until December 12. Upon his
+              visit to the Cavern, Martin decided the acoustics would be unsuitable and decided to record a traditional studio album in February 1963; as
+              the Beatles had already recorded four songs for release, they would record another ten to complete the album. In the meantime, Martin also
+              solicited the Beatles' input for album names; McCartney suggested Off the Beatles Track.
+            </p>
+            <p>
+              The single "Please Please Me" was released on January 11, 1963 and reached humber one on the NME, Melody Maker, and Disc charts. In early
+              February, the group undertook their first national tour, and they planned to record their album during a break in the tour on
+              February 11.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={2} title={"Recording"} />
           <div>
-            
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Abbeyroadtomswain.jpg/250px-Abbeyroadtomswain.jpg"
+                alt="Studio 2 at EMI Studios."
+              />
+              <p>Studio 2 at EMI Studios, where the Beatles recorded the entirety of Please Please Me.</p>
+            </div>
+            <p>
+              Martin asked the band if they had any songs that they could record quickly. According to Martin, "It was a straighforward performance of
+              their stage repertoire, a broadcast, more or less." Initially, a morning and afternoon session only were booked; the evening session was
+              added later. Mark Lewisohn later wrote: "There can scarcly have been 585 more productive minutes in the history of recorded music."
+              Martin oversaw each session on the day, with Norman Smith as first engineer and Richard Langham as second engineer
+            </p>
           </div>
         </div>
         <div>
