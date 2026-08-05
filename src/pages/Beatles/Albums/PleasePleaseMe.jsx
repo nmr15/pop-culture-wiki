@@ -249,7 +249,34 @@ const PleasePleaseMe = () =>
         <div>
           <Heading2 id={4} title={"Release"} />
           <div>
+            <p>
+              Parlophone released Please Please Me in the UK on March 22, 1963. As was typical for the time, the LP was initially released in mono,
+              with a stereo release following on April 26. Singles remained the dominant format for pop music, made up mostly of teenage buyers, while
+              more expensive LPs were typically reserved for genres like classical music and jazz, whose listeners could more easily afford the format.
+              Author Barry Miles suggested the album's cover design, promising "Please Please Me", "Love Me Do", and "12 Other Songs", indicated EMI's
+              dsire to promote the album towards "die-hard supporters" excited by the two earlier singles.
+            </p>
+            <p>
+              Please Please Me hit the top of the UK album charts in May 1963 and remained there for 30 weeks before being replace by
+              <Link to="/beatles/with_the_beatles"> With the Beatles</Link>. This was an unprecedented achievement for a pop album. At the time, the
+              UK album charts tended to be dominated by film soundtracks and easy listening vocalists. Please Please Me was the first non-soundtrack
+              album to spend more than one year (62 weeks) consecutively inside the top ten of what became the Official UK Albums Chart. This record
+              run of consecutive weeks in the top ten for a debut album stood until April 2013, when Emeli Sande's Our Version of Events achieved a
+              63rd consecutive week.
+            </p>
+            <p>
+              In the March 30 issue of Record Mirror, Norman Jopling reviewed the album in depth, providing track-by-track reviews for the ten songs
+              that had not been previously released. He concluded that, for a debut, the LP is "surprisingly good and up to standard", and contained
+              many tracks that could have been released as singles, such as "I Saw Her Standing There" and "Misery". Jopling further highlighted the
+              LP's packaging, writing that its cover image and sleeve notes provided extra value. Author Jonathan Gould suggests in retrospect that the
+              album's packaging majorly contributed to its success, promising fans "glossy cover art" and a greater companion to the musi than the
+              plain paper packaging then offered by singles.
+            </p>
+
             <h3 className="article-heading-3" id="4.1">International and CD releases</h3>
+            <p>
+              
+            </p>
           </div>
         </div>
         <div>
