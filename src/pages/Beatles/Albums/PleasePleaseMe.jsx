@@ -212,12 +212,38 @@ const PleasePleaseMe = () =>
               two tracks generally divided the instrumental track from the vocals, with the exception of "Boys", in which the close proximity of
               Ringo's drums to his vocal microphone placed the drums (but not the other instruments) on the vocal channel.
             </p>
+            <p>
+              Two tracks, "Love Me Do" and "P.S. I Love You", were only mixed for mono for the single's release and no stereo versions were made, so,
+              for the stereo version of the album, during the mixing sessions on February 25, 1963, Martin created "mock stereo" versions by
+              emphasizing low frequencies on one side and high frequencies on the other. These versions would contine to be made available via 
+              compilation albums (such as <Link to="/beatles/1962-1966">1962-1966</Link>), and on Mobile Fidelity Sound Labs' half-speed mastered
+              vinyl releases sourced from EMI's original stereo master tapes, until the Beatles' catalogue was standardized and issued on compact disc
+              in 1987, starting with the first four UK albums being issued in their mono versions. However, when Capitol Records issued the second
+              volume of American Beatles albums on compact disc in 2006, the same mock stereo versions that appeared on The Early Beatles were included.
+              When the entire catalogue was remastered for release in 2009, the mono mixes were chosen for inclusion on the stereo reissues, and
+              appear on all releases since, including newer compoilations and variations.
+            </p>
           </div>
         </div>
         <div>
           <Heading2 id={3} title={"Artwork and packaging"} />
           <div>
-            
+            <p>
+              George Mrtin was an honorary fellow of the Zoological Society of London, which owns London Zoo, and he thought that it might be good
+              publicity for the zoo to have the Beatles pose outside the insect house for the cover photography of the album. However, the society
+              turned down Martin's request, and instead, Angus McBean was asked to take the distinctive color photograph of the group looking down over
+              the stairwell inside EMI's London headquarters in Manchester Square. Martin was to write later: "We rang up the legendary theatre
+              photographer Angus McBean, and bingo, he came round and did it there and then. It was done in an almighty rush, like the music. Thereafter,
+              though, the Beatles own creativity came bursting to the fore." In 1969, the Beatles asked McBean to recreate this shot. Although the 1969
+              photograph was originally intended for the then-planned Get Back album, it was not used when that project saw eventual release in 1970
+              as <Link to="/beatles/let_it_be_album">Let It Be</Link>. Instead, the 1969 photograph, along with an unused photograph from the 1963
+              photo shoot, was used in 1973 for the Beatles' retrospective albums 1962-1966 and <Link to="/beatles/1697-1970">1967-1970</Link>.
+              Another unused photograph from the 1963 photo shoot was used for The Beatles (No. 1).
+            </p>
+            <p>
+              The Beatles' press officer Tony Barrow wrote extensive sleeve notes, which included a brief mention of their early 1960s rivals the
+              Shadows.
+            </p>
           </div>
         </div>
         <div>
