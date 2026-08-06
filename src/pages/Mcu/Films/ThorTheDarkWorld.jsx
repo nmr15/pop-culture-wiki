@@ -757,6 +757,19 @@ const ThorTheDarkWorld = () =>
           <Heading2 id={8} title={"Sequels"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Thor: Ragnarok</h3>
+            <p>
+              Thor: Ragnarok was released on November 3, 2017, directed by <Link to="/people/taika_waititi">Taika Waititi</Link>. Eric Pearson and
+              Craig Kyle & Christopher Yost wrote the screenplay, with Kevin Feige again producing. Hemsworth, Hiddleston, Hopkins, Elba, Asang, Levi,
+              and Stevenson reprise their roles as Thor, Loki, Odin, Heimdall, Hogun, Fandrall, and Volstagg, respectively, while
+              <Link to="/people/mark_ruffalo"> Mark Ruffalo</Link> and <Link to="/people/benedict_cumberbatch">Benedict Cumberbatch</Link> appear as
+              <Link to="/mcu/bruce_banner"> Bruce Banner / Hulk</Link> and <Link to="/mcu/stephen_strange">Doctor Strange</Link> respectively,
+              reprising their roles from previous MCU films. <Link to="/people/cate_blanchett">Cate Blanchett</Link>,
+              <Link to="/people/tessa_thompson"> Tessa Thompson</Link>, <Link to="/people/jeff_goldblum">Jeff Goldblum</Link>, and
+              <Link to="/people/karl_urban"> Karl Urban</Link> join the cast as <Link to="/mcu/hela">Hela</Link>,
+              <Link to="/mcu/valkyrie"> Valkyrie</Link>, <Link to="/mcu/grandmaster">Grandmaster</Link>, and <Link to="/mcu/skurge">Skurge</Link>,
+              respectively.
+            </p>
+
             <h3 className="article-heading-3" id="8.2">Thor: Love and Thunder</h3>
           </div>
         </div>
