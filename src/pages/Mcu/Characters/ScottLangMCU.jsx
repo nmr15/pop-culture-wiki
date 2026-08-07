@@ -16,7 +16,50 @@ const ScottLangMCU = () =>
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
           <li className="sidebar-list-item"><a href="#1">Concept, creation, and casting</a></li>
-          
+          <Collapse 
+            id="2"
+            item="Fictional biography"
+            sub={[
+              {id: "2.1", title: "Early life", sub2: [
+                {id: "2.1.1", title: "Childhood"},
+                {id: "2.1.2", title: "College years"},
+                {id: "2.1.3", title: "Raising a family"},
+                {id: "2.1.4", title: "The VistaCorp job"},
+                {id: "2.1.5", title: "Prison sentence and divorce"},
+                {id: "2.1.6", title: "A biased interview"}
+              ]},
+              {id: "2.2", title: "Release from San Quentin", sub2: [
+                {id: "2.2.1", title: "Job search"},
+                {id: "2.2.2", title: "Unwelcome family reunion"},
+                {id: "2.2.3", title: "Breaking into Pym's residence"},
+                {id: "2.2.4", title: "Trails of the suit"},
+                {id: "2.2.5", title: "Prison break"},
+                {id: "2.2.6", title: "Hank Pym's mission"}
+              ]},
+              {id: "2.3", title: "Becoming Ant-Man", sub2: [
+                {id: "2.3.1", title: "Beginning training"},
+                {id: "2.3.2", title: "Combat training"},
+                {id: "2.3.3", title: "Meeting the ants"},
+                {id: "2.3.4", title: "Becoming one with the ants"},
+                {id: "2.3.5", title: "Mission planning"},
+                {id: "2.3.6", title: "Hank Pym's confession"},
+                {id: "2.3.7", title: "Duel at the Avengers compound"},
+                {id: "2.3.8", title: "Complicating the plan"},
+                {id: "2.3.9", title: "Stealing the Yellowjacket"},
+                {id: "2.3.10", title: "Stopping Darren Cross"},
+                {id: "2.3.11", title: "Duel at Jim Paxton's house"},
+                {id: "2.3.12", title: "Quantum Realm"},
+                {id: "2.3.13", title: "Heist aftermath"}
+              ]},
+              {id: "2.4", title: "Sought by the Avengers"},
+              {id: "2.5", title: "Under house arrest"},
+              {id: "2.6", title: "Returning to Ant-Man"},
+              {id: "2.7", title: "Joining the Avengers"},
+              {id: "2.8", title: "Time Heist"},
+              {id: "2.9", title: "Recognized hero"},
+              {id: "2.10", title: "Adventures in the Quantum Realm"}
+            ]}
+          />
           <Collapse 
             id="3"
             item="Powers and abilities"
@@ -120,6 +163,19 @@ const ScottLangMCU = () =>
             <Link to="/mcu/antman_and_the_wasp_quantumania"> Ant-Man and the Wasp: Quantumania</Link> Alternate versions of the character appeared
             in the <Link to="/disney/disney+">Disney+</Link> animated series <Link to="/mcu/what_if">What If...?</Link>, with Rudd reprising his role.
           </p>
+        </div>
+        <div>
+          <Heading2 id={"3"} title={"Powers and abilities"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Powers</h3>
+            <ul className="article-list">
+              <li>
+                <Link to="/mcu/ant-man_suit">Ant-Man Suit</Link> Capabilities: In need of a new Ant-Man for his heist, Hank Pym tricked Scott into breaking
+                into his house and stealing the Ant-Man suit. After some practicing, Scott became very good with the technology and used it to complete the
+                heist. He then kept the suit.
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </>
