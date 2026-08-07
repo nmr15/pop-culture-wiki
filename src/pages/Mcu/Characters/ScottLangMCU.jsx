@@ -173,6 +173,20 @@ const ScottLangMCU = () =>
                 <Link to="/mcu/ant-man_suit">Ant-Man Suit</Link> Capabilities: In need of a new Ant-Man for his heist, Hank Pym tricked Scott into breaking
                 into his house and stealing the Ant-Man suit. After some practicing, Scott became very good with the technology and used it to complete the
                 heist. He then kept the suit.
+                <ul className="article-sublist">
+                  <li>
+                    Size Manipulation: Using technology developed by Hank Pym, Scott is able to reduce himself to approximately the size of an ant, though
+                    he can also grow his body to gigantic sizes. He still maintains his reular-sized strength and resilience when shrinking; while in
+                    reduced scale, this translates to granting him inhuman effort and exertion capabilities. Also, obtaining momentum and kinetic energy
+                    in small scale and exerting it immediately while returning to or right afteer returning to normal size can result in a feat of
+                    superhuman effort and exertion, and therefore, momentarily give Scott enhanced strength while in regular size, enough to send a man
+                    flying while attacking and enlarging himself at the same time. The process of altering size compresses force and energy, manifesting
+                    as brief shockwaves of vibration around the target that charge the target with momentum. Initially, Scott could not maintain his giant
+                    transformation for extended periods of time, as it causes some heavy stress on his body and if done long enough, he can even faint.
+                    However, Scott seemed to be getting used to it the more times he does it, and instead of fainting he only very exhausted; by the time
+                    of the Battle of Earth, Scott remained most of the conflict in giant form without fainting, exhausting, or showing any major drawbacks.
+                  </li>
+                </ul>
               </li>
             </ul>
           </div>
