@@ -162,6 +162,48 @@ const Halo = () =>
           <Heading2 id={2} title={"Game series"} />
           <div>
             <h3 className="article-heading-3" id="2.1">2001-2010: Bungie games</h3>
+            <p>
+              Video game studio Bungie was founded in 1991 by Alex Seropian in Chicago, Illinois, who partnered with programmer Jason Jones the
+              following year to market and release Jones' game Minotaur: The Labyrinth of Crete. Focusing on the Mac game market because it was
+              smaller and easier to compete. Bungie became a preeminent game developer on the platform, releasing the successful Myth and Maration.
+              Bungie began development on a new game in 1997, referring to it by it by the temporary code names "Monkey Nuts" and later "Blam!" after
+              Jones could not bring himself to say the previous codename to his mother. "Blam!" was conceived as a science fiction real-time strategy
+              game and took place on a hollowed-out world called Solipsis. The planet eventually became a ringworld called "Halo", in turn giving the
+              game its title.
+            </p>
+            <p>
+              As the development team began experimenting with incorporating vehicles with realistic physics simulations, they began moving the distant
+              third-person camera close to the action. Bungie decided it would be more fun to directly control units than direct them, and the game
+              shifted to a third-person shooter. Halo was announced on July 21, 1999, during the Macworld Conference & Expo. The title of the game was
+              finalized only days before it was announced at Macworld.
+            </p>
+            <p>
+              Bungie was undergoing financial difficulties, and <Link to="/microsoft">Microsoft</Link> was looking for games for its upcoming
+              <Link to="/xbox/xbox_{console)"> Xbox</Link> video game console. In June 2000, Microsoft announced their acquisition of Bungie, and Halo,
+              now having morphed into a first-person shooter, became a launch title for the Xbox video game console. Relocated from Chicago to Redmont,
+              Washington, Bungie had roughly 14 months to finish the game before the Xbox launched. The story slowly began to take shape, with an
+              internal debate at Bungie over how much personality to give the main character. Writer Joe Staten wanted to do more than have the player
+              character be an "empty vessel" like Half-Life's Gordon Freeman, so they wrote him with a sense of humor. Deciding he should be reffered to
+              by his naval rank, Bungie decided on "<Link to="/halo/john-117">Master Chief</Link>." Despite a difficult and hectic development
+              schedule, Halo: Combat Evolved shipped as a launch title for the Xbox on November 15, 2001. The Xbox's marketing heavily featured Halo,
+              whose green color palette meshed with the console's design scheme. Halo was a critical and commercial success, selling alongside half of
+              every Xbox sold. By July 2006, the game had sold 4.2 million copies and earned $170 million in the United States.
+            </p>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Old_Bungie_Logo.svg/250px-Old_Bungie_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+                alt="Bungie logo."
+              />
+              <p>Bungie originated the Halo game series and developed games from 2001 to 2010.</p>
+            </div>
+            <p>
+              Halo: Combat Evolved introduced many elements common in the franchise. Players battle enemies on foot and in vehicles to complete
+              objectives across a mysterious alien landscape. Halo limited the number of weapon players could carry to two, forcing them to carefully
+              select thir preferred armament. Players fight with ranged and melee attacks, as well as grenades. Bungie referred to the
+              "weapons-grenade-melee" formula as the "Golden Triangle of Halo." The player has health measured in hit points that must be replenished
+              with health packs, but also has a perpetually recharging energy shield.
+            </p>
+
             <h3 className="article-heading-3" id="2.2">2011-2021: 343 Industries games</h3>
             <h3 className="article-heading-3" id="2.3">2024-present: Halo Studios games</h3>
             <h3 className="article-heading-3" id="2.4">Spin-offs</h3>
