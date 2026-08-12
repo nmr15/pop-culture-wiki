@@ -203,6 +203,49 @@ const Halo = () =>
               "weapons-grenade-melee" formula as the "Golden Triangle of Halo." The player has health measured in hit points that must be replenished
               with health packs, but also has a perpetually recharging energy shield.
             </p>
+            <p>
+              While Halo had not been intended as a franchise, the Bungie team wanted to make an ambitious sequel, looking to story and gameplay ideas
+              that had been ultimately cut from Combat Evolved, and inspired by how fans had received the game. In particular, Bungie was surprised by
+              how many fans used the System Link capability to network consoles together and play multiplayer in LAN parties. With the launch of the
+              <Link to="/xbox/xbox_live"> Xbox Live</Link> online multiplayer service, Bungie wanted to being Halo multiplayer to the internet.
+            </p>
+            <p>
+              <Link to="/halo/halo_2"> Halo 2</Link> was announced on August 8, 2002, at Microsoft X02 press event, and an impressive demo of the game
+              was shown at Electronic Entertainment Expo the following year. The demo showed off new features like dual-wielding weapons and hijacking
+              enemy vehicles, but behind the scenes the game was undergoing a troubled development; Bungie had to scrap the ambitious graphics engine
+              as it would not run effectively on the Xbox hardware, leadership changes resulted in more infighting, and artists and designers wasted
+              time developing assets that would ultimately not ship in the game. A planned massive multiplayer mode was entirely cut, leading to
+              developer Max Hoberman's smaller-scale local mode becoming the only multiplayer offering. As the game's release date slipped, the studio
+              entered a sustained period of crunch to finish the game, with other Bungie games being canceled and their staff absorbed into the Halo 2
+              team. The final act of the game had to be cut entirely in the rush to complete the game. Halo 2 was released on the Xbox in November 2004,
+              and later for Windows Vista in 2007. Part of the marketing took the form of an alternate reality game, I Love Bees, centered around a
+              website apparently hacked by a mysterious intelligence. Over the course of the game, audio clips were released that formed a narrative set
+              on Earth between Halo and Halo2. Halo 2 was a critical and commercial success, grossing $125 million in the first day and becoming the
+              highest-grossing release in entertainment history up to that point; it would ultimately sell 8 million copies, becoming the best-selling
+              Xbox game. Halo 2 was also a significant motivatior for subscriptions to the Xbox Live multiplayer service.
+            </p>
+            <p>
+              Frustrated by the development of Halo 2 and wanting to move on to new non-Halo projects, Bungie wanted to wrap things up in a satisfying
+              manner with <Link to="/halo/halo_3">Halo 3</Link>. Burned out by Halo 2, Jason Jones went on an extended sabbatical, and the Halo 3 effort
+              started without direction as no one was definitively in charge. Designer Paul Bertone recalled that the large development staff (70-80
+              people) meant more meetings and less efficiency. Multiple staff members temprarily or permanently departed the development team,
+              inluding Hoberman, who started his own studio, Certain Affinity after developing Halo 3's online systems. Despite the difficult development,
+              overall Halo 3's development went more smoothly than Halo 2. Halo 3 was announced at the 2006 Electronic Entertainment Expo, and released
+              on the <Link to="/xbox/xbox_360">Xbox 360</Link> on September 25, 2007. It added new gameplay elements, including deployable equipment and
+              heavy weapons. The game also added a limited map-editing tool, known as <Link to="/halo/forge">Forge</Link>, which allows players to
+              insert game objects, such as weapons and vehicles, into existing multiplayer map geometry. A saved films feature allowed players to
+              record gameplay and review it from any angle. Backed by an extensive marketing campaign, Halo 3 was a critical and commercial success,
+              grossing $170 million in the U.S. in the first 24 hours. The game was the best-selling title of the year in the U.S., and the fourteenth
+              best-selling game of the 2000s.
+            </p>
+            <p>
+              Lingering dissatisfaction with Bungie's acquisition by Microsoft in 2000 and a desire for more favorable profit-sharing on Halo 3 led to
+              an agreement where Bungie would become an independent studio after shipping a set number of new Halo games. Bungie announced their
+              independence in October 2007. They were contractually obligated to produce two more Halo games as part of the deal. One project turned
+              into the game <Link to="/halo/halo_reach">Halo: Reach</Link>, while the other was initially going to be a production with Peter Jackson's
+              Wingnut Interactive. When that project was scrapped, Bungie took elements prototyped for it and added them to a smaller Halo 3 expansion,
+              originally titled Halo 3: Recon.
+            </p>
 
             <h3 className="article-heading-3" id="2.2">2011-2021: 343 Industries games</h3>
             <h3 className="article-heading-3" id="2.3">2024-present: Halo Studios games</h3>
