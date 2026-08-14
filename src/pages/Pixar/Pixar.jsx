@@ -391,6 +391,54 @@ const Pixar = () =>
               production. In December 2022, Disney CEO Bob Iger noted that they would rely more on the Pixar brand. In June 2023, Disney laid off 75
               employees including the director of Lightyear Angus MacLane, and the film's producer Galyn Susman.
             </p>
+            <p>
+              During the same month <Link to="/pixar/elementals">Elementals</Link> was released. During the film's oening weekend, Docter stated that
+              Pixar "trained audiences that these films will be available for you on Disney+." Despite below projections, Elementa; ultimately made a
+              box office comeback by early August 2023, crossing $430 million at the worldwide box office. Disney's EVP of Theatrical Distribution
+              Tony Chambers stated "After a disappointing opening weekend, we're really pleased that audiences have discovered what a great movie it
+              is." That same month, Morris said "at the box office we're looking at now, [the film] should do better than break even theatrically.
+              And then we have revenue from streaming, theme parks, and consumer products. This will certainly be a profitable film for the Disney
+              company." In December 2023, it was announced that Soul, Turning Red, and Luca would be released in theaters in the United States in the
+              first quarter of 2024.
+            </p>
+            <p>
+              In January 2024, it was reported that Pixar's staff would face imminent layoffs by 20 percent, reducing the studio's workforce to
+              less than 1,000 employees. However, the layoffs were then delayed and did not occur, reportedly because of production schedules. In
+              May 2024, the studio proceeded with slightly smaller layoffs: 175 employees or approximately 14 percent of the studio's workforce of
+              over 1,300 employees. The layoffs occurred as the studio began to rely less on direct-to-streaming series and more on feature films
+              intended primarily for theatreical exhibition.
+            </p>
+            <p>
+              On June of the same year, <Link to="/pixar/inside_out_2">Inside Out 2</Link> was released and became financially sucessful. The film had
+              a domestic opening of $165 million, the third highest for an animated film, and the biggest global opening for an animated movie with
+              $319 million. Since then, Inside Out 2 broke multiple box office records. It had the highest second weekend gross for an animated film
+              with $100 million, beign the first to reach the six-digit second opening weekend. It became the fastest animated movie to reach
+              $1 billion at the global box office, reaching the milestone in 17 days. It also out-grossed Incredibles 2 to become the highest-grossing
+              Pixar film. Inside Out 2 became the highest-grossing animated film, and the 8th-highest-grossing film of all time at the of its
+              theatrical run. Dream Productions, an Inside Out spin-off series set between the first and second film, was released on December 11, 2024,
+              on Disney+.
+            </p>
+            <p>
+              In June 2025, Picar released <Link to="/pixar/elio">Elio</Link>. The film had the lowest box office opening for a Pixar film to date,
+              earning $25 million, and an all-time low global opening of $39 million. In an op-ed, Rebecca Rubin for Variety noted that Elio faced
+              stiff box office competition against the 2025 live-action remakes of How to Train Your Dragon and Disney's Lilo & Stitch. Shawn
+              Robbins for Fandango observe, "Competition from family audiences was difficult to overcome. It makes you wonder how Elio would have
+              performed in the spring, or even a week or two later." Rubin wrote that similar to Elementals, Elio could have steady box office
+              longevity thanks to favorable reviews and positive word-of-fmouth. However, Elio underperformed at the box office, earning $154
+              million worldwide. On September 17, 2025, Elio began streaming on Disney+ and became one of the top-streaming titles for that week.
+            </p>
+            <p>
+              In March 2026, <Link to="/pixar/hoppers">Hoppers</Link> was released to positive reviews. During its opening weekend, it garnered $45.3
+              million in the United States and Canada and $42 million overseas for a worldwide total of $88 million, taking first place at the box
+              office. It was also the highest opening for an original Pixar film since Coco and the best opening for an original animated film.
+            </p>
+            <p>
+              In June 2026, <Link to="/toy_story/toy_story_5">Toy Story 5</Link> earned $160 million during its opening domestic box office weekend.
+              Internationally, it earned $152 million for a global opening weekend of $312 million, in which it became a record-high for the franchise
+              and Pixar's history. A month later, Disney cut several hundred positions across its corporate divisions, including ESPN, Disney
+              Entertainment Television, and National Geographic, with Pixar reported to be the most impacted by the cuts. These reductions represent
+              the broader corporate restructuring initiative under Disney CEO Josh D'Amaro.
+            </p>
           </div>
         </div>
          <div>
