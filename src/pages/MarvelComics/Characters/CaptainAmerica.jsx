@@ -28,7 +28,44 @@ const CaptainAmerica = () =>
               {id: "1.7", title: "Modern era (2000s to present)"}
             ]}
           />
-
+          <Collapse 
+            id="2"
+            item="Fictional history"
+            sub={[
+              {id: "2.1", title: "Early life"},
+              {id: "2.2", title: "Becoming America's super-soldier"},
+              {id: "2.3", title: "World War II service"},
+              {id: "2.4", title: "Suspended animation"},
+              {id: "2.5", title: "Avengers"},
+              {id: "2.6", title: "Nomad"},
+              {id: "2.7", title: "Secret Wars"},
+              {id: "2.8", title: "Masters of Evil IV"},
+              {id: "2.9", title: "The Captain"},
+              {id: "2.10", title: "Continued career"},
+              {id: "2.11", title: "Secret War"},
+              {id: "2.12", title: "Avengers Disassembled"},
+              {id: "2.13", title: "New Avengers"},
+              {id: "2.14", title: "Winter Soldier and Civil War"},
+              {id: "2.15", title: "The dream lives on"},
+              {id: "2.16", title: "Pardoned"},
+              {id: "2.17", title: "Siege"},
+              {id: "2.18", title: "The Erskine legacy"},
+              {id: "2.19", title: "Fear Itself"},
+              {id: "2.20", title: "Spider-Island"},
+              {id: "2.21", title: "The Vengeance of Codename: Bravo"},
+              {id: "2.22", title: "Avengers: X-Sanction"},
+              {id: "2.23", title: "Avengers vs. X-Men"},
+              {id: "2.24", title: "Uncanny Avengers"},
+              {id: "2.25", title: "Dimension Z"},
+              {id: "2.26", title: "All-New Captain America"},
+              {id: "2.27", title: "Time Runs Out"},
+              {id: "2.28", title: "Pleasant Hill and the Secret Empire"},
+              {id: "2.29", title: "Identity Crisis"},
+              {id: "2.30", title: "Back as Captain America"},
+              {id: "2.31", title: "Enter the Phoenix"},
+              {id: "2.32", title: "Sentinel of Liberty"}
+            ]}
+          />
           <li className="sidebar-list-item"><a href="#3">Personality</a></li>
           <Collapse 
             id="4"
