@@ -19,7 +19,7 @@ const ToyStory3 = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/pixar">Pixar</Link></li>
-          <li><Link to="/toy_story">Toy Story (franchise)</li>
+          <li><Link to="/toy_story">Toy Story (franchise)</Link></li>
           <li>Toy Story 3</li>
         </ul>
         <div>
