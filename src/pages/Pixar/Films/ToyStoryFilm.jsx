@@ -40,8 +40,24 @@ const ToyStoryFilm = () =>
               </td>
             </tr>
             <tr>
-              <th className="infobox-data">Template</th>
-              <td className="infobox-data">Template</td>
+              <th className="infobox-data">Directed by</th>
+              <td className="infobox-data"><Link to="/people/john_lasseter">John Lasseter</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Projects</th>
+              <td className="infobox-data"><Link>List of Pixar projects</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Characters</th>
+              <td className="infobox-data"><Link>List of Pixar character</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next Pixar film</th>
+              <td className="infobox-data"><Link to="/pixar/a_bugs_life">A Bug's Life</Link></td>
+            </tr>
+            <tr>
+              <th className="infobox-data">Next Toy Story film</th>
+              <td className="infobox-data"><Link to="/toy_story/toy_story_2">Toy Story 2</Link></td>
             </tr>
           </tbody>
         </table>
