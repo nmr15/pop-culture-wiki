@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const CarsFilm = () =>
+const ToyStory3 = () =>
 {
   useEffect(() =>
   {
-    document.title = "Cars (film) - Pop Culture Wiki";
+    document.title = "Toy Story 3 - Pop Culture Wiki";
   }, []);
 
   return(
@@ -19,22 +19,22 @@ const CarsFilm = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/pixar">Pixar</Link></li>
-          <li>Cars (film)</li>
+          <li>Toy Story 3</li>
         </ul>
         <div>
-          <h1 className="article-heading">Cars (film)</h1>
+          <h1 className="article-heading">Toy Story 3</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Cars</span>
+                <span>Toy Story 3</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg" alt="Cars poster" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg" alt="Toy Story 3 poster" />
                 </span>
               </td>
             </tr>
@@ -52,4 +52,4 @@ const CarsFilm = () =>
   )
 }
 
-export default CarsFilm;
+export default ToyStory3;

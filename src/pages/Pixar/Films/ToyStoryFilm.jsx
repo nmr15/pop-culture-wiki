@@ -20,6 +20,7 @@ const ToyStoryFilm = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
+          <li><Link to="/pixar">Pixar</Link></li>
           <li>Toy Story (film)</li>
         </ul>
         <div>
