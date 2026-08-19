@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const Cars2 = () =>
+const MonstersUniversity = () =>
 {
   useEffect(() =>
   {
-    document.title = "Cars 2 - Pop Culture Wiki";
+    document.title = "Monsters University - Pop Culture Wiki";
   }, []);
 
   return(
@@ -19,23 +19,22 @@ const Cars2 = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/pixar">Pixar</Link></li>
-          <li><Link to="/cars_franchise">Cars (franchise)</Link></li>
-          <li>Cars 2</li>
+          <li>Monsters University</li>
         </ul>
         <div>
-          <h1 className="article-heading">Cars 2</h1>
+          <h1 className="article-heading">Monsters University</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Cars 2</span>
+                <span>Monsters University</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Cars_2_Poster.jpg" alt="Cars 2 poster" />
+                  <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Monsters_University_poster_3.jpg" alt="Monsters University poster" />
                 </span>
               </td>
             </tr>
@@ -53,4 +52,4 @@ const Cars2 = () =>
   )
 }
 
-export default Cars2;
+export default MonstersUniversity;

@@ -19,6 +19,7 @@ const CarsFilm = () =>
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/pixar">Pixar</Link></li>
+          <li><Link to="/cars_franchise">Cars (franchise)</Link></li>
           <li>Cars (film)</li>
         </ul>
         <div>
