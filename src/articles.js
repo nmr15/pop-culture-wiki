@@ -10,6 +10,7 @@ import { gta, gtaCharacters } from "./data/dataGta";
 import { hpbooks, hpchars } from "./data/dataHarryPotter"
 import { marvel } from "./data/dataMarvel"
 import { mcu, mcuMeta, mcuChar } from "./data/dataMcu";
+import { pixarFilms } from "./data/dataPixar";
 import { simpsonsChars } from "./data/dataSimpsons"
 import { spidermanFilms } from "./data/dataSpidermanFilms";
 import { starwarsFilms, starwarsSeries, starwarsChars } from "./data/dataStarWars";
@@ -109,6 +110,13 @@ export const routesMcuChars = mcuChar.map(mcuChar => ({
 export const routesMcuMeta = mcuMeta.map(mcumeta => ({
   path: mcumeta.route,
   Component: lazy(() => import(`./pages/Mcu/${mcumeta.file}.jsx`))
+}));
+
+// PIXAR
+
+export const routesPixarFilms = pixarFilms.map(pixarFilms => ({
+  path: pixarFilms.route,
+  Component: lazy(() => import(`./pages/Pixar/Films/${pixarFilms.file}.jsx`))
 }));
 
 // SIMPSONS
