@@ -140,6 +140,26 @@ const ToyStoryFilm = () =>
             theme Pixar desired: "toys deeply want children to play with them, and ...this desire drives their hopes, fears, and actions." The studio,
             then consisting of a relatively small number of employees, produced Toy Story under financial constraints.
           </p>
+          <p>
+            Toy Story premiered at the El Capitan Theatre in Los Angeles on November 19, 1995, and was released theatrically in the United States on
+            November 22. It set a record for the highest-grossing opening weekend and eventually grossed over $363 million worldwide, making it the
+            second highest-grossing film of 1995. The film received critical acclaim, with praise directed towards the animation, screenplay, Randy
+            Newman's score, appeal to all age groups, and voice performances, particularly of Hanks and Allen. It holds a 100% approval rating on film
+            aggregation website Rotten Tomatoes.
+          </p>
+          <p>
+            The film is frequently lauded as one of the greatest animated films ever made, and, due to its status as the first computer-animated film,
+            one of the most important films in the medium's history and in film at large. The film received three Academy Award nominations,
+            Best Original Screenplay (the first animated film to be nominated for the award), Best Original Song for "You've Got a Friend in Me",
+            and Best Original Score, in addition to being honored with a non-competitive Special Achievement Academy Awards.
+          </p>
+          <p>
+            In 2005, Toy Story was selected for preservation in the United States National Film Registry by the Library of Congress as being
+            "culturally, historically, or aesthetically significant." The success of Toy Story launched a multimedia franchise, with four sequels
+            beginning with <Link to="/toy_story/toy_story_2">Toy Story 2</Link>; a spin-off film, <Link to="/toy_story/lightyear">Lightyear</Link>;
+            and numerous short films. Toy Story has had several theatrical re-releases, including a 3D re-release in 2009 as part of a double
+            feature with Toy Story 2, and a 30th anniversary re-release in 2025.
+          </p>
         </div>
       </main>
     </>
