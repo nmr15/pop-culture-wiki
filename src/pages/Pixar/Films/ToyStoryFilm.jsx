@@ -15,6 +15,62 @@ const ToyStoryFilm = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
+          <li className="sidebar-list-item"><a href="#2">Voice cast</a></li>
+          <Collapse 
+            id="3"
+            item="Production"
+            sub={[
+              {id: "3.1", title: "Development"},
+              {id: "3.2", title: "Writing"},
+              {id: "3.3", title: "Casting"},
+              {id: "3.4", title: "Production shutdown"},
+              {id: "3.5", title: "Animation"},
+              {id: "3.6", title: "Music"},
+              {id: "3.7", title: "Editing and pre-release"},
+            ]}
+          />
+          <Collapse 
+            id="4"
+            item="Release"
+            sub={[
+              {id: "4.1", title: "Marketing"},
+              {id: "4.2", title: "Re-releases", sub2:[
+                {id: "4.2.1", title: "3-D conversion"},
+                {id: "4.2.2", title: "Disney100"},
+                {id: "4.2.3", title: "30th anniversary"}
+              ]},
+              {id: "4.3", title: "Home media"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Reception"
+            sub={[
+              {id: "5.1", title: "Box office"},
+              {id: "5.2", title: "Critical response"},
+              {id: "5.3", title: "Accolades"}
+            ]}
+          />
+          <Collapse 
+            id="6"
+            item="Influence and legacy"
+            sub={[
+              {id: "6.1", title: `"To infinity... and Beyond"`},
+              {id: "6.2", title: "Other influences"}
+            ]}
+          />
+          <Collapse 
+            id="7"
+            item="Sequels and spin-off"
+            sub={[
+              {id: "7.1", title: "Toy Story 2"},
+              {id: "7.2", title: "Toy Story 3"},
+              {id: "7.3", title: "Toy Story 4"},
+              {id: "7.4", title: "Lightyear"},
+              {id: "7.5", title: "Toy Story 5"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
