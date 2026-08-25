@@ -120,7 +120,26 @@ const ToyStoryFilm = () =>
           </tbody>
         </table>
         <div className="div-top">
-          
+          <p>
+            <b>Toy Story</b> is a 1995 American animated adventure comedy film directed by <Link to="/people/john_lasseter">John Lasseter</Link>,
+            and written by <Link to="/people/joss_whedon">Joss Whedon</Link>, <Link to="/people/andrew_stanton">Andrew Stanton</Link>, Joel Cohen,
+            and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by
+            <Link to="/pixar"> Pixar Animation Studios</Link>, it stars the voices of <Link to="/people/tom_hanks">Tom Hanks</Link>,
+            <Link to="/people/tim_allen"> Tim Allen</Link>, Annie Potts, <Link to="/people/john_ratzenberger">John Ratzenberger</Link>,
+            <Link to="/people/don_rickles">Don Rickles</Link>, <Link to="/people/wallace_shawn">Wallace Shawn</Link>, and
+            <Link to="/people/jim_varney"> Jim Varney</Link>. Set in a world where toys come to life, Toy Story follows an old-fashioned cowboy doll
+            named <Link to="/toy_story/woody">Woody</Link>, who becomes jealous that a space cadet action figure,
+            <Link to="/toy_story/buzz_lightyear"> Buzz Lightyear</Link>, is replacing him as the favorite toy of their owner
+            <Link to="/toy_story/andy_davis"> Andy</Link>.
+          </p>
+          <p>
+            Following the success of the 1988 short film Tin Toy, Pixar was approached by <Link to="/disney">Disney</Link> to produce a
+            computer-animated feature film that was told from a small toy's perspective. Lasseter, Stanton, and
+            <Link to="/people/pete_docter"> Pete Docter</Link> wrote early story treatments, which were rejected by Disney, who wanted the film's tone
+            to be edgier. After several disastrous story reels, production was halted, and the script was rewritten to better reflect the tone and
+            theme Pixar desired: "toys deeply want children to play with them, and ...this desire drives their hopes, fears, and actions." The studio,
+            then consisting of a relatively small number of employees, produced Toy Story under financial constraints.
+          </p>
         </div>
       </main>
     </>
