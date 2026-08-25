@@ -209,6 +209,7 @@ export const pixarChars = [
     "id": "pixarChar1",
     "title": "Woody",
     "file": "Woody",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/e/ef/Woody_profile.jpg",
     "route": "/toy_story/woody"
   },
@@ -216,6 +217,7 @@ export const pixarChars = [
     "id": "pixarChar2",
     "title": "Buzz Lightyear",
     "file": "BuzzLightyear",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/5/56/Buzz_Profile.jpg",
     "route": "/toy_story/buzz_lightyear"
   },
@@ -223,6 +225,7 @@ export const pixarChars = [
     "id": "pixarChar3",
     "title": "Jessie",
     "file": "JessieTS",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d6/Jessie_Profile.PNG",
     "route": "/toy_story/jessie"
   },
@@ -230,6 +233,7 @@ export const pixarChars = [
     "id": "pixarChar4",
     "title": "Mr. Potato Head",
     "file": "MrPotatoHead",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/f/f0/SurprisedMrP_tato.jpg",
     "route": "/toy_story/mr._potato_head"
   },
@@ -237,6 +241,7 @@ export const pixarChars = [
     "id": "pixarChar5",
     "title": "Slinky Dog",
     "file": "SlinkyDog",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/c/ce/Slinky0002.png",
     "route": "/toy_story/slinky_dog"
   },
@@ -244,6 +249,7 @@ export const pixarChars = [
     "id": "pixarChar6",
     "title": "Rex",
     "file": "RexTS",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/1/14/Rex_%28Transparent%29.png",
     "route": "/toy_story/rex"
   },
@@ -251,6 +257,7 @@ export const pixarChars = [
     "id": "pixarChar7",
     "title": "Hamm",
     "file": "Hamm",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/8/8d/Hamm_Profile.PNG",
     "route": "/toy_story/hamm"
   },
@@ -258,6 +265,7 @@ export const pixarChars = [
     "id": "pixarChar8",
     "title": "Bo Peep",
     "file": "BoPeep",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/f/f0/Bo_Peep.png",
     "route": "/toy_story/bo_peep"
   },
@@ -265,6 +273,7 @@ export const pixarChars = [
     "id": "pixarChar9",
     "title": "Andy Davis",
     "file": "AndyDavis",
+    "franchise": "Toy Story",
     "img": "https://static.wikia.nocookie.net/pixar/images/e/ed/Andy.webp",
     "route": "/toy_story/andy_davis"
   },
@@ -272,6 +281,7 @@ export const pixarChars = [
     "id": "pixarChar10",
     "title": "Flik",
     "file": "Flik",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/e/e5/Profile_-_Flik.webp",
     "route": "/pixar/flik"
   },
@@ -279,6 +289,7 @@ export const pixarChars = [
     "id": "pixarChar11",
     "title": "Princess Atta",
     "file": "Atta",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/78/Profile_-_Atta.webp",
     "route": "/pixar/princess_atta"
   },
@@ -286,6 +297,7 @@ export const pixarChars = [
     "id": "pixarChar12",
     "title": "Dot",
     "file": "DotABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/6/62/Profile-_Dot.webp",
     "route": "/pixar/dot"
   },
@@ -293,6 +305,7 @@ export const pixarChars = [
     "id": "pixarChar13",
     "title": "Hopper",
     "file": "HopperABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/8/81/Hopper.png",
     "route": "/pixar/hopper"
   },
@@ -300,6 +313,7 @@ export const pixarChars = [
     "id": "pixarChar14",
     "title": "The Queen",
     "file": "TheQueenABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/6/64/Queen.jpg",
     "route": "/pixar/the_queen"
   },
@@ -307,6 +321,7 @@ export const pixarChars = [
     "id": "pixarChar15",
     "title": "Slim",
     "file": "SlimABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/4/47/Slimbugslife.png",
     "route": "/pixar/slim"
   },
@@ -314,6 +329,7 @@ export const pixarChars = [
     "id": "pixarChar16",
     "title": "Francis",
     "file": "FrancisABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/2/22/Bugs-life-disneyscreencaps.com-3409.jpg",
     "route": "/pixar/francis"
   },
@@ -321,6 +337,7 @@ export const pixarChars = [
     "id": "pixarChar17",
     "title": "Heimlich",
     "file": "Heimlich",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/5/59/Heimlich_screaming.jpg",
     "route": "/pixar/heimlich"
   },
@@ -328,6 +345,7 @@ export const pixarChars = [
     "id": "pixarChar18",
     "title": "Manny",
     "file": "MannyABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/0/0c/Manny.jpg",
     "route": "/pixar/manny"
   },
@@ -335,6 +353,7 @@ export const pixarChars = [
     "id": "pixarChar19",
     "title": "Gypsy",
     "file": "GypsyABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/73/Gypsy_the_Moth_%28A_Bug%27s_Life%29.png",
     "route": "/pixar/gypsy"
   },
@@ -342,6 +361,7 @@ export const pixarChars = [
     "id": "pixarChar20",
     "title": "Rosie",
     "file": "RosieABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d2/Bugs-life-disneyscreencaps.com-3353.jpg",
     "route": "/pixar/rosie"
   },
@@ -349,6 +369,7 @@ export const pixarChars = [
     "id": "pixarChar21",
     "title": "Tuck and Roll",
     "file": "TuckandRoll",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/b/b6/Bugs-life-disneyscreencaps.com-4505.jpg",
     "route": "/pixar/tuck_and_roll"
   },
@@ -356,6 +377,7 @@ export const pixarChars = [
     "id": "pixarChar22",
     "title": "Dim",
     "file": "DimABL",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/3/3c/Dimbugslife.jpg",
     "route": "/pixar/dim"
   },
@@ -363,6 +385,7 @@ export const pixarChars = [
     "id": "pixarChar23",
     "title": "Molt",
     "file": "Molt",
+    "franchise": "A Bug's Life",
     "img": "https://static.wikia.nocookie.net/pixar/images/4/4e/Molt.png",
     "route": "/pixar/molt"
   },
@@ -370,6 +393,7 @@ export const pixarChars = [
     "id": "pixarChar24",
     "title": "James P. Sullivan",
     "file": "SullyMI",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/e/e7/SulleyMAW.png",
     "route": "/monsters_inc/james_p._sullivan"
   },
@@ -377,6 +401,7 @@ export const pixarChars = [
     "id": "pixarChar25",
     "title": "Mike Wazowski",
     "file": "MikeMI",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/9/96/MikeMAW.png",
     "route": "/monsters_inc/mike_wazowski"
   },
@@ -384,6 +409,7 @@ export const pixarChars = [
     "id": "pixarChar26",
     "title": "Randall Boggs",
     "file": "RandallMI",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/0/09/Randall_Boggs.png",
     "route": "/monsters_inc/randall_boggs"
   },
@@ -391,6 +417,7 @@ export const pixarChars = [
     "id": "pixarChar27",
     "title": "Boo",
     "file": "BooMI",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/7c/Boo.png",
     "route": "/monsters_inc/boo"
   },
@@ -398,6 +425,7 @@ export const pixarChars = [
     "id": "pixarChar28",
     "title": "Henry J. Waternoose",
     "file": "Waternoose",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/5/51/Henry_J._Waternoose_III.jpg",
     "route": "/monsters_inc/henry_j._waternoose"
   },
@@ -405,6 +433,7 @@ export const pixarChars = [
     "id": "pixarChar29",
     "title": "Celia Mae",
     "file": "CeliaMI",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/5/55/Celia_Mae.png",
     "route": "/monsters_inc/celia_mae"
   },
@@ -412,6 +441,7 @@ export const pixarChars = [
     "id": "pixarChar30",
     "title": "Roz",
     "file": "Roz",
+    "franchise": "Monsters, Inc.",
     "img": "https://static.wikia.nocookie.net/pixar/images/f/f3/Roz1.jpg",
     "route": "/monsters_inc/roz"
   },
@@ -419,6 +449,7 @@ export const pixarChars = [
     "id": "pixarChar31",
     "title": "Nemo",
     "file": "Nemo",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/a/aa/Nemo-FN.png",
     "route": "/finding_nemo/nemo"
   },
@@ -426,6 +457,7 @@ export const pixarChars = [
     "id": "pixarChar32",
     "title": "Marlin",
     "file": "Marlin",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d9/Marlin.png",
     "route": "/finding_nemo/marlin"
   },
@@ -433,6 +465,7 @@ export const pixarChars = [
     "id": "pixarChar33",
     "title": "Dory",
     "file": "Dory",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/1/1f/Dory-white.jpg",
     "route": "/finding_nemo/dory"
   },
@@ -440,6 +473,7 @@ export const pixarChars = [
     "id": "pixarChar34",
     "title": "Gill",
     "file": "GillFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/72/Gill.png",
     "route": "/finding_nemo/gill"
   },
@@ -447,6 +481,7 @@ export const pixarChars = [
     "id": "pixarChar35",
     "title": "Bloat",
     "file": "BloatFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/5/5b/Bloat_finding_nemo.png",
     "route": "/finding_nemo/bloat"
   },
@@ -454,6 +489,7 @@ export const pixarChars = [
     "id": "pixarChar36",
     "title": "Gurgle",
     "file": "Gurgle",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d2/Gurgle.png",
     "route": "/finding_nemo/gurgle"
   },
@@ -461,6 +497,7 @@ export const pixarChars = [
     "id": "pixarChar37",
     "title": "Peach",
     "file": "PeachFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/7e/Peach-0.png",
     "route": "/finding_nemo/peach"
   },
@@ -468,6 +505,7 @@ export const pixarChars = [
     "id": "pixarChar38",
     "title": "Deb",
     "file": "DebFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/7/79/Deb1.png",
     "route": "/finding_nemo/deb"
   },
@@ -475,6 +513,7 @@ export const pixarChars = [
     "id": "pixarChar39",
     "title": "Jacques",
     "file": "JacquesFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d5/Jacques.jpg",
     "route": "/finding_nemo/jacques"
   },
@@ -482,6 +521,7 @@ export const pixarChars = [
     "id": "pixarChar40",
     "title": "Bubbles",
     "file": "BubblesFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/0/0c/Bubbles.png",
     "route": "/finding_nemo/bubbles"
   },
@@ -489,6 +529,7 @@ export const pixarChars = [
     "id": "pixarChar41",
     "title": "Bruce",
     "file": "BruceFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/8/8f/Bruce-FindingNemo3D.jpg",
     "route": "/finding_nemo/bruce"
   },
@@ -496,6 +537,7 @@ export const pixarChars = [
     "id": "pixarChar42",
     "title": "Crush",
     "file": "CrushFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/c/cb/Crush-FindingNemo3D.jpg",
     "route": "/finding_nemo/crush"
   },
@@ -503,7 +545,208 @@ export const pixarChars = [
     "id": "pixarChar43",
     "title": "Nigel",
     "file": "NigelFN",
+    "franchise": "Finding Nemo",
     "img": "https://static.wikia.nocookie.net/pixar/images/d/d9/Finding_Nemo_Nigel.png",
     "route": "/finding_nemo/nigel"
+  },
+  {
+    "id": "pixarChar44",
+    "title": "Bob Parr",
+    "file": "BobParr",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/5/51/Incredibles_ver20.jpg",
+    "route": "/the_incredibles/bob_parr"
+  },
+  {
+    "id": "pixarChar45",
+    "title": "Helen Parr",
+    "file": "HelenParr",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/f/f3/Elastigirl_Transparent.webp",
+    "route": "/the_incredibles/helen_parr"
+  },
+  {
+    "id": "pixarChar46",
+    "title": "Violet Parr",
+    "file": "VioletParr",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/9/9a/Violet_plans_a_Movie_Date_with_Tony.jpg",
+    "route": "/the_incredibles/violet_parr"
+  },
+  {
+    "id": "pixarChar47",
+    "title": "Dash Parr",
+    "file": "DashParr",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/a/a5/I2_-_Dash.png",
+    "route": "/the_incredibles/dash_parr"
+  },
+  {
+    "id": "pixarChar48",
+    "title": "Jack-Jack Parr",
+    "file": "JackJackParr",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/4/41/I2_-_Jack-Jack.png",
+    "route": "/the_incredibles/jack-jack_parr"
+  },
+  {
+    "id": "pixarChar49",
+    "title": "Frozone",
+    "file": "Frozone",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/e/ed/I2_-_Frozone_2.png",
+    "route": "/the_incredibles/frozone"
+  },
+  {
+    "id": "pixarChar50",
+    "title": "Edna Mode",
+    "file": "EdnaMode",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/8/8b/I2_-_Edna.png",
+    "route": "/the_incredibles/edna_mode"
+  },
+  {
+    "id": "pixarChar51",
+    "title": "Buddy Pine",
+    "file": "BuddyPine",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/b/b3/Syndrome.png",
+    "route": "/the_incredibles/buddy_pine"
+  },
+  {
+    "id": "pixarChar52",
+    "title": "Mirage",
+    "file": "MirageTI",
+    "franchise": "The Incredibles",
+    "img": "https://static.wikia.nocookie.net/pixar/images/b/b8/Mirage1.jpg",
+    "route": "/the_incredibles/mirage"
+  },
+  {
+    "id": "pixarChar53",
+    "title": "Lightning McQueen",
+    "file": "LightningMcQueen",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar54",
+    "title": "Tow Mater",
+    "file": "TowMater",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar55",
+    "title": "Doc Hudson",
+    "file": "DocHudson",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar56",
+    "title": "Sally Carrera",
+    "file": "SallyCarrera",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar57",
+    "title": "Ramone",
+    "file": "RamoneCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar58",
+    "title": "Flo",
+    "file": "FloCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar59",
+    "title": "Luigi",
+    "file": "LuigiCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar60",
+    "title": "Guido",
+    "file": "GuidoCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar61",
+    "title": "Sheriff",
+    "file": "SheriffCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar62",
+    "title": "Sarge",
+    "file": "SargeCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar63",
+    "title": "Filmore",
+    "file": "FilmoreCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar64",
+    "title": "Lizzie",
+    "file": "LizzieCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar65",
+    "title": "Red",
+    "file": "RedCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar66",
+    "title": "Mack",
+    "file": "MackCars",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar67",
+    "title": "Strip Weathers",
+    "file": "StripWeathers",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
+  },
+  {
+    "id": "pixarChar68",
+    "title": "Chick Hicks",
+    "file": "ChickHicks",
+    "franchise": "Cars",
+    "img": "",
+    "route": "/cars/"
   }
 ]
