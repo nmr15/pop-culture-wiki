@@ -161,6 +161,49 @@ const ToyStoryFilm = () =>
             feature with Toy Story 2, and a 30th anniversary re-release in 2025.
           </p>
         </div>
+        <div>
+          <Heading2 id={1} title={"Plot"} />
+          <div>
+            <p>
+              The film begins with a boy named Andy playing with his toys, <Link to="/toy_story/mr._potato_head">Mr. Potato Head</Link>,
+              <Link to="/toy_story/slinky_dog"> Slinky Dog</Link>, <Link to="/toy_story/rex">Rex</Link>, <Link to="/toy_story/hamm">Hamm</Link>,
+              and his favorite toy Woody. He takes Woody into the living room and plays with him some more, and is interrupted by his
+              <Link to="/toy_story/andy'smom"> mom</Link>. She talks about Andy's birthday party later that day and the upcoming move to a new house.
+              Andy starts helping his mom by carrying his baby sister <Link to="/toy_story/molly_davis">Molly</Link> to her. While he's away, all of
+              the toys come to life.
+            </p>
+            <p>
+              Woody wakes up finding out that Andy's birthday party is later that day and calls all the other toys to a staff meeting. He begins the
+              meeting asking if each of the toys has picked a moving buddy for the move the following week. He downplays the news that Andy's birthday
+              party has been moved to later that day, but the other toys start panicking about whether they are going to be replaced. Woody claims
+              that what matters is that he and the other toys are there for Andy. Hamm interrupts the meeting and informs everybody that Andy's
+              birthday guests have arrived. Out of the window, they see the guests carrying birthday presents, still worried about getting replaced.
+            </p>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Production"} />
+          <div>
+            <h3 className="article-heading-3" id="3.1">Development</h3>
+            <div className="img-right img-card">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JohnLasseterOct2011.jpg/250px-JohnLasseterOct2011.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+                alt="John Lasseter in 2011."
+              />
+              <p>John Lasseter (pictured in 2011) co-wrote and directed Toy Story.</p>
+            </div>
+            <p>
+              John Lasseter's first experience with computer animation was during his work as an animator at Walt Disney Feature Animation, when two
+              of his friends showed him the light-cycle scene from Tron. It was an eye-opening experience that awakened Lasseter to the possibilities
+              offered by the new medium of computer-generated animation. Lasseter tried to pitch The Brave Little Toaster as a fully computer-animated
+              film to Disney, but the idea was rejected and Lasseter was fired. He then went on to work at Lucasfilm and in 1986, he became a founding
+              member of Pixar. In 1986, Pixar was purchased by entrepreneur and Apple Inc. co-founder Steve Jobs. At Pixar, Lasseter created short,
+              computer-animated films to show off the Pixar Image Computer's capabilities. In 1988, Lasseter produced the short film Tin Toy, which was
+              told from the perspective of a toy, referencing Lasseter's love of classic toys. Tin Toy won the 1989 Academy Award for Best Animated Short
+              Film, the first computer-generated film to do so.
+            </p>
+          </div>
+        </div>
       </main>
     </>
   )
