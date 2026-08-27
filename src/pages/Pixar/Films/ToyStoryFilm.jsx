@@ -179,6 +179,9 @@ const ToyStoryFilm = () =>
               that what matters is that he and the other toys are there for Andy. Hamm interrupts the meeting and informs everybody that Andy's
               birthday guests have arrived. Out of the window, they see the guests carrying birthday presents, still worried about getting replaced.
             </p>
+            <p>
+              Woody sends a Green Army Men toy named Sarge and his team downstairs with a baby monitor to report on the birthday presents. Although Andy receives games and clothes from his friends, his mom has a final surprise present for him, a Buzz Lightyear action figure. Andy is so excited he shoves Woody off the bed to make room for his newest toy before going downstairs for the rest of the party. Woody tries to shake off the fact that he was pushed aside as he and the rest of the toys greet Buzz, who shows off his many features like a laser light and wings. It turns out that Buzz doesn't know he's a toy, instead believing he's an actual Space Ranger who needs to fix his ship (which is actually the box he came in). Over the next few days, the other toys in the room start spending time with the Buzz making Woody feel jealous. This is intensified further when Andy begins playing with Buzz even more and replaces the cowboy decorations in his room with Buzz-themed ones.
+            </p>
           </div>
         </div>
         <div>
@@ -201,6 +204,15 @@ const ToyStoryFilm = () =>
               computer-animated films to show off the Pixar Image Computer's capabilities. In 1988, Lasseter produced the short film Tin Toy, which was
               told from the perspective of a toy, referencing Lasseter's love of classic toys. Tin Toy won the 1989 Academy Award for Best Animated Short
               Film, the first computer-generated film to do so.
+            </p>
+            <p>
+              Tin Toy gaind Disney's attention, and the new team at The Walt Disney Company, CEO MichaelEisner, and chirman Jeffrey Katzenberg in the
+              film division, sought to get Lasseter to come back. Lasseter, grateful for Jobs' faith in him, felt compelled to stay with Pixar,
+              telling co-founder Ed Catmull, "I can go to Disney and be a director, or I can stay here and make history." Katzenberg realized he could
+              not lure Lasseter back to Disney and therefore set plans into motion to ink a production deal with Pixar to produce a film. Disney had
+              always made all their movies in-house and refused to change this. But when Tim Burton, who used to work at Disney, wanted to buy back
+              the rights to The Nightmare Before Christmas, Disney struck a deal allowing him to make a Disney film outside the studio. This allowed
+              Pixar to make their movies outside Disney.
             </p>
           </div>
         </div>
