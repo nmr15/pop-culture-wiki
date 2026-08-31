@@ -748,5 +748,85 @@ export const pixarChars = [
     "franchise": "Cars",
     "img": "",
     "route": "/cars/"
+  },
+  {
+    "id": "pixarChar69",
+    "title": "WALL-E",
+    "file": "WalleChar",
+    "franchise": "WALL-E",
+    "img": "",
+    "route": "/pixar/wall-e_(character)"
+  },
+  {
+    "id": "pixarChar70",
+    "title": "EVE",
+    "file": "EveWalle",
+    "franchise": "WALL-E",
+    "img": "",
+    "route": "/pixar/eve"
+  },
+  {
+    "id": "pixarChar71",
+    "title": "Captain B. McCrea",
+    "file": "Mcrea",
+    "franchise": "WALL-E",
+    "img": "",
+    "route": "/pixar/captain_b._mccrea"
+  },
+  {
+    "id": "pixarChar72",
+    "title": "AUTO",
+    "file": "AutoWalle",
+    "franchise": "WALL-E",
+    "img": "",
+    "route": "/pixar/auto"
+  },
+  {
+    "id": "pixarChar73",
+    "title": "Carl Fredricksen",
+    "file": "CarlFredricksen",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/carl_fredricksen"
+  },
+  {
+    "id": "pixarChar74",
+    "title": "Ellie",
+    "file": "EllieUp",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/ellie"
+  },
+  {
+    "id": "pixarChar75",
+    "title": "Russell",
+    "file": "RussellUp",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/russell"
+  },
+  {
+    "id": "pixarChar76",
+    "title": "Charles F. Muntz",
+    "file": "CharlesMuntz",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/charles_f._muntz"
+  },
+  {
+    "id": "pixarChar77",
+    "title": "Dug",
+    "file": "DugUp",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/dug"
+  },
+  {
+    "id": "pixarChar78",
+    "title": "Kevin",
+    "file": "KevinUp",
+    "franchise": "Up",
+    "img": "",
+    "route": "/pixar/kevin"
   }
 ]
