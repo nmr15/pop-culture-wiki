@@ -137,7 +137,7 @@ const Deadpool = () =>
                 </span>
               </td>
             </tr>
-             <tr>
+            <tr>
               <th colspan="2">Publication information</th>
             </tr>
             <tr>
