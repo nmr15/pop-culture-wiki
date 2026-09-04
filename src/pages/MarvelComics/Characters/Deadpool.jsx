@@ -59,6 +59,59 @@ const Deadpool = () =>
               {id: "6.1", title: "Romantic interests"}
             ]}
           />
+          <Collapse 
+            id="7"
+            item="Other versions"
+            sub={[
+              {id: "7.1", title: "Age of Apocalypse"},
+              {id: "7.2", title: "Apocalypse Wars"},
+              {id: "7.3", title: "Captain America: Who Won't Wield the Shield"},
+              {id: "7.4", title: "Deadpool Corps"},
+              {id: "7.5", title: "Deadpool Killology", sub2: [
+                {id: "7.5.1", title: "Deadpool Kills the Marvel Universe"},
+                {Id: "7.5.2", title: "Deadpool Killustrated"},
+                {id: "7.5.3", title: "Deadpool Kills Deadpool"},
+                {id: "7.5.4", title: "Deadpool Kills the Marvel Universe Again"}
+              ]},
+              {id: "7.6", title: "Deadpool: Merc with a Mouth"},
+              {id: "7.7", title: "Deadpool Pulp"},
+              {id: "7.8", title: "Deadpool Samurai"},
+              {id: "7.9", title: "Heroes Reborn"},
+              {id: "7.10", title: "House of M"},
+              {id: "7.11", title: "Hulked-Out Heroes"},
+              {id: "7.12", title: "Identity Wars"},
+              {id: "7.13", title: "Marvel 2099"},
+              {id: "7.14", title: "Marvel 2997"},
+              {id: "7.15", title: "Marvel Zombies"},
+              {id: "7.16", title: "Spider-Man & Deadpool"},
+              {id: "7.17", title: "Ultimate Marvel"},
+              {id: "7.18", title: "Venomverse"},
+              {id: "7.19", title: "Weapon X: Days of Future Now"},
+              {id: "7.20", title: "What If...?"},
+              {id: "7.21", title: "X-Men '92"}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Reception"
+            sub={[
+              {id: "8.1", title: "Critical reception"}
+              {id: "8.2", title: "Impact"}
+            ]}
+          />
+          <Collapse 
+            id="9"
+            item="In other medias"
+            sub={[
+              {id: "9.1", title: "Television"},
+              {id: "9.2", title: "Film", sub2: [
+                {id: "9.2.1", title: "Animation"},
+                {id: "9.2.2", title: "Live-action"}
+              ]},
+              {id: "9.3", title: "Video games"},
+              {id: "9.4", title: "Miscellaneous"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
