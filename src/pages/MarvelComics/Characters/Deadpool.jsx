@@ -95,7 +95,7 @@ const Deadpool = () =>
             id="8"
             item="Reception"
             sub={[
-              {id: "8.1", title: "Critical reception"}
+              {id: "8.1", title: "Critical reception"},
               {id: "8.2", title: "Impact"}
             ]}
           />
