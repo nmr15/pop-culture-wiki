@@ -15,6 +15,62 @@ const Gambit = () =>
       <aside className="sidebar">
         <ul className="sidebar-list">
           <li className="sidebar-list-item"><a href="#top">Top</a></li>
+          <Collapse 
+            id="1"
+            item="Publication history"
+            sub={[
+              {id: "1.1", title: "1990s"},
+              {id: "1.2", title: "200s and 2010s"}
+            ]}
+          />
+
+          <li className="sidebar-list-item"><a href="#3">Personality</a></li>
+          <Collapse 
+            id="4"
+            item="Attributes"
+            sub={[
+              {id: "4.1", title: "Powers"},
+              {id: "4.2", title: "Abilities"},
+              {id: "4.3", title: "Weaknesses"}
+            ]}
+          />
+          <Collapse 
+            id="5"
+            item="Paraphernalia"
+            sub={[
+              {id: "5.1", title: "Equipment"},
+              {id: "5.2", title: "Weapons"},
+              {id: "5.3", title: "Transportation"}
+            ]}
+          />
+          <li className="sidebar-list-item"><a href="#6">Reception</a></li>
+          <Collapse 
+            id="7"
+            item="Literary reception"
+            sub={[
+              {id: "7.1", title: "X-Men: Curse of the Mutants - Storm and Gambit - 2010"},
+              {id: "7.2", title: "Other comic books"}
+            ]}
+          />
+          <Collapse 
+            id="8"
+            item="Other versions"
+            sub={[
+              {id: "8.1", title: "Age of Apocalypse"},
+              {id: "8.2", title: "Bishop's future"},
+              {id: "8.3", title: "Ultimate Marvel"}
+            ]}
+          />
+          <Collapse 
+            id="9"
+            item="In other media"
+            sub={[
+              {id: "9.1", title: "Television"},
+              {id: "9.2", title: "Films"},
+              {id: "9.3", title: "Video games"},
+              {id: "9.4", title: "Miscellaneous"}
+            ]}
+          />
         </ul>
       </aside>
       <main className="main" id="top">
@@ -56,10 +112,6 @@ const Gambit = () =>
             </tr>
             <tr>
               <th colspan="2">In-story information</th>
-            </tr>
-            <tr>
-              <th className="infobox-data">Full name</th>
-              <td className="infobox-data">Elektra Natchios</td>
             </tr>
             <tr>
               <th colspan="2">In-story information</th>
