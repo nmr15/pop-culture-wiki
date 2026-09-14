@@ -121,6 +121,25 @@ const Cyclops = () =>
             and can control the beams with the aid of special eyewear, which he must always wear. He was the first member of the X-Men, a team of
             mutant heroes who fight for peace and equality between mutants and humans, and one of the team's primary leaders.
           </p>
+          <p>
+            The first-born son of Corsair, <b>Scott Summers</b> is the older brother of <Link to="/marvelcomics/havok">Havok</Link>. His first and most
+            enduring love interest is his wife, <Link to="/marvelcomics/jean_grey">Jean Grey</Link>, with the two having a daughter, Rachel Summers, from
+            an alternate future. Other significant love interests include his ex-wife <Link to="/marvelcomics/madelyne_pryor">Madelyne Pryor</Link>, a
+            clone of Jean and mother of his son <Link to="/marvelcomics/cable">Cable</Link>, and fellow X-Men member
+            <Link to="/marvelcomics/emma_frost"> Emma Frost</Link>. Cyclops' archnemesis is 
+            <Link to="/marvelcomics/mister_sinister"> Mister Sinister</Link>, who is obsessed with the Summers and Grey bloodlines and has often
+            manipulated events in Cyclops' life, resulting in various clashes with the X-Men.
+          </p>
+          <p>
+            Cyclops was initially portrayed as a traditional heroic figure and counterposed to antiheroes who challenge authority. In later
+            decades, he becomes increasingly morally ambiguous. Major Cyclops storylines include 
+            <Link to="/marvelcomics/the_dark_phoneix_saga"> The Dark Phoneix Saga</Link>,
+            <Link to="/marvelcomics/mutant_massacre"> Mutant Massacre</Link>
+            <Link to="/marvelcomics/x-cutioner's_song"> X-Cutioner's Song</Link>, and
+            <Link to="/marvelcomics/avengers_vs._x-men"> Avengers vs. X-Men</Link>. He is also a central character in the company-wide stories
+            <Link to="/marvelcomics/messiah_complex"> Messiah Complex</Link>, <Link to="/marvelcomics/utopia">Utopia</Link>, and the
+            <Link to="/marvelcomics/krakoan_age"> Krakoan Age</Link>.
+          </p>
         </div>
       </main>
     </>
