@@ -140,6 +140,26 @@ const Cyclops = () =>
             <Link to="/marvelcomics/messiah_complex"> Messiah Complex</Link>, <Link to="/marvelcomics/utopia">Utopia</Link>, and the
             <Link to="/marvelcomics/krakoan_age"> Krakoan Age</Link>.
           </p>
+          <p>
+            The character was portrayed by <Link to="/people/james_marsden">James Marsden</Link>, Tim Pocock, and Tye Sheridan in
+            <Link to="/20th_century_fox"> 20th Century Fox</Link>'s <Link to="/x-men_films">X-Men films</Link>. Marsden will reprise the role in the
+            <Link to="/mcu"> Marvel Cinematic Universe</Link> film <Link to="/mcu/avengers:_doomsday">Avengers: Doomsday</Link>, and Kit Connor will
+            portray the main MCU Cyclops in the <Link>untitled MCU X-Men film</Link>.
+          </p>
+        </div>
+        <div>
+          <Heading2 id={1} title={"Publication history"} />
+          <div>
+            <h3 className="article-heading-3" id="1.1">1960s</h3>
+            <p>
+              Cyclops first appeared in The X-Men #1. He was created by Stan Lee and Jack Kirby, and has been a mainstay character of the X-Men series.
+              In the initial issue, Cyclops is introduced along with <Link to="/marvelcomics/beast">Beast</Link>,
+              <Link to="/marvelcomics/iceman"> Iceman</Link>, <Link to="/marvelcomics/angel">Angel</Link>, and Jean Grey as the students of
+              <Link to="/marvelcomics/professor_x"> Professor X</Link>, who battle <Link to="/marvelcomics/magneto">Magneto</Link>. Lee said that
+              Cyclops and Beast were his two favorite X-Men, elaborating that "I love tortured heroes, and he was tortured because he couldn't
+              control his powers." Originally identified as "Slim Summers", The X-Men #3 provides his first name as "Scott."
+            </p>
+          </div>
         </div>
       </main>
     </>
