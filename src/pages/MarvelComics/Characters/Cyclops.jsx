@@ -159,6 +159,28 @@ const Cyclops = () =>
               Cyclops and Beast were his two favorite X-Men, elaborating that "I love tortured heroes, and he was tortured because he couldn't
               control his powers." Originally identified as "Slim Summers", The X-Men #3 provides his first name as "Scott."
             </p>
+            <p>
+              Scott Summers is the first of the X-Men recruited by Professor X; Xavier hand-picks Scott to lead his X-Men, and to carry on the legacy of his
+              mutant-human-harmony ideals. In X-Men #7, Xavier briefly leaves the X-Men and leaves Scott in command. Ben Saunders observes that "the direction of the
+              X-Men will often pivot on the question of Xavier's absence or presence, and the emotional impact of his comings and goings on the team, particularly on
+              Scott." Xavier views Scott as one of his most prized puplis; their relationship exhibits father/son qualities. Douglas Wolk describes Scott as the
+              "closest thing early X-Men has to a central protagonist," characterizing him as a "subdued, repressed young man." Later issues of X-Men of the mid-1960s
+              written by Roy Thomas emphasize the subplot of the "melodramatic unrequited romance" between Scott Summers and Jean Grey. Scott appears in his first
+              solo story in X-Men #45.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2">1970s</h3>
+            <p>
+              In the early 1970s, X-Men only reprinted earlier issues. It was revived in 1975 by Len Wein and Dave Cockrum, creating a new international group. Scott
+              was the only character who remained from the original team. Chris Claremont became the primary writer of the series with issue #94 and continued for
+              the next sixteen years.
+            </p>
+            <p>
+              Scott and Jean have a complex relationship, with Scott sometimes competing with Scott sometimes competing with
+              <Link to="/marvelcomics/wolverine"> Wolverine</Link> for her attention. In X-Men #98, Scott and Jean solidify their relationship when she initiates
+              their first kiss. In this period, Claremont introduces a tension between the leadership responsibility of Cyclops and the personal desires of Scott
+              Summers. When Jean becomes the Phoneix, Scott expresses fear and insecurity regarding her extraordinary power level.
+            </p>
           </div>
         </div>
       </main>
