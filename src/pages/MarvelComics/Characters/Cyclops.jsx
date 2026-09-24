@@ -181,6 +181,20 @@ const Cyclops = () =>
               their first kiss. In this period, Claremont introduces a tension between the leadership responsibility of Cyclops and the personal desires of Scott
               Summers. When Jean becomes the Phoneix, Scott expresses fear and insecurity regarding her extraordinary power level.
             </p>
+            <p>
+              Cockrum created the Starjammers, including Corsair, and collaborated with Claremont to develop the characters; they decided to make
+              Corsair the father of Scott to tie them to the group. The Starjammers first appeared in X-Men #107.
+            </p>
+
+            <h3 className="article-heading-3" id="1.2">1980s</h3>
+            <p>
+              During The Dark Phoenix Saga, Scott engages in competition with Mastermind for the affection and destiny of Jean, with Mastermind
+              attempting to corrupt her. Jean appears to die at the conclusion of the story. Scott leaves the central team in The Uncanny X-Men #138,
+              mourning Jean; he remains a recurring character in the series. The Uncanny X-Men #141 introduces Rachel Summers, the daughter of
+              Scott and Jean from the alternate timeline of the <Link to="/marvelcomics/days_of_future_past">Days of Future Past</Link>. She joins
+              the X-Men in a storyline concluding in issue #199. Scott meets Madelyne Pryor, a woman who is mysteriously identical to jean; she
+              first appears in Uncanny X-Men #168. He eventually marries and fathers a child with her.
+            </p>
           </div>
         </div>
       </main>
