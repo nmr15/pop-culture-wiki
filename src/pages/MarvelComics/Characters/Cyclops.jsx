@@ -195,6 +195,12 @@ const Cyclops = () =>
               the X-Men in a storyline concluding in issue #199. Scott meets Madelyne Pryor, a woman who is mysteriously identical to jean; she
               first appears in Uncanny X-Men #168. He eventually marries and fathers a child with her.
             </p>
+            <p>
+              In the mid-1980s, <Link to="/marvelcomics/storm">Storm</Link> becomes increasingly powerful and respected among the X-Men,
+              challenging Scott's leadership role. In Uncanny X-Men #201, Scott cedes his leadership to her. Claremont intended Scott to retire from
+              the superhero life and to settle into marriage and fatherhood. However, Marvel's editors decided that he should appear in a new series.
+              This new series, <Link to="/marvelcomics/x-factor_(comic_book)">X-Factor</Link>, launched in 1986 and starred the original X-Men team.
+            </p>
           </div>
         </div>
       </main>
