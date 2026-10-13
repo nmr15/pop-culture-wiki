@@ -207,6 +207,26 @@ const Cyclops = () =>
               educate the mutants they discovered. Layton left the title after five issues and was replaced by Louise Simpson, who introduced
               the new villain <Link to="/marvelcomics/apocalypse">Apocalypse</Link>, first appearing in X-Factor #6.
             </p>
+            <p>
+              Mister Sinister, a geneticist who sometimes works with Apocalypse, first appears in Uncanny X-Men #221. Pryor is eventually revealed
+              to be a clone of Jean Grey created by Mister Sinister, who had been meddling with the Summers family for decades. She displays mutant
+              powers and becomes a villain named the Goblin Queen, seeking revenge for being jilted. Scott's son,
+              <Link to="/marvelcomics/cable"> Nathan</Link>, is infected with a techno-organic virus. Rachel Summers brings him to the future to be
+              saved.
+            </p>
+            <p>
+              Scott stayed with the X-Factor title through X-Factor #70. In October 1991, Scott returned to the X-Men to appear in a central role in a
+              new title, X-Men #1. The series was the second of two X-Men titles and featured Cyclops, Wolverine,
+              <Link to="/marvelcomics/beast"> Beast</Link>, <Link to="/marvelcomics/gambit">Gambit</Link>,
+              <Link to="/marvelcomics/psylocke"> Psylocke</Link>, and <Link to="/marvelcomics/rogue">Rogue</Link>, as the "Blue team." The issue was a
+              best-seller, written by Claremont with art by Jim Lee. Claremont left the title after the third issue, and Lee left Marvel by the end of
+              the year. Scott Lobell became the new writer. In the X-Cutioner's Song storyline (1992-1992), Scott and Jean are captured by Mister
+              Sinister and traded to a new villain, Stryfe. After escaping, they eventually discover that Cable is Nathan, the son of Scott and
+              Madelyne Pryor, having grown up in a future timeline, and that Stryfe is Cable's clone. Scott and Jean then merry, in X-Men vol. 2 #30.
+              In summer 1994, Scott appeared in the four-issue miniseries The Adventures of Cyclops and Phoenix, which recounts how he and Jean
+              traveled to the future to raise Nathan, explaining the childhood of Cable. In 1995, the X-titles were all replaced in a crossover taking place in an alternate future called Age of Apocalypse. An alternate version of Scott starred in a new title written by John Francis Moore
+              titled Factor X. The decade concluded with a storyline called Apocalypse: The Twelve in which Apocalypse takes control of Scott's body.
+            </p>
           </div>
         </div>
       </main>
