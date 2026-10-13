@@ -186,7 +186,7 @@ const Cyclops = () =>
               Corsair the father of Scott to tie them to the group. The Starjammers first appeared in X-Men #107.
             </p>
 
-            <h3 className="article-heading-3" id="1.2">1980s</h3>
+            <h3 className="article-heading-3" id="1.3">1980s</h3>
             <p>
               During The Dark Phoenix Saga, Scott engages in competition with Mastermind for the affection and destiny of Jean, with Mastermind
               attempting to corrupt her. Jean appears to die at the conclusion of the story. Scott leaves the central team in The Uncanny X-Men #138,
@@ -214,6 +214,8 @@ const Cyclops = () =>
               <Link to="/marvelcomics/cable"> Nathan</Link>, is infected with a techno-organic virus. Rachel Summers brings him to the future to be
               saved.
             </p>
+
+            <h3 className="article-heading-3" id="1.4">1990s</h3>
             <p>
               Scott stayed with the X-Factor title through X-Factor #70. In October 1991, Scott returned to the X-Men to appear in a central role in a
               new title, X-Men #1. The series was the second of two X-Men titles and featured Cyclops, Wolverine,
@@ -226,6 +228,17 @@ const Cyclops = () =>
               In summer 1994, Scott appeared in the four-issue miniseries The Adventures of Cyclops and Phoenix, which recounts how he and Jean
               traveled to the future to raise Nathan, explaining the childhood of Cable. In 1995, the X-titles were all replaced in a crossover taking place in an alternate future called Age of Apocalypse. An alternate version of Scott starred in a new title written by John Francis Moore
               titled Factor X. The decade concluded with a storyline called Apocalypse: The Twelve in which Apocalypse takes control of Scott's body.
+            </p>
+
+            <h3 className="article-heading-3" id="1.5">200s</h3>
+            <p>
+              In 2000, Joe Harris wrote the four-issue run titled X-Men: The Search for Cyclops that dealth with Scott's return after merging with
+              Apocalypse in Apocalypse: The Twelve.
+            </p>
+            <p>
+              In February 2001, an alternate version of Scott began appearing in a new ongoing series by
+              <Link to="/people/mark_millar"> Mark Millar</Link>, <Link to="/marvelcomics/ultimate_x-men">Ultimate X-Men</Link>. This version of
+              Scott was killed off in January 2009.
             </p>
           </div>
         </div>
