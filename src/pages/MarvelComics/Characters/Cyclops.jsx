@@ -200,6 +200,12 @@ const Cyclops = () =>
               challenging Scott's leadership role. In Uncanny X-Men #201, Scott cedes his leadership to her. Claremont intended Scott to retire from
               the superhero life and to settle into marriage and fatherhood. However, Marvel's editors decided that he should appear in a new series.
               This new series, <Link to="/marvelcomics/x-factor_(comic_book)">X-Factor</Link>, launched in 1986 and starred the original X-Men team.
+              Jean Grey is revealed to remain alive, while the Phoenix only assumed her form. Scott leaves his wife and child behind to lead the
+              reunited original X-Men, under the X-Factor name. Claremont expressed dismay that Jean's resurrection ultimately resulted in Scott
+              abandong his wife and child, tarnishing his written persona as a hero and "decent human being." For X-Factor, writer Bob Layton was
+              partly inspired by the film Ghostbusters; the X-Factor team advertised themselves as mutant hunters, but worked to rehabilitate and
+              educate the mutants they discovered. Layton left the title after five issues and was replaced by Louise Simpson, who introduced
+              the new villain <Link to="/marvelcomics/apocalypse">Apocalypse</Link>, first appearing in X-Factor #6.
             </p>
           </div>
         </div>
