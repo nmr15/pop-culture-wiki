@@ -240,6 +240,34 @@ const Cyclops = () =>
               <Link to="/people/mark_millar"> Mark Millar</Link>, <Link to="/marvelcomics/ultimate_x-men">Ultimate X-Men</Link>. This version of
               Scott was killed off in January 2009.
             </p>
+            <p>
+              In July 2001, Scott appeared as a leading character in New X-Men. Written by Grant Morrison, the series pursued a more experimental
+              approach to storytelling and characterization. In the course of the story, Scott begins a new relationship with
+              <Link to="/marvelcomics/emma_frost"> Emma Frost</Link>. Jean dies again in New-XMen #150.
+            </p>
+            <p>
+              Also in 2001, writer Brian K. Vaughan wrote the four-issue series titled Cyclops, the character's first solo miniseries.
+            </p>
+            <p>
+              Beginning in July 2004, Astonishing X-Men features Cyclops, Wolverine, Beast, Emma Frost,
+              <Link to="/marvelcomics/shadowcat"> Shadowcat</Link>, and <Link to="/marvelcomics/colossus">Colossus</Link> as a team. The series was
+              initially written by <Link to="/people/joss_whedon">Joss Whedon</Link>, well-known for creating the Buffy the Vampire Slayer
+              television series. During Whedon's run of Astonishing X-Men, Scott adopts a new attitude unfamiliar to more accustomed fans. After
+              Emma Frost's psychic intervention at the mansion, he temporarily loses his powers after confronting his traumatic past. In an
+              interview, Whedon explains:
+            </p>
+            <div className="article-quote">
+              <p>
+                No, he doesn't have his powers. Well, he had a choice to either be completely out of control or bury them. He can't use them. That's
+                pretty much it. But the thing that would be fun is that, with no powers, he's going to be the best that he's ever been. That's what
+                the arc is about. Scott has been the team leader and the team washout in terms of popularity. He was defined by Jean Grey so much,
+                and I just think that this guy is so interesting in his struggle against mediocrity. Then, when it's all laid on the line, when you
+                find out the thing that's been holding him back from being just a complete bad ass has been himself all his life, that he's been
+                lying to everyone, including himself, about who he is, that should be freeing. The Scott we're going to see is going to be a little
+                bit different. This guy is either completely out of control or in control of something we're not used to. I wanted him to be an
+                unabashed tough guy. He is shooting people and turning very much into a leader. Not everyone is going to like it.
+              </p>
+            </div>
           </div>
         </div>
       </main>
