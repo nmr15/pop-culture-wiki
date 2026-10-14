@@ -230,7 +230,7 @@ const Cyclops = () =>
               titled Factor X. The decade concluded with a storyline called Apocalypse: The Twelve in which Apocalypse takes control of Scott's body.
             </p>
 
-            <h3 className="article-heading-3" id="1.5">200s</h3>
+            <h3 className="article-heading-3" id="1.5">2000s</h3>
             <p>
               In 2000, Joe Harris wrote the four-issue run titled X-Men: The Search for Cyclops that dealth with Scott's return after merging with
               Apocalypse in Apocalypse: The Twelve.
@@ -268,6 +268,31 @@ const Cyclops = () =>
                 unabashed tough guy. He is shooting people and turning very much into a leader. Not everyone is going to like it.
               </p>
             </div>
+            <p>
+              In the <Link to="/marvelcomics/house_of_m">House of M</Link> storyline, the
+              <Link to="/marvelcomics/scarlet_witch"> Scarlet Witch</Link> magically alters reality so that almost all mutants are de-powered, with
+              only 198 remaining. This event is referred to as "M-Day." As a consequence, the X-Men feel particularly besieged and Scott becomes
+              desperate to protect the remaining mutants.
+            </p>
+            <p>
+              X-Men: Deadly Genesis #1 introduces Vulcan, the younger brother of Cyclops and Havok, who was enslaved by the Shi'ar and raised in
+              secret by <Link to="/marvelcomics/moira_mactaggert">Moira MacTaggert</Link>. In April 2008, Scott forms a new X-Force team, a deadly
+              clandestine strike force, appearing in its own title. Part of the X-Men: Messiah Complex crossover, X-Men #205 introduces Hope
+              Summers, the first mutant born after M-Day. She is orphaned and adopted by Cable. In the Dark X-Men storyline of 2009, Scott and Emma
+              Frost enter into a complex dispute, with Emma aligned with <Link to="/marvelcomics/norman_osborn">Norman Osborn</Link>. Marvel writer
+              Matt Fraction indicated that Emma's alliance with Osborn places Scott and Emma at odds with one anohter, creating "a profound schism."
+              Throughout this time, Scott continues to make appearances in UnCanny X-Men.
+            </p>
+
+            <h3 className="article-heading-3" id="1.6">2010s and 2020s</h3>
+            <p>
+              Scott becomes overprotective of those close to him and pessimistic in his view of humanity. In X-Men: Schism, written by James Aaron,
+              Scott and Wolverine have a severe disagreement about employing teenage mutants in defense against the
+              <Link to="/marvelcomics/hellfire_club"> Hellfire Club</Link>. This splits the X-Men into two factions. Scott envisions his group as an
+              "Extinction Team" who can fight global threats; his faction includes Emma Frost, Magneto, Storm, Magik, Hope Summers, Colossus, and
+              Danger. This team featured in a new volume of Uncanny X-Men, written by Kieron Gillen with art by Carlos Pacheco, beginning in
+              January 2012.
+            </p>
           </div>
         </div>
       </main>
