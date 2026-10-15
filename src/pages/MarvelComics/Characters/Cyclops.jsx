@@ -304,6 +304,7 @@ const Cyclops = () =>
             </p>
           </div>
         </div>
+
         <div>
           <Heading2 id={3} title={"Personality"} />
           <div>
@@ -323,6 +324,27 @@ const Cyclops = () =>
               despite having to face more hardships than ever. This is generally attributed to counselling he received from Emma, and his
               happiness with their relationship.
             </p>
+          </div>
+        </div>
+
+        <div>
+          <Heading2 id={4} title={"Attributes"} />
+          <div>
+            <h3 className="article-heading-3" id="4.1">Powers</h3>
+            <p>
+              Scott is an Alpha-Mutant according to Apocalypse, while <Link to="/marvelcomics/nick_fury">Nick Fury</Link>'s intelligence classifies him
+              as power level 7.
+            </p>
+            <ul className="article-list">
+              <li>
+                <p>
+                  <b>Concussion Optic Blasts</b>: Scott possesses the mutant ability to project a powerful beam of unheated concussive ruby-colored
+                  force from his eyes. Scott's powers initiate through foreign energies channeled from an entirely different plane of existence and
+                  channeled through his body into concussive blasts that are released from his eyes.
+                </p>
+                
+              </li>
+            </ul>
           </div>
         </div>
       </main>
