@@ -293,6 +293,36 @@ const Cyclops = () =>
               Danger. This team featured in a new volume of Uncanny X-Men, written by Kieron Gillen with art by Carlos Pacheco, beginning in
               January 2012.
             </p>
+            <p>
+              In <Link to="/marvelcomics/avengers_vs._x-Men">Avengers vs. X-Men</Link>, the Phoenix Force returns to Earth, potentially inhabiting
+              Hope Summers. The <Link to="/marvelcomics/avengers_(team)">Avengers</Link> become concerned about the destructive potential of
+              mutants harnessing the Phoenix, and this leads to an extensive conflict between the Avengers and the X-Men. Eventuallly, the Phoenix
+              Force takes over Cyclops, Emma Frost, Colossus, Magik, and Namor: The Phoneix Five. The Phoenix Five attempt to use their powers in a
+              benevolent way, but many others, including Professor X, believes that their power is too great. The other X-Men eventually turn
+              against the Phoenix Five, and Scott kills Professor X. The Phoenix Force dissipates, but new mutants begin to appear around the
+              world. Scott is imprisoned. Gillen portrays Scott as suicidal in a five-part epilogue: AvX: Consequences.
+            </p>
+          </div>
+        </div>
+        <div>
+          <Heading2 id={3} title={"Personality"} />
+          <div>
+            <p>
+              Scott is brave, selfless, a master tactician, and first-rate leader. He has very low self-esteem, however, holding a low opinion of
+              himself and obsessing over his shortcomings and failures. Socially, he has described himself as an introvert. As a leader, he is very
+              strict and no-nonsense, demanding seriousness, dedication, and skill, usually earning him the dislike of more rebellious team members
+              such as Wolverine.
+            </p>
+            <p>
+              Scott also has a plethora of mental issues, bottling up his emotions and refusing to confront his issues, despite this affecting him
+              adversely. Being possessed by Apocalypse profoundly affected Scott, stirring up many emotions he had repressed and making him
+              question his life and his marriage.
+            </p>
+            <p>
+              After beginning his relationship with Emma Frost, Scott's personality softened somewhat and his confidence and self-esteem improved,
+              despite having to face more hardships than ever. This is generally attributed to counselling he received from Emma, and his
+              happiness with their relationship.
+            </p>
           </div>
         </div>
       </main>
