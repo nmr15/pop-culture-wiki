@@ -342,7 +342,27 @@ const Cyclops = () =>
                   force from his eyes. Scott's powers initiate through foreign energies channeled from an entirely different plane of existence and
                   channeled through his body into concussive blasts that are released from his eyes.
                 </p>
-                
+                <p>
+                  Scott's mind has a particular psionic field that is attuned to the forces that maintain the aperture that have taken the place
+                  of his eyes. Because his mind's psionic field envelops his body, it automatically shuts the other-dimensional particles back
+                  into their point of origin when they collide with his body. Thus, his body is protected from the effects of the particles, and
+                  even the thin membrane of his eyelids is sufficient to block the emission of energy. The synthetic ruby quartz crystal used to
+                  fashion the lenses of Scott's eyeglasses and visor is resonant to his mind's psionic field and is similarly protected.
+                </p>
+                <p>
+                  The width of Scott's eye-blasts seems to be focused by his mind's psionic field with the same autonomic function that regulates
+                  his original eyes' ability to focus. As Scott focuses, the size of the aperture changes and thus act as a valve to control the flow
+                  of particles and beam's relative power. The height of Scott's eye-blast is controlled by his visor's adjustable slit. His
+                  narrowest  beam, about the diameter of a pencil at a distance of 4 feet has a force of about two pounds per square inch. His
+                  broadest beam, about 90 feet across at a distance of fifty feet, has a force of about 10 pounds per square inch. His most
+                  powerful eye-blast is a beam four feet across which, at a distance of 40 feet, has a fource of 500 pounds per square inch. The
+                  maximum angular measurement of Scott's eye-blast is equivalent to a wide-angle 35-millimter camera lens field of view (90 degrees
+                  measured diagonally, or the angle subtended by holding a magazine's page spread open, upright at 9.5 inches from your eyes). The
+                  minimum angular measurement is equivalent to the angle that the thickness of a pencil would subtend at 4 feet (3.5 degrees, about
+                  a quarter of an inch viewed at 4 feet). The beams effective range is about 2,000 feet, at which point a 1-inch beam has spread out to
+                  10 feet square, and that has a pressure of .38 pounds per square inch. Scott's maximum force is sufficient to tip over a filled
+                  5,000 gallon tank at a distance of 20 feet or puncture a 1-inch carbon-steel plate at a distance of 2 feet.
+                </p>
               </li>
             </ul>
           </div>
