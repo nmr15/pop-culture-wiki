@@ -327,7 +327,7 @@ const Cyclops = () =>
           </div>
         </div>
 
-        <div>
+        <section>
           <Heading2 id={4} title={"Attributes"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Powers</h3>
@@ -363,10 +363,41 @@ const Cyclops = () =>
                   10 feet square, and that has a pressure of .38 pounds per square inch. Scott's maximum force is sufficient to tip over a filled
                   5,000 gallon tank at a distance of 20 feet or puncture a 1-inch carbon-steel plate at a distance of 2 feet.
                 </p>
+                <p>
+                  The extra dimensional supply of energy for Scott's eye-blast is practically infinite. Thus, so long as Scott's psionic field is
+                  active (which is constant), there is the potential to emit energy. The only limit to the eye-blast is the mental fatigue of
+                  focusing constantly. After about 15 minutes of constant usage, the psionic field subsides and allows only a slight leakage of
+                  energy to pass through the aperture. Scott's metabolism will recover sufficiently for him to continue in about an additional 15
+                  minutes.
+                </p>
+                <p>
+                  Wolverine has compared Scott's power to "a frickin' nuke inside his head." The maximum force of the optic blasts are unknown,
+                  but a commonly given description is that Scott can "punch holes through mountains", and he has been shown to rupture a half-inch
+                  thick carbon steel plate. During a particular battle, Scott says that he hit the Juggernaut with enough power to split a planet
+                  in half, though he may have been indulging in hyperbole. In the Age of Apocalypse dimension, his beams can cut through Adamantium,
+                  a previously indestructible metal. In the mainstream continuity of the Marvel Universe, it has also been implied that Scott
+                  only utilizes a fraction of the energies at his disposal. During the Civil War: X-Men story arc, Scott is controlled by
+                  another mutant to use his powers at their full magnitude. When directed at the energy-absorbing mutant Bishop, Scott was able
+                  to overload Bishop's powers in a matter of seconds. When Iron Man measured Scott's power while he was powering Bishop, he found
+                  that the energy output was well over 2 gigawatts, larger than a large nuclear reactor. It is also stated that Scott does not use
+                  his powers at such a level due to the preoccupation he has regarding his control (or lack thereof) of his abilities.
+                </p>
+                <p>
+                  Scott once fought the Hulk, using a beam blast to stop him, refusing to let the Hulk take Professor Xavier. While it peels off
+                  some of the Hulk's skin, he was able to walk towards Scott and clench his entire face, effectively containing the blast.
+                </p>
+              </li>
+              <li>
+                <b>Spatial Awareness</b>: Scott possesses an uncanny sense of trigonometry, in this sense used to describe his observation of objects
+                around himself and the angles found between surfaces of these objects. Scott has repeatedly demonstrated the ability to cause his optic
+                blasts to ricochet and/or reflect off those objects in a trajectory to his liking. This is commonly called a "banked shot" when
+                applied to this talent. Scott has been observed causing beams to reflect from over a dozen surfaces in the course of one blast, and
+                still hit his intended target accurately. It is his sense of spatial awareness enhanced to superhuman levels that allows him to
+                perform these feats as well.
               </li>
             </ul>
           </div>
-        </div>
+        </section>
       </main>
     </>
   )
