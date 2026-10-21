@@ -395,6 +395,19 @@ const Cyclops = () =>
                 still hit his intended target accurately. It is his sense of spatial awareness enhanced to superhuman levels that allows him to
                 perform these feats as well.
               </li>
+              <li>
+                <b>Trajectory Bending</b>: When his younger self came to the future, this iteration of Scott displayed more directive control over
+                his optic beams than his elder counterpart. Scott potentially has the capacity to will his optic blasts to twist and curve in any
+                given direction without need of a solid surface to bounce his eye beams off.
+              </li>
+              <li>
+                <b>Energy Resistance</b>: Scott is resistant to the effects of his own powers.
+              </li>
+              <li>
+                <b>Immunity to sibling's powers</b>: Scott and Havok are immune to each other's powers, and they are also immune to the powers of
+                their half-brother Adam-X, and Adam-X is immune to theirs. However, they aren't fully immune to Vulcan's powers, but are partially
+                resistant to him.
+              </li>
             </ul>
           </div>
         </section>
