@@ -93,7 +93,7 @@ const Community = () =>
             </tr>
           </tbody>
         </table>
-        <div className="div-top">
+        <section className="div-top">
           <p>
             <b>Community</b> is an American television sitcom created by <a href="#">Dan Harmon</a>. The series ran
             for <a href="#">110 episodes</a> over six seasons, with its first five seasons airing on <a href="#">NBC</a> from
@@ -121,8 +121,9 @@ const Community = () =>
             years of speculation and development, a featre-length Community film was announced
             for NBCUniversal's streaming service <a href="#">Peacock</a>
           </p>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={1} title={"Premise"} />
           <div className="collapse show" id="collapseOne">
             <p>
@@ -157,8 +158,9 @@ const Community = () =>
               still remianing Greendale.
             </p>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={2} title={"Cast and characters"} />
           <div>
             <p>
@@ -249,8 +251,9 @@ const Community = () =>
               </li>
             </ul>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={3} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="3.1">Casting</h3>
@@ -324,8 +327,9 @@ const Community = () =>
               using the same camera.
             </p>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={4} title={"Episodes"} />
           <div className="collapse show" id="collapseFour">
             <p>
@@ -481,8 +485,9 @@ const Community = () =>
               Abed becomes Dean Pelton's assistant and is given a master key to Greendale.
             </p>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={5} title={"Film"} />
           <div className="collapse show" id="collapseFive">
             <p>
@@ -524,8 +529,9 @@ const Community = () =>
               blame my schedule." He also added a tentative shotting period for 2025.
             </p>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={6} title={"Reception"} />
           <div className="collapse show" id="collapseSix">
             <h3 className="article-heading-3" id="6.1">Critical reception</h3>
@@ -653,7 +659,8 @@ const Community = () =>
               sitcoms.
             </p>
           </div>
-          <div>
+
+          <section>
             <Heading2 id={7} title={"Syndication"} />
             <div className="collapse show" id="collapseSeven">
               <p>
@@ -672,8 +679,9 @@ const Community = () =>
                 In India, Community premiered on Star World in 2010. It began airing on Comedy Central from 2016.
               </p>
             </div>
-          </div>
-          <div>
+          </section>
+
+          <section>
             <Heading2 id={8} title={"Streaming"} />
             <div className="collapse show" id="collapseEight">
               <p>
@@ -695,8 +703,9 @@ const Community = () =>
                 The episode later returned to streaming following the series' move to Peacock.
               </p>
             </div>
-          </div>
-          <div>
+          </section>
+
+          <section>
             <Heading2 id={9} title={"Soundtrack"} />
             <div className="collapse show" id="collapseNine">
               <p>
@@ -713,9 +722,13 @@ const Community = () =>
                 on the radio in the background.
               </p>
             </div>
-          </div>
-        </div>
-        <TableCommunity />
+          </section>
+        </section>
+
+        <section>
+          <TableCommunity />
+        </section>
+        
       </main>
     </>
   )
