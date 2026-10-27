@@ -419,8 +419,8 @@ const Mcu = () =>
               Additionally, <Link>Vincent D'Onofrio</Link> first reprised his role as <Link>Wilson Fisk / Kingpin</Link> from Daredevil in the Disney+
               series <Link>Hawkeye</Link> (2021).
             </p>
-          </section>
-        </div>
+          </div>
+        </section>
         <div>
           <Heading2 id={2} title={"Feature films"} />
           <div>
