@@ -409,6 +409,26 @@ const Cyclops = () =>
                 resistant to him.
               </li>
             </ul>
+
+            <h3 className="article-heading-3" id="4.2">Abilities</h3>
+            <ul className="article-list">
+              <li>
+                <b>Expert Pilot</b>: Scott is an expert pilot of fixed-wing aircraft, a skill he shares with his father. It has also been implied that his
+                trigonometric sense improves his abilities in the air.
+              </li>
+              <li>
+                <b>Master Tactician and Strategist</b>: Scott has spent most of his superhero career as the leader of either the X-Men or X-Factor and
+                has developed exceptional leadership skills. His tactical prowess allows him to observe and understand the progression of fights from a
+                remote position, as well as consider additional variables and incorporate his own skills into a scenario. As Captain Commander of Krakoa,
+                he wrote extensive stratgy outlines known as the Summers Protocols for dealing with every scenario he could conceive of for their nation's
+                defense
+              </li>
+              <li>
+                <b>Multilingual</b>: In addition to English, Scott is fluent in Mandarin Chinese, Russian, and Krakoan. Mandarin Chinese was telepathically
+                taight to him by Emma Frost, while Russian was telepathically taught to him by Professor X. As with all inhabitants of Krakoa, the Krakoan
+                language was telepathically imprinted into his brain.
+              </li>
+            </ul>
           </div>
         </section>
       </main>
