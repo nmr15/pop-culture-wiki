@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { mcu } from '../../../data/dataMcu'
+import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 import TableMcu from '../../../components/TableMcu'
@@ -10,6 +11,10 @@ const IronManFilm = () =>
 
   const res = mcu.find((film) => film.file == "IronManFilm");
   console.log(res);
+
+  const markdownContent = `
+  This is a link to [Iron Man 2](/mcu/iron_man_2).
+  `;
 
   useEffect(() =>
       {
@@ -95,6 +100,7 @@ const IronManFilm = () =>
             in the United States National Film Registry for being "culturally, historically, or aesthetically significant". Two sequels have been released:
             <Link to="/mcu/iron_man_2"> Iron Man 2</Link> (2010), and <Link to="/mcu/iron_man_3">Iron Man 3</Link> (2013).
           </p>
+          <MarkdownRenderer content={markdownContent} />
         </div>
         <div>
           <Heading2 id={1} title={"Plot"} />
