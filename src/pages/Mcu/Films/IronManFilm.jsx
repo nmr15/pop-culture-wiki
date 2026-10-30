@@ -1,60 +1,36 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { mcu } from '../../../data/dataMcu'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 import TableMcu from '../../../components/TableMcu'
 
 const IronManFilm = () =>
 {
+
+  const res = mcu.find((film) => film.file == "IronManFilm");
+  console.log(res);
+
   useEffect(() =>
       {
-        document.title = "Iron Man (film) - Pop Culture Wiki";
+        document.title = `${res.displayTitle} - Pop Culture Wiki`;
       }, []);
 
   return(
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Plot</a></li>
-          <li className="sidebar-list-item"><a href="#2">Cast</a></li>
-          <Collapse 
-            id="3"
-            item="Production"
-            sub={[
-              {id: "3.1", title: "Development"},
-              {id: "3.2", title: "Pre-production"},
-              {id: "3.3", title: "Filming"},
-              {id: "3.4", title: "Post-production"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#4">Music</a></li>
-          <li className="sidebar-list-item"><a href="#5">Marketing</a></li>
-          <Collapse 
-            id="6"
-            item="Release"
-            sub={[
-              {id: "6.1", title: "Theatrical"},
-              {id: "6.2", title: "Home media"}
-            ]}
-          />
-          <Collapse 
-            id="7"
-            item="Reception"
-            sub={[
-              {id: "7.1", title: "Box office"},
-              {id: "7.2", title: "Critical reception"},
-              {id: "7.3", title: "Accolades"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#8">Sequels</a></li>
-          <Collapse 
-            id="9"
-            item="Trivia"
-            sub={[
-              {id: "9.1", title: "What Could Have Been"}
-            ]}
-          />
+          {res.sidebar.map((sidebar) => (
+            sidebar.children ?
+              <Collapse 
+                key={sidebar.href}
+                id={sidebar.href}
+                item={sidebar.title}
+                sub={sidebar.children}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.href}><a href={sidebar.href}>{sidebar.title}</a></li>
+          ))}
         </ul>
       </aside>
       <main className="main" id="top">
@@ -64,38 +40,34 @@ const IronManFilm = () =>
           <li>Iron Man (film)</li>
         </ul>
         <div>
-          <h1 className="article-heading">Iron Man (film)</h1>
+          <h1 className="article-heading">{res.displayTitle}</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Iron Man</span>
+                <span>{res.title}</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" alt="Iron Man poster" />
+                  <img src={res.img} alt="Iron Man poster" />
                 </span>
               </td>
             </tr>
-            <tr>
-              <th className="infobox-data">Directed by</th>
-              <td className="infobox-data"><Link>Jon Favreau</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Projects</th>
-              <td className="infobox-data"><Link>List of MCU projects</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link>List of MCU character</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Next MCU project</th>
-              <td className="infobox-data"><Link to="/mcu/the_incredible_hulk_film">The Incredible Hulk</Link></td>
-            </tr>
+            {res.infobox.map((info) => (
+              info.route ?
+                <tr>
+                  <th className="infobox-data">{info.header}</th>
+                  <th className="infobox-data"><Link to={info.route}>{info.data}</Link></th>
+                </tr>
+              :
+                <tr>
+                  <th className="infobox-data">{info.header}</th>
+                  <th className="infobox-data">{info.data}</th>
+                </tr>
+            ))}
           </tbody>
         </table>
         <div className="div-top">

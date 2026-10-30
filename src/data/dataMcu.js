@@ -1,3 +1,5 @@
+
+
 export const mcuMeta = [
   {
     "id": "mcuMeta1",
@@ -12,7 +14,121 @@ export const mcu = [
     "id": "mcu1",
     "title": "Iron Man",
     "file": "IronManFilm",
+    "displayTitle": "Iron Man (2008 film)",
     "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+    "alt": "Iron Man poster",
+    "sidebar": [
+      {
+        "href": "#top",
+        "title": "Top"
+      },
+      {
+        "href": "#1",
+        "title": "Plot"
+      },
+      {
+        "href": "#2",
+        "title": "Cast"
+      },
+      {
+        "href": "3",
+        "title": "Production",
+        "children": [
+          {
+            "id": "3.1",
+            "title": "Development"
+          },
+          {
+            "id": "3.2",
+            "title": "Pre-production"
+          },
+          {
+            "id": "3.3",
+            "title": "Filming"
+          },
+          {
+            "id": "3.4",
+            "title": "Post-production"
+          } 
+        ]
+      },
+      {
+        "href": "#4",
+        "title": "Music"
+      },
+      {
+        "href": "#5",
+        "title": "Marketing"
+      },
+      {
+        "href": "6",
+        "title": "Release",
+        "children": [
+          {
+            "id": "6.1",
+            "title": "Theatrical"
+          },
+          {
+            "id": "6.2",
+            "title": "Home media"
+          }
+        ]
+      },
+      {
+        "href": "7",
+        "title": "Reception",
+        "children": [
+          {
+            "id": "7.1",
+            "title": "Box office"
+          },
+          {
+            "id": "7.2",
+            "title": "Critical reception"
+          },
+          {
+            "id": "7.3",
+            "title": "Accolades"
+          },
+        ]
+      },
+      {
+        "href": "#8",
+        "title": "Sequels"
+      },
+      {
+        "href": "9",
+        "title": "Trivia",
+        "children": [
+          {
+            "id": "9.1",
+            "title": "What Could Have Been"
+          }
+        ]
+      }
+    ],
+    "infobox": [
+      {
+        "header": "Directed by",
+        "data": "Jon Favreau",
+        "route": "/people/jon_favreau"
+      },
+      {
+        "header": "Projects",
+        "data": "List of MCU projects",
+        "route": "/mcu/projects"
+      },
+      {
+        "header": "Characters",
+        "data": "List of MCU characters",
+        "route": "/mcu/character"
+      },
+      {
+        "header": "Next MCU project",
+        "data": `The Incredible Hulk`,
+        "route": "/mcu/the_incredible_hulk_film"
+      }
+    ],
     "route": "/mcu/iron_man_film",
     "media": "film",
     "phase": 1
