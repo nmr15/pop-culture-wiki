@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { mcu } from '../../../data/dataMcu'
-import { intro }  from '../../../markdown/mcu/films/ironmanfilm.js'
+import { intro, plot, cast }  from '../../../markdown/mcu/films/ironmanfilm.js'
 import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
@@ -79,123 +79,18 @@ const IronManFilm = () =>
         <div className="div-top">
           <MarkdownRenderer content={intro} />
         </div>
-        <div>
+        <section>
           <Heading2 id={1} title={"Plot"} />
           <div>
-            {/* <div className="img-left" style={{width: "250px"}}>
-              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/82/Terrence-Howard_RDJ_Iron-Man-1-.jpg" alt="" />
-            </div> */}
-            <p>
-              Playboy and visionary industrial genius <Link to="/mcu/tony_stark">Tony Stark</Link>, CEO of leading military defense contractor, <Link>Stark Industries</Link>,
-              is at a casino, blowing off an award ahead of a big day in war-torn Kunar, Afghanistan, to demonstrate his company's new <Link>Jericho</Link> missile.
-              With him is his friend and military liaison, Lieutenant Colonel <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>, a member of the United States Air
-              Force, they arrive.
-            </p>
-            {/* <div className="img-right" style={{width: "250px"}}>
-              <img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/Tony_Stark_(2008).jpg" alt="" />
-            </div> */}
-            <p>
-              While riding in a transport convoy, Stark is critically wounded in an ambush and held captive in a cave by the <Link>Ten Rings</Link>. An electromagnet built by
-              fellow captive <Link>Ho Yinsen</Link> keeps the shrapnel that wounded Stark from reaching his heart and killing him. The Ten Rings leader, <Link>Raza Hamidmi
-              al-Wazar</Link>, offers Stark freedom; in exchange, Stark must build a Jericho missile for the terrorists. Stark and Yinsen agree that al-Wazar will not keep
-              his word of letting Stark live.
-            </p>
-            <p>
-              While pretending to work on the missile, Stark and Yinsen secretly build a powerful electric generator called an <Link>Arc Reactor</Link> to power Stark's
-              electromagnet. They then begin to build a <Link>powered suit of armor</Link>, designed by Stark, to help them escape. The Ten Rings ambush the workshop when
-              they discover Stark's plan, but Yinsen sacrifices himself to distract them while Stark's suit powers up. Using the armored suit, Stark fights his way out of
-              the cave to find a mortally wounded Yinsen, who reassures Stark and urges him to continue his escape and not waste his life. An enraged Stark leaves the
-              cave, burns the terrorist's stockpile of Stark Industries-produced weapns, and flies away. Having escaped, Stark crashes in the desert, which destroys the
-              suit.
-            </p>
-            <p>
-              Having been rescued by a search party, including Rhodes, Stark returns home. He calls a press conference to announce that his company will no longer
-              manufacture weapons, having seen first-hand the strife that they cause in the wrong hands. <Link>Obadiah Stane</Link>, his father's old partner and the
-              company's manager, informs Stark that this may ruin Stark Industries and his father's legacy.
-            </p>
-            <p>
-              In his home workshop, Stark spends the following weeks building an <Link>improved version</Link> of his suit, as well as a more powerful arc reactor for his
-              chest. At Stark's first public appearance after his return, <Link>Christine Everhart</Link> informs him that Stark Industries weapons, including the Jericho
-              missile, were recently delivered to the Ten Rings and are being used to attack Guiira, Yinsen's home village. Stark confronts Stane about the supplied
-              weapons and learns that Stane is trying to replace him as head of the company.
-            </p>
-            <p>
-              Enraged, Stark dons his <Link>new armor</Link> and flies to Afghanistan, where he saves the citizens of Guimira from the Ten Rings' wrath. While flying
-              home, Stark is engaged by two F-22 Raptors on behalf of the U.S. Air Force. He phones Rhodes and reveals his identity in an attempt to call off the attack.
-              Meanwhile, the Ten Rings gather the pieces of Stark's prototype suit. Al-Wazar meets with Stane and offers to exchange the suit with him. However, Stane
-              has al-Wazar and his faction eliminated, taking the suit for himself. Returning to Stark Industries, Stane orders his scientists to have a new suit
-              reverse-engineered from the wreckage.
-            </p>
-            <p>
-              Seeking to find any other weapons delivered to the Ten Rings, Stark sends his trusted personal assistant, <Link>Pepper Potts</Link>, to hack into the
-              company computer system from Stane's office. Potts finds evidence of Stane supplying weapons to the terrorists, but also discovers that Stane had initially
-              hired the Ten Rings to kill Stark in Afghanistan. After an uncomfortable encounter with a suspicious Stane, Potts meets with 
-              <Link to="/mcu/phil_coulson">Phil Coulson</Link> of <Link>S.H.I.E.L.D.</Link>, to inform him of Stane's activities.
-            </p>
-            <p>
-              Stane's scientists reveal that they cannot finish his suit, as no one can manage to duplicate Stark's Arc Reactor. Stane ambushes Stark at his home using
-              a <Link>Sonic Taser</Link> to paralyze him and take his current Arc Reactor. Left to die, Stark manages to crawl to his lab and saves himself by re-using
-              his original arc reactor. Potts and several S.H.I.E.L.D. agents attempt to arrest Stane, but he dons <Link>his suit</Link> and atacks them. Stark fights
-              Stane, but is outmatched without his upgraded reactor to run his suit at full capacity.
-            </p>
-            <p>
-              Stark lures Stane atop the Stark Industries building and instructs Potts to overload the large Arc Reactor there. Doing so unleashes a massive electrical
-              surge that knocks Stane unconscious, causing him and his armor to fall into the exploding reactor, killing him. The next day, the press has dubbed the
-              armored hero "Iron Man". Agent Coulson gives Stark a cover story to explain the events of the night and Stane's death. At a press conference, Stark begins
-              giving the cover story, but then instead announces that he is Iron Man, shocking the public as the crowd of interviewers suddenly begin roaring out
-              questions, much to Rhodes' confusion.
-            </p>
-            <p>
-              Afterward, <Link to="/mcu/nick_fury">Nick Fury</Link> visits Stark at his home, stating that Iron Man is not "the only superhero in the world," and wants
-              to discuss the <Link>Avengers Initiative</Link>.
-            </p>
+            <MarkdownRenderer content={plot} />
           </div>
-        </div>
-        <div>
+        </section>
+        <section>
           <Heading2 id={2} title={"Cast"} />
           <div>
-            <ul className="article-list">
-              <li>
-                <Link>Robert Downey Jr.</Link> as <Link to="/mcu/tony_stark">Tony Stark / Iron Man</Link>:<br />
-                An industrialist, genius inventor, and playboy, he is CEO of Stark Industries and chief weapons manufacturer for the U.S. military. Director Jon
-                Favreau felt that Downey's past made him an appropriate choice for the part and that the actor could not only make Stark a "likeable asshole."
-                but also portray an authentic emotional journey, one he had won over the audience. Favreau was also attracted to Downey because of his performance
-                in <Link>Kiss Kiss Bang Bang</Link>. Downey frequently spoke with the film's director, <Link>Shane Black</Link>, about the script and dialogue in
-                Iron Man. Downey had an office next to Favreau during pre-production, which allowed him greater involvement in the screenwriting process, especially
-                when it came to adding humor to the film. Downey explained, "What I usually hate about these [superhero] movies [is] when suddenly the guy that you
-                were digging turns into Dudley Do-Right, and then you're supposed to buy into all his 'Let's go do some good!' That Eliot Ness-in-a-cape-type thing.
-                What was really important to me was to not have him change so much that he's unrecognizable. When someone used to be a schmuck and they're not
-                anymore, hopefully they still have a sense of humor." To get into shape, Downey spent five days a week weight training and practiced martial arts,
-                which he said benefited him because "it's hard not to have a personality meltdown ...after about several hours in that suit. I'm calling up
-                every therapeutic moment I can think of to just get them through the day."
-              </li>
-              <li>
-                <Link>Terrence Howard</Link> as <Link to="/mcu/james_rhodes">James "Rhodey" Rhodes</Link>:<br />
-                A friend of Stark's and the liaison between Stark Industries and the United States Air Force in the department of acquisitions, specifically
-                weapons development. Favreau cast Howard because he felt he could play War Machine in a sequel. Howard prepared for the role by visiting Nellis
-                Air Force Base on March 16, 2007, where he ate with the pilots and observed HH-60 Pave Hawk rescue helicopters and F-22 Raptors. While Rhodes is
-                roguish in the comics after he meets Stark, his previous role as a disciplinarian creates a dynamic tension with Stark's character. He is unsure
-                whether Stark's actions are acceptable, "Rhodey is completely disgusted with the way Tony has lived his life, but at a certain point he realizes
-                that perhaps there is a different way," Howard said. "Whose life is the right way: Is it the strict military life, or the life of an independent?"
-                Howard and his father are Iron Man fans, partly because Thodes was one of the few black superheroes when Howard was a child. Howard admired
-                Downey as an actor since the latter appeared in Weird Science (1985); the two completed physically on set. Howard signed a three-picure deal
-                with Marvel Studios.
-              </li>
-              <li>
-                <Link>Gwyneth Paltrow</Link> as <Link>Virgina "Pepper" Potts</Link>:<br />
-                Stark's personal assistant and budding love interest. Paltrow asked Marvel to send her any comics they would consider relevant to her
-                understanding of the character, whom she considered to be very smart, level-headed, and grounded. She said she like "the fact that there's a
-                sexuality that's not blatant." Favreau wanted Potts' and Stark's relationship to be reminiscent of a 1940s comedy, something which Paltrow
-                considered to be fun in an "innocent yet sexy" way.
-              </li>
-              <li>
-                <Link>Leslie Bibb</Link> as <Link>Christine Everhart</Link>: A reported for Vanity Fair.
-              </li>
-              <li>
-                <Link>Shaun Toub</Link> as <Link>Ho Yinsen</Link>: Stark's fellow captive, who grafts an electromagnet to Stark's chest "to keep the shrapnel
-                shell shards that wounded him from reaching his heart and killing him" and helps Stark build the first Iron Man suit.
-              </li>
-            </ul>
+            <div className="article-list">
+              <MarkdownRenderer content={cast} />
+            </div>
             <p>
               Additionally, Faran Tahir appears as <Link>Raza</Link>, the leader of the Ten Rings; <Link>Paul Bettany</Link> voices <Link>J.A.R.V.I.S.</Link>,
               Stark's personal AI system; and <Link>Clark Gregg</Link> appears as <Link to="/mcu/phil_coulson">Phil Coulson</Link>, an agent of S.H.I.E.L.D.
@@ -208,7 +103,7 @@ const IronManFilm = () =>
               scene where Stark says in Dubai, but the scene was cut for pacing reasons.
             </p>
           </div>
-        </div>
+        </section>
         <div>
           <Heading2 id={3} title={"Production"} />
           <div>
