@@ -5,6 +5,7 @@ export const topics = [
     "file": "Mcu",
     "folder": "Mcu",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/250px-Marvel_Cinematic_Universe_logo.png",
+    "alt": "Marvel Cinematic Universe logo",
     "route": "/mcu"
   },
   {
@@ -13,6 +14,7 @@ export const topics = [
     "file": "MarvelComics",
     "folder": "MarvelComics",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Marvel_Comics_2024_logo.svg/220px-Marvel_Comics_2024_logo.svg.png",
+    "alt": "Marvel Comics logo",
     "route": "/marvelcomics"
   },
   {
@@ -21,6 +23,7 @@ export const topics = [
     "file": "StarWars",
     "folder": "StarWars",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/500px-Star_wars2.svg.png",
+    "alt": "Star Wars logo",
     "route": "/starwars"
   },
   {
@@ -29,6 +32,7 @@ export const topics = [
     "file": "DCComics",
     "folder": "DCComics",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DC_Comics_2024.svg/120px-DC_Comics_2024.svg.png",
+    "alt": "DC Comics logo",
     "route": "/dccomics"
   },
   {
@@ -37,6 +41,7 @@ export const topics = [
     "file": "Community",
     "folder": "Community",
     "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/community-tv/a/a3/Community-logo.jpg",
+    "alt": "Community logo",
     "route": "/community"
   },
   {
@@ -45,6 +50,7 @@ export const topics = [
     "file": "Beatles",
     "folder": "Beatles",
     "img": "https://1000logos.net/wp-content/uploads/2017/06/Beatles-Logo-768x370.png",
+    "alt": "The Beatles logo",
     "route": "/beatles"
   },
   {
@@ -53,6 +59,7 @@ export const topics = [
     "file": "Spongebob",
     "folder": "Spongebob",
     "img": "https://1000logos.net/wp-content/uploads/2020/09/SpongeBob_SquarePants_logo-1536x802.png",
+    "alt": "Spongebob Squarepants logo",
     "route": "/spongebob"
   },
   {
@@ -61,6 +68,7 @@ export const topics = [
     "file": "Himym",
     "folder": "Himym",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HowIMetYourMother.svg/440px-HowIMetYourMother.svg.png",
+    "alt": "How I Met Your Mother Logo logo",
     "route": "/himym"
   },
   {
@@ -69,6 +77,7 @@ export const topics = [
     "file": "Gta",
     "folder": "Gta",
     "img": "https://1000logos.net/wp-content/uploads/2018/03/GTA-Logo.png",
+    "alt": "Grand Theft Auto logo",
     "route": "/gta"
   },
   {
@@ -77,6 +86,7 @@ export const topics = [
     "file": "AssassinsCreed",
     "folder": "AssassinsCreed",
     "img": "https://1000logos.net/wp-content/uploads/2017/08/Assassins-Creed-Logo-1536x966.png",
+    "alt": "Assassin's Creed logo",
     "route": "/assassinscreed"
   },
   {
@@ -85,6 +95,7 @@ export const topics = [
     "file": "GravityFalls",
     "folder": "GravityFalls",
     "img": "https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png",
+    "alt": "Gravity Falls logo",
     "route": "/gravityfalls"
   },
   {
@@ -93,6 +104,7 @@ export const topics = [
     "file": "AdventureTime",
     "folder": "AdventureTime",
     "img": "https://1000logos.net/wp-content/uploads/2020/09/Adventure-Time-Logo-1280x800.png",
+    "alt": "Adventure Time logo",
     "route": "/adventuretime"
   },
   {
@@ -101,6 +113,34 @@ export const topics = [
     "file": "Simpsons",
     "folder": "Simpsons",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/220px-The_Simpsons_yellow_logo.svg.png",
+    "alt": "The Simpsons logo",
+    "infobox": [
+      {
+        "header": "Created by",
+        "data": "Matt Groening",
+        "route": "/people/matt_groening"
+      },
+      {
+        "header": "Animated series",
+        "data": "The Simpsons",
+        "route": "/simpsons/the_simpsons_(series)"
+      },
+      {
+        "header": "Episodes",
+        "data": "List of The Simpsons episodes<",
+        "route": "/simpsons/episodes"
+      },
+      {
+        "header": "Characters by",
+        "data": "List of The Simpsons character",
+        "route": "/simpsons/characters"
+      },
+      {
+        "header": "Film",
+        "data": "The Simpsons Movie",
+        "route": "/simpsons/the_simpsons_movie"
+      }
+    ],
     "route": "/simpsons"
   },
   {
@@ -109,6 +149,87 @@ export const topics = [
     "file": "Futurama",
     "folder": "Futurama",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/440px-Futurama_1999_logo.svg.png",
+    "alt": "Futurama logo",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "1",
+        "title": "Premise",
+        "children": [
+          { "id": "1.1", "title": "Characters" },
+          { "id": "1.2", "title": "Setting" }
+        ]
+      },
+      { "id": "#2", "title": "Episodes" },
+      {
+        "id": "3",
+        "title": "Production",
+        "children": [
+          { "id": "3.1", "title": "Development" },
+          { "id": "3.2", "title": "Writing" },
+          { "id": "3.3", "title": "Voice actors" },
+          { "id": "3.4", "title": "Animation" } 
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Hallmarks",
+        "children": [
+          { "id": "4.1", "title": "Opening sequence" },
+          { "id": "4.2", "title": "Languages" },
+          { "id": "4.3", "title": "30th Century Fox" },
+          { "id": "4.4", "title": "Humor" } 
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Cancellations, syndications, and revivals",
+        "children": [
+          { "id": "5.1", "title": "Fox cancellation" },
+          { "id": "5.2", "title": "Adult Swim reruns" },
+          { "id": "5.3", "title": "Comedy Central revival" },
+          { "id": "5.4", "title": "Comedy Central cancellation" },
+          { "id": "5.5", "title": "Simpsorama" },
+          { "id": "5.6", "title": "Syndication" },
+          { "id": "5.7", "title": "Hulu revival" } 
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Reception",
+        "children": [
+          { "id": "6.1", "title": "Critical response" },
+          { "id": "6.2", "title": "Ratings" },
+          { "id": "6.3", "title": "Accolades" },
+          { "id": "6.4", "title": "Other honors" } 
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Other media",
+        "children": [
+          { "id": "7.1", "title": "Comic books" },
+          { "id": "7.2", "title": "Films" },
+          { "id": "7.3", "title": "Video games" } 
+        ]
+      },
+    ],
+    "infobox": [
+      {
+        "header": "Created by",
+        "data": "Matt Groening",
+        "route": "/people/matt_groening"
+      },
+      {
+        "header": "Episodes",
+        "data": "List of Futurama episodes<",
+        "route": "/futurama/episodes"
+      },
+      {
+        "header": "Characters by",
+        "data": "List of Futurama character",
+        "route": "/futurama/characters"
+      }
+    ],
     "route": "/futurama"
   },
   {
@@ -117,6 +238,7 @@ export const topics = [
     "file": "Pixar",
     "folder": "Pixar",
     "img": "https://1000logos.net/wp-content/uploads/2023/01/Pixar-logo-1536x864.png",
+    "alt": "Pixar logo",
     "route": "/pixar"
   },
   {
@@ -125,6 +247,7 @@ export const topics = [
     "file": "HarryPotterBooks",
     "folder": "HarryPotter",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp/500px-Harry_Potter_%28Bloomsbury_Publishing%29_series_logo.webp.png",
+    "alt": "Harry Potter logo",
     "route": "/hpbooks"
   },
   {
@@ -133,6 +256,7 @@ export const topics = [
     "file": "WizardingWorld",
     "folder": "HarryPotter",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Wizarding_World_logo.svg/500px-Wizarding_World_logo.svg.png",
+    "alt": "Wizarding World logo",
     "route": "/wizardingworld"
   },
   {
@@ -141,6 +265,7 @@ export const topics = [
     "file": "Halo",
     "folder": "Halo",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halo_%28series%29_logo.svg/580px-Halo_%28series%29_logo.svg.png",
+    "alt": "Halo logo",
     "route": "/halo"
   },
   {
@@ -149,6 +274,7 @@ export const topics = [
     "file": "CallofDuty",
     "folder": "CallofDuty",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Call_of_Duty_logo_2023.svg/960px-Call_of_Duty_logo_2023.svg.png",
+    "alt": "Call of Duty logo",
     "route": "/call_of_duty"
   },
   {
@@ -157,6 +283,7 @@ export const topics = [
     "file": "Battlefield",
     "folder": "Battlefield",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BattlefieldLogo.svg/500px-BattlefieldLogo.svg.png",
+    "alt": "Battlefield logo",
     "route": "/battlefield"
   },
   {
@@ -165,6 +292,7 @@ export const topics = [
     "file": "PhineasandFerb",
     "folder": "PhineasandFerb",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/500px-Phineas_and_Ferb_logo.svg.png",
+    "alt": "Phineas and Ferb logo",
     "route": "/phinease_and_ferb"
   },
   {
@@ -173,6 +301,7 @@ export const topics = [
     "file": "GumballSeries",
     "folder": "Gumball",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/The_Amazing_World_of_Gumball_logo.png",
+    "alt": "The Amazing World of Gumball logo",
     "route": "/the_amazing_world_of_gumball"
   },
   {
@@ -181,6 +310,7 @@ export const topics = [
     "file": "RickandMorty",
     "folder": "RickandMorty",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/500px-Rick_and_Morty.svg.png",
+    "alt": "Rick and Morty logo",
     "route": "/rick_and_morty"
   },
   {
@@ -189,6 +319,7 @@ export const topics = [
     "file": "BojackHorsemanSeries",
     "folder": "BojackHorseman",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/500px-BoJack_Horseman_Logo.svg.png",
+    "alt": "Bojack Horseman logo",
     "route": "/bojack_horseman"
   },
   {
@@ -197,6 +328,7 @@ export const topics = [
     "file": "Asoue",
     "folder": "Asoue",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg",
+    "alt": "A Series of Unfortunate Events logo",
     "route": "/a_series_of_unfortunate_events"
   },
   {
@@ -205,6 +337,7 @@ export const topics = [
     "file": "SpidermanFilms",
     "folder": "SpidermanFilms",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Spider-Man-Logo.svg/700px-Spider-Man-Logo.svg.png",
+    "alt": "Spider-Man films logo",
     "route": "/spiderman_films"
   },
   {
@@ -213,6 +346,7 @@ export const topics = [
     "file": "XmenFilms",
     "folder": "XmenFilms",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_X-Men_films.svg/500px-Logo_X-Men_films.svg.png",
+    "alt": "X-Men films logo",
     "route": "/x-men_films"
   },
   {
@@ -221,6 +355,7 @@ export const topics = [
     "file": "JustCause",
     "folder": "JustCause",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Just_Cause_logo.svg/580px-Just_Cause_logo.svg.png",
+    "alt": "Just Cause logo",
     "route": "/just_cause"
   },
   {
@@ -229,6 +364,7 @@ export const topics = [
     "file": "RedDead",
     "folder": "RedDead",
     "img": "https://upload.wikimedia.org/wikipedia/en/2/21/Official_Red_Dead_logo.png",
+    "alt": "Red Dead logo",
     "route": "/red_dead"
   },
   {
@@ -237,6 +373,7 @@ export const topics = [
     "file": "TheSims",
     "folder": "TheSims",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Sims_series_logo.webp/500px-The_Sims_series_logo.webp.png",
+    "alt": "The Sims logo",
     "route": "/the_sims"
   },
   {
@@ -245,6 +382,7 @@ export const topics = [
     "file": "BatmanFilms",
     "folder": "BatmanFilms",
     "img": "https://static.wikia.nocookie.net/batman/images/6/68/Batman_Logo.png",
+    "alt": "Batman films logo",
     "route": "/batman_films"
   },
   {
@@ -253,6 +391,7 @@ export const topics = [
     "file": "BatmanArkham",
     "folder": "BatmanArkham",
     "img": "https://upload.wikimedia.org/wikipedia/en/4/48/Batman_Arkham_series_logo.png",
+    "alt": "Batman Arkham logo",
     "route": "/batman_arkham"
   }
 ]
