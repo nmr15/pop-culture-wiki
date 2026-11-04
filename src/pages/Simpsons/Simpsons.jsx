@@ -1,134 +1,70 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { topics } from '../../data'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
 
 const Simpsons = () =>
 {
+  const page = topics.find((topic) => topic.file == "Simpsons");
+  console.log(page);
+
   useEffect(() =>
   {
-    document.title = "The Simpsons (franchise) - Pop Culture Wiki";
+    document.title = `${page.articleTitle} - Pop Culture Wiki`;
   }, []);
 
   return(
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <Collapse 
-            id="1"
-            item="Background"
-            sub={[
-              {id: "1.1", title: "Creation"},
-              {id: "1.1", title: "Themes"},
-              {id: "1.1", title: "Main characters"}
-            ]}
-          />
-          <Collapse 
-            id="2"
-            item="Television"
-            sub={[
-              {id: "2.1", title: "Shorts on the Tracey Ullman Show"},
-              {id: "2.2", title: "The Simpsons", sub2: [
-                {id: "2.2.1", title: "Crossovers"},
-                {id: "2.2.2", title: "Disney+ shorts"}
-              ]}
-            ]}
-          />
-          <Collapse 
-            id="3"
-            item="Films"
-            sub={[
-              {id: "3.1", title: "Feature films", sub2: [
-                {id: "3.1.1", title: "The Simpsons Movie"},
-                {id: "3.1.2", title: "Upcoming film"}
-              ]},
-              {id: "3.2", title: "Theatrical short films", sub2: [
-                {id: "3.2.1", title: "The Longest Daycare"},
-                {id: "3.2.2", title: "Playdate with Destiny"}
-              ]},
-              {id: "3.3", title: "In other media"},
-            ]}
-          />
-          <Collapse 
-            id="4"
-            item="Print publication"
-            sub={[
-              {id: "4.1", title: "Books", sub2: [
-                {id: "4.1.1", title: "Episode guides"}
-              ]},
-              {id: "4.2", title: "Comic books", sub2: [
-                {id: "4.2.1", title: "Simpsons Illustrated"}
-              ]}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#5">Video games</a></li>
-          <Collapse 
-            id="6"
-            item="Theme park attractions"
-            sub={[
-              {id: "6.1", title: "Universal Studios"},
-              {id: "6.2", title: "Broadway at the Beach"}
-            ]}
-          />
-          <Collapse 
-            id="7"
-            item="Merchandise"
-            sub={[
-              {id: "7.1", title: "Home releases"},
-              {id: "7.2", title: "Music"},
-              {id: "7.3", title: "T-shirts"},
-              {id: "7.4", title: "Action figures", sub2: [
-                {id: "7.4.1", title: "Lego"}
-              ]},
-              {id: "7.5", title: "Board and card games"},
-              {id: "7.6", title: "Other"},
-            ]}
-          />
+          {page.sidebar.map((sidebar) => (
+            sidebar.sub ?
+              <Collapse
+                key={sidebar.id}
+                id={sidebar.id}
+                item={sidebar.title}
+                sub={sidebar.sub}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.id}><a href={sidebar.id}>{sidebar.title}</a></li>
+          ))}
         </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>The Simpsons (franchise)</li>
+          <li>{page.articleTitle}</li>
         </ul>
         <div>
-          <h1 className="article-heading">The Simpsons (franchise)</h1>
+          <h1 className="article-heading">{page.articleTitle}</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>The Simpsons</span>
+                <span>{page.title}</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/220px-The_Simpsons_yellow_logo.svg.png" alt="The Simpsons logo" />
+                  <img src={page.img} alt={page.alt} />
                 </span>
               </td>
             </tr>
-            <tr>
-              <th className="infobox-data">Created by</th>
-              <td className="infobox-data"><Link>Matt Groening</Link></td>
-            </tr>
-             <tr>
-              <th className="infobox-data">Animated series</th>
-              <td className="infobox-data"><Link>The Simpsons (1989 to present)</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Episodes</th>
-              <td className="infobox-data"><Link>List of The Simpsons episodes</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link>List of The Simpsons character</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Film</th>
-              <td className="infobox-data"><Link>The The Simpsons Movie (2007)</Link></td>
-            </tr>
+            {page.infobox.map((info) => (
+              info.route ?
+                <tr>
+                  <th className="infobox-data">{info.header}</th>
+                  <th className="infobox-data"><Link to={info.route}>{info.data}</Link></th>
+                </tr>
+              :
+                <tr>
+                  <th className="infobox-data">{info.header}</th>
+                  <th className="infobox-data">{info.data}</th>
+                </tr>
+            ))}
           </tbody>
         </table>
         <div className="div-top">

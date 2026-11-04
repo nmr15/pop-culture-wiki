@@ -13,10 +13,6 @@ const IronManFilm = () =>
   const res = mcu.find((film) => film.file == "IronManFilm");
   console.log(res);
 
-  const markdownContent = `
-  This is a link to [Iron Man 2](/mcu/iron_man_2).
-  `;
-
   useEffect(() =>
       {
         document.title = `${res.displayTitle} - Pop Culture Wiki`;

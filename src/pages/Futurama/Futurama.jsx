@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { topics } from '../../data'
 import { intro, criticalResponse, ratings } from '../../markdown/futurama/futurama'
 import MarkdownRenderer from '../../components/MarkdownRenderer'
 import Collapse from '../../components/Collapse'
@@ -7,6 +8,9 @@ import Heading2 from '../../components/Heading2'
 
 const Futurama = () =>
 {
+  const page = topics.find((topic) => topic.file == "Futurama");
+  console.log(page)
+
   useEffect(() =>
   {
     document.title = "Futurama - Pop Culture Wiki";
@@ -16,68 +20,17 @@ const Futurama = () =>
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <Collapse 
-            id="1"
-            item="Premise"
-            sub={[
-              {id:"1.1", title: "Characters"},
-              {id:"1.2", title: "Setting"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
-          <Collapse 
-            id="3"
-            item="Production"
-            sub={[
-              {id: "3.1", title: "Development"},
-              {id: "3.2", title: "Writing"},
-              {id: "3.3", title: "Voice actors"},
-              {id: "3.4", title: "Animation"}
-            ]}
-          />
-          <Collapse 
-            id="4"
-            item="Hallmarks"
-            sub={[
-              {id: "4.1", title: "Opening sequence"},
-              {id: "4.2", title: "Languages"},
-              {id: "4.3", title: "30th Century Fox"},
-              {id: "4.4", title: "Humor"}
-            ]}
-          />
-          <Collapse 
-            id="5"
-            item="Cancellations, syndications, and revivals"
-            sub={[
-              {id: "5.1", title: "Fox cancellation"},
-              {id: "5.2", title: "Adult Swim reruns"},
-              {id: "5.3", title: "Comedy Central revival"},
-              {id: "5.4", title: "Comedy Central cancellation"},
-              {id: "5.5", title: "Simpsorama"},
-              {id: "5.6", title: "Syndication"},
-              {id: "5.7", title: "Hulu revival"}
-            ]}
-          />
-          <Collapse 
-            id="6"
-            item="Reception"
-            sub={[
-              {id: "6.1", title: "Critical response"},
-              {id: "6.2", title: "Ratings"},
-              {id: "6.3", title: "Accolades"},
-              {id: "6.4", title: "Other honors"}
-            ]}
-          />
-          <Collapse 
-            id="7"
-            item="Other media"
-            sub={[
-              {id: "7.1", title: "Comic books"},
-              {id: "7.2", title: "Films"},
-              {id: "7.3", title: "Video games"}
-            ]}
-          />
+          {page.sidebar.map((sidebar) => (
+            sidebar.children ?
+              <Collapse
+                key={sidebar.id}
+                id={sidebar.id}
+                item={sidebar.title}
+                sub={sidebar.children}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.id}><a href={sidebar.id}>{sidebar.title}</a></li>
+          ))}
         </ul>
       </aside>
       <main className="main" id="top">

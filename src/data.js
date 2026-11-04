@@ -112,8 +112,58 @@ export const topics = [
     "title": "The Simpsons",
     "file": "Simpsons",
     "folder": "Simpsons",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/220px-The_Simpsons_yellow_logo.svg.png",
+    "articleTitle": "The Simpsons (franchise)",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "alt": "The Simpsons logo",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "1", "title": "Background","sub": [
+        { "id": "1.1", "title": "Creation" },
+        { "id": "1.2", "title": "Themes" },
+        { "id": "1.3", "title": "Main characters" }
+      ]},
+      { "id": "2", "title": "Television", "sub": [
+        { "id": "2.1", "title": "Shorts on the Tracey Ullman Show" },
+        { "id": "2.2", "title": "The Simpsons", "sub2": [
+          { "id": "2.2.1", "title": "Crossovers" },
+          { "id": "2.2.2", "title": "Disney+ shorts" }
+        ] },
+      ]},
+      { "id": "3", "title": "Films", "sub": [
+        { "id": "3.1", "title": "Feature films", "sub2": [
+          { "id": "3.1.1", "title": "The Simpsons Movie" },
+          { "id": "3.1.2", "title": "Upcoming film" }
+        ]},
+        { "id": "3.2", "title": "Theatrical short films", "sub2": [
+          { "id": "3.2.1", "title": "The Longest Daycare" },
+          { "id": "3.2.2", "title": "Playdate with Destiny" }
+        ]},
+        { "id": "3.3", "title": "In other media" },
+      ]},
+      { "id": "4", "title": "Print publication", "sub": [
+        { "id": "4.1", "title": "Books", "sub2": [
+          { "id": "4.1.1", "title": "Episode guides"}
+        ]},
+        { "id": "4.2", "title": "Comic books", "sub2": [
+          { "id": "4.2.1", "title": "Simpsons Illustrated"}
+        ]},
+      ]},
+      { "id": "#5", "title": "Video games" },
+      { "id": "6", "title": "Theme park attractions", "sub": [
+        { "id": "6.1", title: "Universal Studios" },
+        { "id": "6.2", title: "Broadway at the Beach" }
+      ]},
+      { "id": "7", "title": "Merchandise", "sub": [
+        { "id": "7.1", title: "Home releases" },
+        { "id": "7.2", title: "Music" },
+        { "id": "7.3", title: "T-shirts" },
+        { "id": "7.4", title: "Action figures", "sub2": [
+          { "id": "7.4.1", title: "Lego" }
+        ]},
+        { "id": "7.5", title: "Board and card games" },
+        { "id": "7.6", title: "Other" },
+      ]}
+    ],
     "infobox": [
       {
         "header": "Created by",
