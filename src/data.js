@@ -103,8 +103,45 @@ export const topics = [
     "title": "Adventure Time",
     "file": "AdventureTime",
     "folder": "AdventureTime",
+    "articleTitle": "Adventure Time (franchise)",
     "img": "https://1000logos.net/wp-content/uploads/2020/09/Adventure-Time-Logo-1280x800.png",
     "alt": "Adventure Time logo",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "1", "title": "Main characters" },
+      { "id": "2", "title": "Television series", "sub": [
+        { "id": "2.1", "title": "Adventure Time Shorts (2007)" },
+        { "id": "2.2", "title": "Adventure Time (2010-2018)" },
+        { "id": "2.3", "title": "Adventure Time: Distant Lands (2020-2021)" },
+        { "id": "2.4", "title": "Adventure Time: Fionna and Cake (2023-present)" },
+        { "id": "2.5", "title": "Side Quest" },
+        { "id": "2.6", "title": "Heyo BMO" }
+      ]},
+      { "id": "3", "title": "References in other media", "sub": [
+        { "id": "3.1", "title": "Cameo in Futurama" },
+        { "id": "3.2", "title": "Parody in The Simpsons "}
+      ]},
+      { "id": "4", "title": "Comic series" },
+      { "id": "5", "title": "Video games", "sub": [
+        { "id": "5.1", "title": "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! (2012)" },
+        { "id": "5.2", "title": "Adventure Time: Explore the Dungeon Because I Don't Know! (2013)" },
+        { "id": "5.3", "title": "Adventure Time: The Secret of the Nameless Kingdom (2014)" },
+        { "id": "5.4", "title": "Adventure Time: Finn & Jake Investigations (2015)" },
+        { "id": "5.5", "title": "Adventure Time: Pirates of the Enchiridion (2018)" }
+      ]},
+      { "id": "6", "title": "Books", "sub": [
+        { id: "6.1", title: "Epic Tales from Adventure Time (2014-2016)" }
+      ]},
+    ],
+    "infobox": [
+      { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
+      { "header": "Owner", "data": "Cartoon Network", "route": "/companies/cartoon_network"},
+      { "header": "Animated series", "list": [
+        { "data": "Adventure Time", "route": "/adventuretime/adventure_time_(2010 series)" },
+        { "data": "Adventure Time: Distant Lands", "route": "/adventuretime/adventure_time:_distant_lands" },
+        { "data": "Adventure Time: Fionna and Cake", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
+      ]}
+    ],
     "route": "/adventuretime"
   },
   {
