@@ -130,7 +130,13 @@ export const topics = [
         { "id": "5.5", "title": "Adventure Time: Pirates of the Enchiridion (2018)" }
       ]},
       { "id": "6", "title": "Books", "sub": [
-        { id: "6.1", title: "Epic Tales from Adventure Time (2014-2016)" }
+        { "id": "6.1", "title": "Epic Tales from Adventure Time (2014-2016)" }
+      ]},
+      { "id": "7", "title": "Merchandise", "sub": [
+        { "id": "7.1", "title": "Home release" },
+        { "id": "7.2", "title": "Board and card games" },
+        { "id": "7.3", "title": "Lego" },
+        { "id": "7.4", "title": "Other" }
       ]},
     ],
     "infobox": [
