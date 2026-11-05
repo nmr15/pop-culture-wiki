@@ -33,22 +33,22 @@ const AdventureTime = () =>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>Adventure Time (franchise)</li>
+          <li>{page.articleTitle}</li>
         </ul>
         <div>
-          <h1 className="article-heading">Adventure Time (franchise)</h1>
+          <h1 className="article-heading">{page.articleTitle}</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2" className="infobox-heading">
-                <span>Adventure Time</span>
+                <span>{page.title}</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://1000logos.net/wp-content/uploads/2020/09/Adventure-Time-Logo-1280x800.png" alt="Adventure Time logo" />
+                  <img src={page.img} alt={page.alt} />
                 </span>
               </td>
             </tr>

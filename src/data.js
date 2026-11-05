@@ -96,6 +96,39 @@ export const topics = [
     "folder": "GravityFalls",
     "img": "https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png",
     "alt": "Gravity Falls logo",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "1", "title": "Premise" },
+      { "id": "2", "title": "Episodes" },
+      { "id": "3", "title": "Voice cast" },
+      { "id": "4", "title": "Production", "sub": [
+        { "id": "4.1", "title": "Conception" },
+        { "id": "4.2", "title": "Writing" },
+        { "id": "4.3", "title": "Animation" }
+      ]},
+      { "id": "5", "title": "Broadcast", "sub": [
+        { "id": "5.1", "title": "Initial broadcast" },
+        { "id": "5.2", "title": "International broadcast" },
+        { "id": "5.3", "title": "Broadcast edits" }
+      ]},
+      { "id": "6", "title": "Merchandise" [
+        { "id": "6.1", "title": "Home media" },
+        { "id": "6.2", "title": "Books" },
+        { "id": "6.3", "title": "Video game" }
+      ]},
+      { "id": "7", "title": "Reception" [
+        { "id": "7.1", "title": "Critical reception" },
+        { "id": "7.2", "title": "Ratings" },
+        { "id": "7.3", "title": "Influence, legacy, and industry impact" },
+        { "id": "7.4", "title": "Awards and nominations" }
+      ]},
+      { "id": "8", "title": "Future" }
+    ],
+    "infobox": [
+      { "header": "Created by", "data": "Alex Hirsch", "route": "/people/alex_hirsch" },
+      { "header": "Episodes", "data": "List of Gravity Falls episodes", "route": "/gravityfalls/episodes" },
+      { "header": "Characters", "data": "List of Gravity Falls characters", "route": "/gravityfalls/characters" }
+    ],
     "route": "/gravityfalls"
   },
   {
@@ -148,17 +181,6 @@ export const topics = [
         { "data": "Adventure Time: Fionna and Cake\n", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
       ]}
     ],
-    // "infobox": [
-    //   { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
-    //   { "header": "Owners", "data": "Cartoon Network", "route": "/companies/cartoon_network" },
-    //   { "header": "Animated series", 
-    //     "data": [
-    //       { "title": "Adventure Time\n", "route": "/adventuretime/adventure_time_(2010_series)" },
-    //       { "title": "Adventure Time: Distant Lands\n", "route": "/adventuretime/adventure_time:_distant_lands" },
-    //       { "title": "Adventure Time: Fionna and Cake", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
-    //     ]
-    //   },
-    // ],
     "route": "/adventuretime"
   },
   {
@@ -219,31 +241,11 @@ export const topics = [
       ]}
     ],
     "infobox": [
-      {
-        "header": "Created by",
-        "data": "Matt Groening",
-        "route": "/people/matt_groening"
-      },
-      {
-        "header": "Animated series",
-        "data": "The Simpsons",
-        "route": "/simpsons/the_simpsons_(series)"
-      },
-      {
-        "header": "Episodes",
-        "data": "List of The Simpsons episodes<",
-        "route": "/simpsons/episodes"
-      },
-      {
-        "header": "Characters by",
-        "data": "List of The Simpsons character",
-        "route": "/simpsons/characters"
-      },
-      {
-        "header": "Film",
-        "data": "The Simpsons Movie",
-        "route": "/simpsons/the_simpsons_movie"
-      }
+      { "header": "Created by", "data": "Matt Groening", "route": "/people/matt_groening"},
+      { "header": "Animated series", "data": "The Simpsons", "route": "/simpsons/the_simpsons_(series)"},
+      { "header": "Episodes", "data": "List of The Simpsons episodes<", "route": "/simpsons/episodes"},
+      { "header": "Characters by", "data": "List of The Simpsons character","route": "/simpsons/characters"},
+      { "header": "Film", "data": "The Simpsons Movie", "route": "/simpsons/the_simpsons_movie"}
     ],
     "route": "/simpsons"
   },
