@@ -143,28 +143,22 @@ export const topics = [
       { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
       { "header": "Owner", "data": "Cartoon Network", "route": "/companies/cartoon_network"},
       { "header": "Animated series", "list": [
-        { "data": "Adventure Time", "route": "/adventuretime/adventure_time_(2010 series)" },
-        { "data": "Adventure Time: Distant Lands", "route": "/adventuretime/adventure_time:_distant_lands" },
-        { "data": "Adventure Time: Fionna and Cake", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
+        { "data": "Adventure Time\n", "route": "/adventuretime/adventure_time_(2010 series)" },
+        { "data": "Adventure Time: Distant Lands\n", "route": "/adventuretime/adventure_time:_distant_lands" },
+        { "data": "Adventure Time: Fionna and Cake\n", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
       ]}
     ],
-    "infobox": [
-      { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
-      { "header": "Owners", "data": "Cartoon Network", "route": "/companies/cartoon_network" },
-      { "header": "Animated series", 
-        "data": [
-          "Adventure Time",
-          "Adventure Time: Distant Lands",
-          "Adventure Time: Fionna and Cake"
-        ],
-        "route": [
-          "/adventuretime/adventure_time_(2010_series)",
-          "/adcenturetime/adventure_time:_distant_lands",
-          "/adventuretime/adventure_time:_fionna_and_cake"
-        ]
-      },
-        
-    ],
+    // "infobox": [
+    //   { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
+    //   { "header": "Owners", "data": "Cartoon Network", "route": "/companies/cartoon_network" },
+    //   { "header": "Animated series", 
+    //     "data": [
+    //       { "title": "Adventure Time\n", "route": "/adventuretime/adventure_time_(2010_series)" },
+    //       { "title": "Adventure Time: Distant Lands\n", "route": "/adventuretime/adventure_time:_distant_lands" },
+    //       { "title": "Adventure Time: Fionna and Cake", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
+    //     ]
+    //   },
+    // ],
     "route": "/adventuretime"
   },
   {

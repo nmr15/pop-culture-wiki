@@ -57,12 +57,12 @@ const Simpsons = () =>
               info.route ?
                 <tr>
                   <th className="infobox-data">{info.header}</th>
-                  <th className="infobox-data"><Link to={info.route}>{info.data}</Link></th>
+                  <td className="infobox-data"><Link to={info.route}>{info.data}</Link></td>
                 </tr>
               :
                 <tr>
                   <th className="infobox-data">{info.header}</th>
-                  <th className="infobox-data">{info.data}</th>
+                  <td className="infobox-data">{info.data}</td>
                 </tr>
             ))}
           </tbody>

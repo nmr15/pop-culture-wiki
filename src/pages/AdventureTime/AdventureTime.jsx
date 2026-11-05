@@ -1,70 +1,33 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { topics } from '../../data'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
 
 const AdventureTime = () =>
 {
+  const page = topics.find((topic) => topic.file == "AdventureTime");
+
   useEffect(() =>
   {
-    document.title = "Adventure Time (franchise) - Pop Culture Wiki";
+    document.title = `${page.articleTitle} - Pop Culture Wiki`;
   }, []);
 
   return(
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Main characters</a></li>
-          <Collapse 
-            id="2"
-            item="Television series"
-            sub={[
-              {id: "2.1", title: "Adventure Time Shorts (2007)"},
-              {id: "2.2", title: "Adventure Time (2010-2018)"},
-              {id: "2.3", title: "Adventure Time: Distant Lands (2020-2021)"},
-              {id: "2.4", title: "Adventure Time: Fionna and Cake (2023-present)"},
-              {id: "2.5", title: "Side Quest"},
-              {id: "2.6", title: "Heyo BMO"}
-            ]}
-          />
-          <Collapse 
-            id="3"
-            item="References in other media"
-            sub={[
-              {id: "3.1", title: "Cameo in Futurama"},
-              {id: "3.2", title: "Parody in The Simpsons"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#4">Comic series</a></li>
-          <Collapse 
-            id="5"
-            item="Video games"
-            sub={[
-              {id: "5.1", title: "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! (2012)"},
-              {id: "5.2", title: "Adventure Time: Explore the Dungeon Because I Don't Know! (2013)"},
-              {id: "5.3", title: "Adventure Time: The Secret of the Nameless Kingdom (2014)"},
-              {id: "5.4", title: "Adventure Time: Finn & Jake Investigations (2015)"},
-              {id: "5.5", title: "Adventure Time: Pirates of the Enchiridion (2018)"}
-            ]}
-          />
-          <Collapse 
-            id="6"
-            item="Books"
-            sub={[
-              {id: "6.1", title: "Epic Tales from Adventure Time (2014-2016)"}
-            ]}
-          />
-          <Collapse 
-            id="7"
-            item="Merchandise"
-            sub={[
-              {id: "7.1", title: "Home release"},
-              {id: "7.2", title: "Board and card games"},
-              {id: "7.3", title: "Lego"},
-              {id: "7.4", title: "Other"},
-            ]}
-          />
+          {page.sidebar.map((sidebar) => (
+            sidebar.sub ?
+              <Collapse
+                key={sidebar.id}
+                id={sidebar.id}
+                item={sidebar.title}
+                sub={sidebar.sub}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.id}><a href={sidebar.id}>{sidebar.title}</a></li>
+          ))}
         </ul>
       </aside>
       <main className="main" id="top">
@@ -89,22 +52,31 @@ const AdventureTime = () =>
                 </span>
               </td>
             </tr>
-            <tr>
-              <th className="infobox-data">Created by</th>
-              <td className="infobox-data"><Link>Pendleton Ward</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Owners</th>
-              <td className="infobox-data"><Link>Cartoon Network</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Animated series</th>
-              <td className="infobox-data">
-                <Link>Adventure Time</Link> (2010–2018) <br />
-                <Link>Adventure Time: Distant Lands</Link> (2020–2021) <br />
-                <Link>Adventure Time: Fionna and Cake</Link> (2023-present)
-              </td>
-            </tr>
+            {page.infobox.map((info) => (
+              info.route ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data"><Link to={info.route}>{info.data}</Link></td>
+              </tr>
+              :
+              info.list ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">
+                  {info.list.map((list) => (
+                    <>
+                      <Link to={list.route}>{list.data}</Link> <br />
+                    </>
+                  ))}
+                </td>
+              </tr>
+              :
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">{info.data}</td>
+              </tr>
+            ))}
+            
           </tbody>
         </table>
         <div className="div-top">
