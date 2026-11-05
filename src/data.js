@@ -148,6 +148,23 @@ export const topics = [
         { "data": "Adventure Time: Fionna and Cake", "route": "/adventuretime/adventure_time:_fionna_and_cake" }
       ]}
     ],
+    "infobox": [
+      { "header": "Created by", "data": "Pendleton Ward", "route": "/people/pendleton_ward" },
+      { "header": "Owners", "data": "Cartoon Network", "route": "/companies/cartoon_network" },
+      { "header": "Animated series", 
+        "data": [
+          "Adventure Time",
+          "Adventure Time: Distant Lands",
+          "Adventure Time: Fionna and Cake"
+        ],
+        "route": [
+          "/adventuretime/adventure_time_(2010_series)",
+          "/adcenturetime/adventure_time:_distant_lands",
+          "/adventuretime/adventure_time:_fionna_and_cake"
+        ]
+      },
+        
+    ],
     "route": "/adventuretime"
   },
   {
