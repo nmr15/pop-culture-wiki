@@ -28,6 +28,58 @@ series, video games, calendars, clothes, and action figures. In 2013, TV Guide r
 All Time".
 `;
 
+export const characters = `
+Futurama is essentially a workplace sitcom, the plot of which revolves around the Planet Express interplanetary delivery company and its
+employees, a small group that largely fails to conform to future society. Episodes usually feature the central trio of Fry, Leela, and
+Bender, though occasional storylines center on the other main characters.
+`;
+
+export const charactersList = `
+- [Philip J. Fry](/futurama/philip_j_fry) (voiced by [Billy West](/billy_west)): Fry is a slovenly, gullible, yet good-hearted
+and sensitive pizza delivery boy who falls into a cryogenic pod, causing it to activate and freeze him just after midnight on January 1,
+2000. He reawakens on New Year's Eve of 2999 and gets a job as a cargo delivery boy at Planet Express, a company owned by his only living
+relative, <Link>Professor Hubert J. Farnsworth</Link>. Fry's love for Leela is a recurring theme throughout the series.
+- [Turunga Leela](/futurama/turunga_leela) (voiced by <Link to="/katey_segal">Katey Segal</Link>): Leela is the competent,
+one-eyed captain of the Planet Express Ship. Abandoned as a baby, she grows up in the
+<Link to="/futurama/cookieville_minimum_security_orphanarium">C ookieville Minimum Security Orphanarium</Link> believing herself to be an
+alien from another planet, but learns that she is actually a mutant from the sewers in the episode
+"<Link to="/futurama/leela's_homeworld">Leela's Homeworld</Link>". Prior to becoming the ship's captain, Leela works as a career assignment
+officer at the cryogenics lab where she first meets Fry. She is Fry's primary love interest and eventually becomes his wife. Her name is
+a reference to the Turangalîla-Symphonie by Olivier Messiaen.
+- <Link to="/futurama/bender_rodriguez">Bender Bending Rodriguez</Link> (voiced by <Link to="/john_dimaggio">John DiMaggio</Link>): Bender
+is a foul-mouthed, heavy drinking, cigar-smoking, kleptomaniacal, misanthropic, egocentric, ill-tempered robot manufactured by
+<Link to="/futurama/mom's_friendly_robot_company">Mom's Friendly Robot Company</Link>. He is originally programmed to bend girders, and is
+later designated as assisstant sales manager and cook at Planet Express, despire lacking a sense of taste. He is Fry's best friend and
+roommate. He must drink heavily to power his fuel cells and becomes the robot equivalent of drunk when low on alcohol.
+- <Link to="/futurama/professor_farnsowrth">Professor Hubert J. Farnsworth</Link> (voiced by Billy West): Professor Farnsworth, also known
+simply as "the Professor", is Fry's distant nephew, and technically descendant. Farnsworth founds Planet Express Inc. to fund his work as
+a mad scientist. Although he is depicted as a brilliant scientist and inventor, at more than 160 years old (between 10-20 years off from
+death, according to "<Link to="/futurama/the_numberland_gap">The Numberland Gap</Link>") he is extremely prone to age-related forgetfulness
+and fits of temper. In the episode "<Link to="/futurama/a_clone_of_my_own">A Clone of My Own</Link>", the Professor clones himself to
+produce a successor, <Link to="/futurama/cubert_farnsowrth">Cubert Farnsworth</Link> (voicedby <Link to="/kath_soucie">Kath Soucie</Link>),
+whome he treats like a son.
+- <Link to="/futurama/hermes_conrad">Hermes Conrad</Link> (voiced by <Link to="/phil_lamarr">Phil LaMarr</Link>): Hermes is the Jamaican
+accountant of Planet Express. A 36th-level bureaucrat (demoted to level 37 during the series) and proud of it, he is a stickler for
+regulation and enamored of the tedium of paperwork and bureaucracy. Hermes is also a former champion in Olympic Limbo, a sport derived
+from the popular party activity. He gave up limbo after the 2980 Olympics when a young fan, imitating him, broke his back and died.
+Hermes has a wife, <Link to="/futurama/labarbara_conrad">LaBarbara</Link>, and a 12-year-old son,
+<Link to="/futurama/dwight_conrad"> Dwight</Link>.
+- <Link to="/futurama/zoidberg">Dr. John A. Zoidberg</Link> (voiced by Billy West): Zoidberg is a <Link to="/futurama/decapodian">Decapodian</Link>,
+a squid/lobster-hybrid alien from his home planet <Link to="/futurama/decapod_10">Decapod 10</Link>, and the neurotic staff physician of
+Planet Express. Although he claims to be an expert on humans, his knowledge of human anatomy and physiciology is woefully inaccurate (at
+one point, he states that his doctorate degree is actually in art history). Zoidberg's expertise seems to be with extra-terrestrial
+creatures. Homeless and penniless, he lives in the dumpster behind Planet Express. Although Zoidberg is depicted as being Professor
+Farnsworth's long-time friend, he is held in contempt by everyone on the crew.
+- <Link to="/futurama/amy_wong">Amy Wong</Link> (voiced by <Link to="/lauren_tom">Lauren Tom</Link>): Amy is an increidbly rich, blunt,
+ditzy, and accident-prone yet sweet-hearted long-term intern at Planet Express. She is an astrophysics student at
+<Link to="/futurama/mars_university">Mars University</Link> and heiress to the western hemisphere of <Link to="/futurama/mars">Mars</Link>.
+In the second episode of season one, the Professor states that he likes having Amy around because she has the same bloodtype as him. Born
+on Mars, she is ethnically Chinese and is prone to cursing in Cantonese and using 31st-century slang. Her parents are the wealthy ranchers
+<Link to="/futurama/leo_wong">Leo</Link> and <Link to="/futurama/inez_wong">Inez</Link> Wong. She is promiscuous in the beginning of the
+series, but eventually enters a monogamous relationship with <Link to="/futurama/kif_kroker">Kif Kroker</Link>. In the show's sixth season,
+she acquires her doctorate, and in the eighth season, she and Kif become parents.
+`;
+
 export const criticalResponse = `
 The show received critical acclaim. The first season holds an 82% approval rating at review aggregator site
 [Rotten Tomatoes](/websites/rotten_tomatoes), based on 32 reviews, an average rating of 8.75/10. The critical consensus reads,
