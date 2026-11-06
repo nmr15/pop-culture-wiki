@@ -1,92 +1,83 @@
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { topics } from '../../data'
 import Collapse from '../../components/Collapse'
 import Heading2 from '../../components/Heading2'
 import TableGravityFalls from '../../components/TableGravityFalls'
 
 const GravityFalls = () =>
 {
+  const page = topics.find((topic) => topic.file == "GravityFalls");
+
+  useEffect(() =>
+  {
+    document.title = `${page.title} - Pop Culture Wiki`;
+  }, []);
+
   return (
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Premise</a></li>
-          <li className="sidebar-list-item"><a href="#2">Episodes</a></li>
-          <li className="sidebar-list-item"><a href="#3">Voice cast</a></li>
-          <Collapse
-            id="4"
-            item="Production"
-            sub={[
-              { id: "4.1", title: "Conception" },
-              { id: "4.2", title: "Writing" },
-              { id: "4.3", title: "Animation" }
-            ]}
-          />
-          <Collapse
-            id="5"
-            item="Broadcast"
-            sub={[
-              { id: "5.1", title: "Initial broadcast" },
-              { id: "5.2", title: "International broadcast" },
-              { id: "5.3", title: "Broadcast edits" }
-            ]}
-          />
-          <Collapse
-            id="6"
-            item="Merchandise"
-            sub={[
-              { id: "6.1", title: "Home media" },
-              { id: "6.2", title: "Books" },
-              { id: "6.3", title: "Video game" }
-            ]}
-          />
-          <Collapse
-            id="7"
-            item="Reception"
-            sub={[
-              { id: "7.1", title: "Critical reception" },
-              { id: "7.2", title: "Ratings" },
-              { id: "7.3", title: "Influence, legacy, and industry impact" },
-              { id: "7.4", title: "Awards and nominations" },
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#8">Future</a></li>
+          {page.sidebar.map((sidebar) => (
+            sidebar.sub ?
+              <Collapse
+                key={sidebar.id}
+                id={sidebar.id}
+                item={sidebar.title}
+                sub={sidebar.sub}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.id}><a href={sidebar.id}>{sidebar.title}</a></li>
+          ))}
+          
         </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
-          <li>Gravity Falls</li>
+          <li>{page.title}</li>
         </ul>
         <div>
-          <h1 className="article-heading">Gravity Falls</h1>
+          <h1 className="article-heading">{page.title}</h1>
         </div>
         <table className="infobox">
           <tbody>
             <tr>
               <th colspan="2">
-                <span>Gravity Falls</span>
+                <span>{page.title}</span>
               </th>
             </tr>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://1000logos.net/wp-content/uploads/2021/12/Gravity-Falls-Logo-1536x864.png" alt="Gravity Falls logo" />
+                  <img src={page.img} alt={page.alt} />
                 </span>
               </td>
             </tr>
-            <tr>
-              <th className="infobox-data">Created by</th>
-              <td className="infobox-data"><Link>Alex Hirsch</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Episodes</th>
-              <td className="infobox-data"><Link>List of Gravity Falls episodes</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link>List of Gravity Falls character</Link></td>
-            </tr>
+            {page.infobox.map((info) => (
+              info.route ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data"><Link to={info.route}>{info.data}</Link></td>
+              </tr>
+              :
+              info.list ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">
+                  {info.list.map((list) => (
+                    <>
+                      <Link to={list.route}>{list.data}</Link> <br />
+                    </>
+                  ))}
+                </td>
+              </tr>
+              :
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">{info.data}</td>
+              </tr>
+            ))}
           </tbody>
         </table>
         <div className="div-top">

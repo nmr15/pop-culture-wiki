@@ -85,6 +85,90 @@ export const topics = [
     "title": "Assassin's Creed",
     "file": "AssassinsCreed",
     "folder": "AssassinsCreed",
+    "articleTitle": "Assassin's Creed Franchise",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "1", "title": "Development history", "sub": [
+        { "id": "1.1", "title": "Period one" },
+        { "id": "1.2", "title": "Period two" },
+        { "id": "1.3", "title": "Period three" }
+      ]},
+      { "id": "2", "title": "Gameplay" },
+      { "id": "3", "title": "Storyline", "sub": [
+        { "id": "3.1", "title": "Premise" },
+        { "id": "3.2", "title": "Story arcs" }
+      ]},
+      { "id": "4", "title": "Release history", "sub": [
+        { "id": "4.1", "title": "Main series", "sub2": [
+          { "id": "4.1.1", "title": "Assassin's Creed" },
+          { "id": "4.1.2", "title": "Assassin's Creed II" },
+          { "id": "4.1.3", "title": "Assassin's Creed: Brotherhood" },
+          { "id": "4.1.4", "title": "Assassin's Creed Revelations" },
+          { "id": "4.1.5", "title": "Assassin's Creed III" },
+          { "id": "4.1.6", "title": "Assassin's Creed IV: Black Flag" },
+          { "id": "4.1.7", "title": "Assassin's Creed Rogue" },
+          { "id": "4.1.8", "title": "Assassin's Creed Unity" },
+          { "id": "4.1.9", "title": "Assassin's Creed Syndicate" },
+          { "id": "4.1.10", "title": "Assassin's Creed Origins" },
+          { "id": "4.1.11", "title": "Assassin's Creed Odyssey" },
+          { "id": "4.1.12", "title": "Assassin's Creed Valhalla" },
+          { "id": "4.1.13", "title": "Assassin's Creed Mirage" },
+          { "id": "4.1.14", "title": "Assassin's Creed Shadows" }
+        ]},
+        { "id": "4.2", "title": "Spin-offs", "sub2": [
+          { "id": "4.2.1", "title": "Assassin's Creed III: Liberation" },
+          { "id": "4.2.2", "title": "Assassin's Creed: Freedom Cry" },
+          { "id": "4.2.3", "title": "Assassin's Creed Chronicles" },
+          { "id": "4.2.4", "title": "Assassin's Creed Nexus VR" }
+        ]},
+        { "id": "4.3", "title": "Handheld and mobile games", "sub2": [
+          { "id": "4.3.1", "title": "Assassin's Creed: Altaïr's Chronicles" },
+          { "id": "4.3.2", "title": "Assassin's Creed: Bloodlines" },
+          { "id": "4.3.3", "title": "Assassin's Creed II: Discovery" },
+          { "id": "4.3.4", "title": "Assassin's Creed Unity: Arno's Chronicles" },
+          { "id": "4.3.5", "title": "Assassin's Creed Rebellion" }
+        ]},
+        { "id": "4.4", "title": "Cancelled and defunct games", "sub2": [
+          { "id": "4.4.1", "title": "Assassin's Creed: Project Legacy" },
+          { "id": "4.4.2", "title": "Assassin's Creed: Multiplayer Rearmed" },
+          { "id": "4.4.3", "title": "Assassin's Creed: Recollection" },
+          { "id": "4.4.4", "title": "Assassin's Creed: Utopia" },
+          { "id": "4.4.5", "title": "Assassin's Creed: Initiates" },
+          { "id": "4.4.6", "title": "Assassin's Creed: Pirates" },
+          { "id": "4.4.7", "title": "Assassin's Creed: Memories" },
+          { "id": "4.4.8", "title": "Assassin's Creed: Identity" },
+          { "id": "4.4.9", "title": "Project Scarlet" }
+        ]},
+        { "id": "4.5", "title": "Re-release compilations and collections" },
+        { "id": "4.6", "title": "Future games", "sub2": [
+          { "id": "4.6.1", "title": "Assassin's Creed Jade"},
+          { "id": "4.6.2", "title": "Assassin's Creed: Codename Hexe"},
+          { "id": "4.6.3", "title": "Assassin's Creed: Codename Invictus"},
+          { "id": "4.6.4", "title": "Other reported projects"},
+        ]},
+      ]},
+      { "id": "#5", "title": "Animus Hub"},
+      { "id": "6", "title": "Other media", "sub": [
+        { "id": "6.1", "title": "Television" },
+        { "id": "6.2", "title": "Film", "sub2": [
+          { "id": "6.2.1", "title": "Theatrical" },
+          { "id": "6.2.2", "title": "Live-action short film" },
+          { "id": "6.2.3", "title": "Animated short films" }
+        ] },
+        { "id": "6.3", "title": "Print publications" },
+        { "id": "6.4", "title": "Audio drama" },
+        { "id": "6.5", "title": "Board games" },
+        { "id": "6.6", "title": "Concert" },
+        { "id": "6.7", "title": "Apps" }
+      ]},
+      { "id": "#7", "title": "Reception"},
+      { "id": "#8", "title": "Cultural impact"}
+    ],
+    "infobox": [
+      { "header": "Developers", "data": "Ubisoft Montreal", "route": "/companies/ubisoft/ubisoft_montreal" },
+      { "header": "Publisher", "data": "Ubisoft", "route": "/companies/ubisoft" },
+      { "header": "Games", "data": "List of Assassin's Creed games", "route": "/assassinscreed/games" },
+    ],
     "img": "https://1000logos.net/wp-content/uploads/2017/08/Assassins-Creed-Logo-1536x966.png",
     "alt": "Assassin's Creed logo",
     "route": "/assassinscreed"
@@ -111,12 +195,12 @@ export const topics = [
         { "id": "5.2", "title": "International broadcast" },
         { "id": "5.3", "title": "Broadcast edits" }
       ]},
-      { "id": "6", "title": "Merchandise" [
+      { "id": "6", "title": "Merchandise", "sub": [
         { "id": "6.1", "title": "Home media" },
         { "id": "6.2", "title": "Books" },
         { "id": "6.3", "title": "Video game" }
       ]},
-      { "id": "7", "title": "Reception" [
+      { "id": "7", "title": "Reception", "sub": [
         { "id": "7.1", "title": "Critical reception" },
         { "id": "7.2", "title": "Ratings" },
         { "id": "7.3", "title": "Influence, legacy, and industry impact" },
