@@ -35,28 +35,28 @@ Bender, though occasional storylines center on the other main characters.
 `;
 
 export const charactersList = `
-- [Philip J. Fry](/futurama/philip_j_fry) (voiced by [Billy West](/billy_west)): Fry is a slovenly, gullible, yet good-hearted
+- [Philip J. Fry](/futurama/philip_j_fry) (voiced by [Billy West](/people/billy_west)): Fry is a slovenly, gullible, yet good-hearted
 and sensitive pizza delivery boy who falls into a cryogenic pod, causing it to activate and freeze him just after midnight on January 1,
 2000. He reawakens on New Year's Eve of 2999 and gets a job as a cargo delivery boy at Planet Express, a company owned by his only living
-relative, <Link>Professor Hubert J. Farnsworth</Link>. Fry's love for Leela is a recurring theme throughout the series.
-- [Turunga Leela](/futurama/turunga_leela) (voiced by <Link to="/katey_segal">Katey Segal</Link>): Leela is the competent,
+relative, Professor Hubert J. Farnsworth. Fry's love for Leela is a recurring theme throughout the series.
+- [Turunga Leela](/futurama/turunga_leela) (voiced by [Katey Segal](/people/katey_segal): Leela is the competent,
 one-eyed captain of the Planet Express Ship. Abandoned as a baby, she grows up in the
-<Link to="/futurama/cookieville_minimum_security_orphanarium">C ookieville Minimum Security Orphanarium</Link> believing herself to be an
+[Cookieville Minimum Security Orphanarium](/futurama/cookieville_minimum_security_orphanarium) believing herself to be an
 alien from another planet, but learns that she is actually a mutant from the sewers in the episode
-"<Link to="/futurama/leela's_homeworld">Leela's Homeworld</Link>". Prior to becoming the ship's captain, Leela works as a career assignment
+[Leela's Homeworld](/futurama/leela's_homeworld). Prior to becoming the ship's captain, Leela works as a career assignment
 officer at the cryogenics lab where she first meets Fry. She is Fry's primary love interest and eventually becomes his wife. Her name is
 a reference to the Turangalîla-Symphonie by Olivier Messiaen.
-- <Link to="/futurama/bender_rodriguez">Bender Bending Rodriguez</Link> (voiced by <Link to="/john_dimaggio">John DiMaggio</Link>): Bender
+- [Bender Bending Rodriguez](/futurama/bender_rodriguez) (voiced by [John DiMaggio](/people/john_dimaggio): Bender
 is a foul-mouthed, heavy drinking, cigar-smoking, kleptomaniacal, misanthropic, egocentric, ill-tempered robot manufactured by
-<Link to="/futurama/mom's_friendly_robot_company">Mom's Friendly Robot Company</Link>. He is originally programmed to bend girders, and is
+[Mom's Friendly Robot Company](/futurama/mom's_friendly_robot_company). He is originally programmed to bend girders, and is
 later designated as assisstant sales manager and cook at Planet Express, despire lacking a sense of taste. He is Fry's best friend and
 roommate. He must drink heavily to power his fuel cells and becomes the robot equivalent of drunk when low on alcohol.
-- <Link to="/futurama/professor_farnsowrth">Professor Hubert J. Farnsworth</Link> (voiced by Billy West): Professor Farnsworth, also known
+- [Professor Hubert J. Farnsworth](/futurama/professor_farnsowrth) (voiced by Billy West): Professor Farnsworth, also known
 simply as "the Professor", is Fry's distant nephew, and technically descendant. Farnsworth founds Planet Express Inc. to fund his work as
 a mad scientist. Although he is depicted as a brilliant scientist and inventor, at more than 160 years old (between 10-20 years off from
-death, according to "<Link to="/futurama/the_numberland_gap">The Numberland Gap</Link>") he is extremely prone to age-related forgetfulness
-and fits of temper. In the episode "<Link to="/futurama/a_clone_of_my_own">A Clone of My Own</Link>", the Professor clones himself to
-produce a successor, <Link to="/futurama/cubert_farnsowrth">Cubert Farnsworth</Link> (voicedby <Link to="/kath_soucie">Kath Soucie</Link>),
+death, according to [The Numberland Gap](/futurama/the_numberland_gap) he is extremely prone to age-related forgetfulness
+and fits of temper. In the episode [A Clone of My Own](/futurama/a_clone_of_my_own) , the Professor clones himself to
+produce a successor, [Cubert Farnsworth](/futurama/cubert_farnsowrth) (voiced by [Kath Soucie](/people//kath_soucie),
 whome he treats like a son.
 - <Link to="/futurama/hermes_conrad">Hermes Conrad</Link> (voiced by <Link to="/phil_lamarr">Phil LaMarr</Link>): Hermes is the Jamaican
 accountant of Planet Express. A 36th-level bureaucrat (demoted to level 37 during the series) and proud of it, he is a stickler for
