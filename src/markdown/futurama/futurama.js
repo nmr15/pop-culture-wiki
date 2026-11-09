@@ -36,8 +36,8 @@ Bender, though occasional storylines center on the other main characters.
 
 export const charactersList = `
 - [Philip J. Fry](/futurama/philip_j_fry) (voiced by [Billy West](/people/billy_west)): Fry is a slovenly, gullible, yet good-hearted
-and sensitive pizza delivery boy who falls into a cryogenic pod, causing it to activate and freeze him just after midnight on January 1,
-2000. He reawakens on New Year's Eve of 2999 and gets a job as a cargo delivery boy at Planet Express, a company owned by his only living
+and sensitive pizza delivery boy who falls into a cryogenic pod, causing it to activate and freeze him just after midnight on January 1,2000.
+He reawakens on New Year's Eve of 2999 and gets a job as a cargo delivery boy at Planet Express, a company owned by his only living
 relative, Professor Hubert J. Farnsworth. Fry's love for Leela is a recurring theme throughout the series.
 - [Turunga Leela](/futurama/turunga_leela) (voiced by [Katey Segal](/people/katey_segal): Leela is the competent,
 one-eyed captain of the Planet Express Ship. Abandoned as a baby, she grows up in the
@@ -69,13 +69,13 @@ Planet Express. Although he claims to be an expert on humans, his knowledge of h
 one point, he states that his doctorate degree is actually in art history). Zoidberg's expertise seems to be with extra-terrestrial
 creatures. Homeless and penniless, he lives in the dumpster behind Planet Express. Although Zoidberg is depicted as being Professor
 Farnsworth's long-time friend, he is held in contempt by everyone on the crew.
-- [Amy Wong](/futurama/amy_wong) (voiced by <Link to="/lauren_tom">Lauren Tom</Link>): Amy is an increidbly rich, blunt,
+- [Amy Wong](/futurama/amy_wong) (voiced by [Lauren Tom](/person/lauren_tom)): Amy is an increidbly rich, blunt,
 ditzy, and accident-prone yet sweet-hearted long-term intern at Planet Express. She is an astrophysics student at
-<Link to="/futurama/mars_university">Mars University</Link> and heiress to the western hemisphere of <Link to="/futurama/mars">Mars</Link>.
+[Mars University](/futurama/mars_university) and heiress to the western hemisphere of [Mars](/futurama/mars).
 In the second episode of season one, the Professor states that he likes having Amy around because she has the same bloodtype as him. Born
 on Mars, she is ethnically Chinese and is prone to cursing in Cantonese and using 31st-century slang. Her parents are the wealthy ranchers
-<Link to="/futurama/leo_wong">Leo</Link> and <Link to="/futurama/inez_wong">Inez</Link> Wong. She is promiscuous in the beginning of the
-series, but eventually enters a monogamous relationship with <Link to="/futurama/kif_kroker">Kif Kroker</Link>. In the show's sixth season,
+[Leo](/futurama/leo_wong) and [Inez](/futurama/inez_wong) Wong. She is promiscuous in the beginning of the
+series, but eventually enters a monogamous relationship with [Kif Kroker](/futurama/kif_kroker). In the show's sixth season,
 she acquires her doctorate, and in the eighth season, she and Kif become parents.
 `;
 
