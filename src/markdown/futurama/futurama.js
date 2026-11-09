@@ -79,6 +79,50 @@ series, but eventually enters a monogamous relationship with [Kif Kroker](/futur
 she acquires her doctorate, and in the eighth season, she and Kif become parents.
 `;
 
+export const setting = `
+Futurama is set in [New New York](/futurama/new_new_york) at the turn of the 31st century, in a time filled with
+technological wonders. The city of New New York has been built over the ruins of present-day New York City, which has become a catacomb-like
+space that acts as New New York's sewer, referred to as "Old New York". Parts of the sewers are inhabited by
+[mutants](/futurama/mutants). Various devices and architecture are similar to the Populuxe style. Global warming,
+capitalism, inflexible bureaucreacy, and substance abuse are a few of the subjects given a 31st-century exaggeration in a world where the
+problems have become both more extreme and more common. Just as New York has become a more extreme version of itself in the future, other
+Earth locations are given the same treatment; Los Angeles, for example, is depicted as a smog-filled apocalyptic wasteland.
+
+Numerous technological advances have been made between the present day and the 31st century. The
+[Head Musuem](/futurama/head_museum), which keeps a collection of heads alive in jars thanks to technology invented by Ron
+Popeil (who has a guest cameo in [A Big Piece of Garbage](/futurama/a_big_piece_of_garbage)), has resulted in many
+historical figures and current celebrities being present, including Groening himself; this became the writers; device to feature and poke
+fun at contemporary celebrities in the show. Several of the preserved heads shown are those of people who were already dead well before the
+advent of this technology; one of the most prominent examples of this anomaly is former U.S. president
+[Richard Nixon](/futurama/richard_nixon), who died in 1994 and appears in numberous episodes. The Internet, while being
+fully immersive and encompassing all senses, even featuring its own digital world (similar to Tron or The Matrix), is slow and largely
+consists of pornography, pop-up ads, and "filthy" (or Filthy Filthy) chat rooms. Some of it is edited to include educational material
+ostensibly for youth. Television is still a primary of entertainment. Self-aware robots are a common sight, and are the main cause of global
+warming due to the exhaust from their alcohol-powered systems. The wheel is obsolete (no one but Fry even seems to recognize the design),
+having been forgotten and replaced by hover cars and a network of large, clear pneumatic transportation tubes.
+
+Environmentally, common animals still remain, alongside mutated, cross-bred (sometimes with humans) and extraterrestrial animals.
+Ironically, spotted owls are often shown to have replaced rats as common household pests. Although rats still exist, sometimes rats act
+like pigeons, though pigeons still exist, as well. Anchovies have been extinct for 800 years because of the Decapodian. Earth still suffers
+the effects of greenhouse gases, although in <Link to="/futurama/xmas_story">one episode</Link> Leela states that its effects have been
+counteracted by nuclear winter. In another episode, the effects of global warming have been somewhat mitigated by the dropping of a giant
+ice cube into the ocean, and later by pushing Earth farther away from the Sun, which also extends the year by one week.
+
+Religion is a prominent part of society, although the dominant relgions have evolved. A merging of the major religious groups of the 20th
+century has resulted in the First Amalgamated Church, while Voodoo is now mainstream. New religions include Oprahism, Robotology, and the
+banned religion of Star Trek fandom. Religious figures include Father Changstein-El-Gamal, the
+<Link to="/futurama/robot_devil">Robot Devil</Link>, <Link to="/futurama/lionel_preaherbot">Reverend Lionel Preacherbot</Link>, and passing
+references to the Space Pope, who appears to be a large crocodile-like creature. Several major holidays have robots associated with them,
+inluding the murderous Robot Santa, Kwanzaa-bot and (in a couple of appearances) Hanukah Zombie. While very few episodes focus exclusively
+on religion within the Futurama universe, they do cover a wide variety of subjects including predestination, prayer, the nature of salvation,
+and relgious conversion.
+
+Futuram's seting is a backdrop, and the writers are not above committing continuity errors if they serve to further the gags. For example,
+while the <Link to="/futurama/space_pilot_3000">the pilot episode</Link> implies that the previous Planet Express crew was killed by a
+space wasp, the later episode "<Link to="/futurama/the_sting">The Sting</Link> is based on the crew having been killed by space bees
+instead. The "world of tomorrow" setting is used to highlight and lampoon issues of today and to parody the science-fiction genre.
+`;
+
 export const criticalResponse = `
 The show received critical acclaim. The first season holds an 82% approval rating at review aggregator site
 [Rotten Tomatoes](/websites/rotten_tomatoes), based on 32 reviews, an average rating of 8.75/10. The critical consensus reads,

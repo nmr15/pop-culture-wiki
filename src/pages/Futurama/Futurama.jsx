@@ -69,10 +69,10 @@ const Futurama = () =>
             </tr>
           </tbody>
         </table>
-        <div className="div-top">
+        <section className="section-top">
           <MarkdownRenderer content={intro} />
-        </div>
-        <div>
+        </section>
+        <section>
           <Heading2 id={1} title={"Premise"} />
           <div>
             <h3 className="article-heading-3" id="1.1">Characters</h3>
@@ -80,6 +80,7 @@ const Futurama = () =>
             <div className="article-list">
               <MarkdownRenderer content={charactersList} />
             </div>
+
             <h3 className="article-heading-3" id="1.2">Setting</h3>
             <div className="img-right img-card">
               <img 
@@ -136,7 +137,8 @@ const Futurama = () =>
               instead. The "world of tomorrow" setting is used to highlight and lampoon issues of today and to parody the science-fiction genre.
             </p>
           </div>
-        </div>
+        </section>
+
         <div>
           <Heading2 id={2} title={"Episodes"} />
           <div>
