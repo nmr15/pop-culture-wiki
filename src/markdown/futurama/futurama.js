@@ -58,19 +58,18 @@ death, according to [The Numberland Gap](/futurama/the_numberland_gap) he is ext
 and fits of temper. In the episode [A Clone of My Own](/futurama/a_clone_of_my_own) , the Professor clones himself to
 produce a successor, [Cubert Farnsworth](/futurama/cubert_farnsowrth) (voiced by [Kath Soucie](/people//kath_soucie),
 whome he treats like a son.
-- <Link to="/futurama/hermes_conrad">Hermes Conrad</Link> (voiced by <Link to="/phil_lamarr">Phil LaMarr</Link>): Hermes is the Jamaican
+- [Hermes Conrad](/futurama/hermes_conrad) (voiced by [Phil LaMarr](/people/phil_lamarr): Hermes is the Jamaican
 accountant of Planet Express. A 36th-level bureaucrat (demoted to level 37 during the series) and proud of it, he is a stickler for
 regulation and enamored of the tedium of paperwork and bureaucracy. Hermes is also a former champion in Olympic Limbo, a sport derived
 from the popular party activity. He gave up limbo after the 2980 Olympics when a young fan, imitating him, broke his back and died.
-Hermes has a wife, <Link to="/futurama/labarbara_conrad">LaBarbara</Link>, and a 12-year-old son,
-<Link to="/futurama/dwight_conrad"> Dwight</Link>.
-- <Link to="/futurama/zoidberg">Dr. John A. Zoidberg</Link> (voiced by Billy West): Zoidberg is a <Link to="/futurama/decapodian">Decapodian</Link>,
-a squid/lobster-hybrid alien from his home planet <Link to="/futurama/decapod_10">Decapod 10</Link>, and the neurotic staff physician of
+Hermes has a wife, [LaBarbara](/futurama/labarbara_conrad), and a 12-year-old son, [Dwight](/futurama/dwight_conrad).
+- [Dr. John A. Zoidberg](/futurama/zoidberg) (voiced by Billy West): Zoidberg is a [Decapodian](/futurama/decapodian),
+a squid/lobster-hybrid alien from his home planet [Decapod 10](/futurama/decapod_10), and the neurotic staff physician of
 Planet Express. Although he claims to be an expert on humans, his knowledge of human anatomy and physiciology is woefully inaccurate (at
 one point, he states that his doctorate degree is actually in art history). Zoidberg's expertise seems to be with extra-terrestrial
 creatures. Homeless and penniless, he lives in the dumpster behind Planet Express. Although Zoidberg is depicted as being Professor
 Farnsworth's long-time friend, he is held in contempt by everyone on the crew.
-- <Link to="/futurama/amy_wong">Amy Wong</Link> (voiced by <Link to="/lauren_tom">Lauren Tom</Link>): Amy is an increidbly rich, blunt,
+- [Amy Wong](/futurama/amy_wong) (voiced by <Link to="/lauren_tom">Lauren Tom</Link>): Amy is an increidbly rich, blunt,
 ditzy, and accident-prone yet sweet-hearted long-term intern at Planet Express. She is an astrophysics student at
 <Link to="/futurama/mars_university">Mars University</Link> and heiress to the western hemisphere of <Link to="/futurama/mars">Mars</Link>.
 In the second episode of season one, the Professor states that he likes having Amy around because she has the same bloodtype as him. Born
