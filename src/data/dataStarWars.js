@@ -7,6 +7,51 @@ export const starwars = [
     "type": "live-action",
     "setting": "original",
     "img": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+    "alt": "A New Hope poster",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "#1", "title": "Opening crawl" },
+      { "id": "2", "title": "Plot", "sub": [
+        { "id": "2.1", "title": "Assault on Tantive IV" },
+        { "id": "2.2", "title": "Luke's destiny" },
+        { "id": "2.3", "title": "Rescue of the princess" },
+        { "id": "2.4", "title": "Sacrifice and victory" }
+      ]},
+      { "id": "#3", "title": "Cast" },
+      { "id": "4", "title": "Production", "sub": [
+        { "id": "4.1", "title": "Development" },
+        { "id": "4.2", "title": "Writing" },
+        { "id": "4.3", "title": "Casting" },
+        { "id": "4.4", "title": "Design" },
+        { "id": "4.5", "title": "Filming" },
+        { "id": "4.6", "title": "Post-production" }
+      ]},
+      { "id": "#5", "title": "Soundtrack" },
+      { "id": "#6", "title": "Marketing" },
+      { "id": "7", "title": "Release", "sub": [
+        { "id": "7.1", "title": "MPAA rating" },
+        { "id": "7.2", "title": "First public screening" },
+        { "id": "7.3", "title": "Premiere and initial release" },
+        { "id": "7.4", "title": "Box office" }
+      ]},
+      { "id": "8", "title": "Reception", "sub": [
+        { "id": "8.1", "title": "Critical response" },
+        { "id": "8.2", "title": "Accolades" }
+      ]},
+      { "id": "9", "title": "Post-release", "sub": [
+        { "id": "9.1", "title": "Theatrical re-releases", "sub2": [
+          { "id": "9.1.1", "title": "Special Edition" }
+        ]},
+        { "id": "9.2", "title": "Home media" },
+        { "id": "9.3", "title": "Merchandising" }
+      ]},
+      { "id": "#10", "title": "Cinematic and literary allusions" },
+      { "id": "11", "title": "Legacy and influence", "sub": [
+        { "id": "11.1", "title": "In popular culture" },
+        { "id": "11.2", "title": "Cinematic influence" }
+      ]},
+      { "id": "#12", "title": "Sequels, prequels, and adatations" },
+    ],
     "route": "/starwars/a_new_hope"
   },
   {
