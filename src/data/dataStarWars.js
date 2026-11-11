@@ -134,6 +134,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "original",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg",
+    "alt": "Return of the Jedi poster",
     "route": "/starwars/return_of_the_jedi"
   },
   {
@@ -144,6 +145,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg",
+    "alt": "The Phantom Menace poster",
     "route": "/starwars/the_phantom_menace"
   },
   {
@@ -154,6 +156,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_%28movie_poster%29.jpg",
+    "alt": "Attack of the Clones poster",
     "route": "/starwars/attack_of_the_clones"
   },
   {
@@ -164,6 +167,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg",
+    "alt": "Revenge of the Sith poster",
     "route": "/starwars/revenge_of_the_sith"
   },
   {
@@ -174,6 +178,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "sequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+    "alt": "The Force Awakens poster",
     "route": "/starwars/the_force_awakens"
   },
   {
@@ -184,6 +189,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "sequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+    "alt": "The Last Jedi poster",
     "route": "/starwars/the_last_jedi"
   },
   {
@@ -194,6 +200,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "sequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
+    "alt": "The Rise of Skywalker poster",
     "route": "/starwars/the_rise_of_skywalker"
   },
   {
@@ -204,6 +211,7 @@ export const starwars = [
     "type": "animated",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/7/72/Star_wars_the_clone_wars.jpg",
+    "alt": "The Clone Wars poster",
     "route": "/starwars/the_clone_wars_film"
   },
   {
@@ -214,6 +222,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",
+    "alt": "Rogue One poster",
     "route": "/starwars/rogue_one"
   },
   {
@@ -224,6 +233,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Solo_A_Star_Wars_Story_poster.jpg",
+    "alt": "Solo poster",
     "route": "/starwars/solo"
   },
   {
@@ -234,6 +244,7 @@ export const starwars = [
     "type": "animated",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Star_Wars_The_Clone_Wars.svg/640px-Star_Wars_The_Clone_Wars.svg.png",
+    "alt": "The Clone Wars title card",
     "route": "/starwars/the_clone_wars_series"
   },
   {
@@ -244,6 +255,7 @@ export const starwars = [
     "type": "animated",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/16/Star_Wars_Rebels_logo.png",
+    "alt": "Rebels title card",
     "route": "/starwars/rebels_series"
   },
   {
@@ -254,6 +266,7 @@ export const starwars = [
     "type": "animated",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Star_Wars_-_The_Bad_Batch.svg/640px-Star_Wars_-_The_Bad_Batch.svg.png",
+    "alt": "The Bad Batch title card",
     "route": "/starwars/the_bad_batch"
   },
   {
@@ -264,6 +277,7 @@ export const starwars = [
     "type": "animated",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tales_logo.png/640px-Tales_logo.png",
+    "alt": "Tales title card",
     "route": "/starwars/tales_series"
   },
   {
@@ -274,6 +288,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "sequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Mandalorian.svg/500px-The_Mandalorian.svg.png",
+    "alt": "The Mandalorian title card",
     "route": "/starwars/the_mandalorian"
   },
   {
@@ -284,6 +299,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "sequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Book_of_Boba_Fett.svg/640px-The_Book_of_Boba_Fett.svg.png",
+    "alt": "The Book of Boba Fett title card",
     "route": "/starwars/the_book_of_boba_fett"
   },
   {
@@ -294,6 +310,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Obi_Wan_Kenobi_series_logo_simplified.svg/640px-Obi_Wan_Kenobi_series_logo_simplified.svg.png",
+    "alt": "Obi-Wan Kenobi title card",
     "route": "/starwars/obiwan_kenobi_series"
   },
   {
@@ -304,6 +321,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Andor.svg/640px-Andor.svg.png",
+    "alt": "Andor title card",
     "route": "/starwars/andor_series"
   },
   {
@@ -314,6 +332,7 @@ export const starwars = [
     "type": "live-action",
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahsoka.svg/500px-Ahsoka.svg.png",
+    "alt": "Ahsoka title card",
     "route": "/starwars/ahsoka_series"
   }
 ]

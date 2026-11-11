@@ -1,15 +1,38 @@
 export const intro = `
-<b>Star Wars</b> (later retitled <b>Star Wars Episode IV: A New Hope</b>) is a 1977 American epic and space opera film written and directed
+**Star Wars** (later retitled **Star Wars Episode IV: A New Hope**) is a 1977 American epic and space opera film written and directed
 by [George Lucas](/people/george_lucas), produced by [Lucasfilm Ltd.](/companies/lucasfilm), and released by[Twentieth Century Fox](/companies/20th_century_fox).
 It is the first film in the [Star Wars franchise](/starwars)  and the fourth chronological chapter of the [Skywalker Saga](/starwars/skywalker_saga). Set in
 [a fictional galaxy](/starwars/the_galaxy) under the rule of the tyrannical (Galactic Empire)[/starwars/galactic_empire], the film follows a resistance movement,
 called the [Rebel Alliance](/starwars/rebel_alliance), that aims to destroy the Empire's ultimate weapon, the [Death Star](/starwars/death_star). When the rebel
-leader <Link to="/starwars/leia_organa">Princess Leia</Link> is captured by the Galactic Empire,
-<Link to="/starwars/luke_skywalker"> Luke Skywalker</Link> acquires stolen architectural plans for the Death Star and sets out to rescue her
-while learning the ways of a metaphysical power known as "<Link>the Force</Link>" from the <Link>Jedi Master</Link>
-<Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link>. The cast includes <Link>Mark Hamill</Link>, <Link>Harrison Ford</Link>,
-<Link> Carrie Fisher</Link>, <Link>Peter Cushing</Link>, <Link>Alec Guiness</Link>, <Link>Anthony Daniels</Link>, <Link>Kenny Baker</Link>,
-<Link> Peter Mayhew</Link>, <Link>David Prowse</Link>, and <Link>James Earl Jones</Link>.
+leader [Princess Leia](/starwars/leia_organa) is captured by the Galactic Empire, [Luke Skywalker](/starwars/luke_skywalker) acquires stolen architectural
+plans for the Death Star and sets out to rescue her while learning the ways of a metaphysical power known as [the Force](/starwars/the_force) from the
+[Jedi](/starwars/jedi) Master [Obi-Wan Kenobi](/starwars/obi-wan_kenobi). The film stars [Mark Hamill](/people/mark_hamill),
+[Harrison Ford](/people/harrison_ford), [Carrie Fisher](/people/carrie_fisher), [Peter Cushing](/people/peter_cushing),
+[Alec Guinness](/people/alec_guinness), [Anthony Daniels](/people/anthony_daniels), [Kenny Baker](/people/kenny_baker), [Peter Mayhew](/people/peter_mayhew),
+David Prowse, and [James Earl Jones](/people/james_earl_jones).
+
+Lucas had the idea for a science fiction film in the vein of Flash Gordon around the time he completed his first film, THX 1138, and he began working on a
+treatment after completing American Graffiti. After numerous rewrites, principal photography began in March 1976 in locations including Tunisia and Elstree
+Studios in Hertfordshire, England. Lucas formed the visual effects company [Industrial Light & Magic](/companies/industrial_light_&_magic) to help create the
+film's visual effects. Star Wars suffered production difficulties: the cast and crew believed the film would be a failure, and it went $3 million over budget
+due to delays.
+
+Few were confident in the film's box office prospects. It was released in a small number of theaters in the United States on May 25, 1977,
+and quickly became a surprise blockbuster, leading it to being expanded to a much wider release. Star Wars opened to critical acclaim, with
+particular praise for its special effects. It grossed $410 million worldwide during its initial run, surpassing Jaws (1975) to become the
+highest-grossing film until the release of E.T. the Extra-Terrestrial (1982); subsequent releases have brought its total gross to $775
+million. When adjusted for inflation, Star Wars is the second-highest grossing film in North America (behind Gone with the Wind) and the
+fourth-highest grossing film of all time. It received six Academy Awards, two BAFTA awards, and thirteen Saturn Awards, among others. The film
+has been reissued many times with Lucas' support, including the 1981 reissue giving the film the subtitle Episode IV: A New Hope, and the 1997
+"Special Edition". The reissues have contained many changes, including new scenes, visual effects, and dialogue.
+
+Often regarded as one of the greatest and most influential films of all time, Star Wars quickly became a worldwide pop culture phenomenon,
+launching an industry of tie-in products, including novels, comics, video games, amusement park attractions, and merchandise such as toys,
+games, and clothing. It became one of the 25 films selected by the United States Library of Congress for preservation in the National Film
+Registry in 1989, and its soundtrack was added to the U.S. National Recording Registry in 2004.
+[The Empire Strikes Back](/starwars/the_empire_strikes_back) and [Return of the Jedi](/starwars/return_of_the_jedi) followed Star Wars, rounding
+out the [original Star Wars trilogy](/starwars/original_trilogy). A [prequel trilogy](/starwars/prequel_trilogy) and
+[sequel trilogy](/starwars/sequel_trilogy) have since been released in addition to two standalone films and various television series.
 `;
 
 export const postProduction = `
