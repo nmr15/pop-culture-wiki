@@ -122,7 +122,7 @@ const ANewHope = () =>
             </tr>
           </tbody>
         </table>
-        <div className="div-top">
+        <section className="div-top">
           <p>
             <b>Star Wars</b> (later retitled <b>Star Wars Episode IV: A New Hope</b>) is a 1977 American epic and space opera film written and directed
             by <Link>George Lucas</Link>, produced by <Link>Lucasfilm Ltd.</Link>, and released by Twentieth Century Fox. It is the first film in the
@@ -163,13 +163,15 @@ const ANewHope = () =>
             Wars trilogy</Link>. A <Link>prequel trilogy</Link> and <Link>sequel trilogy</Link> have since been released in addition to two
             standalone films and various television series.
           </p>
-        </div>
-        <div>
+        </section>
+        
+        <section>
           <Heading2 id={1} title={"Opening crawl"} />
           <div>
 
           </div>
-        </div>
+        </section>
+        
         <div>
           <Heading2 id={2} title={"Plot"} />
           <div>

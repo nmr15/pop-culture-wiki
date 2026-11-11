@@ -1,3 +1,17 @@
+export const intro = `
+<b>Star Wars</b> (later retitled <b>Star Wars Episode IV: A New Hope</b>) is a 1977 American epic and space opera film written and directed
+by [George Lucas](/people/george_lucas), produced by [Lucasfilm Ltd.](/companies/lucasfilm), and released by[Twentieth Century Fox](/companies/20th_century_fox).
+It is the first film in the [Star Wars franchise](/starwars)  and the fourth chronological chapter of the [Skywalker Saga](/starwars/skywalker_saga). Set in
+[a fictional galaxy](/starwars/the_galaxy) under the rule of the tyrannical (Galactic Empire)[/starwars/galactic_empire], the film follows a resistance movement,
+called the [Rebel Alliance](/starwars/rebel_alliance), that aims to destroy the Empire's ultimate weapon, the [Death Star](/starwars/death_star). When the rebel
+leader <Link to="/starwars/leia_organa">Princess Leia</Link> is captured by the Galactic Empire,
+<Link to="/starwars/luke_skywalker"> Luke Skywalker</Link> acquires stolen architectural plans for the Death Star and sets out to rescue her
+while learning the ways of a metaphysical power known as "<Link>the Force</Link>" from the <Link>Jedi Master</Link>
+<Link to="/starwars/obi_wan_kenobi"> Obi-Wan Kenobi</Link>. The cast includes <Link>Mark Hamill</Link>, <Link>Harrison Ford</Link>,
+<Link> Carrie Fisher</Link>, <Link>Peter Cushing</Link>, <Link>Alec Guiness</Link>, <Link>Anthony Daniels</Link>, <Link>Kenny Baker</Link>,
+<Link> Peter Mayhew</Link>, <Link>David Prowse</Link>, and <Link>James Earl Jones</Link>.
+`;
+
 export const postProduction = `
 Star Wars was originally slated for release on December 25, 1976, but production delays pushed it back to mid-1977. Editor John Jympson began
 cutting the film while Lucas was still filming in Tunisia; as Lucas noted, the editor was in an "impossible position" because Lucas had not
