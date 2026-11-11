@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { postProduction, soundtrack } from '../../../markdown/starwars/films/anewhope.js'
+import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
 import TableStarWars from '../../../components/TableStarWars'
@@ -266,7 +268,8 @@ const ANewHope = () =>
             
           </div>
         </div>
-        <div>
+
+        <section>
           <Heading2 id={4} title={"Production"} />
           <div>
             <h3 className="article-heading-3" id="4.1">Development</h3>
@@ -547,23 +550,17 @@ const ANewHope = () =>
             </p>
             
             <h3 className="article-heading-3" id="4">Post-production</h3>
-            <p>
-              Star Wars was originally slated for release on December 25, 1976, but production delays pushed it back to mid-1977. Editor John Jympson began
-              cutting the film while Lucas was still filming in Tunisia; as Lucas noted, the editor was in an "impossible position" because Lucas had not
-              explained any of the film's material to him. When Lucas viewed Jympson's rough cut, he felt the editor's selection of takes was questionable.
-              He felt Jympson did not fully understand the film nor Lucas' style of filmmaking, and he continued to disapprove of Jympson's editing as time
-              went by. Halfway through production, Lucas fired Jympson and replaced him with Paul Hirsch, Richard Chew, and his then-wife, Marcia Lucas. The
-              new editing team felt Jympson's cut lacked excitement, and they sought to inject more dynamism into the film.
-            </p>
-
+            <MarkdownRenderer content={postProduction} />
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={5} title={"Soundrack"} />
           <div>
-            
+            <MarkdownRenderer content={soundtrack} />
           </div>
-        </div>
+        </section>
+
         <div>
           <Heading2 id={6} title={"Marketing"} />
           <div>
