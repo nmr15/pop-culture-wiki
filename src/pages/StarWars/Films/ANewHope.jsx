@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { starwars } from '../../../data/dataStarWars.js'
 import { postProduction, soundtrack } from '../../../markdown/starwars/films/anewhope.js'
 import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
@@ -8,91 +9,38 @@ import TableStarWars from '../../../components/TableStarWars'
 
 const ANewHope = () =>
 {
+  const page = starwars.find((film) => film.file == "ANewHope");
+
   useEffect(() =>
   {
-    document.title = "Episode IV: A New Hope - Pop Culture Wiki";
+    document.title = `${page.title} - Pop Culture Wiki`;
   }, []);
 
   return(
     <>
       <aside className="sidebar">
         <ul className="sidebar-list">
-          <li className="sidebar-list-item"><a href="#top">Top</a></li>
-          <li className="sidebar-list-item"><a href="#1">Opening crawl</a></li>
-          <Collapse 
-            id="2"
-            item="Plot"
-            sub={[
-              {id: "2.1", title: "Assault on Tantive IV"},
-              {id: "2.2", title: "Luke's destiny"},
-              {id: "2.3", title: "Rescue of the princess"},
-              {id: "2.4", title: "Sacrifice and victory"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#3">Cast</a></li>
-          <Collapse 
-            id="4"
-            item="Production"
-            sub={[
-              {id: "4.1", title: "Development"},
-              {id: "4.2", title: "Writing"},
-              {id: "4.3", title: "Casting"},
-              {id: "4.4", title: "Design"},
-              {id: "4.5", title: "Filming"},
-              {id: "4.6", title: "Post-production"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#5">Soundrack</a></li>
-          <li className="sidebar-list-item"><a href="#6">Marketing</a></li>
-          <Collapse 
-            id="7"
-            item="Release"
-            sub={[
-              {id: "7.1", title: "MPAA rating"},
-              {id: "7.2", title: "First public screening"},
-              {id: "7.3", title: "Premiere and initial release"},
-              {id: "7.4", title: "Box office"}
-            ]}
-          />
-          <Collapse 
-            id="8"
-            item="Reception"
-            sub={[
-              {id: "8.1", title: "Critical response"},
-              {id: "8.2", title: "Accolades"}
-            ]}
-          />
-          <Collapse 
-            id="9"
-            item="Post-release"
-            sub={[
-              {id: "9.1", title: "Theatrical re-releases", sub2: [
-                {id: "9.1.1", title: "Special Edition"}
-              ]},
-              {id: "9.2", title: "Home media"},
-              {id: "9.3", title: "Merchandising"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#10">Cinematic and literary allusions</a></li>
-          <Collapse 
-            id="11"
-            item="Legacy and influence"
-            sub={[
-              {id: "11.1", title: "In popular culture"},
-              {id: "11.2", title: "Cinematic influence"}
-            ]}
-          />
-          <li className="sidebar-list-item"><a href="#12">Sequels, prequels, and adatations</a></li>
+          {page.sidebar.map((sidebar) => (
+            sidebar.sub ?
+              <Collapse
+                key={sidebar.id}
+                id={sidebar.id}
+                item={sidebar.title}
+                sub={sidebar.sub}
+              />
+            :
+              <li className="sidebar-list-item" key={sidebar.id}><a href={sidebar.id}>{sidebar.title}</a></li>
+          ))}
         </ul>
       </aside>
       <main className="main" id="top">
         <ul className="breadcrumb">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/starwars">Star Wars</Link></li>
-          <li>Episode IV: A New Hope</li>
+          <li>{page.title}</li>
         </ul>
         <div>
-          <h1 className="article-heading">Star Wars Episode IV: A New Hope</h1>
+          <h1 className="article-heading">{page.title}</h1>
         </div>
         <table className="infobox">
           <tbody>
@@ -104,22 +52,34 @@ const ANewHope = () =>
             <tr>
               <td colspan="2">
                 <span>
-                  <img src="https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg" alt="Episode IV: A New Hope poster" />
+                  <img src={page.img} alt={page.alt} />
                 </span>
               </td>
             </tr>
-            <tr>
-              <th className="infobox-data">Directed by</th>
-              <td className="infobox-data"><Link>George Lucas</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Films and series</th>
-              <td className="infobox-data"><Link>List of Star Wars films and series</Link></td>
-            </tr>
-            <tr>
-              <th className="infobox-data">Characters</th>
-              <td className="infobox-data"><Link>List of Star Wars characters</Link></td>
-            </tr>
+            {page.infobox.map((info) => (
+              info.route ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data"><Link to={info.route}>{info.data}</Link></td>
+              </tr>
+              :
+              info.list ?
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">
+                  {info.list.map((list) => (
+                    <>
+                      <Link to={list.route}>{list.data}</Link> <br />
+                    </>
+                  ))}
+                </td>
+              </tr>
+              :
+              <tr>
+                <th className="infobox-data">{info.header}</th>
+                <td className="infobox-data">{info.data}</td>
+              </tr>
+            ))}
           </tbody>
         </table>
         <section className="div-top">

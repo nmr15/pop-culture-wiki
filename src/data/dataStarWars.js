@@ -67,6 +67,63 @@ export const starwars = [
     "type": "live-action",
     "setting": "original",
     "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg",
+    "alt": "The Empire Strikes Back poster",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "#1", "title": "Opening crawl" },
+      { "id": "2", "title": "Plot", "sub": [
+        { "id": "2.1", "title": "The search for Skywalker" },
+        { "id": "2.2", "title": "The Battle of Hoth" },
+        { "id": "2.3", "title": "The way of a Jedi" },
+        { "id": "2.4", "title": "The city in the clouds" },
+        { "id": "2.5", "title": "Duel with the Dark Lord and escape from Cloud City" }
+      ]},
+      { "id": "#3", "title": "Cast" },
+      { "id": "4", "title": "Production", "sub": [
+        { "id": "4.1", "title": "Development" },
+        { "id": "4.2", "title": "Writing" },
+        { "id": "4.3", "title": "Rewrite" },
+        { "id": "4.4", "title": "Casting" },
+        { "id": "4.5", "title": "Pre-production" },
+        { "id": "4.6", "title": "Music" }
+      ]},
+      { "id": "5", "title": "Filming", "sub": [
+        { "id": "5.1", "title": "Commencement in Norway" },
+        { "id": "5.2", "title": "Filming at Elstree Studios" },
+        { "id": "5.3", "title": "The duel, Dagobah, and conclusion" },
+        { "id": "5.4", "title": "Post-production" }
+      ]},
+      { "id": "#6", "title": "Special effects and design" },
+      { "id": "7", "title": "Release", "sub": [
+        { "id": "7.1", "title": "Context" },
+        { "id": "7.2", "title": "Credits and title" },
+        { "id": "7.3", "title": "Box office" }
+      ]},
+      { "id": "8", "title": "Reception", "sub": [
+        { "id": "8.1", "title": "Critical response" },
+        { "id": "8.2", "title": "Accolades" }
+      ]},
+      { "id": "9", "title": "Post-release", "sub": [
+        { "id": "9.1", "title": "Special Edition and other changes" },
+        { "id": "9.2", "title": "Home media" },
+        { "id": "9.3", "title": "Other media" }
+      ]},
+      { "id": "10", "title": "Thematic analysis", "sub": [
+        { "id": "10.1", "title": "Mythology and inspiration" },
+        { "id": "10.2", "title": "Religion" },
+        { "id": "10.3", "title": "Duality and evil" },
+      ]},
+      { "id": "11", "title": "Legacy", "sub": [
+        { "id": "11.1", "title": "Critical reassessment" },
+        { "id": "11.2", "title": "Cultural influence" },
+      ]},
+      { "id": "#12", "title": "Sequels, prequels, and adaptations" },
+    ],
+    "infobox": [
+      { "header": "Directed by", "data": "Irvin Kershner", "route": "/people/irvin_kershner" },
+      { "header": "Films and series", "data": "List of Star Wars films and series", "route": "/starwars/films_and_series" },
+      { "header": "Characters", "data": "List of Star Wars characters", "route": "/starwars/characters" }
+    ],
     "route": "/starwars/the_empire_strikes_back"
   },
   {
