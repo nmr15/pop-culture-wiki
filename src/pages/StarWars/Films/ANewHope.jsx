@@ -172,7 +172,7 @@ const ANewHope = () =>
           </div>
         </section>
         
-        <div>
+        <section>
           <Heading2 id={2} title={"Plot"} />
           <div>
             <h3 className="article-heading-3" id="2.1">Assault on Tantive IV</h3>
@@ -263,13 +263,14 @@ const ANewHope = () =>
 
             <h3 className="article-heading-3" id="2.4">Sacrifice and victory</h3>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={3} title={"Cast"} />
           <div>
             
           </div>
-        </div>
+        </section>
 
         <section>
           <Heading2 id={4} title={"Production"} />
@@ -563,13 +564,14 @@ const ANewHope = () =>
           </div>
         </section>
 
-        <div>
+        <section>
           <Heading2 id={6} title={"Marketing"} />
           <div>
             
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={7} title={"Release"} />
           <div>
             <h3 className="article-heading-3" id="7.1">MPAA rating</h3>
@@ -580,16 +582,18 @@ const ANewHope = () =>
 
             <h3 className="article-heading-3" id="7.4">Box office</h3>
           </div>
-        </div>
-        <div>
+        </section>
+
+        <section>
           <Heading2 id={8} title={"Reception"} />
           <div>
             <h3 className="article-heading-3" id="8.1">Critical response</h3>
 
             <h3 className="article-heading-3" id="8.2">Accolades</h3>
           </div>
-        </div>
-        <div>
+        </section>
+        
+        <section>
           <Heading2 id={9} title={"Post-release"} />
           <div>
             <h3 className="article-heading-3" id="9.1">Theatrical re-releases</h3>
@@ -599,26 +603,29 @@ const ANewHope = () =>
 
             <h3 className="article-heading-3" id="9.3">Merchandising</h3>
           </div>
-        </div>
-        <div>
+        </section>
+        
+        <section>
           <Heading2 id={10} title={"Cinematic and literary allusions"} />
           <div>
             
           </div>
-        </div>
-        <div>
+        </section>
+        
+        <section>
           <Heading2 id={11} title={"Legacy and influence"} />
           <div>
             <h3 className="article-heading-3" id="11.1">In popular culture</h3>
             <h3 className="article-heading-3" id="11.1">Cinematic influence</h3>
           </div>
-        </div>
-        <div>
+        </section>
+        
+        <section>
           <Heading2 id={12} title={"Sequels, prequels, and adatations"} />
           <div>
             
           </div>
-        </div>
+        </section>
       </main>
     </>
   )

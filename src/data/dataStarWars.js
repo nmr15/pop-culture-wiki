@@ -52,6 +52,11 @@ export const starwars = [
       ]},
       { "id": "#12", "title": "Sequels, prequels, and adatations" },
     ],
+    "infobox": [
+      { "header": "Directed by", "data": "George Lucas", "route": "/people/george_lucas" },
+      { "header": "Films and series", "data": "List of Star Wars films and series", "route": "/starwars/films_and_series" },
+      { "header": "Characters", "data": "List of Star Wars characters", "route": "/starwars/characters" }
+    ],
     "route": "/starwars/a_new_hope"
   },
   {

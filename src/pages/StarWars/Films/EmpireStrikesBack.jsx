@@ -123,7 +123,7 @@ const EmpireStrikesBack = () =>
             </tr>
           </tbody>
         </table>
-        <div className="div-top">
+        <section className="div-top">
           <p>
             <b>The Empire Strikes Back</b> (also known as <b>Star Wars: Episode V - The Empire Strikes Back</b>) is a 1980 American epic space opera film
             firected by Irvin Kershner from a screenplay by Leigh Brackett and Lawerence Kasdan, based on a story by <Link>George Lucas</Link>. The
@@ -136,7 +136,7 @@ const EmpireStrikesBack = () =>
             <Link> Mark Hamill</Link>, <Link>Harrison Ford</Link>, <Link>Carrie Fisher</Link>, <Link>Billy Dee Williams</Link>, <Link>Anthony
             Daniels</Link>, <Link>David Prowse</Link>, <Link>Kenny Baker</Link>, <Link>Peter Mayhew</Link>, and <Link>Frank Oz</Link>.
           </p>
-        </div>
+        </section>
       </main>
     </>
   )
