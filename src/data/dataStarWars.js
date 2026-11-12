@@ -135,6 +135,39 @@ export const starwars = [
     "setting": "original",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg",
     "alt": "Return of the Jedi poster",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "#1", "title": "Opening crawl" },
+      { "id": "2", "title": "Plot", "sub": [
+        { "id": "2.1", "title": "Vader's arrival to the Death Star" },
+        { "id": "2.2", "title": "Arriving at Jabba's palace" },
+        { "id": "2.3", "title": "Saving Han Solo" },
+        { "id": "2.4", "title": "Luke Skywalker arrives at the palace" },
+        { "id": "2.5", "title": "Skirmish at the Great Pit of Carkoon" },
+        { "id": "2.6", "title": "The Emperor arrives" },
+        { "id": "2.7", "title": "Returning to Dagobah" },
+        { "id": "2.8", "title": "The mission begins" },
+        { "id": "2.9", "title": "Meeting the Emperor" },
+        { "id": "2.10", "title": "The Battle of Endor begins" },
+        { "id": "2.11", "title": "Duel between father and son" },
+        { "id": "2.12", "title": "Anakin's choice" },
+        { "id": "2.13", "title": "Anakin Skywalker's death" },
+        { "id": "2.14", "title": "Knocking out the main reactor" },
+        { "id": "2.15", "title": "The big galaxy Ewok celebration" }
+      ]},
+      { "id": "#3", "title": "Cast" },
+      { "id": "4", "title": "Production", "sub": [
+        { "id": "4.1", "title": "Development" },
+        { "id": "4.2", "title": "Casting" },
+        { "id": "4.3", "title": "Filming" },
+        { "id": "4.4", "title": "Post-production" }
+      ]},
+      { "id": "#5", "title": "Music" },
+      { "id": "6", "title": "Release", "sub": [
+        { "id": "6.1", "title": "Title change" },
+        { "id": "6.2", "title": "Box office" },
+      ]},
+    ],
     "route": "/starwars/return_of_the_jedi"
   },
   {
