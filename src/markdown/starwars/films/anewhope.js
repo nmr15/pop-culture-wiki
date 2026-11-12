@@ -2,7 +2,7 @@ export const intro = `
 **Star Wars** (later retitled **Star Wars Episode IV: A New Hope**) is a 1977 American epic and space opera film written and directed
 by [George Lucas](/people/george_lucas), produced by [Lucasfilm Ltd.](/companies/lucasfilm), and released by[Twentieth Century Fox](/companies/20th_century_fox).
 It is the first film in the [Star Wars franchise](/starwars)  and the fourth chronological chapter of the [Skywalker Saga](/starwars/skywalker_saga). Set in
-[a fictional galaxy](/starwars/the_galaxy) under the rule of the tyrannical (Galactic Empire)[/starwars/galactic_empire], the film follows a resistance movement,
+[a fictional galaxy](/starwars/the_galaxy) under the rule of the tyrannical [Galactic Empire](/starwars/galactic_empire), the film follows a resistance movement,
 called the [Rebel Alliance](/starwars/rebel_alliance), that aims to destroy the Empire's ultimate weapon, the [Death Star](/starwars/death_star). When the rebel
 leader [Princess Leia](/starwars/leia_organa) is captured by the Galactic Empire, [Luke Skywalker](/starwars/luke_skywalker) acquires stolen architectural
 plans for the Death Star and sets out to rescue her while learning the ways of a metaphysical power known as [the Force](/starwars/the_force) from the
