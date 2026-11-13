@@ -20,35 +20,35 @@ export const starwars = [
       { "id": "#3", "title": "Cast" },
       { "id": "4", "title": "Production", "sub": [
         { "id": "development", "title": "Development" },
-        { "id": "4.2", "title": "Writing" },
-        { "id": "4.3", "title": "Casting" },
-        { "id": "4.4", "title": "Design" },
-        { "id": "4.5", "title": "Filming" },
-        { "id": "4.6", "title": "Post-production" }
+        { "id": "writing", "title": "Writing" },
+        { "id": "casting", "title": "Casting" },
+        { "id": "design", "title": "Design" },
+        { "id": "filming", "title": "Filming" },
+        { "id": "post-production", "title": "Post-production" }
       ]},
       { "id": "#5", "title": "Soundtrack" },
       { "id": "#6", "title": "Marketing" },
       { "id": "7", "title": "Release", "sub": [
-        { "id": "7.1", "title": "MPAA rating" },
-        { "id": "7.2", "title": "First public screening" },
-        { "id": "7.3", "title": "Premiere and initial release" },
-        { "id": "7.4", "title": "Box office" }
+        { "id": "mpaa-rating", "title": "MPAA rating" },
+        { "id": "first-public-screening", "title": "First public screening" },
+        { "id": "premiere-and-initial-release", "title": "Premiere and initial release" },
+        { "id": "box-office", "title": "Box office" }
       ]},
       { "id": "8", "title": "Reception", "sub": [
-        { "id": "8.1", "title": "Critical response" },
-        { "id": "8.2", "title": "Accolades" }
+        { "id": "critical-response", "title": "Critical response" },
+        { "id": "accolades", "title": "Accolades" }
       ]},
       { "id": "9", "title": "Post-release", "sub": [
-        { "id": "9.1", "title": "Theatrical re-releases", "sub2": [
-          { "id": "9.1.1", "title": "Special Edition" }
+        { "id": "theatrical-re-releases", "title": "Theatrical re-releases", "sub2": [
+          { "id": "special-edition", "title": "Special Edition" }
         ]},
         { "id": "9.2", "title": "Home media" },
         { "id": "9.3", "title": "Merchandising" }
       ]},
       { "id": "#10", "title": "Cinematic and literary allusions" },
       { "id": "11", "title": "Legacy and influence", "sub": [
-        { "id": "11.1", "title": "In popular culture" },
-        { "id": "11.2", "title": "Cinematic influence" }
+        { "id": "in-popular-culture", "title": "In popular culture" },
+        { "id": "cinematic-influence", "title": "Cinematic influence" }
       ]},
       { "id": "#12", "title": "Sequels, prequels, and adatations" },
     ],
@@ -80,42 +80,42 @@ export const starwars = [
       ]},
       { "id": "#3", "title": "Cast" },
       { "id": "4", "title": "Production", "sub": [
-        { "id": "4.1", "title": "Development" },
-        { "id": "4.2", "title": "Writing" },
-        { "id": "4.3", "title": "Rewrite" },
-        { "id": "4.4", "title": "Casting" },
-        { "id": "4.5", "title": "Pre-production" },
-        { "id": "4.6", "title": "Music" }
+        { "id": "development", "title": "Development" },
+        { "id": "writing", "title": "Writing" },
+        { "id": "rewrite", "title": "Rewrite" },
+        { "id": "casting", "title": "Casting" },
+        { "id": "pre-production", "title": "Pre-production" },
+        { "id": "music", "title": "Music" }
       ]},
       { "id": "5", "title": "Filming", "sub": [
-        { "id": "5.1", "title": "Commencement in Norway" },
-        { "id": "5.2", "title": "Filming at Elstree Studios" },
-        { "id": "5.3", "title": "The duel, Dagobah, and conclusion" },
-        { "id": "5.4", "title": "Post-production" }
+        { "id": "commencement-in-norway", "title": "Commencement in Norway" },
+        { "id": "filming-at-elstree-studios", "title": "Filming at Elstree Studios" },
+        { "id": "the-duel-dagobah-and-conclusion", "title": "The duel, Dagobah, and conclusion" },
+        { "id": "post-production", "title": "Post-production" }
       ]},
       { "id": "#6", "title": "Special effects and design" },
       { "id": "7", "title": "Release", "sub": [
-        { "id": "7.1", "title": "Context" },
-        { "id": "7.2", "title": "Credits and title" },
-        { "id": "7.3", "title": "Box office" }
+        { "id": "context", "title": "Context" },
+        { "id": "credits-and-title", "title": "Credits and title" },
+        { "id": "box-office", "title": "Box office" }
       ]},
       { "id": "8", "title": "Reception", "sub": [
-        { "id": "8.1", "title": "Critical response" },
-        { "id": "8.2", "title": "Accolades" }
+        { "id": "critical-response", "title": "Critical response" },
+        { "id": "accolades", "title": "Accolades" }
       ]},
       { "id": "9", "title": "Post-release", "sub": [
-        { "id": "9.1", "title": "Special Edition and other changes" },
-        { "id": "9.2", "title": "Home media" },
-        { "id": "9.3", "title": "Other media" }
+        { "id": "special-edition-and-other-changes", "title": "Special Edition and other changes" },
+        { "id": "home-media", "title": "Home media" },
+        { "id": "other-media", "title": "Other media" }
       ]},
       { "id": "10", "title": "Thematic analysis", "sub": [
-        { "id": "10.1", "title": "Mythology and inspiration" },
-        { "id": "10.2", "title": "Religion" },
-        { "id": "10.3", "title": "Duality and evil" },
+        { "id": "mythology-and-inspiration", "title": "Mythology and inspiration" },
+        { "id": "religion", "title": "Religion" },
+        { "id": "duality-and-evil", "title": "Duality and evil" }
       ]},
       { "id": "11", "title": "Legacy", "sub": [
-        { "id": "11.1", "title": "Critical reassessment" },
-        { "id": "11.2", "title": "Cultural influence" },
+        { "id": "critical-reassessment", "title": "Critical reassessment" },
+        { "id": "cultural-influence", "title": "Cultural influence" }
       ]},
       { "id": "#12", "title": "Sequels, prequels, and adaptations" },
     ],
@@ -157,15 +157,15 @@ export const starwars = [
       ]},
       { "id": "#3", "title": "Cast" },
       { "id": "4", "title": "Production", "sub": [
-        { "id": "4.1", "title": "Development" },
-        { "id": "4.2", "title": "Casting" },
-        { "id": "4.3", "title": "Filming" },
-        { "id": "4.4", "title": "Post-production" }
+        { "id": "development", "title": "Development" },
+        { "id": "casting", "title": "Casting" },
+        { "id": "filming", "title": "Filming" },
+        { "id": "post-production", "title": "Post-production" }
       ]},
       { "id": "#5", "title": "Music" },
       { "id": "6", "title": "Release", "sub": [
-        { "id": "6.1", "title": "Title change" },
-        { "id": "6.2", "title": "Box office" },
+        { "id": "title-change", "title": "Title change" },
+        { "id": "box-office", "title": "Box office" }
       ]},
     ],
     "route": "/starwars/return_of_the_jedi"

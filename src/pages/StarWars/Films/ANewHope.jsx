@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { starwars } from '../../../data/dataStarWars.js'
-import { intro, openingCrawl, production, soundtrack } from '../../../markdown/starwars/films/anewhope.js'
+import { intro, openingCrawl, production, soundtrack, marketing, postRelease } from '../../../markdown/starwars/films/anewhope.js'
 import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
@@ -233,7 +233,7 @@ const ANewHope = () =>
         <section>
           <Heading2 id={6} title={"Marketing"} />
           <div>
-            
+            <MarkdownRenderer content={marketing} />
           </div>
         </section>
 
@@ -262,7 +262,7 @@ const ANewHope = () =>
         <section>
           <Heading2 id={9} title={"Post-release"} />
           <div>
-            <h3 className="article-heading-3" id="9.1">Theatrical re-releases</h3>
+            <MarkdownRenderer content={postRelease} />
             <h4 className="article-heading-4" id="9.1.1">Special Edition</h4>
 
             <h3 className="article-heading-3" id="9.2">Home media</h3>

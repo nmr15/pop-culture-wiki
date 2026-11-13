@@ -366,4 +366,47 @@ While the film was in production, a logo was commissioned from Dan Perri, a titl
 and Taxi Driver. Perri created a logotype consisting of block-capital letters filled with stars and leaning towards a vanishing
 point. The graphic was designed to follow the perspective as the opening text crawl. Ultimately, Perri's logo was not used for the
 film's opening title sequence, although it was used widely in pre-release print advertising and on cinema marquees.
+
+The logotype eventually selected for on-screen use originated in a promotional brochure that was distributed by Fox to cinema
+owners in 1976. The brochure was designed by Suzy Rice, a young art director at the Los Angeles advertising agency Seiniger
+Advertising. On a visit to ILM in Van Nuys, Rice was instructed by Lucas to produce a "very fascist" logo that would that would
+intimidate the viewer. Rice employed an outlined and modified Helvetica Black typeface in her initial version. After some feedback
+from Lucas, Rice joined the S and T of STAR and R and S of WARS. Kurtz was impressed with Rice's composition and selected it over
+Perri's design for the film's opening title, after flattering the pointed tips of the letter W. ILM artist
+[Joe Johnston](/people/joe_johnston) was responsible for stacking the two words to create the final graphic. The Star Wars logo
+became one of the most recognizable designs in cinema, though Rice was not credited in the film.
+
+For the film's US release, Fox commissioned a promitional poster from the advertising agency Smolen, Smith and Connolly. The
+agency contracted the freelance artist Tom Jung, and gave him the phrase "good over evil" as a starting point. His poster, known
+as Style 'A', depictes Luke standing in a heroic pose, brandishing a shining lightsaber above his head. Leia is slightly below
+him, and a large image of Vader's helmet looms behind them. Some Fox executives considered the poster "too dark" and commissioned
+the Brothers Hidebrandt, a pair of well-knwon fantasy artists, to modify it for the UK release. When Star Wars opened in British
+theaters, the Hildebrandts' Style 'B' poster was used on cinema billboards. Fox and Lucasfilm later decided to promote the film
+with a less stylized and more realistic depiction of the lead character, and commissioned a new design from Tom Chantrell. Two
+months after Star Wars opened, the Hildebrandts' poster was replaced by Chantrell's Style 'C' version in UK cinemas.
+
+Fox gave Star Wars little marketing support beyond licensed T-shirts and posters. The film's marketing director, Charley Lippincott,
+had to look elsewhere for promotional opportunities. He secured deals with Marvel Comics for a comic book adaptation and with Del
+Ray Books for a novelization. A fan of science fiction, Lippincott used his contacts to promote the film at
+[San Diego Comic-Con](/san_diego_comic_con) and elsewhere within the science fiction community.
+`;
+
+export const postRelease = `
+### Theatrical re-releases
+
+Star Wars was re-released theatrically in 1978, 1979, 1981, and 1982. The subtitle Episode IV and A New Hope were added for the 1981
+re-release. This brought the film into line with its 1980 sequel, which was titled on-screen as Star Wars: Episode V - The Empire
+Strikes Back. Lucas claims the subtitles were intended from the beginning, but were dropped for Star Wars to avoid confusing
+audiences. Kurtz said they considered calling the first film Episode III, IV, or V, to capture the experience of encountering a
+Flash Gordon serial halfway through its run. However, Michael Kaminski and Chris Taylor point out that multiple early screenplay
+drafts of Star Wars were subtitled "Episode One" and the early drafts of Empire were called "Episode II."
+
+In 1997, Star Wars was digitally remastered with some altered scenes for a theatrical re-release, dubbed the "Special Edition." In
+2010, Lucas announced that all six previously released Star Wars films would be scanned and transferred to 3D for a theatrical
+release, but only 3D versions of the prequel trilogy were completed before the franchise was sold to Disney in 2012. In 2013, Star
+Wars became the first major motion picture to be dubbed into the Navajo language. In 2025, the film's original print was screened,
+for the first time since its initial theatrical run, at a British Film Institute event.
+
+In honor of Star Wars' 50th anniversary, the film will be re-released to theaters on February 19, 2027. The version shown will be a
+newly restored version of the original theatrical cut from 1977.
 `;
