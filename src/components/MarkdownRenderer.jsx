@@ -26,12 +26,17 @@ const MarkdownRenderer = ({ content }) =>
             {children}
           </a>
         )
-      }
-    }
+      },
 
-    const headings =
-    {
+      h3: ({ node, ...props }) =>
+      (
+        <h3 className="article-heading-3" {...props} />
+      ),
 
+      h4: ({ node, ...props }) =>
+      (
+        <h4 className="article-heading-4" {...props} />
+      ),
     }
 
   return (
