@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 import ReactMarkdown from "react-markdown"
+import rehypeSlug from "rehype-slug"
 
 const MarkdownRenderer = ({ content }) => 
 {
@@ -28,8 +29,13 @@ const MarkdownRenderer = ({ content }) =>
       }
     }
 
+    const headings =
+    {
+
+    }
+
   return (
-    <ReactMarkdown components={components}>
+    <ReactMarkdown components={components} rehypePlugins={[rehypeSlug]}>
       {content}
     </ReactMarkdown>
   )

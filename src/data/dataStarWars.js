@@ -19,7 +19,7 @@ export const starwars = [
       ]},
       { "id": "#3", "title": "Cast" },
       { "id": "4", "title": "Production", "sub": [
-        { "id": "4.1", "title": "Development" },
+        { "id": "development", "title": "Development" },
         { "id": "4.2", "title": "Writing" },
         { "id": "4.3", "title": "Casting" },
         { "id": "4.4", "title": "Design" },

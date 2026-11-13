@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { starwars } from '../../../data/dataStarWars.js'
-import { intro, postProduction, soundtrack } from '../../../markdown/starwars/films/anewhope.js'
+import { intro, openingCrawl, production, postProduction, soundtrack } from '../../../markdown/starwars/films/anewhope.js'
 import MarkdownRenderer from '../../../components/MarkdownRenderer'
 import Collapse from '../../../components/Collapse'
 import Heading2 from '../../../components/Heading2'
@@ -89,7 +89,7 @@ const ANewHope = () =>
         <section>
           <Heading2 id={1} title={"Opening crawl"} />
           <div>
-
+            <MarkdownRenderer content={openingCrawl} />
           </div>
         </section>
         
@@ -196,7 +196,8 @@ const ANewHope = () =>
         <section>
           <Heading2 id={4} title={"Production"} />
           <div>
-            <h3 className="article-heading-3" id="4.1">Development</h3>
+            <MarkdownRenderer content={production} />
+            {/* <h3 className="article-heading-3" id="4.1">Development</h3>
             <div className="img-left img-card">
               <img 
                 src="https://en.wikipedia.org/wiki/File:George_Lucas_1986_(cropped).jpg" 
@@ -244,7 +245,7 @@ const ANewHope = () =>
               Fox deal gave Lucas $150,000 (equivalent to $1,100,000 in 2013) to write and direct the film. In August 1973, American Graffiti
               opened to massive success, which afforded Lucas the necessary leverage to renegotiate the deal and gain control of merchandising
               and sequel rights.
-            </p>
+            </p> */}
 
             <h3 className="article-heading-3" id="4.2">Writing</h3>
             <p>

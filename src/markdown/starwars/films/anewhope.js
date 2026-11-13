@@ -35,6 +35,71 @@ out the [original Star Wars trilogy](/starwars/original_trilogy). A [prequel tri
 [sequel trilogy](/starwars/sequel_trilogy) have since been released in addition to two standalone films and various television series.
 `;
 
+export const openingCrawl = `
+It is a period of civil war.  
+Rebel spaceships, striking  
+from a hidden base, have won  
+their first victory against  
+the evil Galactic Empire.
+
+During the battle, Rebel  
+spies managed to steal secret  
+plans to the Empire's  
+ultimate weapon, the DEATH  
+STAR, an armored space  
+station with enough power  
+to destroy an entire planet.
+
+Pursued by the Empire's  
+sinister agents, Princess  
+Leia races home aboard her  
+starship, custodian of the  
+stolen plans that can save her  
+people and restore  
+freedom to the galaxy....
+`;
+
+export const production = `
+
+### Development
+
+George Lucas had the idea for a space opera prior to 1971. According to Mark Hamill, he wanted to make it before his 1973 coming-of-age film
+American Graffiti. His original plan was to adapt the Flash Gordon space adventure comics and serials into films, having been fascinated
+by them sinc he was young. Lucas attempted to purchase the rights, but they had already been acquired by the producer Dino De Laurentiis.
+Lucas then discovered that Flash Gordon was inspired by the John Carter of Mars book series by Edgar Rice Burroughs, the author of
+Tarzan. Burroughs, in turn, had been influenced by Gulliiver on Mars, a 1905 science fantasy written by Edwin Arnold. Lucas took the
+science fantasy concept and began developing what he would call a "space fantasy".
+
+In May 1971, Lucas persuaded the head of United Artists, David Picker, to take a chance on two of his film ideas: American Graffiti and the
+space opera. Although Lucas signed a two-picture deal, the studio ultimately declined to produce Graffiti. Universal Pictures pickd it up,
+and Lucas spent the next two years making the coming-of-age film, which was immensely successful. In January 1973, he bagan working on the
+space opera full-time. He began the process by inventing odd names for characters and places. By the time the screenplay was finalized he
+had discarded many of the names, but several made it into the final script and later sequels. He used his early notes to compile a
+two-page synopsis titled Journal of the Whills, which chronicled the tale of CJ Thorpe, an apprentice "Jedi-Bendu", who was being trained
+by the legendary Mace Windy. He felt that this story was too difficult to understand, however.
+
+Lucas began writing a 13-page treatment called The Star Wars on April 17, 1973, which had narrative parallels with Akira Kurosawa's 1958
+film The Hidden Fortress. He later explained that Star Wars is not a story about the future, but rather a "fantasy" that has more in
+common with the Brothers Grimm than the 1968 film 2001: A Space Odyssey. He said his motivation for making the film was to give young
+people an "honest, wholesome fantasy life," of the kind his generation had. He hoped it would offer "the romance, the adventure, and
+the fun that used to be in practically every movie".
+
+While impressed with the innocence of the story and the sophistication of Lucas' fictional world. United Artists declined to fund the
+project. Lucas and Gary Kurtz, a producer, then presented the treatment to Universal Pictures, the studio that financed American
+Graffiti. Universal agreed it could be a successful venture, but declines to fund it, citing doubts about Lucas' ability to execute
+his vision. Kurtz claimed the studio's rejection was primarily due to Universal head Lew Wasserman's low opinion of science fiction,
+and the general unpopularity of the genre at the time. Francis Ford Coppola subsequently brought the project to a division of
+Paramount Pictures named the Directors Company he ran with fellow directors Peer Bogdanovich and William Friedkin, but Friedkin
+questioned Lucas' ability to direct the film, and both Friedkin and Bogdanovich declined to finance it. Walt Disney Productions also
+turned down the project.
+
+Star Wars was accepted by Twentieth Centory-Fox in June 1973. The president of the studio, Alan Ladd Jr., did not grasp the
+technical side of the project, but believed in Lucas' talent. Lucas later stated that Ladd invested inh im, not in the film. The
+Fox deal gave Lucas $150,000 (equivalent to $1,100,000 in 2013) to write and direct the film. In August 1973, American Graffiti
+opened to massive success, which afforded Lucas the necessary leverage to renegotiate the deal and gain control of merchandising
+and sequel rights.
+`;
+
 export const postProduction = `
 Star Wars was originally slated for release on December 25, 1976, but production delays pushed it back to mid-1977. Editor John Jympson began
 cutting the film while Lucas was still filming in Tunisia; as Lucas noted, the editor was in an "impossible position" because Lucas had not

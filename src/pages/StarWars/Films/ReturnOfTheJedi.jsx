@@ -103,9 +103,9 @@ const ReturnOfTheJedi = () =>
             </tr>
           </tbody>
         </table>
-        <div className="div-top">
+        <section className="div-top">
           
-        </div>
+        </section>
       </main>
     </>
   )
