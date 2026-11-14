@@ -207,6 +207,30 @@ export const starwars = [
         { "id": "filming", "title": "Filming" },
         { "id": "effects", "title": "Effects" }
       ]},
+      { "id": 5, "title": "Themes and analysis", "sub": [
+        { "id": "cinematic-and-literary-allusions", "title": "Cinematic and literary allusions" },
+        { "id": "dramatic-irony", "title": "Dramatic irony" },
+        { "id": "parallels", "title": "Parallels" }
+      ]},
+      { "id": "#6", "title": "Music" },
+      { "id": 7, "title": "Marketing", "sub": [
+        { "id": "promotion", "title": "Promotion" },
+        { "id": "adaptations", "title": "Adaptations" }
+      ]},
+      { "id": 8, "title": "Release", "sub": [
+        { "id": "theatrical", "title": "Theatrical" },
+        { "id": "home-media", "title": "Home Media" },
+        { "id": "theatrical-re-releases", "title": "Theatrical re-releases" }
+      ]},
+      { "id": 9, "title": "Reception", "sub": [
+        { "id": "critical-response", "title": "Critical response" },
+        { "id": "box-office", "title": "Box office" },
+        { "id": "accolades", "title": "Accolades" }
+      ]},
+      { "id": 10, "title": "Legacy", "sub": [
+        { "id": "sequels", "title": "Sequels" },
+        { "id": "cast-and-crew-response", "title": "Cast and crew response" }
+      ]}
     ],
     "route": "/starwars/the_phantom_menace"
   },
