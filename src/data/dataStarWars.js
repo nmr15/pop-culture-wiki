@@ -167,6 +167,22 @@ export const starwars = [
         { "id": "title-change", "title": "Title change" },
         { "id": "box-office", "title": "Box office" }
       ]},
+      { "id": "7", "title": "Reception", "sub": [
+        { "id": "critical-reception", "title": "Critical reception" },
+        { "id": "accolades", "title": "Accolades" }
+      ]},
+      { "id": "8", "title": "Post-release", "sub": [
+        { "id": "re-releases", "title": "Re-releases" },
+        { "id": "home-media", "title": "Home media"}
+      ]},
+      { "id": "#9", "title": "Legacy" },
+      { "id": 10, "title": "Marketing", "sub": [
+        { "id": "novelization", "title": "Novelization" },
+        { "id": "radio-drama", "title": "Radio drama" },
+        { "id": "comic-book-adaptation", "title": "Comic book adaptation" },
+        { "id": "book-and-record-set", "title": "Book and record set" }
+      ]},
+      { "id": "#11", "title": "Sequels and prequels" }
     ],
     "route": "/starwars/return_of_the_jedi"
   },
@@ -179,6 +195,19 @@ export const starwars = [
     "setting": "prequel",
     "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg",
     "alt": "The Phantom Menace poster",
+    "sidebar": [
+      { "id": "#top", "title": "Top" },
+      { "id": "#1", "title": "Opening crawl" },
+      { "id": "#2", "title": "Plot" },
+      { "id": "#3", "title": "Cast" },
+      { "id": 4, "title": "Production", "sub": [
+        { "id": "development", "title": "Development" },
+        { "id": "pre-production-and-design", "title": "Pre-production and design" },
+        { "id": "casting", "title": "Casting" },
+        { "id": "filming", "title": "Filming" },
+        { "id": "effects", "title": "Effects" }
+      ]},
+    ],
     "route": "/starwars/the_phantom_menace"
   },
   {
